@@ -1,0 +1,9 @@
+.env
+
+#pour commit le sous-dossier "corpus/wikipedia" mais pas les fichiers qu'il contient
+corpus/wikipedia/*
+!corpus/wikipedia/.gitkeep
+
+#pour commit le sous-dossier "corpus/marmiton" mais pas les fichiers qu'il contient
+corpus/marmiton/*
+!corpus/marmiton/.gitkeep
