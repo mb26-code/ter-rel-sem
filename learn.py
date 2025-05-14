@@ -52,11 +52,13 @@ try:
     def bdd(instruction_SQL):
         try:
             cursor.execute(instruction_SQL)
-            if instruction_SQL.strip().lower().startswith("select"):
-                return cursor.fetchall()
-            else:
-                connexion_bdd.commit()
-                return None
+            instruction_minuscules = instruction_SQL.strip().lower()
+            
+            renvoie_resultat = instruction_minuscules.startswith("select") or "returning" in instruction_minuscules
+            resultat = cursor.fetchall() if renvoie_resultat else None
+            
+            connexion_bdd.commit()
+            return resultat
         except Exception as e:
             raise e
     
@@ -69,7 +71,8 @@ try:
 
     nlp = spacy.load("fr_core_news_lg")
     VALEURS_ATTRIBUTS_POS_TOKENS_CANDIDATS = {"ADJ", "NOUN", "NUM", "PROPN", "VERB", "X"}
-    DISTANCE_MAX_COUPLE_TOKENS_CANDIDATS = 5
+    DISTANCE_MAX_PAIRE_TOKENS_CANDIDATS = 3
+    DISTANCE_MAX_PREFIXE_SUFFIXE = 2
 
     URL_API_JDM = "https://jdm-api.demo.lirmm.fr/"
     ENDPOINT_JDM_TYPES_RELATION = "v0/relations_types"
@@ -121,7 +124,7 @@ try:
             instruction_SQL_insertion_types += tuple_SQL_type.format(id_type, nom_type, description_type)
         instruction_SQL_insertion_types = instruction_SQL_insertion_types[:-3] + ";"
         
-        print(instruction_SQL_insertion_types)
+        #print(instruction_SQL_insertion_types)
         bdd(instruction_SQL_insertion_types)
         print(f"Table TYPES_RELATION remplie avec {nombre_types} types de relation.")
     
@@ -138,11 +141,26 @@ try:
             #print_JSON(resultat_JDM)
             return resultat_JDM["relations"]
         else:
-            print(reponse_JDM.text)
+            #print(reponse_JDM.text)
             return None
 
     #print_JSON(JDM_relations_entre_mots("eau", "lait"))
     print()
+
+    modele_expression_patron = "{} [{}] {} [{}] {}"
+    modele_instruction_SQL_existence_patron = """
+    SELECT id FROM PATRONS
+    WHERE prefixe = '{}' AND
+          type_entite1 = '{}' AND
+          infixe = '{}' AND
+          type_entite2 = '{}' AND
+          suffixe = '{}' AND
+          expression_complete = '{}';
+    """
+    modele_instruction_SQL_insertion_patron = """
+    INSERT INTO PATRONS (prefixe, type_entite1, infixe, type_entite2, suffixe, expression_complete) 
+    VALUES ('{}', '{}', '{}', '{}', '{}', '{}') RETURNING id;
+    """
 
     def traiter_document(chemin_fichier_texte):
         
@@ -159,27 +177,68 @@ try:
                     for j in range(i + 1, len(tokens_candidats)):
                         token_candidat_2 = tokens_candidats[j]
 
-                        if abs(token_candidat_1.i - token_candidat_2.i) > DISTANCE_MAX_COUPLE_TOKENS_CANDIDATS:
+                        if abs(token_candidat_1.i - token_candidat_2.i) > DISTANCE_MAX_PAIRE_TOKENS_CANDIDATS:
                             break  #si les mots sont trops éloignés, on arrête d'itérer sur le second token possible
                         
-                        print(f"{token_candidat_1, token_candidat_2} / {token_candidat_1.lemma_, token_candidat_2.lemma_} : ", end = "")
+                        print(f"{token_candidat_1, token_candidat_2} / {token_candidat_1.lemma_, token_candidat_2.lemma_}")
                         #Vérifier si il existe des relations connues par JDM entre les mots candidats
-                        #continuer ici...
                         time.sleep(0.2)
                         relations_candidats = JDM_relations_entre_mots(token_candidat_1.lemma_, token_candidat_2.lemma_)
 
                         if relations_candidats:
-                            print([rel["type"] for rel in relations_candidats])
-                        else:
-                            print("None")
-                        #extraire l'expression du patron rencontré:
-                        
+                            #si il y a des relations connues entre candidats, alors on extrait le patron rencontré
+                            
+                            #valeurs d'attributs POS
+                            pos_candidat_1 = token_candidat_1.pos_
+                            pos_candidat_2 = token_candidat_2.pos_
+
+                            #préfixe = chaîne composée des tokens lemmatisés entre le début de la phrase et token_candidat_1 (exclus)
+                            debut_prefixe = max(0, token_candidat_1.i - phrase.start - DISTANCE_MAX_PREFIXE_SUFFIXE)
+                            tokens_prefixe = phrase[debut_prefixe : token_candidat_1.i - phrase.start]
+                            prefixe = " ".join(token.lemma_ for token in tokens_prefixe).strip()
+
+                            #infixe = chaîne composée des tokens lemmatisés entre les deux candidats
+                            tokens_infixe = phrase[token_candidat_1.i - phrase.start + 1 : token_candidat_2.i - phrase.start]
+                            infixe = " ".join(token.lemma_ for token in tokens_infixe).strip()
+
+                            #suffixe = chaîne composée des tokens lemmatisés après token_candidat_2 jusqu'à la fin de la phrase
+                            fin_suffixe = min(len(phrase) - 1, token_candidat_2.i - phrase.start + 1 + DISTANCE_MAX_PREFIXE_SUFFIXE)
+                            tokens_suffixe = phrase[token_candidat_2.i - phrase.start + 1 : fin_suffixe]
+                            suffixe = " ".join(token.lemma_ for token in tokens_suffixe).strip()
+
+
+                            expression_complete = modele_expression_patron.format(
+                                prefixe, pos_candidat_1, infixe, pos_candidat_2, suffixe
+                            )
+                            print(expression_complete)
+
+                            prefixe_sql = prefixe.replace("'", "''")
+                            infixe_sql = infixe.replace("'", "''")
+                            suffixe_sql = suffixe.replace("'", "''")
+                            expression_complete_sql = expression_complete.replace("'", "''")
+                            
+                            instruction_SQL_existence_patron = modele_instruction_SQL_existence_patron.format(
+                                prefixe_sql, pos_candidat_1, infixe_sql, pos_candidat_2, suffixe_sql, expression_complete_sql
+                            )
+
+                            resultat_existence_patron = bdd(instruction_SQL_existence_patron)
+
+                            if resultat_existence_patron:
+                                id_patron = resultat_existence_patron[0][0]
+                                print(f"Patron déjà existant: id = {id_patron}")
+                            else:
+                                instruction_SQL_insertion_patron = modele_instruction_SQL_insertion_patron.format(
+                                    prefixe_sql, pos_candidat_1, infixe_sql, pos_candidat_2, suffixe_sql, expression_complete_sql
+                                )
+                                #print(instruction_SQL_insertion_patron)
+                                resultat_insertion = bdd(instruction_SQL_insertion_patron)
+                                #print(resultat_insertion)
+                                id_patron = resultat_insertion[0][0]
+                                print(f"Nouveau patron inséré: id = {id_patron}")
+
     
-    traiter_document("./document_test.txt")
-    #traiter_document("./corpus/wikipedia/Akumaki.txt")
-    #Problèmes:
-    #langues étrangères dans les pages wiki...
-    #Souvent, un p
+    #traiter_document("./document_test.txt")
+    traiter_document("./corpus/wikipedia/Poulet au citron.txt")
 
     compteur_documents_corpus = 0
     print(f"Parcours du corpus ({chemin_dossier_corpus}) :")
