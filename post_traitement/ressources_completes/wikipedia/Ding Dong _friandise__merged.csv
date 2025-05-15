@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+gâteau,petit,amod,ADJ,0.605536699295044,[],,
+gâteau,chocolat,nmod,NOUN,0.6268193125724792,"[{""id"": 131041, ""node1"": 2149, ""node2"": 34157, ""type"": 0, ""w"": 264.0}, {""id"": 376998760, ""node1"": 2149, ""node2"": 34157, ""type"": 21, ""w"": 28.0}, {""id"": 264026, ""node1"": 2149, ""node2"": 34157, ""type"": 28, ""w"": 198.0}, {""id"": 14674477, ""node1"": 2149, ""node2"": 34157, ""type"": 42, ""w"": 29.0}, {""id"": 1762443, ""node1"": 2149, ""node2"": 34157, ""type"": 50, ""w"": 38.0}, {""id"": 1762442, ""node1"": 2149, ""node2"": 34157, ""type"": 666, ""w"": 4.0}]",r_associated,264.0
+gâteau,produit,amod,NOUN,0.5829681158065796,"[{""id"": 578484169, ""node1"": 2149, ""node2"": 32667, ""type"": 6, ""w"": 26.0}]",r_isa,26.0
+exception,période,nmod,NOUN,0.4010422229766845,[],,
+injecter,garniture,nsubj:pass,NOUN,0.5665196776390076,[],,
+garniture,crémeux,amod,ADJ,0.616854190826416,[],,
+garniture,blanc,amod,ADJ,0.6177682876586914,[],,
+couche,fin,amod,ADJ,0.4816582202911377,[],,
+couche,glaçage,nmod,NOUN,0.5672518014907837,[],,
+glaçage,chocolat,nmod,NOUN,0.5802883505821228,"[{""id"": 598979166, ""node1"": 103796, ""node2"": 34157, ""type"": 0, ""w"": 32.0}, {""id"": 987837421, ""node1"": 103796, ""node2"": 34157, ""type"": 666, ""w"": 3.0}, {""id"": 7422826, ""node1"": 103796, ""node2"": 34157, ""type"": 777, ""w"": 10.0}]",r_associated,32.0
+couche,recouvrir,acl,VERB,0.4886846542358398,[],,
+recouvrir,gâteau,obj,NOUN,0.6265644431114197,[],,
+carré,papier,nmod,NOUN,0.4786313772201538,"[{""id"": 473660189, ""node1"": 22120, ""node2"": 103389, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+papier,aluminium,nmod,NOUN,0.4900689125061035,"[{""id"": 796957362, ""node1"": 103389, ""node2"": 95561, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+transporter,fondre,advcl,VERB,0.4920531809329986,[],,
+fondre,glaçage,obj,NOUN,0.5882373452186584,[],,
+gâteau,autre,amod,ADJ,0.6130278706550598,[],,
+commencer,gâteau,nsubj,NOUN,0.6220910549163818,[],,
+crème,lancer,acl,VERB,0.6110515594482422,[],,
+mettre,cloche,obj,NOUN,0.4929387271404266,[],,
+cesser,qui,nsubj,PRON,0.4019451141357422,[],,
+cloche,cesser,acl:relcl,VERB,0.4341426789760589,[],,
+mettre,arrêter,advcl,VERB,0.403262585401535,"[{""id"": 12296712, ""node1"": 132366, ""node2"": 28778, ""type"": 0, ""w"": 26.0}, {""id"": 578633, ""node1"": 132366, ""node2"": 28778, ""type"": 5, ""w"": 28.0}]",r_associated,26.0
+production,tout,amod,ADJ,0.5234887599945068,[],,
+arrêter,production,obj,NOUN,0.4264697730541229,"[{""id"": 424821635, ""node1"": 28778, ""node2"": 13444, ""type"": 14, ""w"": 36.0}]",r_patient,36.0
+reprendre,production,nsubj,NOUN,0.4282088279724121,"[{""id"": 552170388, ""node1"": 125780, ""node2"": 13444, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+côte,est,nmod,NOUN,0.4550825357437134,[],,
+fusion,court,amod,ADJ,0.4430038630962372,[],,
+États-Unis,tout,amod,ADJ,0.439762145280838,[],,
+vendre,conserve,advcl,VERB,0.4122926592826843,[],,
+porter,couronne,obj,NOUN,0.4219286441802978,"[{""id"": 914989243, ""node1"": 43404, ""node2"": 144104, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+personnage,autre,amod,ADJ,0.4304899275302887,[],,
+connaître,personnage,nsubj:pass,NOUN,0.4114621579647064,"[{""id"": 478793582, ""node1"": 77428, ""node2"": 10756, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+utiliser,qui,nsubj,PRON,0.4023291170597076,[],,
+région,utiliser,acl:relcl,VERB,0.4562608003616333,[],,

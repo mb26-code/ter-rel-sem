@@ -1,0 +1,102 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+plat,vietnamien,amod,ADJ,0.5899214744567871,[],,
+plat,réaliser,acl,VERB,0.6176847815513611,[],,
+crêpe,faire,acl,VERB,0.634263277053833,"[{""id"": 98284662, ""node1"": 17186, ""node2"": 87528, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+base,farine,nmod,NOUN,0.6549217104911804,[],,
+base,riz,nmod,NOUN,0.6841659545898438,[],,
+faire,plier,advcl,VERB,0.4298771917819977,"[{""id"": 54313731, ""node1"": 87528, ""node2"": 23919, ""type"": 0, ""w"": 29.0}, {""id"": 53732996, ""node1"": 87528, ""node2"": 23919, ""type"": 5, ""w"": 7.0}]",r_associated,29.0
+viande,porc,nmod,NOUN,0.6425091028213501,"[{""id"": 163100, ""node1"": 140100, ""node2"": 71135, ""type"": 0, ""w"": 719.0}, {""id"": 9926333, ""node1"": 140100, ""node2"": 71135, ""type"": 6, ""w"": -20.0}, {""id"": 159577, ""node1"": 140100, ""node2"": 71135, ""type"": 8, ""w"": 174.0}, {""id"": 390246, ""node1"": 140100, ""node2"": 71135, ""type"": 10, ""w"": 70.0}, {""id"": 15173549, ""node1"": 140100, ""node2"": 71135, ""type"": 27, ""w"": 23.0}, {""id"": 376040808, ""node1"": 140100, ""node2"": 71135, ""type"": 51, ""w"": 35.0}, {""id"": 99763096, ""node1"": 140100, ""node2"": 71135, ""type"": 666, ""w"": 6.0}]",r_associated,719.0
+viande,tranche,nmod,NOUN,0.6751658320426941,"[{""id"": 796696815, ""node1"": 140100, ""node2"": 143123, ""type"": 0, ""w"": 21.0}, {""id"": 765218133, ""node1"": 140100, ""node2"": 143123, ""type"": 58, ""w"": 28.0}]",r_quantificateur,28.0
+feuille,moutarde,nmod,NOUN,0.6050088405609131,"[{""id"": 403056373, ""node1"": 37993, ""node2"": 28335, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+feuille,salade,nmod,NOUN,0.6194815635681152,"[{""id"": 614208544, ""node1"": 37993, ""node2"": 118908, ""type"": 0, ""w"": 30.0}, {""id"": 775213406, ""node1"": 37993, ""node2"": 118908, ""type"": 174, ""w"": 25.0}]",r_associated,30.0
+herbe,aromatique,amod,ADJ,0.5011574625968933,"[{""id"": 374762, ""node1"": 138874, ""node2"": 67664, ""type"": 17, ""w"": 83.0}, {""id"": 653275255, ""node1"": 138874, ""node2"": 67664, ""type"": 666, ""w"": 9.0}]",r_carac,83.0
+manger,avoir,advcl,VERB,0.5006527900695801,[],,
+avoir,variante,obj,NOUN,0.4087111353874206,[],,
+ajout,lait,nmod,NOUN,0.5583478212356567,[],,
+lait,coco,nmod,ADV,0.5848121643066406,"[{""id"": 796793155, ""node1"": 86296, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+ajout,pâte,nmod,NOUN,0.636731743812561,[],,
+farce,porc,nmod,NOUN,0.6497766375541687,[],,
+crevette,poivre,acl,NOUN,0.6656677722930908,[],,
+carotte,coco,nmod,ADV,0.5910997986793518,[],,
+avoir,pâte,obj,NOUN,0.6423627734184265,[],,
+pâte,épais,amod,ADJ,0.6270112991333008,"[{""id"": 96931429, ""node1"": 34069, ""node2"": 55342, ""type"": 17, ""w"": 23.0}]",r_carac,23.0
+son,cuisson,nmod,NOUN,0.6126095056533813,[],,
+tremper,riz,nsubj:pass,NOUN,0.6831400990486145,[],,
+eau,heure,nmod,NOUN,0.5476787686347961,[],,
+pâte,fluide,amod,ADJ,0.6204095482826233,[],,
+peu,sucre,nmod,NOUN,0.6182363033294678,[],,
+ajouter,pincée,nsubj:pass,NOUN,0.4964291453361511,[],,
+pincée,sel,nmod,NOUN,0.6516760587692261,"[{""id"": 665112730, ""node1"": 122023, ""node2"": 13260, ""type"": 174, ""w"": 40.0}, {""id"": 990072491, ""node1"": 122023, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]",r_quantificateur-1,40.0
+pincée,lait,nmod,NOUN,0.6220717430114746,[],,
+lait,safran,nmod,NOUN,0.6059953570365906,[],,
+safran,poudre,nmod,NOUN,0.6013703346252441,"[{""id"": 97130853, ""node1"": 84746, ""node2"": 139470, ""type"": 0, ""w"": 37.0}]",r_associated,37.0
+jaune,œuf,nmod,NOUN,0.529880940914154,"[{""id"": 558764775, ""node1"": 86711, ""node2"": 174124, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+huile,végétal,amod,ADJ,0.6245469450950623,"[{""id"": 669880751, ""node1"": 141971, ""node2"": 136507, ""type"": 0, ""w"": 25.0}]",r_associated,25.0
+graisse,porc,nmod,NOUN,0.634223222732544,"[{""id"": 576940991, ""node1"": 124071, ""node2"": 71135, ""type"": 0, ""w"": 40.0}, {""id"": 110913553, ""node1"": 124071, ""node2"": 71135, ""type"": 777, ""w"": 10.0}]",r_associated,40.0
+verser,préparation,nsubj:pass,NOUN,0.5398752093315125,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+poêle,chauffer,acl,VERB,0.6502007246017456,[],,
+forme,crêpe,nmod,NOUN,0.5871489644050598,[],,
+son,pâte,nmod,NOUN,0.6361114978790283,[],,
+son,contact,nmod,NOUN,0.4226792454719543,[],,
+contact,huile,nmod,NOUN,0.5773429274559021,[],,
+huile,chaud,amod,ADJ,0.6536707878112793,"[{""id"": 669874570, ""node1"": 141971, ""node2"": 19150, ""type"": 0, ""w"": 21.0}, {""id"": 24929996, ""node1"": 141971, ""node2"": 19150, ""type"": 17, ""w"": 76.0}]",r_carac,76.0
+compléter,crêpe,obj,NOUN,0.5868949294090271,[],,
+pousse,graine,nmod,NOUN,0.4740010499954223,"[{""id"": 919945752, ""node1"": 145195, ""node2"": 14469, ""type"": 0, ""w"": 22.0}, {""id"": 76633064, ""node1"": 145195, ""node2"": 14469, ""type"": 109, ""w"": 34.0}]",r_has_predecesseur-time,34.0
+graine,haricot,nmod,NOUN,0.5279520750045776,[],,
+ajouter,morceau,obj,NOUN,0.5569719076156616,[],,
+morceau,poitrine,nmod,NOUN,0.5447506904602051,[],,
+poitrine,porc,nmod,NOUN,0.5715038180351257,[],,
+faire,cuisson,nsubj,NOUN,0.7496538162231445,[],,
+fin,cuisson,nmod,NOUN,0.5985943078994751,[],,
+pouvoir,goutte,nsubj,NOUN,0.4820927083492279,[],,
+goutte,huile,nmod,NOUN,0.5712645649909973,[],,
+goutte,végétal,amod,ADJ,0.5739201307296753,[],,
+consommer,plat,nsubj:pass,NOUN,0.6571562886238098,"[{""id"": 97862751, ""node1"": 97571, ""node2"": 36327, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+plat,traditionnel,amod,ADJ,0.6021727323532104,"[{""id"": 93507621, ""node1"": 36327, ""node2"": 41139, ""type"": 17, ""w"": 35.0}]",r_carac,35.0
+feuille,menthe,nmod,NOUN,0.5538927316665649,"[{""id"": 29327658, ""node1"": 37993, ""node2"": 97057, ""type"": 0, ""w"": 30.0}, {""id"": 9980624, ""node1"": 37993, ""node2"": 97057, ""type"": 10, ""w"": 34.0}]",r_holo,34.0
+plat,autre,amod,ADJ,0.6218559145927429,[],,
+plat,tel,amod,ADJ,0.5686100721359253,[],,
+manger,crêpe,nsubj:pass,NOUN,0.6489148736000061,"[{""id"": 371561928, ""node1"": 130164, ""node2"": 17186, ""type"": 0, ""w"": 31.0}, {""id"": 98317249, ""node1"": 130164, ""node2"": 17186, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+manger,tremper,advcl,VERB,0.6185899376869202,"[{""id"": 560952436, ""node1"": 130164, ""node2"": 119858, ""type"": 0, ""w"": 35.0}]",r_associated,35.0
+manger,préparer,advcl,VERB,0.5892574787139893,"[{""id"": 558710441, ""node1"": 130164, ""node2"": 36246, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+doux,accompagner,acl,VERB,0.4400363564491272,[],,
+pouvoir,plat,nsubj,NOUN,0.6014189124107361,[],,
+delta,tout,amod,ADJ,0.4233105778694153,[],,
+crêpe,petit,amod,ADJ,0.639009416103363,[],,
+identique,préparation,nsubj,NOUN,0.4947698414325714,[],,
+préparation,pâte,nmod,NOUN,0.6519375443458557,"[{""id"": 920490588, ""node1"": 33634, ""node2"": 34069, ""type"": 0, ""w"": 20.0}, {""id"": 246257612, ""node1"": 33634, ""node2"": 34069, ""type"": 8, ""w"": 43.0}]",r_hypo,43.0
+différer,ingrédient,nsubj,NOUN,0.5340187549591064,[],,
+crevette,petit,amod,ADJ,0.5902603268623352,[],,
+utiliser,crevette,nsubj:pass,NOUN,0.5886055827140808,[],,
+remplacer,poitrine,obj,NOUN,0.4505192935466766,[],,
+plat,ce,nsubj,PRON,0.418347030878067,[],,
+plat,consommer,acl,VERB,0.6571562886238098,"[{""id"": 96713033, ""node1"": 36327, ""node2"": 97571, ""type"": 26, ""w"": 38.0}]",r_patient-1,38.0
+restaurant,routier,amod,ADJ,0.4209263026714325,"[{""id"": 12344222, ""node1"": 79954, ""node2"": 52706, ""type"": 0, ""w"": 29.0}, {""id"": 12318808, ""node1"": 79954, ""node2"": 52706, ""type"": 5, ""w"": 27.0}, {""id"": 581096289, ""node1"": 79954, ""node2"": 52706, ""type"": 6, ""w"": -5.0}, {""id"": 243410230, ""node1"": 79954, ""node2"": 52706, ""type"": 8, ""w"": 32.0}, {""id"": 246125, ""node1"": 79954, ""node2"": 52706, ""type"": 17, ""w"": 51.0}, {""id"": 619045534, ""node1"": 79954, ""node2"": 52706, ""type"": 27, ""w"": 26.0}, {""id"": 11346614, ""node1"": 79954, ""node2"": 52706, ""type"": 28, ""w"": 38.0}]",r_carac,51.0
+restaurant,spécialiser,acl,VERB,0.455612450838089,[],,
+région,côtier,amod,ADJ,0.4038482904434204,[],,
+type,sauce,nmod,NOUN,0.6670159101486206,[],,
+sauce,épaisse,nmod,NOUN,0.6524922847747803,"[{""id"": 496324406, ""node1"": 141110, ""node2"": 154650, ""type"": 17, ""w"": 41.0}]",r_carac,41.0
+sauce,un,nmod,PRON,0.4083506464958191,[],,
+sauce,poisson,nmod,NOUN,0.7546889781951904,"[{""id"": 651264131, ""node1"": 141110, ""node2"": 68467, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+poisson,mijoter,acl,VERB,0.7466307878494263,"[{""id"": 539975528, ""node1"": 68467, ""node2"": 24589, ""type"": 25, ""w"": -25.0}]",r_instr-1,-25.0
+constituer,petit-déjeuner,obj,NOUN,0.4754175245761871,[],,
+petit-déjeuner,populaire,amod,ADJ,0.4652860462665558,[],,
+garnir,lui,nsubj:pass,PRON,0.4610372185707092,[],,
+porte,garnir,advcl,VERB,0.48401939868927,[],,
+servir,mélanger,advcl,VERB,0.5537945032119751,[],,
+poisson,sauce,amod,NOUN,0.7546889781951904,"[{""id"": 423999116, ""node1"": 68467, ""node2"": 141110, ""type"": 0, ""w"": 4.0}]",r_associated,4.0
+comporte,champignon,obj,NOUN,0.5127039551734924,[],,
+variante,autre,amod,ADJ,0.4363415837287903,[],,
+crêpe,presser,acl,VERB,0.6006007194519043,[],,
+aide,poêle,nmod,NOUN,0.6121617555618286,[],,
+presser,boulette,nsubj:pass,NOUN,0.5241612195968628,[],,
+boulette,riz,nmod,NOUN,0.6672343611717224,"[{""id"": 561335315, ""node1"": 112360, ""node2"": 24372, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+boulette,mélanger,acl,VERB,0.6139858961105347,[],,
+ajouter,ingrédient,nsubj:pass,NOUN,0.5776577591896057,"[{""id"": 9084112, ""node1"": 25099, ""node2"": 123418, ""type"": 0, ""w"": 56.0}, {""id"": 428901945, ""node1"": 25099, ""node2"": 123418, ""type"": 14, ""w"": 100.0}, {""id"": 9084083, ""node1"": 25099, ""node2"": 123418, ""type"": 35, ""w"": 48.0}]",r_patient,100.0
+ingrédient,habituel,amod,ADJ,0.5689744353294373,[],,
+pression,second,amod,ADJ,0.4144012033939361,[],,
+exister,variété,obj,NOUN,0.421244204044342,[],,
+ingrédient,dont,nmod,PRON,0.493603378534317,[],,
+varier,ingrédient,nsubj,NOUN,0.5506758689880371,[],,
+variété,varier,acl:relcl,VERB,0.4550358951091766,[],,
+spécialité,régional,amod,ADJ,0.4149852991104126,[],,

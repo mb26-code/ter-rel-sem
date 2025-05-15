@@ -1,0 +1,75 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,cuisine,obj,NOUN,0.6019042730331421,[],,
+gâteau,chocolat,nmod,NOUN,0.6268193125724792,"[{""id"": 131041, ""node1"": 2149, ""node2"": 34157, ""type"": 0, ""w"": 264.0}, {""id"": 376998760, ""node1"": 2149, ""node2"": 34157, ""type"": 21, ""w"": 28.0}, {""id"": 264026, ""node1"": 2149, ""node2"": 34157, ""type"": 28, ""w"": 198.0}, {""id"": 14674477, ""node1"": 2149, ""node2"": 34157, ""type"": 42, ""w"": 29.0}, {""id"": 1762443, ""node1"": 2149, ""node2"": 34157, ""type"": 50, ""w"": 38.0}, {""id"": 1762442, ""node1"": 2149, ""node2"": 34157, ""type"": 666, ""w"": 4.0}]",r_associated,264.0
+gâteau,fondre,acl,VERB,0.6434069871902466,[],,
+pouvoir,glaçage,nsubj,NOUN,0.5251224040985107,[],,
+pouvoir,crème,nsubj,NOUN,0.5975101590156555,[],,
+crème,préparation,nmod,NOUN,0.6350509524345398,"[{""id"": 96714530, ""node1"": 44001, ""node2"": 33634, ""type"": 6, ""w"": 16.0}]",r_isa,16.0
+manger,cuire,advcl,VERB,0.7382261753082275,"[{""id"": 558632147, ""node1"": 130164, ""node2"": 5115, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+ingrédient,nécessaire,amod,ADJ,0.615828812122345,[],,
+réaliser,sucre,obj,NOUN,0.6669037342071533,[],,
+sucre,farine,nmod,NOUN,0.6846688389778137,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]",r_associated,47.0
+recette,connaître,acl,VERB,0.6189429759979248,"[{""id"": 15071488, ""node1"": 120188, ""node2"": 77428, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+morceau,noix,nmod,NOUN,0.6249548196792603,[],,
+recette,autre,amod,ADJ,0.6219144463539124,[],,
+exister,recette,nsubj,NOUN,0.5901581645011902,[],,
+morceau,caramel,nmod,NOUN,0.65559983253479,[],,
+caramel,salé,amod,ADV,0.6280379891395569,"[{""id"": 31806317, ""node1"": 67525, ""node2"": 47377, ""type"": 17, ""w"": 40.0}]",r_carac,40.0
+morceau,chocolat,nmod,NOUN,0.6450521945953369,"[{""id"": 376998374, ""node1"": 65364, ""node2"": 34157, ""type"": 21, ""w"": 32.0}, {""id"": 980923935, ""node1"": 65364, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]",r_has_antimagn,32.0
+chocolat,blanc,amod,ADJ,0.5507606863975525,"[{""id"": 66662, ""node1"": 34157, ""node2"": 15196, ""type"": 0, ""w"": 491.0}, {""id"": 369243, ""node1"": 34157, ""node2"": 15196, ""type"": 17, ""w"": 121.0}, {""id"": 3161769, ""node1"": 34157, ""node2"": 15196, ""type"": 106, ""w"": 13.0}, {""id"": 1548224, ""node1"": 34157, ""node2"": 15196, ""type"": 666, ""w"": 6.0}]",r_associated,491.0
+crème,anglais,amod,ADJ,0.5731858611106873,[],,
+pouvoir,accompagnement,nsubj,NOUN,0.405052125453949,[],,
+cuit,on,nsubj,PRON,0.4158521294593811,[],,
+cuit,le,obj,DET,0.4612553119659424,[],,
+moule,carré,amod,ADJ,0.5074082612991333,[],,
+utiliser,moule,obj,NOUN,0.5321923494338989,[],,
+faire,partie,obj,NOUN,0.4993119537830353,[],,
+dessert,connu,amod,ADJ,0.4828624129295349,[],,
+trouver,simple,advcl,ADJ,0.4391080737113952,[],,
+restaurant,nombreux,amod,ADJ,0.4336024522781372,[],,
+vente,restaurant,nmod,NOUN,0.4285358190536499,[],,
+rayon,gâteau,nmod,NOUN,0.5418930649757385,[],,
+inclure,recette,nsubj,NOUN,0.5982069373130798,[],,
+recette,original,amod,ADJ,0.5799373388290405,[],,
+inclure,noix,obj,NOUN,0.5538317561149597,[],,
+noix,États-Unis,nmod,PROPN,0.5097604990005493,"[{""id"": 5001219, ""node1"": 30910, ""node2"": 31388, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+noix,noix,nmod,NOUN,0.5140525102615356,"[{""id"": 318873, ""node1"": 30910, ""node2"": 30910, ""type"": 19, ""w"": 58.0}, {""id"": 475889002, ""node1"": 30910, ""node2"": 30910, ""type"": 170, ""w"": 35.0}]",r_lemma,58.0
+noix,traditionnel,amod,ADJ,0.582089900970459,[],,
+noix,France,nmod,PROPN,0.5357255339622498,"[{""id"": 5001183, ""node1"": 30910, ""node2"": 87987, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+tendance,mot,nsubj,NOUN,0.4067994952201843,[],,
+désigner,type,obj,NOUN,0.4152324497699737,[],,
+type,gâteau,nmod,NOUN,0.5852004289627075,[],,
+que,caractéristique,nsubj,NOUN,0.410230815410614,[],,
+confectionner,dessert,obj,NOUN,0.5907805562019348,[],,
+femme,présenter,acl,VERB,0.404382050037384,[],,
+souhaiter,confiserie,obj,NOUN,0.4667487442493438,[],,
+confiserie,semblable,amod,ADJ,0.4984648823738098,[],,
+gâteau,petit,amod,ADJ,0.605536699295044,[],,
+confiserie,pouvoir,acl,VERB,0.4799763858318329,[],,
+rentrer,repas,obj,NOUN,0.5456623435020447,[],,
+servir,gâteau,nsubj,NOUN,0.6561538577079773,"[{""id"": 99077307, ""node1"": 7888, ""node2"": 2149, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+gâteau,moelleux,amod,ADJ,0.5874260663986206,"[{""id"": 796785847, ""node1"": 2149, ""node2"": 65767, ""type"": 0, ""w"": 22.0}, {""id"": 14805921, ""node1"": 2149, ""node2"": 65767, ""type"": 17, ""w"": 41.0}]",r_carac,41.0
+gâteau,composer,acl,VERB,0.5957553386688232,[],,
+noix,abricot,nmod,NOUN,0.5505102872848511,[],,
+servir,hotel,nsubj,NOUN,0.406894713640213,[],,
+servir,dessert,obj,NOUN,0.598185658454895,"[{""id"": 15082569, ""node1"": 7888, ""node2"": 38557, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+dessert,baser,acl,VERB,0.4952632486820221,[],,
+recette,même,amod,ADJ,0.6053631901741028,[],,
+appeler,dessert,nsubj:pass,NOUN,0.4964046478271484,[],,
+porter,gâteau,nsubj,NOUN,0.5995936393737793,[],,
+confection,année,nmod,NOUN,0.4134766161441803,[],,
+livre,cuisine,nmod,NOUN,0.6082427501678467,"[{""id"": 796690394, ""node1"": 142787, ""node2"": 16033, ""type"": 0, ""w"": 27.0}, {""id"": 661863037, ""node1"": 142787, ""node2"": 16033, ""type"": 142, ""w"": 30.0}]",r_associated,27.0
+dessiner,que,obj,SCONJ,0.4183510839939117,[],,
+ménagère,Angleterre,nmod,PROPN,0.4099021255970001,[],,
+oublier,qui,nsubj,PRON,0.41315358877182,[],,
+ménagère,oublier,acl:relcl,VERB,0.5111240148544312,[],,
+sortir,qui,nsubj,PRON,0.4070154726505279,[],,
+sortir,plat,obj,NOUN,0.6195303797721863,"[{""id"": 31815496, ""node1"": 5714, ""node2"": 36327, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+idée,couper,acl,VERB,0.4794348478317261,[],,
+moitié,premier,amod,ADJ,0.4458502233028412,[],,
+moitié,siècle,nmod,NOUN,0.4204804301261902,[],,
+devenir,faire,advcl,VERB,0.4597049653530121,"[{""id"": 85358195, ""node1"": 9626, ""node2"": 87528, ""type"": 0, ""w"": 21.0}, {""id"": 85335667, ""node1"": 9626, ""node2"": 87528, ""type"": 5, ""w"": 48.0}]",r_syn,48.0
+faire,bonheur,obj,NOUN,0.5175516605377197,[],,
+bonheur,américain,nmod,NOUN,0.4351564347743988,"[{""id"": 385307902, ""node1"": 28453, ""node2"": 11467, ""type"": 115, ""w"": 32.0}]",r_sentiment-1,32.0
+devenir,gâteau,obj,NOUN,0.5997870564460754,[],,
+gâteau,apprécier,acl,VERB,0.6046781539916992,[],,

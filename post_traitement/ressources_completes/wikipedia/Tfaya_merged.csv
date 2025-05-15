@@ -1,0 +1,32 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,gastronomie,obj,NOUN,0.4582444131374359,[],,
+préparation,culinaire,amod,ADJ,0.6475791931152344,"[{""id"": 601611802, ""node1"": 33634, ""node2"": 347, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+préparation,marocain,amod,ADJ,0.4995640516281128,[],,
+préparation,réaliser,acl,VERB,0.5193334221839905,"[{""id"": 426642215, ""node1"": 33634, ""node2"": 4528, ""type"": 26, ""w"": 31.0}]",r_patient-1,31.0
+base,oignon,nmod,NOUN,0.644149124622345,[],,
+raisin,sec,amod,ADJ,0.5050904750823975,"[{""id"": 105224, ""node1"": 93528, ""node2"": 63619, ""type"": 0, ""w"": 62.0}, {""id"": 114116, ""node1"": 93528, ""node2"": 63619, ""type"": 17, ""w"": 60.0}, {""id"": 985028970, ""node1"": 93528, ""node2"": 63619, ""type"": 666, ""w"": 2.0}]",r_associated,62.0
+préparation,ajouter,acl:relcl,VERB,0.537661612033844,[],,
+ingrédient,autre,amod,ADJ,0.5639666318893433,[],,
+ajouter,ingrédient,obj,NOUN,0.5776577591896057,"[{""id"": 9084112, ""node1"": 25099, ""node2"": 123418, ""type"": 0, ""w"": 56.0}, {""id"": 428901945, ""node1"": 25099, ""node2"": 123418, ""type"": 14, ""w"": 100.0}, {""id"": 9084083, ""node1"": 25099, ""node2"": 123418, ""type"": 35, ""w"": 48.0}]",r_patient,100.0
+ingrédient,miel,appos,NOUN,0.6284790635108948,"[{""id"": 245158268, ""node1"": 123418, ""node2"": 136055, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+miel,sucre,appos,NOUN,0.640108585357666,"[{""id"": 273615, ""node1"": 136055, ""node2"": 139481, ""type"": 0, ""w"": 135.0}, {""id"": 1046576041, ""node1"": 136055, ""node2"": 139481, ""type"": 8, ""w"": 20.0}, {""id"": 473701581, ""node1"": 136055, ""node2"": 139481, ""type"": 50, ""w"": 26.0}, {""id"": 1885993, ""node1"": 136055, ""node2"": 139481, ""type"": 666, ""w"": 4.0}]",r_associated,135.0
+ingrédient,nom,appos,NOUN,0.4030106961727142,[],,
+ingrédient,sorte,appos,NOUN,0.599443793296814,[],,
+sorte,compote,nmod,NOUN,0.6032904982566833,[],,
+confit,oignon,nmod,NOUN,0.630179762840271,"[{""id"": 419297, ""node1"": 95692, ""node2"": 123307, ""type"": 0, ""w"": 56.0}, {""id"": 699766122, ""node1"": 95692, ""node2"": 123307, ""type"": 666, ""w"": 2.0}]",r_associated,56.0
+utiliser,qui,nsubj:pass,PRON,0.4023291170597076,[],,
+sorte,utiliser,acl:relcl,VERB,0.4813158512115478,[],,
+type,couscous,nmod,NOUN,0.583305835723877,[],,
+garniture,tajine,nmod,NOUN,0.6721201539039612,[],,
+tajine,dire,acl,ADJ,0.5995573401451111,[],,
+aboutir,préparation,nsubj,NOUN,0.467201679944992,[],,
+ingrédient,aboutir,acl:relcl,VERB,0.5514535307884216,[],,
+plat,confectionner,acl,VERB,0.6257053017616272,[],,
+dire,variante,nsubj,NOUN,0.4465748071670532,[],,
+variante,couscous,nmod,NOUN,0.6158919930458069,"[{""id"": 941629246, ""node1"": 109297, ""node2"": 35814, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+couscous,enterrer,acl,VERB,0.5586192607879639,[],,
+dire,faire,advcl,VERB,0.4490993320941925,"[{""id"": 1649215, ""node1"": 111342, ""node2"": 87528, ""type"": 0, ""w"": 54.0}, {""id"": 54695290, ""node1"": 111342, ""node2"": 87528, ""type"": 5, ""w"": -21.0}]",r_associated,54.0
+semoule,rouler,acl,VERB,0.6000474095344543,[],,
+bouillon,légume,nmod,NOUN,0.7052901983261108,"[{""id"": 152250, ""node1"": 146582, ""node2"": 120603, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+viande,mouton,nmod,NOUN,0.6268889904022217,"[{""id"": 132971, ""node1"": 140100, ""node2"": 145295, ""type"": 0, ""w"": 501.0}, {""id"": 203085, ""node1"": 140100, ""node2"": 145295, ""type"": 8, ""w"": 194.0}, {""id"": 9986768, ""node1"": 140100, ""node2"": 145295, ""type"": 10, ""w"": -2.0}, {""id"": 420877, ""node1"": 140100, ""node2"": 145295, ""type"": 20, ""w"": 57.0}, {""id"": 15173551, ""node1"": 140100, ""node2"": 145295, ""type"": 27, ""w"": 23.0}]",r_associated,501.0
+viande,poulet,appos,NOUN,0.7033135890960693,"[{""id"": 82327, ""node1"": 140100, ""node2"": 146261, ""type"": 0, ""w"": 797.0}, {""id"": 177877, ""node1"": 140100, ""node2"": 146261, ""type"": 8, ""w"": 186.0}, {""id"": 3109943, ""node1"": 140100, ""node2"": 146261, ""type"": 10, ""w"": 51.0}, {""id"": 15173548, ""node1"": 140100, ""node2"": 146261, ""type"": 27, ""w"": 26.0}, {""id"": 2518169, ""node1"": 140100, ""node2"": 146261, ""type"": 42, ""w"": 63.0}, {""id"": 376041599, ""node1"": 140100, ""node2"": 146261, ""type"": 51, ""w"": 35.0}, {""id"": 645422219, ""node1"": 140100, ""node2"": 146261, ""type"": 666, ""w"": 6.0}]",r_associated,797.0

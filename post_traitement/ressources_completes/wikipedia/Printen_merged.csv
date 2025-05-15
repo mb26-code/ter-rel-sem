@@ -1,0 +1,44 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+spécialité,titre,nsubj,NOUN,0.4164847433567047,[],,
+spécialité,culinaire,amod,ADJ,0.5888378620147705,"[{""id"": 477435, ""node1"": 49537, ""node2"": 347, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+fabrication,pain,nmod,NOUN,0.645484983921051,[],,
+pain,épice,nmod,NOUN,0.6975365281105042,[],,
+pause,déjeuner,nmod,NOUN,0.4817667603492737,[],,
+offrir,pain,obj,NOUN,0.6272955536842346,[],,
+pain,apprenti,nmod,NOUN,0.623460590839386,[],,
+reprendre,boulangerie,nsubj,NOUN,0.4724286198616028,[],,
+reprendre,recette,obj,NOUN,0.6154425740242004,[],,
+certain,ingrédient,nmod,NOUN,0.5464461445808411,[],,
+ingrédient,miel,amod,ADJ,0.6284790635108948,"[{""id"": 245158268, ""node1"": 123418, ""node2"": 136055, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+emblème,marché,nmod,NOUN,0.4154577851295471,[],,
+base,préparation,nsubj,NOUN,0.5450719594955444,[],,
+base,adoucir,acl,VERB,0.5369777679443359,[],,
+base,miel,nmod,NOUN,0.6315479874610901,"[{""id"": 941746901, ""node1"": 72257, ""node2"": 136055, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+sucre,canne,nmod,NOUN,0.5958884954452515,"[{""id"": 107598, ""node1"": 139481, ""node2"": 144267, ""type"": 0, ""w"": 241.0}, {""id"": 160436, ""node1"": 139481, ""node2"": 144267, ""type"": 15, ""w"": 78.0}, {""id"": 1763995, ""node1"": 139481, ""node2"": 144267, ""type"": 666, ""w"": 1.0}]",r_associated,241.0
+remplacer,boulanger,nsubj,NOUN,0.4720417857170105,[],,
+remplacer,ingrédient,obj,NOUN,0.5726290941238403,[],,
+sucre,betterave,nmod,NOUN,0.6524460911750793,"[{""id"": 101821, ""node1"": 139481, ""node2"": 20232, ""type"": 0, ""w"": 130.0}, {""id"": 98112979, ""node1"": 139481, ""node2"": 20232, ""type"": 54, ""w"": 32.0}, {""id"": 1763996, ""node1"": 139481, ""node2"": 20232, ""type"": 666, ""w"": 1.0}]",r_associated,130.0
+sucre,donne,acl:relcl,VERB,0.6421952247619629,[],,
+donne,matière,obj,NOUN,0.4319683015346527,[],,
+matière,coulant,amod,ADJ,0.4956163167953491,[],,
+moule,pâtisserie,nmod,NOUN,0.5639567375183105,"[{""id"": 224974, ""node1"": 143723, ""node2"": 25966, ""type"": 0, ""w"": 61.0}]",r_associated,61.0
+pâtisserie,fin,amod,ADJ,0.5140259265899658,[],,
+faire,pâte,nsubj:pass,NOUN,0.6741626262664795,"[{""id"": 97862385, ""node1"": 87528, ""node2"": 34069, ""type"": 14, ""w"": 32.0}]",r_patient,32.0
+sucre,matière,nsubj,NOUN,0.6578760743141174,[],,
+matière,gras,amod,ADJ,0.5509254336357117,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+matière,ajouter,acl,VERB,0.515087902545929,[],,
+brun,sucre,nsubj:pass,NOUN,0.5837224125862122,"[{""id"": 14798624, ""node1"": 14189, ""node2"": 139481, ""type"": 23, ""w"": 22.0}]",r_carac-1,22.0
+faire,brun,advcl,ADJ,0.5339668393135071,[],,
+brun,clair,advcl,ADJ,0.4074125289916992,"[{""id"": 160527, ""node1"": 14189, ""node2"": 4215, ""type"": 7, ""w"": 93.0}]",r_anto,93.0
+composer,mélange,nsubj,NOUN,0.5040770173072815,"[{""id"": 1288343, ""node1"": 54882, ""node2"": 14800, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+mélange,épice,nmod,NOUN,0.6888759136199951,"[{""id"": 925026230, ""node1"": 14800, ""node2"": 146056, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+clou,autre,amod,ADJ,0.4414467215538025,[],,
+autre,cannelle,nmod,ADJ,0.618310809135437,[],,
+clou,girofle,nmod,NOUN,0.433244377374649,"[{""id"": 9902807, ""node1"": 11651, ""node2"": 43873, ""type"": 0, ""w"": 55.0}, {""id"": 413873, ""node1"": 11651, ""node2"": 43873, ""type"": 8, ""w"": 111.0}]",r_hypo,111.0
+clou,coriandre,appos,NOUN,0.507430374622345,[],,
+coriandre,véritable,amod,ADJ,0.6330832839012146,[],,
+écorce,orange,nmod,NOUN,0.4737439155578613,"[{""id"": 938828860, ""node1"": 44427, ""node2"": 145382, ""type"": 10, ""w"": 25.0}, {""id"": 2213174, ""node1"": 44427, ""node2"": 145382, ""type"": 15, ""w"": 98.0}]",r_lieu,98.0
+écorce,zeste,appos,NOUN,0.5097387433052063,"[{""id"": 12300929, ""node1"": 44427, ""node2"": 98173, ""type"": 0, ""w"": 21.0}, {""id"": 572460, ""node1"": 44427, ""node2"": 98173, ""type"": 5, ""w"": 112.0}, {""id"": 1767114, ""node1"": 44427, ""node2"": 98173, ""type"": 666, ""w"": 1.0}]",r_syn,112.0
+zeste,citron,nmod,NOUN,0.5438535213470459,"[{""id"": 615058522, ""node1"": 98173, ""node2"": 15386, ""type"": 0, ""w"": 22.0}, {""id"": 9991099, ""node1"": 98173, ""node2"": 15386, ""type"": 10, ""w"": 4.0}, {""id"": 377014851, ""node1"": 98173, ""node2"": 15386, ""type"": 20, ""w"": 34.0}, {""id"": 986046177, ""node1"": 98173, ""node2"": 15386, ""type"": 666, ""w"": 2.0}]",r_has_magn,34.0
+pourcentage,assaisonnement,nmod,NOUN,0.5906765460968018,[],,
+différer,garniture,nsubj,NOUN,0.5304985046386719,[],,

@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,cuisine,obj,NOUN,0.6019042730331421,[],,
+plat,issu,acl,VERB,0.5577749013900757,[],,
+cuisine,turc,amod,ADJ,0.4680846631526947,[],,
+viande,ingrédient,nsubj,NOUN,0.7670868039131165,"[{""id"": 29383223, ""node1"": 140100, ""node2"": 123418, ""type"": 0, ""w"": 55.0}, {""id"": 24842507, ""node1"": 140100, ""node2"": 123418, ""type"": 6, ""w"": 42.0}]",r_associated,55.0
+ingrédient,commun,amod,ADJ,0.5462616086006165,[],,
+recette,différent,amod,ADJ,0.6251085996627808,[],,
+viande,agneau,nmod,NOUN,0.6398220062255859,"[{""id"": 463119, ""node1"": 140100, ""node2"": 128646, ""type"": 0, ""w"": 430.0}, {""id"": 203086, ""node1"": 140100, ""node2"": 128646, ""type"": 8, ""w"": 133.0}, {""id"": 8544684, ""node1"": 140100, ""node2"": 128646, ""type"": 10, ""w"": 29.0}, {""id"": 15173565, ""node1"": 140100, ""node2"": 128646, ""type"": 27, ""w"": 26.0}, {""id"": 2354579, ""node1"": 140100, ""node2"": 128646, ""type"": 42, ""w"": 60.0}, {""id"": 645422220, ""node1"": 140100, ""node2"": 128646, ""type"": 666, ""w"": 6.0}]",r_associated,430.0
+viande,partie,appos,NOUN,0.6872424483299255,[],,
+partie,gras,amod,ADJ,0.5509459972381592,[],,
+viande,sec,advcl,ADJ,0.6162363886833191,[],,
+piment,blanc,amod,ADJ,0.6223558783531189,[],,
+poivron,rouge,amod,ADJ,0.5815114378929138,"[{""id"": 273173, ""node1"": 38257, ""node2"": 86356, ""type"": 0, ""w"": 151.0}, {""id"": 1944118, ""node1"": 38257, ""node2"": 86356, ""type"": 17, ""w"": 36.0}, {""id"": 3160591, ""node1"": 38257, ""node2"": 86356, ""type"": 106, ""w"": 11.0}]",r_associated,151.0
+poivron,long,amod,ADJ,0.5822910666465759,[],,
+oignon,blanc,amod,ADJ,0.5985873341560364,"[{""id"": 414999234, ""node1"": 123307, ""node2"": 15196, ""type"": 0, ""w"": 29.0}, {""id"": 1780353, ""node1"": 123307, ""node2"": 15196, ""type"": 17, ""w"": 29.0}, {""id"": 3161217, ""node1"": 123307, ""node2"": 15196, ""type"": 106, ""w"": 9.0}, {""id"": 1767140, ""node1"": 123307, ""node2"": 15196, ""type"": 666, ""w"": 3.0}]",r_associated,29.0
+feuille,persil,nmod,NOUN,0.604645311832428,"[{""id"": 403056384, ""node1"": 37993, ""node2"": 135982, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+feuille,haché,amod,ADJ,0.5616867542266846,[],,
+piment,épice,nmod,NOUN,0.680868923664093,"[{""id"": 61812, ""node1"": 128791, ""node2"": 146056, ""type"": 0, ""w"": 269.0}, {""id"": 1639544, ""node1"": 128791, ""node2"": 146056, ""type"": 6, ""w"": 89.0}, {""id"": 29284146, ""node1"": 128791, ""node2"": 146056, ""type"": 35, ""w"": 250.0}, {""id"": 723378546, ""node1"": 128791, ""node2"": 146056, ""type"": 666, ""w"": 5.0}]",r_associated,269.0
+épice,poudre,nmod,NOUN,0.6769869923591614,"[{""id"": 560946600, ""node1"": 146056, ""node2"": 139470, ""type"": 0, ""w"": 68.0}]",r_associated,68.0
+poudre,cumin,nmod,NOUN,0.614553689956665,[],,
+poudre,coriandre,nmod,NOUN,0.623534619808197,[],,
+piment,matière,nmod,NOUN,0.640994131565094,[],,
+matière,gras,amod,ADJ,0.5509254336357117,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+matière,beurre,appos,NOUN,0.67413729429245,[],,
+beurre,clarifier,acl,VERB,0.647570013999939,"[{""id"": 500929084, ""node1"": 140377, ""node2"": 26306, ""type"": 0, ""w"": 8.0}, {""id"": 15065113, ""node1"": 140377, ""node2"": 26306, ""type"": 26, ""w"": 30.0}, {""id"": 3978541, ""node1"": 140377, ""node2"": 26306, ""type"": 777, ""w"": 10.0}]",r_patient-1,30.0
+piment,famille,appos,NOUN,0.6061341762542725,[],,
+fonction,préférence,nmod,NOUN,0.4281693696975708,[],,
+permettre,cuisson,obj,NOUN,0.7044327855110168,[],,
+cuisson,broche,nmod,NOUN,0.7221612334251404,"[{""id"": 914920445, ""node1"": 60056, ""node2"": 143684, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+broche,aisé,amod,ADJ,0.4524530470371246,[],,
+légume,mixer,acl,VERB,0.6773965358734131,"[{""id"": 15067032, ""node1"": 120603, ""node2"": 12170, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+légume,passage,appos,NOUN,0.6524277925491333,[],,
+passage,tamis,nmod,NOUN,0.4739821553230285,[],,
+assemblage,viande,nmod,NOUN,0.7055767774581909,[],,
+récupérer,jus,nsubj,NOUN,0.5477232336997986,[],,
+confection,sauce,nmod,NOUN,0.7065184712409973,[],,

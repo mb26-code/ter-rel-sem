@@ -1,0 +1,18 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+restaurant,spécialisé,acl,ADJ,0.4354806840419769,[],,
+cuisine,traditionnel,amod,ADJ,0.6699821352958679,"[{""id"": 601188829, ""node1"": 16033, ""node2"": 41139, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+cuisine,québécois,amod,ADJ,0.562059223651886,[],,
+fève,dont,nmod,PRON,0.5244892835617065,[],,
+cuisine,fève,acl:relcl,NOUN,0.6028364300727844,"[{""id"": 34306787, ""node1"": 16033, ""node2"": 65956, ""type"": 0, ""w"": 30.0}, {""id"": 34306786, ""node1"": 16033, ""node2"": 65956, ""type"": 27, ""w"": 30.0}]",r_associated,30.0
+théâtre,restaurant,nsubj,NOUN,0.4027903378009796,[],,
+racheter,commerce,nsubj:pass,NOUN,0.4106161296367645,"[{""id"": 1044627699, ""node1"": 91721, ""node2"": 49615, ""type"": 0, ""w"": 225.0}, {""id"": 1044508423, ""node1"": 91721, ""node2"": 49615, ""type"": 3, ""w"": 330.0}]",r_domain,330.0
+propriétaire,nouveau,amod,ADJ,0.4063622057437897,[],,
+fève,lard,nmod,NOUN,0.5927073359489441,"[{""id"": 7092693, ""node1"": 65956, ""node2"": 59430, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+lard,marque,acl:relcl,NOUN,0.5791946649551392,[],,
+servir,restaurant,nsubj,NOUN,0.5626118779182434,"[{""id"": 1610965, ""node1"": 7888, ""node2"": 79954, ""type"": 0, ""w"": 276.0}, {""id"": 364531277, ""node1"": 7888, ""node2"": 79954, ""type"": 13, ""w"": 100.0}, {""id"": 246262, ""node1"": 7888, ""node2"": 79954, ""type"": 31, ""w"": 493.0}, {""id"": 1719761, ""node1"": 7888, ""node2"": 79954, ""type"": 35, ""w"": 80.0}]",r_action_lieu,493.0
+servir,mets,obj,NOUN,0.5270059704780579,[],,
+mets,traditionnel,amod,ADJ,0.5025607943534851,"[{""id"": 96365608, ""node1"": 114839, ""node2"": 41139, ""type"": 17, ""w"": -46.0}]",r_carac,-46.0
+pâté,chinois,amod,ADJ,0.5428694486618042,[],,
+mets,chômeur,appos,NOUN,0.4787974655628204,[],,
+soupe,pois,nmod,NOUN,0.6309940814971924,[],,
+mets,situer,acl,VERB,0.4529701173305511,[],,

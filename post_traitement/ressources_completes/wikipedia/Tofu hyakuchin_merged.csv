@@ -1,0 +1,48 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,cuisine,obj,NOUN,0.6019042730331421,[],,
+cuisine,japonais,amod,ADJ,0.5706702470779419,[],,
+plat,base,nmod,NOUN,0.6491852402687073,[],,
+livre,recette,nmod,NOUN,0.5988067388534546,"[{""id"": 797511876, ""node1"": 142787, ""node2"": 120188, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+recette,japonais,amod,ADJ,0.6041181683540344,[],,
+livre,écrire,acl,VERB,0.4148654639720917,"[{""id"": 149056, ""node1"": 142787, ""node2"": 91801, ""type"": 0, ""w"": 240.0}, {""id"": 1019097998, ""node1"": 142787, ""node2"": 91801, ""type"": 24, ""w"": -25.0}, {""id"": 2361187, ""node1"": 142787, ""node2"": 91801, ""type"": 25, ""w"": 72.0}, {""id"": 2515757, ""node1"": 142787, ""node2"": 91801, ""type"": 26, ""w"": 100.0}, {""id"": 224082, ""node1"": 142787, ""node2"": 91801, ""type"": 30, ""w"": 190.0}, {""id"": 290197557, ""node1"": 142787, ""node2"": 91801, ""type"": 37, ""w"": 51.0}, {""id"": 1626546, ""node1"": 142787, ""node2"": 91801, ""type"": 38, ""w"": 180.0}, {""id"": 766162164, ""node1"": 142787, ""node2"": 91801, ""type"": 63, ""w"": 45.0}, {""id"": 1794198, ""node1"": 142787, ""node2"": 91801, ""type"": 666, ""w"": 1.0}]",r_associated,240.0
+donne,recette,obj,NOUN,0.5504437685012817,[],,
+donne,préparer,advcl,VERB,0.4504290223121643,[],,
+préparer,tofu,obj,NOUN,0.6305720806121826,[],,
+chef,qui,nsubj,PRON,0.4056065678596496,[],,
+graveur,pierre,nmod,NOUN,0.4167428314685821,[],,
+pierre,japonais,flat:name,ADJ,0.4838275611400604,[],,
+contenir,livre,nsubj,NOUN,0.4754981994628906,[],,
+contenir,recette,obj,NOUN,0.636847972869873,[],,
+recette,cuisine,nmod,NOUN,0.6953886151313782,"[{""id"": 361077, ""node1"": 120188, ""node2"": 16033, ""type"": 0, ""w"": 416.0}, {""id"": 452909, ""node1"": 120188, ""node2"": 16033, ""type"": 3, ""w"": 258.0}, {""id"": 98281069, ""node1"": 120188, ""node2"": 16033, ""type"": 10, ""w"": 22.0}, {""id"": 539971129, ""node1"": 120188, ""node2"": 16033, ""type"": 15, ""w"": -24.0}, {""id"": 1576779, ""node1"": 120188, ""node2"": 16033, ""type"": 35, ""w"": 130.0}, {""id"": 752130352, ""node1"": 120188, ""node2"": 16033, ""type"": 666, ""w"": 4.0}]",r_associated,416.0
+recette,illustration,appos,NOUN,0.5866736173629761,[],,
+qualité,grand,amod,ADJ,0.4322653710842132,"[{""id"": 1011773004, ""node1"": 48513, ""node2"": 23178, ""type"": 0, ""w"": 42.0}]",r_associated,42.0
+acte,cuisiner,nmod,VERB,0.4777693748474121,[],,
+recette,divers,amod,ADJ,0.5796691179275513,[],,
+présenter,recette,nsubj:pass,NOUN,0.6052209734916687,[],,
+utilisation,tofu,nmod,NOUN,0.5997852087020874,[],,
+tofu,imiter,acl,VERB,0.5802388787269592,[],,
+aliment,autre,amod,ADJ,0.5832330584526062,[],,
+imiter,aliment,obj,NOUN,0.5270952582359314,[],,
+organiser,recette,nsubj:pass,NOUN,0.5873734951019287,[],,
+succès,livre,nsubj,NOUN,0.4120901823043823,"[{""id"": 14671514, ""node1"": 51161, ""node2"": 142787, ""type"": 42, ""w"": 40.0}]",r_has_causatif,40.0
+croissant,donner,advcl,VERB,0.4275177121162414,[],,
+croissant,décrire,advcl,VERB,0.4092614650726318,[],,
+décrire,recette,obj,NOUN,0.586610734462738,[],,
+recette,base,nmod,NOUN,0.6212873458862305,[],,
+base,tofu,nmod,NOUN,0.6434488892555237,[],,
+mélange,réflexion,nmod,NOUN,0.5524777173995972,[],,
+livre,nombreux,amod,ADJ,0.4329283535480499,[],,
+livre,suivre,acl:relcl,VERB,0.4272760152816772,[],,
+recette,patate,nmod,NOUN,0.6552324295043945,[],,
+renommée,livre,nmod,NOUN,0.4599000811576843,[],,
+représentant,plat,nmod,NOUN,0.587979793548584,[],,
+consommer,tofu,obj,NOUN,0.622217059135437,"[{""id"": 29346924, ""node1"": 97571, ""node2"": 216328, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+facteur,livre,nsubj,NOUN,0.43927201628685,[],,
+répandre,consommation,nsubj:pass,NOUN,0.4718081057071686,[],,
+consommation,tofu,nmod,NOUN,0.6061401963233948,[],,
+consommation,période,nmod,NOUN,0.440102070569992,"[{""id"": 1052429797, ""node1"": 57470, ""node2"": 108794, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+biais,cuisine,nmod,NOUN,0.5689908266067505,[],,
+cuisine,tofu,nmod,NOUN,0.6661307215690613,"[{""id"": 15267855, ""node1"": 16033, ""node2"": 216328, ""type"": 0, ""w"": 243.0}, {""id"": 15133448, ""node1"": 16033, ""node2"": 216328, ""type"": 27, ""w"": 30.0}, {""id"": 11320797, ""node1"": 16033, ""node2"": 216328, ""type"": 28, ""w"": 40.0}]",r_associated,243.0
+technique,différent,amod,ADJ,0.4381825029850006,[],,
+technique,cuisine,nmod,NOUN,0.6334877014160156,[],,
+cuisine,courant,amod,ADJ,0.6169828176498413,[],,

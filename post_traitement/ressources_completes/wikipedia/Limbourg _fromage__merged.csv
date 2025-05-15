@@ -1,0 +1,86 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,fromage,nmod,NOUN,0.5593607425689697,[],,
+fromage,pâte,nmod,NOUN,0.6909428834915161,"[{""id"": 83648051, ""node1"": 141687, ""node2"": 34069, ""type"": 0, ""w"": 33.0}, {""id"": 96698106, ""node1"": 141687, ""node2"": 34069, ""type"": 9, ""w"": 32.0}, {""id"": 1070020056, ""node1"": 141687, ""node2"": 34069, ""type"": 666, ""w"": 2.0}]",r_associated,33.0
+fromage,mou,amod,ADJ,0.4762201607227325,"[{""id"": 121012, ""node1"": 141687, ""node2"": 26607, ""type"": 17, ""w"": 70.0}]",r_carac,70.0
+croûte,laver,acl,VERB,0.6201547980308533,[],,
+base,lait,nmod,NOUN,0.6312020421028137,[],,
+lait,vache,nmod,NOUN,0.5106161832809448,"[{""id"": 100641, ""node1"": 86296, ""node2"": 138501, ""type"": 0, ""w"": 431.0}, {""id"": 137749, ""node1"": 86296, ""node2"": 138501, ""type"": 8, ""w"": -60.0}, {""id"": 9976460, ""node1"": 86296, ""node2"": 138501, ""type"": 10, ""w"": 4.0}, {""id"": 11357809, ""node1"": 86296, ""node2"": 138501, ""type"": 15, ""w"": 39.0}, {""id"": 383584, ""node1"": 86296, ""node2"": 138501, ""type"": 22, ""w"": -80.0}, {""id"": 15114456, ""node1"": 86296, ""node2"": 138501, ""type"": 27, ""w"": 28.0}, {""id"": 76654958, ""node1"": 86296, ""node2"": 138501, ""type"": 54, ""w"": 76.0}, {""id"": 1040288386, ""node1"": 86296, ""node2"": 138501, ""type"": 129, ""w"": 29.0}, {""id"": 1522646, ""node1"": 86296, ""node2"": 138501, ""type"": 666, ""w"": 13.0}]",r_associated,431.0
+fromage,croire,acl,VERB,0.5876169800758362,[],,
+fromage,teneur,nmod,NOUN,0.618831992149353,[],,
+teneur,matière,nmod,NOUN,0.4744452238082886,[],,
+matière,gras,amod,ADJ,0.5509254336357117,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+matière,sec,amod,ADJ,0.5058624148368835,[],,
+rouge,originaire,appos,ADJ,0.4635797441005707,[],,
+apprécier,goût,obj,NOUN,0.5372194647789001,"[{""id"": 561115600, ""node1"": 63449, ""node2"": 119233, ""type"": 0, ""w"": 37.0}]",r_associated,37.0
+goût,aromatique,amod,ADJ,0.5900871753692627,[],,
+procédé,fabrication,nmod,NOUN,0.4336852133274078,"[{""id"": 243419680, ""node1"": 15054, ""node2"": 143005, ""type"": 8, ""w"": 35.0}, {""id"": 308635614, ""node1"": 15054, ""node2"": 143005, ""type"": 777, ""w"": 10.0}]",r_hypo,35.0
+produire,fromage,obj,NOUN,0.6263010501861572,[],,
+avoir,forme,obj,NOUN,0.4383388757705688,[],,
+forme,brique,nmod,NOUN,0.5346130728721619,[],,
+cours,maturation,nmod,NOUN,0.4153788983821869,[],,
+dur,qui,nsubj,PRON,0.4423656165599823,[],,
+maturation,dur,acl:relcl,ADJ,0.4343964159488678,[],,
+laver,pain,nsubj:pass,NOUN,0.6453955173492432,[],,
+pain,fromage,nmod,NOUN,0.668666660785675,"[{""id"": 100199158, ""node1"": 61283, ""node2"": 141687, ""type"": 0, ""w"": 39.0}, {""id"": 496723312, ""node1"": 61283, ""node2"": 141687, ""type"": 75, ""w"": 47.0}]",r_accomp,47.0
+liquide,contenir,acl,VERB,0.5199024081230164,"[{""id"": 892994342, ""node1"": 140315, ""node2"": 34519, ""type"": 0, ""w"": 20.0}, {""id"": 385105850, ""node1"": 140315, ""node2"": 34519, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+contenir,ferment,obj,NOUN,0.4153004288673401,[],,
+ferment,rouge,nmod,NOUN,0.4769575893878937,[],,
+bactérie,ferment,nmod,NOUN,0.4314266741275787,"[{""id"": 54706473, ""node1"": 6482, ""node2"": 13976, ""type"": 0, ""w"": 84.0}, {""id"": 54644292, ""node1"": 6482, ""node2"": 13976, ""type"": 5, ""w"": 104.0}]",r_syn,104.0
+donne,surface,obj,NOUN,0.4363823533058166,[],,
+surface,élastique,amod,ADJ,0.4533984959125519,[],,
+donne,orange,advcl,NOUN,0.4742775857448578,[],,
+donne,brun,obj,NOUN,0.4678425192832947,[],,
+donne,collant,obj,ADJ,0.4273384213447571,[],,
+caractériser,fromage,nsubj,NOUN,0.6159154176712036,[],,
+fromage,doux,amod,ADJ,0.5658238530158997,"[{""id"": 8522125, ""node1"": 141687, ""node2"": 74183, ""type"": 17, ""w"": 81.0}]",r_carac,81.0
+fromage,début,nmod,NOUN,0.5828652381896973,[],,
+début,maturation,nmod,NOUN,0.4049969613552093,[],,
+goût,intense,amod,ADJ,0.5427312254905701,"[{""id"": 2105037, ""node1"": 119233, ""node2"": 108182, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
+goût,résulter,acl,VERB,0.5095799565315247,[],,
+nom,fromage,nmod,NOUN,0.4574040472507477,[],,
+fromage,seul,amod,ADJ,0.5742796063423157,[],,
+produit,fromage,appos,NOUN,0.5935618877410889,"[{""id"": 781966781, ""node1"": 32667, ""node2"": 141687, ""type"": 8, ""w"": -25.0}, {""id"": 966172026, ""node1"": 32667, ""node2"": 141687, ""type"": 17, ""w"": -5.0}, {""id"": 978081983, ""node1"": 32667, ""node2"": 141687, ""type"": 23, ""w"": 4.0}]",r_carac-1,4.0
+fromage,belge,amod,ADJ,0.4823611080646515,[],,
+fromage,appellation,nmod,NOUN,0.6027794480323792,[],,
+région,autre,amod,ADJ,0.4474375247955322,[],,
+avoir,fromage,nsubj,NOUN,0.5753213167190552,[],,
+brun,rougeâtre,amod,ADJ,0.4205317497253418,"[{""id"": 920116144, ""node1"": 14189, ""node2"": 110252, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+brique,gramme,nmod,NOUN,0.5425758957862854,[],,
+avoir,goût,obj,NOUN,0.5262750387191772,[],,
+goût,doux,amod,ADJ,0.5481573939323425,"[{""id"": 21117031, ""node1"": 119233, ""node2"": 74183, ""type"": 0, ""w"": 32.0}, {""id"": 580310887, ""node1"": 119233, ""node2"": 74183, ""type"": 17, ""w"": 27.0}, {""id"": 651216867, ""node1"": 119233, ""node2"": 74183, ""type"": 666, ""w"": 3.0}]",r_associated,32.0
+clair,pâte,nsubj,NOUN,0.6505681276321411,[],,
+clair,doux,amod,ADJ,0.4078598320484161,"[{""id"": 54827340, ""node1"": 4215, ""node2"": 74183, ""type"": 0, ""w"": 22.0}, {""id"": 54626789, ""node1"": 4215, ""node2"": 74183, ""type"": 5, ""w"": 83.0}]",r_syn,83.0
+trou,petit,amod,ADJ,0.4665317237377167,"[{""id"": 276277, ""node1"": 115865, ""node2"": 55222, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+avoir,trou,obj,NOUN,0.425029844045639,[],,
+dépasser,forme,nsubj,NOUN,0.4503788650035858,[],,
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+terre,chaud,amod,ADJ,0.5936471223831177,[],,
+lait,froid,amod,ADJ,0.59633469581604,"[{""id"": 276799, ""node1"": 86296, ""node2"": 49803, ""type"": 17, ""w"": 57.0}]",r_carac,57.0
+guise,boisson,nmod,NOUN,0.5491799712181091,[],,
+pain,type,nmod,NOUN,0.63983154296875,[],,
+pain,vinaigrette,nmod,NOUN,0.7032225728034973,[],,
+vinaigrette,appeler,acl,VERB,0.5178940296173096,"[{""id"": 438788202, ""node1"": 47740, ""node2"": 53344, ""type"": 0, ""w"": 3.0}]",r_associated,3.0
+pain,base,nmod,NOUN,0.6845396757125854,[],,
+base,vinaigre,nmod,NOUN,0.6405686140060425,"[{""id"": 77916504, ""node1"": 72257, ""node2"": 145443, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+rondelle,oignon,nmod,NOUN,0.5898785591125488,[],,
+pain,complet,amod,ADJ,0.6267557144165039,"[{""id"": 396662, ""node1"": 61283, ""node2"": 42645, ""type"": 0, ""w"": 60.0}, {""id"": 376767, ""node1"": 61283, ""node2"": 42645, ""type"": 17, ""w"": 80.0}]",r_carac,80.0
+oignon,cru,amod,ADJ,0.5258910655975342,"[{""id"": 31861165, ""node1"": 123307, ""node2"": 39901, ""type"": 17, ""w"": 22.0}]",r_carac,22.0
+oignon,bière,nmod,NOUN,0.6459054946899414,[],,
+vin,caractère,nmod,NOUN,0.587942361831665,[],,
+piquer,zone,obj,NOUN,0.4259412288665771,[],,
+plante,pied,nmod,NOUN,0.4642866551876068,"[{""id"": 186868, ""node1"": 145941, ""node2"": 34898, ""type"": 0, ""w"": 92.0}, {""id"": 565453, ""node1"": 145941, ""node2"": 34898, ""type"": 5, ""w"": 91.0}, {""id"": 246260215, ""node1"": 145941, ""node2"": 34898, ""type"": 8, ""w"": 27.0}, {""id"": 429520, ""node1"": 145941, ""node2"": 34898, ""type"": 9, ""w"": 205.0}, {""id"": 271551, ""node1"": 145941, ""node2"": 34898, ""type"": 10, ""w"": 113.0}, {""id"": 11357624, ""node1"": 145941, ""node2"": 34898, ""type"": 15, ""w"": 39.0}, {""id"": 1010158381, ""node1"": 145941, ""node2"": 34898, ""type"": 53, ""w"": -25.0}, {""id"": 347214277, ""node1"": 145941, ""node2"": 34898, ""type"": 73, ""w"": 10.0}, {""id"": 1010158420, ""node1"": 145941, ""node2"": 34898, ""type"": 121, ""w"": -25.0}]",r_has_part,205.0
+endroit,corps,nmod,NOUN,0.4207440614700317,"[{""id"": 899367975, ""node1"": 134218, ""node2"": 74846, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+endroit,bactérie,acl:relcl,NOUN,0.4504797160625458,[],,
+bactérie,espèce,nmod,NOUN,0.4000933170318603,[],,
+produire,acide,obj,NOUN,0.4831457734107971,[],,
+acide,gras,amod,ADJ,0.5243161916732788,[],,
+chaîne,court,amod,ADJ,0.4335805475711822,[],,
+odeur,fromage,nmod,NOUN,0.5922124981880188,"[{""id"": 75219486, ""node1"": 73427, ""node2"": 141687, ""type"": 0, ""w"": 59.0}, {""id"": 74376849, ""node1"": 73427, ""node2"": 141687, ""type"": 10, ""w"": 61.0}, {""id"": 13005464, ""node1"": 73427, ""node2"": 141687, ""type"": 42, ""w"": 71.0}]",r_holo,61.0
+fromage,caractéristique,amod,ADJ,0.6367610096931458,[],,
+odeur,caractéristique,amod,ADJ,0.4409232139587402,[],,
+base,substance,nmod,NOUN,0.5186668634414673,"[{""id"": 1047027346, ""node1"": 72257, ""node2"": 11358, ""type"": 6, ""w"": 20.0}]",r_isa,20.0
+base,synthétiser,acl,VERB,0.4896197021007538,[],,
+souche,même,amod,ADJ,0.4566298425197601,[],,
+bactérie,utiliser,acl,VERB,0.460653692483902,[],,
+réduire,qui,nsubj,PRON,0.4217258393764496,[],,
+fabrication,réduire,acl:relcl,VERB,0.4790379405021667,[],,

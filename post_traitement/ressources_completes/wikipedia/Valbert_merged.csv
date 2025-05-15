@@ -1,0 +1,20 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+modifier,fromage,obj,NOUN,0.5823603272438049,[],,
+fromage,pâte,nmod,NOUN,0.6909428834915161,"[{""id"": 83648051, ""node1"": 141687, ""node2"": 34069, ""type"": 0, ""w"": 33.0}, {""id"": 96698106, ""node1"": 141687, ""node2"": 34069, ""type"": 9, ""w"": 32.0}, {""id"": 1070020056, ""node1"": 141687, ""node2"": 34069, ""type"": 666, ""w"": 2.0}]",r_associated,33.0
+vache,suisse,amod,ADJ,0.4088998734951019,"[{""id"": 487109011, ""node1"": 138501, ""node2"": 14759, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+produit,brun,nsubj,ADJ,0.452800989151001,[],,
+vache,produit,acl,NOUN,0.4347541928291321,[],,
+lait,lac,nmod,NOUN,0.4904268682003021,[],,
+développer,goût,obj,NOUN,0.5479323267936707,"[{""id"": 1020661436, ""node1"": 84874, ""node2"": 119233, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+goût,fruité,amod,ADJ,0.5378091931343079,"[{""id"": 651212818, ""node1"": 119233, ""node2"": 116948, ""type"": 666, ""w"": 8.0}]",r_aki,8.0
+goût,rappeler,acl:relcl,VERB,0.5389853119850159,[],,
+rappeler,gruyère,obj,NOUN,0.5240344405174255,[],,
+gruyère,suisse,amod,ADJ,0.4540115892887115,"[{""id"": 2052703, ""node1"": 54095, ""node2"": 14759, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+matière,gras,amod,ADJ,0.5509254336357117,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+composante,arôme,nsubj,NOUN,0.5101584196090698,[],,
+nourrir,vache,nsubj:pass,NOUN,0.4584873914718628,"[{""id"": 558762670, ""node1"": 47466, ""node2"": 138501, ""type"": 0, ""w"": 48.0}]",r_associated,48.0
+tissu,laver,acl,VERB,0.4936987459659576,[],,
+laver,couleur,obj,NOUN,0.5326964855194092,"[{""id"": 798972375, ""node1"": 143876, ""node2"": 40056, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+tissu,rouille,acl,ADJ,0.4577158391475677,[],,
+couleur,pâte,nsubj,NOUN,0.6466916799545288,[],,
+couleur,doré,amod,ADJ,0.5011557936668396,"[{""id"": 797004655, ""node1"": 40056, ""node2"": 47964, ""type"": 0, ""w"": 22.0}, {""id"": 242864260, ""node1"": 40056, ""node2"": 47964, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0

@@ -1,0 +1,58 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+boisson,titre,nsubj,NOUN,0.5208552479743958,[],,
+boisson,ukrainien,amod,ADJ,0.4895834326744079,[],,
+utiliser,mot,nsubj:pass,NOUN,0.4006590247154236,[],,
+désigner,vodka,obj,NOUN,0.4751551151275635,[],,
+spiritueux,autre,amod,ADJ,0.474825382232666,[],,
+vodka,fort,amod,ADJ,0.4957646429538727,"[{""id"": 84308, ""node1"": 83653, ""node2"": 54186, ""type"": 0, ""w"": 156.0}, {""id"": 143982, ""node1"": 83653, ""node2"": 54186, ""type"": 17, ""w"": 165.0}]",r_carac,165.0
+désigner,liqueur,obj,NOUN,0.48322194814682,[],,
+utiliser,terme,nsubj:pass,NOUN,0.417352944612503,"[{""id"": 476541381, ""node1"": 62611, ""node2"": 144149, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+venir,mot,nsubj,NOUN,0.4188452363014221,[],,
+racine,même,amod,ADJ,0.4607084393501282,[],,
+vin,brûlant,acl,ADJ,0.6147761344909668,[],,
+eau,brûlant,amod,ADJ,0.5827807784080505,[],,
+donner,mot,nsubj,NOUN,0.4153183698654175,"[{""id"": 427048399, ""node1"": 12941, ""node2"": 32132, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+donner,qui,nsubj,PRON,0.4009021520614624,[],,
+adaptation,donner,acl:relcl,VERB,0.4230816662311554,[],,
+développer,production,nsubj,NOUN,0.4240160286426544,"[{""id"": 372706102, ""node1"": 84874, ""node2"": 13444, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+préparer,boisson,nsubj:pass,NOUN,0.6201967000961304,"[{""id"": 97862209, ""node1"": 36246, ""node2"": 113547, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+développer,préparer,advcl,VERB,0.4519352316856384,"[{""id"": 844606, ""node1"": 84874, ""node2"": 36246, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+radis,noir,amod,ADJ,0.4817775189876556,"[{""id"": 2138436, ""node1"": 123068, ""node2"": 64238, ""type"": 0, ""w"": 108.0}, {""id"": 1788285, ""node1"": 123068, ""node2"": 64238, ""type"": 666, ""w"": 1.0}]",r_associated,108.0
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,miel,nmod,NOUN,0.6361032724380493,[],,
+pomme,passé,nmod,NOUN,0.5563350915908813,[],,
+titre,production,nsubj,NOUN,0.4022283554077148,[],,
+faire,variation,nsubj,NOUN,0.5120387673377991,[],,
+titre,faire,advcl,VERB,0.4633305966854095,[],,
+faire,partie,obj,NOUN,0.4993119537830353,[],,
+faire,objet,obj,NOUN,0.4383790194988251,[],,
+fabriquer,plupart,nsubj:pass,NOUN,0.4227687120437622,[],,
+épice,framboise,amod,NOUN,0.6431609392166138,[],,
+épice,baie,appos,NOUN,0.5401841402053833,"[{""id"": 736603508, ""node1"": 146056, ""node2"": 108952, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+baie,herbe,nmod,NOUN,0.4176207780838012,[],,
+clou,girofle,nmod,NOUN,0.433244377374649,"[{""id"": 9902807, ""node1"": 11651, ""node2"": 43873, ""type"": 0, ""w"": 55.0}, {""id"": 413873, ""node1"": 11651, ""node2"": 43873, ""type"": 8, ""w"": 111.0}]",r_hypo,111.0
+baie,zeste,nmod,NOUN,0.4576592445373535,[],,
+noix,miel,amod,ADJ,0.6198127865791321,[],,
+mettre,plupart,nsubj:pass,NOUN,0.4345490932464599,[],,
+plupart,infusion,nmod,NOUN,0.5257771611213684,[],,
+ajout,sirop,nmod,NOUN,0.5704885125160217,[],,
+sirop,sucre,nmod,NOUN,0.6353851556777954,"[{""id"": 217497, ""node1"": 91109, ""node2"": 139481, ""type"": 0, ""w"": 407.0}, {""id"": 415329, ""node1"": 91109, ""node2"": 139481, ""type"": 9, ""w"": 70.0}, {""id"": 1035329517, ""node1"": 91109, ""node2"": 139481, ""type"": 50, ""w"": 31.0}, {""id"": 984864968, ""node1"": 91109, ""node2"": 139481, ""type"": 666, ""w"": 3.0}]",r_associated,407.0
+préparation,renforcer,acl,VERB,0.4850310087203979,[],,
+renforcer,teneur,obj,NOUN,0.4509797990322113,[],,
+teneur,alcool,nmod,NOUN,0.5137119889259338,[],,
+infusion,alcool,nmod,NOUN,0.5564156174659729,"[{""id"": 6543025, ""node1"": 41742, ""node2"": 47597, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+fruit,couverte,acl,NOUN,0.5089698433876038,[],,
+couverte,pâte,nmod,NOUN,0.6488593816757202,[],,
+infusion,chauffer,acl,VERB,0.6445358991622925,[],,
+accompagner,choucroute,obj,NOUN,0.5805798172950745,[],,
+choucroute,local,amod,ADJ,0.5130875706672668,[],,
+conserve,légume,nmod,NOUN,0.6423806548118591,"[{""id"": 560380157, ""node1"": 144639, ""node2"": 120603, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+place,important,amod,ADJ,0.4464268386363983,[],,
+place,vie,nmod,NOUN,0.4571045339107513,[],,
+vie,social,amod,ADJ,0.4042860269546509,"[{""id"": 274818590, ""node1"": 141659, ""node2"": 3143, ""type"": 0, ""w"": 29.0}, {""id"": 3272125, ""node1"": 141659, ""node2"": 3143, ""type"": 777, ""w"": 10.0}]",r_associated,29.0
+mariage,traditionnel,amod,ADJ,0.4201606512069702,"[{""id"": 675396051, ""node1"": 26477, ""node2"": 41139, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+diminuer,consommation,nsubj,NOUN,0.4470770061016083,[],,
+sorte,ingrédient,nmod,NOUN,0.599443793296814,[],,
+raisin,sec,amod,ADJ,0.5050904750823975,"[{""id"": 105224, ""node1"": 93528, ""node2"": 63619, ""type"": 0, ""w"": 62.0}, {""id"": 114116, ""node1"": 93528, ""node2"": 63619, ""type"": 17, ""w"": 60.0}, {""id"": 985028970, ""node1"": 93528, ""node2"": 63619, ""type"": 666, ""w"": 2.0}]",r_associated,62.0
+pur,tout,amod,ADJ,0.4331753253936767,[],,
+consommer,essayer,advcl,VERB,0.4949041306972503,[],,

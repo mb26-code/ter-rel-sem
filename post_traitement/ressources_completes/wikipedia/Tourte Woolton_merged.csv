@@ -1,0 +1,64 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+plat,anglais,amod,ADJ,0.5871748328208923,[],,
+plat,base,nmod,NOUN,0.6491852402687073,[],,
+base,légume,nmod,NOUN,0.6855320930480957,[],,
+plat,susceptible,amod,ADJ,0.6022886037826538,[],,
+créer,plat,nsubj:pass,NOUN,0.5851317048072815,[],,
+chef,cuisine,nmod,NOUN,0.5018421411514282,"[{""id"": 123146, ""node1"": 89926, ""node2"": 16033, ""type"": 0, ""w"": 67.0}, {""id"": 505266, ""node1"": 89926, ""node2"": 16033, ""type"": 3, ""w"": 26.0}, {""id"": 83314, ""node1"": 89926, ""node2"": 16033, ""type"": 15, ""w"": 106.0}, {""id"": 765888986, ""node1"": 89926, ""node2"": 16033, ""type"": 82, ""w"": 29.0}, {""id"": 775109502, ""node1"": 89926, ""node2"": 16033, ""type"": 137, ""w"": 25.0}, {""id"": 653251804, ""node1"": 89926, ""node2"": 16033, ""type"": 666, ""w"": 8.0}]",r_lieu,106.0
+recette,nombreux,amod,ADJ,0.5949440598487854,[],,
+ministère,alimentation,nmod,NOUN,0.4190280437469482,[],,
+alimentation,britannique,amod,ADJ,0.4521605372428894,[],,
+maintenir,régime,obj,NOUN,0.4486981928348541,[],,
+régime,alimentaire,amod,ADJ,0.4811001420021057,"[{""id"": 33159082, ""node1"": 127867, ""node2"": 16746, ""type"": 0, ""w"": 35.0}, {""id"": 16007682, ""node1"": 127867, ""node2"": 16746, ""type"": 35, ""w"": 32.0}]",r_associated,35.0
+régime,adapter,acl,VERB,0.4460220038890838,[],,
+type,nombreux,amod,ADJ,0.4162146747112274,[],,
+type,aliment,nmod,NOUN,0.5585227608680725,[],,
+devoir,plat,nsubj,NOUN,0.5828810930252075,[],,
+ministre,alimentation,nmod,NOUN,0.4036576747894287,[],,
+légume,différent,amod,ADJ,0.627467691898346,[],,
+eau,légume,nmod,NOUN,0.6684015989303589,"[{""id"": 9976378, ""node1"": 65012, ""node2"": 120603, ""type"": 10, ""w"": 29.0}]",r_holo,29.0
+légume,couper,acl,VERB,0.6505833268165588,"[{""id"": 900892207, ""node1"": 120603, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 8555448, ""node1"": 120603, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+cuire,pomme,obj,NOUN,0.7674765586853027,"[{""id"": 195355017, ""node1"": 5115, ""node2"": 37201, ""type"": 13, ""w"": 30.0}, {""id"": 97862229, ""node1"": 5115, ""node2"": 37201, ""type"": 14, ""w"": 30.0}]",r_agent,30.0
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+échalote,haché,acl,ADJ,0.5653180480003357,[],,
+placer,préparation,nsubj:pass,NOUN,0.5372961759567261,"[{""id"": 561339449, ""node1"": 5454, ""node2"": 33634, ""type"": 0, ""w"": 42.0}]",r_associated,42.0
+terrine,couche,nmod,NOUN,0.599193274974823,[],,
+couche,pomme,nmod,NOUN,0.5823779702186584,[],,
+pomme,écraser,amod,VERB,0.5793675184249878,[],,
+servir,plat,nsubj:pass,NOUN,0.6370052695274353,"[{""id"": 1610963, ""node1"": 7888, ""node2"": 36327, ""type"": 0, ""w"": 122.0}, {""id"": 97862196, ""node1"": 7888, ""node2"": 36327, ""type"": 14, ""w"": 100.0}, {""id"": 134589, ""node1"": 7888, ""node2"": 36327, ""type"": 16, ""w"": 110.0}, {""id"": 376065693, ""node1"": 7888, ""node2"": 36327, ""type"": 31, ""w"": 26.0}, {""id"": 466842766, ""node1"": 7888, ""node2"": 36327, ""type"": 666, ""w"": 2.0}]",r_associated,122.0
+sauce,brune,amod,NOUN,0.6346434950828552,[],,
+brune,légume,nmod,NOUN,0.6344439387321472,[],,
+pouvoir,recette,nsubj,NOUN,0.6082739233970642,[],,
+fonction,ingrédient,nmod,NOUN,0.5967955589294434,[],,
+ingrédient,disponible,amod,ADJ,0.5363836884498596,"[{""id"": 410014570, ""node1"": 123418, ""node2"": 100702, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+viande,faire,acl,VERB,0.7241941690444946,[],,
+viande,accueillir,acl,VERB,0.689365565776825,[],,
+paraître,faire,advcl,VERB,0.4421494901180267,"[{""id"": 79194861, ""node1"": 8797, ""node2"": 87528, ""type"": 0, ""w"": 21.0}, {""id"": 54695354, ""node1"": 8797, ""node2"": 87528, ""type"": 5, ""w"": 57.0}]",r_syn,57.0
+faire,imposer,advcl,VERB,0.4183551073074341,"[{""id"": 79194555, ""node1"": 87528, ""node2"": 127777, ""type"": 0, ""w"": 28.0}, {""id"": 54704312, ""node1"": 87528, ""node2"": 127777, ""type"": 5, ""w"": 51.0}]",r_syn,51.0
+table,réticent,amod,ADJ,0.4924851357936859,[],,
+oublier,faire,advcl,VERB,0.4687485694885254,[],,
+faire,numéro,obj,NOUN,0.4462080597877502,"[{""id"": 914359472, ""node1"": 87528, ""node2"": 135482, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+faire,accepter,advcl,VERB,0.4139748513698578,[],,
+déjeuner,public,amod,ADJ,0.420466274023056,[],,
+manger,plat,obj,NOUN,0.6645215153694153,"[{""id"": 160976, ""node1"": 130164, ""node2"": 36327, ""type"": 0, ""w"": 84.0}, {""id"": 113799, ""node1"": 130164, ""node2"": 36327, ""type"": 14, ""w"": 100.0}, {""id"": 116479, ""node1"": 130164, ""node2"": 36327, ""type"": 16, ""w"": 80.0}, {""id"": 965006553, ""node1"": 130164, ""node2"": 36327, ""type"": 666, ""w"": 3.0}]",r_associated,84.0
+plat,porte,acl:relcl,VERB,0.5946788787841797,[],,
+signe,tout,amod,ADJ,0.456542432308197,[],,
+plat,austérité,nmod,NOUN,0.5874970555305481,[],,
+austérité,temps,nmod,NOUN,0.4370715320110321,[],,
+temps,guerre,nmod,NOUN,0.4545530080795288,[],,
+populaire,oublier,advcl,VERB,0.4499871730804443,[],,
+revenir,condition,nsubj,NOUN,0.4768007695674896,[],,
+oublier,revenir,advcl,VERB,0.4526881277561188,[],,
+gâteau,exception,nsubj,NOUN,0.6268474459648132,[],,
+revenir,gâteau,obj,NOUN,0.6527406573295593,[],,
+gâteau,carotte,nmod,NOUN,0.6691263914108276,[],,
+gâteau,inventer,acl:relcl,VERB,0.5819754004478455,[],,
+populaire,utiliser,advcl,VERB,0.4433062374591827,[],,
+utiliser,légume,obj,NOUN,0.6606505513191223,[],,
+lieu,ingrédient,nmod,NOUN,0.4968515932559967,"[{""id"": 15370372, ""node1"": 135190, ""node2"": 123418, ""type"": 0, ""w"": 27.0}, {""id"": 506061, ""node1"": 135190, ""node2"": 123418, ""type"": 3, ""w"": 33.0}, {""id"": 569277378, ""node1"": 135190, ""node2"": 123418, ""type"": 6, ""w"": 43.0}]",r_isa,43.0
+ingrédient,devenir,acl,VERB,0.543168842792511,[],,
+ingrédient,tel,amod,ADJ,0.4815298616886139,[],,
+ingrédient,recette,appos,NOUN,0.6718937158584595,"[{""id"": 2293219, ""node1"": 123418, ""node2"": 120188, ""type"": 0, ""w"": 85.0}, {""id"": 195966, ""node1"": 123418, ""node2"": 120188, ""type"": 6, ""w"": -98.0}, {""id"": 98312148, ""node1"": 123418, ""node2"": 120188, ""type"": 10, ""w"": 34.0}, {""id"": 990177272, ""node1"": 123418, ""node2"": 120188, ""type"": 666, ""w"": 3.0}]",r_associated,85.0
+anniversaire,fin,nmod,NOUN,0.4178906679153442,[],,
+fin,guerre,nmod,NOUN,0.4283709824085235,[],,
+fin,Europe,nmod,PROPN,0.412973403930664,[],,

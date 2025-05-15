@@ -1,0 +1,56 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+tajine,ébauche,nsubj,NOUN,0.5748193264007568,[],,
+concerner,cuisine,obj,NOUN,0.6019042730331421,[],,
+cuisine,marocain,amod,ADJ,0.5806695222854614,[],,
+tajine,printemps,nmod,NOUN,0.5881340503692627,[],,
+tajine,originaire,acl:relcl,ADJ,0.5728178024291992,[],,
+tajine,Maroc,nmod,PROPN,0.4640622138977051,"[{""id"": 766397602, ""node1"": 68090, ""node2"": 36344, ""type"": 0, ""w"": 34.0}, {""id"": 765200442, ""node1"": 68090, ""node2"": 36344, ""type"": 15, ""w"": 45.0}, {""id"": 4843218, ""node1"": 68090, ""node2"": 36344, ""type"": 777, ""w"": 10.0}]",r_lieu,45.0
+catégorie,tajine,nmod,NOUN,0.5732622742652893,[],,
+viande,dont,nmod,PRON,0.638870358467102,[],,
+base,épaule,nmod,NOUN,0.492507666349411,[],,
+épaule,agneau,nmod,NOUN,0.4516112804412842,"[{""id"": 652404, ""node1"": 3723, ""node2"": 128646, ""type"": 0, ""w"": 44.0}, {""id"": 423473, ""node1"": 3723, ""node2"": 128646, ""type"": 6, ""w"": 111.0}, {""id"": 98312112, ""node1"": 3723, ""node2"": 128646, ""type"": 10, ""w"": 32.0}]",r_isa,111.0
+recette,famille,nmod,NOUN,0.5838249921798706,"[{""id"": 961164975, ""node1"": 120188, ""node2"": 98300, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+manière,principal,amod,ADJ,0.4419031143188476,[],,
+manière,cuisson,nmod,NOUN,0.7056154608726501,[],,
+moderne,autre,amod,PRON,0.4596725404262543,[],,
+faire,cocotte,obj,NOUN,0.6640077233314514,[],,
+recette,suivre,acl:relcl,VERB,0.5350927114486694,"[{""id"": 98281096, ""node1"": 120188, ""node2"": 47123, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+manière,premier,amod,ADJ,0.4454594254493713,[],,
+recette,qui,nsubj,PRON,0.5200523138046265,[],,
+manière,recette,acl:relcl,NOUN,0.6018186807632446,[],,
+recette,authentique,amod,ADJ,0.6340410709381104,"[{""id"": 459375734, ""node1"": 120188, ""node2"": 123691, ""type"": 17, ""w"": 51.0}]",r_carac,51.0
+recette,mettre,acl,VERB,0.6356000304222107,[],,
+tajine,terre,nmod,NOUN,0.6391950845718384,[],,
+tajine,cuillère,nmod,NOUN,0.6716381311416626,[],,
+cuillère,soupe,acl,NOUN,0.6428441405296326,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+mettre,poivre,obj,NOUN,0.6437476873397827,"[{""id"": 513445455, ""node1"": 132366, ""node2"": 139597, ""type"": 0, ""w"": 26.0}, {""id"": 513445454, ""node1"": 132366, ""node2"": 139597, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+oignon,petit,amod,ADJ,0.6169144511222839,"[{""id"": 96738917, ""node1"": 123307, ""node2"": 55222, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+placer,oignon,obj,NOUN,0.6274444460868835,[],,
+oignon,couper,acl,VERB,0.5958451628684998,"[{""id"": 900892185, ""node1"": 123307, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 31770901, ""node1"": 123307, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 1767208, ""node1"": 123307, ""node2"": 128828, ""type"": 666, ""w"": 2.0}]",r_patient-1,100.0
+oignon,centre,nmod,NOUN,0.5783369541168213,[],,
+centre,tajine,nmod,NOUN,0.6149961948394775,[],,
+mettre,morceau,obj,NOUN,0.570323646068573,[],,
+morceau,viande,nmod,NOUN,0.713297426700592,"[{""id"": 179412, ""node1"": 65364, ""node2"": 140100, ""type"": 0, ""w"": 83.0}, {""id"": 1007988744, ""node1"": 65364, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]",r_associated,83.0
+morceau,dessus,nmod,ADV,0.5376694798469543,[],,
+entourer,viande,obj,NOUN,0.6857331395149231,[],,
+viande,oignon,nmod,NOUN,0.7335014939308167,[],,
+oignon,restant,amod,ADJ,0.6039798259735107,[],,
+saupoudrer,tout,obj,NOUN,0.5691063404083252,[],,
+tout,cannelle,amod,ADJ,0.6551540493965149,[],,
+mettre,cuire,advcl,VERB,0.6822199821472168,[],,
+feu,doux,amod,ADJ,0.5531697273254395,[],,
+feu,charbon,nmod,NOUN,0.574150025844574,"[{""id"": 8937293, ""node1"": 143703, ""node2"": 111649, ""type"": 52, ""w"": 54.0}, {""id"": 2160087, ""node1"": 143703, ""node2"": 111649, ""type"": 53, ""w"": 5.0}]",r_successeur-time,54.0
+moitié,cuisson,nmod,NOUN,0.7085227966308594,[],,
+cuisson,viande,nmod,NOUN,0.7953113913536072,"[{""id"": 568820873, ""node1"": 60056, ""node2"": 140100, ""type"": 0, ""w"": 44.0}]",r_associated,44.0
+cuillère,autre,amod,ADJ,0.5561668872833252,[],,
+ajouter,cuillère,obj,NOUN,0.5553516745567322,[],,
+soupe,miel,nmod,NOUN,0.6922481656074524,[],,
+cuire,viande,nsubj,NOUN,0.7988991737365723,"[{""id"": 2182411, ""node1"": 5115, ""node2"": 140100, ""type"": 0, ""w"": 73.0}, {""id"": 148035, ""node1"": 5115, ""node2"": 140100, ""type"": 13, ""w"": 100.0}, {""id"": 206249, ""node1"": 5115, ""node2"": 140100, ""type"": 14, ""w"": 100.0}, {""id"": 722712577, ""node1"": 5115, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]",r_agent,100.0
+ajouter,cuire,advcl,VERB,0.6986612677574158,[],,
+mettre,ajouter,acl,VERB,0.4343390166759491,"[{""id"": 930338, ""node1"": 132366, ""node2"": 25099, ""type"": 0, ""w"": 33.0}, {""id"": 432805151, ""node1"": 132366, ""node2"": 25099, ""type"": 5, ""w"": 31.0}, {""id"": 9094398, ""node1"": 132366, ""node2"": 25099, ""type"": 35, ""w"": 30.0}, {""id"": 1008795590, ""node1"": 132366, ""node2"": 25099, ""type"": 666, ""w"": 3.0}]",r_associated,33.0
+mijoter,minute,nmod,NOUN,0.6281461119651794,[],,
+minute,feu,nmod,NOUN,0.5722202658653259,[],,
+absorber,tajine,nsubj,NOUN,0.6219484210014343,[],,
+mijoter,absorber,advcl,VERB,0.6005329489707947,[],,
+composante,tout,amod,ADJ,0.5023308992385864,[],,
+absorber,composante,obj,NOUN,0.4169830083847046,[],,

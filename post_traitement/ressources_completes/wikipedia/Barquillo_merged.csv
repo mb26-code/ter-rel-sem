@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,gastronomie,obj,NOUN,0.4582444131374359,[],,
+pâtisserie,croustillant,amod,ADJ,0.6520339250564575,[],,
+pâtisserie,forme,nmod,NOUN,0.5583813786506653,[],,
+forme,rouler,amod,ADJ,0.5139485001564026,"[{""id"": 14658126, ""node1"": 142000, ""node2"": 231, ""type"": 41, ""w"": 32.0}]",r_has_conseq,32.0
+pâtisserie,originaire,amod,ADJ,0.5083064436912537,[],,
+ingrédient,base,nmod,NOUN,0.5895823240280151,"[{""id"": 12352698, ""node1"": 123418, ""node2"": 72257, ""type"": 0, ""w"": 30.0}, {""id"": 12197414, ""node1"": 123418, ""node2"": 72257, ""type"": 5, ""w"": 35.0}]",r_associated,30.0
+base,biscuit,nmod,NOUN,0.6167486906051636,[],,
+ingrédient,sucre,nmod,NOUN,0.6975625157356262,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]",r_associated,70.0
+blanc,œuf,nmod,NOUN,0.5384882688522339,"[{""id"": 796769193, ""node1"": 15196, ""node2"": 174124, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+ingrédient,rouler,acl,VERB,0.6108476519584656,[],,
+vendeur,bord,nmod,NOUN,0.4296192526817322,[],,
+bord,route,nmod,NOUN,0.4178111553192138,"[{""id"": 980838529, ""node1"": 63985, ""node2"": 121678, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+porter,qui,nsubj,PRON,0.4152886867523193,[],,
+vendeur,porter,acl:relcl,VERB,0.4132982492446899,[],,
+porter,boîte,obj,NOUN,0.4762943983078003,"[{""id"": 748759449, ""node1"": 43404, ""node2"": 7575, ""type"": 0, ""w"": 27.0}, {""id"": 759365226, ""node1"": 43404, ""node2"": 7575, ""type"": 13, ""w"": 30.0}, {""id"": 748759448, ""node1"": 43404, ""node2"": 7575, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+boîte,roulette,nmod,NOUN,0.4589033722877502,[],,
+roulette,rouge,amod,ADJ,0.49248206615448,"[{""id"": 383634, ""node1"": 29123, ""node2"": 86356, ""type"": 0, ""w"": 60.0}, {""id"": 3182134, ""node1"": 29123, ""node2"": 86356, ""type"": 106, ""w"": 1.0}]",r_associated,60.0
+boîte,caractéristique,amod,ADJ,0.4271499216556549,[],,
+type,biscuit,nmod,NOUN,0.5593932271003723,[],,
+biscuit,Noël,nmod,PROPN,0.4796057939529419,[],,
+pays,est,nmod,NOUN,0.4135731160640716,"[{""id"": 797244273, ""node1"": 22243, ""node2"": 144236, ""type"": 0, ""w"": 25.0}, {""id"": 11347875, ""node1"": 22243, ""node2"": 144236, ""type"": 28, ""w"": 38.0}]",r_lieu-1,38.0
+faire,sucre,nmod,NOUN,0.692607581615448,[],,
+roule,que,obj,PRON,0.4516467154026031,[],,
+sucre,roule,acl:relcl,VERB,0.6222742795944214,[],,
+tube,long,amod,ADJ,0.4303184151649475,"[{""id"": 415003968, ""node1"": 134899, ""node2"": 84432, ""type"": 0, ""w"": 26.0}, {""id"": 552972320, ""node1"": 134899, ""node2"": 84432, ""type"": 17, ""w"": 26.0}]",r_associated,26.0
+forme,tube,nmod,NOUN,0.4350929856300354,"[{""id"": 914300586, ""node1"": 142000, ""node2"": 134899, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+fête,habiller,acl:relcl,VERB,0.4407234787940979,[],,

@@ -1,0 +1,21 @@
+head,lemma,dep,pos,sim,relations
+concerner,cuisine,obj,NOUN,0.6019042730331421,[]
+tajine,algérien,amod,ADJ,0.5185056328773499,[]
+phare,tajine,nmod,NOUN,0.5773500204086304,[]
+ingrédient,associer,acl:relcl,VERB,0.5445334911346436,[]
+viande,persil,nmod,NOUN,0.7275292277336121,[]
+origine,tajine,nmod,NOUN,0.6082665920257568,[]
+préparer,tajine,nsubj:pass,NOUN,0.6332026720046997,[]
+ingrédient,tout,amod,ADJ,0.6054088473320007,[]
+mélanger,ingrédient,nsubj,NOUN,0.6393055319786072,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]"
+présenter,mélanger,advcl,VERB,0.4817354083061218,[]
+former,viande,nsubj,NOUN,0.6696813106536865,[]
+mariage,former,acl:relcl,VERB,0.4068191647529602,[]
+couche,premier,amod,ADJ,0.4781373143196106,[]
+former,couche,obj,NOUN,0.4556353390216827,[]
+déposer,couche,nsubj:pass,NOUN,0.4806122183799743,"[{""id"": 432394802, ""node1"": 35714, ""node2"": 19152, ""type"": 14, ""w"": 31.0}]"
+couche,fromage,nmod,NOUN,0.6150064468383789,[]
+couche,fondre,acl,VERB,0.5467774868011475,[]
+couche,déposer,acl:relcl,VERB,0.4806122183799743,"[{""id"": 432519960, ""node1"": 19152, ""node2"": 35714, ""type"": 26, ""w"": 31.0}]"
+fromage,suite,amod,NOUN,0.5850055813789368,[]
+saupoudrer,fromage,nsubj,NOUN,0.6762881278991699,"[{""id"": 31813969, ""node1"": 133415, ""node2"": 141687, ""type"": 16, ""w"": 51.0}]"

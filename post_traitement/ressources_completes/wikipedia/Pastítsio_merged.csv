@@ -1,0 +1,71 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+plat,cuisine,nmod,NOUN,0.6855981349945068,"[{""id"": 2142698, ""node1"": 36327, ""node2"": 16033, ""type"": 0, ""w"": 359.0}, {""id"": 505517, ""node1"": 36327, ""node2"": 16033, ""type"": 3, ""w"": 285.0}, {""id"": 128986, ""node1"": 36327, ""node2"": 16033, ""type"": 10, ""w"": 170.0}, {""id"": 145490, ""node1"": 36327, ""node2"": 16033, ""type"": 15, ""w"": 245.0}, {""id"": 376196655, ""node1"": 36327, ""node2"": 16033, ""type"": 16, ""w"": -26.0}, {""id"": 765133729, ""node1"": 36327, ""node2"": 16033, ""type"": 80, ""w"": 26.0}, {""id"": 652234278, ""node1"": 36327, ""node2"": 16033, ""type"": 666, ""w"": 6.0}]",r_associated,359.0
+cuisine,grec,amod,ADJ,0.4040005803108215,"[{""id"": 920914285, ""node1"": 16033, ""node2"": 126963, ""type"": 0, ""w"": 20.0}, {""id"": 597861610, ""node1"": 16033, ""node2"": 126963, ""type"": 27, ""w"": 29.0}]",r_domain-1,29.0
+plat,composer,acl,VERB,0.5854783058166504,[],,
+viande,haché,amod,ADJ,0.6585910320281982,[],,
+cuire,plat,nsubj:pass,NOUN,0.7650924324989319,"[{""id"": 477379951, ""node1"": 5115, ""node2"": 36327, ""type"": 0, ""w"": 28.0}, {""id"": 334180844, ""node1"": 5115, ""node2"": 36327, ""type"": 13, ""w"": 31.0}, {""id"": 206248, ""node1"": 5115, ""node2"": 36327, ""type"": 14, ""w"": 100.0}, {""id"": 376200771, ""node1"": 5115, ""node2"": 36327, ""type"": 16, ""w"": 27.0}, {""id"": 477428828, ""node1"": 5115, ""node2"": 36327, ""type"": 31, ""w"": 26.0}, {""id"": 1011357538, ""node1"": 5115, ""node2"": 36327, ""type"": 666, ""w"": 3.0}]",r_patient,100.0
+variante,plat,nmod,NOUN,0.6098598837852478,[],,
+plat,italien,amod,ADJ,0.5845091342926025,[],,
+version,typique,amod,ADJ,0.4678948223590851,"[{""id"": 531333471, ""node1"": 134208, ""node2"": 133589, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+présente,couche,obj,NOUN,0.4307897686958313,[],,
+couche,inférieur,amod,ADJ,0.4406848847866058,[],,
+couche,faire,acl,VERB,0.549748957157135,[],,
+pâte,autre,amod,ADJ,0.6657009720802307,[],,
+pâte,tubulaire,amod,ADJ,0.6279439330101013,[],,
+pâte,fromage,nmod,NOUN,0.6909428834915161,"[{""id"": 98431178, ""node1"": 34069, ""node2"": 141687, ""type"": 0, ""w"": 44.0}, {""id"": 97415349, ""node1"": 34069, ""node2"": 141687, ""type"": 10, ""w"": 28.0}, {""id"": 496570368, ""node1"": 34069, ""node2"": 141687, ""type"": 35, ""w"": 35.0}, {""id"": 650992497, ""node1"": 34069, ""node2"": 141687, ""type"": 666, ""w"": 4.0}, {""id"": 4583697, ""node1"": 34069, ""node2"": 141687, ""type"": 777, ""w"": 10.0}]",r_associated,44.0
+présente,liant,advcl,NOUN,0.4038121402263641,[],,
+haché,couche,nsubj,NOUN,0.573910117149353,[],,
+couche,intermédiaire,amod,NOUN,0.4344924986362457,[],,
+intermédiaire,bœuf,nmod,NOUN,0.5571986436843872,[],,
+couche,veau,appos,NOUN,0.5812016725540161,[],,
+couche,viande,appos,NOUN,0.6758694648742676,[],,
+présente,haché,advcl,ADJ,0.5012718439102173,[],,
+noix,muscade,nmod,NOUN,0.5651988983154297,"[{""id"": 796773628, ""node1"": 30910, ""node2"": 115297, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+épice,autre,amod,ADJ,0.6326203346252441,[],,
+recouvrir,tout,amod,NOUN,0.5254943370819092,[],,
+présente,recouvrir,advcl,VERB,0.4353823065757751,[],,
+couche,autre,amod,ADJ,0.4852680265903473,[],,
+couche,pâte,nmod,NOUN,0.6256560683250427,"[{""id"": 720819467, ""node1"": 19152, ""node2"": 34069, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+recouvrir,finir,advcl,VERB,0.4639143645763397,[],,
+recouvrir,ensemble,nsubj:pass,NOUN,0.4521131515502929,[],,
+couche,sauce,nmod,NOUN,0.6604450941085815,[],,
+couche,variable,amod,ADJ,0.4697234332561493,[],,
+base,œuf,nmod,NOUN,0.5924127697944641,[],,
+sauce,nature,amod,NOUN,0.6740309000015259,[],,
+sauce,fromage,nmod,NOUN,0.7452110648155212,"[{""id"": 96714950, ""node1"": 141110, ""node2"": 141687, ""type"": 0, ""w"": 27.0}, {""id"": 96715001, ""node1"": 141110, ""node2"": 141687, ""type"": 9, ""w"": 30.0}, {""id"": 27597810, ""node1"": 141110, ""node2"": 141687, ""type"": 777, ""w"": 10.0}]",r_has_part,30.0
+saupoudrer,dessus,nsubj,NOUN,0.5217934846878052,[],,
+fromage,râpé,acl,ADV,0.566169261932373,"[{""id"": 12302415, ""node1"": 141687, ""node2"": 52123, ""type"": 0, ""w"": 35.0}, {""id"": 570495, ""node1"": 141687, ""node2"": 52123, ""type"": 5, ""w"": 34.0}, {""id"": 25028576, ""node1"": 141687, ""node2"": 52123, ""type"": 8, ""w"": 26.0}, {""id"": 383306, ""node1"": 141687, ""node2"": 52123, ""type"": 17, ""w"": 129.0}]",r_carac,129.0
+plat,commun,amod,ADJ,0.5883481502532959,"[{""id"": 54686742, ""node1"": 36327, ""node2"": 55834, ""type"": 0, ""w"": 30.0}, {""id"": 54684470, ""node1"": 36327, ""node2"": 55834, ""type"": 5, ""w"": 188.0}]",r_syn,188.0
+appeler,servir,advcl,VERB,0.4116459190845489,[],,
+plat,principal,amod,ADJ,0.5791923403739929,[],,
+servir,accompagner,advcl,VERB,0.4603842794895172,[],,
+appeler,plat,nsubj:pass,NOUN,0.5979531407356262,[],,
+plat,similaire,amod,ADJ,0.5841349363327026,"[{""id"": 541161746, ""node1"": 36327, ""node2"": 60988, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+célébration,tel,amod,ADJ,0.4182491302490234,[],,
+viande,broche,nmod,NOUN,0.6912891268730164,"[{""id"": 899181000, ""node1"": 140100, ""node2"": 143684, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+varier,recette,nsubj,NOUN,0.6024237871170044,[],,
+couche,milieu,nmod,NOUN,0.4806632995605469,[],,
+faire,sauce,nsubj:pass,NOUN,0.7085849046707153,[],,
+sauce,viande,nmod,NOUN,0.755276083946228,"[{""id"": 370659432, ""node1"": 141110, ""node2"": 140100, ""type"": 0, ""w"": 4.0}]",r_associated,4.0
+utiliser,tomate,nsubj:pass,NOUN,0.6390584111213684,"[{""id"": 766545790, ""node1"": 62611, ""node2"": 22138, ""type"": 13, ""w"": 29.0}]",r_agent,29.0
+sauce,blanc,amod,ADJ,0.6898111701011658,"[{""id"": 651261981, ""node1"": 141110, ""node2"": 15196, ""type"": 0, ""w"": 22.0}, {""id"": 3161939, ""node1"": 141110, ""node2"": 15196, ""type"": 106, ""w"": 4.0}]",r_associated,22.0
+composer,plat,nsubj,NOUN,0.5854783058166504,[],,
+viande,épicé,amod,ADJ,0.7080379724502563,[],,
+composer,faire,advcl,VERB,0.4432538449764251,"[{""id"": 806581, ""node1"": 54882, ""node2"": 87528, ""type"": 0, ""w"": 31.0}, {""id"": 53592182, ""node1"": 54882, ""node2"": 87528, ""type"": 5, ""w"": 701.0}, {""id"": 656900292, ""node1"": 54882, ""node2"": 87528, ""type"": 6, ""w"": -37.0}]",r_syn,701.0
+sauce,contenir,acl,VERB,0.6808450222015381,[],,
+quantité,petit,amod,ADJ,0.5893296003341675,"[{""id"": 892024045, ""node1"": 78869, ""node2"": 55222, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+contenir,quantité,obj,NOUN,0.4772158563137054,[],,
+quantité,lier,acl,VERB,0.4609638750553131,[],,
+mélange,œuf,nmod,NOUN,0.5602554082870483,[],,
+œuf,croire,acl,VERB,0.5314504504203796,[],,
+ajouter,œuf,nsubj:pass,NOUN,0.5344891548156738,[],,
+œuf,dur,amod,ADJ,0.5370863080024719,"[{""id"": 560384151, ""node1"": 174124, ""node2"": 72731, ""type"": 0, ""w"": 67.0}]",r_associated,67.0
+cuire,il,nsubj,PRON,0.4075803458690643,[],,
+famille,grand,amod,ADJ,0.413560539484024,[],,
+famille,tarte,nmod,NOUN,0.6060591340065002,"[{""id"": 920039927, ""node1"": 98300, ""node2"": 575, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+tarte,salé,amod,ADJ,0.6849774122238159,"[{""id"": 588369297, ""node1"": 575, ""node2"": 47377, ""type"": 0, ""w"": 51.0}, {""id"": 76378011, ""node1"": 575, ""node2"": 47377, ""type"": 17, ""w"": 35.0}]",r_associated,51.0
+tarte,pouvoir,acl:relcl,VERB,0.6172742247581482,"[{""id"": 588372894, ""node1"": 575, ""node2"": 7804, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+base,viande,nmod,NOUN,0.6828669309616089,[],,
+pâte,pâtissier,amod,ADJ,0.641992449760437,"[{""id"": 1619037, ""node1"": 34069, ""node2"": 31618, ""type"": 22, ""w"": 170.0}, {""id"": 96931490, ""node1"": 34069, ""node2"": 31618, ""type"": 99, ""w"": 30.0}, {""id"": 96931499, ""node1"": 34069, ""node2"": 31618, ""type"": 156, ""w"": 21.0}]",r_family,170.0
+comprendre,autre,nsubj,ADJ,0.4310911893844604,[],,
+venir,mot,nsubj,NOUN,0.4188452363014221,[],,

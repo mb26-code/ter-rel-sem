@@ -1,0 +1,14 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+plat,typique,amod,ADJ,0.6110854148864746,"[{""id"": 93507384, ""node1"": 36327, ""node2"": 133589, ""type"": 17, ""w"": 36.0}]",r_carac,36.0
+plat,cuisine,nmod,NOUN,0.6855981349945068,"[{""id"": 2142698, ""node1"": 36327, ""node2"": 16033, ""type"": 0, ""w"": 359.0}, {""id"": 505517, ""node1"": 36327, ""node2"": 16033, ""type"": 3, ""w"": 285.0}, {""id"": 128986, ""node1"": 36327, ""node2"": 16033, ""type"": 10, ""w"": 170.0}, {""id"": 145490, ""node1"": 36327, ""node2"": 16033, ""type"": 15, ""w"": 245.0}, {""id"": 376196655, ""node1"": 36327, ""node2"": 16033, ""type"": 16, ""w"": -26.0}, {""id"": 765133729, ""node1"": 36327, ""node2"": 16033, ""type"": 80, ""w"": 26.0}, {""id"": 652234278, ""node1"": 36327, ""node2"": 16033, ""type"": 666, ""w"": 6.0}]",r_associated,359.0
+cuisine,péruvien,amod,ADJ,0.5469043254852295,[],,
+plat,région,nmod,NOUN,0.635219395160675,[],,
+variété,cochon,nmod,NOUN,0.5876345634460449,[],,
+pierre,office,acl:relcl,NOUN,0.4825242161750793,[],,
+office,couvercle,nmod,NOUN,0.4730533063411712,[],,
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,cuire,amod,VERB,0.7674765586853027,"[{""id"": 195277465, ""node1"": 37201, ""node2"": 5115, ""type"": 24, ""w"": 31.0}, {""id"": 96711599, ""node1"": 37201, ""node2"": 5115, ""type"": 26, ""w"": 55.0}]",r_patient-1,55.0
+pomme,maïs,nmod,NOUN,0.6087260246276855,[],,
+plat,ce,nsubj,PRON,0.418347030878067,[],,
+présenter,animal,nsubj:pass,NOUN,0.425231397151947,[],,
+plat,apprécier,acl,VERB,0.6148583889007568,"[{""id"": 476192126, ""node1"": 36327, ""node2"": 63449, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0

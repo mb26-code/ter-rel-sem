@@ -1,0 +1,15 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,cuisine,obj,NOUN,0.6019042730331421,[],,
+sauce,sauce,nsubj,NOUN,0.6601590514183044,"[{""id"": 331997, ""node1"": 141110, ""node2"": 141110, ""type"": 19, ""w"": 146.0}]",r_lemma,146.0
+sauce,arachide,nmod,NOUN,0.7034777998924255,[],,
+préparer,sauce,advcl,NOUN,0.7072528600692749,"[{""id"": 395781320, ""node1"": 36246, ""node2"": 141110, ""type"": 0, ""w"": 35.0}, {""id"": 373014451, ""node1"": 36246, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+sauce,originaire,amod,ADJ,0.6691800951957703,"[{""id"": 442343009, ""node1"": 141110, ""node2"": 38359, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+préparer,lui,nsubj:pass,PRON,0.4201748371124267,[],,
+bœuf,fumé,amod,ADJ,0.591124951839447,[],,
+différer,préparation,nsubj,NOUN,0.4409951865673065,[],,
+préparation,sauce,nmod,NOUN,0.7114981412887573,"[{""id"": 9903071, ""node1"": 33634, ""node2"": 141110, ""type"": 0, ""w"": 54.0}, {""id"": 422811, ""node1"": 33634, ""node2"": 141110, ""type"": 8, ""w"": 63.0}]",r_hypo,63.0
+poisson,frais,amod,ADJ,0.5633629560470581,"[{""id"": 24378133, ""node1"": 68467, ""node2"": 53495, ""type"": 0, ""w"": 39.0}, {""id"": 2555102, ""node1"": 68467, ""node2"": 53495, ""type"": 17, ""w"": 32.0}, {""id"": 943378984, ""node1"": 68467, ""node2"": 53495, ""type"": 666, ""w"": 3.0}]",r_associated,39.0
+poisson,fumé,amod,ADJ,0.5773400664329529,"[{""id"": 477559039, ""node1"": 68467, ""node2"": 23335, ""type"": 17, ""w"": 44.0}]",r_carac,44.0
+poulet,servir,acl,VERB,0.6864113211631775,[],,
+pâte,blanc,amod,ADJ,0.6695257425308228,"[{""id"": 24915936, ""node1"": 34069, ""node2"": 15196, ""type"": 17, ""w"": 3.0}, {""id"": 96931366, ""node1"": 34069, ""node2"": 15196, ""type"": 50, ""w"": 15.0}, {""id"": 3161017, ""node1"": 34069, ""node2"": 15196, ""type"": 106, ""w"": 6.0}]",r_object>mater,15.0
+projet,autre,amod,ADJ,0.4316383004188537,[],,

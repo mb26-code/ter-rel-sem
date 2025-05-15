@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+éthiopien,servir,acl,VERB,0.4628165662288666,[],,
+servir,préparer,advcl,VERB,0.506920337677002,"[{""id"": 558760665, ""node1"": 7888, ""node2"": 36246, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+préparer,sauce,obj,NOUN,0.7072528600692749,"[{""id"": 395781320, ""node1"": 36246, ""node2"": 141110, ""type"": 0, ""w"": 35.0}, {""id"": 373014451, ""node1"": 36246, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+mélanger,sauce,obj,NOUN,0.7105728387832642,"[{""id"": 343034831, ""node1"": 37151, ""node2"": 141110, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+beurre,clarifier,acl,VERB,0.647570013999939,"[{""id"": 500929084, ""node1"": 140377, ""node2"": 26306, ""type"": 0, ""w"": 8.0}, {""id"": 15065113, ""node1"": 140377, ""node2"": 26306, ""type"": 26, ""w"": 30.0}, {""id"": 3978541, ""node1"": 140377, ""node2"": 26306, ""type"": 777, ""w"": 10.0}]",r_patient-1,30.0
+mélange,épice,nmod,NOUN,0.6888759136199951,"[{""id"": 925026230, ""node1"": 14800, ""node2"": 146056, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+épice,berbère,amod,ADJ,0.605034351348877,[],,
+variété,principal,amod,ADJ,0.4729560017585754,[],,
+exister,variété,obj,NOUN,0.421244204044342,[],,
+variété,faire,nmod,VERB,0.5466918349266052,[],,
+type,pain,nmod,NOUN,0.63983154296875,[],,
+type,utiliser,acl,VERB,0.4480940997600555,[],,
+exister,faire,advcl,VERB,0.4201356768608093,[],,
+courant,combinaison,nsubj,NOUN,0.437634527683258,[],,
+recette,base,nmod,NOUN,0.6212873458862305,[],,
+élément,supplémentaire,amod,ADJ,0.449188768863678,"[{""id"": 452668636, ""node1"": 42490, ""node2"": 123512, ""type"": 17, ""w"": 31.0}]",r_carac,31.0
+ajouter,reste,nsubj:pass,NOUN,0.4830743670463562,[],,
+reste,sauce,nmod,NOUN,0.6896583437919617,[],,
+reste,viande,nmod,NOUN,0.7066671848297119,[],,
+piment,cru,amod,ADJ,0.5692999362945557,[],,
+yaourt,frais,amod,ADJ,0.5282549858093262,"[{""id"": 1065206413, ""node1"": 82320, ""node2"": 53495, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+utiliser,reste,nsubj:pass,NOUN,0.4793288707733154,[],,
+ingrédient,principal,amod,ADJ,0.5312119126319885,[],,
+cuillère,servir,acl,VERB,0.6036478281021118,"[{""id"": 662508056, ""node1"": 51905, ""node2"": 7888, ""type"": 0, ""w"": 27.0}, {""id"": 167903, ""node1"": 51905, ""node2"": 7888, ""type"": 25, ""w"": 571.0}]",r_instr-1,571.0
+servir,servir,advcl,VERB,0.4595994651317596,"[{""id"": 333001, ""node1"": 7888, ""node2"": 7888, ""type"": 19, ""w"": 57.0}]",r_lemma,57.0
+morceau,autre,amod,ADJ,0.5412903428077698,[],,
+manger,typique,advcl,ADJ,0.6091334223747253,[],,
+cuisine,éthiopien,amod,ADJ,0.547808825969696,[],,
+faire,variante,obj,NOUN,0.5243332386016846,[],,
+combinaison,connaître,advcl,VERB,0.4471706748008728,[],,
+consommer,faire,nsubj:pass,VERB,0.5381555557250977,"[{""id"": 186926001, ""node1"": 97571, ""node2"": 87528, ""type"": 0, ""w"": 56.0}, {""id"": 184134247, ""node1"": 97571, ""node2"": 87528, ""type"": 5, ""w"": 27.0}]",r_associated,56.0
+yaourt,nature,amod,NOUN,0.5514003038406372,"[{""id"": 10638425, ""node1"": 82320, ""node2"": 143607, ""type"": 0, ""w"": 92.0}, {""id"": 1691067, ""node1"": 82320, ""node2"": 143607, ""type"": 17, ""w"": 97.0}, {""id"": 1065206415, ""node1"": 82320, ""node2"": 143607, ""type"": 666, ""w"": 2.0}]",r_carac,97.0
+plupart,aliment,nmod,NOUN,0.5802273154258728,[],,
+aliment,éthiopien,amod,ADJ,0.5044634938240051,[],,

@@ -1,0 +1,111 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+espèce,plante,nmod,NOUN,0.4237024784088135,"[{""id"": 920126232, ""node1"": 38788, ""node2"": 145941, ""type"": 0, ""w"": 22.0}, {""id"": 992226643, ""node1"": 38788, ""node2"": 145941, ""type"": 666, ""w"": 3.0}, {""id"": 3335671, ""node1"": 38788, ""node2"": 145941, ""type"": 777, ""w"": 10.0}]",r_associated,22.0
+espèce,fleur,nmod,NOUN,0.4782599210739136,"[{""id"": 989385498, ""node1"": 38788, ""node2"": 28985, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+fleur,genre,nmod,NOUN,0.5153606534004211,[],,
+utilisation,cuisine,nmod,NOUN,0.6334536671638489,[],,
+cuisine,Asie,nmod,PROPN,0.4392364025115967,"[{""id"": 796687478, ""node1"": 16033, ""node2"": 42313, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+cuisine,sud-est,nmod,NOUN,0.5453248023986816,[],,
+plante,espèce,nsubj,NOUN,0.4237024784088135,"[{""id"": 593756887, ""node1"": 145941, ""node2"": 38788, ""type"": 0, ""w"": 47.0}, {""id"": 3262905, ""node1"": 145941, ""node2"": 38788, ""type"": 777, ""w"": 10.0}]",r_associated,47.0
+plante,côtier,amod,ADJ,0.4614051282405853,[],,
+plante,pousse,acl:relcl,VERB,0.408829778432846,"[{""id"": 291699640, ""node1"": 145941, ""node2"": 145195, ""type"": 0, ""w"": 56.0}, {""id"": 218635, ""node1"": 145941, ""node2"": 145195, ""type"": 21, ""w"": 90.0}]",r_has_antimagn,90.0
+rare,lui,nsubj,PRON,0.4095227420330047,[],,
+plante,rare,advcl,ADJ,0.4362328946590423,[],,
+plante,lieu,nsubj,NOUN,0.4511243999004364,"[{""id"": 9640620, ""node1"": 145941, ""node2"": 135190, ""type"": 0, ""w"": 29.0}, {""id"": 629504, ""node1"": 145941, ""node2"": 135190, ""type"": 6, ""w"": -380.0}, {""id"": 253548660, ""node1"": 145941, ""node2"": 135190, ""type"": 15, ""w"": 3.0}]",r_associated,29.0
+plante,munir,acl,VERB,0.4250031113624573,[],,
+feuille,long,amod,ADJ,0.4866211116313934,[],,
+feuille,étroit,amod,ADJ,0.4551971554756164,[],,
+plante,vert,amod,ADJ,0.4980144798755646,"[{""id"": 109989, ""node1"": 145941, ""node2"": 26976, ""type"": 0, ""w"": 83.0}, {""id"": 388855076, ""node1"": 145941, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 539955222, ""node1"": 145941, ""node2"": 26976, ""type"": 22, ""w"": -25.0}, {""id"": 3154305, ""node1"": 145941, ""node2"": 26976, ""type"": 106, ""w"": 63.0}, {""id"": 521443753, ""node1"": 145941, ""node2"": 26976, ""type"": 666, ""w"": 2.0}]",r_associated,83.0
+plante,bouquet,nmod,NOUN,0.482671707868576,"[{""id"": 539955037, ""node1"": 145941, ""node2"": 34381, ""type"": 9, ""w"": -25.0}]",r_has_part,-25.0
+forme,éventail,nmod,NOUN,0.4277523458003998,[],,
+éventail,feuille,nmod,NOUN,0.45142462849617,[],,
+forme,forme,nmod,NOUN,0.4007202982902527,"[{""id"": 303563, ""node1"": 142000, ""node2"": 142000, ""type"": 19, ""w"": 58.0}]",r_lemma,58.0
+forme,lame,nmod,NOUN,0.4741493165493011,[],,
+racine,aérien,amod,ADJ,0.4420747458934784,[],,
+stérile,plante,nsubj,NOUN,0.4121180474758148,[],,
+stérile,donner,advcl,VERB,0.4025305211544037,[],,
+donner,fleur,obj,NOUN,0.52107834815979,[],,
+provoquer,arôme,nsubj:pass,NOUN,0.5090855956077576,[],,
+arôme,caractéristique,amod,ADJ,0.4960052669048309,[],,
+composé,aromatique,amod,ADJ,0.4555383920669555,[],,
+gras,feuille,nsubj,NOUN,0.572102963924408,[],,
+utiliser,jus,nsubj:pass,NOUN,0.565632164478302,[],,
+jus,filtrer,acl,VERB,0.5444310903549194,[],,
+feuille,mixer,acl,VERB,0.5978715419769287,[],,
+arôme,alimentaire,amod,ADJ,0.5405943989753723,[],,
+préparation,jus,appos,NOUN,0.5828200578689575,[],,
+crème,dessert,nmod,NOUN,0.6456176042556763,"[{""id"": 405908, ""node1"": 44001, ""node2"": 38557, ""type"": 0, ""w"": 175.0}, {""id"": 9903018, ""node1"": 44001, ""node2"": 38557, ""type"": 6, ""w"": 13.0}, {""id"": 3132611, ""node1"": 44001, ""node2"": 38557, ""type"": 15, ""w"": 88.0}, {""id"": 1578985, ""node1"": 44001, ""node2"": 38557, ""type"": 35, ""w"": 97.0}, {""id"": 376053267, ""node1"": 44001, ""node2"": 38557, ""type"": 51, ""w"": 35.0}, {""id"": 652229610, ""node1"": 44001, ""node2"": 38557, ""type"": 666, ""w"": 6.0}]",r_associated,175.0
+jus,gâteau,appos,NOUN,0.6199597716331482,[],,
+plat,saler,amod,ADJ,0.6825728416442871,"[{""id"": 900795579, ""node1"": 36327, ""node2"": 15671, ""type"": 0, ""w"": 20.0}, {""id"": 72771507, ""node1"": 36327, ""node2"": 15671, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+plat,riz,appos,ADV,0.7016597390174866,"[{""id"": 96713007, ""node1"": 36327, ""node2"": 24372, ""type"": 0, ""w"": 31.0}, {""id"": 96713022, ""node1"": 36327, ""node2"": 24372, ""type"": 9, ""w"": 26.0}, {""id"": 93507674, ""node1"": 36327, ""node2"": 24372, ""type"": 28, ""w"": 35.0}, {""id"": 96713038, ""node1"": 36327, ""node2"": 24372, ""type"": 41, ""w"": 27.0}, {""id"": 96713027, ""node1"": 36327, ""node2"": 24372, ""type"": 42, ""w"": 27.0}]",r_associated,31.0
+prononcer,arôme,nsubj:pass,NOUN,0.503649115562439,[],,
+évoquer,parfum,obj,NOUN,0.455712080001831,[],,
+parfum,noisette,nmod,NOUN,0.5512098670005798,[],,
+utiliser,donner,advcl,VERB,0.4081113040447235,"[{""id"": 344453320, ""node1"": 62611, ""node2"": 12941, ""type"": 0, ""w"": 21.0}, {""id"": 342873099, ""node1"": 62611, ""node2"": 12941, ""type"": 5, ""w"": 26.0}]",r_syn,26.0
+parfum,évoquer,acl,VERB,0.455712080001831,[],,
+évoquer,riz,obj,NOUN,0.6594630479812622,[],,
+riz,thaï,amod,ADJ,0.6002954244613647,"[{""id"": 2241114, ""node1"": 24372, ""node2"": 113084, ""type"": 0, ""w"": 54.0}, {""id"": 3140016, ""node1"": 24372, ""node2"": 113084, ""type"": 8, ""w"": 132.0}, {""id"": 2207442, ""node1"": 24372, ""node2"": 113084, ""type"": 17, ""w"": 29.0}]",r_hypo,132.0
+ménage,tout,amod,ADJ,0.5161648392677307,[],,
+plupart,plat,nmod,NOUN,0.6052882671356201,[],,
+utiliser,feuille,obj,NOUN,0.5103447437286377,[],,
+feuille,curry,nmod,NOUN,0.6792141199111938,[],,
+appeler,feuille,nsubj,NOUN,0.4381234049797058,[],,
+variété,autre,amod,ADJ,0.4722447693347931,[],,
+utiliser,rehausser,advcl,VERB,0.4123302102088928,[],,
+rehausser,saveur,obj,NOUN,0.5725794434547424,[],,
+lait,coco,nmod,ADV,0.5848121643066406,"[{""id"": 796793155, ""node1"": 86296, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+utiliser,riz,nsubj:pass,NOUN,0.6643596887588501,[],,
+substitut,bon,amod,ADJ,0.4717122614383697,[],,
+substitut,marché,nmod,NOUN,0.4575495421886444,[],,
+substitut,parfum,nmod,NOUN,0.4960583746433258,[],,
+riz,normal,amod,ADJ,0.6539837718009949,[],,
+donne,goût,obj,NOUN,0.520426869392395,[],,
+odeur,riz,nmod,NOUN,0.687501847743988,[],,
+commerce,forme,nmod,NOUN,0.512866735458374,[],,
+forme,congeler,amod,ADJ,0.5708925724029541,[],,
+épicerie,asiatique,amod,ADJ,0.5068512558937073,[],,
+épicerie,pays,nmod,NOUN,0.4319960176944732,[],,
+pousse,plante,nsubj,NOUN,0.408829778432846,"[{""id"": 371202, ""node1"": 145195, ""node2"": 145941, ""type"": 0, ""w"": 76.0}, {""id"": 377010951, ""node1"": 145195, ""node2"": 145941, ""type"": 20, ""w"": 29.0}, {""id"": 496062460, ""node1"": 145195, ""node2"": 145941, ""type"": 35, ""w"": 41.0}, {""id"": 998837240, ""node1"": 145195, ""node2"": 145941, ""type"": 666, ""w"": 4.0}]",r_associated,76.0
+épicerie,pousse,acl:relcl,VERB,0.4754847586154938,[],,
+plat,poulet,appos,NOUN,0.684086263179779,"[{""id"": 10576818, ""node1"": 36327, ""node2"": 146261, ""type"": 0, ""w"": 51.0}, {""id"": 9626593, ""node1"": 36327, ""node2"": 146261, ""type"": 8, ""w"": 23.0}, {""id"": 93507814, ""node1"": 36327, ""node2"": 146261, ""type"": 9, ""w"": 35.0}, {""id"": 11309177, ""node1"": 36327, ""node2"": 146261, ""type"": 28, ""w"": 41.0}]",r_associated,51.0
+poisson,barbecue,nmod,NOUN,0.6997279524803162,[],,
+pouvoir,feuille,nsubj,NOUN,0.4886631667613983,[],,
+servir,qui,nsubj,PRON,0.4501188993453979,[],,
+panier,servir,acl:relcl,VERB,0.4933229684829712,[],,
+cuisson,riz,nmod,NOUN,0.7329009771347046,[],,
+cuisson,vapeur,nmod,NOUN,0.7031100988388062,"[{""id"": 3018528, ""node1"": 60056, ""node2"": 98392, ""type"": 0, ""w"": 62.0}, {""id"": 987931333, ""node1"": 60056, ""node2"": 98392, ""type"": 666, ""w"": 3.0}]",r_associated,62.0
+dessert,succession,appos,NOUN,0.5414574146270752,[],,
+strate,lait,nmod,NOUN,0.506925642490387,[],,
+farine,manioc,nmod,NOUN,0.6300441026687622,"[{""id"": 796713007, ""node1"": 127629, ""node2"": 67691, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+boutique,cuisine,nmod,NOUN,0.5598668456077576,[],,
+cuisine,asiatique,amod,ADJ,0.6099880337715149,"[{""id"": 796690126, ""node1"": 16033, ""node2"": 33394, ""type"": 0, ""w"": 28.0}, {""id"": 1035594833, ""node1"": 16033, ""node2"": 33394, ""type"": 13, ""w"": -6.0}, {""id"": 14804006, ""node1"": 16033, ""node2"": 33394, ""type"": 17, ""w"": 45.0}]",r_carac,45.0
+jus,extraire,amod,VERB,0.5476620197296143,"[{""id"": 599388286, ""node1"": 53310, ""node2"": 103148, ""type"": 26, ""w"": 31.0}]",r_patient-1,31.0
+jus,goût,nmod,NOUN,0.6195324659347534,[],,
+goût,amer,amod,ADJ,0.5080934762954712,"[{""id"": 2107132, ""node1"": 119233, ""node2"": 97910, ""type"": 0, ""w"": 91.0}, {""id"": 452006, ""node1"": 119233, ""node2"": 97910, ""type"": 8, ""w"": 101.0}, {""id"": 34664250, ""node1"": 119233, ""node2"": 97910, ""type"": 17, ""w"": 23.0}, {""id"": 651212814, ""node1"": 119233, ""node2"": 97910, ""type"": 666, ""w"": 12.0}]",r_hypo,101.0
+plat,vietnamien,amod,ADJ,0.5899214744567871,[],,
+plat,base,nmod,NOUN,0.6491852402687073,[],,
+plat,gâteau,appos,NOUN,0.6672249436378479,"[{""id"": 9901426, ""node1"": 36327, ""node2"": 2149, ""type"": 0, ""w"": 23.0}, {""id"": 267403, ""node1"": 36327, ""node2"": 2149, ""type"": 8, ""w"": 66.0}, {""id"": 1773947, ""node1"": 36327, ""node2"": 2149, ""type"": 28, ""w"": 79.0}]",r_hypo,66.0
+gâteau,banane,nmod,NOUN,0.6307022571563721,[],,
+feuille,avoir,amod,AUX,0.4631874859333038,[],,
+utilisation,local,amod,ADJ,0.4047125577926636,[],,
+réduire,extrait,nsubj,NOUN,0.453570157289505,[],,
+extrait,feuille,nmod,NOUN,0.4592666029930115,[],,
+réduire,fièvre,obj,NOUN,0.4620081484317779,[],,
+penser,utiliser,advcl,VERB,0.4206765294075012,[],,
+industrie,parfum,nmod,NOUN,0.4986103177070617,[],,
+huile,coco,nmod,ADV,0.595439612865448,"[{""id"": 669863245, ""node1"": 141971, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+prendre,infusion,nsubj:pass,NOUN,0.5503718852996826,[],,
+infusion,feuille,nmod,NOUN,0.5560449361801147,[],,
+médicament,traditionnel,amod,ADJ,0.5037296414375305,[],,
+espèce,autre,amod,ADJ,0.4155114889144897,[],,
+utiliser,dire,advcl,VERB,0.4142318665981293,[],,
+garder,chauffeur,nsubj,NOUN,0.4329140782356262,[],,
+garder,grappe,obj,NOUN,0.4389813244342804,[],,
+lavage,cheveu,nmod,NOUN,0.481346994638443,[],,
+utiliser,préparer,advcl,VERB,0.4703598916530609,[],,
+lotion,cendre,nmod,NOUN,0.5542975068092346,[],,
+préparer,traiter,advcl,VERB,0.4349799454212188,[],,
+mal,gorge,nmod,NOUN,0.4015393257141113,"[{""id"": 796848625, ""node1"": 4078, ""node2"": 145569, ""type"": 0, ""w"": 25.0}]",r_associated,25.0
+traditionnellement,mélange,appos,NOUN,0.5608847141265869,[],,
+utiliser,lait,nsubj:pass,NOUN,0.5873354077339172,[],,
+avoir,feuille,nsubj,NOUN,0.4631874859333038,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,

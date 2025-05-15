@@ -1,0 +1,63 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+tarte,œuf,nmod,NOUN,0.6313448548316956,[],,
+concerner,dessert,obj,NOUN,0.5109771490097046,[],,
+dessert,chinois,amod,ADJ,0.5433118939399719,[],,
+tarte,flan,nmod,NOUN,0.5861358046531677,"[{""id"": 10576557, ""node1"": 575, ""node2"": 9122, ""type"": 0, ""w"": 58.0}, {""id"": 53749473, ""node1"": 575, ""node2"": 9122, ""type"": 5, ""w"": 105.0}, {""id"": 578504603, ""node1"": 575, ""node2"": 9122, ""type"": 6, ""w"": -5.0}, {""id"": 9625927, ""node1"": 575, ""node2"": 9122, ""type"": 8, ""w"": 29.0}]",r_syn,105.0
+flan,français,amod,ADJ,0.4810341298580169,"[{""id"": 4342642, ""node1"": 9122, ""node2"": 144991, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+voir,flan,obj,NOUN,0.4875625967979431,[],,
+flan,pâtissier,amod,ADJ,0.5009457468986511,"[{""id"": 416737957, ""node1"": 9122, ""node2"": 31618, ""type"": 0, ""w"": 31.0}, {""id"": 599365093, ""node1"": 9122, ""node2"": 31618, ""type"": 17, ""w"": 5.0}]",r_associated,31.0
+œuf,chinois,appos,ADJ,0.5249097347259521,[],,
+chinois,simplifier,amod,ADJ,0.4037397503852844,[],,
+chinois,traditionnel,amod,ADJ,0.4231434166431427,[],,
+spécialité,rappeler,acl,VERB,0.4572094678878784,[],,
+rappeler,recette,obj,NOUN,0.602946400642395,[],,
+recette,portugais,amod,ADJ,0.6065749526023865,[],,
+recette,pastel,nmod,NOUN,0.6166319251060486,[],,
+pâte,briser,acl,VERB,0.6342527270317078,"[{""id"": 915390559, ""node1"": 34069, ""node2"": 21989, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+flan,œuf,nmod,NOUN,0.5725675821304321,[],,
+flan,anglais,amod,ADJ,0.4868219196796417,"[{""id"": 441393878, ""node1"": 9122, ""node2"": 79993, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+tarte,apprécier,acl,VERB,0.6224502921104431,[],,
+pâtisserie,chinois,amod,ADJ,0.5225857496261597,"[{""id"": 11345317, ""node1"": 25966, ""node2"": 59402, ""type"": 28, ""w"": 38.0}, {""id"": 3393677, ""node1"": 25966, ""node2"": 59402, ""type"": 777, ""w"": 8.0}]",r_lieu-1,38.0
+caractère,premier,amod,ADJ,0.4189079701900482,"[{""id"": 1017977669, ""node1"": 91664, ""node2"": 130626, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+signifier,œuf,obj,NOUN,0.510158121585846,[],,
+utiliser,second,nsubj:pass,ADJ,0.4288401007652282,[],,
+connaître,tarte,nsubj:pass,NOUN,0.6359519958496094,[],,
+essayer,tout,obj,PRON,0.4836708903312683,[],,
+variation,essayer,nmod,VERB,0.4388529360294342,[],,
+inclure,tarte,obj,NOUN,0.6186073422431946,[],,
+tarte,blanc,nmod,NOUN,0.6523876786231995,[],,
+blanc,œuf,nmod,NOUN,0.5384882688522339,"[{""id"": 796769193, ""node1"": 15196, ""node2"": 174124, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+tarte,lait,nmod,NOUN,0.6838351488113403,[],,
+recette,crème,nmod,NOUN,0.6695327758789062,"[{""id"": 99097422, ""node1"": 120188, ""node2"": 44001, ""type"": 0, ""w"": 18.0}, {""id"": 98724024, ""node1"": 120188, ""node2"": 44001, ""type"": 9, ""w"": 22.0}, {""id"": 13099876, ""node1"": 120188, ""node2"": 44001, ""type"": 28, ""w"": 34.0}, {""id"": 98281072, ""node1"": 120188, ""node2"": 44001, ""type"": 50, ""w"": 31.0}]",r_lieu-1,34.0
+crème,anglais,amod,ADJ,0.5731858611106873,[],,
+servir,qui,nsubj:pass,PRON,0.4501188993453979,[],,
+recette,servir,acl:relcl,VERB,0.670497715473175,[],,
+tarte,miel,nmod,NOUN,0.6783043146133423,"[{""id"": 1019140515, ""node1"": 575, ""node2"": 136055, ""type"": 0, ""w"": 26.0}, {""id"": 1015266847, ""node1"": 575, ""node2"": 136055, ""type"": 666, ""w"": 10.0}]",r_associated,26.0
+jus,gingembre,nmod,NOUN,0.5798238515853882,"[{""id"": 651234569, ""node1"": 53310, ""node2"": 77020, ""type"": 666, ""w"": 3.0}]",r_aki,3.0
+tarte,chocolat,nmod,NOUN,0.6627985239028931,"[{""id"": 10004675, ""node1"": 575, ""node2"": 34157, ""type"": 0, ""w"": 83.0}, {""id"": 2481724, ""node1"": 575, ""node2"": 34157, ""type"": 9, ""w"": 30.0}, {""id"": 376056263, ""node1"": 575, ""node2"": 34157, ""type"": 50, ""w"": 26.0}, {""id"": 672030198, ""node1"": 575, ""node2"": 34157, ""type"": 666, ""w"": 76.0}, {""id"": 4040863, ""node1"": 575, ""node2"": 34157, ""type"": 777, ""w"": 10.0}]",r_associated,83.0
+tarte,même,amod,ADV,0.6333101391792297,[],,
+tarte,nid,nmod,NOUN,0.5067822933197021,[],,
+café,occidental,amod,ADJ,0.5243695378303528,[],,
+café,trouver,acl,VERB,0.5516976118087769,[],,
+trouver,bonheur,obj,NOUN,0.4317578673362732,"[{""id"": 430044225, ""node1"": 48704, ""node2"": 28453, ""type"": 14, ""w"": 31.0}, {""id"": 33408643, ""node1"": 48704, ""node2"": 28453, ""type"": 32, ""w"": 56.0}]",r_sentiment,56.0
+bonheur,dessert,nmod,NOUN,0.5737836956977844,"[{""id"": 28486518, ""node1"": 28453, ""node2"": 38557, ""type"": 115, ""w"": 30.0}]",r_sentiment-1,30.0
+dessert,local,amod,ADJ,0.5178369879722595,[],,
+devenir,tarte,obj,NOUN,0.627788782119751,[],,
+œuf,actuel,amod,ADJ,0.5101344585418701,[],,
+originellement,forme,nmod,NOUN,0.4150257110595703,[],,
+forme,elliptique,amod,ADJ,0.4143508374691009,"[{""id"": 799127408, ""node1"": 142000, ""node2"": 2153, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+rond,lui,nsubj,PRON,0.4768590033054352,[],,
+Andrew,café,nmod,NOUN,0.4485211968421936,[],,
+œuf,portugais,amod,ADJ,0.5174636244773865,[],,
+œuf,traditionnel,amod,ADJ,0.5269492268562317,[],,
+œuf,garni,acl,ADJ,0.5385347604751587,[],,
+crème,brûler,acl,VERB,0.6679983139038086,[],,
+modifier,tarte,obj,NOUN,0.5995662808418274,[],,
+différer,tarte,nsubj,NOUN,0.6061420440673828,[],,
+tarte,portugaise,nmod,NOUN,0.6214418411254883,[],,
+tarte,simple,amod,ADJ,0.6264230012893677,[],,
+composition,flan,nmod,NOUN,0.5086851716041565,[],,
+pâtisserie,nombreux,amod,ADJ,0.5205050110816956,[],,
+restaurant,spécialité,nmod,NOUN,0.527938187122345,"[{""id"": 796858040, ""node1"": 79954, ""node2"": 49537, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+celui,pâtisserie,nmod,NOUN,0.502219021320343,[],,
+exister,pâtisserie,nsubj,NOUN,0.519726037979126,[],,

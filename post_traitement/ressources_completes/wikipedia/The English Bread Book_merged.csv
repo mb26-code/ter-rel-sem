@@ -1,0 +1,53 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+livre,modifier,nsubj,VERB,0.4331028163433075,[],,
+livre,cuisine,nmod,NOUN,0.6082427501678467,"[{""id"": 796690394, ""node1"": 142787, ""node2"": 16033, ""type"": 0, ""w"": 27.0}, {""id"": 661863037, ""node1"": 142787, ""node2"": 16033, ""type"": 142, ""w"": 30.0}]",r_associated,27.0
+livre,anglais,amod,ADJ,0.4174762070178985,"[{""id"": 434535412, ""node1"": 142787, ""node2"": 79993, ""type"": 0, ""w"": 22.0}, {""id"": 326302476, ""node1"": 142787, ""node2"": 79993, ""type"": 777, ""w"": 9.0}]",r_associated,22.0
+histoire,fabrication,nmod,NOUN,0.4592864513397217,[],,
+fabrication,pain,nmod,NOUN,0.645484983921051,[],,
+pain,Angleterre,nmod,PROPN,0.6273435354232788,[],,
+procédé,développer,acl,VERB,0.4249154031276703,[],,
+examen,ingrédient,nmod,NOUN,0.4661768078804016,[],,
+ingrédient,utiliser,acl,VERB,0.578764796257019,[],,
+type,différent,amod,ADJ,0.4133718609809875,[],,
+recette,type,nmod,NOUN,0.6052980422973633,[],,
+type,pain,nmod,NOUN,0.63983154296875,[],,
+classe,moyen,amod,ADJ,0.4488030970096588,"[{""id"": 914964789, ""node1"": 142623, ""node2"": 34933, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+information,fabrication,nmod,NOUN,0.4360540211200714,[],,
+réécriture,livre,nmod,NOUN,0.4135582745075226,[],,
+information,travail,nmod,NOUN,0.4053256213665008,[],,
+vouloir,que,obj,PRON,0.4046325385570526,[],,
+travail,vouloir,acl:relcl,VERB,0.4220215678215027,"[{""id"": 15070609, ""node1"": 70283, ""node2"": 4147, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+ouvrage,nouveau,amod,ADJ,0.4202021658420563,[],,
+livre,recette,nmod,NOUN,0.5988067388534546,"[{""id"": 797511876, ""node1"": 142787, ""node2"": 120188, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+inclure,histoire,obj,NOUN,0.4038498997688293,"[{""id"": 674413502, ""node1"": 129092, ""node2"": 146367, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+substance,autre,amod,ADJ,0.4745003581047058,"[{""id"": 978560240, ""node1"": 11358, ""node2"": 7574, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+qualifier,que,obj,PRON,0.4074271023273468,[],,
+substance,qualifier,acl:relcl,VERB,0.4358238875865936,[],,
+pain,britannique,amod,ADJ,0.6283349394798279,[],,
+nécessité,pain,nsubj,NOUN,0.6438853144645691,[],,
+nécessité,premier,amod,ADJ,0.4208248853683471,[],,
+nécessité,vie,nmod,NOUN,0.4310896396636963,[],,
+masse,grand,amod,ADJ,0.4639455080032348,[],,
+masse,peuple,nmod,NOUN,0.4106565117835998,"[{""id"": 928184, ""node1"": 137533, ""node2"": 136785, ""type"": 0, ""w"": 46.0}, {""id"": 53733796, ""node1"": 137533, ""node2"": 136785, ""type"": 5, ""w"": 376.0}, {""id"": 499924328, ""node1"": 137533, ""node2"": 136785, ""type"": 35, ""w"": 37.0}]",r_syn,376.0
+nourriture,tout,nmod,ADJ,0.5962466597557068,[],,
+nourriture,principal,amod,ADJ,0.5683642029762268,[],,
+nourriture,beaucoup,nmod,ADV,0.5650314092636108,[],,
+nourriture,seul,amod,ADJ,0.5260938405990601,[],,
+nourriture,autre,amod,ADJ,0.5668411254882812,[],,
+approche,pain,nmod,NOUN,0.6681253910064697,[],,
+pain,France,nmod,PROPN,0.6226463317871094,"[{""id"": 82409, ""node1"": 61283, ""node2"": 87987, ""type"": 0, ""w"": 60.0}, {""id"": 496723181, ""node1"": 61283, ""node2"": 87987, ""type"": 3, ""w"": 30.0}, {""id"": 521806524, ""node1"": 61283, ""node2"": 87987, ""type"": 15, ""w"": 32.0}]",r_associated,60.0
+pain,Allemagne,nmod,PROPN,0.6163591742515564,"[{""id"": 423562145, ""node1"": 61283, ""node2"": 89142, ""type"": 0, ""w"": 5.0}, {""id"": 6839887, ""node1"": 61283, ""node2"": 89142, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+contenir,livre,nsubj,NOUN,0.4754981994628906,[],,
+contenir,recette,obj,NOUN,0.636847972869873,[],,
+baguette,français,amod,ADJ,0.5163000822067261,"[{""id"": 939576636, ""node1"": 128482, ""node2"": 144991, ""type"": 0, ""w"": 27.0}, {""id"": 940911535, ""node1"": 128482, ""node2"": 144991, ""type"": 17, ""w"": 52.0}, {""id"": 647705671, ""node1"": 128482, ""node2"": 144991, ""type"": 666, ""w"": 3.0}]",r_carac,52.0
+baguette,pain,nmod,NOUN,0.6362036466598511,"[{""id"": 110453, ""node1"": 128482, ""node2"": 61283, ""type"": 0, ""w"": 648.5}, {""id"": 31125185, ""node1"": 128482, ""node2"": 61283, ""type"": 3, ""w"": 34.0}, {""id"": 653833, ""node1"": 128482, ""node2"": 61283, ""type"": 5, ""w"": 111.0}, {""id"": 119345, ""node1"": 128482, ""node2"": 61283, ""type"": 6, ""w"": 794.0}, {""id"": 1046575946, ""node1"": 128482, ""node2"": 61283, ""type"": 8, ""w"": 20.0}, {""id"": 198634, ""node1"": 128482, ""node2"": 61283, ""type"": 17, ""w"": -101.0}, {""id"": 2590501, ""node1"": 128482, ""node2"": 61283, ""type"": 20, ""w"": 61.0}, {""id"": 437224, ""node1"": 128482, ""node2"": 61283, ""type"": 21, ""w"": 59.0}, {""id"": 28539573, ""node1"": 128482, ""node2"": 61283, ""type"": 35, ""w"": 102.0}, {""id"": 775213359, ""node1"": 128482, ""node2"": 61283, ""type"": 174, ""w"": 25.0}, {""id"": 1662408, ""node1"": 128482, ""node2"": 61283, ""type"": 666, ""w"": 16.0}]",r_isa,794.0
+pain,italien,amod,ADJ,0.6286179423332214,[],,
+pain,petit,amod,ADJ,0.6582068800926208,"[{""id"": 12987089, ""node1"": 61283, ""node2"": 55222, ""type"": 17, ""w"": 61.0}]",r_carac,61.0
+pain,turc,amod,ADJ,0.5686829090118408,[],,
+philosophie,tout,amod,ADJ,0.4911240041255951,"[{""id"": 797358817, ""node1"": 38867, ""node2"": 136232, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+histoire,sujet,nmod,NOUN,0.4007914364337921,"[{""id"": 54695605, ""node1"": 146367, ""node2"": 83855, ""type"": 0, ""w"": 26.0}, {""id"": 54668539, ""node1"": 146367, ""node2"": 83855, ""type"": 5, ""w"": 90.0}]",r_syn,90.0
+histoire,forme,nmod,NOUN,0.4636465013027191,[],,
+forme,simple,amod,ADJ,0.4682834446430206,"[{""id"": 373937664, ""node1"": 142000, ""node2"": 53269, ""type"": 17, ""w"": 77.0}]",r_carac,77.0
+présenter,livre,nsubj:pass,NOUN,0.4404703974723816,[],,
+écrivaine,culinaire,amod,ADJ,0.4869507849216461,[],,
+avoir,livre,nsubj,NOUN,0.447247713804245,[],,

@@ -1,0 +1,56 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+tarte,patate,nmod,NOUN,0.6327879428863525,[],,
+patate,doux,amod,ADJ,0.5362724661827087,[],,
+dessert,tarte,nsubj,NOUN,0.6477541923522949,"[{""id"": 134337, ""node1"": 38557, ""node2"": 575, ""type"": 0, ""w"": 290.0}, {""id"": 62429, ""node1"": 38557, ""node2"": 575, ""type"": 8, ""w"": 185.0}, {""id"": 1764661, ""node1"": 38557, ""node2"": 575, ""type"": 666, ""w"": 7.0}]",r_associated,290.0
+dessert,traditionnel,amod,ADJ,0.5936668515205383,[],,
+dessert,originaire,amod,ADJ,0.53325355052948,"[{""id"": 372655628, ""node1"": 38557, ""node2"": 38359, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+servir,tarte,nsubj:pass,NOUN,0.6668350696563721,"[{""id"": 97862156, ""node1"": 7888, ""node2"": 575, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+période,fête,nmod,NOUN,0.4336651265621185,"[{""id"": 242782440, ""node1"": 108794, ""node2"": 144647, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+fête,Thanksgiving,nmod,PROPN,0.4034693539142608,"[{""id"": 377424957, ""node1"": 144647, ""node2"": 24189, ""type"": 8, ""w"": 28.0}]",r_hypo,28.0
+période,place,nmod,NOUN,0.4552383124828338,[],,
+place,tarte,nmod,NOUN,0.6399716734886169,[],,
+tarte,citrouille,nmod,NOUN,0.6270956993103027,[],,
+traditionnel,qui,nsubj,PRON,0.4035534262657165,[],,
+citrouille,traditionnel,acl:relcl,ADJ,0.6138923764228821,[],,
+région,autre,amod,ADJ,0.4474375247955322,[],,
+composer,tarte,nsubj:pass,NOUN,0.6111758947372437,[],,
+abaisse,pâte,nmod,NOUN,0.6167532801628113,"[{""id"": 31421271, ""node1"": 140645, ""node2"": 34069, ""type"": 0, ""w"": 136.0}]",r_associated,136.0
+garniture,composer,acl,VERB,0.5459341406822205,[],,
+purée,patate,nmod,NOUN,0.6258140802383423,"[{""id"": 661975, ""node1"": 16444, ""node2"": 5531, ""type"": 0, ""w"": 28.0}, {""id"": 1742962, ""node1"": 16444, ""node2"": 5531, ""type"": 50, ""w"": 55.0}, {""id"": 1794789, ""node1"": 16444, ""node2"": 5531, ""type"": 666, ""w"": 1.0}]",r_object>mater,55.0
+lait,concentrer,acl,VERB,0.5706077218055725,[],,
+lait,sucre,nmod,NOUN,0.6314783692359924,[],,
+lait,épice,nmod,NOUN,0.6979775428771973,[],,
+épice,tel,amod,ADJ,0.6094115376472473,[],,
+noix,muscade,nmod,NOUN,0.5651988983154297,"[{""id"": 796773628, ""node1"": 30910, ""node2"": 115297, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+ingrédient,autre,amod,ADJ,0.5639666318893433,[],,
+possible,ingrédient,nsubj,NOUN,0.589358925819397,[],,
+extrait,vanille,nmod,NOUN,0.5280630588531494,[],,
+pouvoir,garniture,nsubj,NOUN,0.574650228023529,[],,
+garniture,crème,nmod,NOUN,0.6413903832435608,[],,
+crème,pâtissier,amod,ADJ,0.6166189908981323,"[{""id"": 561269853, ""node1"": 44001, ""node2"": 31618, ""type"": 0, ""w"": 41.0}]",r_associated,41.0
+crème,cuite,acl,NOUN,0.656792402267456,[],,
+varier,léger,obj,ADJ,0.4781765937805176,[],,
+ratio,purée,nmod,NOUN,0.5719215273857117,[],,
+ratio,recette,nmod,NOUN,0.501431405544281,[],,
+remonter,recette,nsubj,NOUN,0.6182020306587219,[],,
+recette,tarte,nmod,NOUN,0.6624681353569031,"[{""id"": 608584980, ""node1"": 120188, ""node2"": 575, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+recette,légume,nmod,NOUN,0.7292863726615906,[],,
+légume,crémeux,amod,ADJ,0.6580072641372681,[],,
+cuisine,médiéval,amod,ADJ,0.5929885506629944,[],,
+cuisine,européen,amod,ADJ,0.5954287648200989,[],,
+apparaître,tarte,nsubj,NOUN,0.6295352578163147,[],,
+recette,patate,nmod,NOUN,0.6552324295043945,[],,
+créer,tarte,nsubj:pass,NOUN,0.5951073169708252,[],,
+influence,culinaire,amod,ADJ,0.5330449342727661,[],,
+fait,qui,nsubj,PRON,0.4056183397769928,[],,
+fait,aliment,obj,NOUN,0.592854380607605,[],,
+aliment,base,nmod,NOUN,0.6132981181144714,[],,
+aliment,food,nmod,NOUN,0.4835387170314789,"[{""id"": 854579827, ""node1"": 114637, ""node2"": 148185, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+apparaître,recette,nsubj:pass,NOUN,0.6335548162460327,[],,
+livre,cuisine,nmod,NOUN,0.6082427501678467,"[{""id"": 796690394, ""node1"": 142787, ""node2"": 16033, ""type"": 0, ""w"": 27.0}, {""id"": 661863037, ""node1"": 142787, ""node2"": 16033, ""type"": 142, ""w"": 30.0}]",r_associated,27.0
+livre,imprimé,amod,ADJ,0.4041555225849151,"[{""id"": 195250, ""node1"": 142787, ""node2"": 28057, ""type"": 0, ""w"": 53.0}, {""id"": 242834015, ""node1"": 142787, ""node2"": 28057, ""type"": 8, ""w"": 29.0}, {""id"": 432130443, ""node1"": 142787, ""node2"": 28057, ""type"": 17, ""w"": 41.0}]",r_associated,53.0
+plat,légume,nmod,NOUN,0.6895473003387451,"[{""id"": 93553592, ""node1"": 36327, ""node2"": 120603, ""type"": 0, ""w"": 9.0}, {""id"": 10527468, ""node1"": 36327, ""node2"": 120603, ""type"": 9, ""w"": 14.0}, {""id"": 1679894, ""node1"": 36327, ""node2"": 120603, ""type"": 28, ""w"": 129.0}]",r_lieu-1,129.0
+légume,saler,amod,ADJ,0.7036773562431335,[],,
+classer,tarte,nsubj:pass,NOUN,0.5817292928695679,[],,
+tarte,variante,nsubj,NOUN,0.5963010787963867,[],,
+tarte,garni,amod,ADJ,0.6021029353141785,"[{""id"": 418349058, ""node1"": 575, ""node2"": 71354, ""type"": 0, ""w"": 12.0}, {""id"": 477565850, ""node1"": 575, ""node2"": 71354, ""type"": 17, ""w"": 31.0}]",r_carac,31.0

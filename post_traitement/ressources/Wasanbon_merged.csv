@@ -1,0 +1,48 @@
+head,lemma,dep,pos,sim,relations
+concerner,cuisine,obj,NOUN,0.6019042730331421,[]
+cuisine,japonais,amod,ADJ,0.5706702470779419,[]
+sucre,fin,amod,NOUN,0.6241943836212158,"[{""id"": 277257, ""node1"": 139481, ""node2"": 144718, ""type"": 17, ""w"": 107.0}]"
+sucre,japonais,amod,ADJ,0.6237436532974243,[]
+produit,façon,nmod,NOUN,0.4856973588466644,[]
+façon,traditionnel,amod,ADJ,0.5051476955413818,[]
+sucre,préfecture,nmod,NOUN,0.607562780380249,[]
+sucre,obtenir,acl,VERB,0.6382045745849609,[]
+canne,sucre,nmod,NOUN,0.5958884954452515,"[{""id"": 235647, ""node1"": 144267, ""node2"": 139481, ""type"": 0, ""w"": 140.0}, {""id"": 11347553, ""node1"": 144267, ""node2"": 139481, ""type"": 28, ""w"": 38.0}]"
+procédé,fabrication,nmod,NOUN,0.4336852133274078,"[{""id"": 243419680, ""node1"": 15054, ""node2"": 143005, ""type"": 8, ""w"": 35.0}, {""id"": 308635614, ""node1"": 15054, ""node2"": 143005, ""type"": 777, ""w"": 10.0}]"
+sucre,unique,amod,ADJ,0.6734275221824646,[]
+présente,sucre,nsubj,NOUN,0.6374445557594299,[]
+forme,cristal,nmod,NOUN,0.4641221165657043,[]
+cristal,fin,amod,ADJ,0.4726622998714447,[]
+couleur,jaune,amod,ADJ,0.4742509126663208,"[{""id"": 70620, ""node1"": 40056, ""node2"": 86711, ""type"": 0, ""w"": 509.95}, {""id"": 232491, ""node1"": 40056, ""node2"": 86711, ""type"": 8, ""w"": 158.0}, {""id"": 1038921079, ""node1"": 40056, ""node2"": 86711, ""type"": 9, ""w"": 26.0}, {""id"": 199365, ""node1"": 40056, ""node2"": 86711, ""type"": 17, ""w"": 249.0}, {""id"": 11348203, ""node1"": 40056, ""node2"": 86711, ""type"": 28, ""w"": 38.0}, {""id"": 53246445, ""node1"": 40056, ""node2"": 86711, ""type"": 35, ""w"": 51.0}, {""id"": 3159743, ""node1"": 40056, ""node2"": 86711, ""type"": 106, ""w"": 29.0}, {""id"": 1522478, ""node1"": 40056, ""node2"": 86711, ""type"": 666, ""w"": 15.0}]"
+canne,tige,nmod,NOUN,0.4714697003364563,"[{""id"": 8550344, ""node1"": 144267, ""node2"": 25437, ""type"": 0, ""w"": 30.0}]"
+tige,mince,amod,ADJ,0.4561894237995147,[]
+utiliser,sucre,nsubj:pass,NOUN,0.6547890305519104,[]
+sucre,préparer,acl,VERB,0.7019237875938416,[]
+cuire,jus,nsubj:pass,NOUN,0.715939998626709,"[{""id"": 352107977, ""node1"": 5115, ""node2"": 53310, ""type"": 30, ""w"": -25.0}, {""id"": 352516518, ""node1"": 5115, ""node2"": 53310, ""type"": 31, ""w"": 26.0}]"
+jus,canne,nmod,NOUN,0.5947322845458984,[]
+jus,extraire,amod,VERB,0.5476620197296143,"[{""id"": 599388286, ""node1"": 53310, ""node2"": 103148, ""type"": 26, ""w"": 31.0}]"
+cuire,obtenir,advcl,VERB,0.6775141954421997,[]
+obtenir,liquide,obj,NOUN,0.5098173022270203,[]
+liquide,appeler,acl,VERB,0.4890137612819671,[]
+sucre,devenir,advcl,VERB,0.6495413780212402,[]
+presse,faire,acl,VERB,0.487218976020813,[]
+faire,plateau,obj,NOUN,0.552863597869873,[]
+plateau,bois,nmod,NOUN,0.5215774178504944,"[{""id"": 31321804, ""node1"": 90516, ""node2"": 96256, ""type"": 0, ""w"": 42.0}, {""id"": 31301383, ""node1"": 90516, ""node2"": 96256, ""type"": 3, ""w"": 42.0}, {""id"": 1761461, ""node1"": 90516, ""node2"": 96256, ""type"": 50, ""w"": 58.0}]"
+presse,coton,nmod,NOUN,0.4580499529838562,[]
+forme,reste,nsubj,NOUN,0.4973364472389221,[]
+sécher,forme,advcl,VERB,0.5602977871894836,[]
+pression,premier,amod,ADJ,0.4287909865379333,[]
+composition,pâtisserie,nmod,NOUN,0.5887038707733154,[]
+pâtisserie,traditionnel,amod,ADJ,0.615527868270874,"[{""id"": 957285068, ""node1"": 25966, ""node2"": 41139, ""type"": 0, ""w"": 20.0}]"
+composition,japonais,nmod,ADJ,0.4189010262489319,[]
+catégorie,sec,amod,ADJ,0.4395189881324768,[]
+recette,dont,nmod,PRON,0.554669976234436,[]
+recette,meilleur,amod,ADJ,0.6173127889633179,[]
+obtenir,recette,nsubj:pass,NOUN,0.5849891901016235,[]
+procédé,presse,nmod,NOUN,0.4181260764598846,[]
+utiliser,qui,nsubj,PRON,0.4023291170597076,[]
+procédé,utiliser,acl:relcl,VERB,0.4292105138301849,[]
+utiliser,plateau,obj,NOUN,0.4936911165714264,[]
+répéter,terme,obj,NOUN,0.4157923758029938,[]
+appeler,variété,nsubj:pass,NOUN,0.4107190668582916,[]
+variété,provenir,acl,VERB,0.4234248697757721,[]

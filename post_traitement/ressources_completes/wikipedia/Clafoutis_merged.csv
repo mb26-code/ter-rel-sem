@@ -1,0 +1,42 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+gâteau,originaire,amod,ADJ,0.5906165242195129,[],,
+gâteau,Limousin,nmod,PROPN,0.5643867254257202,[],,
+gâteau,France,appos,PROPN,0.5615835189819336,[],,
+gâteau,composer,acl,VERB,0.5957553386688232,[],,
+cerise,entier,amod,ADJ,0.48818239569664,[],,
+dessert,dont,nmod,PRON,0.5054933428764343,[],,
+région,dessert,acl:relcl,NOUN,0.548001766204834,[],,
+carte,spécialité,nmod,NOUN,0.4306140542030334,[],,
+spécialité,gastronomique,amod,ADJ,0.5366917252540588,"[{""id"": 915212234, ""node1"": 49537, ""node2"": 34935, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+spécialité,français,amod,ADJ,0.4318132400512695,[],,
+sucre,ingrédient,nsubj,NOUN,0.6975625157356262,"[{""id"": 9621635, ""node1"": 139481, ""node2"": 123418, ""type"": 0, ""w"": 27.0}, {""id"": 506085, ""node1"": 139481, ""node2"": 123418, ""type"": 3, ""w"": 55.0}, {""id"": 119429, ""node1"": 139481, ""node2"": 123418, ""type"": 6, ""w"": 69.0}]",r_isa,69.0
+ingrédient,principal,amod,ADJ,0.5312119126319885,[],,
+inclure,beurre,obj,NOUN,0.6426392793655396,[],,
+mélange,jus,nsubj,NOUN,0.5826998949050903,[],,
+jus,cerise,nmod,NOUN,0.5742040276527405,"[{""id"": 919862100, ""node1"": 53310, ""node2"": 49073, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+mélange,pâte,nmod,NOUN,0.6687490940093994,"[{""id"": 899287391, ""node1"": 14800, ""node2"": 34069, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+cerise,petit,amod,ADJ,0.5352970361709595,[],,
+agir,acide,advcl,NOUN,0.4525816142559051,[],,
+doux,qui,nsubj,PRON,0.4442886114120483,[],,
+acide,doux,acl:relcl,ADJ,0.4922403991222381,"[{""id"": 85203420, ""node1"": 41368, ""node2"": 74183, ""type"": 7, ""w"": 32.0}]",r_anto,32.0
+fruit,autre,amod,ADJ,0.5194652080535889,[],,
+fruit,cerise,nmod,NOUN,0.4927964210510254,"[{""id"": 150223, ""node1"": 87286, ""node2"": 49073, ""type"": 0, ""w"": 489.0}, {""id"": 128048, ""node1"": 87286, ""node2"": 49073, ""type"": 8, ""w"": 722.0}, {""id"": 2212821, ""node1"": 87286, ""node2"": 49073, ""type"": 9, ""w"": -35.0}, {""id"": 15197244, ""node1"": 87286, ""node2"": 49073, ""type"": 27, ""w"": -22.0}, {""id"": 984594586, ""node1"": 87286, ""node2"": 49073, ""type"": 666, ""w"": 2.0}]",r_hypo,722.0
+cerise,tel,amod,ADJ,0.4866561889648437,[],,
+porte,spécialité,obj,NOUN,0.4270808696746826,[],,
+spécialité,appeler,acl,VERB,0.4000673592090606,[],,
+dessert,far,nsubj,NOUN,0.4384192526340484,"[{""id"": 914281337, ""node1"": 38557, ""node2"": 101889, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+dessert,proche,amod,ADJ,0.501231849193573,[],,
+dessert,réaliser,acl,VERB,0.566160261631012,[],,
+flan,préparer,advcl,VERB,0.5387423038482666,"[{""id"": 348324192, ""node1"": 9122, ""node2"": 36246, ""type"": 38, ""w"": 35.0}]",r_agentif_role,35.0
+ingrédient,commun,amod,ADJ,0.5462616086006165,[],,
+ingrédient,lait,appos,NOUN,0.6170777082443237,"[{""id"": 15303738, ""node1"": 123418, ""node2"": 86296, ""type"": 0, ""w"": 28.0}, {""id"": 15173662, ""node1"": 123418, ""node2"": 86296, ""type"": 27, ""w"": -24.0}]",r_associated,28.0
+farine,préparation,nmod,NOUN,0.6948904991149902,"[{""id"": 560385912, ""node1"": 127629, ""node2"": 33634, ""type"": 0, ""w"": 38.0}, {""id"": 97371950, ""node1"": 127629, ""node2"": 33634, ""type"": 6, ""w"": 16.0}]",r_associated,38.0
+utiliser,table,obj,NOUN,0.541193962097168,[],,
+table,nutritionnel,amod,ADJ,0.5676259994506836,[],,
+table,aliment,nmod,NOUN,0.6522878408432007,"[{""id"": 602029849, ""node1"": 89591, ""node2"": 114637, ""type"": 0, ""w"": 28.0}, {""id"": 11339236, ""node1"": 89591, ""node2"": 114637, ""type"": 28, ""w"": 39.0}]",r_lieu-1,39.0
+aliment,agence,nmod,NOUN,0.5077395439147949,[],,
+sécurité,alimentation,nmod,NOUN,0.417743444442749,[],,
+valeur,moyen,amod,ADJ,0.4647109508514404,[],,
+valeur,gramme,nmod,NOUN,0.4276582896709442,[],,
+gramme,protéine,nmod,NOUN,0.4546300768852234,[],,
+gramme,dont,nmod,PRON,0.442145824432373,[],,

@@ -1,0 +1,78 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+spécialité,boudin,nsubj,NOUN,0.598041296005249,[],,
+boudin,vert,amod,ADJ,0.5555627346038818,[],,
+spécialité,culinaire,amod,ADJ,0.5888378620147705,"[{""id"": 477435, ""node1"": 49537, ""node2"": 347, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+spécialité,originaire,amod,ADJ,0.4251545965671539,"[{""id"": 966508911, ""node1"": 49537, ""node2"": 38359, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+fait,base,nmod,NOUN,0.5341517329216003,[],,
+base,chou,nmod,NOUN,0.6257771849632263,[],,
+chou,vert,amod,ADJ,0.5518718957901001,"[{""id"": 604265844, ""node1"": 67203, ""node2"": 26976, ""type"": 0, ""w"": 47.0}, {""id"": 3172001, ""node1"": 67203, ""node2"": 26976, ""type"": 106, ""w"": 17.0}, {""id"": 981361544, ""node1"": 67203, ""node2"": 26976, ""type"": 666, ""w"": 2.0}]",r_associated,47.0
+fait,viande,nmod,NOUN,0.693294107913971,[],,
+viande,blanc,amod,ADJ,0.6933286786079407,"[{""id"": 9899466, ""node1"": 140100, ""node2"": 15196, ""type"": 0, ""w"": 13.0}, {""id"": 177876, ""node1"": 140100, ""node2"": 15196, ""type"": 8, ""w"": -101.0}, {""id"": 2501744, ""node1"": 140100, ""node2"": 15196, ""type"": 17, ""w"": 28.0}, {""id"": 3164771, ""node1"": 140100, ""node2"": 15196, ""type"": 106, ""w"": 18.0}]",r_carac,28.0
+blanc,porc,nmod,NOUN,0.6083876490592957,[],,
+originaire,boudin,nsubj,NOUN,0.5455408096313477,[],,
+emblème,gastronomique,amod,ADJ,0.4266198575496673,[],,
+fête,boudin,obj,NOUN,0.5526337623596191,[],,
+origine,boudin,nmod,NOUN,0.561781108379364,[],,
+boudin,chou,nmod,NOUN,0.5958190560340881,[],,
+chou,frisé,amod,ADJ,0.4761155247688293,[],,
+cultiver,qui,nsubj,PRON,0.410954862833023,"[{""id"": 728840991, ""node1"": 124394, ""node2"": 114890, ""type"": 9, ""w"": -5.0}]",r_has_part,-5.0
+chou,cultiver,acl:relcl,VERB,0.5547082424163818,[],,
+raconter,tradition,nsubj,NOUN,0.4481934309005737,[],,
+tradition,considérer,acl,VERB,0.4418757557868957,[],,
+faire,étape,obj,NOUN,0.4989683330059051,[],,
+mètre,boudin,nmod,NOUN,0.4729824066162109,[],,
+mètre,vert,amod,ADJ,0.4354018867015838,[],,
+servir,qui,nsubj:pass,PRON,0.4501188993453979,[],,
+servir,son,iobj,PRON,0.4823332726955414,[],,
+mètre,servir,acl:relcl,VERB,0.4357602000236511,[],,
+devenir,jour,obj,NOUN,0.4191553294658661,[],,
+jour,retrouver,acl:relcl,VERB,0.404654860496521,[],,
+maison,ancien,amod,ADJ,0.4568947553634643,"[{""id"": 11347258, ""node1"": 45179, ""node2"": 57904, ""type"": 28, ""w"": 38.0}]",r_lieu-1,38.0
+grenier,maison,nmod,NOUN,0.4834829270839691,"[{""id"": 258591, ""node1"": 120416, ""node2"": 45179, ""type"": 0, ""w"": 221.0}, {""id"": 231389, ""node1"": 120416, ""node2"": 45179, ""type"": 10, ""w"": 135.0}, {""id"": 11358431, ""node1"": 120416, ""node2"": 45179, ""type"": 15, ""w"": 42.0}, {""id"": 1802238, ""node1"": 120416, ""node2"": 45179, ""type"": 666, ""w"": 1.0}]",r_associated,221.0
+maison,communal,amod,ADJ,0.4597614705562591,[],,
+grenier,drapeau,appos,NOUN,0.4080988764762878,[],,
+drapeau,couleur,nmod,NOUN,0.4205402731895447,"[{""id"": 12299673, ""node1"": 132509, ""node2"": 40056, ""type"": 0, ""w"": 30.0}, {""id"": 574613, ""node1"": 132509, ""node2"": 40056, ""type"": 5, ""w"": 90.0}]",r_syn,90.0
+salle,conseil,nmod,NOUN,0.407286524772644,[],,
+orne,chou,obj,NOUN,0.4645618498325348,[],,
+viande,porc,nmod,NOUN,0.6425091028213501,"[{""id"": 163100, ""node1"": 140100, ""node2"": 71135, ""type"": 0, ""w"": 719.0}, {""id"": 9926333, ""node1"": 140100, ""node2"": 71135, ""type"": 6, ""w"": -20.0}, {""id"": 159577, ""node1"": 140100, ""node2"": 71135, ""type"": 8, ""w"": 174.0}, {""id"": 390246, ""node1"": 140100, ""node2"": 71135, ""type"": 10, ""w"": 70.0}, {""id"": 15173549, ""node1"": 140100, ""node2"": 71135, ""type"": 27, ""w"": 23.0}, {""id"": 376040808, ""node1"": 140100, ""node2"": 71135, ""type"": 51, ""w"": 35.0}, {""id"": 99763096, ""node1"": 140100, ""node2"": 71135, ""type"": 666, ""w"": 6.0}]",r_associated,719.0
+composition,rester,acl:relcl,VERB,0.4230408668518066,[],,
+respecter,que,obj,SCONJ,0.4004788100719452,[],,
+boucher,local,amod,ADJ,0.4598507285118103,[],,
+boucher,vouloir,acl:relcl,VERB,0.4500651359558105,[],,
+recette,ancestral,amod,ADJ,0.6218665838241577,[],,
+déguster,production,nsubj:pass,NOUN,0.5885338187217712,[],,
+recevoir,boucher,nsubj,NOUN,0.4489248096942901,[],,
+boucher,juger,acl,VERB,0.4116649031639099,[],,
+chapeau,petit,amod,ADJ,0.5110940337181091,"[{""id"": 631428, ""node1"": 24670, ""node2"": 55222, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+recevoir,chapeau,obj,NOUN,0.4608588516712188,"[{""id"": 376193934, ""node1"": 36620, ""node2"": 24670, ""type"": 16, ""w"": 26.0}]",r_instr,26.0
+chapeau,grand,amod,ADJ,0.4596441984176636,"[{""id"": 631427, ""node1"": 24670, ""node2"": 23178, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+pouvoir,boudin,nsubj,NOUN,0.5494993329048157,[],,
+purée,pomme,nmod,NOUN,0.6487348079681396,"[{""id"": 1042429659, ""node1"": 16444, ""node2"": 37201, ""type"": 0, ""w"": 6.0}, {""id"": 8554903, ""node1"": 16444, ""node2"": 37201, ""type"": 50, ""w"": -5.0}]",r_associated,6.0
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+carotte,Vichy,amod,PROPN,0.4193809628486633,[],,
+pomme,chou,nmod,NOUN,0.6079865097999573,[],,
+chou,rouge,amod,ADJ,0.5571650862693787,"[{""id"": 8814016, ""node1"": 67203, ""node2"": 86356, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+pomme,fruit,amod,ADJ,0.5591707229614258,"[{""id"": 81600, ""node1"": 37201, ""node2"": 87286, ""type"": 0, ""w"": 482.0}, {""id"": 469190, ""node1"": 37201, ""node2"": 87286, ""type"": 3, ""w"": 28.0}, {""id"": 53618346, ""node1"": 37201, ""node2"": 87286, ""type"": 5, ""w"": 80.0}, {""id"": 506444, ""node1"": 37201, ""node2"": 87286, ""type"": 6, ""w"": 594.0}, {""id"": 1582197, ""node1"": 37201, ""node2"": 87286, ""type"": 8, ""w"": -55.0}, {""id"": 2224223, ""node1"": 37201, ""node2"": 87286, ""type"": 35, ""w"": 255.0}, {""id"": 1525188, ""node1"": 37201, ""node2"": 87286, ""type"": 666, ""w"": 44.0}]",r_isa,594.0
+pomme,couper,acl,VERB,0.5837893486022949,"[{""id"": 31839899, ""node1"": 37201, ""node2"": 128828, ""type"": 26, ""w"": 64.0}]",r_patient-1,64.0
+pomme,quartier,nmod,NOUN,0.5708214044570923,"[{""id"": 1983477, ""node1"": 37201, ""node2"": 1055, ""type"": 0, ""w"": 60.0}, {""id"": 72392485, ""node1"": 37201, ""node2"": 1055, ""type"": 9, ""w"": 30.0}, {""id"": 182791, ""node1"": 37201, ""node2"": 1055, ""type"": 21, ""w"": 80.0}]",r_has_antimagn,80.0
+servir,accompagner,advcl,VERB,0.4603842794895172,[],,
+bière,belge,amod,ADJ,0.4417388439178467,"[{""id"": 259919, ""node1"": 106797, ""node2"": 73519, ""type"": 0, ""w"": 70.0}, {""id"": 9661403, ""node1"": 106797, ""node2"": 73519, ""type"": 8, ""w"": 34.0}, {""id"": 96713806, ""node1"": 106797, ""node2"": 73519, ""type"": 17, ""w"": 27.0}]",r_associated,70.0
+saison,exemple,nmod,NOUN,0.4507732689380646,[],,
+champagne,décider,acl:relcl,VERB,0.4533865451812744,[],,
+promouvoir,boudin,obj,NOUN,0.5489293336868286,[],,
+confrérie,gastronomique,amod,ADJ,0.4259333312511444,[],,
+réputation,grandiose,amod,ADJ,0.404470831155777,[],,
+boudin,fameux,amod,ADJ,0.5302793979644775,[],,
+servir,réunir,advcl,VERB,0.4241775274276733,[],,
+servir,organiser,advcl,VERB,0.4349712431430816,[],,
+feu,grand,amod,ADJ,0.5484392046928406,[],,
+organiser,feu,obj,NOUN,0.5421169996261597,[],,
+fête,célèbre,amod,ADJ,0.4183510243892669,[],,
+fête,printemps,nmod,NOUN,0.4323805868625641,"[{""id"": 975242391, ""node1"": 144647, ""node2"": 98798, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+promener,chou,nsubj:pass,NOUN,0.5320243239402771,[],,
+milieu,concours,nmod,NOUN,0.4026030600070953,[],,
+jet,chou,nmod,NOUN,0.5064550042152405,[],,
+feu,joie,nmod,NOUN,0.5440790057182312,"[{""id"": 402448, ""node1"": 143703, ""node2"": 57221, ""type"": 0, ""w"": 80.0}, {""id"": 9318687, ""node1"": 143703, ""node2"": 57221, ""type"": 32, ""w"": 3.0}]",r_associated,80.0
+feu,bûcher,nmod,NOUN,0.5186029672622681,"[{""id"": 1654104, ""node1"": 143703, ""node2"": 135439, ""type"": 0, ""w"": 60.0}, {""id"": 54649068, ""node1"": 143703, ""node2"": 135439, ""type"": 5, ""w"": 71.0}, {""id"": 9982463, ""node1"": 143703, ""node2"": 135439, ""type"": 10, ""w"": 4.0}, {""id"": 9345958, ""node1"": 143703, ""node2"": 135439, ""type"": 20, ""w"": 51.0}]",r_associated,60.0
+bûcher,dresser,acl,VERB,0.4278419911861419,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,

@@ -1,0 +1,47 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+gâteau,titre,nsubj,NOUN,0.546883761882782,[],,
+gâteau,princesse,nmod,NOUN,0.5521257519721985,[],,
+gâteau,suédois,amod,ADJ,0.5546642541885376,[],,
+gâteau,traditionnel,amod,ADJ,0.617279052734375,"[{""id"": 93362788, ""node1"": 2149, ""node2"": 41139, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+gâteau,composer,acl,VERB,0.5957553386688232,[],,
+composer,couche,nmod,NOUN,0.4577607810497284,[],,
+couche,génoise,nmod,NOUN,0.4920397996902466,[],,
+gâteau,confiture,nmod,NOUN,0.6436577439308167,"[{""id"": 99088174, ""node1"": 2149, ""node2"": 70793, ""type"": 0, ""w"": 23.0}, {""id"": 99071068, ""node1"": 2149, ""node2"": 70793, ""type"": 9, ""w"": 36.0}]",r_has_part,36.0
+confiture,framboise,nmod,NOUN,0.5689654350280762,"[{""id"": 411051, ""node1"": 70793, ""node2"": 12402, ""type"": 0, ""w"": 91.0}, {""id"": 3183679, ""node1"": 70793, ""node2"": 12402, ""type"": 106, ""w"": 1.0}]",r_associated,91.0
+confiture,sorte,nmod,NOUN,0.6063029766082764,[],,
+sorte,crème,nmod,NOUN,0.6268461346626282,[],,
+crème,pâtissier,amod,ADJ,0.6166189908981323,"[{""id"": 561269853, ""node1"": 44001, ""node2"": 31618, ""type"": 0, ""w"": 41.0}]",r_associated,41.0
+crème,vanillé,amod,ADJ,0.6056379079818726,[],,
+crème,fouetter,amod,VERB,0.5741783380508423,"[{""id"": 2219421, ""node1"": 44001, ""node2"": 45711, ""type"": 0, ""w"": 52.0}, {""id"": 15066415, ""node1"": 44001, ""node2"": 45711, ""type"": 26, ""w"": 30.0}, {""id"": 2311449, ""node1"": 44001, ""node2"": 45711, ""type"": 42, ""w"": 51.0}]",r_associated,52.0
+couverture,fin,amod,ADJ,0.4337199628353119,[],,
+couverture,pâte,nmod,NOUN,0.6301463842391968,[],,
+pâte,amande,nmod,NOUN,0.6331775784492493,"[{""id"": 796691772, ""node1"": 34069, ""node2"": 28557, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+vert,dernier,nsubj,ADJ,0.4552784860134125,[],,
+vert,rose,amod,ADJ,0.455908715724945,"[{""id"": 488084, ""node1"": 26976, ""node2"": 145583, ""type"": 0, ""w"": 60.0}, {""id"": 1787563, ""node1"": 26976, ""node2"": 145583, ""type"": 666, ""w"": 1.0}]",r_associated,60.0
+vert,saupoudrer,advcl,ADJ,0.5358276963233948,[],,
+sucre,glace,nmod,NOUN,0.6416636109352112,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -125.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]",r_associated,111.0
+rose,pâte,nmod,NOUN,0.6345147490501404,[],,
+rose,amande,nmod,NOUN,0.5058359503746033,[],,
+apparaître,recette,nsubj,NOUN,0.6335548162460327,[],,
+recette,original,amod,ADJ,0.5799373388290405,[],,
+livre,cuisine,nmod,NOUN,0.6082427501678467,"[{""id"": 796690394, ""node1"": 142787, ""node2"": 16033, ""type"": 0, ""w"": 27.0}, {""id"": 661863037, ""node1"": 142787, ""node2"": 16033, ""type"": 142, ""w"": 30.0}]",r_associated,27.0
+livre,livre,appos,NOUN,0.4025858938694,"[{""id"": 313686, ""node1"": 142787, ""node2"": 142787, ""type"": 19, ""w"": 52.0}]",r_lemma,52.0
+livre,princesse,nmod,NOUN,0.4498275518417358,[],,
+appeler,gâteau,nsubj:pass,NOUN,0.5641917586326599,[],,
+servir,appeler,advcl,VERB,0.4116459190845489,[],,
+gâteau,vert,amod,ADJ,0.595890998840332,"[{""id"": 3175774, ""node1"": 2149, ""node2"": 26976, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+association,boulanger,nmod,NOUN,0.4516891241073608,[],,
+pâtissier,suédois,amod,ADJ,0.413575530052185,[],,
+servir,gâteau,nsubj:pass,NOUN,0.6561538577079773,"[{""id"": 99077307, ""node1"": 7888, ""node2"": 2149, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+comporter,gâteau,nsubj,NOUN,0.6139447093009949,[],,
+gâteau,origine,nmod,NOUN,0.6108851432800293,[],,
+comporter,confiture,obj,NOUN,0.5995022654533386,[],,
+contact,crème,nsubj,NOUN,0.6020914316177368,[],,
+confiture,contact,acl,NOUN,0.5779643058776855,[],,
+contact,pâte,nmod,NOUN,0.643467366695404,[],,
+amande,génoise,nmod,NOUN,0.5092252492904663,[],,
+amande,intermédiaire,nmod,NOUN,0.5088148713111877,[],,
+gâteau,prince,nmod,PROPN,0.4864237308502197,"[{""id"": 796999023, ""node1"": 2149, ""node2"": 146728, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+couvert,pâte,nmod,NOUN,0.6675146222114563,[],,
+amande,rose,amod,ADJ,0.5058359503746033,[],,
+gâteau,opéra,nmod,NOUN,0.526603102684021,"[{""id"": 943592202, ""node1"": 2149, ""node2"": 2449, ""type"": 0, ""w"": 20.0}, {""id"": 377257375, ""node1"": 2149, ""node2"": 2449, ""type"": 6, ""w"": 487.0}, {""id"": 886328417, ""node1"": 2149, ""node2"": 2449, ""type"": 8, ""w"": 35.0}]",r_isa,487.0

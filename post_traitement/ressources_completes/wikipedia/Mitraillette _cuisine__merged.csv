@@ -1,0 +1,40 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+mets,constituer,acl,VERB,0.4816576838493347,"[{""id"": 526126358, ""node1"": 114839, ""node2"": 105612, ""type"": 26, ""w"": 31.0}]",r_patient-1,31.0
+contenir,viande,obj,NOUN,0.691586971282959,"[{""id"": 371158712, ""node1"": 34519, ""node2"": 140100, ""type"": 0, ""w"": 29.0}, {""id"": 371158711, ""node1"": 34519, ""node2"": 140100, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+viande,cuire,acl,VERB,0.7988991737365723,"[{""id"": 365344017, ""node1"": 140100, ""node2"": 5115, ""type"": 0, ""w"": 34.0}, {""id"": 14845361, ""node1"": 140100, ""node2"": 5115, ""type"": 24, ""w"": 100.0}, {""id"": 2194971, ""node1"": 140100, ""node2"": 5115, ""type"": 26, ""w"": 100.0}]",r_agent-1,100.0
+viande,servir,acl,VERB,0.732563316822052,"[{""id"": 892348153, ""node1"": 140100, ""node2"": 7888, ""type"": 0, ""w"": 20.0}, {""id"": 368117593, ""node1"": 140100, ""node2"": 7888, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+préparation,culinaire,amod,ADJ,0.6475791931152344,"[{""id"": 601611802, ""node1"": 33634, ""node2"": 347, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+préparation,populaire,amod,ADJ,0.5305058360099792,[],,
+préparation,répandre,acl,ADJ,0.5205345749855042,[],,
+snack,Belgique,nmod,PROPN,0.4509061574935913,[],,
+centre,mini,amod,NOUN,0.4242295622825622,[],,
+sandwich,américain,amod,ADJ,0.4841594099998474,"[{""id"": 98348616, ""node1"": 1447, ""node2"": 11467, ""type"": 0, ""w"": 4.0}, {""id"": 98271955, ""node1"": 1447, ""node2"": 11467, ""type"": 8, ""w"": 36.0}]",r_hypo,36.0
+sandwich,nord,nmod,NOUN,0.4370901882648468,"[{""id"": 737421268, ""node1"": 1447, ""node2"": 26089, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+ville,composer,acl:relcl,VERB,0.4009416997432709,[],,
+tartine,remplir,acl,VERB,0.5288073420524597,[],,
+chou,râpé,amod,ADV,0.5869935750961304,[],,
+ajouter,tranche,obj,NOUN,0.5005631446838379,[],,
+tranche,œuf,nmod,NOUN,0.5457579493522644,[],,
+œuf,dur,amod,ADJ,0.5370863080024719,"[{""id"": 560384151, ""node1"": 174124, ""node2"": 72731, ""type"": 0, ""w"": 67.0}]",r_associated,67.0
+type,moyen,amod,ADJ,0.467083066701889,[],,
+papier,simple,amod,ADJ,0.5180972814559937,[],,
+composer,manger,advcl,VERB,0.5211232900619507,[],,
+dire,possible,advcl,ADJ,0.4002744853496551,[],,
+choisir,type,obj,NOUN,0.4303919374942779,[],,
+type,sauce,nmod,NOUN,0.6670159101486206,[],,
+type,exemple,nmod,NOUN,0.4041109383106231,"[{""id"": 1030733, ""node1"": 15235, ""node2"": 104671, ""type"": 0, ""w"": 22.0}, {""id"": 12316290, ""node1"": 15235, ""node2"": 104671, ""type"": 5, ""w"": 123.0}]",r_syn,123.0
+placer,celui-ci,nsubj:pass,PRON,0.4605709016323089,[],,
+servir,lui,nsubj:pass,PRON,0.4226152002811432,[],,
+pot,petit,amod,ADJ,0.5258204936981201,"[{""id"": 247112, ""node1"": 142367, ""node2"": 55222, ""type"": 17, ""w"": 57.0}]",r_carac,57.0
+pot,accompagner,acl:relcl,VERB,0.5102919936180115,[],,
+sauce,différent,amod,ADJ,0.6903141736984253,[],,
+plat,riche,amod,ADJ,0.6027491688728333,"[{""id"": 93508272, ""node1"": 36327, ""node2"": 34080, ""type"": 17, ""w"": 35.0}]",r_carac,35.0
+dépendre,apport,nsubj,NOUN,0.4276022911071777,[],,
+apport,nutritionnel,amod,ADJ,0.4253399968147278,[],,
+type,baguette,nmod,NOUN,0.521561861038208,[],,
+type,quantité,nmod,NOUN,0.5045106410980225,"[{""id"": 1030775, ""node1"": 15235, ""node2"": 78869, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+type,huile,nmod,NOUN,0.6050179600715637,[],,
+huile,cuisson,nmod,NOUN,0.7335368394851685,"[{""id"": 8556096, ""node1"": 141971, ""node2"": 60056, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+quantité,sel,nmod,NOUN,0.6741965413093567,[],,
+chaîne,rapide,amod,ADJ,0.4070797562599182,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,

@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,cuisine,obj,NOUN,0.6019042730331421,[],,
+cuisine,japonais,amod,ADJ,0.5706702470779419,[],,
+période,terme,nsubj,NOUN,0.4082811772823334,[],,
+type,grand,amod,ADJ,0.4501351416110992,"[{""id"": 268693, ""node1"": 15235, ""node2"": 23178, ""type"": 17, ""w"": 110.0}]",r_carac,110.0
+type,cuisine,nmod,NOUN,0.6011607050895691,"[{""id"": 1715320, ""node1"": 15235, ""node2"": 16033, ""type"": 15, ""w"": 10.0}]",r_lieu,10.0
+façon,servir,acl,VERB,0.5215983986854553,[],,
+servir,repas,obj,NOUN,0.597880482673645,"[{""id"": 8866753, ""node1"": 7888, ""node2"": 74736, ""type"": 0, ""w"": 3.0}, {""id"": 476878659, ""node1"": 7888, ""node2"": 74736, ""type"": 14, ""w"": 100.0}, {""id"": 1008675985, ""node1"": 7888, ""node2"": 74736, ""type"": 666, ""w"": 2.0}]",r_patient,100.0
+façon,dîner,appos,NOUN,0.558300793170929,[],,
+dîner,complet,amod,ADJ,0.4889267683029175,[],,
+terme,manière,nmod,NOUN,0.4340450465679168,[],,
+dresser,plat,nsubj:pass,NOUN,0.5993975400924683,"[{""id"": 940663192, ""node1"": 43485, ""node2"": 36327, ""type"": 14, ""w"": 30.0}, {""id"": 376200592, ""node1"": 43485, ""node2"": 36327, ""type"": 16, ""w"": 28.0}]",r_instr,28.0
+plat,précis,amod,ADJ,0.5517738461494446,[],,
+manière,dresser,acl:relcl,VERB,0.4287887513637543,"[{""id"": 899379396, ""node1"": 28743, ""node2"": 43485, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+plateau,pied,nmod,NOUN,0.4414992332458496,[],,
+terme,tomber,acl,VERB,0.4563171863555908,"[{""id"": 98314696, ""node1"": 144149, ""node2"": 8661, ""type"": 24, ""w"": 30.0}]",r_agent-1,30.0
+façon,formel,amod,ADJ,0.4285204708576202,[],,
+tour,triple,amod,ADJ,0.4285517036914825,[],,
+tour,boisson,nmod,NOUN,0.5605655908584595,[],,
+mariage,traditionnel,amod,ADJ,0.4201606512069702,"[{""id"": 675396051, ""node1"": 26477, ""node2"": 41139, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+motif,typique,amod,ADJ,0.4167311787605285,[],,
+manière,servir,acl,VERB,0.5036418437957764,[],,
+désigner,plateau,obj,NOUN,0.4280448853969574,[],,
+interprétation,autre,amod,ADJ,0.4008897244930267,[],,
+désigner,tour,obj,NOUN,0.4194631576538086,[],,
+servir,mets,nsubj:pass,NOUN,0.5270059704780579,[],,
+mets,invité,nmod,NOUN,0.4550907909870147,[],,
+poser,plateau,nsubj:pass,NOUN,0.4622514843940735,[],,
+servir,poser,advcl,VERB,0.4643310308456421,[],,
+structure,forme,nmod,NOUN,0.4252768456935882,"[{""id"": 1013197, ""node1"": 146739, ""node2"": 142000, ""type"": 0, ""w"": 60.0}, {""id"": 53748932, ""node1"": 146739, ""node2"": 142000, ""type"": 5, ""w"": 111.0}, {""id"": 369513138, ""node1"": 146739, ""node2"": 142000, ""type"": 8, ""w"": 45.0}, {""id"": 2012704, ""node1"": 146739, ""node2"": 142000, ""type"": 35, ""w"": 54.0}, {""id"": 1070514811, ""node1"": 146739, ""node2"": 142000, ""type"": 666, ""w"": 2.0}]",r_syn,111.0
+forme,boîte,nmod,NOUN,0.4584363102912903,[],,
+boîte,trois,acl:relcl,PRON,0.4227672219276428,[],,
+trois,côté,nmod,NOUN,0.4191057085990906,[],,

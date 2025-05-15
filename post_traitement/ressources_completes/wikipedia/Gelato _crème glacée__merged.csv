@@ -1,0 +1,65 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+crème,glacé,amod,ADJ,0.5751900672912598,"[{""id"": 14803746, ""node1"": 44001, ""node2"": 39487, ""type"": 17, ""w"": 28.0}]",r_carac,28.0
+variante,dessert,nmod,NOUN,0.5511870384216309,[],,
+dessert,glacé,amod,ADJ,0.5219269394874573,"[{""id"": 915385974, ""node1"": 38557, ""node2"": 39487, ""type"": 0, ""w"": 20.0}, {""id"": 218824, ""node1"": 38557, ""node2"": 39487, ""type"": 17, ""w"": 56.0}]",r_carac,56.0
+dessert,artisanal,amod,ADJ,0.5887151956558228,[],,
+dessert,cuisine,nmod,NOUN,0.6783477067947388,"[{""id"": 15452309, ""node1"": 38557, ""node2"": 16033, ""type"": 0, ""w"": 344.0}, {""id"": 262771, ""node1"": 38557, ""node2"": 16033, ""type"": 3, ""w"": 349.0}, {""id"": 198414, ""node1"": 38557, ""node2"": 16033, ""type"": 15, ""w"": 129.0}, {""id"": 376196654, ""node1"": 38557, ""node2"": 16033, ""type"": 16, ""w"": -29.0}, {""id"": 765133728, ""node1"": 38557, ""node2"": 16033, ""type"": 80, ""w"": 26.0}]",r_associated,344.0
+cuisine,italien,amod,ADJ,0.5664859414100647,"[{""id"": 15230771, ""node1"": 16033, ""node2"": 103658, ""type"": 0, ""w"": 252.0}, {""id"": 15094978, ""node1"": 16033, ""node2"": 103658, ""type"": 27, ""w"": 30.0}, {""id"": 15741751, ""node1"": 16033, ""node2"": 103658, ""type"": 666, ""w"": 1.0}, {""id"": 3982096, ""node1"": 16033, ""node2"": 103658, ""type"": 777, ""w"": 6.0}]",r_associated,252.0
+variante,base,nmod,NOUN,0.4934647679328918,[],,
+base,lait,nmod,NOUN,0.6312020421028137,[],,
+sucre,différent,amod,ADJ,0.6487727165222168,[],,
+arôme,tel,amod,ADJ,0.515887975692749,[],,
+fruit,frais,amod,ADJ,0.4749932289123535,[],,
+fruit,faible,amod,ADJ,0.484599769115448,[],,
+fruit,graisse,nmod,NOUN,0.6128289699554443,[],,
+dériver,crème,nsubj:pass,NOUN,0.6207073330879211,[],,
+sucre,dériver,acl,VERB,0.6403818130493164,[],,
+type,glace,nsubj,NOUN,0.5725008249282837,[],,
+glace,mou,amod,ADJ,0.4845958650112152,[],,
+glace,contenir,acl,VERB,0.5531706213951111,[],,
+contenir,quantité,obj,NOUN,0.4772158563137054,[],,
+quantité,faible,amod,ADJ,0.442454069852829,"[{""id"": 899389093, ""node1"": 78869, ""node2"": 50268, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+quantité,air,nmod,NOUN,0.4187639653682709,[],,
+devoir,glace,nsubj,NOUN,0.5528320074081421,[],,
+matière,gras,amod,ADJ,0.5509254336357117,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+matière,laitier,amod,ADJ,0.5430717468261719,[],,
+équilibré,teneur,nsubj,NOUN,0.4711291790008545,[],,
+teneur,sucre,nmod,NOUN,0.6323028206825256,[],,
+teneur,glace,nmod,NOUN,0.5756567716598511,[],,
+teneur,crème,nmod,NOUN,0.6182471513748169,[],,
+teneur,eau,nmod,NOUN,0.5730069279670715,"[{""id"": 83648189, ""node1"": 103276, ""node2"": 65012, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+comprendre,type,nsubj,NOUN,0.436991423368454,[],,
+type,sucre,nmod,NOUN,0.6426097750663757,[],,
+type,utiliser,acl,VERB,0.4480940997600555,[],,
+contrôler,douceur,obj,NOUN,0.486085444688797,[],,
+crème,autre,amod,ADJ,0.6170281171798706,[],,
+base,stabilisation,nmod,NOUN,0.4842977523803711,[],,
+utiliser,jaune,nsubj:pass,NOUN,0.5225818157196045,[],,
+jaune,œuf,nmod,NOUN,0.529880940914154,"[{""id"": 558764775, ""node1"": 86711, ""node2"": 174124, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+parfum,jaune,amod,ADJ,0.5369402766227722,"[{""id"": 3180994, ""node1"": 55249, ""node2"": 86711, ""type"": 106, ""w"": 3.0}]",r_has_color,3.0
+parfum,glace,nmod,NOUN,0.5730849504470825,"[{""id"": 219117, ""node1"": 55249, ""node2"": 141964, ""type"": 0, ""w"": 110.0}, {""id"": 9983545, ""node1"": 55249, ""node2"": 141964, ""type"": 10, ""w"": 4.0}, {""id"": 12994466, ""node1"": 55249, ""node2"": 141964, ""type"": 15, ""w"": 69.0}]",r_associated,110.0
+base,crème,nmod,NOUN,0.6162009239196777,"[{""id"": 494138238, ""node1"": 72257, ""node2"": 44001, ""type"": 0, ""w"": 37.0}, {""id"": 495313837, ""node1"": 72257, ""node2"": 44001, ""type"": 35, ""w"": 36.0}]",r_associated,37.0
+crème,caramel,amod,NOUN,0.6330167651176453,[],,
+ajouter,stabiliser,advcl,VERB,0.4274399876594543,[],,
+stabiliser,base,obj,NOUN,0.4998743534088135,[],,
+utiliser,amidon,nsubj:pass,NOUN,0.5291497111320496,[],,
+amidon,amidon,nmod,NOUN,0.4481858313083648,"[{""id"": 279738, ""node1"": 41260, ""node2"": 41260, ""type"": 19, ""w"": 59.0}]",r_lemma,59.0
+amidon,maïs,nmod,ADV,0.553879976272583,"[{""id"": 115326427, ""node1"": 41260, ""node2"": 139790, ""type"": 0, ""w"": 31.0}, {""id"": 1041934308, ""node1"": 41260, ""node2"": 139790, ""type"": 10, ""w"": 51.0}, {""id"": 1041934226, ""node1"": 41260, ""node2"": 139790, ""type"": 15, ""w"": 31.0}, {""id"": 376039280, ""node1"": 41260, ""node2"": 139790, ""type"": 51, ""w"": 35.0}]",r_holo,51.0
+glace,contraire,nmod,NOUN,0.5459640026092529,[],,
+crème,simple,amod,ADJ,0.6213505864143372,[],,
+contraire,crème,nmod,NOUN,0.6043096780776978,[],,
+définir,crème,nsubj:pass,NOUN,0.5774002075195312,[],,
+recouvrir,comprendre,advcl,VERB,0.4503530859947204,[],,
+matière,lait,nmod,NOUN,0.602200984954834,"[{""id"": 98291612, ""node1"": 29208, ""node2"": 86296, ""type"": 0, ""w"": 11.0}, {""id"": 98291626, ""node1"": 29208, ""node2"": 86296, ""type"": 8, ""w"": 23.0}]",r_hypo,23.0
+recouvrir,terme,nsubj,NOUN,0.4586241245269775,[],,
+recouvrir,large,obj,ADJ,0.4022972881793976,[],,
+recouvrir,gamme,obj,NOUN,0.4299646019935608,[],,
+dessert,dont,nmod,PRON,0.5054933428764343,[],,
+produit,dessert,acl:relcl,NOUN,0.5462853908538818,[],,
+dessert,congeler,amod,ADJ,0.6165940165519714,[],,
+dessert,consommer,acl,VERB,0.6278451085090637,"[{""id"": 29343582, ""node1"": 38557, ""node2"": 97571, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+contenir,matière,obj,NOUN,0.4711953699588775,[],,
+crème,contenir,acl,VERB,0.6126770973205566,[],,
+quantité,matière,nmod,NOUN,0.5064817667007446,"[{""id"": 3640245, ""node1"": 78869, ""node2"": 29208, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+matière,dépasser,acl,VERB,0.4603543281555176,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,

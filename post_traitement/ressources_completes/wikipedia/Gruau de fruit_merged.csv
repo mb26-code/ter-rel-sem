@@ -1,0 +1,55 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+spécialité,typique,amod,ADJ,0.5012661218643188,[],,
+plat,base,nmod,NOUN,0.6491852402687073,[],,
+base,fruit,nmod,NOUN,0.5616949200630188,[],,
+plat,fruit,nmod,NOUN,0.6415635347366333,"[{""id"": 1020349292, ""node1"": 36327, ""node2"": 87286, ""type"": 28, ""w"": 36.0}]",r_lieu-1,36.0
+fruit,rouge,amod,ADJ,0.5157613754272461,"[{""id"": 640137316, ""node1"": 87286, ""node2"": 86356, ""type"": 0, ""w"": 96.0}, {""id"": 2171760, ""node1"": 87286, ""node2"": 86356, ""type"": 17, ""w"": 26.0}, {""id"": 3160627, ""node1"": 87286, ""node2"": 86356, ""type"": 106, ""w"": 22.0}]",r_associated,96.0
+plat,mélanger,acl,VERB,0.6620808243751526,"[{""id"": 380393876, ""node1"": 36327, ""node2"": 37151, ""type"": 30, ""w"": 27.0}]",r_lieu_action,27.0
+sucre,jus,nmod,NOUN,0.6285513639450073,[],,
+jus,fruit,nmod,NOUN,0.5476160049438477,"[{""id"": 237500, ""node1"": 53310, ""node2"": 87286, ""type"": 0, ""w"": 208.0}, {""id"": 210856, ""node1"": 53310, ""node2"": 87286, ""type"": 9, ""w"": -60.0}, {""id"": 1965659, ""node1"": 53310, ""node2"": 87286, ""type"": 10, ""w"": 63.0}, {""id"": 1051892064, ""node1"": 53310, ""node2"": 87286, ""type"": 13, ""w"": 15.0}, {""id"": 24414181, ""node1"": 53310, ""node2"": 87286, ""type"": 35, ""w"": 48.0}, {""id"": 1771770, ""node1"": 53310, ""node2"": 87286, ""type"": 666, ""w"": 4.0}]",r_associated,208.0
+sucre,lier,acl,VERB,0.578255295753479,[],,
+consomme,préférence,nmod,NOUN,0.5018500089645386,[],,
+préférence,dessert,nmod,NOUN,0.5869863033294678,[],,
+dessert,servir,acl,VERB,0.598185658454895,"[{""id"": 622841, ""node1"": 38557, ""node2"": 7888, ""type"": 22, ""w"": 60.0}, {""id"": 8836125, ""node1"": 38557, ""node2"": 7888, ""type"": 25, ""w"": -1.0}, {""id"": 2481456, ""node1"": 38557, ""node2"": 7888, ""type"": 26, ""w"": 30.0}, {""id"": 8797596, ""node1"": 38557, ""node2"": 7888, ""type"": 30, ""w"": 0.0}]",r_family,60.0
+peu,lait,nmod,NOUN,0.5964295268058777,[],,
+crème,fouetter,acl,VERB,0.5741783380508423,"[{""id"": 2219421, ""node1"": 44001, ""node2"": 45711, ""type"": 0, ""w"": 52.0}, {""id"": 15066415, ""node1"": 44001, ""node2"": 45711, ""type"": 26, ""w"": 30.0}, {""id"": 2311449, ""node1"": 44001, ""node2"": 45711, ""type"": 42, ""w"": 51.0}]",r_associated,52.0
+utiliser,liant,advcl,NOUN,0.4566783010959625,[],,
+dessert,peu,nmod,ADV,0.5471229553222656,[],,
+peu,sauce,nmod,NOUN,0.6355298161506653,[],,
+dessert,vanille,nmod,NOUN,0.626308262348175,"[{""id"": 980361963, ""node1"": 38557, ""node2"": 140463, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+proche,recette,nsubj,NOUN,0.5768656134605408,[],,
+fait,préparer,acl,VERB,0.5032503604888916,"[{""id"": 53601475, ""node1"": 104957, ""node2"": 36246, ""type"": 5, ""w"": -50.0}]",r_syn,-50.0
+préparer,ajout,advcl,NOUN,0.4592587351799011,[],,
+fruit,entier,amod,ADJ,0.4833570122718811,[],,
+préparation,classique,amod,ADJ,0.6002874374389648,[],,
+utilisation,fraise,nmod,NOUN,0.5139442682266235,[],,
+cuisson,acidité,amod,NOUN,0.692049503326416,[],,
+préparation,autre,amod,ADJ,0.5430618524551392,[],,
+servir,préparation,nsubj,NOUN,0.5756478905677795,"[{""id"": 558790747, ""node1"": 7888, ""node2"": 33634, ""type"": 0, ""w"": 37.0}]",r_associated,37.0
+baie,tout,amod,ADJ,0.4405978620052337,[],,
+jardin,celui,nmod,PRON,0.4608727097511291,[],,
+rouge,qui,nsubj,PRON,0.4492935538291931,[],,
+celui,rouge,acl:relcl,ADJ,0.4549222588539123,[],,
+fruit,autre,amod,ADJ,0.5194652080535889,[],,
+fruit,jaune,amod,ADJ,0.523147463798523,"[{""id"": 601075299, ""node1"": 87286, ""node2"": 86711, ""type"": 0, ""w"": 28.0}, {""id"": 2172137, ""node1"": 87286, ""node2"": 86711, ""type"": 17, ""w"": 41.0}, {""id"": 3160626, ""node1"": 87286, ""node2"": 86711, ""type"": 106, ""w"": 14.0}]",r_carac,41.0
+fruit,ingrédient,nsubj,NOUN,0.5687575936317444,[],,
+ingrédient,base,nmod,NOUN,0.5895823240280151,"[{""id"": 12352698, ""node1"": 123418, ""node2"": 72257, ""type"": 0, ""w"": 30.0}, {""id"": 12197414, ""node1"": 123418, ""node2"": 72257, ""type"": 5, ""w"": 35.0}]",r_associated,30.0
+fruit,jus,nmod,NOUN,0.5476160049438477,"[{""id"": 218712, ""node1"": 87286, ""node2"": 53310, ""type"": 0, ""w"": 128.0}, {""id"": 378537, ""node1"": 87286, ""node2"": 53310, ""type"": 9, ""w"": 118.0}, {""id"": 1045720602, ""node1"": 87286, ""node2"": 53310, ""type"": 24, ""w"": 29.0}, {""id"": 13010245, ""node1"": 87286, ""node2"": 53310, ""type"": 25, ""w"": -71.0}]",r_associated,128.0
+jus,sucre,nmod,NOUN,0.6285513639450073,"[{""id"": 602097658, ""node1"": 53310, ""node2"": 139481, ""type"": 0, ""w"": 17.0}, {""id"": 580307919, ""node1"": 53310, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]",r_associated,17.0
+mettre,fruit,obj,NOUN,0.5250307321548462,[],,
+cuire,ensemble,nsubj:pass,NOUN,0.7216042876243591,[],,
+tremper,minute,obj,NOUN,0.553728461265564,[],,
+varier,utiliser,advcl,VERB,0.4282511472702026,[],,
+fécule,régulier,amod,ADJ,0.5796778202056885,[],,
+varier,quantité,nsubj,NOUN,0.4960697889328003,"[{""id"": 558635028, ""node1"": 124763, ""node2"": 78869, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+gramme,proportion,nsubj,NOUN,0.4330813288688659,[],,
+gramme,litre,nmod,NOUN,0.4241130650043487,[],,
+dissoudre,fécule,obj,NOUN,0.5544584393501282,[],,
+remuer,mélange,obj,NOUN,0.5680386424064636,"[{""id"": 590673847, ""node1"": 125556, ""node2"": 14800, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+refroidir,minute,obj,NOUN,0.5363901853561401,[],,
+cuisson,deuxième,amod,ADJ,0.7338359355926514,[],,
+fécule,blanc,amod,ADJ,0.617384672164917,"[{""id"": 3161023, ""node1"": 30818, ""node2"": 15196, ""type"": 106, ""w"": 2.0}]",r_has_color,2.0
+verser,tout,obj,NOUN,0.5444009304046631,[],,
+refroidir,heure,obj,NOUN,0.5043396949768066,[],,
+heure,minimum,amod,ADJ,0.4174869060516357,[],,
+réfrigérateur,jour,nmod,NOUN,0.4678606986999511,[],,

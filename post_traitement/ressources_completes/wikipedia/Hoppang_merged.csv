@@ -1,0 +1,16 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,gastronomie,obj,NOUN,0.4582444131374359,[],,
+partager,connaissance,obj,NOUN,0.4124003052711487,"[{""id"": 929699725, ""node1"": 122353, ""node2"": 104243, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+pain,petit,amod,ADJ,0.6582068800926208,"[{""id"": 12987089, ""node1"": 61283, ""node2"": 55222, ""type"": 17, ""w"": 61.0}]",r_carac,61.0
+pain,coréen,acl,ADJ,0.6368618011474609,[],,
+vapeur,proche,amod,ADJ,0.5225544571876526,[],,
+pâte,haricot,nmod,NOUN,0.6682611703872681,[],,
+légume,garniture,nmod,NOUN,0.7226176261901855,[],,
+garniture,type,nmod,NOUN,0.5614749193191528,[],,
+type,pizza,nmod,NOUN,0.596680760383606,[],,
+légume,créer,acl:relcl,VERB,0.6023111939430237,[],,
+marque,déposer,acl,VERB,0.4290319681167602,"[{""id"": 15048807, ""node1"": 143180, ""node2"": 35714, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+son,pain,nmod,NOUN,0.6193836331367493,"[{""id"": 1343882, ""node1"": 51528, ""node2"": 61283, ""type"": 0, ""w"": 30.0}, {""id"": 376051247, ""node1"": 51528, ""node2"": 61283, ""type"": 51, ""w"": 43.0}]",r_mater>object,43.0
+cuire,qui,nsubj,PRON,0.6562127470970154,[],,
+pain,cuire,acl:relcl,VERB,0.776824951171875,"[{""id"": 100199157, ""node1"": 61283, ""node2"": 5115, ""type"": 0, ""w"": 35.0}, {""id"": 413365261, ""node1"": 61283, ""node2"": 5115, ""type"": 24, ""w"": 100.0}, {""id"": 9008222, ""node1"": 61283, ""node2"": 5115, ""type"": 25, ""w"": 81.0}, {""id"": 1622945, ""node1"": 61283, ""node2"": 5115, ""type"": 26, ""w"": 105.0}]",r_patient-1,105.0
+signifier,pain,obj,NOUN,0.6315665245056152,[],,

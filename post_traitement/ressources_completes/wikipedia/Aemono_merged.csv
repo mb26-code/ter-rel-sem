@@ -1,0 +1,16 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,cuisine,obj,NOUN,0.6019042730331421,[],,
+cuisine,japonais,amod,ADJ,0.5706702470779419,[],,
+technique,cuisine,nmod,NOUN,0.6334877014160156,[],,
+servir,algue,obj,NOUN,0.5496830940246582,[],,
+fruit,mer,nmod,NOUN,0.5006869435310364,[],,
+salade,sauce,nmod,NOUN,0.7033248543739319,"[{""id"": 97758235, ""node1"": 118908, ""node2"": 141110, ""type"": 0, ""w"": 18.0}, {""id"": 102048757, ""node1"": 118908, ""node2"": 141110, ""type"": 666, ""w"": 1.0}]",r_associated,18.0
+ingrédient,dont,nmod,PRON,0.493603378534317,[],,
+sauce,ingrédient,nsubj,NOUN,0.7602857351303101,"[{""id"": 96714954, ""node1"": 141110, ""node2"": 123418, ""type"": 0, ""w"": 22.0}, {""id"": 24929460, ""node1"": 141110, ""node2"": 123418, ""type"": 6, ""w"": 3.0}, {""id"": 96715010, ""node1"": 141110, ""node2"": 123418, ""type"": 9, ""w"": 31.0}]",r_has_part,31.0
+ingrédient,fréquent,amod,ADJ,0.5466204285621643,"[{""id"": 517511049, ""node1"": 123418, ""node2"": 70811, ""type"": 17, ""w"": 31.0}]",r_carac,31.0
+sauce,dont,nmod,PRON,0.6444414258003235,[],,
+baser,sauce,nsubj:pass,NOUN,0.6051154732704163,[],,
+graine,sésame,nmod,NOUN,0.5712265372276306,"[{""id"": 797533486, ""node1"": 14469, ""node2"": 18404, ""type"": 0, ""w"": 29.0}, {""id"": 246270686, ""node1"": 14469, ""node2"": 18404, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+base,tofu,nmod,NOUN,0.6434488892555237,[],,
+tofu,écraser,acl,VERB,0.6119800806045532,[],,
+vinaigre,pouvoir,acl:relcl,VERB,0.5773051977157593,[],,

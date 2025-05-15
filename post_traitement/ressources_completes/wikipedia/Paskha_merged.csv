@@ -1,0 +1,63 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,gastronomie,obj,NOUN,0.4582444131374359,[],,
+gâteau,fromage,nmod,NOUN,0.6686881184577942,"[{""id"": 59510796, ""node1"": 2149, ""node2"": 141687, ""type"": 0, ""w"": 21.0}, {""id"": 54744372, ""node1"": 2149, ""node2"": 141687, ""type"": 5, ""w"": 87.0}]",r_syn,87.0
+fromage,blanc,amod,ADJ,0.5954660177230835,"[{""id"": 96698067, ""node1"": 141687, ""node2"": 15196, ""type"": 0, ""w"": 34.0}, {""id"": 121011, ""node1"": 141687, ""node2"": 15196, ""type"": 17, ""w"": 155.0}, {""id"": 3163361, ""node1"": 141687, ""node2"": 15196, ""type"": 106, ""w"": 58.0}, {""id"": 12134443, ""node1"": 141687, ""node2"": 15196, ""type"": 666, ""w"": 1.0}]",r_carac,155.0
+dessert,religion,nmod,NOUN,0.5703774094581604,[],,
+dessert,Russie,nmod,PROPN,0.4574232697486877,[],,
+aliment,œuf,appos,NOUN,0.5682279467582703,"[{""id"": 10592538, ""node1"": 114637, ""node2"": 174124, ""type"": 0, ""w"": 23.0}, {""id"": 9665765, ""node1"": 114637, ""node2"": 174124, ""type"": 8, ""w"": 42.0}, {""id"": 15173785, ""node1"": 114637, ""node2"": 174124, ""type"": 27, ""w"": -29.0}]",r_hypo,42.0
+Carême,grand,amod,ADJ,0.4464150667190552,[],,
+jeûne,Carême,nmod,PROPN,0.4123594462871551,"[{""id"": 5278278, ""node1"": 138232, ""node2"": 144191, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+forme,pyramide,nmod,NOUN,0.4312053322792053,[],,
+moule,bois,nmod,NOUN,0.5903263688087463,"[{""id"": 15355888, ""node1"": 143723, ""node2"": 96256, ""type"": 0, ""w"": 35.0}, {""id"": 660107, ""node1"": 143723, ""node2"": 96256, ""type"": 3, ""w"": 31.0}]",r_associated,35.0
+décorer,lui,nsubj:pass,PRON,0.422061949968338,[],,
+décorer,lettre,obj,NOUN,0.4348720014095306,"[{""id"": 1035061851, ""node1"": 44961, ""node2"": 145994, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+décorer,ressusciter,advcl,VERB,0.4286910593509674,[],,
+décorer,confectionner,advcl,VERB,0.4464811682701111,[],,
+fromage,presser,acl,VERB,0.6230915188789368,"[{""id"": 96698035, ""node1"": 141687, ""node2"": 47617, ""type"": 38, ""w"": 15.0}]",r_agentif_role,15.0
+rajouter,beurre,obj,NOUN,0.6697905659675598,"[{""id"": 434724342, ""node1"": 87561, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 2193818, ""node1"": 87561, ""node2"": 140377, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+œuf,crème,nmod,NOUN,0.6046692132949829,"[{""id"": 1041434419, ""node1"": 174124, ""node2"": 44001, ""type"": 0, ""w"": 20.0}, {""id"": 34719872, ""node1"": 174124, ""node2"": 44001, ""type"": 67, ""w"": 29.0}]",r_similar,29.0
+raisin,sec,amod,ADJ,0.5050904750823975,"[{""id"": 105224, ""node1"": 93528, ""node2"": 63619, ""type"": 0, ""w"": 62.0}, {""id"": 114116, ""node1"": 93528, ""node2"": 63619, ""type"": 17, ""w"": 60.0}, {""id"": 985028970, ""node1"": 93528, ""node2"": 63619, ""type"": 666, ""w"": 2.0}]",r_associated,62.0
+crème,amande,nmod,NOUN,0.5942062735557556,[],,
+faire,lui,nsubj:pass,PRON,0.4231677055358886,[],,
+pouvoir,faire,advcl,VERB,0.4381212294101715,[],,
+ingrédient,autre,amod,ADJ,0.5639666318893433,[],,
+mélanger,ingrédient,nsubj,NOUN,0.6393055319786072,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+température,ordinaire,amod,ADJ,0.5183330774307251,[],,
+conserve,lait,nsubj,NOUN,0.5844616889953613,[],,
+lait,croire,acl,VERB,0.5760230422019958,[],,
+presser,conserve,advcl,VERB,0.4655185043811798,[],,
+presser,petit,advcl,ADJ,0.5277687311172485,[],,
+presser,éliminer,advcl,VERB,0.4143763780593872,[],,
+éliminer,liquide,obj,NOUN,0.5256496667861938,[],,
+passer,faire,advcl,VERB,0.4684343934059143,[],,
+faire,masse,obj,NOUN,0.5203778147697449,[],,
+masse,homogène,amod,ADJ,0.4234798550605774,[],,
+ajouter,crème,obj,NOUN,0.6165028810501099,[],,
+crème,œuf,nmod,NOUN,0.6046692132949829,[],,
+œuf,incorporer,acl:relcl,VERB,0.5247511863708496,[],,
+ingrédient,divers,amod,ADJ,0.5085647106170654,[],,
+incorporer,ingrédient,obj,NOUN,0.6070467233657837,"[{""id"": 423150950, ""node1"": 3845, ""node2"": 123418, ""type"": 0, ""w"": 1.0}, {""id"": 428577910, ""node1"": 3845, ""node2"": 123418, ""type"": 14, ""w"": 61.0}]",r_patient,61.0
+chauffer,mélange,nsubj:pass,NOUN,0.6449397802352905,[],,
+placer,casserole,nsubj:pass,NOUN,0.602584958076477,[],,
+casserole,contenir,acl,VERB,0.6137648224830627,"[{""id"": 1819981, ""node1"": 57253, ""node2"": 34519, ""type"": 37, ""w"": 90.0}]",r_telic_role,90.0
+contenir,mélange,obj,NOUN,0.5226994752883911,[],,
+chauffer,placer,advcl,VERB,0.5344962477684021,[],,
+récipient,eau,nmod,NOUN,0.5892574787139893,[],,
+eau,froid,amod,ADJ,0.5897504091262817,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+placer,préparation,nsubj:pass,NOUN,0.5372961759567261,"[{""id"": 561339449, ""node1"": 5454, ""node2"": 33634, ""type"": 0, ""w"": 42.0}]",r_associated,42.0
+moule,spécial,amod,ADJ,0.5342608690261841,[],,
+coton,fromage,nmod,NOUN,0.5687209367752075,[],,
+aide,poids,nmod,NOUN,0.4500828683376312,[],,
+lieu,heure,nmod,NOUN,0.4018707573413849,"[{""id"": 10581948, ""node1"": 135190, ""node2"": 97587, ""type"": 0, ""w"": 52.0}, {""id"": 9641201, ""node1"": 135190, ""node2"": 97587, ""type"": 8, ""w"": 24.0}]",r_associated,52.0
+lieu,frais,amod,ADJ,0.4279987812042236,"[{""id"": 638978811, ""node1"": 135190, ""node2"": 53495, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+lieu,cave,appos,NOUN,0.4684683382511139,"[{""id"": 10581283, ""node1"": 135190, ""node2"": 104756, ""type"": 0, ""w"": 56.0}, {""id"": 9639765, ""node1"": 135190, ""node2"": 104756, ""type"": 8, ""w"": 34.0}]",r_associated,56.0
+placer,lui,nsubj:pass,PRON,0.4069560468196869,[],,
+plat,autre,amod,ADJ,0.6218559145927429,[],,
+plat,festif,amod,ADJ,0.5906287431716919,[],,
+consommer,lui,nsubj:pass,PRON,0.4317251145839691,[],,
+église,fin,nmod,NOUN,0.4373038709163666,[],,
+fin,siècle,nmod,NOUN,0.429499864578247,[],,
+avoir,forme,obj,NOUN,0.4383388757705688,[],,
+forme,côté,nmod,NOUN,0.4984073340892792,[],,
+côté,clocher,appos,NOUN,0.4258563220500946,[],,
+côté,forme,nmod,NOUN,0.4984073340892792,[],,

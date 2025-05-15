@@ -1,0 +1,66 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+marque,déposer,acl,VERB,0.4290319681167602,"[{""id"": 15048807, ""node1"": 143180, ""node2"": 35714, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+désigner,tablette,obj,NOUN,0.4512847363948822,[],,
+tablette,sucre,nmod,NOUN,0.6675149202346802,[],,
+sucre,cuire,amod,VERB,0.7898536324501038,[],,
+essence,naturel,amod,ADJ,0.4306777119636535,[],,
+essence,fruit,nmod,NOUN,0.4920674860477447,[],,
+spécialité,qui,nsubj,PRON,0.4118804335594177,[],,
+marque,spécialité,acl:relcl,NOUN,0.4187451303005218,[],,
+spécialité,ville,nmod,NOUN,0.4215305745601654,[],,
+fondre,Antoine,nsubj,PROPN,0.4191673099994659,[],,
+fondre,fabrique,obj,NOUN,0.5057409405708313,[],,
+fabrique,biscuit,nmod,NOUN,0.5514301061630249,[],,
+fabriquer,tablette,obj,NOUN,0.4973533451557159,[],,
+avoir,ville,nsubj,NOUN,0.4081017971038818,"[{""id"": 656278862, ""node1"": 31641, ""node2"": 136786, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+carré,petit,amod,ADJ,0.4942938983440399,"[{""id"": 133945, ""node1"": 22120, ""node2"": 55222, ""type"": 17, ""w"": 70.0}]",r_carac,70.0
+carré,long,amod,ADJ,0.4471966624259949,[],,
+carré,sucre,nmod,NOUN,0.6327871680259705,"[{""id"": 796692740, ""node1"": 22120, ""node2"": 139481, ""type"": 0, ""w"": 25.0}]",r_associated,25.0
+essence,dimension,nmod,NOUN,0.413506269454956,[],,
+essence,réaliser,acl,VERB,0.4767995476722717,[],,
+découpe,main,nmod,NOUN,0.4410276710987091,[],,
+main,sucre,nmod,NOUN,0.604924738407135,[],,
+sucre,marbre,nmod,NOUN,0.611285924911499,[],,
+aide,mécanique,nmod,NOUN,0.4103110134601593,[],,
+fondre,frère,nsubj,NOUN,0.4626458585262298,[],,
+fabrique,pain,nmod,NOUN,0.6312620639801025,[],,
+pain,épice,nmod,NOUN,0.6975365281105042,[],,
+pain,Bruxelles,nmod,PROPN,0.6076725125312805,"[{""id"": 423562125, ""node1"": 61283, ""node2"": 72118, ""type"": 0, ""w"": 4.0}, {""id"": 3376483, ""node1"": 61283, ""node2"": 72118, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+reprendre,confiserie,obj,NOUN,0.500769317150116,[],,
+confiserie,familial,amod,ADJ,0.4685854315757751,[],,
+produit,principal,amod,ADJ,0.410922646522522,[],,
+fabriquer,produit,obj,NOUN,0.4474628269672394,"[{""id"": 1010996800, ""node1"": 34042, ""node2"": 32667, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+produit,maison,nmod,NOUN,0.53542160987854,[],,
+maison,Lefèvre,nmod,PROPN,0.4215203523635864,[],,
+produit,pain,appos,NOUN,0.6394803524017334,[],,
+essence,fabriquer,acl,VERB,0.4648567140102386,[],,
+servir,fabrique,obj,NOUN,0.4929618239402771,[],,
+servir,avoir,advcl,VERB,0.4367783665657043,[],,
+forme,étiquette,nmod,NOUN,0.4319961667060852,[],,
+sucre,fabrication,nmod,NOUN,0.6569864153862,[],,
+mention,biscuit,nmod,NOUN,0.5469944477081299,[],,
+mention,pain,nmod,NOUN,0.6337969899177551,[],,
+exposition,culinaire,amod,ADJ,0.5400424599647522,[],,
+macaron,biscuit,appos,NOUN,0.5432117581367493,"[{""id"": 53775106, ""node1"": 104390, ""node2"": 62524, ""type"": 0, ""w"": 56.0}, {""id"": 53556755, ""node1"": 104390, ""node2"": 62524, ""type"": 5, ""w"": 64.0}, {""id"": 801521948, ""node1"": 104390, ""node2"": 62524, ""type"": 6, ""w"": 29.0}]",r_associated,56.0
+macaron,pain,appos,NOUN,0.653278112411499,[],,
+exposition,est,nmod,NOUN,0.4102453589439392,[],,
+fondre,fils,nsubj,NOUN,0.4417628645896911,[],,
+confiserie,propre,amod,ADJ,0.5161179900169373,[],,
+fondre,confiserie,obj,NOUN,0.5661927461624146,[],,
+utiliser,marque,obj,NOUN,0.409594863653183,[],,
+tour,fabriquer,acl,VERB,0.4629594981670379,[],,
+fabriquer,boîte,obj,NOUN,0.4571331739425659,"[{""id"": 14658903, ""node1"": 34042, ""node2"": 7575, ""type"": 41, ""w"": 31.0}]",r_has_conseq,31.0
+boîte,métallique,amod,ADJ,0.4660448431968689,[],,
+boîte,commercialiser,acl,VERB,0.4181528389453888,[],,
+passer,commande,obj,NOUN,0.4453697204589844,"[{""id"": 914360274, ""node1"": 28108, ""node2"": 52934, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+conserver,pierre,nsubj:pass,NOUN,0.5231482982635498,[],,
+pierre,utiliser,acl,VERB,0.527286946773529,[],,
+impression,boite,nmod,NOUN,0.4025196135044098,[],,
+participer,boîte,nsubj,NOUN,0.418907105922699,[],,
+boîte,apparaître,acl:relcl,VERB,0.430723637342453,[],,
+film,réaliser,acl,VERB,0.4170114398002624,"[{""id"": 796791567, ""node1"": 29592, ""node2"": 4528, ""type"": 0, ""w"": 29.0}, {""id"": 980940719, ""node1"": 29592, ""node2"": 4528, ""type"": 24, ""w"": -25.0}, {""id"": 93789086, ""node1"": 29592, ""node2"": 4528, ""type"": 25, ""w"": 37.0}, {""id"": 93789085, ""node1"": 29592, ""node2"": 4528, ""type"": 26, ""w"": 100.0}, {""id"": 217794, ""node1"": 29592, ""node2"": 4528, ""type"": 30, ""w"": 51.0}, {""id"": 766161718, ""node1"": 29592, ""node2"": 4528, ""type"": 38, ""w"": 34.0}]",r_patient-1,100.0
+conserver,marque,advcl,NOUN,0.4145381152629852,"[{""id"": 488475391, ""node1"": 42089, ""node2"": 143180, ""type"": 14, ""w"": 41.0}]",r_patient,41.0
+confiserie,descendant,acl:relcl,NOUN,0.4497914910316467,[],,
+confiserie,confiserie,nmod,NOUN,0.4324840307235718,"[{""id"": 290466, ""node1"": 72043, ""node2"": 72043, ""type"": 19, ""w"": 54.0}]",r_lemma,54.0
+boite,site,nmod,NOUN,0.4114856719970703,[],,
+site,confiserie,nmod,NOUN,0.4227254688739776,[],,

@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+sauce,titre,nsubj,NOUN,0.6407009959220886,[],,
+sauce,piquant,amod,ADJ,0.7140870690345764,"[{""id"": 29311363, ""node1"": 141110, ""node2"": 6801, ""type"": 0, ""w"": 21.0}, {""id"": 10529238, ""node1"": 141110, ""node2"": 6801, ""type"": 9, ""w"": 31.0}]",r_has_part,31.0
+sauce,composer,acl,VERB,0.6542585492134094,[],,
+milieu,siècle,nmod,NOUN,0.40152508020401,[],,
+avoir,consistance,obj,NOUN,0.4049234390258789,[],,
+celui,concentré,nmod,NOUN,0.4011270701885223,[],,
+concentré,tomate,nmod,NOUN,0.6041581034660339,[],,
+ingrédient,principal,amod,ADJ,0.5312119126319885,[],,
+piment,ingrédient,nsubj,NOUN,0.6651628613471985,"[{""id"": 588429506, ""node1"": 128791, ""node2"": 123418, ""type"": 0, ""w"": 45.0}, {""id"": 24937711, ""node1"": 128791, ""node2"": 123418, ""type"": 6, ""w"": 1.0}]",r_associated,45.0
+piment,doux,amod,ADJ,0.5599900484085083,"[{""id"": 2160983, ""node1"": 128791, ""node2"": 74183, ""type"": 0, ""w"": 42.0}, {""id"": 96712636, ""node1"": 128791, ""node2"": 74183, ""type"": 17, ""w"": 29.0}]",r_associated,42.0
+piment,sécher,acl,VERB,0.6568097472190857,"[{""id"": 1022084999, ""node1"": 128791, ""node2"": 56038, ""type"": 26, ""w"": 43.0}]",r_patient-1,43.0
+cuire,en,iobj,ADP,0.4554325342178345,[],,
+sécher,cuire,advcl,VERB,0.679124653339386,"[{""id"": 1017656, ""node1"": 56038, ""node2"": 5115, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+huile,olive,nmod,NOUN,0.573360800743103,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+rajouter,graine,obj,NOUN,0.5577363967895508,[],,
+graine,cumin,nmod,NOUN,0.5890828967094421,"[{""id"": 403056660, ""node1"": 14469, ""node2"": 14650, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+utiliser,jus,nsubj:pass,NOUN,0.565632164478302,[],,
+jus,citron,nmod,NOUN,0.5810989141464233,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+utiliser,accompagner,advcl,VERB,0.405342698097229,[],,
+accompagner,salade,obj,NOUN,0.6306460499763489,[],,
+viande,poisson,nmod,NOUN,0.7179579734802246,"[{""id"": 2501737, ""node1"": 140100, ""node2"": 68467, ""type"": 0, ""w"": 42.0}, {""id"": 15855284, ""node1"": 140100, ""node2"": 68467, ""type"": 8, ""w"": -25.0}, {""id"": 1029365478, ""node1"": 140100, ""node2"": 68467, ""type"": 67, ""w"": 26.0}, {""id"": 1032955645, ""node1"": 140100, ""node2"": 68467, ""type"": 78, ""w"": 40.0}]",r_associated,42.0
+plat,riz,nmod,NOUN,0.7016597390174866,"[{""id"": 96713007, ""node1"": 36327, ""node2"": 24372, ""type"": 0, ""w"": 31.0}, {""id"": 96713022, ""node1"": 36327, ""node2"": 24372, ""type"": 9, ""w"": 26.0}, {""id"": 93507674, ""node1"": 36327, ""node2"": 24372, ""type"": 28, ""w"": 35.0}, {""id"": 96713038, ""node1"": 36327, ""node2"": 24372, ""type"": 41, ""w"": 27.0}, {""id"": 96713027, ""node1"": 36327, ""node2"": 24372, ""type"": 42, ""w"": 27.0}]",r_associated,31.0
+variété,local,amod,ADJ,0.4728825986385345,[],,
+plat,tel,amod,ADJ,0.5686100721359253,[],,
+salade,pomme,nmod,NOUN,0.6419057846069336,"[{""id"": 97758155, ""node1"": 118908, ""node2"": 37201, ""type"": 0, ""w"": 36.0}, {""id"": 97758156, ""node1"": 118908, ""node2"": 37201, ""type"": 9, ""w"": 31.0}]",r_associated,36.0
+cuisine,éthiopien,amod,ADJ,0.547808825969696,[],,
+assaisonnement,base,nmod,NOUN,0.6078673601150513,[],,

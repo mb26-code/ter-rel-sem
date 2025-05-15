@@ -1,0 +1,68 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+pâtisserie,originaire,amod,ADJ,0.5083064436912537,[],,
+pâtisserie,Espagne,nmod,PROPN,0.4462746679782867,[],,
+forme,pâte,nmod,NOUN,0.6301695704460144,[],,
+spaghetti,gros,amod,ADJ,0.4919682741165161,[],,
+spaghetti,allongé,acl,ADJ,0.4923695027828216,[],,
+rare,qui,nsubj,PRON,0.4037747085094452,[],,
+terme,tout,amod,ADJ,0.4823188185691833,[],,
+finir,terme,nsubj,NOUN,0.4438311457633972,"[{""id"": 912400794, ""node1"": 116753, ""node2"": 144149, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+apporter,concept,nsubj:pass,NOUN,0.4381649792194366,[],,
+apporter,revenir,advcl,VERB,0.4616093933582306,[],,
+technique,nouveau,amod,ADJ,0.4783496856689453,[],,
+technique,culinaire,amod,ADJ,0.5619664788246155,[],,
+modification,pâte,nmod,NOUN,0.623612105846405,[],,
+pâtisserie,nouveau,amod,ADJ,0.6171423196792603,[],,
+introduire,pâtisserie,nsubj:pass,NOUN,0.6009228229522705,[],,
+buse,forme,nmod,NOUN,0.4388055801391601,[],,
+forme,étoile,nmod,NOUN,0.4314630627632141,"[{""id"": 798968391, ""node1"": 142000, ""node2"": 36940, ""type"": 0, ""w"": 25.0}]",r_associated,25.0
+permettre,recette,nsubj,NOUN,0.616854727268219,[],,
+recette,siècle,nmod,NOUN,0.5872021913528442,[],,
+recette,retrouver,acl,VERB,0.6134571433067322,[],,
+préparer,mettre,obj,VERB,0.4697225391864776,"[{""id"": 12272817, ""node1"": 36246, ""node2"": 132366, ""type"": 0, ""w"": 24.0}, {""id"": 652702, ""node1"": 36246, ""node2"": 132366, ""type"": 5, ""w"": 120.0}]",r_syn,120.0
+mettre,identique,amod,ADJ,0.4382268786430359,[],,
+théorie,autre,amod,ADJ,0.4385991096496582,[],,
+fabriquer,remplacer,advcl,VERB,0.4072411358356476,[],,
+remplacer,produit,obj,NOUN,0.4153211712837219,[],,
+produit,boulangerie,nmod,NOUN,0.4900977611541748,[],,
+boulangerie,frais,amod,ADJ,0.4673300087451935,[],,
+facile,pâte,nsubj,NOUN,0.6425125598907471,[],,
+feu,air,nmod,NOUN,0.5122694969177246,"[{""id"": 181827, ""node1"": 143703, ""node2"": 146025, ""type"": 0, ""w"": 56.0}]",r_associated,56.0
+passer,berger,nsubj,NOUN,0.4261410534381866,[],,
+montagne,passer,acl:relcl,VERB,0.4908752739429474,"[{""id"": 906059048, ""node1"": 12831, ""node2"": 28108, ""type"": 0, ""w"": 20.0}, {""id"": 478160026, ""node1"": 12831, ""node2"": 28108, ""type"": 30, ""w"": 27.0}]",r_lieu_action,27.0
+passer,plupart,obj,NOUN,0.4366055428981781,[],,
+spécialiste,gastronomique,amod,ADJ,0.4692225456237793,[],,
+recette,farine,nmod,NOUN,0.716915488243103,[],,
+eau,trouver,acl:relcl,VERB,0.5689133405685425,"[{""id"": 899790234, ""node1"": 65012, ""node2"": 48704, ""type"": 0, ""w"": 20.0}, {""id"": 423814906, ""node1"": 65012, ""node2"": 48704, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+livre,cuisine,nmod,NOUN,0.6082427501678467,"[{""id"": 796690394, ""node1"": 142787, ""node2"": 16033, ""type"": 0, ""w"": 27.0}, {""id"": 661863037, ""node1"": 142787, ""node2"": 16033, ""type"": 142, ""w"": 30.0}]",r_associated,27.0
+cuisine,romain,amod,ADJ,0.5268628001213074,"[{""id"": 428535180, ""node1"": 16033, ""node2"": 28216, ""type"": 0, ""w"": 16.0}, {""id"": 8513258, ""node1"": 16033, ""node2"": 28216, ""type"": 777, ""w"": 6.0}]",r_associated,16.0
+exister,recette,obj,NOUN,0.5901581645011902,[],,
+recette,grec,nmod,NOUN,0.4214575290679931,[],,
+déjeuner,petit,amod,ADJ,0.5158843398094177,"[{""id"": 12233362, ""node1"": 78845, ""node2"": 55222, ""type"": 0, ""w"": 34.0}, {""id"": 706705, ""node1"": 78845, ""node2"": 55222, ""type"": 5, ""w"": 27.0}]",r_associated,34.0
+prendre,déjeuner,obj,NOUN,0.4988334774971008,"[{""id"": 373335608, ""node1"": 86306, ""node2"": 78845, ""type"": 0, ""w"": 32.0}, {""id"": 373335607, ""node1"": 86306, ""node2"": 78845, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+déjeuner,composer,acl,VERB,0.4690596759319305,[],,
+chocolat,chaud,amod,ADJ,0.5942754149436951,"[{""id"": 108765, ""node1"": 34157, ""node2"": 19150, ""type"": 0, ""w"": 394.0}, {""id"": 370440, ""node1"": 34157, ""node2"": 19150, ""type"": 17, ""w"": 127.0}, {""id"": 1538595, ""node1"": 34157, ""node2"": 19150, ""type"": 666, ""w"": 3.0}]",r_associated,394.0
+chocolat,épais,amod,ADJ,0.5316113829612732,[],,
+chocolat,accompagner,acl,VERB,0.5973199605941772,[],,
+chocolat,États-Unis,nmod,PROPN,0.5072973966598511,"[{""id"": 653992318, ""node1"": 34157, ""node2"": 31388, ""type"": 0, ""w"": 22.0}, {""id"": 3934208, ""node1"": 34157, ""node2"": 31388, ""type"": 777, ""w"": 3.0}]",r_associated,22.0
+type,mexicain,amod,ADJ,0.4422845244407654,[],,
+confiture,lait,nmod,NOUN,0.6079456806182861,"[{""id"": 585584618, ""node1"": 70793, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 765215486, ""node1"": 70793, ""node2"": 86296, ""type"": 17, ""w"": -5.0}]",r_associated,47.0
+exister,snack,obj,NOUN,0.4935226738452911,[],,
+snack,différent,amod,ADJ,0.4995910227298736,[],,
+remplir,qui,nsubj:pass,PRON,0.4048181176185608,[],,
+cuisine,France,nmod,PROPN,0.5438767075538635,"[{""id"": 428535048, ""node1"": 16033, ""node2"": 87987, ""type"": 0, ""w"": 166.0}, {""id"": 3982440, ""node1"": 16033, ""node2"": 87987, ""type"": 777, ""w"": 6.0}]",r_associated,166.0
+période,estival,amod,ADJ,0.4000983834266662,[],,
+type,espagnol,amod,ADJ,0.4301921427249908,[],,
+consommer,accompagner,advcl,VERB,0.4996574521064758,[],,
+verre,thé,nmod,NOUN,0.5724775791168213,"[{""id"": 608033276, ""node1"": 144497, ""node2"": 143378, ""type"": 0, ""w"": 40.0}, {""id"": 31839601, ""node1"": 144497, ""node2"": 143378, ""type"": 28, ""w"": 26.0}]",r_associated,40.0
+droit,servir,advcl,VERB,0.4510532319545746,[],,
+forme,allongé,acl,ADJ,0.4355118870735168,[],,
+forme,semblable,amod,ADJ,0.4391263425350189,"[{""id"": 373014748, ""node1"": 142000, ""node2"": 19473, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+droit,forme,nmod,NOUN,0.4264242649078369,"[{""id"": 138859826, ""node1"": 7159, ""node2"": 142000, ""type"": 0, ""w"": 18.0}, {""id"": 138859825, ""node1"": 7159, ""node2"": 142000, ""type"": 27, ""w"": 15.0}]",r_associated,18.0
+sucre,blanc,amod,ADJ,0.6354978084564209,"[{""id"": 105091, ""node1"": 139481, ""node2"": 15196, ""type"": 0, ""w"": 310.0}, {""id"": 182246, ""node1"": 139481, ""node2"": 15196, ""type"": 17, ""w"": 274.0}, {""id"": 3161632, ""node1"": 139481, ""node2"": 15196, ""type"": 106, ""w"": 60.0}]",r_associated,310.0
+boisson,type,nmod,NOUN,0.5606764554977417,[],,
+consommer,association,advcl,NOUN,0.5076117515563965,[],,
+apporter,populaire,advcl,ADJ,0.4423187971115112,[],,
+variété,gâteau,nmod,NOUN,0.6383894681930542,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,
+variété,projet,nmod,NOUN,0.4613538086414337,[],,

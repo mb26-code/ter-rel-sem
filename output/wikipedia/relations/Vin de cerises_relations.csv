@@ -1,0 +1,59 @@
+node1,node2,relations
+titre,vin,[]
+vin,cerise,[]
+concerner,boisson,[]
+boisson,vin,"[{""id"": 98273, ""node1"": 113547, ""node2"": 35798, ""type"": 0, ""w"": 738.0}, {""id"": 31351058, ""node1"": 113547, ""node2"": 35798, ""type"": 3, ""w"": 29.0}, {""id"": 54684591, ""node1"": 113547, ""node2"": 35798, ""type"": 5, ""w"": 68.0}, {""id"": 421474, ""node1"": 113547, ""node2"": 35798, ""type"": 8, ""w"": 95.0}, {""id"": 10527064, ""node1"": 113547, ""node2"": 35798, ""type"": 9, ""w"": 9.0}, {""id"": 15189722, ""node1"": 113547, ""node2"": 35798, ""type"": 27, ""w"": -23.0}, {""id"": 653260797, ""node1"": 113547, ""node2"": 35798, ""type"": 666, ""w"": 8.0}]"
+boisson,similaire,[]
+fermentation,contrôler,[]
+forme,populaire,[]
+forme,vin,[]
+vin,fruit,"[{""id"": 31363219, ""node1"": 35798, ""node2"": 87286, ""type"": 0, ""w"": 27.0}, {""id"": 31363218, ""node1"": 35798, ""node2"": 87286, ""type"": 27, ""w"": 26.0}]"
+vin,Pologne,"[{""id"": 665837324, ""node1"": 35798, ""node2"": 75785, ""type"": 0, ""w"": 24.0}]"
+forme,type,"[{""id"": 871636, ""node1"": 142000, ""node2"": 15235, ""type"": 0, ""w"": 28.0}, {""id"": 53603182, ""node1"": 142000, ""node2"": 15235, ""type"": 5, ""w"": 220.0}]"
+type,cerise,[]
+cerise,acide,"[{""id"": 229635, ""node1"": 49073, ""node2"": 41368, ""type"": 17, ""w"": 52.0}]"
+cerise,apte,[]
+apte,cerise,[]
+cerise,doux,[]
+cerise,contraire,[]
+ajout,acide,[]
+devoir,cerise,[]
+toxique,qui,[]
+acide,toxique,"[{""id"": 991984097, ""node1"": 41368, ""node2"": 113005, ""type"": 666, ""w"": 3.0}]"
+obtenir,vin,[]
+fermentation,jus,[]
+fermentation,purée,[]
+variante,premier,[]
+écraser,cerise,[]
+extraire,jus,"[{""id"": 599215017, ""node1"": 103148, ""node2"": 53310, ""type"": 14, ""w"": 31.0}]"
+ajouter,sucre,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]"
+levure,jus,[]
+jus,cerise,"[{""id"": 919862100, ""node1"": 53310, ""node2"": 49073, ""type"": 0, ""w"": 21.0}]"
+ajouter,augmenter,"[{""id"": 753737, ""node1"": 25099, ""node2"": 40479, ""type"": 0, ""w"": 82.0}, {""id"": 12324113, ""node1"": 25099, ""node2"": 40479, ""type"": 5, ""w"": 418.0}, {""id"": 9084089, ""node1"": 25099, ""node2"": 40479, ""type"": 35, ""w"": 45.0}, {""id"": 1017993424, ""node1"": 25099, ""node2"": 40479, ""type"": 666, ""w"": 2.0}]"
+augmenter,acidité,[]
+pouvoir,jus,[]
+écraser,fruit,"[{""id"": 1047029629, ""node1"": 52004, ""node2"": 87286, ""type"": 13, ""w"": 30.0}, {""id"": 308081511, ""node1"": 52004, ""node2"": 87286, ""type"": 14, ""w"": 30.0}, {""id"": 376194374, ""node1"": 52004, ""node2"": 87286, ""type"": 16, ""w"": 30.0}]"
+purée,résulter,[]
+jour,extraire,[]
+faire,qui,"[{""id"": 729891679, ""node1"": 87528, ""node2"": 114890, ""type"": 9, ""w"": -5.0}]"
+teneur,alcool,[]
+général,vin,[]
+vin,raisin,"[{""id"": 84505, ""node1"": 35798, ""node2"": 93528, ""type"": 0, ""w"": 701.0}, {""id"": 9623005, ""node1"": 35798, ""node2"": 93528, ""type"": 8, ""w"": -16.0}, {""id"": 9971662, ""node1"": 35798, ""node2"": 93528, ""type"": 9, ""w"": 13.0}, {""id"": 374299, ""node1"": 35798, ""node2"": 93528, ""type"": 20, ""w"": -55.0}, {""id"": 376998117, ""node1"": 35798, ""node2"": 93528, ""type"": 21, ""w"": 26.0}, {""id"": 11346703, ""node1"": 35798, ""node2"": 93528, ""type"": 28, ""w"": 38.0}, {""id"": 392161803, ""node1"": 35798, ""node2"": 93528, ""type"": 35, ""w"": 110.0}, {""id"": 11608025, ""node1"": 35798, ""node2"": 93528, ""type"": 50, ""w"": 64.0}, {""id"": 1627693, ""node1"": 35798, ""node2"": 93528, ""type"": 666, ""w"": 13.0}]"
+trier,matière,[]
+matière,premier,[]
+écarter,fruit,[]
+fruit,abîmer,[]
+pouvoir,faire,[]
+faire,attention,"[{""id"": 1051672226, ""node1"": 87528, ""node2"": 44007, ""type"": 0, ""w"": 21.0}]"
+obtenir,boisson,[]
+boisson,certaine,[]
+producteur,souvent,[]
+producteur,petit,[]
+ajouter,producteur,[]
+alcool,rectifier,[]
+côté,vin,[]
+exister,pétillant,[]
+fermentation,second,[]
+fermentation,bouteille,[]
+vinaigre,cerise,[]
+vinaigre,apéritif,[]

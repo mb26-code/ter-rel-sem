@@ -1,0 +1,64 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,cuisine,obj,NOUN,0.6019042730331421,[],,
+cuisine,malien,amod,ADJ,0.4913797080516815,[],,
+plat,traditionnel,amod,ADJ,0.6021727323532104,"[{""id"": 93507621, ""node1"": 36327, ""node2"": 41139, ""type"": 17, ""w"": 35.0}]",r_carac,35.0
+plat,malien,amod,ADJ,0.5348506569862366,[],,
+plat,originaire,amod,ADJ,0.6056763529777527,[],,
+plat,nord,nmod,NOUN,0.5581292510032654,[],,
+plat,base,nmod,NOUN,0.6491852402687073,[],,
+base,feuille,nmod,NOUN,0.5285918712615967,[],,
+feuille,appeler,acl,VERB,0.4381234049797058,[],,
+garnir,sauce,nsubj:pass,NOUN,0.6954261660575867,[],,
+viande,mouton,nmod,NOUN,0.6268889904022217,"[{""id"": 132971, ""node1"": 140100, ""node2"": 145295, ""type"": 0, ""w"": 501.0}, {""id"": 203085, ""node1"": 140100, ""node2"": 145295, ""type"": 8, ""w"": 194.0}, {""id"": 9986768, ""node1"": 140100, ""node2"": 145295, ""type"": 10, ""w"": -2.0}, {""id"": 420877, ""node1"": 140100, ""node2"": 145295, ""type"": 20, ""w"": 57.0}, {""id"": 15173551, ""node1"": 140100, ""node2"": 145295, ""type"": 27, ""w"": 23.0}]",r_associated,501.0
+viande,bœuf,nmod,NOUN,0.636695384979248,"[{""id"": 10577328, ""node1"": 140100, ""node2"": 168216, ""type"": 0, ""w"": 59.0}, {""id"": 9627859, ""node1"": 140100, ""node2"": 168216, ""type"": 8, ""w"": 95.0}, {""id"": 15173562, ""node1"": 140100, ""node2"": 168216, ""type"": 27, ""w"": 30.0}, {""id"": 646611390, ""node1"": 140100, ""node2"": 168216, ""type"": 666, ""w"": 1.0}]",r_hypo,95.0
+matière,sec,amod,ADJ,0.5058624148368835,[],,
+manière,fin,amod,ADJ,0.4465058743953705,[],,
+étape,préparation,nmod,NOUN,0.4546932578086853,[],,
+préparation,réussir,amod,ADJ,0.4969685673713684,[],,
+préparation,sauce,nmod,NOUN,0.7114981412887573,"[{""id"": 9903071, ""node1"": 33634, ""node2"": 141110, ""type"": 0, ""w"": 54.0}, {""id"": 422811, ""node1"": 33634, ""node2"": 141110, ""type"": 8, ""w"": 63.0}]",r_hypo,63.0
+regrouper,ingrédient,obj,NOUN,0.4982949793338775,[],,
+devoir,mousse,nsubj,NOUN,0.4910717010498047,[],,
+mousse,appeler,acl:relcl,VERB,0.4656669497489929,"[{""id"": 373070754, ""node1"": 134158, ""node2"": 53344, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+appeler,poudre,obj,NOUN,0.5202909111976624,[],,
+poudre,piment,nmod,NOUN,0.6494670510292053,[],,
+piment,rouge,amod,ADJ,0.5932929515838623,"[{""id"": 1946, ""node1"": 128791, ""node2"": 86356, ""type"": 0, ""w"": 136.0}, {""id"": 3180088, ""node1"": 128791, ""node2"": 86356, ""type"": 106, ""w"": 6.0}, {""id"": 1524855, ""node1"": 128791, ""node2"": 86356, ""type"": 666, ""w"": 6.0}]",r_associated,136.0
+poivre,noir,amod,ADJ,0.5682362914085388,"[{""id"": 104819942, ""node1"": 139597, ""node2"": 64238, ""type"": 0, ""w"": 3.0}, {""id"": 3162514, ""node1"": 139597, ""node2"": 64238, ""type"": 106, ""w"": 15.0}, {""id"": 104819941, ""node1"": 139597, ""node2"": 64238, ""type"": 666, ""w"": 1.0}]",r_has_color,15.0
+poivre,blanc,amod,ADJ,0.6070610284805298,"[{""id"": 3192371, ""node1"": 139597, ""node2"": 15196, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+poivre,appeler,acl,VERB,0.5945709943771362,[],,
+Poisson,petit,amod,ADJ,0.5062353014945984,[],,
+suivre,poudre,nsubj,NOUN,0.5369377732276917,[],,
+poudre,cannelle,nmod,ADJ,0.6258927583694458,"[{""id"": 796694334, ""node1"": 139470, ""node2"": 112959, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+anis,vert,amod,PROPN,0.4634044766426086,"[{""id"": 796694820, ""node1"": 123896, ""node2"": 26976, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+noix,muscade,nmod,NOUN,0.5651988983154297,"[{""id"": 796773628, ""node1"": 30910, ""node2"": 115297, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+quantité,bon,amod,ADJ,0.5010489225387573,[],,
+noter,quantité,nsubj,NOUN,0.422466367483139,[],,
+quantité,huile,nmod,NOUN,0.5998764038085938,[],,
+dépendre,assaisonnement,nsubj,NOUN,0.5801482796669006,[],,
+cuisine,qui,nsubj,PRON,0.5098981261253357,[],,
+personne,cuisine,acl:relcl,NOUN,0.6003514528274536,"[{""id"": 1714685, ""node1"": 116477, ""node2"": 16033, ""type"": 15, ""w"": 41.0}]",r_lieu,41.0
+méthode,préparation,nmod,NOUN,0.5274912714958191,[],,
+demande,sauce,nsubj,NOUN,0.6589787602424622,[],,
+demande,trop,obj,ADV,0.4167905747890472,[],,
+manière,simple,amod,ADJ,0.4384494423866272,"[{""id"": 373174191, ""node1"": 28743, ""node2"": 53269, ""type"": 17, ""w"": 31.0}]",r_carac,31.0
+cuisiner,mettre,advcl,VERB,0.5960637927055359,[],,
+eau,souhaiter,acl,VERB,0.5585447549819946,[],,
+marmite,prendre,acl,VERB,0.6664377450942993,[],,
+prendre,soin,obj,NOUN,0.4306253492832184,[],,
+ingrédient,tout,amod,ADJ,0.6054088473320007,[],,
+ajouter,ingrédient,obj,NOUN,0.5776577591896057,"[{""id"": 9084112, ""node1"": 25099, ""node2"": 123418, ""type"": 0, ""w"": 56.0}, {""id"": 428901945, ""node1"": 25099, ""node2"": 123418, ""type"": 14, ""w"": 100.0}, {""id"": 9084083, ""node1"": 25099, ""node2"": 123418, ""type"": 35, ""w"": 48.0}]",r_patient,100.0
+ingrédient,cité,acl,NOUN,0.4546211957931518,[],,
+mettre,ensemble,obj,NOUN,0.4409177005290985,[],,
+ébullition,ajouter,acl,VERB,0.5029370784759521,[],,
+mélanger,semi,obj,NOUN,0.4231886267662048,[],,
+semi,poudre,nmod,NOUN,0.4524905979633331,[],,
+beurre,karité,nmod,NOUN,0.4963628649711609,[],,
+mélanger,mettre,advcl,VERB,0.5054217576980591,"[{""id"": 12275937, ""node1"": 37151, ""node2"": 132366, ""type"": 0, ""w"": 22.0}, {""id"": 646351, ""node1"": 37151, ""node2"": 132366, ""type"": 5, ""w"": 99.0}]",r_syn,99.0
+procure,goût,obj,NOUN,0.5060999393463135,[],,
+goût,unique,amod,ADJ,0.5612958669662476,[],,
+remarquable,cuisson,nsubj,NOUN,0.7309507131576538,[],,
+cuisson,sauce,nmod,NOUN,0.8021588325500488,"[{""id"": 921783715, ""node1"": 60056, ""node2"": 141110, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+manger,remarquable,advcl,ADJ,0.595931887626648,[],,
+observer,huile,obj,NOUN,0.5765731334686279,[],,
+huile,surface,nmod,NOUN,0.5863879323005676,[],,
+manger,sauce,nsubj,NOUN,0.7532756924629211,"[{""id"": 593767954, ""node1"": 130164, ""node2"": 141110, ""type"": 0, ""w"": 2.0}, {""id"": 2171251, ""node1"": 130164, ""node2"": 141110, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+dégustation,bon,amod,ADJ,0.4969622194766998,"[{""id"": 561348579, ""node1"": 107364, ""node2"": 144229, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
