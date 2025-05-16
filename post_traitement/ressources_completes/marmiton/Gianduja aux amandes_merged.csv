@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+amande,ingrédient,nmod,NOUN,0.5978695750236511,"[{""id"": 559137438, ""node1"": 28557, ""node2"": 123418, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+sucre,glace,nmod,NOUN,0.651667594909668,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -126.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]",r_associated,111.0
+sucre,amande,nmod,NOUN,0.6539533138275146,[],,
+amande,chocolat,nmod,NOUN,0.5824542045593262,[],,
+amande,couverture,nmod,NOUN,0.5145738124847412,[],,
+four,top,nmod,NOUN,0.5501777529716492,"[{""id"": 509203905, ""node1"": 9190, ""node2"": 61057, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+four,set,nmod,NOUN,0.553033173084259,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+set,cuillère,nmod,NOUN,0.4149639010429382,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,mixeur,nmod,NOUN,0.5916650295257568,[],,
+mixeur,balance,nmod,NOUN,0.5409628748893738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+balance,faire,acl,VERB,0.4963136315345764,[],,
+griller,amande,obj,NOUN,0.6629301905632019,[],,
+amande,four,nmod,NOUN,0.7197993993759155,[],,
+sucre,laisser,acl:relcl,VERB,0.6488782167434692,[],,
+laisser,jour,obj,NOUN,0.4036541581153869,[],,
+laisser,gousse,obj,NOUN,0.4853701889514923,[],,
+gousse,vanille,nmod,NOUN,0.5133623480796814,"[{""id"": 723347912, ""node1"": 3889, ""node2"": 140463, ""type"": 0, ""w"": 27.0}, {""id"": 671656975, ""node1"": 3889, ""node2"": 140463, ""type"": 58, ""w"": 25.0}, {""id"": 714921745, ""node1"": 3889, ""node2"": 140463, ""type"": 666, ""w"": 3.0}]",r_associated,27.0
+ajouter,chocolat,obj,NOUN,0.6055095791816711,[],,
+chocolat,couverture,nmod,NOUN,0.5559198260307312,"[{""id"": 3932274, ""node1"": 34157, ""node2"": 49928, ""type"": 777, ""w"": 3.0}]",r_wiki,3.0
+ajouter,fondre,advcl,VERB,0.4958822429180145,[],,

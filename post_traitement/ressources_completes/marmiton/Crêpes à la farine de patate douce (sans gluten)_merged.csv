@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+farine,patate,nmod,NOUN,0.6741790771484375,[],,
+patate,doux,amod,ADJ,0.5360471606254578,[],,
+crêpe,gluten,nmod,NOUN,0.6271049976348877,"[{""id"": 115736182, ""node1"": 17186, ""node2"": 19041, ""type"": 9, ""w"": 30.0}]",r_has_part,30.0
+crêpe,ingrédient,nmod,NOUN,0.6617911458015442,[],,
+crêpe,sel,nmod,NOUN,0.7378122210502625,[],,
+sel,beurre,acl,NOUN,0.7119027376174927,"[{""id"": 29328492, ""node1"": 13260, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 9986817, ""node1"": 13260, ""node2"": 140377, ""type"": 10, ""w"": 35.0}]",r_holo,35.0
+sel,patate,nmod,NOUN,0.709165096282959,[],,
+sel,doux,amod,ADJ,0.6693494319915771,[],,
+oeuf,sucre,nmod,NOUN,0.6437758803367615,"[{""id"": 76133259, ""node1"": 116175, ""node2"": 139481, ""type"": 50, ""w"": 26.0}]",r_object>mater,26.0
+sucre,lait,nmod,NOUN,0.6437966823577881,[],,
+lait,amande,nmod,NOUN,0.5926035642623901,[],,
+sucre,louche,appos,NOUN,0.6945332884788513,[],,
+louche,saladier,nmod,NOUN,0.6017233729362488,[],,
+saladier,poêle,nmod,NOUN,0.6812556385993958,[],,
+crêpe,crêpe,nmod,NOUN,0.5387868881225586,"[{""id"": 1077682175, ""node1"": 17186, ""node2"": 17186, ""type"": 0, ""w"": 30.0}, {""id"": 292067, ""node1"": 17186, ""node2"": 17186, ""type"": 19, ""w"": 60.0}]",r_lemma,60.0
+crêpe,balance,obj,NOUN,0.5917694568634033,"[{""id"": 347084028, ""node1"": 17186, ""node2"": 145190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+saladier,mélanger,acl,VERB,0.5846896171569824,"[{""id"": 17857328, ""node1"": 45455, ""node2"": 37151, ""type"": 0, ""w"": 2.0}, {""id"": 72596974, ""node1"": 45455, ""node2"": 37151, ""type"": 24, ""w"": -25.0}, {""id"": 380394138, ""node1"": 45455, ""node2"": 37151, ""type"": 30, ""w"": 26.0}]",r_lieu_action,26.0
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+ajouter,œuf,obj,NOUN,0.5268428325653076,[],,
+œuf,fondre,acl,VERB,0.5686556100845337,[],,
+ajouter,lait,obj,NOUN,0.5957752466201782,"[{""id"": 373014760, ""node1"": 25099, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+laisser,pâte,obj,NOUN,0.6335045099258423,[],,
+ajouter,peu,obj,ADV,0.4455879032611847,[],,
+matière,gras,amod,ADJ,0.5428515672683716,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+chaud,lui,nsubj,PRON,0.4615650475025177,[],,
+ajouter,chaud,advcl,ADJ,0.544730007648468,[],,
+ajouter,louche,obj,NOUN,0.5061096549034119,[],,
+louche,pâte,nmod,NOUN,0.6495169401168823,"[{""id"": 415002984, ""node1"": 124144, ""node2"": 34069, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+cuire,min,obj,NOUN,0.5212259888648987,[],,

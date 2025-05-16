@@ -1,0 +1,45 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,poulet,nmod,NOUN,0.5709884762763977,[],,
+poulet,olive,nmod,NOUN,0.6825422048568726,[],,
+ingrédient,marocain,amod,ADJ,0.5423684120178223,[],,
+olive,ingrédient,nmod,NOUN,0.6296951770782471,"[{""id"": 24864624, ""node1"": 238, ""node2"": 123418, ""type"": 0, ""w"": 27.0}, {""id"": 24853505, ""node1"": 238, ""node2"": 123418, ""type"": 6, ""w"": 110.0}]",r_isa,110.0
+ingrédient,oignon,appos,NOUN,0.6626235842704773,"[{""id"": 24923430, ""node1"": 123418, ""node2"": 123307, ""type"": 0, ""w"": 15.0}, {""id"": 24850729, ""node1"": 123418, ""node2"": 123307, ""type"": 8, ""w"": 28.0}]",r_hypo,28.0
+oignon,sel,nmod,NOUN,0.705348014831543,[],,
+sel,poivre,appos,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,gingembre,nmod,NOUN,0.6446689367294312,"[{""id"": 584573850, ""node1"": 139597, ""node2"": 77020, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+gingembre,safran,appos,NOUN,0.6005738973617554,"[{""id"": 926450690, ""node1"": 77020, ""node2"": 84746, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+safran,safran,appos,NOUN,0.5000810027122498,"[{""id"": 331473, ""node1"": 84746, ""node2"": 84746, ""type"": 19, ""w"": 60.0}, {""id"": 648884729, ""node1"": 84746, ""node2"": 84746, ""type"": 99, ""w"": 32.0}]",r_lemma,60.0
+safran,persil,nmod,NOUN,0.6098036766052246,"[{""id"": 765583834, ""node1"": 84746, ""node2"": 135982, ""type"": 0, ""w"": 48.0}]",r_associated,48.0
+oignon,coriandre,appos,NOUN,0.6450710296630859,[],,
+coriandre,citron,nmod,NOUN,0.6298860311508179,[],,
+oignon,confit,amod,ADJ,0.6382328867912292,"[{""id"": 796708630, ""node1"": 123307, ""node2"": 95692, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+eau,olive,nmod,NOUN,0.6092936992645264,[],,
+four,pinceau,nmod,NOUN,0.6441405415534973,[],,
+pinceau,casserole,acl,NOUN,0.5712795853614807,[],,
+laver,poulet,obj,NOUN,0.643954873085022,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+huile,épice,nmod,NOUN,0.6819022297859192,"[{""id"": 669880758, ""node1"": 141971, ""node2"": 146056, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+ajouter,poulet,obj,NOUN,0.6573215126991272,[],,
+laisser,mijoter,obj,VERB,0.5789923667907715,[],,
+dorer,poulet,nsubj,NOUN,0.6384186744689941,"[{""id"": 372620909, ""node1"": 67147, ""node2"": 146261, ""type"": 0, ""w"": 27.0}, {""id"": 372620908, ""node1"": 67147, ""node2"": 146261, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+ajouter,litre,obj,NOUN,0.47560915350914,[],,
+litre,eau,nmod,NOUN,0.5440258383750916,"[{""id"": 2458362, ""node1"": 57416, ""node2"": 65012, ""type"": 0, ""w"": 84.0}, {""id"": 15759326, ""node1"": 57416, ""node2"": 65012, ""type"": 28, ""w"": 10.0}, {""id"": 720818422, ""node1"": 57416, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 980526881, ""node1"": 57416, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]",r_associated,84.0
+fermer,cocotte,obj,NOUN,0.5414252877235413,[],,
+cuisson,min,nmod,NOUN,0.4561061859130859,[],,
+fois,poulet,nmod,NOUN,0.5914230346679688,[],,
+poulet,cuire,acl,VERB,0.778136670589447,"[{""id"": 892209526, ""node1"": 146261, ""node2"": 5115, ""type"": 0, ""w"": 20.0}, {""id"": 216454662, ""node1"": 146261, ""node2"": 5115, ""type"": 24, ""w"": 43.0}, {""id"": 96715330, ""node1"": 146261, ""node2"": 5115, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+four,220,nmod,NUM,0.4830725789070129,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+ajouter,olive,obj,NOUN,0.5773881077766418,[],,
+olive,sauce,nmod,NOUN,0.7096335887908936,[],,
+sauce,poulet,nmod,NOUN,0.7278550863265991,[],,
+citron,confit,amod,ADJ,0.6230647563934326,[],,
+confit,persil,appos,NOUN,0.6531170010566711,[],,
+réduire,faire,amod,AUX,0.4535459280014038,"[{""id"": 376154454, ""node1"": 120230, ""node2"": 87528, ""type"": 0, ""w"": 1.0}, {""id"": 374576956, ""node1"": 120230, ""node2"": 87528, ""type"": 6, ""w"": 32.0}]",r_isa,32.0
+réduire,sauce,obj,NOUN,0.673485279083252,"[{""id"": 1660257, ""node1"": 120230, ""node2"": 141110, ""type"": 0, ""w"": 60.0}, {""id"": 940663193, ""node1"": 120230, ""node2"": 141110, ""type"": 14, ""w"": 30.0}]",r_associated,60.0
+réduire,disposer,advcl,VERB,0.4190835058689117,[],,
+disposer,poulet,obj,NOUN,0.6585919857025146,[],,
+poulet,doré,amod,ADJ,0.6124078631401062,"[{""id"": 372620884, ""node1"": 146261, ""node2"": 47964, ""type"": 17, ""w"": 27.0}, {""id"": 3171940, ""node1"": 146261, ""node2"": 47964, ""type"": 106, ""w"": 3.0}]",r_carac,27.0
+verser,sauce,obj,NOUN,0.6628547310829163,"[{""id"": 478293932, ""node1"": 104506, ""node2"": 141110, ""type"": 0, ""w"": 28.0}, {""id"": 478293931, ""node1"": 104506, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0

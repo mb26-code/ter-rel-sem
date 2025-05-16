@@ -1,0 +1,45 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+soupe,printemps,nmod,NOUN,0.6343926787376404,[],,
+printemps,ingrédient,nmod,NOUN,0.5734159350395203,[],,
+soupe,beurre,amod,NOUN,0.7595133781433105,"[{""id"": 3346887, ""node1"": 117152, ""node2"": 140377, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+beurre,persil,nmod,NOUN,0.6788381934165955,[],,
+soupe,pointe,nmod,NOUN,0.6444810032844543,[],,
+pointe,bouillon,nmod,NOUN,0.605178713798523,[],,
+bouillon,volaille,nmod,NOUN,0.6946349143981934,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+pois,petit,amod,ADJ,0.5441179871559143,"[{""id"": 1743094, ""node1"": 97846, ""node2"": 55222, ""type"": 0, ""w"": 105.0}, {""id"": 1525554, ""node1"": 97846, ""node2"": 55222, ""type"": 666, ""w"": 2.0}]",r_associated,105.0
+louche,mixeur,nmod,NOUN,0.5896725058555603,[],,
+mixeur,plonger,acl,VERB,0.5584041476249695,[],,
+mixeur,chauffer,acl,VERB,0.6226776838302612,[],,
+chauffer,casserole,obj,NOUN,0.666526198387146,[],,
+casserole,mixeur,nmod,NOUN,0.61752849817276,[],,
+mixeur,balance,nmod,NOUN,0.5409628748893738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+porter,bouillon,obj,NOUN,0.6005552411079407,[],,
+bouillon,ébullition,nmod,NOUN,0.5922847986221313,"[{""id"": 558647531, ""node1"": 146582, ""node2"": 83252, ""type"": 0, ""w"": 30.0}, {""id"": 4238164, ""node1"": 146582, ""node2"": 83252, ""type"": 777, ""w"": 10.0}]",r_associated,30.0
+moitié,feu,nmod,NOUN,0.5699913501739502,[],,
+moitié,moyen,amod,ADJ,0.4778536856174469,[],,
+temps,préparer,acl,VERB,0.464624285697937,[],,
+préparer,légume,obj,NOUN,0.6866786479949951,"[{""id"": 97862824, ""node1"": 36246, ""node2"": 120603, ""type"": 14, ""w"": 40.0}]",r_patient,40.0
+détailler,légume,obj,NOUN,0.6508322954177856,"[{""id"": 213741190, ""node1"": 47845, ""node2"": 120603, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+légume,morceau,nmod,NOUN,0.6784549951553345,[],,
+pois,frais,amod,ADJ,0.5010767579078674,"[{""id"": 372890284, ""node1"": 97846, ""node2"": 53495, ""type"": 17, ""w"": 26.0}, {""id"": 986028449, ""node1"": 97846, ""node2"": 53495, ""type"": 666, ""w"": 2.0}]",r_carac,26.0
+avoir,quantité,obj,NOUN,0.4202609360218048,[],,
+quantité,vouloir,acl,VERB,0.4728424251079559,[],,
+chou-fleur,séparer,acl,VERB,0.5653002262115479,[],,
+bouquet,petit,amod,ADJ,0.5040292739868164,"[{""id"": 400550, ""node1"": 34381, ""node2"": 55222, ""type"": 17, ""w"": 59.0}]",r_carac,59.0
+cuire,légume,obj,NOUN,0.8064759373664856,"[{""id"": 796715114, ""node1"": 5115, ""node2"": 120603, ""type"": 0, ""w"": 26.0}, {""id"": 148033, ""node1"": 5115, ""node2"": 120603, ""type"": 13, ""w"": 53.0}, {""id"": 234259, ""node1"": 5115, ""node2"": 120603, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+cuire,garder,advcl,VERB,0.6801970601081848,[],,
+réduit,bouillon,nsubj,NOUN,0.5413078665733337,"[{""id"": 97443788, ""node1"": 18739, ""node2"": 146582, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+légume,tout,amod,ADJ,0.6585912108421326,[],,
+verser,légume,obj,NOUN,0.6834107637405396,[],,
+pincée,sucre,nmod,NOUN,0.6500593423843384,[],,
+ébullition,minute,nmod,NOUN,0.4616620540618896,[],,
+vérifier,assaisonnement,obj,NOUN,0.4943651258945465,[],,
+assaisonnement,sel,nmod,NOUN,0.6856924891471863,"[{""id"": 1883231, ""node1"": 15763, ""node2"": 13260, ""type"": 0, ""w"": 63.0}, {""id"": 657816, ""node1"": 15763, ""node2"": 13260, ""type"": 5, ""w"": 91.0}, {""id"": 749699867, ""node1"": 15763, ""node2"": 13260, ""type"": 666, ""w"": 4.0}]",r_syn,91.0
+herbe,fin,amod,ADJ,0.478801280260086,[],,
+ajouter,herbe,obj,NOUN,0.4923520386219024,[],,
+herbe,haché,amod,ADJ,0.5466343760490417,[],,
+morceau,bon,amod,ADJ,0.4947037696838379,[],,
+morceau,beurre,nmod,NOUN,0.6982128024101257,[],,

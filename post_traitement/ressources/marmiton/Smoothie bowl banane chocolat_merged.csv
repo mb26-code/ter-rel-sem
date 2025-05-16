@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relation
+banane,chocolat,nmod,NOUN,0.6079012751579285,[]
+banane,ingrédient,nmod,NOUN,0.647196352481842,"[{""id"": 578773660, ""node1"": 34046, ""node2"": 123418, ""type"": 6, ""w"": 29.0}]"
+banane,cacao,nmod,NOUN,0.5551477670669556,[]
+cacao,poudre,nmod,NOUN,0.5677515864372253,"[{""id"": 115907, ""node1"": 68363, ""node2"": 139470, ""type"": 0, ""w"": 104.0}, {""id"": 82560097, ""node1"": 68363, ""node2"": 139470, ""type"": 6, ""w"": 35.0}, {""id"": 261410, ""node1"": 68363, ""node2"": 139470, ""type"": 8, ""w"": 101.0}, {""id"": 1568466, ""node1"": 68363, ""node2"": 139470, ""type"": 35, ""w"": 51.0}, {""id"": 1787114, ""node1"": 68363, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]"
+poudre,lait,nmod,NOUN,0.6032078266143799,"[{""id"": 798069862, ""node1"": 139470, ""node2"": 86296, ""type"": 0, ""w"": 26.0}]"
+lait,amande,nmod,NOUN,0.5926035642623901,[]
+pépite,chocolat,nmod,NOUN,0.5406539440155029,"[{""id"": 365455, ""node1"": 25082, ""node2"": 34157, ""type"": 0, ""w"": 152.0}, {""id"": 376056261, ""node1"": 25082, ""node2"": 34157, ""type"": 50, ""w"": 35.0}, {""id"": 930408960, ""node1"": 25082, ""node2"": 34157, ""type"": 666, ""w"": 2.0}]"
+congélateur,mixeur,nmod,NOUN,0.562759518623352,[]
+mixeur,robot,nmod,NOUN,0.5191810727119446,"[{""id"": 899180654, ""node1"": 78314, ""node2"": 12875, ""type"": 0, ""w"": 23.0}]"
+mixeur,bol,nmod,NOUN,0.5581084489822388,"[{""id"": 539977939, ""node1"": 78314, ""node2"": 145405, ""type"": 58, ""w"": -25.0}]"
+bol,étape,nmod,NOUN,0.5393725633621216,[]
+banane,veille,nmod,NOUN,0.5541725158691406,[]
+banane,couper,acl,VERB,0.5668771266937256,[]
+couper,banane,obj,NOUN,0.5668771266937256,[]
+banane,morceau,nmod,NOUN,0.6162192225456238,[]
+laisser,nuit,obj,NOUN,0.4050264656543731,[]
+nuit,congélateur,nmod,NOUN,0.4346113204956054,[]
+placer,rondelle,obj,NOUN,0.4836217761039734,[]
+rondelle,banane,nmod,NOUN,0.5429562330245972,[]
+bol,robot,nmod,NOUN,0.5342860817909241,[]
+placer,mixeur,amod,NOUN,0.5531697869300842,[]
+ajouter,lait,obj,NOUN,0.5957752466201782,"[{""id"": 373014760, ""node1"": 25099, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]"
+obtenir,couper,advcl,VERB,0.4167777895927429,[]
+banane,deuxième,amod,ADJ,0.5425770878791809,[]
+banane,rondelle,nmod,NOUN,0.5429562330245972,[]
+milieu,bol,nmod,NOUN,0.5272031426429749,[]
+ajouter,pépite,obj,NOUN,0.4621942043304443,[]

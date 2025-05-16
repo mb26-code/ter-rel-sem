@@ -1,0 +1,34 @@
+node1,node2,relations
+titre,confiture,[]
+confiture,ingrédient,"[{""id"": 15370391, ""node1"": 70793, ""node2"": 123418, ""type"": 0, ""w"": 39.0}, {""id"": 506041, ""node1"": 70793, ""node2"": 123418, ""type"": 3, ""w"": 52.0}]"
+confiture,levure,[]
+levure,beurre,[]
+levure,sucre,[]
+sucre,farine,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]"
+sucre,oeuf,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]"
+oeuf,confiture,[]
+oeuf,balance,[]
+balance,cuisine,[]
+balance,batteur,[]
+batteur,électrique,[]
+batteur,four,[]
+four,saladier,[]
+cuillère,petit,[]
+saladier,cuillère,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]"
+cuillère,étape,[]
+four,220,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,[]
+mélanger,farine,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]"
+mélanger,sucre,[]
+aide,batteur,[]
+ajouter,beurre,"[{""id"": 373014956, ""node1"": 25099, ""node2"": 140377, ""type"": 14, ""w"": 31.0}]"
+beurre,fondre,"[{""id"": 652231036, ""node1"": 140377, ""node2"": 16480, ""type"": 0, ""w"": 21.0}, {""id"": 24771033, ""node1"": 140377, ""node2"": 16480, ""type"": 24, ""w"": 137.0}, {""id"": 1886772, ""node1"": 140377, ""node2"": 16480, ""type"": 26, ""w"": 33.0}]"
+obtenir,pâte,[]
+pâte,homogène,"[{""id"": 796702467, ""node1"": 34069, ""node2"": 124759, ""type"": 0, ""w"": 28.0}, {""id"": 372565004, ""node1"": 34069, ""node2"": 124759, ""type"": 17, ""w"": 26.0}]"
+verser,cuillère,"[{""id"": 922009833, ""node1"": 104506, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 154215, ""node1"": 104506, ""node2"": 51905, ""type"": 16, ""w"": 60.0}]"
+cuillère,café,"[{""id"": 163839, ""node1"": 51905, ""node2"": 66324, ""type"": 0, ""w"": 180.0}, {""id"": 11354840, ""node1"": 51905, ""node2"": 66324, ""type"": 15, ""w"": 39.0}, {""id"": 720818158, ""node1"": 51905, ""node2"": 66324, ""type"": 174, ""w"": 25.0}]"
+café,pâte,[]
+cuillère,intérieur,[]
+faire,cavité,[]
+cavité,cuillère,[]

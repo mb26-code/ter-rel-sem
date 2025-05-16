@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+salade,perle,nmod,NOUN,0.6250523924827576,[],,
+salade,mer,nmod,PROPN,0.5565639138221741,"[{""id"": 8311527, ""node1"": 118908, ""node2"": 146105, ""type"": 15, ""w"": 40.0}]",r_lieu,40.0
+salade,ingrédient,nmod,NOUN,0.7127874493598938,[],,
+salade,sel,nmod,NOUN,0.7604894042015076,"[{""id"": 97758126, ""node1"": 118908, ""node2"": 13260, ""type"": 0, ""w"": 27.0}, {""id"": 97758127, ""node1"": 118908, ""node2"": 13260, ""type"": 9, ""w"": 32.0}, {""id"": 5292757, ""node1"": 118908, ""node2"": 13260, ""type"": 777, ""w"": 7.0}]",r_has_part,32.0
+sel,poivre,acl,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+salade,crème,amod,NOUN,0.6757583022117615,[],,
+cuillère,top,nmod,NOUN,0.4335919320583343,[],,
+saladier,couteau,nmod,NOUN,0.6030980348587036,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+pâte,petit,amod,ADJ,0.6785956621170044,[],,
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+couper,enlever,advcl,VERB,0.4259249269962311,"[{""id"": 817307, ""node1"": 128828, ""node2"": 82345, ""type"": 0, ""w"": 106.0}, {""id"": 54633140, ""node1"": 128828, ""node2"": 82345, ""type"": 5, ""w"": 279.0}, {""id"": 496120616, ""node1"": 128828, ""node2"": 82345, ""type"": 35, ""w"": 103.0}]",r_syn,279.0
+couper,bâton,obj,NOUN,0.4738109409809112,[],,
+bâton,concombre,nmod,NOUN,0.4905793964862823,[],,
+ajouter,sel,obj,NOUN,0.6747812032699585,"[{""id"": 914306223, ""node1"": 25099, ""node2"": 13260, ""type"": 0, ""w"": 20.0}, {""id"": 220261, ""node1"": 25099, ""node2"": 13260, ""type"": 14, ""w"": 70.0}]",r_patient,70.0
+ajouter,poivre,amod,NOUN,0.6484997868537903,"[{""id"": 243200, ""node1"": 25099, ""node2"": 139597, ""type"": 14, ""w"": 60.0}]",r_patient,60.0
+ajouter,oeuf,obj,NOUN,0.5327831506729126,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+oeuf,saumon,nmod,NOUN,0.6056931614875793,[],,
+mélanger,écraser,advcl,VERB,0.4882788062095642,[],,
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]",r_carac-1,5.0

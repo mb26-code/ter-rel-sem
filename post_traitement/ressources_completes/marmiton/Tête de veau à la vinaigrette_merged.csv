@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+tête,veau,nmod,NOUN,0.5477133393287659,"[{""id"": 1042416390, ""node1"": 144846, ""node2"": 91311, ""type"": 0, ""w"": 5.0}, {""id"": 10113560, ""node1"": 144846, ""node2"": 91311, ""type"": 10, ""w"": 4.0}]",r_associated,5.0
+ingrédient,vinaigrette,amod,NOUN,0.7030248045921326,[],,
+tête,ingrédient,nmod,NOUN,0.5345776081085205,[],,
+tête,sel,nmod,NOUN,0.6884063482284546,[],,
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,huile,amod,NOUN,0.6777899265289307,"[{""id"": 917898979, ""node1"": 139597, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+sel,vinaigre,acl,NOUN,0.683134913444519,"[{""id"": 796849792, ""node1"": 13260, ""node2"": 145443, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+bouquet,garni,amod,ADJ,0.4469667077064514,[],,
+bol,cuillère,nmod,NOUN,0.5572551488876343,"[{""id"": 1046576301, ""node1"": 145405, ""node2"": 51905, ""type"": 8, ""w"": 20.0}]",r_hypo,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+déposer,tête,obj,NOUN,0.4454283118247986,"[{""id"": 423958394, ""node1"": 35714, ""node2"": 144846, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+marmite,remplir,acl,VERB,0.5961068868637085,[],,
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+cuire,ajouter,advcl,VERB,0.695756196975708,[],,
+ajouter,carotte,obj,NOUN,0.5934749245643616,[],,
+carotte,rondelle,nmod,NOUN,0.5535646677017212,"[{""id"": 915206997, ""node1"": 76234, ""node2"": 71106, ""type"": 0, ""w"": 20.0}, {""id"": 31838017, ""node1"": 76234, ""node2"": 71106, ""type"": 58, ""w"": 66.0}]",r_quantificateur,66.0
+laisser,mijoter,obj,VERB,0.5789923667907715,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+mélanger,moutarde,obj,NOUN,0.6331369876861572,[],,
+moutarde,vinaigre,appos,NOUN,0.6449266076087952,"[{""id"": 642040832, ""node1"": 28335, ""node2"": 145443, ""type"": 0, ""w"": 29.0}, {""id"": 113266845, ""node1"": 28335, ""node2"": 145443, ""type"": 777, ""w"": 10.0}]",r_associated,29.0
+incorporer,œuf,obj,NOUN,0.5185500979423523,[],,
+œuf,écraser,acl,VERB,0.5180912017822266,[],,
+radis,finement,amod,ADV,0.5021809339523315,[],,

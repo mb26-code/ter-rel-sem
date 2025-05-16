@@ -1,0 +1,78 @@
+node1,node2,relations
+terrine,sanglier,[]
+terrine,ingrédient,[]
+terrine,poivre,[]
+poivre,poivre,"[{""id"": 324684, ""node1"": 139597, ""node2"": 139597, ""type"": 19, ""w"": 53.0}]"
+poivre,sel,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]"
+sel,épice,"[{""id"": 234208, ""node1"": 13260, ""node2"": 146056, ""type"": 0, ""w"": 74.0}, {""id"": 1017992992, ""node1"": 13260, ""node2"": 146056, ""type"": 6, ""w"": 30.0}, {""id"": 1703091, ""node1"": 13260, ""node2"": 146056, ""type"": 35, ""w"": 54.0}, {""id"": 1795756, ""node1"": 13260, ""node2"": 146056, ""type"": 666, ""w"": 4.0}]"
+terrine,chair,[]
+terrine,saucisse,[]
+saucisse,foie,"[{""id"": 642807556, ""node1"": 77807, ""node2"": 115155, ""type"": 0, ""w"": 1.0}, {""id"": 372241311, ""node1"": 77807, ""node2"": 115155, ""type"": 50, ""w"": 26.0}]"
+foie,oeuf,[]
+terrine,pain,[]
+pain,vinaigre,[]
+sel,thym,[]
+sel,cumin,[]
+terrine,coriandre,[]
+coriandre,gingembre,[]
+gingembre,vin,[]
+vin,blanc,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]"
+vin,sec,"[{""id"": 558785883, ""node1"": 35798, ""node2"": 63619, ""type"": 0, ""w"": 55.0}]"
+terrine,top,[]
+plaque,meilleur,[]
+top,plaque,[]
+plaque,four,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]"
+four,mixeur,[]
+mixeur,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,couvercle,[]
+couvercle,moule,[]
+couvercle,tarte,[]
+tarte,four,"[{""id"": 588369597, ""node1"": 575, ""node2"": 9190, ""type"": 0, ""w"": 110.0}, {""id"": 113393, ""node1"": 575, ""node2"": 9190, ""type"": 15, ""w"": 238.0}, {""id"": 1015273156, ""node1"": 575, ""node2"": 9190, ""type"": 666, ""w"": 11.0}, {""id"": 4040856, ""node1"": 575, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]"
+four,planche,[]
+terrine,découper,[]
+découper,balance,[]
+balance,cuisine,[]
+balance,étape,[]
+faire,marinade,[]
+marinade,cuire,[]
+couper,viande,"[{""id"": 241180, ""node1"": 128828, ""node2"": 140100, ""type"": 0, ""w"": 74.0}, {""id"": 15084106, ""node1"": 128828, ""node2"": 140100, ""type"": 14, ""w"": 100.0}]"
+viande,morceau,"[{""id"": 796691557, ""node1"": 140100, ""node2"": 65364, ""type"": 0, ""w"": 29.0}]"
+morceau,taille,[]
+jour,viande,[]
+viande,frais,[]
+grille,gros,[]
+viande,grille,[]
+morceau,coupe,"[{""id"": 934092, ""node1"": 65364, ""node2"": 141091, ""type"": 0, ""w"": 31.0}]"
+coupe,faire,[]
+faire,joli,[]
+lard,fin,[]
+travailler,tout,[]
+travailler,mouiller,[]
+mouiller,marinade,[]
+marinade,filtrer,[]
+aller,cela,[]
+mélanger,aller,[]
+ajouter,poivre,"[{""id"": 243200, ""node1"": 25099, ""node2"": 139597, ""type"": 14, ""w"": 60.0}]"
+poivre,vert,[]
+poivre,écraser,[]
+entier,battre,[]
+mie,pain,"[{""id"": 377332, ""node1"": 37905, ""node2"": 61283, ""type"": 0, ""w"": 145.0}, {""id"": 96639071, ""node1"": 37905, ""node2"": 61283, ""type"": 3, ""w"": 26.0}, {""id"": 96639075, ""node1"": 37905, ""node2"": 61283, ""type"": 6, ""w"": 48.0}, {""id"": 9985753, ""node1"": 37905, ""node2"": 61283, ""type"": 10, ""w"": 48.0}, {""id"": 11358396, ""node1"": 37905, ""node2"": 61283, ""type"": 15, ""w"": 38.0}, {""id"": 25183388, ""node1"": 37905, ""node2"": 61283, ""type"": 35, ""w"": 52.0}, {""id"": 376051245, ""node1"": 37905, ""node2"": 61283, ""type"": 51, ""w"": 29.0}, {""id"": 979307703, ""node1"": 37905, ""node2"": 61283, ""type"": 666, ""w"": 2.0}]"
+pain,tremper,"[{""id"": 796709520, ""node1"": 61283, ""node2"": 119858, ""type"": 0, ""w"": 26.0}, {""id"": 13712024, ""node1"": 61283, ""node2"": 119858, ""type"": 25, ""w"": 61.0}, {""id"": 15067890, ""node1"": 61283, ""node2"": 119858, ""type"": 26, ""w"": 100.0}]"
+mie,lait,[]
+ajuster,sel,[]
+foncer,terrine,[]
+sceller,terrine,[]
+colle,farine,[]
+colle,facultatif,[]
+mettre,thermostat,[]
+mettre,degré,[]
+taille,terrine,[]
+tranche,intérieur,[]
+intérieur,terrine,[]
+écarter,tranche,[]
+réduire,viande,[]
+tranche,réduire,[]
+réduire,cuire,[]
+gelée,tiède,[]
+vin,rouge,"[{""id"": 61835, ""node1"": 35798, ""node2"": 86356, ""type"": 0, ""w"": 517.0}, {""id"": 556239, ""node1"": 35798, ""node2"": 86356, ""type"": 5, ""w"": 122.0}, {""id"": 9857786, ""node1"": 35798, ""node2"": 86356, ""type"": 8, ""w"": 139.0}, {""id"": 14806149, ""node1"": 35798, ""node2"": 86356, ""type"": 17, ""w"": 71.0}, {""id"": 31149018, ""node1"": 35798, ""node2"": 86356, ""type"": 27, ""w"": 22.0}, {""id"": 3154292, ""node1"": 35798, ""node2"": 86356, ""type"": 106, ""w"": 12.0}, {""id"": 1526706, ""node1"": 35798, ""node2"": 86356, ""type"": 666, ""w"": 8.0}]"

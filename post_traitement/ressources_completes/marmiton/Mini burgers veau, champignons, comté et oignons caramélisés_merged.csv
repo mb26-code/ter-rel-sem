@@ -1,0 +1,60 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+mini,burger,amod,ADJ,0.4772558510303497,[],,
+burger,veau,amod,ADJ,0.593439519405365,[],,
+mini,ingrédient,nmod,NOUN,0.5000250935554504,[],,
+mini,haché,nmod,NOUN,0.5202685594558716,[],,
+haché,veau,nmod,NOUN,0.577176034450531,"[{""id"": 496732662, ""node1"": 47887, ""node2"": 91311, ""type"": 0, ""w"": 16.0}, {""id"": 496732663, ""node1"": 47887, ""node2"": 91311, ""type"": 23, ""w"": 18.0}]",r_carac-1,18.0
+pain,petit,amod,ADJ,0.6563963294029236,"[{""id"": 12987089, ""node1"": 61283, ""node2"": 55222, ""type"": 17, ""w"": 61.0}]",r_carac,61.0
+façon,pain,amod,NOUN,0.6873946189880371,[],,
+pain,burger,acl,VERB,0.6463713645935059,"[{""id"": 28540722, ""node1"": 61283, ""node2"": 138357, ""type"": 0, ""w"": 24.0}, {""id"": 28517502, ""node1"": 61283, ""node2"": 138357, ""type"": 10, ""w"": 31.0}]",r_holo,31.0
+burger,champignon,obj,NOUN,0.5602359771728516,[],,
+comté,salade,nmod,NOUN,0.5392991900444031,"[{""id"": 98727894, ""node1"": 144697, ""node2"": 118908, ""type"": 10, ""w"": 28.0}]",r_holo,28.0
+comté,oignon,nmod,NOUN,0.489447683095932,[],,
+oignon,rouge,amod,ADJ,0.5798735618591309,"[{""id"": 96738908, ""node1"": 123307, ""node2"": 86356, ""type"": 17, ""w"": 31.0}, {""id"": 3161226, ""node1"": 123307, ""node2"": 86356, ""type"": 106, ""w"": 3.0}]",r_carac,31.0
+oignon,sucre,nmod,NOUN,0.7221262454986572,[],,
+sucre,brun,amod,VERB,0.5946850776672363,"[{""id"": 182239, ""node1"": 139481, ""node2"": 14189, ""type"": 17, ""w"": 61.0}, {""id"": 3163418, ""node1"": 139481, ""node2"": 14189, ""type"": 106, ""w"": 25.0}]",r_carac,61.0
+vinaigre,balsamique,amod,ADJ,0.5980404615402222,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]",r_associated,166.0
+pain,grille,appos,NOUN,0.6474882364273071,[],,
+grille,saladier,nmod,NOUN,0.6173619627952576,[],,
+saladier,balance,nmod,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+grille,étape,nmod,NOUN,0.4303568601608276,[],,
+grille,mélanger,acl,VERB,0.5905152559280396,[],,
+mélanger,haché,obj,NOUN,0.557927668094635,[],,
+boule,gramme,nmod,NOUN,0.5084518790245056,[],,
+utiliser,pièce,obj,NOUN,0.4632488489151001,[],,
+détailler,haché,obj,NOUN,0.5073339343070984,[],,
+veau,manière,nmod,NOUN,0.5668028593063354,[],,
+faite,revenir,obj,VERB,0.4581390917301178,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+commencer,oignon,nsubj,NOUN,0.6088244318962097,[],,
+ajouter,commencer,advcl,VERB,0.4004059433937073,[],,
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+poursuivre,cuisson,obj,NOUN,0.6843500733375549,[],,
+cuisson,minute,nmod,NOUN,0.6456773281097412,[],,
+minute,mélanger,acl,VERB,0.5259966850280762,[],,
+couper,champignon,obj,NOUN,0.5415607690811157,"[{""id"": 93547215, ""node1"": 128828, ""node2"": 25484, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+filet,huile,nmod,NOUN,0.6150403022766113,[],,
+filet,minute,nmod,NOUN,0.5464736819267273,[],,
+récupérer,réserver,advcl,VERB,0.401184618473053,[],,
+réserver,champignon,obj,NOUN,0.581188976764679,[],,
+récupérer,poêle,obj,NOUN,0.6325428485870361,[],,
+cuire,viande,obj,NOUN,0.8064185976982117,"[{""id"": 2182411, ""node1"": 5115, ""node2"": 140100, ""type"": 0, ""w"": 73.0}, {""id"": 148035, ""node1"": 5115, ""node2"": 140100, ""type"": 13, ""w"": 100.0}, {""id"": 206249, ""node1"": 5115, ""node2"": 140100, ""type"": 14, ""w"": 100.0}, {""id"": 722712577, ""node1"": 5115, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]",r_agent,100.0
+chauffer,saisir,advcl,VERB,0.4950103163719177,[],,
+dernier,feu,nmod,NOUN,0.5211308002471924,[],,
+feu,vif,amod,ADJ,0.5094798803329468,"[{""id"": 418102926, ""node1"": 143703, ""node2"": 80204, ""type"": 0, ""w"": 13.0}, {""id"": 221184, ""node1"": 143703, ""node2"": 80204, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
+feu,côté,nmod,NOUN,0.5448796153068542,[],,
+finir,cuisson,obj,NOUN,0.6792824268341064,[],,
+cuisson,steak,nmod,NOUN,0.7490622997283936,"[{""id"": 796846085, ""node1"": 60056, ""node2"": 55572, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+cuisson,feu,nmod,NOUN,0.6483181118965149,"[{""id"": 53757049, ""node1"": 60056, ""node2"": 143703, ""type"": 0, ""w"": 22.0}, {""id"": 53594904, ""node1"": 60056, ""node2"": 143703, ""type"": 5, ""w"": 65.0}, {""id"": 14675290, ""node1"": 60056, ""node2"": 143703, ""type"": 42, ""w"": 35.0}, {""id"": 1066090857, ""node1"": 60056, ""node2"": 143703, ""type"": 129, ""w"": 28.0}]",r_syn,65.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+chauffer,pain,obj,NOUN,0.7041173577308655,[],,
+étaler,couche,obj,NOUN,0.4545030295848846,"[{""id"": 560922829, ""node1"": 98214, ""node2"": 19152, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+couche,pain,nmod,NOUN,0.6690613627433777,[],,
+étaler,déposer,advcl,VERB,0.4140774011611938,[],,
+déposer,cuillère,obj,NOUN,0.5286773443222046,[],,
+cuillère,oignon,nmod,NOUN,0.6441447734832764,[],,
+rondelle,steak,appos,NOUN,0.6238439083099365,[],,
+steak,veau,nmod,NOUN,0.6163670420646667,"[{""id"": 14637189, ""node1"": 55572, ""node2"": 91311, ""type"": 0, ""w"": 28.0}, {""id"": 13009922, ""node1"": 55572, ""node2"": 91311, ""type"": 10, ""w"": 71.0}]",r_holo,71.0
+cuillère,champignon,nmod,NOUN,0.6168769001960754,[],,
+refermer,burger,obj,NOUN,0.5123445987701416,[],,

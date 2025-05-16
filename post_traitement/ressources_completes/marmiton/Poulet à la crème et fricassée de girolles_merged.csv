@@ -1,0 +1,39 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,poulet,nmod,NOUN,0.5709884762763977,[],,
+poulet,crème,nmod,NOUN,0.7029401659965515,[],,
+sel,poivre,nmod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,beurre,obj,NOUN,0.71866774559021,"[{""id"": 584573840, ""node1"": 139597, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+crème,crème,amod,NOUN,0.5604454278945923,"[{""id"": 96714571, ""node1"": 44001, ""node2"": 44001, ""type"": 17, ""w"": 11.0}, {""id"": 292050, ""node1"": 44001, ""node2"": 44001, ""type"": 19, ""w"": 56.0}, {""id"": 648885465, ""node1"": 44001, ""node2"": 44001, ""type"": 99, ""w"": 32.0}]",r_lemma,56.0
+crème,oignon,nmod,NOUN,0.682665228843689,[],,
+oignon,poulet,nmod,NOUN,0.6858091354370117,[],,
+crème,vin,amod,NOUN,0.687624990940094,[],,
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+chauffer,balance,obj,NOUN,0.5568371415138245,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+chauffer,huile,obj,NOUN,0.64256751537323,[],,
+oignon,petit,amod,ADJ,0.612844705581665,"[{""id"": 96738917, ""node1"": 123307, ""node2"": 55222, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+retirer,oignon,obj,NOUN,0.6015655398368835,[],,
+oignon,doré,amod,ADJ,0.595569372177124,"[{""id"": 477556851, ""node1"": 123307, ""node2"": 47964, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+oignon,cocotte,nmod,NOUN,0.6753145456314087,[],,
+revenir,morceau,obj,NOUN,0.5735010504722595,[],,
+morceau,poulet,nmod,NOUN,0.6684615612030029,"[{""id"": 775213395, ""node1"": 65364, ""node2"": 146261, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+face,tout,amod,ADJ,0.4081993997097015,[],,
+verser,vin,obj,NOUN,0.6363518238067627,"[{""id"": 383588, ""node1"": 104506, ""node2"": 35798, ""type"": 0, ""w"": 82.0}, {""id"": 167909, ""node1"": 104506, ""node2"": 35798, ""type"": 14, ""w"": 100.0}, {""id"": 376198924, ""node1"": 104506, ""node2"": 35798, ""type"": 16, ""w"": 32.0}, {""id"": 645787358, ""node1"": 104506, ""node2"": 35798, ""type"": 666, ""w"": 3.0}]",r_patient,100.0
+remettre,oignon,obj,NOUN,0.6013385653495789,[],,
+nettoyer,couvrir,advcl,VERB,0.4497723877429962,[],,
+mijoter,min,obj,NOUN,0.4553591310977936,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+min,feu,nmod,NOUN,0.4932627379894256,[],,
+saler,fois,nsubj,NOUN,0.5525426864624023,[],,
+saler,eau,nsubj,NOUN,0.6464982628822327,"[{""id"": 31771114, ""node1"": 15671, ""node2"": 65012, ""type"": 14, ""w"": 90.0}]",r_patient,90.0
+eau,rendre,acl,VERB,0.5431551933288574,"[{""id"": 31839889, ""node1"": 65012, ""node2"": 65447, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+ajouter,laisser,amod,VERB,0.4014033377170563,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+crème,cocotte,nmod,NOUN,0.6862668991088867,[],,
+cocotte,poulet,nmod,NOUN,0.7050184011459351,"[{""id"": 1011700535, ""node1"": 120952, ""node2"": 146261, ""type"": 0, ""w"": 16.0}, {""id"": 590939564, ""node1"": 120952, ""node2"": 146261, ""type"": 5, ""w"": 6.0}]",r_associated,16.0
+réchauffer,instant,obj,NOUN,0.4841665625572204,[],,
+obtenir,sauce,obj,NOUN,0.6665064692497253,"[{""id"": 373013766, ""node1"": 102671, ""node2"": 141110, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,vapeur,nmod,NOUN,0.633331835269928,[],,

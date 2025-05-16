@@ -1,0 +1,24 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+thon,ingrédient,nmod,NOUN,0.6298080086708069,"[{""id"": 24920603, ""node1"": 86754, ""node2"": 123418, ""type"": 6, ""w"": 12.0}]",r_isa,12.0
+avocat,thon,nmod,NOUN,0.5439891815185547,[],,
+thon,citron,nmod,NOUN,0.6122570037841797,[],,
+citron,four,nmod,NOUN,0.7312428951263428,[],,
+four,bol,nmod,NOUN,0.6603272557258606,[],,
+bol,saladier,nmod,NOUN,0.5367903709411621,"[{""id"": 796872211, ""node1"": 145405, ""node2"": 45455, ""type"": 0, ""w"": 28.0}, {""id"": 1029292999, ""node1"": 145405, ""node2"": 45455, ""type"": 67, ""w"": 34.0}]",r_similar,34.0
+bol,réfrigérateur,nmod,NOUN,0.5352475643157959,[],,
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[],,
+citron,bol,nmod,NOUN,0.6071985960006714,[],,
+citron,écraser,acl,VERB,0.6127551794052124,[],,
+écraser,avocat,obj,NOUN,0.4271863996982574,"[{""id"": 126265042, ""node1"": 52004, ""node2"": 104789, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+obtenir,mélange,obj,NOUN,0.4783641993999481,[],,
+mélange,homogène,amod,ADJ,0.4782799482345581,"[{""id"": 914526136, ""node1"": 14800, ""node2"": 124759, ""type"": 0, ""w"": 21.0}, {""id"": 33170626, ""node1"": 14800, ""node2"": 124759, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+manière,thon,nmod,NOUN,0.5988073348999023,[],,
+ajouter,goutte,obj,NOUN,0.5042680501937866,[],,
+ajouter,cuillère,obj,NOUN,0.5465437173843384,[],,
+cuillère,café,nmod,NOUN,0.592677116394043,"[{""id"": 163839, ""node1"": 51905, ""node2"": 66324, ""type"": 0, ""w"": 180.0}, {""id"": 11354840, ""node1"": 51905, ""node2"": 66324, ""type"": 15, ""w"": 39.0}, {""id"": 720818158, ""node1"": 51905, ""node2"": 66324, ""type"": 174, ""w"": 25.0}]",r_associated,180.0
+café,paprika,nmod,NOUN,0.6221053600311279,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+mayonnaise,citron,nmod,NOUN,0.6542017459869385,"[{""id"": 3978239, ""node1"": 111055, ""node2"": 15386, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+réfrigérateur,heure,nmod,NOUN,0.4385888278484344,[],,
+mettre,servir,advcl,VERB,0.4629862010478973,[],,
+servir,préparation,obj,NOUN,0.5459871888160706,"[{""id"": 558790747, ""node1"": 7888, ""node2"": 33634, ""type"": 0, ""w"": 38.0}]",r_associated,38.0

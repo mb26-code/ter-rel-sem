@@ -1,0 +1,51 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+fumé,ingrédient,obj,NOUN,0.5650264620780945,[],,
+sésame,huile,amod,NOUN,0.6178574562072754,"[{""id"": 12258573, ""node1"": 18404, ""node2"": 141971, ""type"": 0, ""w"": 32.0}, {""id"": 678049, ""node1"": 18404, ""node2"": 141971, ""type"": 5, ""w"": 41.0}, {""id"": 97343670, ""node1"": 18404, ""node2"": 141971, ""type"": 53, ""w"": 29.0}, {""id"": 1786371, ""node1"": 18404, ""node2"": 141971, ""type"": 666, ""w"": 1.0}]",r_syn,41.0
+sésame,sésame,nmod,NOUN,0.5035815238952637,"[{""id"": 333013, ""node1"": 18404, ""node2"": 18404, ""type"": 19, ""w"": 56.0}]",r_lemma,56.0
+sésame,sel,nmod,NOUN,0.6918001770973206,[],,
+sésame,sucre,acl,NOUN,0.6855493187904358,[],,
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,vinaigre,nmod,NOUN,0.6661493182182312,[],,
+vinaigre,riz,nmod,ADV,0.6922438144683838,"[{""id"": 1023005499, ""node1"": 145443, ""node2"": 24372, ""type"": 0, ""w"": 26.0}, {""id"": 3355970, ""node1"": 145443, ""node2"": 24372, ""type"": 777, ""w"": 10.0}]",r_associated,26.0
+vinaigre,fumé,amod,ADJ,0.5891083478927612,[],,
+fumé,feuille,obj,NOUN,0.5346895456314087,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+poêle,bol,nmod,NOUN,0.6388387084007263,[],,
+bol,saladier,nmod,NOUN,0.5367903709411621,"[{""id"": 796872211, ""node1"": 145405, ""node2"": 45455, ""type"": 0, ""w"": 28.0}, {""id"": 1029292999, ""node1"": 145405, ""node2"": 45455, ""type"": 67, ""w"": 34.0}]",r_similar,34.0
+saladier,couteau,nmod,NOUN,0.6030980348587036,[],,
+bol,balance,nmod,NOUN,0.5318400859832764,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+préparer,riz,obj,NOUN,0.6769457459449768,"[{""id"": 372620650, ""node1"": 36246, ""node2"": 24372, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+riz,collant,acl,ADJ,0.6570024490356445,"[{""id"": 1041930552, ""node1"": 24372, ""node2"": 50437, ""type"": 17, ""w"": 31.0}]",r_carac,31.0
+riz,thaï,amod,ADJ,0.6133593320846558,"[{""id"": 2241114, ""node1"": 24372, ""node2"": 113084, ""type"": 0, ""w"": 54.0}, {""id"": 3140016, ""node1"": 24372, ""node2"": 113084, ""type"": 8, ""w"": 132.0}, {""id"": 2207442, ""node1"": 24372, ""node2"": 113084, ""type"": 17, ""w"": 29.0}]",r_hypo,132.0
+riz,idéal,amod,ADJ,0.6648850440979004,[],,
+riz,Rice,nmod,PROPN,0.576740026473999,[],,
+tasse,eau,nmod,NOUN,0.5860507488250732,"[{""id"": 560383007, ""node1"": 146144, ""node2"": 65012, ""type"": 0, ""w"": 44.0}, {""id"": 2315977, ""node1"": 146144, ""node2"": 65012, ""type"": 28, ""w"": 79.0}, {""id"": 1071497645, ""node1"": 146144, ""node2"": 65012, ""type"": 666, ""w"": 2.0}]",r_lieu-1,79.0
+tasse,tasse,nmod,NOUN,0.4538113474845886,"[{""id"": 336600, ""node1"": 146144, ""node2"": 146144, ""type"": 19, ""w"": 55.0}]",r_lemma,55.0
+tasse,riz,nmod,NOUN,0.6850212216377258,"[{""id"": 775213361, ""node1"": 146144, ""node2"": 24372, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+temps,préparer,acl,VERB,0.464624285697937,[],,
+préparer,assaisonnement,obj,NOUN,0.6284803152084351,[],,
+assaisonnement,riz,nmod,NOUN,0.6826871633529663,[],,
+bol,vinaigre,nmod,NOUN,0.593822181224823,[],,
+dissoudre,sel,nsubj,NOUN,0.6580449938774109,"[{""id"": 1377942, ""node1"": 90446, ""node2"": 13260, ""type"": 0, ""w"": 43.0}, {""id"": 1053467444, ""node1"": 90446, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]",r_associated,43.0
+préparer,omelette,obj,NOUN,0.621234655380249,"[{""id"": 273961890, ""node1"": 36246, ""node2"": 45481, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+battre,oeuf,obj,NOUN,0.5256416201591492,"[{""id"": 2120026, ""node1"": 119162, ""node2"": 116175, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+façon,classique,amod,ADJ,0.4515279531478882,"[{""id"": 549426529, ""node1"": 81363, ""node2"": 131914, ""type"": 17, ""w"": 31.0}]",r_carac,31.0
+goût,petit,amod,ADJ,0.5723676085472107,[],,
+donner,goût,obj,NOUN,0.5248583555221558,"[{""id"": 1295451, ""node1"": 12941, ""node2"": 119233, ""type"": 0, ""w"": 30.0}, {""id"": 374011510, ""node1"": 12941, ""node2"": 119233, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+goût,asiatique,amod,ADJ,0.5765182375907898,[],,
+cuire,omelette,obj,NOUN,0.7522898316383362,"[{""id"": 478063300, ""node1"": 5115, ""node2"": 45481, ""type"": 0, ""w"": 27.0}, {""id"": 478063299, ""node1"": 5115, ""node2"": 45481, ""type"": 13, ""w"": 100.0}, {""id"": 557715125, ""node1"": 5115, ""node2"": 45481, ""type"": 14, ""w"": 100.0}]",r_agent,100.0
+huile,sésame,nmod,NOUN,0.6178574562072754,"[{""id"": 12295235, ""node1"": 141971, ""node2"": 18404, ""type"": 0, ""w"": 43.0}, {""id"": 580644, ""node1"": 141971, ""node2"": 18404, ""type"": 5, ""w"": 32.0}, {""id"": 88080850, ""node1"": 141971, ""node2"": 18404, ""type"": 35, ""w"": 32.0}, {""id"": 380316783, ""node1"": 141971, ""node2"": 18404, ""type"": 54, ""w"": 34.0}]",r_associated,43.0
+grand,poêle,nsubj,NOUN,0.628409743309021,[],,
+épaisse,omelette,nsubj,NOUN,0.5658636093139648,[],,
+prêt,riz,nsubj,NOUN,0.6670249104499817,[],,
+poignée,sésame,nmod,NOUN,0.5672292113304138,[],,
+set,table,nmod,NOUN,0.406400591135025,"[{""id"": 158925, ""node1"": 106249, ""node2"": 89591, ""type"": 0, ""w"": 60.0}]",r_associated,60.0
+set,bambou,nmod,NOUN,0.4036815464496612,[],,
+trouver,feuille,obj,NOUN,0.4748447835445404,[],,
+former,couche,obj,NOUN,0.4329245984554291,[],,
+couche,compact,amod,ADJ,0.4489642083644867,[],,
+tiers,feuille,nmod,NOUN,0.4287661612033844,[],,
+feuille,autre,amod,ADJ,0.4850873947143554,[],,
+opération,feuille,nmod,NOUN,0.4444217383861542,[],,
+devoir,couteau,nsubj,NOUN,0.4850423634052276,[],,

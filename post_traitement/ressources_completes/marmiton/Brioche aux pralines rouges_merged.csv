@@ -1,0 +1,21 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,brioche,nmod,NOUN,0.5700752139091492,[],,
+titre,ingrédient,nmod,NOUN,0.4870321154594421,[],,
+titre,sucre,nmod,NOUN,0.6150608658790588,[],,
+sucre,levure,nmod,NOUN,0.6371856927871704,[],,
+levure,sel,nmod,NOUN,0.6808187365531921,[],,
+sel,beurre,nmod,NOUN,0.7001041769981384,"[{""id"": 29328492, ""node1"": 13260, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 9986817, ""node1"": 13260, ""node2"": 140377, ""type"": 10, ""w"": 35.0}]",r_holo,35.0
+sucre,oeuf,nmod,NOUN,0.6346784234046936,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+titre,étape,nmod,NOUN,0.4319892823696136,[],,
+veille,préparer,acl,VERB,0.4859919846057892,[],,
+préparer,pâte,obj,NOUN,0.6622498631477356,"[{""id"": 97862162, ""node1"": 36246, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+ingrédient,dessus,nmod,ADV,0.6034632325172424,[],,
+mettre,nuit,obj,NOUN,0.4634137153625488,[],,
+nuit,réfrigérateur,nmod,NOUN,0.4406744837760925,[],,
+lendemain,renverser,acl,VERB,0.449172168970108,[],,
+renverser,pâte,obj,NOUN,0.6609709858894348,[],,
+mettre,laisser,advcl,VERB,0.4107641279697418,"[{""id"": 53740682, ""node1"": 132366, ""node2"": 135779, ""type"": 0, ""w"": 28.0}, {""id"": 53610596, ""node1"": 132366, ""node2"": 135779, ""type"": 5, ""w"": 96.0}]",r_syn,96.0
+lever,heure,obj,NOUN,0.4079417884349823,"[{""id"": 914291323, ""node1"": 51683, ""node2"": 97587, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+cuisson,160,nmod,NUM,0.4372621774673462,[],,
+cuisson,degré,nmod,NOUN,0.5993883609771729,[],,
+cuisson,min,nmod,NOUN,0.46852508187294,[],,

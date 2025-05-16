@@ -1,0 +1,22 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+cuire,pâte,nsubj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+pâte,ingrédient,nmod,NOUN,0.6811284422874451,"[{""id"": 24920568, ""node1"": 34069, ""node2"": 123418, ""type"": 6, ""w"": 17.0}]",r_isa,17.0
+pâte,crème,amod,NOUN,0.6638638377189636,"[{""id"": 975998, ""node1"": 34069, ""node2"": 44001, ""type"": 0, ""w"": 24.0}, {""id"": 96931482, ""node1"": 34069, ""node2"": 44001, ""type"": 50, ""w"": 28.0}]",r_object>mater,28.0
+pâte,oeuf,nmod,NOUN,0.6503333449363708,"[{""id"": 9970565, ""node1"": 34069, ""node2"": 116175, ""type"": 9, ""w"": 10.0}]",r_has_part,10.0
+pâte,étape,nmod,NOUN,0.5984682440757751,[],,
+pâte,aide,nmod,NOUN,0.6024914979934692,[],,
+cuillère,verser,acl,VERB,0.554061770439148,"[{""id"": 662508856, ""node1"": 51905, ""node2"": 104506, ""type"": 0, ""w"": 26.0}, {""id"": 190198, ""node1"": 51905, ""node2"": 104506, ""type"": 25, ""w"": 211.0}]",r_instr-1,211.0
+verser,pâte,obj,NOUN,0.6542285084724426,"[{""id"": 373014722, ""node1"": 104506, ""node2"": 34069, ""type"": 14, ""w"": 36.0}]",r_patient,36.0
+pâte,ébullition,nmod,NOUN,0.6620330214500427,[],,
+sécher,cuve,obj,NOUN,0.5927613377571106,[],,
+dorer,ajout,advcl,NOUN,0.527675449848175,[],,
+matière,gras,amod,ADJ,0.5428515672683716,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+ajouter,doré,advcl,ADJ,0.5194652080535889,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+ajouter,verser,advcl,VERB,0.4542763829231262,"[{""id"": 12346252, ""node1"": 25099, ""node2"": 104506, ""type"": 0, ""w"": 21.0}, {""id"": 12293759, ""node1"": 25099, ""node2"": 104506, ""type"": 5, ""w"": 82.0}]",r_syn,82.0
+mélanger,ajouter,advcl,VERB,0.476481020450592,[],,
+ajouter,œuf,obj,NOUN,0.5268428325653076,[],,
+œuf,battre,acl,VERB,0.5265821218490601,[],,
+aide,cuillère,nmod,NOUN,0.45757657289505,[],,
+cuillère,plat,nmod,NOUN,0.6768530607223511,"[{""id"": 662507898, ""node1"": 51905, ""node2"": 36327, ""type"": 0, ""w"": 44.0}]",r_associated,44.0
+servir,fromage,obj,NOUN,0.6675333976745605,"[{""id"": 388855298, ""node1"": 7888, ""node2"": 141687, ""type"": 0, ""w"": 29.0}, {""id"": 388855297, ""node1"": 7888, ""node2"": 141687, ""type"": 14, ""w"": 100.0}]",r_patient,100.0

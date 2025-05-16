@@ -1,0 +1,20 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,cocktail,nmod,NOUN,0.4204443097114563,[],,
+cocktail,ingrédient,nmod,NOUN,0.5962467789649963,"[{""id"": 98701591, ""node1"": 132548, ""node2"": 123418, ""type"": 0, ""w"": 35.0}]",r_associated,35.0
+cocktail,gingembre,appos,NOUN,0.6122391819953918,"[{""id"": 457292916, ""node1"": 132548, ""node2"": 77020, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+gingembre,confit,amod,ADJ,0.6232601404190063,"[{""id"": 560377899, ""node1"": 77020, ""node2"": 95692, ""type"": 0, ""w"": 35.0}, {""id"": 1982907, ""node1"": 77020, ""node2"": 95692, ""type"": 17, ""w"": 31.0}]",r_associated,35.0
+fraise,liqueur,nmod,NOUN,0.5493321418762207,[],,
+récipient,ail,nmod,NOUN,0.6098045110702515,[],,
+récipient,grand,nsubj,NOUN,0.5309901833534241,[],,
+récipient,pique,nmod,NOUN,0.5603539943695068,[],,
+pique,bois,nmod,NOUN,0.5517823100090027,"[{""id"": 9977225, ""node1"": 146246, ""node2"": 96256, ""type"": 0, ""w"": 27.0}, {""id"": 115564, ""node1"": 146246, ""node2"": 96256, ""type"": 9, ""w"": 54.0}]",r_has_part,54.0
+cocktail,verser,acl,VERB,0.5337688326835632,[],,
+récipient,liqueur,nmod,NOUN,0.6106168031692505,[],,
+jus,boîte,nmod,NOUN,0.5841004252433777,"[{""id"": 606422801, ""node1"": 53310, ""node2"": 7575, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+boîte,boisson,nmod,NOUN,0.5233243703842163,"[{""id"": 417988745, ""node1"": 7575, ""node2"": 113547, ""type"": 0, ""w"": 32.0}, {""id"": 254555212, ""node1"": 7575, ""node2"": 113547, ""type"": 6, ""w"": 28.0}, {""id"": 34671520, ""node1"": 7575, ""node2"": 113547, ""type"": 28, ""w"": 30.0}, {""id"": 3429823, ""node1"": 7575, ""node2"": 113547, ""type"": 777, ""w"": 10.0}]",r_associated,32.0
+verser,servir,advcl,VERB,0.5017194747924805,"[{""id"": 383587, ""node1"": 104506, ""node2"": 7888, ""type"": 0, ""w"": 70.0}, {""id"": 582614, ""node1"": 104506, ""node2"": 7888, ""type"": 5, ""w"": 87.0}]",r_syn,87.0
+verser,bouteille,obj,NOUN,0.5335736870765686,"[{""id"": 560983475, ""node1"": 104506, ""node2"": 117423, ""type"": 0, ""w"": 48.0}, {""id"": 154212, ""node1"": 104506, ""node2"": 117423, ""type"": 16, ""w"": 102.0}, {""id"": 391687, ""node1"": 104506, ""node2"": 117423, ""type"": 31, ""w"": 70.0}]",r_instr,102.0
+bouteille,champagne,nmod,NOUN,0.4822978973388672,"[{""id"": 361164, ""node1"": 117423, ""node2"": 57266, ""type"": 0, ""w"": 116.0}, {""id"": 539966917, ""node1"": 117423, ""node2"": 57266, ""type"": 9, ""w"": -25.0}, {""id"": 9985319, ""node1"": 117423, ""node2"": 57266, ""type"": 10, ""w"": 4.0}, {""id"": 8063320, ""node1"": 117423, ""node2"": 57266, ""type"": 20, ""w"": 14.0}, {""id"": 173219, ""node1"": 117423, ""node2"": 57266, ""type"": 28, ""w"": 389.0}, {""id"": 720818231, ""node1"": 117423, ""node2"": 57266, ""type"": 174, ""w"": 25.0}, {""id"": 646157823, ""node1"": 117423, ""node2"": 57266, ""type"": 666, ""w"": 3.0}]",r_lieu-1,389.0
+soigner,préparation,obj,NOUN,0.4547512531280517,[],,
+pique,petit,amod,ADJ,0.5008566975593567,[],,
+disposer,servir,advcl,VERB,0.4512165486812591,[],,

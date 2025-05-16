@@ -1,0 +1,52 @@
+node1,node2,relations
+titre,gâteau,[]
+gâteau,yaourt,[]
+miel,alsace,[]
+miel,ingrédient,"[{""id"": 85917646, ""node1"": 136055, ""node2"": 123418, ""type"": 6, ""w"": 26.0}, {""id"": 661474354, ""node1"": 136055, ""node2"": 123418, ""type"": 666, ""w"": 2.0}]"
+miel,miel,"[{""id"": 316449, ""node1"": 136055, ""node2"": 136055, ""type"": 19, ""w"": 53.0}, {""id"": 648885468, ""node1"": 136055, ""node2"": 136055, ""type"": 99, ""w"": 32.0}]"
+miel,levure,[]
+levure,sucre,[]
+sucre,farine,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]"
+sucre,yaourt,"[{""id"": 411396, ""node1"": 139481, ""node2"": 82320, ""type"": 0, ""w"": 53.0}]"
+yaourt,sucre,"[{""id"": 561293543, ""node1"": 82320, ""node2"": 139481, ""type"": 0, ""w"": 59.0}, {""id"": 8785309, ""node1"": 82320, ""node2"": 139481, ""type"": 666, ""w"": 33.0}]"
+sucre,vanillé,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]"
+sucre,oeuf,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]"
+titre,confiture,[]
+confiture,fraise,"[{""id"": 138285, ""node1"": 70793, ""node2"": 16242, ""type"": 0, ""w"": 281.0}, {""id"": 1786545, ""node1"": 70793, ""node2"": 16242, ""type"": 666, ""w"": 1.0}]"
+confiture,grille,[]
+grille,pâtisserie,[]
+pâtisserie,moule,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]"
+grille,manquer,[]
+manquer,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,saladier,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]"
+saladier,four,[]
+four,balance,[]
+balance,cuisine,[]
+cuillère,étape,[]
+cuillère,récipient,[]
+confiture,verser,[]
+verser,pot,"[{""id"": 1912818, ""node1"": 104506, ""node2"": 142367, ""type"": 31, ""w"": 60.0}, {""id"": 645787355, ""node1"": 104506, ""node2"": 142367, ""type"": 666, ""w"": 2.0}]"
+pot,yaourt,"[{""id"": 238073, ""node1"": 142367, ""node2"": 82320, ""type"": 0, ""w"": 63.0}, {""id"": 308206346, ""node1"": 142367, ""node2"": 82320, ""type"": 28, ""w"": 2.0}, {""id"": 720818525, ""node1"": 142367, ""node2"": 82320, ""type"": 174, ""w"": 25.0}]"
+pot,vanille,[]
+pot,mesure,"[{""id"": 558853372, ""node1"": 142367, ""node2"": 139340, ""type"": 0, ""w"": 36.0}, {""id"": 96927984, ""node1"": 142367, ""node2"": 139340, ""type"": 6, ""w"": 15.0}]"
+ajouter,farine,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]"
+ajouter,sucre,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]"
+sucre,levure,[]
+mélanger,tout,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]"
+mélange,lisse,[]
+ajouter,miel,[]
+poudre,vanille,[]
+verser,moitié,[]
+moitié,pâte,[]
+ajouter,confiture,[]
+fraise,milieu,[]
+verser,reste,[]
+reste,pâte,[]
+four,180,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,[]
+cuire,min,[]
+décorer,gâteau,"[{""id"": 765196768, ""node1"": 44961, ""node2"": 2149, ""type"": 14, ""w"": 33.0}, {""id"": 376067722, ""node1"": 44961, ""node2"": 2149, ""type"": 31, ""w"": 28.0}]"
+décorer,mettre,[]
+miel,dessus,[]

@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]",r_associated,598.0
+oeuf,oeuf,nmod,NOUN,0.4745641350746155,"[{""id"": 319594, ""node1"": 116175, ""node2"": 116175, ""type"": 19, ""w"": 59.0}, {""id"": 93902125, ""node1"": 116175, ""node2"": 116175, ""type"": 50, ""w"": 28.0}, {""id"": 376040711, ""node1"": 116175, ""node2"": 116175, ""type"": 51, ""w"": 35.0}]",r_lemma,59.0
+oeuf,huile,amod,NOUN,0.6085584163665771,[],,
+oeuf,sel,nmod,NOUN,0.6938258409500122,"[{""id"": 584561369, ""node1"": 116175, ""node2"": 13260, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+lancer,cuisson,obj,NOUN,0.6590927243232727,[],,
+cuisson,pâte,nmod,NOUN,0.7189537286758423,"[{""id"": 915053269, ""node1"": 60056, ""node2"": 34069, ""type"": 0, ""w"": 20.0}, {""id"": 376106703, ""node1"": 60056, ""node2"": 34069, ""type"": 109, ""w"": 29.0}]",r_has_predecesseur-time,29.0
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+couper,partie,obj,NOUN,0.4684898257255554,"[{""id"": 1291231, ""node1"": 128828, ""node2"": 3233, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+revenir,morceau,obj,NOUN,0.5735010504722595,[],,
+morceau,feu,nmod,NOUN,0.5863549709320068,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+assiette,papier,nmod,NOUN,0.6135061383247375,"[{""id"": 2202631, ""node1"": 62735, ""node2"": 103389, ""type"": 50, ""w"": 30.0}]",r_object>mater,30.0
+papier,absorber,acl,VERB,0.4968288838863373,[],,
+déposer,oeuf,obj,NOUN,0.5454134941101074,[],,
+oeuf,entier,amod,ADJ,0.513298749923706,[],,
+obtenir,mélange,obj,NOUN,0.4783641993999481,[],,
+mélange,homogène,amod,ADJ,0.4782799482345581,"[{""id"": 914526136, ""node1"": 14800, ""node2"": 124759, ""type"": 0, ""w"": 21.0}, {""id"": 33170626, ""node1"": 14800, ""node2"": 124759, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+récupérer,cuillère,obj,NOUN,0.5433290600776672,[],,
+cuillère,soupe,acl,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+soupe,gras,nmod,NOUN,0.6661838889122009,[],,
+mettre,cuillère,obj,NOUN,0.5546635389328003,[],,
+cuillère,eau,nmod,NOUN,0.5921421051025391,"[{""id"": 662508617, ""node1"": 51905, ""node2"": 65012, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+eau,cuisson,nmod,NOUN,0.6715990304946899,"[{""id"": 489016047, ""node1"": 65012, ""node2"": 60056, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+obtenir,crème,obj,NOUN,0.5813416838645935,[],,
+crème,homogène,amod,ADJ,0.573154091835022,"[{""id"": 31726402, ""node1"": 44001, ""node2"": 124759, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+déposer,pâte,obj,NOUN,0.6274656057357788,"[{""id"": 97862127, ""node1"": 35714, ""node2"": 34069, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+pâte,cuire,acl,VERB,0.7488689422607422,"[{""id"": 987166482, ""node1"": 34069, ""node2"": 5115, ""type"": 25, ""w"": -25.0}, {""id"": 96931380, ""node1"": 34069, ""node2"": 5115, ""type"": 26, ""w"": 32.0}]",r_patient-1,32.0
+cuire,oeuf,obj,NOUN,0.7018415927886963,"[{""id"": 477428805, ""node1"": 5115, ""node2"": 116175, ""type"": 0, ""w"": 35.0}, {""id"": 206246, ""node1"": 5115, ""node2"": 116175, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+assiette,creux,amod,ADJ,0.5143321752548218,"[{""id"": 9991966, ""node1"": 62735, ""node2"": 53673, ""type"": 0, ""w"": 4.0}, {""id"": 1882219, ""node1"": 62735, ""node2"": 53673, ""type"": 9, ""w"": 90.0}]",r_has_part,90.0

@@ -1,0 +1,30 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+Sauce,salsa,amod,ADJ,0.5234062075614929,"[{""id"": 17476061, ""node1"": 416175, ""node2"": 39025, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+Sauce,mexicain,amod,ADJ,0.4756114780902862,[],,
+ingrédient,poivron,nmod,NOUN,0.6912822127342224,"[{""id"": 24923436, ""node1"": 123418, ""node2"": 38257, ""type"": 0, ""w"": 15.0}, {""id"": 24850722, ""node1"": 123418, ""node2"": 38257, ""type"": 8, ""w"": 34.0}]",r_hypo,34.0
+poivron,rouge,amod,ADJ,0.5854978561401367,"[{""id"": 273173, ""node1"": 38257, ""node2"": 86356, ""type"": 0, ""w"": 151.0}, {""id"": 1944118, ""node1"": 38257, ""node2"": 86356, ""type"": 17, ""w"": 36.0}, {""id"": 3160591, ""node1"": 38257, ""node2"": 86356, ""type"": 106, ""w"": 11.0}]",r_associated,151.0
+piment,petit,amod,ADJ,0.6294569373130798,[],,
+piment,mélange,nmod,NOUN,0.6597400903701782,"[{""id"": 673298321, ""node1"": 128791, ""node2"": 14800, ""type"": 0, ""w"": 25.0}]",r_associated,25.0
+mélange,épice,nmod,NOUN,0.6910523176193237,"[{""id"": 925026230, ""node1"": 14800, ""node2"": 146056, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+piment,four,nmod,NOUN,0.7663955688476562,[],,
+four,saladier,nmod,NOUN,0.6991847157478333,[],,
+four,étape,nmod,NOUN,0.6555838584899902,[],,
+piment,couper,acl,VERB,0.6208150386810303,[],,
+couper,tomate,obj,NOUN,0.6290057301521301,"[{""id"": 628044027, ""node1"": 128828, ""node2"": 22138, ""type"": 0, ""w"": 27.0}, {""id"": 628044026, ""node1"": 128828, ""node2"": 22138, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+ajouter,herbe,obj,NOUN,0.4923520386219024,[],,
+herbe,tomate,nmod,NOUN,0.5728665590286255,[],,
+herbe,jus,nmod,NOUN,0.5976200103759766,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+laver,poivron,nsubj,NOUN,0.6459088921546936,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+soupe,huile,nmod,NOUN,0.676633894443512,"[{""id"": 3346889, ""node1"": 117152, ""node2"": 141971, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+ajouter,poivron,obj,NOUN,0.6378853917121887,[],,
+tomate,jus,nmod,NOUN,0.6210813522338867,"[{""id"": 414999052, ""node1"": 22138, ""node2"": 53310, ""type"": 0, ""w"": 33.0}, {""id"": 651240677, ""node1"": 22138, ""node2"": 53310, ""type"": 666, ""w"": 2.0}]",r_associated,33.0
+ajouter,poivrer,advcl,VERB,0.4842216670513153,[],,
+ajouter,cumin,obj,NOUN,0.5990602970123291,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+revenir,mélanger,advcl,VERB,0.521868884563446,[],,
+mélanger,minute,obj,NOUN,0.5259966850280762,[],,
+laissez,servir,acl,VERB,0.4416404962539673,[],,

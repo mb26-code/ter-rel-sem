@@ -1,0 +1,72 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+coriandre,poivre,amod,NOUN,0.6449258923530579,"[{""id"": 16178724, ""node1"": 61977, ""node2"": 139597, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+poivre,tomate,nmod,NOUN,0.6968331336975098,[],,
+tomate,sel,nmod,NOUN,0.7264893651008606,"[{""id"": 421761153, ""node1"": 22138, ""node2"": 13260, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+mouton,cannelle,amod,ADJ,0.6201775670051575,[],,
+coriandre,mouton,nmod,NOUN,0.5983802676200867,[],,
+coriandre,menthe,acl,VERB,0.5679901242256165,"[{""id"": 561269667, ""node1"": 61977, ""node2"": 97057, ""type"": 0, ""w"": 56.0}]",r_associated,56.0
+blanc,poulet,nmod,NOUN,0.6177458167076111,"[{""id"": 9356626, ""node1"": 15196, ""node2"": 146261, ""type"": 0, ""w"": 50.0}, {""id"": 97329786, ""node1"": 15196, ""node2"": 146261, ""type"": 10, ""w"": 29.0}, {""id"": 1933499, ""node1"": 15196, ""node2"": 146261, ""type"": 35, ""w"": 45.0}, {""id"": 14659361, ""node1"": 15196, ""node2"": 146261, ""type"": 42, ""w"": 29.0}, {""id"": 1663131, ""node1"": 15196, ""node2"": 146261, ""type"": 666, ""w"": 1.0}]",r_associated,50.0
+coriandre,concentrer,acl,VERB,0.5933151841163635,[],,
+concentrer,tomate,nmod,NOUN,0.6202633380889893,[],,
+tomate,pomme,nmod,NOUN,0.6068177223205566,"[{""id"": 417790520, ""node1"": 22138, ""node2"": 37201, ""type"": 0, ""w"": 15.0}]",r_associated,15.0
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,oignon,nmod,NOUN,0.6359393000602722,[],,
+pomme,blanc,amod,ADJ,0.6012546420097351,[],,
+blanc,citron,obj,NOUN,0.5962478518486023,[],,
+marmite,couvercle,nmod,NOUN,0.6582636833190918,"[{""id"": 10530071, ""node1"": 146096, ""node2"": 89523, ""type"": 9, ""w"": 9.0}, {""id"": 1001369524, ""node1"": 146096, ""node2"": 89523, ""type"": 666, ""w"": 3.0}]",r_has_part,9.0
+couvercle,saladier,nmod,NOUN,0.6053080558776855,[],,
+saladier,four,nmod,NOUN,0.6991847157478333,[],,
+four,fourchette,nmod,NOUN,0.6831614375114441,[],,
+couvercle,étape,nmod,NOUN,0.4822983145713806,[],,
+marmite,mettre,acl,VERB,0.6345762610435486,[],,
+mettre,viande,obj,NOUN,0.7075909972190857,[],,
+viande,couper,acl,VERB,0.6744567155838013,"[{""id"": 796696872, ""node1"": 140100, ""node2"": 128828, ""type"": 0, ""w"": 27.0}, {""id"": 2194964, ""node1"": 140100, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+marmite,haut,amod,ADJ,0.5165470242500305,[],,
+ajouter,blanc,obj,NOUN,0.5225849747657776,[],,
+poulet,entier,amod,ADJ,0.5934302806854248,[],,
+réserver,légume,nsubj,NOUN,0.672337532043457,[],,
+légume,couper,acl,VERB,0.6484079957008362,"[{""id"": 900892207, ""node1"": 120603, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 8555448, ""node1"": 120603, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+réserver,pomme,nsubj,NOUN,0.6008633375167847,[],,
+terre,entier,amod,ADJ,0.4936571419239044,[],,
+pomme,pois,appos,NOUN,0.585213840007782,"[{""id"": 899182336, ""node1"": 37201, ""node2"": 97846, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+tomate,morceau,nmod,NOUN,0.6755403876304626,[],,
+oignon,couper,acl,VERB,0.596168577671051,"[{""id"": 900892185, ""node1"": 123307, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 31770901, ""node1"": 123307, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 1767208, ""node1"": 123307, ""node2"": 128828, ""type"": 666, ""w"": 2.0}]",r_patient-1,100.0
+concentré,tomate,nmod,NOUN,0.6039107441902161,[],,
+bouquet,coriandre,nmod,NOUN,0.5620012879371643,"[{""id"": 915278465, ""node1"": 34381, ""node2"": 61977, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+bouquet,couper,acl,VERB,0.4958871304988861,[],,
+ajouter,réserver,advcl,VERB,0.4283937215805053,[],,
+réserver,poignée,obj,NOUN,0.4795850217342376,[],,
+poignée,fin,nmod,NOUN,0.4302857518196106,[],,
+cuillère,café,nmod,NOUN,0.592677116394043,"[{""id"": 163839, ""node1"": 51905, ""node2"": 66324, ""type"": 0, ""w"": 180.0}, {""id"": 11354840, ""node1"": 51905, ""node2"": 66324, ""type"": 15, ""w"": 39.0}, {""id"": 720818158, ""node1"": 51905, ""node2"": 66324, ""type"": 174, ""w"": 25.0}]",r_associated,180.0
+café,sel,nmod,NOUN,0.6909475922584534,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+tout,remuer,acl,VERB,0.5498727560043335,[],,
+eau,mélange,nmod,NOUN,0.5992250442504883,"[{""id"": 1030680823, ""node1"": 65012, ""node2"": 14800, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+mélange,viande,nmod,NOUN,0.7630858421325684,[],,
+mélange,légume,nmod,NOUN,0.6975813508033752,[],,
+devoir,eau,nsubj,NOUN,0.5510714650154114,[],,
+couvrir,préparation,obj,NOUN,0.5172101259231567,[],,
+cuire,quinzaine,obj,NOUN,0.7097996473312378,[],,
+minute,feu,nmod,NOUN,0.5576279163360596,[],,
+attacher,aliment,nsubj,NOUN,0.5509291887283325,[],,
+cuire,attacher,advcl,VERB,0.6647258996963501,"[{""id"": 54695064, ""node1"": 5115, ""node2"": 20537, ""type"": 0, ""w"": 22.0}, {""id"": 54669409, ""node1"": 5115, ""node2"": 20537, ""type"": 5, ""w"": 65.0}]",r_syn,65.0
+fond,marmite,nmod,NOUN,0.604712188243866,[],,
+litre,eau,nmod,NOUN,0.5440258383750916,"[{""id"": 2458362, ""node1"": 57416, ""node2"": 65012, ""type"": 0, ""w"": 84.0}, {""id"": 15759326, ""node1"": 57416, ""node2"": 65012, ""type"": 28, ""w"": 10.0}, {""id"": 720818422, ""node1"": 57416, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 980526881, ""node1"": 57416, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]",r_associated,84.0
+vouloir,soupe,obj,NOUN,0.6348922252655029,[],,
+soupe,léger,amod,ADJ,0.6330909132957458,[],,
+rectifier,sel,obj,NOUN,0.6641338467597961,[],,
+cuire,heure,obj,NOUN,0.6720207929611206,[],,
+cuisson,retirer,acl,VERB,0.6967264413833618,[],,
+retirer,pomme,obj,NOUN,0.5813402533531189,[],,
+cuire,lui,nsubj,PRON,0.6200059056282043,[],,
+retirer,cuire,advcl,VERB,0.6768408417701721,[],,
+cuire,écraser,advcl,VERB,0.6817656755447388,[],,
+aide,fourchette,nmod,NOUN,0.4181736707687378,[],,
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+fin,ajouter,acl,VERB,0.4294197261333465,[],,
+ajouter,servir,advcl,AUX,0.4676842093467712,[],,
+ajouter,poignée,obj,NOUN,0.4663266837596893,[],,
+poignée,coriandre,nmod,NOUN,0.5828182697296143,[],,
+poignée,réserver,acl:relcl,VERB,0.4795850217342376,[],,
+pincée,cannelle,nmod,NOUN,0.5799560546875,"[{""id"": 720818253, ""node1"": 122023, ""node2"": 112959, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+rondelle,citron,nmod,NOUN,0.5871434807777405,"[{""id"": 798896119, ""node1"": 71106, ""node2"": 15386, ""type"": 0, ""w"": 21.0}]",r_associated,21.0

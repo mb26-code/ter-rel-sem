@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+crème,léger,amod,ADJ,0.5962055921554565,"[{""id"": 892764988, ""node1"": 44001, ""node2"": 143256, ""type"": 0, ""w"": 20.0}, {""id"": 384126935, ""node1"": 44001, ""node2"": 143256, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+crème,ingrédient,nmod,NOUN,0.6610228419303894,"[{""id"": 24850723, ""node1"": 44001, ""node2"": 123418, ""type"": 0, ""w"": 30.0}, {""id"": 24842105, ""node1"": 44001, ""node2"": 123418, ""type"": 6, ""w"": 143.0}]",r_isa,143.0
+crème,sucre,nmod,NOUN,0.7060490250587463,"[{""id"": 561269855, ""node1"": 44001, ""node2"": 139481, ""type"": 0, ""w"": 61.0}]",r_associated,61.0
+sucre,canne,nmod,NOUN,0.6069387793540955,"[{""id"": 107598, ""node1"": 139481, ""node2"": 144267, ""type"": 0, ""w"": 241.0}, {""id"": 160436, ""node1"": 139481, ""node2"": 144267, ""type"": 15, ""w"": 78.0}, {""id"": 1763995, ""node1"": 139481, ""node2"": 144267, ""type"": 666, ""w"": 1.0}]",r_associated,241.0
+sucre,lait,nmod,NOUN,0.6437966823577881,[],,
+lait,farine,nmod,NOUN,0.655971109867096,[],,
+farine,citron,nmod,NOUN,0.7322272658348083,"[{""id"": 423997449, ""node1"": 127629, ""node2"": 15386, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,casserole,nmod,NOUN,0.6258264183998108,"[{""id"": 662507901, ""node1"": 51905, ""node2"": 57253, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+casserole,chinois,obj,ADJ,0.5875259041786194,[],,
+chinois,balance,nmod,NOUN,0.449154645204544,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,réfrigérateur,nmod,NOUN,0.5236407518386841,[],,
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[],,
+mélanger,lait,nsubj,NOUN,0.6098827719688416,"[{""id"": 373014663, ""node1"": 37151, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+purée,amande,nmod,NOUN,0.636048436164856,[],,
+ajouter,zeste,obj,NOUN,0.4997840821743011,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+mettre,diluer,advcl,VERB,0.4393565654754638,[],,
+quantité,petit,amod,ADJ,0.56585693359375,"[{""id"": 892024045, ""node1"": 78869, ""node2"": 55222, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+quantité,lait,nmod,NOUN,0.6041502356529236,[],,
+lait,riz,nmod,NOUN,0.6671203374862671,"[{""id"": 796934421, ""node1"": 86296, ""node2"": 24372, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+mélanger,laisser,advcl,VERB,0.4746390283107757,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+passer,crème,obj,NOUN,0.618983268737793,[],,
+crème,chinois,nmod,NOUN,0.6093927025794983,[],,
+pot,petit,amod,ADJ,0.5189867615699768,"[{""id"": 247112, ""node1"": 142367, ""node2"": 55222, ""type"": 17, ""w"": 57.0}]",r_carac,57.0
+moment,servir,acl,VERB,0.4804177582263946,[],,

@@ -1,0 +1,32 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+pépite,chocolat,nmod,NOUN,0.5406539440155029,"[{""id"": 365455, ""node1"": 25082, ""node2"": 34157, ""type"": 0, ""w"": 152.0}, {""id"": 376056261, ""node1"": 25082, ""node2"": 34157, ""type"": 50, ""w"": 35.0}, {""id"": 930408960, ""node1"": 25082, ""node2"": 34157, ""type"": 666, ""w"": 2.0}]",r_associated,152.0
+ingrédient,levure,nmod,NOUN,0.6170762777328491,[],,
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+levure,chocolat,nmod,NOUN,0.6238788962364197,[],,
+levure,sucre,nmod,NOUN,0.6511401534080505,[],,
+sucre,beurre,nmod,NOUN,0.6973879933357239,[],,
+beurre,doux,amod,ADJ,0.5886080861091614,"[{""id"": 1632570, ""node1"": 140377, ""node2"": 74183, ""type"": 0, ""w"": 111.0}, {""id"": 211606, ""node1"": 140377, ""node2"": 74183, ""type"": 17, ""w"": 80.0}, {""id"": 652229002, ""node1"": 140377, ""node2"": 74183, ""type"": 666, ""w"": 2.0}]",r_associated,111.0
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+oeuf,sucre,amod,NOUN,0.6437758803367615,"[{""id"": 76133259, ""node1"": 116175, ""node2"": 139481, ""type"": 50, ""w"": 26.0}]",r_object>mater,26.0
+sucre,vanillé,amod,ADJ,0.6220211982727051,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]",r_associated,13.0
+sucre,grille,nmod,NOUN,0.7015109062194824,[],,
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+pâtisserie,saladier,nmod,NOUN,0.647153377532959,[],,
+pâtisserie,four,nmod,NOUN,0.6954796314239502,"[{""id"": 942271912, ""node1"": 25966, ""node2"": 9190, ""type"": 0, ""w"": 24.0}, {""id"": 15790548, ""node1"": 25966, ""node2"": 9190, ""type"": 15, ""w"": 58.0}, {""id"": 1789859, ""node1"": 25966, ""node2"": 9190, ""type"": 666, ""w"": 1.0}]",r_lieu,58.0
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+table,induction,amod,NOUN,0.5181390047073364,[],,
+beurre,température,nmod,NOUN,0.6967477798461914,"[{""id"": 652227824, ""node1"": 140377, ""node2"": 40531, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+saladier,sucre,nmod,NOUN,0.6957500576972961,[],,
+Ajoutez,oeuf,obj,NOUN,0.4984776973724365,[],,
+verser,levure,obj,NOUN,0.5941070318222046,[],,
+plaque,aller,acl,VERB,0.4935675859451294,[],,
+aide,cuillère,nmod,NOUN,0.45757657289505,[],,
+aide,soupe,nmod,NOUN,0.5705024003982544,[],,
+former,noix,obj,NOUN,0.5633211731910706,[],,
+noix,pâte,nmod,NOUN,0.6763495802879333,[],,
+grossir,cookie,nsubj,NOUN,0.434530645608902,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+cuire,degré,obj,NOUN,0.6603871583938599,[],,
+cuire,c,obj,NOUN,0.4126093685626983,[],,
+sortir,cookie,obj,NOUN,0.4565933644771576,[],,

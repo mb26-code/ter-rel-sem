@@ -1,0 +1,34 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+boeuf,ingrédient,nmod,NOUN,0.6519651412963867,"[{""id"": 24929879, ""node1"": 47417, ""node2"": 123418, ""type"": 6, ""w"": 2.0}]",r_isa,2.0
+boeuf,beurre,appos,NOUN,0.6866825819015503,[],,
+galette,blé,nmod,NOUN,0.5785544514656067,"[{""id"": 12254891, ""node1"": 28590, ""node2"": 32071, ""type"": 0, ""w"": 55.0}, {""id"": 682256, ""node1"": 28590, ""node2"": 32071, ""type"": 5, ""w"": 88.0}]",r_syn,88.0
+blé,complet,amod,ADJ,0.5201551914215088,"[{""id"": 362056, ""node1"": 32071, ""node2"": 42645, ""type"": 0, ""w"": 60.0}, {""id"": 14803170, ""node1"": 32071, ""node2"": 42645, ""type"": 17, ""w"": 21.0}]",r_associated,60.0
+pousse,boeuf,obj,NOUN,0.5718683004379272,[],,
+boeuf,sel,nmod,NOUN,0.7255796790122986,[],,
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,huile,amod,NOUN,0.6777899265289307,"[{""id"": 917898979, ""node1"": 139597, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+boeuf,balance,nmod,NOUN,0.5839979648590088,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+boeuf,étape,nmod,NOUN,0.5655398964881897,[],,
+boeuf,fondre,acl,VERB,0.6399288177490234,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+égoutter,réduit,advcl,ADJ,0.4718331694602966,[],,
+dorer,viande,obj,NOUN,0.6803589463233948,"[{""id"": 560944937, ""node1"": 67147, ""node2"": 140100, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+olive,chaud,amod,ADJ,0.6449189782142639,[],,
+ajouter,ail,obj,NOUN,0.5651978254318237,[],,
+ajouter,viande,obj,NOUN,0.7162638902664185,[],,
+couper,galette,obj,NOUN,0.5818346738815308,[],,
+couche,fin,amod,ADJ,0.4426682293415069,[],,
+ajouter,couche,obj,NOUN,0.4657270014286041,[],,
+couche,intérieur,nmod,NOUN,0.4606777131557464,[],,
+intérieur,galette,nmod,NOUN,0.5840761661529541,[],,
+cuillère,bon,amod,ADJ,0.5300194621086121,[],,
+mettre,cuillère,obj,NOUN,0.5546635389328003,[],,
+cuillère,garniture,nmod,NOUN,0.6467937231063843,"[{""id"": 662513347, ""node1"": 51905, ""node2"": 57803, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+mettre,ajouter,advcl,VERB,0.4179443120956421,"[{""id"": 930338, ""node1"": 132366, ""node2"": 25099, ""type"": 0, ""w"": 33.0}, {""id"": 432805151, ""node1"": 132366, ""node2"": 25099, ""type"": 5, ""w"": 31.0}, {""id"": 9094398, ""node1"": 132366, ""node2"": 25099, ""type"": 35, ""w"": 30.0}, {""id"": 1008795590, ""node1"": 132366, ""node2"": 25099, ""type"": 666, ""w"": 3.0}]",r_associated,33.0
+ajouter,piment,obj,NOUN,0.6054633259773254,[],,
+faire,reste,nmod,NOUN,0.4882531464099884,"[{""id"": 914390183, ""node1"": 87528, ""node2"": 21110, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+reste,ingrédient,nmod,NOUN,0.5645049810409546,[],,
+plaque,plat,amod,ADJ,0.6383342742919922,[],,
+passer,dorer,advcl,VERB,0.5108783841133118,[],,

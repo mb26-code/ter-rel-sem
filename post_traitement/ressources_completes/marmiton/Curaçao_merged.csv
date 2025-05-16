@@ -1,0 +1,20 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+Curaçao,ingrédient,nmod,NOUN,0.4526801109313965,[],,
+titre,écorce,nmod,NOUN,0.4581139683723449,[],,
+écorce,orange,nmod,NOUN,0.4731665253639221,"[{""id"": 938828860, ""node1"": 44427, ""node2"": 145382, ""type"": 10, ""w"": 25.0}, {""id"": 2213174, ""node1"": 44427, ""node2"": 145382, ""type"": 15, ""w"": 98.0}]",r_lieu,98.0
+titre,sucre,nmod,NOUN,0.6168144345283508,[],,
+sucre,alcool,nmod,NOUN,0.6231129765510559,"[{""id"": 8792327, ""node1"": 139481, ""node2"": 47597, ""type"": 0, ""w"": 5.0}]",r_associated,5.0
+sucre,degré,nmod,NOUN,0.5845609307289124,[],,
+degré,eau,appos,NOUN,0.5365684628486633,[],,
+eau,orange,nmod,NOUN,0.5644487142562866,"[{""id"": 910027595, ""node1"": 65012, ""node2"": 145382, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+orange,amer,amod,ADJ,0.4682360887527466,"[{""id"": 799190717, ""node1"": 145382, ""node2"": 97910, ""type"": 0, ""w"": 30.0}, {""id"": 97410380, ""node1"": 145382, ""node2"": 97910, ""type"": 17, ""w"": 7.0}]",r_associated,30.0
+écorce,semaine,nmod,NOUN,0.4876018762588501,[],,
+écorce,sécher,acl,VERB,0.5353849530220032,"[{""id"": 422717558, ""node1"": 44427, ""node2"": 56038, ""type"": 0, ""w"": 2.0}]",r_associated,2.0
+bocal,mettre,acl,VERB,0.5748764276504517,"[{""id"": 1041504390, ""node1"": 109384, ""node2"": 132366, ""type"": 30, ""w"": 51.0}]",r_lieu_action,51.0
+mettre,zeste,obj,NOUN,0.5243849158287048,[],,
+zeste,orange,nmod,NOUN,0.4928069710731506,"[{""id"": 615058526, ""node1"": 98173, ""node2"": 145382, ""type"": 0, ""w"": 22.0}, {""id"": 1043938102, ""node1"": 98173, ""node2"": 145382, ""type"": 10, ""w"": 19.0}, {""id"": 986046178, ""node1"": 98173, ""node2"": 145382, ""type"": 666, ""w"": 2.0}, {""id"": 113257228, ""node1"": 98173, ""node2"": 145382, ""type"": 777, ""w"": 10.0}]",r_associated,22.0
+verser,sirop,obj,NOUN,0.6112198829650879,[],,
+sirop,faire,acl,VERB,0.6552510261535645,[],,
+ajouter,alcool,obj,NOUN,0.5239517092704773,[],,
+fermer,bocal,obj,NOUN,0.5037422180175781,"[{""id"": 920588339, ""node1"": 24346, ""node2"": 109384, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+caramel,blond,amod,ADJ,0.5102423429489136,[],,

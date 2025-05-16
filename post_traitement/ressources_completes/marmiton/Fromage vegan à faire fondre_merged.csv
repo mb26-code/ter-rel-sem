@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,fromage,appos,NOUN,0.5511913299560547,[],,
+fromage,vegan,amod,ADJ,0.5487410426139832,[],,
+fromage,fondre,acl,VERB,0.6491246819496155,"[{""id"": 799248818, ""node1"": 141687, ""node2"": 16480, ""type"": 0, ""w"": 26.0}, {""id"": 24806795, ""node1"": 141687, ""node2"": 16480, ""type"": 24, ""w"": 47.0}]",r_agent-1,47.0
+fondre,ingrédient,obj,NOUN,0.628924548625946,[],,
+fondre,curcuma,obj,NOUN,0.6685454845428467,[],,
+curcuma,levure,nmod,NOUN,0.6229768991470337,[],,
+levure,pomme,nmod,NOUN,0.6332990527153015,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+fondre,lait,obj,NOUN,0.6172964572906494,[],,
+lait,eau,nmod,NOUN,0.6201539039611816,"[{""id"": 423451320, ""node1"": 86296, ""node2"": 65012, ""type"": 0, ""w"": 57.0}, {""id"": 386065416, ""node1"": 86296, ""node2"": 65012, ""type"": 6, ""w"": -25.0}, {""id"": 123522, ""node1"": 86296, ""node2"": 65012, ""type"": 9, ""w"": 170.0}, {""id"": 1745868, ""node1"": 86296, ""node2"": 65012, ""type"": 50, ""w"": 32.0}, {""id"": 97056207, ""node1"": 86296, ""node2"": 65012, ""type"": 78, ""w"": 30.0}, {""id"": 3262481, ""node1"": 86296, ""node2"": 65012, ""type"": 777, ""w"": 5.0}]",r_has_part,170.0
+eau,huile,acl,NOUN,0.5881909728050232,"[{""id"": 922137128, ""node1"": 65012, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+eau,paprika,acl,NOUN,0.6444197297096252,[],,
+casserole,mixeur,nmod,NOUN,0.61752849817276,[],,
+mixeur,réfrigérateur,nmod,NOUN,0.557101309299469,[],,
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[],,
+couper,pomme,obj,NOUN,0.5794677734375,"[{""id"": 31836584, ""node1"": 128828, ""node2"": 37201, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+pomme,morceau,nmod,NOUN,0.6182215809822083,[],,
+cuire,le,obj,PRON,0.4500194191932678,[],,
+égoutter,fois,nsubj,NOUN,0.4700702428817749,[],,
+fois,bouillie,amod,NOUN,0.4975979626178741,[],,
+égoutter,pomme,obj,NOUN,0.6165924668312073,[],,
+ajouter,lait,obj,NOUN,0.5957752466201782,"[{""id"": 373014760, ""node1"": 25099, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+lait,avoine,nmod,NOUN,0.5755394697189331,"[{""id"": 423451289, ""node1"": 86296, ""node2"": 75805, ""type"": 0, ""w"": 23.0}, {""id"": 3262443, ""node1"": 86296, ""node2"": 75805, ""type"": 777, ""w"": 5.0}]",r_associated,23.0
+ajouter,huile,obj,NOUN,0.5838896036148071,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+huile,sauce,nmod,NOUN,0.7108393907546997,"[{""id"": 415357, ""node1"": 141971, ""node2"": 141110, ""type"": 0, ""w"": 56.0}, {""id"": 97415117, ""node1"": 141971, ""node2"": 141110, ""type"": 10, ""w"": 28.0}, {""id"": 391689373, ""node1"": 141971, ""node2"": 141110, ""type"": 51, ""w"": 15.0}]",r_associated,56.0
+devenir,mélange,nsubj,NOUN,0.515579104423523,[],,
+ajouter,épice,obj,NOUN,0.6555647850036621,[],,
+ajouter,sel,obj,NOUN,0.6747812032699585,"[{""id"": 914306223, ""node1"": 25099, ""node2"": 13260, ""type"": 0, ""w"": 20.0}, {""id"": 220261, ""node1"": 25099, ""node2"": 13260, ""type"": 14, ""w"": 70.0}]",r_patient,70.0
+obtention,pâte,nmod,NOUN,0.613581120967865,[],,
+pâte,fluide,amod,ADJ,0.6126993894577026,[],,
+verser,mélange,obj,NOUN,0.5440542697906494,[],,
+terrine,petit,amod,ADJ,0.6470614075660706,[],,
+peu,huile,nmod,NOUN,0.5692240595817566,[],,
+devoir,préparation,nsubj,NOUN,0.4247410297393799,[],,
+prêt,fromage,nsubj,NOUN,0.5764851570129395,[],,
+semaine,réfrigérateur,nmod,NOUN,0.4868111312389374,[],,

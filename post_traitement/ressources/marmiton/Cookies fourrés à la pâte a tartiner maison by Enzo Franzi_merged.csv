@@ -1,0 +1,74 @@
+head,lemma,dep,pos,sim,relation
+tartiner,maison,obj,NOUN,0.5558851957321167,[]
+tartiner,ingrédient,obj,NOUN,0.5958981513977051,[]
+tartiner,sel,obj,NOUN,0.6882389783859253,[]
+sel,levure,nmod,NOUN,0.6924784183502197,[]
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]"
+levure,chocolat,nmod,NOUN,0.6238788962364197,[]
+levure,noir,amod,ADJ,0.5843201279640198,[]
+tartiner,poudre,obj,NOUN,0.5814909934997559,[]
+poudre,oeuf,nmod,NOUN,0.588036835193634,[]
+oeuf,chocolat,nmod,NOUN,0.5730186104774475,"[{""id"": 796685682, ""node1"": 116175, ""node2"": 34157, ""type"": 0, ""w"": 31.0}, {""id"": 472413823, ""node1"": 116175, ""node2"": 34157, ""type"": 50, ""w"": 23.0}]"
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]"
+lait,sucre,nmod,NOUN,0.6437966823577881,[]
+sucre,chocolat,nmod,NOUN,0.6538985371589661,"[{""id"": 104775, ""node1"": 139481, ""node2"": 34157, ""type"": 0, ""w"": 209.0}, {""id"": 106441, ""node1"": 139481, ""node2"": 34157, ""type"": 6, ""w"": -99.0}, {""id"": 9984686, ""node1"": 139481, ""node2"": 34157, ""type"": 10, ""w"": 4.0}, {""id"": 153629, ""node1"": 139481, ""node2"": 34157, ""type"": 15, ""w"": 78.0}, {""id"": 376048866, ""node1"": 139481, ""node2"": 34157, ""type"": 51, ""w"": 28.0}, {""id"": 646152036, ""node1"": 139481, ""node2"": 34157, ""type"": 666, ""w"": 6.0}]"
+sucre,noir,amod,ADJ,0.6131501197814941,"[{""id"": 97360808, ""node1"": 139481, ""node2"": 64238, ""type"": 106, ""w"": 15.0}]"
+crème,liquide,amod,ADJ,0.6173139810562134,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]"
+lait,congélateur,appos,NOUN,0.6035661697387695,[]
+congélateur,four,nmod,NOUN,0.6596304178237915,[]
+four,mixeur,nmod,NOUN,0.6762216091156006,[]
+mixeur,balance,nmod,NOUN,0.5409628748893738,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+tartiner,table,obj,NOUN,0.5640748739242554,"[{""id"": 1915554, ""node1"": 131654, ""node2"": 89591, ""type"": 31, ""w"": 55.0}]"
+table,induction,amod,NOUN,0.5181390047073364,[]
+mettre,noisette,obj,NOUN,0.5846817493438721,[]
+four,160,nmod,NUM,0.4906061589717865,[]
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,nmod,NOUN,0.4225132167339325,[]
+gramme,noisette,nmod,NOUN,0.5228524804115295,[]
+obtention,pâte,nmod,NOUN,0.613581120967865,[]
+pâte,ajouter,acl,VERB,0.6482475399971008,[]
+ajouter,chocolat,obj,NOUN,0.6055095791816711,[]
+bouillir,crème,obj,NOUN,0.6968050599098206,"[{""id"": 352516456, ""node1"": 42401, ""node2"": 44001, ""type"": 31, ""w"": 38.0}]"
+verser,crème,obj,NOUN,0.6168469786643982,[]
+crème,chocolat,nmod,NOUN,0.6359425187110901,"[{""id"": 920607472, ""node1"": 44001, ""node2"": 34157, ""type"": 0, ""w"": 23.0}, {""id"": 987926577, ""node1"": 44001, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]"
+tout,mixer,advcl,VERB,0.5551751852035522,[]
+moule,silicone,nmod,NOUN,0.5047308802604675,"[{""id"": 99104506, ""node1"": 143723, ""node2"": 132543, ""type"": 50, ""w"": 28.0}, {""id"": 770339472, ""node1"": 143723, ""node2"": 132543, ""type"": 666, ""w"": 3.0}]"
+silicone,rond,amod,ADJ,0.4808992147445678,[]
+chocolat,cookie,nmod,NOUN,0.4907369613647461,"[{""id"": 561175448, ""node1"": 34157, ""node2"": 162248, ""type"": 0, ""w"": 31.0}, {""id"": 13008292, ""node1"": 34157, ""node2"": 162248, ""type"": 51, ""w"": 61.0}]"
+mélanger,sucre,obj,NOUN,0.6743173599243164,[]
+mélanger,poudre,obj,NOUN,0.6086491346359253,[]
+poudre,noisette,nmod,NOUN,0.595925509929657,[]
+poudre,pommade,nmod,NOUN,0.5236135721206665,[]
+tartiner,obtenir,advcl,VERB,0.4660971164703369,[]
+obtenir,mélange,obj,NOUN,0.4783641993999481,[]
+mélange,homogène,amod,ADJ,0.4782799482345581,"[{""id"": 914526136, ""node1"": 14800, ""node2"": 124759, ""type"": 0, ""w"": 21.0}, {""id"": 33170626, ""node1"": 14800, ""node2"": 124759, ""type"": 17, ""w"": 27.0}]"
+ajouter,oeuf,obj,NOUN,0.5327831506729126,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]"
+oeuf,ajouter,acl,VERB,0.5327831506729126,"[{""id"": 373070045, ""node1"": 116175, ""node2"": 25099, ""type"": 26, ""w"": 30.0}]"
+ajouter,farine,obj,NOUN,0.6640971302986145,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]"
+obtenir,levure,obj,NOUN,0.5410547256469727,[]
+ajouter,mélange,obj,NOUN,0.5318974852561951,[]
+mélange,précédent,amod,ADJ,0.4784136712551117,[]
+mélange,diviser,acl,VERB,0.4900339245796203,"[{""id"": 920534401, ""node1"": 14800, ""node2"": 19675, ""type"": 0, ""w"": 20.0}]"
+diviser,pâte,obj,NOUN,0.6143579483032227,[]
+cookie,boule,nmod,NOUN,0.4945921301841736,[]
+boule,gramme,nmod,NOUN,0.5084518790245056,[]
+tartiner,insert,nsubj,NOUN,0.5045419335365295,[]
+insert,pâte,nmod,NOUN,0.6430249810218811,[]
+placer,insert,obj,NOUN,0.4523885846138,[]
+milieu,cookie,nmod,NOUN,0.4508847296237945,[]
+enfermer,cookie,nsubj,NOUN,0.4102166593074798,[]
+cookie,manière,nmod,NOUN,0.4353641271591186,[]
+enfermer,insert,obj,NOUN,0.4058555960655212,[]
+tartiner,avoir,obj,AUX,0.4380648732185364,[]
+intérieur,cookie,nmod,NOUN,0.424248993396759,[]
+cookie,disposer,acl,VERB,0.4257373809814453,[]
+disposer,cookie,obj,NOUN,0.4257373809814453,[]
+feuille,cuisson,nmod,NOUN,0.6970224976539612,[]
+cuire,cookie,obj,NOUN,0.6765335202217102,[]
+refroidir,minute,obj,NOUN,0.509716272354126,[]
+décorer,point,obj,NOUN,0.4875249862670898,[]
+point,pâte,nmod,NOUN,0.6550695896148682,[]
+refroidir,tartiner,advcl,VERB,0.5444081425666809,[]
+éclat,noisette,nmod,NOUN,0.4713670015335083,[]
+déguster,que,obj,PRON,0.4884986579418182,[]

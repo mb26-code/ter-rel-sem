@@ -1,0 +1,26 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+Boisson,ingrédient,nmod,NOUN,0.5091779828071594,[],,
+Boisson,gingembre,nmod,NOUN,0.4990539848804474,[],,
+gingembre,fraise,nmod,NOUN,0.6031490564346313,[],,
+Boisson,jus,nmod,NOUN,0.5537521839141846,"[{""id"": 646620651, ""node1"": 10051123, ""node2"": 53310, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+jus,sirop,nmod,NOUN,0.5982855558395386,"[{""id"": 29328486, ""node1"": 53310, ""node2"": 91109, ""type"": 0, ""w"": 21.0}, {""id"": 54735672, ""node1"": 53310, ""node2"": 91109, ""type"": 5, ""w"": 75.0}, {""id"": 9985762, ""node1"": 53310, ""node2"": 91109, ""type"": 10, ""w"": 26.0}]",r_syn,75.0
+sirop,fraise,nmod,NOUN,0.6061238646507263,"[{""id"": 214380, ""node1"": 91109, ""node2"": 16242, ""type"": 0, ""w"": 417.0}, {""id"": 2404430, ""node1"": 91109, ""node2"": 16242, ""type"": 8, ""w"": 112.0}]",r_associated,417.0
+verre,grand,amod,ADJ,0.5217540860176086,"[{""id"": 1021921339, ""node1"": 144497, ""node2"": 23178, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+titre,verre,nmod,NOUN,0.4896469414234161,[],,
+titre,verser,acl,VERB,0.4395780265331268,[],,
+verser,jus,obj,NOUN,0.5870975852012634,"[{""id"": 560983474, ""node1"": 104506, ""node2"": 53310, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+jus,fruit,nmod,NOUN,0.5496760606765747,"[{""id"": 237500, ""node1"": 53310, ""node2"": 87286, ""type"": 0, ""w"": 208.0}, {""id"": 210856, ""node1"": 53310, ""node2"": 87286, ""type"": 9, ""w"": -60.0}, {""id"": 1965659, ""node1"": 53310, ""node2"": 87286, ""type"": 10, ""w"": 63.0}, {""id"": 1051892064, ""node1"": 53310, ""node2"": 87286, ""type"": 13, ""w"": 17.0}, {""id"": 24414181, ""node1"": 53310, ""node2"": 87286, ""type"": 35, ""w"": 48.0}, {""id"": 1771770, ""node1"": 53310, ""node2"": 87286, ""type"": 666, ""w"": 4.0}]",r_associated,208.0
+jus,tiers,nmod,NOUN,0.5513763427734375,[],,
+ajouter,fraise,obj,NOUN,0.5565369129180908,[],,
+fraise,couper,acl,VERB,0.5462130904197693,"[{""id"": 97124044, ""node1"": 16242, ""node2"": 128828, ""type"": 0, ""w"": 19.0}]",r_associated,19.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+avoir,gingembre,nsubj,NOUN,0.5137041211128235,[],,
+flotte,cela,nsubj,PRON,0.4580296874046325,[],,
+marier,flotte,nsubj,NOUN,0.4403621256351471,[],,
+marier,cela,nsubj,PRON,0.4553463757038116,[],,
+donner,goût,obj,NOUN,0.5248583555221558,"[{""id"": 1295451, ""node1"": 12941, ""node2"": 119233, ""type"": 0, ""w"": 30.0}, {""id"": 374011510, ""node1"": 12941, ""node2"": 119233, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+boisson,tout,amod,ADJ,0.5999244451522827,[],,
+être,piquant,obj,ADJ,0.4480350315570831,[],,
+finir,servir,advcl,VERB,0.454497367143631,[],,
+verser,cuillère,obj,NOUN,0.554061770439148,"[{""id"": 922009833, ""node1"": 104506, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 154215, ""node1"": 104506, ""node2"": 51905, ""type"": 16, ""w"": 60.0}]",r_instr,60.0
+soupe,sirop,nmod,NOUN,0.7051871418952942,[],,

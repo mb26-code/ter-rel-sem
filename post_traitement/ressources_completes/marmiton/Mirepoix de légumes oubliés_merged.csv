@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+légume,oublier,acl,VERB,0.6574647426605225,[],,
+sel,poivre,acl,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,gingembre,nmod,NOUN,0.6446689367294312,"[{""id"": 584573850, ""node1"": 139597, ""node2"": 77020, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+gingembre,cumin,nmod,NOUN,0.5951982736587524,"[{""id"": 3573445, ""node1"": 77020, ""node2"": 14650, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+basilic,bouillon,nmod,NOUN,0.6747969388961792,[],,
+bouillon,volaille,nmod,NOUN,0.6946349143981934,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+bouillon,huile,amod,NOUN,0.6829477548599243,"[{""id"": 558647559, ""node1"": 146582, ""node2"": 141971, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+légume,tout,amod,ADJ,0.6585912108421326,[],,
+cube,petit,amod,ADJ,0.5087730884552002,[],,
+légume,cube,nmod,NOUN,0.5993987321853638,"[{""id"": 799190729, ""node1"": 120603, ""node2"": 6041, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+chauffer,huile,obj,NOUN,0.64256751537323,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+huile,cocotte,nmod,NOUN,0.6633777022361755,[],,
+jeter,légume,obj,NOUN,0.6334641575813293,"[{""id"": 97862828, ""node1"": 48625, ""node2"": 120603, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+ajouter,bouillon,obj,NOUN,0.597090482711792,[],,
+pincée,cumin,nmod,NOUN,0.5961270928382874,"[{""id"": 720818650, ""node1"": 122023, ""node2"": 14650, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+dorer,pincée,obj,NOUN,0.5899611711502075,[],,
+pincée,gingembre,nmod,NOUN,0.5802542567253113,[],,
+pincée,poivre,nmod,NOUN,0.6038779020309448,"[{""id"": 720818749, ""node1"": 122023, ""node2"": 139597, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+laisser,mijoter,obj,VERB,0.5789923667907715,[],,
+aimer,légume,obj,NOUN,0.5885762572288513,[],,
+légume,fondant,amod,ADJ,0.6849730610847473,[],,
+temps,cuisson,nmod,NOUN,0.6630411744117737,[],,
+préférer,légume,obj,NOUN,0.6352073550224304,[],,
+légume,ferme,amod,ADJ,0.6122152805328369,"[{""id"": 166447, ""node1"": 120603, ""node2"": 29786, ""type"": 15, ""w"": 78.0}, {""id"": 775214896, ""node1"": 120603, ""node2"": 29786, ""type"": 54, ""w"": 25.0}]",r_lieu,78.0
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+rectifier,assaisonnement,obj,NOUN,0.5303710103034973,"[{""id"": 15080476, ""node1"": 36001, ""node2"": 15763, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+assaisonnement,sel,nmod,NOUN,0.6856924891471863,"[{""id"": 1883231, ""node1"": 15763, ""node2"": 13260, ""type"": 0, ""w"": 63.0}, {""id"": 657816, ""node1"": 15763, ""node2"": 13260, ""type"": 5, ""w"": 91.0}, {""id"": 749699867, ""node1"": 15763, ""node2"": 13260, ""type"": 666, ""w"": 4.0}]",r_syn,91.0

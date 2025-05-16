@@ -1,0 +1,32 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,farine,appos,NOUN,0.7189153432846069,"[{""id"": 561306446, ""node1"": 123418, ""node2"": 127629, ""type"": 0, ""w"": 39.0}, {""id"": 243153377, ""node1"": 123418, ""node2"": 127629, ""type"": 8, ""w"": 42.0}]",r_hypo,42.0
+olive,pomme,nmod,NOUN,0.637131929397583,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+cocotte,couvercle,nmod,NOUN,0.6516067981719971,"[{""id"": 98313573, ""node1"": 120952, ""node2"": 89523, ""type"": 0, ""w"": 28.0}, {""id"": 98283180, ""node1"": 120952, ""node2"": 89523, ""type"": 9, ""w"": 30.0}]",r_has_part,30.0
+couvercle,fouet,nmod,NOUN,0.5502117872238159,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 307.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 267.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,307.0
+fouet,pinceau,appos,NOUN,0.4720708131790161,[],,
+pinceau,cuillère,nmod,NOUN,0.5075318813323975,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,set,nmod,NOUN,0.4149639010429382,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+mettre,viande,obj,NOUN,0.7075909972190857,[],,
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+soupe,farine,nmod,NOUN,0.7270740270614624,[],,
+dorer,faire,amod,AUX,0.5337317585945129,[],,
+dorer,viande,obj,NOUN,0.6803589463233948,"[{""id"": 560944937, ""node1"": 67147, ""node2"": 140100, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+verre,eau,nmod,NOUN,0.5749212503433228,"[{""id"": 70610, ""node1"": 144497, ""node2"": 65012, ""type"": 0, ""w"": 314.0}, {""id"": 31129047, ""node1"": 144497, ""node2"": 65012, ""type"": 3, ""w"": 35.0}, {""id"": 10528262, ""node1"": 144497, ""node2"": 65012, ""type"": 9, ""w"": 9.0}, {""id"": 393483, ""node1"": 144497, ""node2"": 65012, ""type"": 28, ""w"": 194.0}, {""id"": 720818421, ""node1"": 144497, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 1523981, ""node1"": 144497, ""node2"": 65012, ""type"": 666, ""w"": 5.0}]",r_associated,314.0
+eau,chaud,amod,ADJ,0.6026924252510071,"[{""id"": 915041142, ""node1"": 65012, ""node2"": 19150, ""type"": 0, ""w"": 20.0}, {""id"": 432164, ""node1"": 65012, ""node2"": 19150, ""type"": 17, ""w"": 131.0}]",r_carac,131.0
+cuit,viande,nsubj,NOUN,0.7822919487953186,"[{""id"": 2046971, ""node1"": 28105, ""node2"": 140100, ""type"": 23, ""w"": 60.0}]",r_carac-1,60.0
+dorer,carotte,obj,NOUN,0.6173895597457886,[],,
+cocotte,cuire,acl:relcl,VERB,0.74668288230896,"[{""id"": 98283192, ""node1"": 120952, ""node2"": 5115, ""type"": 0, ""w"": 42.0}, {""id"": 380394707, ""node1"": 120952, ""node2"": 5115, ""type"": 30, ""w"": 32.0}]",r_associated,42.0
+cuire,viande,nsubj,NOUN,0.8064185976982117,"[{""id"": 2182411, ""node1"": 5115, ""node2"": 140100, ""type"": 0, ""w"": 73.0}, {""id"": 148035, ""node1"": 5115, ""node2"": 140100, ""type"": 13, ""w"": 100.0}, {""id"": 206249, ""node1"": 5115, ""node2"": 140100, ""type"": 14, ""w"": 100.0}, {""id"": 722712577, ""node1"": 5115, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]",r_agent,100.0
+incorporer,champignon,obj,NOUN,0.5941410660743713,[],,
+olive,jus,nmod,NOUN,0.6285555958747864,[],,
+rajouter,pomme,obj,NOUN,0.6057202816009521,[],,
+pomme,couper,acl,VERB,0.5794677734375,"[{""id"": 31839899, ""node1"": 37201, ""node2"": 128828, ""type"": 26, ""w"": 64.0}]",r_patient-1,64.0
+morceau,gros,amod,ADJ,0.4822109341621399,[],,
+pomme,morceau,nmod,NOUN,0.6182215809822083,[],,
+cuisson,pomme,nmod,NOUN,0.7312822341918945,[],,

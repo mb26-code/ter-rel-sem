@@ -1,0 +1,40 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+soupe,ingrédient,nmod,NOUN,0.721333920955658,[],,
+ingrédient,crème,acl,NOUN,0.6610228419303894,"[{""id"": 24923429, ""node1"": 123418, ""node2"": 44001, ""type"": 0, ""w"": 15.0}, {""id"": 24850724, ""node1"": 123418, ""node2"": 44001, ""type"": 8, ""w"": 36.0}]",r_hypo,36.0
+crème,sel,nmod,NOUN,0.7389078736305237,[],,
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,persil,nmod,NOUN,0.6417090892791748,[],,
+crème,pomme,nmod,NOUN,0.6424804329872131,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+fleur,bouillon,nmod,NOUN,0.6344565153121948,[],,
+bouillon,volaille,nmod,NOUN,0.6946349143981934,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+soupe,louche,appos,NOUN,0.6345836520195007,"[{""id"": 1990790, ""node1"": 117152, ""node2"": 124144, ""type"": 0, ""w"": 57.0}, {""id"": 1910654, ""node1"": 117152, ""node2"": 124144, ""type"": 58, ""w"": 34.0}]",r_associated,57.0
+louche,mixeur,nmod,NOUN,0.5896725058555603,[],,
+mixeur,plonger,acl,VERB,0.5584041476249695,[],,
+mixeur,chauffer,acl,VERB,0.6226776838302612,[],,
+chauffer,casserole,obj,NOUN,0.666526198387146,[],,
+casserole,couteau,nmod,NOUN,0.6493775248527527,[],,
+couteau,couvercle,nmod,NOUN,0.5890913009643555,[],,
+couvercle,mixeur,nmod,NOUN,0.585760772228241,[],,
+casserole,balance,obj,NOUN,0.5916885137557983,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+couper,oignon,obj,NOUN,0.596168577671051,"[{""id"": 435065584, ""node1"": 128828, ""node2"": 123307, ""type"": 0, ""w"": 29.0}, {""id"": 31770866, ""node1"": 128828, ""node2"": 123307, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+peu,beurre,nmod,NOUN,0.5877829194068909,[],,
+casserole,fond,nmod,NOUN,0.5823787450790405,"[{""id"": 9995395, ""node1"": 57253, ""node2"": 119272, ""type"": 0, ""w"": 14.0}, {""id"": 2045151, ""node1"": 57253, ""node2"": 119272, ""type"": 9, ""w"": 60.0}]",r_has_part,60.0
+fond,épais,amod,ADJ,0.4744300842285156,[],,
+pomme,gros,amod,ADJ,0.5610402226448059,[],,
+mettre,pomme,obj,NOUN,0.6015596985816956,[],,
+feuille,casserole,nmod,NOUN,0.6194021105766296,[],,
+recouvrir,eau,nmod,NOUN,0.5683361291885376,[],,
+rajouter,persil,obj,NOUN,0.6068390607833862,[],,
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+mixer,soupe,obj,NOUN,0.675954282283783,"[{""id"": 108069054, ""node1"": 12170, ""node2"": 117152, ""type"": 0, ""w"": 64.0}, {""id"": 214952107, ""node1"": 12170, ""node2"": 117152, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+servir,ajouter,advcl,VERB,0.4676842093467712,[],,
+ajouter,cuillère,obj,NOUN,0.5465437173843384,[],,
+cuillère,crème,nmod,NOUN,0.6280089020729065,"[{""id"": 662506915, ""node1"": 51905, ""node2"": 44001, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+aimer,sel,obj,NOUN,0.6686217784881592,[],,
+assiette,rajouter,acl,VERB,0.6305862665176392,[],,
+rajouter,fleur,obj,NOUN,0.5286937355995178,[],,
+manger,lui,nsubj,PRON,0.4658516347408294,[],,
+manger,fleur,obj,NOUN,0.6381493806838989,"[{""id"": 72784206, ""node1"": 130164, ""node2"": 28985, ""type"": 13, ""w"": -25.0}, {""id"": 635021141, ""node1"": 130164, ""node2"": 28985, ""type"": 31, ""w"": 25.0}]",r_action_lieu,25.0
+goût,léger,amod,ADJ,0.5246432423591614,"[{""id"": 2105069, ""node1"": 119233, ""node2"": 143256, ""type"": 17, ""w"": 35.0}]",r_carac,35.0

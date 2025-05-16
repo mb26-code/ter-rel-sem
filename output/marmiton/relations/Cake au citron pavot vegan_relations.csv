@@ -1,0 +1,51 @@
+node1,node2,relations
+Cake,citron,[]
+ingrédient,vegan,[]
+ingrédient,huile,"[{""id"": 561306445, ""node1"": 123418, ""node2"": 141971, ""type"": 0, ""w"": 44.0}]"
+huile,yaourt,[]
+yaourt,levure,[]
+levure,sucre,[]
+sucre,farine,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]"
+sucre,citron,"[{""id"": 292123774, ""node1"": 139481, ""node2"": 15386, ""type"": 777, ""w"": 10.0}]"
+citron,graine,"[{""id"": 8793649, ""node1"": 15386, ""node2"": 14469, ""type"": 9, ""w"": -5.0}]"
+citron,pavot,[]
+sucre,sucre,"[{""id"": 335264, ""node1"": 139481, ""node2"": 139481, ""type"": 19, ""w"": 142.0}, {""id"": 93901596, ""node1"": 139481, ""node2"": 139481, ""type"": 50, ""w"": -27.0}, {""id"": 376041081, ""node1"": 139481, ""node2"": 139481, ""type"": 51, ""w"": 28.0}]"
+sucre,glace,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -126.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]"
+sucre,jus,[]
+jus,citron,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]"
+jus,zeste,[]
+zeste,citron,"[{""id"": 615058522, ""node1"": 98173, ""node2"": 15386, ""type"": 0, ""w"": 22.0}, {""id"": 9991099, ""node1"": 98173, ""node2"": 15386, ""type"": 10, ""w"": 4.0}, {""id"": 377014851, ""node1"": 98173, ""node2"": 15386, ""type"": 20, ""w"": 34.0}, {""id"": 986046177, ""node1"": 98173, ""node2"": 15386, ""type"": 666, ""w"": 2.0}]"
+jus,couteau,[]
+couteau,four,[]
+four,moule,"[{""id"": 914324367, ""node1"": 9190, ""node2"": 143723, ""type"": 0, ""w"": 20.0}, {""id"": 149292258, ""node1"": 9190, ""node2"": 143723, ""type"": 28, ""w"": 71.0}]"
+jus,saladier,[]
+saladier,balance,[]
+balance,cuisine,[]
+jus,étape,[]
+four,180,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,[]
+extraire,jus,"[{""id"": 599215017, ""node1"": 103148, ""node2"": 53310, ""type"": 14, ""w"": 31.0}]"
+mettre,yaourt,[]
+yaourt,végétal,[]
+incorporer,sucre,[]
+verser,jus,"[{""id"": 560983474, ""node1"": 104506, ""node2"": 53310, ""type"": 0, ""w"": 34.0}]"
+fouetter,préparation,[]
+incorporer,farine,"[{""id"": 423151005, ""node1"": 3845, ""node2"": 127629, ""type"": 0, ""w"": 1.0}]"
+incorporer,ajouter,"[{""id"": 914413179, ""node1"": 3845, ""node2"": 25099, ""type"": 0, ""w"": 23.0}, {""id"": 213486515, ""node1"": 3845, ""node2"": 25099, ""type"": 57, ""w"": 29.0}, {""id"": 1009808141, ""node1"": 3845, ""node2"": 25099, ""type"": 666, ""w"": 3.0}]"
+ajouter,huile,[]
+lisse,pâte,"[{""id"": 539347671, ""node1"": 140074, ""node2"": 34069, ""type"": 23, ""w"": 27.0}]"
+verser,préparation,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]"
+préparation,moule,"[{""id"": 601611756, ""node1"": 33634, ""node2"": 143723, ""type"": 0, ""w"": 22.0}]"
+préparation,cake,[]
+devoir,pointe,[]
+pointe,couteau,"[{""id"": 8856589, ""node1"": 141611, ""node2"": 32610, ""type"": 0, ""w"": 16.0}, {""id"": 251482, ""node1"": 141611, ""node2"": 32610, ""type"": 10, ""w"": 53.0}]"
+refroidir,cake,[]
+préparer,glaçage,[]
+récipient,sucre,[]
+mélanger,incorporer,"[{""id"": 9357211, ""node1"": 37151, ""node2"": 3845, ""type"": 0, ""w"": 64.0}, {""id"": 646361, ""node1"": 37151, ""node2"": 3845, ""type"": 5, ""w"": 160.0}, {""id"": 2073046, ""node1"": 37151, ""node2"": 3845, ""type"": 35, ""w"": 60.0}, {""id"": 1045903631, ""node1"": 37151, ""node2"": 3845, ""type"": 666, ""w"": 2.0}]"
+cake,fois,[]
+cake,refroidir,[]
+cake,verser,[]
+verser,glaçage,[]
+attendre,déguster,[]

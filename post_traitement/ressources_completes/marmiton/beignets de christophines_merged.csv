@@ -1,0 +1,22 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+sel,poivre,acl,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,huile,amod,NOUN,0.6777899265289307,"[{""id"": 917898979, ""node1"": 139597, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+lait,oeuf,nmod,NOUN,0.590930700302124,"[{""id"": 920038083, ""node1"": 86296, ""node2"": 116175, ""type"": 0, ""w"": 21.0}, {""id"": 385498014, ""node1"": 86296, ""node2"": 116175, ""type"": 8, ""w"": -25.0}]",r_associated,21.0
+bouquet,garni,amod,ADJ,0.4469667077064514,[],,
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+titre,préparer,acl,VERB,0.4304305016994476,[],,
+préparer,pâte,obj,NOUN,0.6504604816436768,"[{""id"": 97862162, ""node1"": 36246, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+préparer,mélanger,advcl,VERB,0.5422113537788391,[],,
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+mélanger,lait,obj,NOUN,0.6098827719688416,"[{""id"": 373014663, ""node1"": 37151, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+mélanger,persil,obj,NOUN,0.6359081268310547,[],,
+mélanger,poivre,obj,NOUN,0.677422285079956,[],,
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+eau,minute,nmod,NOUN,0.5597324967384338,[],,
+retirer,coeur,obj,NOUN,0.4252380132675171,[],,
+mélanger,chair,obj,NOUN,0.5773459672927856,[],,
+huile,chaud,amod,ADJ,0.6474975347518921,"[{""id"": 669874570, ""node1"": 141971, ""node2"": 19150, ""type"": 0, ""w"": 21.0}, {""id"": 24929996, ""node1"": 141971, ""node2"": 19150, ""type"": 17, ""w"": 76.0}]",r_carac,76.0

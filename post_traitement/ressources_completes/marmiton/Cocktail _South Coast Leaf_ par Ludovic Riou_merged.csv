@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,cocktail,nmod,NOUN,0.4204443097114563,[],,
+cocktail,ingrédient,nmod,NOUN,0.5962467789649963,"[{""id"": 98701591, ""node1"": 132548, ""node2"": 123418, ""type"": 0, ""w"": 35.0}]",r_associated,35.0
+cocktail,figue,appos,NOUN,0.5620215535163879,[],,
+figue,cognac,amod,ADJ,0.5759090185165405,[],,
+cognac,feuille,obj,NOUN,0.5615382194519043,[],,
+figue,vinaigre,acl,NOUN,0.6105161309242249,[],,
+vinaigre,cognac,amod,NOUN,0.5971552133560181,[],,
+cocktail,jus,nmod,NOUN,0.5683156847953796,"[{""id"": 572304546, ""node1"": 132548, ""node2"": 53310, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+jus,soda,acl,NOUN,0.5725152492523193,"[{""id"": 10575782, ""node1"": 53310, ""node2"": 253, ""type"": 0, ""w"": 60.0}, {""id"": 9623777, ""node1"": 53310, ""node2"": 253, ""type"": 8, ""w"": 21.0}, {""id"": 1032955642, ""node1"": 53310, ""node2"": 253, ""type"": 78, ""w"": 35.0}]",r_associated,60.0
+soda,sucre,nmod,NOUN,0.6087692379951477,"[{""id"": 365640, ""node1"": 253, ""node2"": 139481, ""type"": 0, ""w"": 153.0}, {""id"": 94079546, ""node1"": 253, ""node2"": 139481, ""type"": 9, ""w"": 58.0}, {""id"": 1584197, ""node1"": 253, ""node2"": 139481, ""type"": 41, ""w"": 180.0}, {""id"": 217020955, ""node1"": 253, ""node2"": 139481, ""type"": 50, ""w"": 76.0}, {""id"": 653271097, ""node1"": 253, ""node2"": 139481, ""type"": 666, ""w"": 4.0}]",r_has_conseq,180.0
+sucre,glace,nmod,NOUN,0.651667594909668,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -126.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]",r_associated,111.0
+sucre,figue,amod,NOUN,0.6641230583190918,[],,
+figue,feuille,amod,NOUN,0.5347835421562195,[],,
+titre,préparer,acl,VERB,0.4304305016994476,[],,
+préparer,cognac,obj,NOUN,0.5627421736717224,[],,
+figue,sécher,amod,ADJ,0.5919831991195679,[],,
+préparation,cocktail,nmod,NOUN,0.5561228394508362,[],,
+mélanger,cognac,obj,NOUN,0.5690799355506897,[],,
+mélanger,vinaigre,obj,NOUN,0.6564185619354248,"[{""id"": 15085301, ""node1"": 37151, ""node2"": 145443, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+vinaigre,cidre,nmod,NOUN,0.591953456401825,"[{""id"": 98947289, ""node1"": 145443, ""node2"": 75142, ""type"": 0, ""w"": 55.0}, {""id"": 3355909, ""node1"": 145443, ""node2"": 75142, ""type"": 777, ""w"": 10.0}]",r_associated,55.0
+cidre,miel,nmod,NOUN,0.6082598567008972,[],,
+mélanger,jus,obj,NOUN,0.5910492539405823,[],,
+verser,boisson,obj,NOUN,0.5728548765182495,"[{""id"": 366730835, ""node1"": 104506, ""node2"": 113547, ""type"": 0, ""w"": 26.0}, {""id"": 167911, ""node1"": 104506, ""node2"": 113547, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+boisson,verre,nmod,NOUN,0.5735650062561035,"[{""id"": 163343, ""node1"": 113547, ""node2"": 144497, ""type"": 0, ""w"": 211.0}, {""id"": 9626450, ""node1"": 113547, ""node2"": 144497, ""type"": 8, ""w"": 28.0}, {""id"": 11357460, ""node1"": 113547, ""node2"": 144497, ""type"": 15, ""w"": 38.0}]",r_associated,211.0
+quartier,figue,nmod,NOUN,0.5171818137168884,"[{""id"": 720818914, ""node1"": 1055, ""node2"": 13842, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+figue,sec,amod,ADJ,0.5349166393280029,[],,

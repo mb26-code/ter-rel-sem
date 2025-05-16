@@ -1,15 +1,24 @@
 import pandas as pd
 import os
-import sys
 
 def merge_data():
     # Define directories with absolute paths for reliability
     base_dir = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
-    pairs_dir = os.path.join(base_dir, "output", "wikipedia", "pairs")
-    relations_dir = os.path.join(base_dir, "output", "wikipedia", "relations")
-    output_dir = os.path.join(base_dir, "traitement", "ressources")
+    
+    # Extract directory names to variables for easy modification
+    SOURCE_DIR = "marmiton"  # Change this to target different datasets
+    pairs_subdir = "pairs"
+    relations_subdir = "relations"
+    output_subdir = "ressources"
+    output_parent_dir = "post_traitement"
+    
+    # Build the full paths using the variables
+    pairs_dir = os.path.join(base_dir, "output", SOURCE_DIR, pairs_subdir)
+    relations_dir = os.path.join(base_dir, "output", SOURCE_DIR, relations_subdir)
+    output_dir = os.path.join(base_dir, output_parent_dir, output_subdir, SOURCE_DIR)
     
     print(f"Base directory: {base_dir}")
+    print(f"Dataset directory: {SOURCE_DIR}")
     print(f"Looking for pairs in: {pairs_dir}")
     print(f"Looking for relations in: {relations_dir}")
     print(f"Output will be saved to: {output_dir}")

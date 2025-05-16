@@ -1,0 +1,22 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+sel,farine,amod,NOUN,0.7164311408996582,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,fouet,nmod,NOUN,0.5491861701011658,"[{""id"": 662513346, ""node1"": 51905, ""node2"": 73888, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+cuisine,saladier,nmod,NOUN,0.6925616264343262,"[{""id"": 47300451, ""node1"": 16033, ""node2"": 45455, ""type"": 0, ""w"": 30.0}, {""id"": 47300450, ""node1"": 16033, ""node2"": 45455, ""type"": 27, ""w"": 21.0}]",r_associated,30.0
+pinceau,balance,nmod,NOUN,0.4696744382381439,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+fouet,étape,nmod,NOUN,0.4946097731590271,[],,
+titre,mélanger,acl,VERB,0.4706915318965912,[],,
+battre,blanc,obj,NOUN,0.5040183067321777,[],,
+blanc,neige,nmod,NOUN,0.4736866652965545,"[{""id"": 116991, ""node1"": 15196, ""node2"": 3699, ""type"": 0, ""w"": 509.77}, {""id"": 117866, ""node1"": 15196, ""node2"": 3699, ""type"": 23, ""w"": 320.0}, {""id"": 1622496, ""node1"": 15196, ""node2"": 3699, ""type"": 666, ""w"": 12.0}]",r_associated,509.77
+associer,jaune,obj,NOUN,0.4777253866195678,[],,
+ajouter,mélange,obj,NOUN,0.5318974852561951,[],,
+mélange,constituer,acl,VERB,0.5252013802528381,[],,
+prendre,cuillère,obj,NOUN,0.5430639386177063,"[{""id"": 376201346, ""node1"": 86306, ""node2"": 51905, ""type"": 16, ""w"": 26.0}]",r_instr,26.0
+cuillère,mélange,nmod,NOUN,0.6335723400115967,"[{""id"": 662502763, ""node1"": 51905, ""node2"": 14800, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+huile,végétal,amod,ADJ,0.625397801399231,"[{""id"": 669880751, ""node1"": 141971, ""node2"": 136507, ""type"": 0, ""w"": 25.0}]",r_associated,25.0
+papier,absorber,acl,VERB,0.4968288838863373,[],,
+mettre,retirer,advcl,VERB,0.4024395644664764,"[{""id"": 796684749, ""node1"": 132366, ""node2"": 3486, ""type"": 0, ""w"": 21.0}, {""id"": 85397466, ""node1"": 132366, ""node2"": 3486, ""type"": 7, ""w"": 49.0}]",r_anto,49.0
+retirer,excès,obj,NOUN,0.4048621952533722,[],,
+excès,graisse,nmod,NOUN,0.5042049884796143,[],,

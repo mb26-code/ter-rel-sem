@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,galette,nmod,NOUN,0.4977174997329712,"[{""id"": 941628754, ""node1"": 7970, ""node2"": 28590, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+galette,riz,nmod,NOUN,0.6961936950683594,"[{""id"": 914458512, ""node1"": 28590, ""node2"": 24372, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+galette,fromage,nmod,NOUN,0.6796619296073914,"[{""id"": 98286720, ""node1"": 28590, ""node2"": 141687, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+fromage,ingrédient,nmod,NOUN,0.7009125351905823,"[{""id"": 24850717, ""node1"": 141687, ""node2"": 123418, ""type"": 0, ""w"": 34.0}, {""id"": 24842103, ""node1"": 141687, ""node2"": 123418, ""type"": 6, ""w"": 233.0}]",r_isa,233.0
+galette,huile,amod,NOUN,0.6466853618621826,"[{""id"": 652207683, ""node1"": 28590, ""node2"": 141971, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,cumin,nmod,ADJ,0.6861709356307983,[],,
+sel,poudre,nmod,NOUN,0.6845535635948181,"[{""id"": 670021554, ""node1"": 13260, ""node2"": 139470, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+poudre,oeuf,nmod,NOUN,0.588036835193634,[],,
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+galette,menthe,acl,VERB,0.6303022503852844,[],,
+galette,top,nmod,NOUN,0.4313154220581054,[],,
+top,mixeur,nmod,NOUN,0.4417882561683655,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+galette,étape,nmod,NOUN,0.4841375946998596,[],,
+riz,cuire,amod,VERB,0.7637909054756165,"[{""id"": 561294219, ""node1"": 24372, ""node2"": 5115, ""type"": 0, ""w"": 39.0}, {""id"": 31823713, ""node1"": 24372, ""node2"": 5115, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+utiliser,reste,obj,NOUN,0.4508874118328094,[],,
+reste,veille,nmod,NOUN,0.4668246805667877,[],,
+passer,préparation,obj,NOUN,0.5082688927650452,[],,
+préparation,mixer,nmod,VERB,0.5605207681655884,[],,
+ajouter,feuille,obj,NOUN,0.4999395906925201,[],,
+feuille,menthe,nmod,NOUN,0.5525094866752625,"[{""id"": 29327658, ""node1"": 37993, ""node2"": 97057, ""type"": 0, ""w"": 30.0}, {""id"": 9980624, ""node1"": 37993, ""node2"": 97057, ""type"": 10, ""w"": 34.0}]",r_holo,34.0
+mouiller,donner,advcl,VERB,0.4521889686584472,[],,
+donner,consistance,obj,NOUN,0.4127334058284759,[],,
+consistance,pâte,nmod,NOUN,0.6215041875839233,[],,
+cuire,le,obj,PRON,0.4500194191932678,[],,
+huile,chaud,amod,ADJ,0.6474975347518921,"[{""id"": 669874570, ""node1"": 141971, ""node2"": 19150, ""type"": 0, ""w"": 21.0}, {""id"": 24929996, ""node1"": 141971, ""node2"": 19150, ""type"": 17, ""w"": 76.0}]",r_carac,76.0
+huile,côté,nmod,NOUN,0.583971381187439,[],,
+devoir,galette,nsubj,NOUN,0.5393692851066589,[],,
+salade,vert,amod,ADJ,0.6158227920532227,"[{""id"": 558712508, ""node1"": 118908, ""node2"": 26976, ""type"": 0, ""w"": 30.0}, {""id"": 3200451, ""node1"": 118908, ""node2"": 26976, ""type"": 17, ""w"": 30.0}, {""id"": 3160509, ""node1"": 118908, ""node2"": 26976, ""type"": 106, ""w"": 18.0}, {""id"": 1813836, ""node1"": 118908, ""node2"": 26976, ""type"": 666, ""w"": 4.0}]",r_carac,30.0

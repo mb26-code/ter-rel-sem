@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,cocktail,nmod,NOUN,0.4204443097114563,[],,
+cocktail,vodka,nmod,NOUN,0.493263840675354,"[{""id"": 10576702, ""node1"": 132548, ""node2"": 83653, ""type"": 0, ""w"": 59.0}, {""id"": 9626296, ""node1"": 132548, ""node2"": 83653, ""type"": 8, ""w"": 22.0}, {""id"": 96697947, ""node1"": 132548, ""node2"": 83653, ""type"": 28, ""w"": 23.0}, {""id"": 5271146, ""node1"": 132548, ""node2"": 83653, ""type"": 777, ""w"": 10.0}]",r_associated,59.0
+vodka,ingrédient,nmod,NOUN,0.5653324723243713,"[{""id"": 669242097, ""node1"": 83653, ""node2"": 123418, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+cocktail,sucre,appos,NOUN,0.6743118762969971,"[{""id"": 797918134, ""node1"": 132548, ""node2"": 139481, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+sucre,canne,nmod,NOUN,0.6069387793540955,"[{""id"": 107598, ""node1"": 139481, ""node2"": 144267, ""type"": 0, ""w"": 241.0}, {""id"": 160436, ""node1"": 139481, ""node2"": 144267, ""type"": 15, ""w"": 78.0}, {""id"": 1763995, ""node1"": 139481, ""node2"": 144267, ""type"": 666, ""w"": 1.0}]",r_associated,241.0
+sucre,feuille,nmod,NOUN,0.6661063432693481,[],,
+sucre,menthe,nmod,NOUN,0.6637264490127563,[],,
+sucre,citron,nmod,NOUN,0.6847571134567261,"[{""id"": 292123774, ""node1"": 139481, ""node2"": 15386, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+citron,vert,amod,ADJ,0.5348256230354309,"[{""id"": 1559582, ""node1"": 15386, ""node2"": 26976, ""type"": 0, ""w"": 61.0}, {""id"": 1773945, ""node1"": 15386, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3160941, ""node1"": 15386, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]",r_associated,61.0
+sucre,balance,appos,NOUN,0.6481753587722778,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,blender,amod,ADV,0.5222137570381165,[],,
+balance,couteau,appos,NOUN,0.5317514538764954,[],,
+sucre,étape,nmod,NOUN,0.6472875475883484,[],,
+sucre,couper,acl,VERB,0.6513863205909729,[],,
+retirer,chair,obj,NOUN,0.5120478272438049,[],,
+aide,cuillère,nmod,NOUN,0.45757657289505,[],,
+morceau,gros,amod,ADJ,0.4822109341621399,[],,
+presser,citron,obj,NOUN,0.5677392482757568,"[{""id"": 97344511, ""node1"": 47617, ""node2"": 15386, ""type"": 0, ""w"": 44.0}, {""id"": 210236, ""node1"": 47617, ""node2"": 15386, ""type"": 14, ""w"": 100.0}, {""id"": 653326908, ""node1"": 47617, ""node2"": 15386, ""type"": 666, ""w"": 9.0}]",r_patient,100.0
+placer,morceau,obj,NOUN,0.5410838723182678,[],,
+obtenir,purée,obj,NOUN,0.6158004403114319,[],,
+purée,lisse,amod,ADJ,0.607856273651123,[],,
+texture,lisse,amod,ADJ,0.4609699249267578,"[{""id"": 723393758, ""node1"": 4910, ""node2"": 140074, ""type"": 0, ""w"": 28.0}, {""id"": 31122166, ""node1"": 4910, ""node2"": 140074, ""type"": 17, ""w"": 23.0}, {""id"": 651212844, ""node1"": 4910, ""node2"": 140074, ""type"": 666, ""w"": 5.0}]",r_associated,28.0
+filtrer,purée,obj,NOUN,0.5907918214797974,[],,
+enlever,pulpe,obj,NOUN,0.5406516194343567,[],,
+combiner,purée,obj,NOUN,0.6538397669792175,[],,
+combiner,jus,obj,NOUN,0.5707366466522217,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+homogène,mélange,nsubj,NOUN,0.4782799482345581,"[{""id"": 560376822, ""node1"": 124759, ""node2"": 14800, ""type"": 0, ""w"": 32.0}, {""id"": 33169412, ""node1"": 124759, ""node2"": 14800, ""type"": 23, ""w"": 54.0}]",r_carac-1,54.0
+dissoudre,sucre,nsubj:pass,NOUN,0.6331807374954224,"[{""id"": 1377943, ""node1"": 90446, ""node2"": 139481, ""type"": 0, ""w"": 32.0}, {""id"": 1053467445, ""node1"": 90446, ""node2"": 139481, ""type"": 666, ""w"": 2.0}]",r_associated,32.0
+remplir,verre,obj,NOUN,0.5030102729797363,"[{""id"": 2588367, ""node1"": 95980, ""node2"": 144497, ""type"": 0, ""w"": 61.0}, {""id"": 1589582, ""node1"": 95980, ""node2"": 144497, ""type"": 14, ""w"": 100.0}, {""id"": 376200860, ""node1"": 95980, ""node2"": 144497, ""type"": 16, ""w"": 26.0}, {""id"": 1466817, ""node1"": 95980, ""node2"": 144497, ""type"": 31, ""w"": 65.0}]",r_patient,100.0
+ajouter,verser,advcl,VERB,0.4542763829231262,"[{""id"": 12346252, ""node1"": 25099, ""node2"": 104506, ""type"": 0, ""w"": 21.0}, {""id"": 12293759, ""node1"": 25099, ""node2"": 104506, ""type"": 5, ""w"": 82.0}]",r_syn,82.0
+verser,mélange,obj,NOUN,0.5440542697906494,[],,
+ajouter,feuille,obj,NOUN,0.4999395906925201,[],,
+feuille,menthe,nmod,NOUN,0.5525094866752625,"[{""id"": 29327658, ""node1"": 37993, ""node2"": 97057, ""type"": 0, ""w"": 30.0}, {""id"": 9980624, ""node1"": 37993, ""node2"": 97057, ""type"": 10, ""w"": 34.0}]",r_holo,34.0

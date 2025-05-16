@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+mettre,titre,nsubj,NOUN,0.4057502150535583,[],,
+citron,gingembre,nmod,NOUN,0.6101461052894592,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,tomate,appos,ADV,0.6937788128852844,"[{""id"": 24923444, ""node1"": 123418, ""node2"": 22138, ""type"": 0, ""w"": 15.0}, {""id"": 24850720, ""node1"": 123418, ""node2"": 22138, ""type"": 8, ""w"": 30.0}]",r_hypo,30.0
+tomate,coriandre,appos,NOUN,0.6516050696372986,[],,
+coriandre,sel,nmod,NOUN,0.6917389631271362,[],,
+sel,poivre,nmod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,gingembre,nmod,NOUN,0.6446689367294312,"[{""id"": 584573850, ""node1"": 139597, ""node2"": 77020, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+gingembre,huile,amod,NOUN,0.6511248350143433,[],,
+poivre,citron,nmod,NOUN,0.6539869904518127,[],,
+citron,vert,amod,ADJ,0.5348256230354309,"[{""id"": 1559582, ""node1"": 15386, ""node2"": 26976, ""type"": 0, ""w"": 61.0}, {""id"": 1773945, ""node1"": 15386, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3160941, ""node1"": 15386, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]",r_associated,61.0
+poivre,lait,nmod,NOUN,0.6704593300819397,[],,
+ingrédient,set,nmod,NOUN,0.4041900932788849,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+poêle,couvercle,nmod,NOUN,0.6690102219581604,[],,
+ingrédient,étape,nmod,NOUN,0.4697338342666626,[],,
+mettre,huile,obj,NOUN,0.6046144962310791,"[{""id"": 392082685, ""node1"": 132366, ""node2"": 141971, ""type"": 0, ""w"": 27.0}, {""id"": 392082684, ""node1"": 132366, ""node2"": 141971, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+ajouter,citron,obj,NOUN,0.6159152984619141,"[{""id"": 373014912, ""node1"": 25099, ""node2"": 15386, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+citron,couper,acl,VERB,0.6150063872337341,"[{""id"": 273535, ""node1"": 15386, ""node2"": 128828, ""type"": 25, ""w"": -60.0}, {""id"": 2214739, ""node1"": 15386, ""node2"": 128828, ""type"": 26, ""w"": 95.0}]",r_patient-1,95.0
+ajouter,tomate,obj,NOUN,0.6318210363388062,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 30.0}]",r_agent,30.0
+tomate,couper,acl,VERB,0.6290057301521301,"[{""id"": 920912564, ""node1"": 22138, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 628044041, ""node1"": 22138, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+couvrir,poêle,obj,NOUN,0.6677884459495544,"[{""id"": 31871240, ""node1"": 119824, ""node2"": 119686, ""type"": 14, ""w"": 52.0}]",r_patient,52.0
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+retirer,couvercle,obj,NOUN,0.520710825920105,[],,
+ajouter,lait,obj,NOUN,0.5957752466201782,"[{""id"": 373014760, ""node1"": 25099, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+lait,coco,nmod,ADV,0.5941302180290222,"[{""id"": 796793155, ""node1"": 86296, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+poursuivre,cuisson,obj,NOUN,0.6843500733375549,[],,
+cuisson,baisser,acl,VERB,0.6741469502449036,[],,
+baisser,feu,obj,NOUN,0.552813708782196,[],,
+cuisson,fois,nmod,NOUN,0.6082165241241455,[],,
+cuisson,couvrir,acl,VERB,0.7104001045227051,[],,
+bout,minute,nmod,NOUN,0.430193156003952,[],,
+bout,retirer,acl,VERB,0.4299620389938354,[],,
+maintenir,cuisson,obj,NOUN,0.7038028836250305,[],,

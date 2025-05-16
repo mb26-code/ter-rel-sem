@@ -1,0 +1,39 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+ingrédient,extraire,acl,VERB,0.5502373576164246,[],,
+extraire,sel,nmod,NOUN,0.6609533429145813,"[{""id"": 437562566, ""node1"": 103148, ""node2"": 13260, ""type"": 0, ""w"": 35.0}, {""id"": 437562565, ""node1"": 103148, ""node2"": 13260, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+sel,levure,nmod,NOUN,0.6924784183502197,[],,
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+levure,beurre,amod,NOUN,0.6823499798774719,[],,
+extraire,sucre,appos,NOUN,0.6370642185211182,[],,
+sucre,farine,nmod,NOUN,0.699601411819458,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]",r_associated,47.0
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+lait,sucre,nmod,NOUN,0.6437966823577881,[],,
+sucre,vanillé,amod,ADJ,0.6220211982727051,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]",r_associated,13.0
+sucre,cannelle,amod,ADJ,0.6844181418418884,"[{""id"": 1011319152, ""node1"": 139481, ""node2"": 112959, ""type"": 0, ""w"": 12.0}]",r_associated,12.0
+sucre,eau,nmod,NOUN,0.6594484448432922,[],,
+sucre,grille,nmod,NOUN,0.7015109062194824,[],,
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+pâtisserie,moule,nmod,NOUN,0.56337571144104,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]",r_associated,24.0
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,four,nmod,NOUN,0.7153509855270386,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+saladier,premier,amod,ADJ,0.5396136045455933,"[{""id"": 373014661, ""node1"": 45455, ""node2"": 130626, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+ingrédient,mélanger,acl,VERB,0.6362285614013672,"[{""id"": 770758779, ""node1"": 123418, ""node2"": 37151, ""type"": 26, ""w"": 31.0}]",r_patient-1,31.0
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+mélanger,sucre,obj,NOUN,0.6743173599243164,[],,
+saladier,deuxième,amod,ADJ,0.5629813075065613,"[{""id"": 373014662, ""node1"": 45455, ""node2"": 119260, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+ingrédient,saladier,nmod,NOUN,0.6509284973144531,[],,
+mélanger,lait,obj,NOUN,0.6098827719688416,"[{""id"": 373014663, ""node1"": 37151, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ingrédient,verser,acl,VERB,0.5961355566978455,[],,
+verser,contenu,obj,NOUN,0.4781818091869354,[],,
+saladier,second,amod,ADJ,0.5135722160339355,"[{""id"": 373014664, ""node1"": 45455, ""node2"": 39720, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+contenu,saladier,nmod,NOUN,0.5573059916496277,"[{""id"": 798731106, ""node1"": 108150, ""node2"": 45455, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+obtenir,pâte,obj,NOUN,0.6173189282417297,[],,
+pâte,lisse,amod,ADJ,0.6106547713279724,"[{""id"": 532329951, ""node1"": 34069, ""node2"": 140074, ""type"": 17, ""w"": 32.0}]",r_carac,32.0
+four,min,nmod,NOUN,0.5254760980606079,[],,
+mettre,degré,obj,NOUN,0.4046871662139892,[],,
+mettre,thermostat,appos,NOUN,0.5112968683242798,[],,

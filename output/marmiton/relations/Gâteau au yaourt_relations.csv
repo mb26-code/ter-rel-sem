@@ -1,0 +1,42 @@
+node1,node2,relations
+titre,gâteau,[]
+gâteau,yaourt,[]
+yaourt,ingrédient,[]
+farine,sucre,"[{""id"": 189887, ""node1"": 127629, ""node2"": 139481, ""type"": 0, ""w"": 63.0}]"
+sucre,semoule,"[{""id"": 277256, ""node1"": 139481, ""node2"": 64778, ""type"": 17, ""w"": -94.0}, {""id"": 639101518, ""node1"": 139481, ""node2"": 64778, ""type"": 141, ""w"": 25.0}]"
+sucre,levure,[]
+levure,chimique,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]"
+gâteau,nature,[]
+nature,huile,[]
+huile,oeuf,[]
+oeuf,citron,"[{""id"": 53737936, ""node1"": 116175, ""node2"": 15386, ""type"": 0, ""w"": 44.0}, {""id"": 53614845, ""node1"": 116175, ""node2"": 15386, ""type"": 5, ""w"": 74.0}]"
+gâteau,grille,[]
+grille,pâtisserie,[]
+pâtisserie,moule,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]"
+grille,manquer,[]
+manquer,four,[]
+four,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,couteau,"[{""id"": 139564, ""node1"": 51905, ""node2"": 32610, ""type"": 0, ""w"": 212.0}, {""id"": 87319445, ""node1"": 51905, ""node2"": 32610, ""type"": 666, ""w"": 1.0}]"
+couteau,saladier,[]
+cuillère,casserole,"[{""id"": 662507901, ""node1"": 51905, ""node2"": 57253, ""type"": 0, ""w"": 28.0}]"
+casserole,balance,[]
+balance,cuisine,[]
+balance,étape,[]
+four,180,[]
+gâteau,thermostat,[]
+mélanger,ingrédient,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]"
+ordre,levure,[]
+levure,yaourt,[]
+yaourt,huile,[]
+yaourt,sucre,"[{""id"": 561293543, ""node1"": 82320, ""node2"": 139481, ""type"": 0, ""w"": 59.0}, {""id"": 8785309, ""node1"": 82320, ""node2"": 139481, ""type"": 666, ""w"": 33.0}]"
+sucre,farine,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]"
+sucre,oeuf,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]"
+moule,manquer,[]
+ingrédient,aide,[]
+aide,feuille,[]
+feuille,papier,"[{""id"": 99562, ""node1"": 37993, ""node2"": 103389, ""type"": 0, ""w"": 667.0}, {""id"": 157352, ""node1"": 37993, ""node2"": 103389, ""type"": 5, ""w"": 169.0}, {""id"": 186644, ""node1"": 37993, ""node2"": 103389, ""type"": 8, ""w"": 134.0}, {""id"": 377011482, ""node1"": 37993, ""node2"": 103389, ""type"": 20, ""w"": 35.0}, {""id"": 246389, ""node1"": 37993, ""node2"": 103389, ""type"": 21, ""w"": 85.0}, {""id"": 665112728, ""node1"": 37993, ""node2"": 103389, ""type"": 174, ""w"": 30.0}, {""id"": 1770446, ""node1"": 37993, ""node2"": 103389, ""type"": 666, ""w"": 7.0}]"
+verser,pâte,"[{""id"": 373014722, ""node1"": 104506, ""node2"": 34069, ""type"": 14, ""w"": 36.0}]"
+minute,cuisson,[]
+vérifier,cuisson,"[{""id"": 31862099, ""node1"": 76431, ""node2"": 60056, ""type"": 14, ""w"": 64.0}]"
+pointe,couteau,"[{""id"": 8856589, ""node1"": 141611, ""node2"": 32610, ""type"": 0, ""w"": 16.0}, {""id"": 251482, ""node1"": 141611, ""node2"": 32610, ""type"": 10, ""w"": 53.0}]"

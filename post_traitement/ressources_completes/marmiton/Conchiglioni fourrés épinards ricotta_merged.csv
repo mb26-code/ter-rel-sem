@@ -1,0 +1,55 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,ricotta,appos,NOUN,0.522243082523346,[],,
+ricotta,ingrédient,obj,NOUN,0.630118727684021,[],,
+ricotta,sucre,obj,NOUN,0.6823151111602783,[],,
+sucre,poivre,amod,NOUN,0.7045173048973083,"[{""id"": 101145, ""node1"": 139481, ""node2"": 139597, ""type"": 0, ""w"": 60.0}]",r_associated,60.0
+poivre,sel,appos,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sucre,crème,nmod,NOUN,0.7060490250587463,"[{""id"": 915278756, ""node1"": 139481, ""node2"": 44001, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+sucre,coulis,nmod,NOUN,0.6749725341796875,"[{""id"": 796694969, ""node1"": 139481, ""node2"": 10401, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+coulis,tomate,nmod,ADV,0.6366809606552124,"[{""id"": 798889036, ""node1"": 10401, ""node2"": 22138, ""type"": 0, ""w"": 31.0}, {""id"": 1072261196, ""node1"": 10401, ""node2"": 22138, ""type"": 666, ""w"": 2.0}]",r_associated,31.0
+tomate,huile,amod,NOUN,0.6595464944839478,"[{""id"": 421761130, ""node1"": 22138, ""node2"": 141971, ""type"": 0, ""w"": 4.0}]",r_associated,4.0
+ricotta,ricotta,obj,NOUN,0.4885885417461395,"[{""id"": 78808258, ""node1"": 225304, ""node2"": 225304, ""type"": 19, ""w"": 35.0}]",r_lemma,35.0
+ricotta,café,obj,NOUN,0.6145558953285217,[],,
+ricotta,four,obj,NOUN,0.7070445418357849,[],,
+four,presse,nmod,NOUN,0.6568396687507629,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,set,nmod,NOUN,0.4149639010429382,[],,
+four,poêle,nmod,NOUN,0.7086914777755737,"[{""id"": 620960557, ""node1"": 9190, ""node2"": 119686, ""type"": 0, ""w"": 52.0}]",r_associated,52.0
+four,Plat,nmod,PROPN,0.6130218505859375,[],,
+Plat,gratin,nmod,NOUN,0.4779236614704132,[],,
+ricotta,plat,obj,ADJ,0.6777195334434509,[],,
+ricotta,étape,obj,NOUN,0.520356297492981,[],,
+ricotta,farce,obj,NOUN,0.5854413509368896,[],,
+égoutter,cuire,advcl,VERB,0.6595414876937866,[],,
+presser,égoutter,advcl,VERB,0.4577038586139679,[],,
+ingrédient,autre,amod,ADJ,0.5450181365013123,[],,
+ingrédient,farce,nmod,NOUN,0.6327283382415771,[],,
+revenir,ingrédient,obj,NOUN,0.6335567235946655,[],,
+ingrédient,sauce,nmod,NOUN,0.7589731812477112,"[{""id"": 98477910, ""node1"": 123418, ""node2"": 141110, ""type"": 0, ""w"": 28.0}, {""id"": 97415123, ""node1"": 123418, ""node2"": 141110, ""type"": 10, ""w"": 28.0}]",r_holo,28.0
+cuisson,sauce,nmod,NOUN,0.7991010546684265,"[{""id"": 921783715, ""node1"": 60056, ""node2"": 141110, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+cuire,indiquer,advcl,VERB,0.6858347058296204,[],,
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+eau,filet,nmod,NOUN,0.5945509076118469,"[{""id"": 799190047, ""node1"": 65012, ""node2"": 42188, ""type"": 0, ""w"": 26.0}, {""id"": 600063628, ""node1"": 65012, ""node2"": 42188, ""type"": 27, ""w"": 30.0}, {""id"": 11317118, ""node1"": 65012, ""node2"": 42188, ""type"": 28, ""w"": 40.0}]",r_lieu-1,40.0
+filet,huile,nmod,NOUN,0.6150403022766113,[],,
+huile,olive,amod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+cuire,montage,obj,NOUN,0.7019459009170532,[],,
+montage,plat,nmod,NOUN,0.5737449526786804,[],,
+étaler,couche,obj,NOUN,0.4545030295848846,"[{""id"": 560922829, ""node1"": 98214, ""node2"": 19152, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+couche,sauce,nmod,NOUN,0.6504489779472351,[],,
+couche,plat,nmod,NOUN,0.6118377447128296,[],,
+plat,type,amod,NOUN,0.5881012678146362,[],,
+plat,plat,amod,ADJ,0.5756540298461914,"[{""id"": 475263, ""node1"": 36327, ""node2"": 36327, ""type"": 17, ""w"": 60.0}, {""id"": 324264, ""node1"": 36327, ""node2"": 36327, ""type"": 19, ""w"": 55.0}, {""id"": 376396975, ""node1"": 36327, ""node2"": 36327, ""type"": 23, ""w"": 31.0}]",r_carac,60.0
+plat,gratin,nmod,NOUN,0.6157448291778564,"[{""id"": 415003453, ""node1"": 36327, ""node2"": 12942, ""type"": 0, ""w"": 28.0}, {""id"": 246264043, ""node1"": 36327, ""node2"": 12942, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+déposer,garnir,advcl,VERB,0.4612737894058227,[],,
+garnir,pâte,obj,NOUN,0.6522539258003235,"[{""id"": 15741758, ""node1"": 106541, ""node2"": 34069, ""type"": 0, ""w"": -5.0}, {""id"": 97862161, ""node1"": 106541, ""node2"": 34069, ""type"": 14, ""w"": 34.0}]",r_patient,34.0
+pâte,farce,nmod,PRON,0.6484665274620056,[],,
+verser,déposer,advcl,VERB,0.4382185935974121,"[{""id"": 12293760, ""node1"": 104506, ""node2"": 35714, ""type"": 0, ""w"": 68.0}, {""id"": 582610, ""node1"": 104506, ""node2"": 35714, ""type"": 5, ""w"": 113.0}, {""id"": 495005856, ""node1"": 104506, ""node2"": 35714, ""type"": 35, ""w"": 62.0}]",r_syn,113.0
+déposer,une,obj,NOUN,0.4449195563793182,[],,
+une,autre,nmod,NOUN,0.4146150648593902,[],,
+verser,sauce,obj,NOUN,0.6628547310829163,"[{""id"": 478293932, ""node1"": 104506, ""node2"": 141110, ""type"": 0, ""w"": 28.0}, {""id"": 478293931, ""node1"": 104506, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+four,min,nmod,NOUN,0.5254760980606079,[],,
+chauffer,degré,obj,NOUN,0.4823050796985626,[],,
+mettre,thermostat,appos,NOUN,0.5112968683242798,[],,
+verser,déguster,obj,VERB,0.5499323010444641,[],,

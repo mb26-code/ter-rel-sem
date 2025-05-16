@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+citron,ingrédient,nmod,NOUN,0.6679258942604065,[],,
+citron,herbe,nmod,NOUN,0.5878474712371826,[],,
+herbe,Provence,nmod,PROPN,0.4220801889896393,[],,
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+saladier,presse,appos,NOUN,0.5351011157035828,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,set,nmod,NOUN,0.4149639010429382,[],,
+réfrigérateur,assiette,nmod,NOUN,0.6654803156852722,[],,
+assiette,étape,nmod,NOUN,0.483820229768753,[],,
+presser,citron,obj,NOUN,0.5677392482757568,"[{""id"": 97344511, ""node1"": 47617, ""node2"": 15386, ""type"": 0, ""w"": 44.0}, {""id"": 210236, ""node1"": 47617, ""node2"": 15386, ""type"": 14, ""w"": 100.0}, {""id"": 653326908, ""node1"": 47617, ""node2"": 15386, ""type"": 666, ""w"": 9.0}]",r_patient,100.0
+verser,jus,obj,NOUN,0.5870975852012634,"[{""id"": 560983474, ""node1"": 104506, ""node2"": 53310, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+ajouter,herbe,obj,NOUN,0.4923520386219024,[],,
+herbe,provence,nmod,NOUN,0.4495128989219665,[],,
+mélanger,disposer,advcl,VERB,0.5062704682350159,[],,
+placer,tout,obj,NOUN,0.480036199092865,[],,
+tout,réfrigérateur,nmod,NOUN,0.5405703783035278,[],,
+viande,imprégner,acl:relcl,VERB,0.7061899900436401,[],,
+viande,jus,nmod,NOUN,0.6670438051223755,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+récupérer,mélange,obj,NOUN,0.5303767919540405,[],,
+mélange,jus,acl,NOUN,0.5865687131881714,[],,
+poêle,chaud,amod,ADJ,0.6645733714103699,"[{""id"": 278998504, ""node1"": 119686, ""node2"": 19150, ""type"": 0, ""w"": 26.0}, {""id"": 3078839, ""node1"": 119686, ""node2"": 19150, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+remuer,cuire,advcl,VERB,0.6866573691368103,[],,
+remuer,éviter,advcl,VERB,0.4676963686943054,[],,
+brûler,lui,nsubj,PRON,0.4473544061183929,[],,
+début,cuisson,nmod,NOUN,0.6100133061408997,[],,
+verser,celui-ci,obj,PRON,0.4830842912197113,[],,
+dorer,côté,nmod,NOUN,0.5379133820533752,[],,
+fois,cuire,acl,VERB,0.6635112762451172,[],,
+mettre,garder,advcl,VERB,0.4096636772155761,"[{""id"": 12296673, ""node1"": 132366, ""node2"": 16087, ""type"": 0, ""w"": 540.0}, {""id"": 578673, ""node1"": 132366, ""node2"": 16087, ""type"": 5, ""w"": 88.0}, {""id"": 494997467, ""node1"": 132366, ""node2"": 16087, ""type"": 35, ""w"": 558.0}]",r_meaning/glose,558.0
+garder,jus,obj,NOUN,0.574667751789093,[],,
+jus,viande,nmod,NOUN,0.6670438051223755,"[{""id"": 417886801, ""node1"": 53310, ""node2"": 140100, ""type"": 0, ""w"": 23.0}, {""id"": 1771773, ""node1"": 53310, ""node2"": 140100, ""type"": 666, ""w"": 1.0}]",r_associated,23.0
+jus,poêle,nmod,NOUN,0.6889194846153259,[],,
+poêle,feu,nmod,NOUN,0.623403787612915,"[{""id"": 12351768, ""node1"": 119686, ""node2"": 143703, ""type"": 0, ""w"": 31.0}, {""id"": 12199892, ""node1"": 119686, ""node2"": 143703, ""type"": 5, ""w"": 35.0}, {""id"": 1786279, ""node1"": 119686, ""node2"": 143703, ""type"": 666, ""w"": 1.0}]",r_syn,35.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+verser,crème,obj,NOUN,0.6168469786643982,[],,

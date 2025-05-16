@@ -1,0 +1,39 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+oignon,farine,amod,NOUN,0.7257387042045593,[],,
+oignon,pâte,nmod,NOUN,0.7073149085044861,[],,
+oignon,briser,acl,VERB,0.5989327430725098,[],,
+briser,raisin,obj,NOUN,0.5583756566047668,[],,
+raisin,sec,acl,ADJ,0.4996888339519501,"[{""id"": 105224, ""node1"": 93528, ""node2"": 63619, ""type"": 0, ""w"": 62.0}, {""id"": 114116, ""node1"": 93528, ""node2"": 63619, ""type"": 17, ""w"": 60.0}, {""id"": 985028970, ""node1"": 93528, ""node2"": 63619, ""type"": 666, ""w"": 2.0}]",r_carac,60.0
+sec,bouillon,obj,NOUN,0.5298058390617371,[],,
+bouillon,olive,nmod,NOUN,0.6758476495742798,"[{""id"": 558755001, ""node1"": 146582, ""node2"": 238, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+olive,vert,amod,ADJ,0.5534511208534241,"[{""id"": 945484, ""node1"": 238, ""node2"": 26976, ""type"": 0, ""w"": 38.0}, {""id"": 53614950, ""node1"": 238, ""node2"": 26976, ""type"": 5, ""w"": 60.0}, {""id"": 12438339, ""node1"": 238, ""node2"": 26976, ""type"": 6, ""w"": 185.0}, {""id"": 96736297, ""node1"": 238, ""node2"": 26976, ""type"": 17, ""w"": 34.0}, {""id"": 14796582, ""node1"": 238, ""node2"": 26976, ""type"": 23, ""w"": 21.0}, {""id"": 3160025, ""node1"": 238, ""node2"": 26976, ""type"": 106, ""w"": 12.0}, {""id"": 2473013, ""node1"": 238, ""node2"": 26976, ""type"": 666, ""w"": 4.0}]",r_isa,185.0
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+poêle,couteau,appos,NOUN,0.6776712536811829,[],,
+rouleau,pâtisserie,nmod,NOUN,0.510869026184082,"[{""id"": 34655902, ""node1"": 59019, ""node2"": 25966, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+pinceau,four,nmod,NOUN,0.6441405415534973,[],,
+four,planche,nmod,NOUN,0.6710441708564758,[],,
+découper,blender,obj,NOUN,0.5404122471809387,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+découper,étape,obj,NOUN,0.4244579374790191,[],,
+pâte,brisé,acl,ADJ,0.5937885046005249,"[{""id"": 796692470, ""node1"": 34069, ""node2"": 18392, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+faire,farce,obj,NOUN,0.5918418765068054,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+ajouter,viande,obj,NOUN,0.7162638902664185,[],,
+ajouter,raisin,obj,NOUN,0.5813983082771301,[],,
+vérifier,assaisonnement,obj,NOUN,0.4943651258945465,[],,
+goût,persil,nmod,NOUN,0.638774037361145,"[{""id"": 909839564, ""node1"": 119233, ""node2"": 135982, ""type"": 0, ""w"": 11.0}]",r_associated,11.0
+mettre,assemblage,nsubj,NOUN,0.451136440038681,[],,
+assemblage,étaler,acl,VERB,0.4314561188220978,[],,
+étaler,pâte,obj,NOUN,0.6019123196601868,"[{""id"": 364779096, ""node1"": 98214, ""node2"": 34069, ""type"": 0, ""w"": 38.0}, {""id"": 243248, ""node1"": 98214, ""node2"": 34069, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+découper,rond,obj,NOUN,0.4962680041790008,[],,
+rond,grandeur,nmod,NOUN,0.4520541131496429,[],,
+mouiller,bord,obj,NOUN,0.4488683640956878,[],,
+souder,obtenir,advcl,VERB,0.4017543494701385,[],,
+faire,cheminée,obj,NOUN,0.5795003771781921,[],,
+faire,laisser,advcl,VERB,0.4241403341293335,"[{""id"": 319664985, ""node1"": 87528, ""node2"": 135779, ""type"": 0, ""w"": 29.0}, {""id"": 85347341, ""node1"": 87528, ""node2"": 135779, ""type"": 7, ""w"": 33.0}]",r_anto,33.0
+échapper,vapeur,obj,NOUN,0.5287647843360901,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+minute,four,nmod,NOUN,0.6574273109436035,[],,
+four,chaud,amod,ADJ,0.6748667359352112,"[{""id"": 363192, ""node1"": 9190, ""node2"": 19150, ""type"": 0, ""w"": 123.0}, {""id"": 376860, ""node1"": 9190, ""node2"": 19150, ""type"": 17, ""w"": 130.0}, {""id"": 11348785, ""node1"": 9190, ""node2"": 19150, ""type"": 28, ""w"": 38.0}, {""id"": 2221131, ""node1"": 9190, ""node2"": 19150, ""type"": 666, ""w"": 1.0}]",r_carac,130.0
+thermostat,degré,nmod,NOUN,0.407830536365509,[],,

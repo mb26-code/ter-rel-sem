@@ -1,0 +1,27 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,pomme,nmod,NOUN,0.5443057417869568,[],,
+pomme,canapé,nmod,NOUN,0.5736949443817139,[],,
+pomme,ingrédient,nmod,NOUN,0.6517195105552673,[],,
+pomme,sucre,nmod,NOUN,0.7055277824401855,"[{""id"": 96711509, ""node1"": 37201, ""node2"": 139481, ""type"": 0, ""w"": 26.0}, {""id"": 96711585, ""node1"": 37201, ""node2"": 139481, ""type"": 9, ""w"": 31.0}, {""id"": 4965769, ""node1"": 37201, ""node2"": 139481, ""type"": 777, ""w"": 2.0}]",r_has_part,31.0
+sucre,roux,amod,ADJ,0.5956728458404541,"[{""id"": 121310, ""node1"": 139481, ""node2"": 75869, ""type"": 0, ""w"": 178.0}, {""id"": 2484851, ""node1"": 139481, ""node2"": 75869, ""type"": 8, ""w"": 64.0}, {""id"": 182237, ""node1"": 139481, ""node2"": 75869, ""type"": 17, ""w"": 174.0}, {""id"": 3163417, ""node1"": 139481, ""node2"": 75869, ""type"": 106, ""w"": 21.0}]",r_carac,174.0
+sucre,pomme,appos,NOUN,0.7055277824401855,"[{""id"": 98623378, ""node1"": 139481, ""node2"": 37201, ""type"": 0, ""w"": 19.0}, {""id"": 612652730, ""node1"": 139481, ""node2"": 37201, ""type"": 9, ""w"": -5.0}, {""id"": 97415216, ""node1"": 139481, ""node2"": 37201, ""type"": 10, ""w"": 26.0}]",r_holo,26.0
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+joli,assiette,amod,NOUN,0.5037632584571838,[],,
+joli,dessert,nmod,NOUN,0.486994057893753,[],,
+quartier,tranche,nmod,NOUN,0.4311788380146026,"[{""id"": 12285886, ""node1"": 1055, ""node2"": 143123, ""type"": 0, ""w"": 21.0}, {""id"": 601610, ""node1"": 1055, ""node2"": 143123, ""type"": 5, ""w"": 95.0}, {""id"": 1766587, ""node1"": 1055, ""node2"": 143123, ""type"": 666, ""w"": 2.0}]",r_syn,95.0
+tranche,épais,amod,ADJ,0.468293696641922,[],,
+couper,minute,obj,NOUN,0.4783671796321869,[],,
+minute,servir,acl,VERB,0.5104015469551086,[],,
+chauffer,beurre,obj,NOUN,0.7066839933395386,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+doré,dessus,nsubj,NOUN,0.494736909866333,"[{""id"": 376083980, ""node1"": 47964, ""node2"": 88380, ""type"": 23, ""w"": 26.0}]",r_carac-1,26.0
+retourner,doré,advcl,ADJ,0.4957032203674316,[],,
+commencer,dessous,nsubj,NOUN,0.4027509987354278,[],,
+verser,commencer,advcl,VERB,0.455157071352005,[],,
+servir,cuire,obj,VERB,0.7140127420425415,[],,
+cuire,poser,advcl,VERB,0.6557443141937256,[],,
+cuire,répartir,advcl,VERB,0.6787233948707581,[],,
+répartir,sauce,obj,NOUN,0.6614258885383606,[],,
+sauce,cuillère,nmod,NOUN,0.7047527432441711,"[{""id"": 31823921, ""node1"": 141110, ""node2"": 51905, ""type"": 58, ""w"": 59.0}]",r_quantificateur,59.0

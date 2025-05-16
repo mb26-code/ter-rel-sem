@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+mandarine,ingrédient,nmod,NOUN,0.6112496256828308,[],,
+mandarine,sucre,appos,NOUN,0.6570725440979004,[],,
+sucre,farine,nmod,NOUN,0.699601411819458,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]",r_associated,47.0
+sucre,beurre,nmod,NOUN,0.6973879933357239,[],,
+beurre,levure,nmod,NOUN,0.6823499798774719,"[{""id"": 500926032, ""node1"": 140377, ""node2"": 53450, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+levure,mandarine,nmod,ADJ,0.5806933641433716,[],,
+sucre,sucre,nmod,NOUN,0.6199788451194763,"[{""id"": 335264, ""node1"": 139481, ""node2"": 139481, ""type"": 19, ""w"": 142.0}, {""id"": 93901596, ""node1"": 139481, ""node2"": 139481, ""type"": 50, ""w"": -27.0}, {""id"": 376041081, ""node1"": 139481, ""node2"": 139481, ""type"": 51, ""w"": 28.0}]",r_lemma,142.0
+sucre,vanillé,amod,ADJ,0.6220211982727051,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]",r_associated,13.0
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+titre,four,nmod,NOUN,0.6455731391906738,[],,
+four,bol,nmod,NOUN,0.6603272557258606,[],,
+bol,saladier,nmod,NOUN,0.5367903709411621,"[{""id"": 796872211, ""node1"": 145405, ""node2"": 45455, ""type"": 0, ""w"": 28.0}, {""id"": 1029292999, ""node1"": 145405, ""node2"": 45455, ""type"": 67, ""w"": 34.0}]",r_similar,34.0
+saladier,fouet,nmod,NOUN,0.5588916540145874,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+fouet,moule,nmod,NOUN,0.5517356395721436,[],,
+manquer,balance,obj,NOUN,0.4325729012489319,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+four,200,nmod,NUM,0.5053980350494385,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+récupérer,pulpe,obj,NOUN,0.5212740302085876,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+mélanger,beurre,obj,NOUN,0.6754149198532104,[],,
+ajouter,jus,nmod,NOUN,0.5800648331642151,[],,
+pulpe,mandarine,nmod,NOUN,0.5138558149337769,"[{""id"": 602047702, ""node1"": 85081, ""node2"": 8003, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+fouet,électrique,amod,ADJ,0.5001648664474487,[],,
+minute,bon,amod,ADJ,0.4657595455646515,[],,
+moule,manquer,acl,VERB,0.5066490769386292,[],,
+moule,cuire,acl,VERB,0.7072280049324036,[],,
+cuire,surveiller,advcl,VERB,0.6847223043441772,[],,
+surveiller,cuisson,obj,NOUN,0.6946427226066589,"[{""id"": 1007853514, ""node1"": 39170, ""node2"": 60056, ""type"": 14, ""w"": 31.0}]",r_patient,31.0

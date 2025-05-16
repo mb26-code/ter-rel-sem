@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+cloche,chocolat,nmod,NOUN,0.5614591240882874,[],,
+cloche,pâtissier,amod,ADJ,0.4896144568920135,[],,
+pâtissier,sucre,acl,NOUN,0.6532259583473206,"[{""id"": 926504815, ""node1"": 31618, ""node2"": 139481, ""type"": 0, ""w"": 24.0}, {""id"": 453662646, ""node1"": 31618, ""node2"": 139481, ""type"": 155, ""w"": 29.0}, {""id"": 972443193, ""node1"": 31618, ""node2"": 139481, ""type"": 666, ""w"": 4.0}]",r_make_use_of,29.0
+sucre,semoule,amod,NOUN,0.6967501044273376,"[{""id"": 277256, ""node1"": 139481, ""node2"": 64778, ""type"": 17, ""w"": -94.0}, {""id"": 639101518, ""node1"": 139481, ""node2"": 64778, ""type"": 141, ""w"": 25.0}]",r_carac_nominale,25.0
+sucre,beurre,nmod,NOUN,0.6973879933357239,[],,
+biscuit,rose,amod,ADJ,0.5368880033493042,"[{""id"": 3184440, ""node1"": 62524, ""node2"": 145583, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+biscuit,jaune,nmod,NOUN,0.5831426978111267,"[{""id"": 3173658, ""node1"": 62524, ""node2"": 86711, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]",r_associated,598.0
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+saladier,planche,nmod,NOUN,0.5950928330421448,[],,
+saladier,découper,advcl,VERB,0.590508759021759,[],,
+découper,rouleau,obj,NOUN,0.4608147442340851,[],,
+rouleau,pâtisserie,nmod,NOUN,0.510869026184082,"[{""id"": 34655902, ""node1"": 59019, ""node2"": 25966, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+pâtisserie,cuillère,nmod,NOUN,0.624411404132843,"[{""id"": 922009701, ""node1"": 25966, ""node2"": 51905, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,frigo,nmod,NOUN,0.6359218955039978,[],,
+frigo,balance,nmod,NOUN,0.5736064314842224,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+cuillère,sortir,acl,VERB,0.5422725081443787,[],,
+cuillère,beurre,nmod,NOUN,0.7091349363327026,"[{""id"": 720818738, ""node1"": 51905, ""node2"": 140377, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+cuillère,réfrigérateur,nmod,NOUN,0.6184566617012024,[],,
+réfrigérateur,heure,nmod,NOUN,0.4385888278484344,[],,
+réfrigérateur,avance,nmod,NOUN,0.4194051027297973,[],,
+aide,cuillère,nmod,NOUN,0.45757657289505,[],,
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+devoir,mélange,nsubj,NOUN,0.4884808361530304,[],,
+biscuit,main,nmod,NOUN,0.4979494214057922,[],,
+poudre,fin,amod,ADJ,0.5089758634567261,[],,
+poudre,aide,nmod,NOUN,0.5063294768333435,[],,
+aide,rouleau,nmod,NOUN,0.408292293548584,[],,
+ajouter,poudre,obj,NOUN,0.5711148977279663,[],,
+poudre,biscuit,nmod,NOUN,0.6338398456573486,[],,
+poudre,crème,nmod,NOUN,0.6194026470184326,"[{""id"": 602100050, ""node1"": 139470, ""node2"": 44001, ""type"": 0, ""w"": 15.0}]",r_associated,15.0
+crème,beurre,nmod,NOUN,0.6757769584655762,"[{""id"": 405906, ""node1"": 44001, ""node2"": 140377, ""type"": 0, ""w"": 73.0}, {""id"": 9980280, ""node1"": 44001, ""node2"": 140377, ""type"": 10, ""w"": 4.0}, {""id"": 1836384, ""node1"": 44001, ""node2"": 140377, ""type"": 21, ""w"": 60.0}, {""id"": 306776452, ""node1"": 44001, ""node2"": 140377, ""type"": 666, ""w"": 2.0}]",r_associated,73.0
+crème,préparer,acl,VERB,0.6308075189590454,[],,

@@ -1,0 +1,47 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+poulet,croustillant,amod,ADJ,0.6747156381607056,[],,
+poulet,Kentucky,nmod,PROPN,0.5470632910728455,[],,
+poulet,ingrédient,nmod,NOUN,0.7190364599227905,"[{""id"": 24929041, ""node1"": 146261, ""node2"": 123418, ""type"": 6, ""w"": 1.0}]",r_isa,1.0
+poulet,poivre,nmod,NOUN,0.7113944888114929,[],,
+poivre,blanc,obj,NOUN,0.6191187500953674,"[{""id"": 3192371, ""node1"": 139597, ""node2"": 15196, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+blanc,poulet,nmod,NOUN,0.6177458167076111,"[{""id"": 9356626, ""node1"": 15196, ""node2"": 146261, ""type"": 0, ""w"": 50.0}, {""id"": 97329786, ""node1"": 15196, ""node2"": 146261, ""type"": 10, ""w"": 29.0}, {""id"": 1933499, ""node1"": 15196, ""node2"": 146261, ""type"": 35, ""w"": 45.0}, {""id"": 14659361, ""node1"": 15196, ""node2"": 146261, ""type"": 42, ""w"": 29.0}, {""id"": 1663131, ""node1"": 15196, ""node2"": 146261, ""type"": 666, ""w"": 1.0}]",r_associated,50.0
+poulet,oeuf,nmod,NOUN,0.6070379018783569,"[{""id"": 101803, ""node1"": 146261, ""node2"": 116175, ""type"": 0, ""w"": 190.0}, {""id"": 182678, ""node1"": 146261, ""node2"": 116175, ""type"": 21, ""w"": 53.0}]",r_associated,190.0
+poulet,souffler,acl,VERB,0.6377381086349487,[],,
+saladier,rouleau,nmod,NOUN,0.5529348850250244,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+pinceau,réfrigérateur,nmod,NOUN,0.4776258468627929,[],,
+réfrigérateur,assiette,nmod,NOUN,0.6654803156852722,[],,
+assiette,étape,nmod,NOUN,0.483820229768753,[],,
+préparer,marinade,obj,NOUN,0.6658932566642761,[],,
+base,huile,nmod,NOUN,0.5959176421165466,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+ajuster,quantité,obj,NOUN,0.4569616615772247,[],,
+quantité,goût,nmod,NOUN,0.586993396282196,[],,
+mélange,facile,amod,ADJ,0.5155138969421387,[],,
+réaliser,ceci,obj,PRON,0.4422899782657623,[],,
+ceci,sac,nmod,NOUN,0.4894172251224518,[],,
+sac,congélation,amod,NOUN,0.4539516866207123,[],,
+réserver,que,obj,PRON,0.4215229451656341,[],,
+ceci,réserver,acl:relcl,VERB,0.4679533541202545,[],,
+réserver,heure,obj,NOUN,0.409327745437622,[],,
+rendre,poulet,obj,NOUN,0.6122574210166931,[],,
+poulet,savoureux,amod,ADJ,0.66801518201828,"[{""id"": 1038391161, ""node1"": 146261, ""node2"": 133888, ""type"": 17, ""w"": 54.0}]",r_carac,54.0
+sac,autre,amod,ADJ,0.4672185778617859,[],,
+aide,rouleau,nmod,NOUN,0.408292293548584,[],,
+rouleau,pâtisserie,nmod,NOUN,0.510869026184082,"[{""id"": 34655902, ""node1"": 59019, ""node2"": 25966, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+rester,morceau,obj,NOUN,0.5114468336105347,[],,
+morceau,donner,acl:relcl,VERB,0.5197407007217407,[],,
+donner,côté,obj,NOUN,0.4326284825801849,[],,
+côté,croustillant,amod,ADJ,0.4793595671653747,[],,
+préparer,assiette,obj,NOUN,0.6424431800842285,"[{""id"": 441020304, ""node1"": 36246, ""node2"": 62735, ""type"": 0, ""w"": 31.0}, {""id"": 441020303, ""node1"": 36246, ""node2"": 62735, ""type"": 14, ""w"": 100.0}, {""id"": 376201123, ""node1"": 36246, ""node2"": 62735, ""type"": 16, ""w"": 26.0}]",r_patient,100.0
+assiette,farine,nmod,NOUN,0.7482396364212036,"[{""id"": 515250668, ""node1"": 62735, ""node2"": 127629, ""type"": 28, ""w"": 26.0}]",r_lieu-1,26.0
+autre,battre,acl:relcl,VERB,0.4559030830860138,[],,
+battre,œuf,obj,NOUN,0.5265821218490601,[],,
+verser,vous,nsubj,PRON,0.400827556848526,[],,
+dernier,verser,acl:relcl,VERB,0.4581643342971802,[],,
+chauffer,tremper,obj,VERB,0.5804680585861206,[],,
+tremper,morceau,nmod,NOUN,0.6189184784889221,[],,
+morceau,poulet,nmod,NOUN,0.6684615612030029,"[{""id"": 775213395, ""node1"": 65364, ""node2"": 146261, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+œuf,battre,acl,VERB,0.5265821218490601,[],,
+doucement,panier,nmod,NOUN,0.44217249751091,[],,
+papier,absorber,amod,VERB,0.4968288838863373,[],,

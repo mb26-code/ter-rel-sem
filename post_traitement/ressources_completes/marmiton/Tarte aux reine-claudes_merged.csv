@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+tarte,reine,nmod,NOUN,0.5441823601722717,"[{""id"": 568728432, ""node1"": 575, ""node2"": 12563, ""type"": 8, ""w"": 29.0}]",r_hypo,29.0
+sucre,pâte,nmod,NOUN,0.7055894136428833,"[{""id"": 1011319149, ""node1"": 139481, ""node2"": 34069, ""type"": 0, ""w"": 10.0}, {""id"": 376037855, ""node1"": 139481, ""node2"": 34069, ""type"": 51, ""w"": 35.0}]",r_mater>object,35.0
+sucre,feuilleter,acl,VERB,0.6479068994522095,[],,
+sucre,reine,nmod,NOUN,0.5879606604576111,[],,
+claude,oeuf,nmod,NOUN,0.4618435502052307,[],,
+oeuf,amande,nmod,NOUN,0.5567412972450256,[],,
+amande,poudre,nmod,NOUN,0.5705900192260742,[],,
+poudre,lait,nmod,NOUN,0.6032078266143799,"[{""id"": 798069862, ""node1"": 139470, ""node2"": 86296, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+lait,moule,nmod,NOUN,0.6305511593818665,[],,
+lait,tarte,nmod,NOUN,0.6912280917167664,[],,
+tarte,four,nmod,NOUN,0.7168973088264465,"[{""id"": 588369597, ""node1"": 575, ""node2"": 9190, ""type"": 0, ""w"": 110.0}, {""id"": 113393, ""node1"": 575, ""node2"": 9190, ""type"": 15, ""w"": 238.0}, {""id"": 1015273156, ""node1"": 575, ""node2"": 9190, ""type"": 666, ""w"": 11.0}, {""id"": 4040856, ""node1"": 575, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_lieu,238.0
+four,bol,nmod,NOUN,0.6603272557258606,[],,
+bol,balance,nmod,NOUN,0.5318400859832764,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,appos,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+tarte,plat,nmod,ADJ,0.689184308052063,"[{""id"": 9624144, ""node1"": 575, ""node2"": 36327, ""type"": 0, ""w"": 46.0}, {""id"": 225521, ""node1"": 575, ""node2"": 36327, ""type"": 6, ""w"": 299.0}, {""id"": 200502, ""node1"": 575, ""node2"": 36327, ""type"": 15, ""w"": 178.0}, {""id"": 1525630, ""node1"": 575, ""node2"": 36327, ""type"": 666, ""w"": 1.0}]",r_isa,299.0
+plat,étape,nmod,NOUN,0.5833562016487122,[],,
+mettre,four,obj,NOUN,0.6733545660972595,[],,
+chauffer,thermostat,obj,NOUN,0.5794539451599121,"[{""id"": 1053586934, ""node1"": 90994, ""node2"": 130331, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+chauffer,degré,obj,NOUN,0.4823050796985626,[],,
+poudre,amande,nmod,NOUN,0.5705900192260742,[],,
+retirer,pâte,obj,NOUN,0.6391966342926025,[],,
+pâte,four,nmod,NOUN,0.7331511378288269,[],,
+placer,reine,obj,NOUN,0.4042171537876129,[],,
+claude,fond,nmod,NOUN,0.4030165076255798,[],,
+fond,tarte,nmod,NOUN,0.6178751587867737,[],,
+verser,préparation,obj,NOUN,0.5208573341369629,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]",r_patient,100.0

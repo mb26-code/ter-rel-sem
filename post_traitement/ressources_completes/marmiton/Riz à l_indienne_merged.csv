@@ -1,0 +1,32 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+clou,indien,amod,ADJ,0.4223378896713257,[],,
+indien,ingrédient,nmod,NOUN,0.5193518400192261,[],,
+ingrédient,oignon,appos,NOUN,0.6626235842704773,"[{""id"": 24923430, ""node1"": 123418, ""node2"": 123307, ""type"": 0, ""w"": 15.0}, {""id"": 24850729, ""node1"": 123418, ""node2"": 123307, ""type"": 8, ""w"": 28.0}]",r_hypo,28.0
+oignon,safran,appos,NOUN,0.6308284997940063,"[{""id"": 926450691, ""node1"": 123307, ""node2"": 84746, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+safran,gingembre,appos,NOUN,0.6005738973617554,"[{""id"": 765583826, ""node1"": 84746, ""node2"": 77020, ""type"": 0, ""w"": 51.0}]",r_associated,51.0
+clou,curry,nmod,NOUN,0.6006376147270203,[],,
+curry,coriandre,nmod,NOUN,0.6611345410346985,"[{""id"": 3116757, ""node1"": 82813, ""node2"": 61977, ""type"": 0, ""w"": 41.0}, {""id"": 479632389, ""node1"": 82813, ""node2"": 61977, ""type"": 9, ""w"": 31.0}]",r_associated,41.0
+coriandre,curcuma,nmod,NOUN,0.6290575861930847,[],,
+raisin,sec,amod,ADJ,0.4996888339519501,"[{""id"": 105224, ""node1"": 93528, ""node2"": 63619, ""type"": 0, ""w"": 62.0}, {""id"": 114116, ""node1"": 93528, ""node2"": 63619, ""type"": 17, ""w"": 60.0}, {""id"": 985028970, ""node1"": 93528, ""node2"": 63619, ""type"": 666, ""w"": 2.0}]",r_carac,60.0
+sec,noix,obj,NOUN,0.5637874007225037,[],,
+saladier,set,nmod,NOUN,0.4222391545772552,[],,
+meilleur,poêle,nmod,NOUN,0.6472519040107727,[],,
+poêle,couvercle,nmod,NOUN,0.6690102219581604,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+four,cuillère,nmod,NOUN,0.7153509855270386,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+clou,revenir,acl,VERB,0.433032751083374,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+épice,mélange,nmod,NOUN,0.6910523176193237,"[{""id"": 736592206, ""node1"": 146056, ""node2"": 14800, ""type"": 0, ""w"": 37.0}]",r_associated,37.0
+mélange,beurre,nmod,NOUN,0.6993793249130249,"[{""id"": 373015122, ""node1"": 14800, ""node2"": 140377, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+épice,minute,nmod,NOUN,0.6603510975837708,[],,
+ajouter,raisin,obj,NOUN,0.5813983082771301,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+griller,fruit,obj,NOUN,0.6278970837593079,"[{""id"": 1051892046, ""node1"": 46367, ""node2"": 87286, ""type"": 13, ""w"": 17.0}]",r_agent,17.0
+fruit,sec,acl,ADJ,0.4956011176109314,"[{""id"": 796701053, ""node1"": 87286, ""node2"": 63619, ""type"": 0, ""w"": 24.0}, {""id"": 14805636, ""node1"": 87286, ""node2"": 63619, ""type"": 17, ""w"": 22.0}]",r_associated,24.0
+riz,cuire,amod,VERB,0.7637909054756165,"[{""id"": 561294219, ""node1"": 24372, ""node2"": 5115, ""type"": 0, ""w"": 39.0}, {""id"": 31823713, ""node1"": 24372, ""node2"": 5115, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0

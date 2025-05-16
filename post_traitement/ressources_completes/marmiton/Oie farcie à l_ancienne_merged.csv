@@ -1,0 +1,45 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,oie,appos,NOUN,0.40482097864151,[],,
+ingrédient,ancien,amod,ADJ,0.4890105128288269,[],,
+ingrédient,oignon,appos,NOUN,0.6626235842704773,"[{""id"": 24923430, ""node1"": 123418, ""node2"": 123307, ""type"": 0, ""w"": 15.0}, {""id"": 24850729, ""node1"": 123418, ""node2"": 123307, ""type"": 8, ""w"": 28.0}]",r_hypo,28.0
+oignon,beurre,acl,NOUN,0.702610969543457,[],,
+poivre,sel,appos,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+ingrédient,chair,nmod,NOUN,0.5996813774108887,[],,
+ingrédient,saucisse,nmod,NOUN,0.7062863111495972,"[{""id"": 15303718, ""node1"": 123418, ""node2"": 77807, ""type"": 0, ""w"": 30.0}, {""id"": 631629178, ""node1"": 123418, ""node2"": 77807, ""type"": 8, ""w"": 1.0}, {""id"": 15173642, ""node1"": 123418, ""node2"": 77807, ""type"": 27, ""w"": -34.0}]",r_associated,30.0
+saucisse,foie,nmod,NOUN,0.6021819710731506,"[{""id"": 642807556, ""node1"": 77807, ""node2"": 115155, ""type"": 0, ""w"": 1.0}, {""id"": 372241311, ""node1"": 77807, ""node2"": 115155, ""type"": 50, ""w"": 26.0}]",r_object>mater,26.0
+foie,marron,nmod,NOUN,0.570483922958374,"[{""id"": 12019207, ""node1"": 115155, ""node2"": 132479, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+foie,pain,nmod,NOUN,0.6837288737297058,[],,
+pain,échalote,nmod,NOUN,0.7162109017372131,[],,
+échalote,lait,appos,NOUN,0.6456893682479858,[],,
+lait,vin,nmod,NOUN,0.6426251530647278,"[{""id"": 386065395, ""node1"": 86296, ""node2"": 35798, ""type"": 6, ""w"": -25.0}, {""id"": 97056184, ""node1"": 86296, ""node2"": 35798, ""type"": 78, ""w"": 28.0}]",r_cohypo,28.0
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+blanc,marron,obj,NOUN,0.4615101218223572,[],,
+ingrédient,four,appos,NOUN,0.7253534197807312,[],,
+four,saladier,nmod,NOUN,0.6991847157478333,[],,
+saladier,pinceau,appos,NOUN,0.5370374321937561,[],,
+pinceau,balance,nmod,NOUN,0.4696744382381439,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,appos,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+ingrédient,étape,nmod,NOUN,0.4697338342666626,[],,
+four,180,nmod,NUM,0.4979606568813324,[],,
+titre,préparation,nmod,NOUN,0.4173219501972198,[],,
+préparation,farce,nmod,NOUN,0.5677170157432556,"[{""id"": 601611629, ""node1"": 33634, ""node2"": 36354, ""type"": 0, ""w"": 29.0}, {""id"": 616543913, ""node1"": 33634, ""node2"": 36354, ""type"": 8, ""w"": 1.0}]",r_associated,29.0
+préparation,saladier,nmod,NOUN,0.6240193843841553,[],,
+marron,chair,nsubj,NOUN,0.5244849920272827,"[{""id"": 97581526, ""node1"": 132479, ""node2"": 61835, ""type"": 9, ""w"": 4.0}]",r_has_part,4.0
+chair,saucisse,nmod,NOUN,0.5549935698509216,"[{""id"": 10009740, ""node1"": 61835, ""node2"": 77807, ""type"": 10, ""w"": 4.0}]",r_holo,4.0
+échalote,haché,amod,ADJ,0.5667595863342285,[],,
+peu,lait,nmod,NOUN,0.5830830335617065,[],,
+échapper,farce,nsubj,NOUN,0.5299266576766968,[],,
+fond,plat,nmod,NOUN,0.5886687636375427,"[{""id"": 961890508, ""node1"": 119272, ""node2"": 36327, ""type"": 10, ""w"": 25.0}]",r_holo,25.0
+fond,four,nmod,NOUN,0.6727500557899475,[],,
+disperser,oignon,obj,NOUN,0.5879791975021362,[],,
+poser,oie,obj,NOUN,0.4255493581295013,[],,
+oie,dessus,nmod,ADV,0.4144056141376495,[],,
+cuire,c,obj,NOUN,0.4126093685626983,[],,
+cours,cuisson,nmod,NOUN,0.6082334518432617,[],,
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+disposer,marron,obj,NOUN,0.5048779249191284,[],,
+marron,plat,nmod,NOUN,0.6188676953315735,[],,
+dresser,oie,obj,NOUN,0.4102630615234375,"[{""id"": 97360182, ""node1"": 43485, ""node2"": 79073, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+oie,plat,nmod,NOUN,0.5355651378631592,[],,
+mettre,sauce,obj,NOUN,0.6739883422851562,[],,

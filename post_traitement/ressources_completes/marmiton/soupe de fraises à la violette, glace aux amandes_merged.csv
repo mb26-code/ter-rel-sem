@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,soupe,appos,NOUN,0.601783037185669,[],,
+soupe,fraise,nmod,NOUN,0.6614145636558533,[],,
+fraise,violette,nmod,NOUN,0.4978170990943908,[],,
+soupe,glace,nmod,NOUN,0.6636869311332703,[],,
+amande,ingrédient,nmod,NOUN,0.5978695750236511,"[{""id"": 559137438, ""node1"": 28557, ""node2"": 123418, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+soupe,liqueur,appos,NOUN,0.6550179123878479,[],,
+liqueur,sucre,appos,NOUN,0.6587448120117188,"[{""id"": 423451177, ""node1"": 66643, ""node2"": 139481, ""type"": 0, ""w"": 26.0}, {""id"": 980975051, ""node1"": 66643, ""node2"": 139481, ""type"": 666, ""w"": 3.0}, {""id"": 3573576, ""node1"": 66643, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]",r_associated,26.0
+sucre,fraise,nmod,NOUN,0.6523148417472839,"[{""id"": 561132474, ""node1"": 139481, ""node2"": 16242, ""type"": 0, ""w"": 52.0}]",r_associated,52.0
+fraise,sirop,appos,NOUN,0.6061238646507263,"[{""id"": 358329, ""node1"": 16242, ""node2"": 91109, ""type"": 0, ""w"": 121.0}, {""id"": 9916980, ""node1"": 16242, ""node2"": 91109, ""type"": 6, ""w"": 117.0}]",r_isa,117.0
+sirop,violette,nmod,NOUN,0.6044551730155945,"[{""id"": 799222496, ""node1"": 91109, ""node2"": 118763, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+violette,glace,nmod,NOUN,0.5497050285339355,[],,
+sucre,bonbon,nmod,NOUN,0.6300920248031616,"[{""id"": 98372, ""node1"": 139481, ""node2"": 120500, ""type"": 0, ""w"": 522.0}, {""id"": 82594, ""node1"": 139481, ""node2"": 120500, ""type"": 6, ""w"": -10.0}, {""id"": 2257958, ""node1"": 139481, ""node2"": 120500, ""type"": 8, ""w"": -51.0}, {""id"": 9986085, ""node1"": 139481, ""node2"": 120500, ""type"": 10, ""w"": 4.0}, {""id"": 1906975, ""node1"": 139481, ""node2"": 120500, ""type"": 15, ""w"": 88.0}, {""id"": 2270922, ""node1"": 139481, ""node2"": 120500, ""type"": 41, ""w"": 51.0}, {""id"": 34297359, ""node1"": 139481, ""node2"": 120500, ""type"": 51, ""w"": 76.0}, {""id"": 1577544, ""node1"": 139481, ""node2"": 120500, ""type"": 666, ""w"": 6.0}]",r_associated,522.0
+bonbon,violette,nmod,NOUN,0.4915753901004791,"[{""id"": 97349002, ""node1"": 120500, ""node2"": 118763, ""type"": 0, ""w"": 17.0}, {""id"": 97349023, ""node1"": 120500, ""node2"": 118763, ""type"": 8, ""w"": 41.0}]",r_hypo,41.0
+violette,louche,appos,NOUN,0.5290247201919556,[],,
+louche,mixeur,nmod,NOUN,0.5896725058555603,[],,
+mixeur,plonger,acl,VERB,0.5584041476249695,[],,
+mixeur,chauffer,acl,VERB,0.6226776838302612,[],,
+violette,étape,nmod,NOUN,0.4056653380393982,[],,
+obtenir,soupe,obj,NOUN,0.6295484900474548,[],,
+aide,robot,nmod,NOUN,0.4581281542778015,[],,
+aide,casser,acl,VERB,0.4300147294998169,[],,
+casser,bonbon,obj,NOUN,0.5152852535247803,[],,
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+bonbon,morceau,nmod,NOUN,0.5583738088607788,[],,
+incorporer,sirop,obj,NOUN,0.6195610165596008,[],,
+liqueur,éclat,nmod,NOUN,0.4759919643402099,[],,
+éclat,bonbon,nmod,NOUN,0.455436110496521,[],,
+liqueur,soupe,nmod,NOUN,0.6550179123878479,[],,
+temps,repas,nmod,NOUN,0.5236185789108276,[],,
+servir,soupe,obj,NOUN,0.6661458611488342,"[{""id"": 369969186, ""node1"": 7888, ""node2"": 117152, ""type"": 0, ""w"": 27.0}, {""id"": 369969185, ""node1"": 7888, ""node2"": 117152, ""type"": 14, ""w"": 100.0}, {""id"": 1046684358, ""node1"": 7888, ""node2"": 117152, ""type"": 31, ""w"": 20.0}]",r_patient,100.0
+soupe,boule,nmod,NOUN,0.6362457275390625,[],,
+boule,glace,nmod,NOUN,0.5476489067077637,"[{""id"": 243451, ""node1"": 141883, ""node2"": 141964, ""type"": 0, ""w"": 101.0}, {""id"": 9903174, ""node1"": 141883, ""node2"": 141964, ""type"": 6, ""w"": 13.0}, {""id"": 4985394, ""node1"": 141883, ""node2"": 141964, ""type"": 9, ""w"": 5.0}, {""id"": 720819380, ""node1"": 141883, ""node2"": 141964, ""type"": 174, ""w"": 25.0}]",r_associated,101.0
+boule,amande,nmod,NOUN,0.5611103177070618,[],,
+amande,pincée,nmod,NOUN,0.5587226152420044,[],,
+pincée,éclat,nmod,NOUN,0.463395893573761,[],,

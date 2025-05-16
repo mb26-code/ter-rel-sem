@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+ingrédient,levure,nmod,NOUN,0.6170762777328491,[],,
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+levure,sucre,acl,NOUN,0.6511401534080505,[],,
+sucre,farine,nmod,NOUN,0.699601411819458,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]",r_associated,47.0
+fécule,pomme,nmod,NOUN,0.6095135807991028,[],,
+fécule,terre,nmod,NOUN,0.6049109101295471,"[{""id"": 1066636226, ""node1"": 30818, ""node2"": 25705, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+sucre,lait,nmod,NOUN,0.6437966823577881,[],,
+lait,arôme,nmod,NOUN,0.6057977080345154,[],,
+lait,oeuf,nmod,NOUN,0.590930700302124,"[{""id"": 920038083, ""node1"": 86296, ""node2"": 116175, ""type"": 0, ""w"": 21.0}, {""id"": 385498014, ""node1"": 86296, ""node2"": 116175, ""type"": 8, ""w"": -25.0}]",r_associated,21.0
+sucre,fouet,nmod,NOUN,0.6268562078475952,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+cuisine,four,nmod,NOUN,0.7261565923690796,"[{""id"": 61636, ""node1"": 16033, ""node2"": 9190, ""type"": 0, ""w"": 451.0}, {""id"": 9626479, ""node1"": 16033, ""node2"": 9190, ""type"": 8, ""w"": -17.0}, {""id"": 82691, ""node1"": 16033, ""node2"": 9190, ""type"": 9, ""w"": 199.0}, {""id"": 15174288, ""node1"": 16033, ""node2"": 9190, ""type"": 27, ""w"": 43.0}, {""id"": 140340, ""node1"": 16033, ""node2"": 9190, ""type"": 28, ""w"": 605.0}, {""id"": 14673977, ""node1"": 16033, ""node2"": 9190, ""type"": 42, ""w"": 30.0}, {""id"": 765213560, ""node1"": 16033, ""node2"": 9190, ""type"": 75, ""w"": 29.0}, {""id"": 1987177, ""node1"": 16033, ""node2"": 9190, ""type"": 666, ""w"": 3.0}]",r_lieu-1,605.0
+four,saladier,nmod,NOUN,0.6991847157478333,[],,
+saladier,balance,nmod,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,réfrigérateur,nmod,NOUN,0.5236407518386841,[],,
+réfrigérateur,plat,nmod,ADJ,0.6221921443939209,"[{""id"": 399515136, ""node1"": 128721, ""node2"": 36327, ""type"": 0, ""w"": 100.0}, {""id"": 13501043, ""node1"": 128721, ""node2"": 36327, ""type"": 28, ""w"": 60.0}]",r_associated,100.0
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[],,
+réfrigérateur,battre,amod,VERB,0.4979555606842041,[],,
+réfrigérateur,oeuf,nmod,NOUN,0.5467039942741394,"[{""id"": 150827, ""node1"": 128721, ""node2"": 116175, ""type"": 28, ""w"": 261.0}]",r_lieu-1,261.0
+réfrigérateur,sucre,nmod,NOUN,0.6818865537643433,[],,
+verser,peu,obj,ADV,0.4855603873729706,[],,
+peu,lait,nmod,NOUN,0.5830830335617065,[],,
+incorporer,fécule,obj,NOUN,0.5685175061225891,[],,
+restant,lait,nmod,NOUN,0.5810036063194275,[],,
+rajouter,levure,obj,NOUN,0.571478545665741,[],,
+pain,suédois,amod,ADJ,0.6133859157562256,"[{""id"": 100199175, ""node1"": 61283, ""node2"": 77659, ""type"": 17, ""w"": 40.0}]",r_carac,40.0
+rajouter,arôme,obj,NOUN,0.5594847798347473,[],,
+plat,bord,nmod,NOUN,0.5617609024047852,"[{""id"": 9983505, ""node1"": 36327, ""node2"": 63985, ""type"": 0, ""w"": 35.0}, {""id"": 269939, ""node1"": 36327, ""node2"": 63985, ""type"": 9, ""w"": 51.0}]",r_has_part,51.0
+pouvoir,mélange,nsubj,NOUN,0.4981621205806732,[],,
+mélange,liquide,amod,ADJ,0.5825608968734741,"[{""id"": 559129685, ""node1"": 14800, ""node2"": 140315, ""type"": 0, ""w"": 58.0}, {""id"": 653268744, ""node1"": 14800, ""node2"": 140315, ""type"": 666, ""w"": 2.0}, {""id"": 3276935, ""node1"": 14800, ""node2"": 140315, ""type"": 777, ""w"": 10.0}]",r_associated,58.0
+four,chaud,amod,ADJ,0.6748667359352112,"[{""id"": 363192, ""node1"": 9190, ""node2"": 19150, ""type"": 0, ""w"": 123.0}, {""id"": 376860, ""node1"": 9190, ""node2"": 19150, ""type"": 17, ""w"": 130.0}, {""id"": 11348785, ""node1"": 9190, ""node2"": 19150, ""type"": 28, ""w"": 38.0}, {""id"": 2221131, ""node1"": 9190, ""node2"": 19150, ""type"": 666, ""w"": 1.0}]",r_carac,130.0
+brûler,cela,nsubj,PRON,0.5218803882598877,[],,
+passer,brûler,advcl,VERB,0.5040871500968933,"[{""id"": 12306425, ""node1"": 28108, ""node2"": 75156, ""type"": 0, ""w"": 24.0}, {""id"": 563703, ""node1"": 28108, ""node2"": 75156, ""type"": 5, ""w"": 54.0}]",r_syn,54.0
+fois,refroidir,acl,VERB,0.466064989566803,[],,

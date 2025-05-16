@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+oignon,ingrédient,nmod,NOUN,0.6626235842704773,"[{""id"": 24850728, ""node1"": 123307, ""node2"": 123418, ""type"": 0, ""w"": 29.0}, {""id"": 24842101, ""node1"": 123307, ""node2"": 123418, ""type"": 6, ""w"": 109.0}]",r_isa,109.0
+poivre,sel,acl,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+poivre,vinaigre,acl,NOUN,0.6644958257675171,"[{""id"": 584573829, ""node1"": 139597, ""node2"": 145443, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+poivre,vin,acl,NOUN,0.6713349223136902,[],,
+poivre,rouge,amod,ADJ,0.6151092648506165,[],,
+poivre,sucre,acl,NOUN,0.7045173048973083,"[{""id"": 584573844, ""node1"": 139597, ""node2"": 139481, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,oignon,nmod,NOUN,0.6705887317657471,[],,
+titre,couteau,nmod,NOUN,0.4826497733592987,[],,
+titre,casserole,nmod,NOUN,0.5580013990402222,[],,
+casserole,cuillère,nmod,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,congélateur,appos,NOUN,0.6287068128585815,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+sucre,pincée,appos,NOUN,0.6500593423843384,[],,
+pincée,sel,nmod,NOUN,0.6588193774223328,"[{""id"": 665112730, ""node1"": 122023, ""node2"": 13260, ""type"": 174, ""w"": 40.0}, {""id"": 990072491, ""node1"": 122023, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]",r_quantificateur-1,40.0
+cuire,doux,amod,ADJ,0.6520003080368042,"[{""id"": 967067970, ""node1"": 5115, ""node2"": 74183, ""type"": 14, ""w"": -25.0}]",r_patient,-25.0
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+cuire,remuer,advcl,VERB,0.6866573691368103,[],,
+bout,temps,nmod,NOUN,0.4240377843379974,"[{""id"": 418423744, ""node1"": 56924, ""node2"": 13861, ""type"": 0, ""w"": 36.0}, {""id"": 418423743, ""node1"": 56924, ""node2"": 13861, ""type"": 3, ""w"": 35.0}]",r_associated,36.0
+ajouter,vin,obj,NOUN,0.6198925375938416,[],,
+poursuivre,cuisson,obj,NOUN,0.6843500733375549,[],,
+cuisson,feu,nmod,NOUN,0.6483181118965149,"[{""id"": 53757049, ""node1"": 60056, ""node2"": 143703, ""type"": 0, ""w"": 22.0}, {""id"": 53594904, ""node1"": 60056, ""node2"": 143703, ""type"": 5, ""w"": 65.0}, {""id"": 14675290, ""node1"": 60056, ""node2"": 143703, ""type"": 42, ""w"": 35.0}, {""id"": 1066090857, ""node1"": 60056, ""node2"": 143703, ""type"": 129, ""w"": 28.0}]",r_syn,65.0
+évaporation,liquide,nmod,NOUN,0.5137730836868286,"[{""id"": 367812, ""node1"": 26046, ""node2"": 140315, ""type"": 0, ""w"": 57.0}]",r_associated,57.0
+consistance,préparation,nmod,NOUN,0.5032097697257996,[],,
+continuer,cuisson,obj,NOUN,0.6962435841560364,"[{""id"": 373014731, ""node1"": 120659, ""node2"": 60056, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+cuisson,découvrir,acl,VERB,0.7301942110061646,[],,
+accompagner,pièce,obj,NOUN,0.4392297267913818,[],,
+pièce,bœuf,nmod,NOUN,0.5890517234802246,[],,
+foie,gras,amod,ADJ,0.5544026494026184,"[{""id"": 102370, ""node1"": 115155, ""node2"": 56362, ""type"": 0, ""w"": 70.0}, {""id"": 157174, ""node1"": 115155, ""node2"": 56362, ""type"": 17, ""w"": 61.0}, {""id"": 1764999, ""node1"": 115155, ""node2"": 56362, ""type"": 666, ""w"": 1.0}]",r_associated,70.0
+ajouter,pincée,obj,NOUN,0.4863170683383941,[],,
+pincée,poivre,nmod,NOUN,0.6038779020309448,"[{""id"": 720818749, ""node1"": 122023, ""node2"": 139597, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+fleur,sel,nmod,NOUN,0.668102502822876,"[{""id"": 796703205, ""node1"": 28985, ""node2"": 13260, ""type"": 0, ""w"": 28.0}]",r_associated,28.0

@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,liqueur,nmod,NOUN,0.4889945387840271,[],,
+liqueur,ingrédient,nmod,NOUN,0.6168590784072876,"[{""id"": 421308321, ""node1"": 66643, ""node2"": 123418, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+liqueur,sucre,appos,NOUN,0.6587448120117188,"[{""id"": 423451177, ""node1"": 66643, ""node2"": 139481, ""type"": 0, ""w"": 26.0}, {""id"": 980975051, ""node1"": 66643, ""node2"": 139481, ""type"": 666, ""w"": 3.0}, {""id"": 3573576, ""node1"": 66643, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]",r_associated,26.0
+sucre,feuille,nmod,NOUN,0.6661063432693481,[],,
+sucre,alcool,nmod,NOUN,0.6231129765510559,"[{""id"": 8792327, ""node1"": 139481, ""node2"": 47597, ""type"": 0, ""w"": 5.0}]",r_associated,5.0
+sucre,fruit,nmod,NOUN,0.6387148499488831,"[{""id"": 98831553, ""node1"": 139481, ""node2"": 87286, ""type"": 0, ""w"": 22.0}, {""id"": 9997585, ""node1"": 139481, ""node2"": 87286, ""type"": 10, ""w"": 32.0}]",r_holo,32.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+liqueur,étape,nmod,NOUN,0.4662289917469024,[],,
+liqueur,préparer,acl,VERB,0.5750446915626526,[],,
+remplir,bocal,obj,NOUN,0.5234707593917847,"[{""id"": 31867785, ""node1"": 95980, ""node2"": 109384, ""type"": 14, ""w"": 30.0}, {""id"": 1046684348, ""node1"": 95980, ""node2"": 109384, ""type"": 31, ""w"": 20.0}]",r_patient,30.0
+bocal,verre,nmod,NOUN,0.5670445561408997,"[{""id"": 437763, ""node1"": 109384, ""node2"": 144497, ""type"": 0, ""w"": 87.0}, {""id"": 106939492, ""node1"": 109384, ""node2"": 144497, ""type"": 50, ""w"": 22.0}, {""id"": 988431929, ""node1"": 109384, ""node2"": 144497, ""type"": 666, ""w"": 3.0}]",r_associated,87.0
+bocal,moitié,nmod,NOUN,0.5655501484870911,[],,
+moitié,feuille,nmod,NOUN,0.4897612333297729,[],,
+verser,alcool,obj,NOUN,0.5398617386817932,"[{""id"": 560983473, ""node1"": 104506, ""node2"": 47597, ""type"": 0, ""w"": 40.0}, {""id"": 220539, ""node1"": 104506, ""node2"": 47597, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+verser,remplir,advcl,VERB,0.4261424541473388,"[{""id"": 12293761, ""node1"": 104506, ""node2"": 95980, ""type"": 0, ""w"": 23.0}, {""id"": 582608, ""node1"": 104506, ""node2"": 95980, ""type"": 5, ""w"": 86.0}, {""id"": 377014261, ""node1"": 104506, ""node2"": 95980, ""type"": 20, ""w"": 34.0}]",r_syn,86.0
+reposer,jour,obj,NOUN,0.4236785769462585,[],,
+jour,soleil,nmod,NOUN,0.428830087184906,"[{""id"": 113248, ""node1"": 88543, ""node2"": 24522, ""type"": 0, ""w"": 435.5}, {""id"": 54419609, ""node1"": 88543, ""node2"": 24522, ""type"": 5, ""w"": 68.0}, {""id"": 1373999, ""node1"": 88543, ""node2"": 24522, ""type"": 17, ""w"": -98.0}, {""id"": 2481466, ""node1"": 88543, ""node2"": 24522, ""type"": 20, ""w"": 60.0}, {""id"": 1698511, ""node1"": 88543, ""node2"": 24522, ""type"": 42, ""w"": 90.0}, {""id"": 674118415, ""node1"": 88543, ""node2"": 24522, ""type"": 666, ""w"": 3.0}]",r_associated,435.5
+bout,jour,nmod,NOUN,0.4079176783561706,[],,
+bout,filtrer,acl,VERB,0.4270351231098175,[],,
+filtrer,alcool,obj,NOUN,0.4631219506263733,"[{""id"": 941883395, ""node1"": 62259, ""node2"": 47597, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+filtre,café,nmod,NOUN,0.513759195804596,"[{""id"": 53750051, ""node1"": 28570, ""node2"": 66324, ""type"": 0, ""w"": 29.0}, {""id"": 53602255, ""node1"": 28570, ""node2"": 66324, ""type"": 5, ""w"": 55.0}, {""id"": 14797187, ""node1"": 28570, ""node2"": 66324, ""type"": 23, ""w"": 28.0}, {""id"": 1010158404, ""node1"": 28570, ""node2"": 66324, ""type"": 49, ""w"": -25.0}, {""id"": 1772509, ""node1"": 28570, ""node2"": 66324, ""type"": 666, ""w"": 3.0}]",r_syn,55.0
+presser,feuille,obj,NOUN,0.4893403053283691,[],,
+jus,tout,amod,ADJ,0.5923869609832764,[],,
+récupérer,jus,obj,NOUN,0.5488473176956177,[],,
+sucre,raison,nmod,NOUN,0.6647053956985474,[],,
+sucre,gramme,nmod,NOUN,0.6024630069732666,"[{""id"": 1913810, ""node1"": 139481, ""node2"": 140383, ""type"": 58, ""w"": 35.0}]",r_quantificateur,35.0
+gramme,sucre,nmod,NOUN,0.6024630069732666,"[{""id"": 720818120, ""node1"": 140383, ""node2"": 139481, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+sucre,litre,nmod,NOUN,0.6142348051071167,[],,

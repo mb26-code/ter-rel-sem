@@ -1,0 +1,42 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+couscous,marocain,amod,ADJ,0.5116741061210632,"[{""id"": 652233334, ""node1"": 35814, ""node2"": 39474, ""type"": 0, ""w"": 21.0}, {""id"": 98284239, ""node1"": 35814, ""node2"": 39474, ""type"": 17, ""w"": 46.0}, {""id"": 6862447, ""node1"": 35814, ""node2"": 39474, ""type"": 777, ""w"": 9.0}]",r_carac,46.0
+ingrédient,pois,nmod,NOUN,0.5750998258590698,[],,
+poivron,poivron,nmod,NOUN,0.5950539112091064,"[{""id"": 324690, ""node1"": 38257, ""node2"": 38257, ""type"": 19, ""w"": 60.0}]",r_lemma,60.0
+poivron,vert,amod,ADJ,0.5634176135063171,"[{""id"": 273172, ""node1"": 38257, ""node2"": 26976, ""type"": 0, ""w"": 151.0}, {""id"": 1944117, ""node1"": 38257, ""node2"": 26976, ""type"": 17, ""w"": 36.0}, {""id"": 3154905, ""node1"": 38257, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]",r_associated,151.0
+poivron,oignon,nmod,NOUN,0.6262408494949341,[],,
+oignon,carotte,amod,ADJ,0.6226851344108582,[],,
+chou,citrouille,amod,NOUN,0.5804138779640198,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+viande,tout,amod,ADJ,0.7159339189529419,[],,
+revenir,viande,obj,NOUN,0.7223973870277405,[],,
+cuire,le,nsubj,PRON,0.4500194191932678,[],,
+cuire,on,nsubj,PRON,0.4068425595760345,[],,
+ajouter,huile,obj,NOUN,0.5838896036148071,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+légume,tout,amod,ADJ,0.6585912108421326,[],,
+revenir,légume,obj,NOUN,0.6808741092681885,[],,
+légume,courgette,nmod,NOUN,0.6664819121360779,"[{""id"": 199185, ""node1"": 120603, ""node2"": 85172, ""type"": 0, ""w"": 313.0}, {""id"": 99723, ""node1"": 120603, ""node2"": 85172, ""type"": 8, ""w"": 127.0}, {""id"": 15191991, ""node1"": 120603, ""node2"": 85172, ""type"": 27, ""w"": -30.0}, {""id"": 1567686, ""node1"": 120603, ""node2"": 85172, ""type"": 666, ""w"": 3.0}]",r_associated,313.0
+cuire,il,nsubj:pass,PRON,0.4034532904624939,[],,
+revenir,cuire,advcl,VERB,0.6993165612220764,[],,
+ajouter,tomate,obj,NOUN,0.6318210363388062,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 30.0}]",r_agent,30.0
+tomate,couper,acl,VERB,0.6290057301521301,"[{""id"": 920912564, ""node1"": 22138, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 628044041, ""node1"": 22138, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+ajouter,épice,obj,NOUN,0.6555647850036621,[],,
+quantité,dont,nmod,PRON,0.4371947050094604,[],,
+être,quantité,nsubj,NOUN,0.4083384275436401,[],,
+goût,chacun,nmod,PRON,0.5284964442253113,[],,
+couvrir,trouver,advcl,VERB,0.4312798678874969,[],,
+trouver,épice,obj,NOUN,0.635891318321228,[],,
+épice,prêt,acl:relcl,ADJ,0.6334084272384644,[],,
+paprika,safran,appos,ADJ,0.5992005467414856,[],,
+soupçon,cannelle,nmod,ADJ,0.5619922876358032,[],,
+rajouter,couvrir,advcl,VERB,0.4579525887966156,[],,
+bouillon,viande,nmod,NOUN,0.7614920139312744,"[{""id"": 558647534, ""node1"": 146582, ""node2"": 140100, ""type"": 0, ""w"": 28.0}, {""id"": 1033715516, ""node1"": 146582, ""node2"": 140100, ""type"": 28, ""w"": 26.0}, {""id"": 1071673578, ""node1"": 146582, ""node2"": 140100, ""type"": 666, ""w"": 2.0}, {""id"": 4238168, ""node1"": 146582, ""node2"": 140100, ""type"": 777, ""w"": 10.0}]",r_associated,28.0
+cuire,1h30,obj,NOUN,0.6182112097740173,[],,
+bouillon,petit,amod,DET,0.6280714869499207,[],,
+fin,minute,nmod,NOUN,0.4153892695903778,[],,
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+rajouter,courgette,obj,NOUN,0.6194344162940979,[],,
+recette,bon,amod,ADJ,0.5508256554603577,"[{""id"": 98281066, ""node1"": 120188, ""node2"": 144229, ""type"": 17, ""w"": 21.0}]",r_carac,21.0
+avoir,recette,obj,NOUN,0.5466946363449097,[],,
+recette,site,nmod,NOUN,0.4901951253414154,[],,

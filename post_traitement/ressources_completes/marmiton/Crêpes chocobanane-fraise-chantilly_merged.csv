@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+chantilly,ingrédient,nmod,NOUN,0.6074931025505066,[],,
+chantilly,crêpe,acl,NOUN,0.5908499360084534,[],,
+tartiner,confiture,obj,NOUN,0.5687920451164246,"[{""id"": 1746977, ""node1"": 131654, ""node2"": 70793, ""type"": 0, ""w"": 172.0}, {""id"": 211028, ""node1"": 131654, ""node2"": 70793, ""type"": 14, ""w"": 100.0}, {""id"": 221511, ""node1"": 131654, ""node2"": 70793, ""type"": 16, ""w"": 60.0}, {""id"": 646216699, ""node1"": 131654, ""node2"": 70793, ""type"": 666, ""w"": 3.0}]",r_associated,172.0
+confiture,fraise,nmod,NOUN,0.5740073919296265,"[{""id"": 138285, ""node1"": 70793, ""node2"": 16242, ""type"": 0, ""w"": 281.0}, {""id"": 1786545, ""node1"": 70793, ""node2"": 16242, ""type"": 666, ""w"": 1.0}]",r_associated,281.0
+fraise,crème,amod,NOUN,0.6075589656829834,"[{""id"": 13099869, ""node1"": 16242, ""node2"": 44001, ""type"": 28, ""w"": 41.0}, {""id"": 1662776, ""node1"": 16242, ""node2"": 44001, ""type"": 666, ""w"": 1.0}]",r_lieu-1,41.0
+fraise,louche,appos,NOUN,0.5741251111030579,[],,
+louche,batteur,nmod,NOUN,0.5252529382705688,[],,
+batteur,électrique,amod,ADJ,0.4791879951953888,[],,
+batteur,fouet,nmod,NOUN,0.480416476726532,"[{""id"": 12254649, ""node1"": 29241, ""node2"": 73888, ""type"": 0, ""w"": 30.0}, {""id"": 682538, ""node1"": 29241, ""node2"": 73888, ""type"": 5, ""w"": 94.0}]",r_syn,94.0
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 306.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 266.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,306.0
+fouet,couteau,nmod,NOUN,0.5214830636978149,[],,
+couteau,couvercle,nmod,NOUN,0.5890913009643555,[],,
+fouet,poêle,nmod,NOUN,0.6531555652618408,[],,
+confiture,crêpe,nmod,NOUN,0.6246090531349182,"[{""id"": 558708559, ""node1"": 70793, ""node2"": 17186, ""type"": 0, ""w"": 27.0}, {""id"": 104955977, ""node1"": 70793, ""node2"": 17186, ""type"": 15, ""w"": 6.0}]",r_associated,27.0
+crêpe,étape,obj,NOUN,0.5361658334732056,[],,
+tartiner,faire,obj,AUX,0.5151997804641724,[],,
+tartiner,crêpe,obj,NOUN,0.5863854289054871,"[{""id"": 98317251, ""node1"": 131654, ""node2"": 17186, ""type"": 14, ""w"": 41.0}]",r_patient,41.0
+crêpe,avoir,nmod,VERB,0.5665090680122375,[],,
+crêpe,fait,acl,ADJ,0.6045041084289551,"[{""id"": 477608728, ""node1"": 17186, ""node2"": 104957, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+couper,banane,obj,NOUN,0.5668771266937256,[],,
+rondelle,fin,amod,ADJ,0.4580791592597961,[],,
+banane,rondelle,nmod,NOUN,0.5429562330245972,[],,
+disposer,que,obj,PRON,0.4105834662914276,[],,
+banane,disposer,acl:relcl,VERB,0.5720133185386658,[],,
+crème,Chantilly,nmod,PROPN,0.5291969776153564,"[{""id"": 464788, ""node1"": 44001, ""node2"": 140851, ""type"": 0, ""w"": 71.0}]",r_associated,71.0
+prendre,forme,obj,NOUN,0.4339050650596618,"[{""id"": 488344148, ""node1"": 86306, ""node2"": 142000, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+forme,banane,nmod,NOUN,0.537447452545166,"[{""id"": 915360929, ""node1"": 142000, ""node2"": 34046, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+disposer,rondelle,obj,NOUN,0.4852708280086517,[],,
+dessus,crêpe,nmod,NOUN,0.594714879989624,[],,
+filet,petit,amod,ADJ,0.5536668300628662,[],,
+déposer,filet,obj,NOUN,0.5411400198936462,[],,
+filet,confiture,nmod,NOUN,0.6276217699050903,[],,

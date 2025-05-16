@@ -1,0 +1,48 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+mélanger,titre,nsubj,NOUN,0.4706915318965912,[],,
+titre,sauté,nmod,NOUN,0.4211780428886413,[],,
+sauté,poulet,nmod,NOUN,0.5751345157623291,"[{""id"": 376086104, ""node1"": 47669, ""node2"": 146261, ""type"": 23, ""w"": 26.0}]",r_carac-1,26.0
+légume,petit,amod,ADJ,0.654370129108429,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,huile,appos,NOUN,0.6304486989974976,"[{""id"": 561306445, ""node1"": 123418, ""node2"": 141971, ""type"": 0, ""w"": 44.0}]",r_associated,44.0
+ingrédient,oignon,appos,NOUN,0.6626235842704773,"[{""id"": 24923430, ""node1"": 123418, ""node2"": 123307, ""type"": 0, ""w"": 15.0}, {""id"": 24850729, ""node1"": 123418, ""node2"": 123307, ""type"": 8, ""w"": 28.0}]",r_hypo,28.0
+ingrédient,rouge,amod,ADJ,0.5934998989105225,[],,
+ingrédient,poivron,nmod,NOUN,0.6912822127342224,"[{""id"": 24923436, ""node1"": 123418, ""node2"": 38257, ""type"": 0, ""w"": 15.0}, {""id"": 24850722, ""node1"": 123418, ""node2"": 38257, ""type"": 8, ""w"": 34.0}]",r_hypo,34.0
+poulet,germe,nmod,NOUN,0.6103102564811707,[],,
+ail,soja,amod,ADV,0.641560435295105,[],,
+poulet,ail,nmod,ADP,0.6298409104347229,[],,
+piment,petit,amod,ADJ,0.6294569373130798,[],,
+poisson,piment,appos,NOUN,0.7051624059677124,"[{""id"": 423999126, ""node1"": 68467, ""node2"": 128791, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+titre,saladier,nmod,NOUN,0.5138511061668396,[],,
+pinceau,cuillère,nmod,NOUN,0.5075318813323975,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+titre,assiette,nmod,NOUN,0.5100160241127014,[],,
+assiette,étape,nmod,NOUN,0.483820229768753,[],,
+assiette,couper,acl,VERB,0.5985233187675476,[],,
+couper,poulet,nmod,NOUN,0.6432042717933655,"[{""id"": 31823943, ""node1"": 128828, ""node2"": 146261, ""type"": 14, ""w"": 59.0}]",r_patient,59.0
+titre,marinade,nmod,NOUN,0.5910806655883789,[],,
+mélanger,sauce,obj,NOUN,0.7105662822723389,"[{""id"": 343034831, ""node1"": 37151, ""node2"": 141110, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+gousse,ail,nmod,ADV,0.5501744151115417,"[{""id"": 1841967, ""node1"": 3889, ""node2"": 26979, ""type"": 0, ""w"": 58.0}, {""id"": 665112731, ""node1"": 3889, ""node2"": 26979, ""type"": 174, ""w"": 40.0}, {""id"": 714921743, ""node1"": 3889, ""node2"": 26979, ""type"": 666, ""w"": 3.0}]",r_associated,58.0
+piment,découper,acl,VERB,0.6640447974205017,[],,
+rondelle,petit,amod,ADJ,0.549956738948822,"[{""id"": 417861738, ""node1"": 71106, ""node2"": 55222, ""type"": 0, ""w"": 12.0}, {""id"": 9106735, ""node1"": 71106, ""node2"": 55222, ""type"": 666, ""w"": 1.0}]",r_associated,12.0
+viande,possible,amod,ADJ,0.7026186585426331,[],,
+préparer,légume,obj,NOUN,0.6866786479949951,"[{""id"": 97862824, ""node1"": 36246, ""node2"": 120603, ""type"": 14, ""w"": 40.0}]",r_patient,40.0
+préparer,couper,obj,VERB,0.4796249568462372,[],,
+couper,carotte,amod,NOUN,0.5670887231826782,"[{""id"": 93436614, ""node1"": 128828, ""node2"": 76234, ""type"": 14, ""w"": 32.0}]",r_patient,32.0
+chauffer,huile,obj,NOUN,0.64256751537323,[],,
+ajouter,oignon,obj,NOUN,0.585871696472168,[],,
+ajouter,commencer,advcl,VERB,0.4004059433937073,[],,
+remuer,revenir,acl,VERB,0.5150187611579895,[],,
+revenir,doux,amod,ADJ,0.4705588817596435,[],,
+assiette,part,nmod,NOUN,0.5360603332519531,[],,
+réserver,marinade,obj,NOUN,0.6374384164810181,[],,
+commencer,poulet,nsubj,NOUN,0.6555604338645935,[],,
+ajouter,légume,obj,NOUN,0.6689792275428772,[],,
+légume,remuer,acl,VERB,0.6983150839805603,[],,
+reste,petit,amod,ADJ,0.4910883009433746,[],,
+ajouter,reste,obj,NOUN,0.454963743686676,[],,
+reste,marinade,nmod,NOUN,0.6412528157234192,[],,
+devoir,fond,nsubj,NOUN,0.4445839822292328,[],,
+ajouter,poignée,obj,NOUN,0.4663266837596893,[],,
+poignée,soja,nmod,NOUN,0.603623628616333,[],,
+aimer,croquant,obj,ADJ,0.4856571555137634,[],,

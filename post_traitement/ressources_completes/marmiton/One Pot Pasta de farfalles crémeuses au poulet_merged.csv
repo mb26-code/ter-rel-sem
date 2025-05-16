@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+poulet,ingrédient,nmod,NOUN,0.7190364599227905,"[{""id"": 24929041, ""node1"": 146261, ""node2"": 123418, ""type"": 6, ""w"": 1.0}]",r_isa,1.0
+Pot,poivre,appos,NOUN,0.4602562189102173,[],,
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+poivre,blanc,obj,NOUN,0.6191187500953674,"[{""id"": 3192371, ""node1"": 139597, ""node2"": 15196, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+blanc,poulet,nmod,NOUN,0.6177458167076111,"[{""id"": 9356626, ""node1"": 15196, ""node2"": 146261, ""type"": 0, ""w"": 50.0}, {""id"": 97329786, ""node1"": 15196, ""node2"": 146261, ""type"": 10, ""w"": 29.0}, {""id"": 1933499, ""node1"": 15196, ""node2"": 146261, ""type"": 35, ""w"": 45.0}, {""id"": 14659361, ""node1"": 15196, ""node2"": 146261, ""type"": 42, ""w"": 29.0}, {""id"": 1663131, ""node1"": 15196, ""node2"": 146261, ""type"": 666, ""w"": 1.0}]",r_associated,50.0
+Pot,pulpe,appos,NOUN,0.4563709497451782,[],,
+Pot,huile,amod,NOUN,0.4495058059692383,[],,
+casserole,couvercle,obj,NOUN,0.6508210897445679,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]",r_has_part,100.0
+couvercle,saladier,nmod,NOUN,0.6053080558776855,[],,
+pulpe,tomate,nmod,NOUN,0.5930618643760681,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+ajouter,blanc,obj,NOUN,0.5225849747657776,[],,
+poulet,couper,acl,VERB,0.6432042717933655,"[{""id"": 378725090, ""node1"": 146261, ""node2"": 128828, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+ajouter,recouvrir,acl,VERB,0.4525085687637329,"[{""id"": 914858280, ""node1"": 25099, ""node2"": 26206, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+ébullition,feu,nmod,NOUN,0.5480356812477112,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+verser,eau,obj,NOUN,0.5738218426704407,"[{""id"": 383589, ""node1"": 104506, ""node2"": 65012, ""type"": 0, ""w"": 232.0}, {""id"": 167908, ""node1"": 104506, ""node2"": 65012, ""type"": 14, ""w"": 100.0}, {""id"": 376198934, ""node1"": 104506, ""node2"": 65012, ""type"": 16, ""w"": 26.0}, {""id"": 645787357, ""node1"": 104506, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]",r_associated,232.0
+remettre,couvercle,obj,NOUN,0.5371571779251099,"[{""id"": 373015117, ""node1"": 62982, ""node2"": 89523, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+poursuivre,cuisson,obj,NOUN,0.6843500733375549,[],,
+minute,remuer,acl,VERB,0.5255264639854431,[],,
+minute,tout,amod,ADJ,0.4874596893787384,[],,
+remuer,minute,obj,NOUN,0.5255264639854431,[],,
+ajouter,finir,advcl,VERB,0.4177050292491913,[],,
+ajouter,Philadelphia,obj,PROPN,0.4194413125514984,[],,
+plat,parmesan,nmod,ADJ,0.6816394329071045,[],,
+reposer,minute,obj,NOUN,0.4512225389480591,[],,
+mélanger,servir,advcl,VERB,0.5437882542610168,[],,

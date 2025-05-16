@@ -1,0 +1,40 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,mélanger,acl,VERB,0.4706915318965912,[],,
+mélanger,ingrédient,obj,NOUN,0.6362285614013672,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+mélanger,feuille,obj,NOUN,0.5842714905738831,[],,
+feuille,laurier,nmod,PROPN,0.4908609986305237,"[{""id"": 15624759, ""node1"": 37993, ""node2"": 114548, ""type"": 0, ""w"": 29.0}, {""id"": 14620301, ""node1"": 37993, ""node2"": 114548, ""type"": 10, ""w"": 36.0}]",r_holo,36.0
+mélanger,clou,obj,NOUN,0.4692429602146148,[],,
+clou,girofle,nmod,ADP,0.4290643036365509,"[{""id"": 9902807, ""node1"": 11651, ""node2"": 43873, ""type"": 0, ""w"": 55.0}, {""id"": 413873, ""node1"": 11651, ""node2"": 43873, ""type"": 8, ""w"": 111.0}]",r_hypo,111.0
+clou,vinaigre,nmod,NOUN,0.5088963508605957,[],,
+vinaigre,alcool,nmod,NOUN,0.5851388573646545,"[{""id"": 606194778, ""node1"": 145443, ""node2"": 47597, ""type"": 0, ""w"": 7.0}, {""id"": 604555619, ""node1"": 145443, ""node2"": 47597, ""type"": 6, ""w"": 32.0}, {""id"": 434562941, ""node1"": 145443, ""node2"": 47597, ""type"": 50, ""w"": 26.0}, {""id"": 72930125, ""node1"": 145443, ""node2"": 47597, ""type"": 777, ""w"": 10.0}]",r_isa,32.0
+alcool,cannelle,amod,ADJ,0.6047696471214294,"[{""id"": 376056285, ""node1"": 47597, ""node2"": 112959, ""type"": 50, ""w"": 35.0}]",r_object>mater,35.0
+sel,gros,amod,ADJ,0.6553788781166077,"[{""id"": 188164, ""node1"": 13260, ""node2"": 88096, ""type"": 0, ""w"": 60.0}, {""id"": 645838, ""node1"": 13260, ""node2"": 88096, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+vinaigre,sel,nmod,NOUN,0.683134913444519,"[{""id"": 2147403, ""node1"": 145443, ""node2"": 13260, ""type"": 0, ""w"": 80.0}]",r_associated,80.0
+sel,piment,nmod,ADV,0.6957902908325195,"[{""id"": 1004420, ""node1"": 13260, ""node2"": 128791, ""type"": 0, ""w"": 27.0}, {""id"": 53733592, ""node1"": 13260, ""node2"": 128791, ""type"": 5, ""w"": 109.0}]",r_syn,109.0
+sel,chou-fleur,nmod,NOUN,0.7044985294342041,[],,
+mélanger,concombre,obj,NOUN,0.6043528318405151,[],,
+mélanger,haricot,obj,NOUN,0.6056962609291077,[],,
+haricot,vert,amod,ADJ,0.499526172876358,"[{""id"": 369652, ""node1"": 114886, ""node2"": 26976, ""type"": 0, ""w"": 294.0}, {""id"": 1774168, ""node1"": 114886, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3163694, ""node1"": 114886, ""node2"": 26976, ""type"": 106, ""w"": 18.0}, {""id"": 1764962, ""node1"": 114886, ""node2"": 26976, ""type"": 666, ""w"": 3.0}]",r_associated,294.0
+eau,cuillère,nmod,NOUN,0.5921421051025391,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,casserole,nmod,NOUN,0.6258264183998108,"[{""id"": 662507901, ""node1"": 51905, ""node2"": 57253, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+casserole,couvercle,nmod,NOUN,0.6508210897445679,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]",r_has_part,100.0
+couvercle,plat,nmod,ADJ,0.6402535438537598,"[{""id"": 961890557, ""node1"": 89523, ""node2"": 36327, ""type"": 10, ""w"": 24.0}, {""id"": 372856875, ""node1"": 89523, ""node2"": 36327, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+eau,étape,nmod,NOUN,0.5415300130844116,[],,
+mélanger,vinaigre,obj,NOUN,0.6564185619354248,"[{""id"": 15085301, ""node1"": 37151, ""node2"": 145443, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+vinaigre,épicé,amod,ADJ,0.6666685938835144,[],,
+préparer,vinaigre,obj,NOUN,0.666865885257721,[],,
+mettre,légume,nsubj,NOUN,0.6695612072944641,[],,
+légume,étendre,acl,VERB,0.6306199431419373,[],,
+étendre,légume,obj,NOUN,0.6306199431419373,[],,
+plat,grand,amod,ADJ,0.5802130699157715,[],,
+légume,plat,nmod,NOUN,0.6918051242828369,"[{""id"": 10527467, ""node1"": 120603, ""node2"": 36327, ""type"": 0, ""w"": 11.0}, {""id"": 382845, ""node1"": 120603, ""node2"": 36327, ""type"": 10, ""w"": 60.0}, {""id"": 11356746, ""node1"": 120603, ""node2"": 36327, ""type"": 15, ""w"": 38.0}]",r_holo,60.0
+légume,préparer,acl,VERB,0.6866786479949951,"[{""id"": 96710141, ""node1"": 120603, ""node2"": 36246, ""type"": 26, ""w"": 44.0}]",r_patient-1,44.0
+sel,dissoudre,acl,VERB,0.6580449938774109,"[{""id"": 670019380, ""node1"": 13260, ""node2"": 90446, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+mettre,poids,obj,NOUN,0.4464818239212036,[],,
+poids,dessus,amod,ADV,0.4365545809268951,[],,
+mise,pot,nmod,NOUN,0.5013467669487,[],,
+légume,tout,amod,ADJ,0.6585912108421326,[],,
+baigner,légume,nsubj,NOUN,0.6269630789756775,[],,
+couvrir,baigner,advcl,VERB,0.426472544670105,[],,
+attendre,consommer,advcl,VERB,0.4708252251148224,[],,

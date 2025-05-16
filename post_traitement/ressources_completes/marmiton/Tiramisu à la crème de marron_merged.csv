@@ -1,0 +1,68 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+crème,marron,nmod,NOUN,0.5770540833473206,"[{""id"": 899181995, ""node1"": 44001, ""node2"": 132479, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+crème,ingrédient,nmod,NOUN,0.6610228419303894,"[{""id"": 24850723, ""node1"": 44001, ""node2"": 123418, ""type"": 0, ""w"": 30.0}, {""id"": 24842105, ""node1"": 44001, ""node2"": 123418, ""type"": 6, ""w"": 143.0}]",r_isa,143.0
+crème,sucre,nmod,NOUN,0.7060490250587463,"[{""id"": 561269855, ""node1"": 44001, ""node2"": 139481, ""type"": 0, ""w"": 61.0}]",r_associated,61.0
+sucre,mascarpone,nmod,NOUN,0.6537553668022156,[],,
+mascarpone,oeuf,nmod,NOUN,0.5486534833908081,[],,
+oeuf,marron,nmod,NOUN,0.5383227467536926,"[{""id"": 12980958, ""node1"": 116175, ""node2"": 132479, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+sucre,crème,nmod,NOUN,0.7060490250587463,"[{""id"": 915278756, ""node1"": 139481, ""node2"": 44001, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+marron,chocolat,nmod,NOUN,0.533751904964447,"[{""id"": 927823, ""node1"": 132479, ""node2"": 34157, ""type"": 0, ""w"": 32.0}, {""id"": 12200070, ""node1"": 132479, ""node2"": 34157, ""type"": 5, ""w"": 31.0}, {""id"": 14788221, ""node1"": 132479, ""node2"": 34157, ""type"": 23, ""w"": 52.0}, {""id"": 967070770, ""node1"": 132479, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]",r_carac-1,52.0
+marron,chaud,amod,ADJ,0.5344811677932739,"[{""id"": 415003091, ""node1"": 132479, ""node2"": 19150, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+marron,amer,amod,ADJ,0.4644124805927276,[],,
+sucre,marron,obj,NOUN,0.6387735605239868,"[{""id"": 3177513, ""node1"": 139481, ""node2"": 132479, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+marron,cerise,amod,NOUN,0.4858180582523346,[],,
+sucre,saladier,nmod,NOUN,0.6957500576972961,[],,
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,fouet,nmod,NOUN,0.5491861701011658,"[{""id"": 662513346, ""node1"": 51905, ""node2"": 73888, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 306.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 266.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,306.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+fouet,réfrigérateur,nmod,NOUN,0.5126871466636658,[],,
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[],,
+mélanger,jaune,obj,NOUN,0.5585520267486572,[],,
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]",r_associated,598.0
+obtention,mélange,nmod,NOUN,0.4869552552700043,[],,
+mélange,blanc,amod,ADJ,0.5636453032493591,[],,
+mélange,mousseux,amod,ADJ,0.5410990118980408,[],,
+ajouter,mascarpone,obj,NOUN,0.5440415143966675,[],,
+mascarpone,mélange,nmod,NOUN,0.6107001900672913,[],,
+mascarpone,sucre,amod,NOUN,0.6537553668022156,[],,
+mascarpone,jaune,nmod,NOUN,0.5670399069786072,[],,
+réserver,monter,advcl,VERB,0.4287244081497192,[],,
+monter,blanc,obj,NOUN,0.5055097341537476,[],,
+blanc,neige,nmod,NOUN,0.4736866652965545,"[{""id"": 116991, ""node1"": 15196, ""node2"": 3699, ""type"": 0, ""w"": 509.77}, {""id"": 117866, ""node1"": 15196, ""node2"": 3699, ""type"": 23, ""w"": 320.0}, {""id"": 1622496, ""node1"": 15196, ""node2"": 3699, ""type"": 666, ""w"": 12.0}]",r_associated,509.77
+réserver,cuillère,obj,NOUN,0.5662010312080383,[],,
+cuillère,soupe,acl,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+soupe,blanc,nmod,NOUN,0.6783051490783691,"[{""id"": 3173264, ""node1"": 117152, ""node2"": 15196, ""type"": 106, ""w"": 22.0}]",r_has_color,22.0
+alléger,crème,obj,NOUN,0.5723071694374084,[],,
+mélanger,ajouter,advcl,VERB,0.476481020450592,[],,
+ajouter,reste,obj,NOUN,0.454963743686676,[],,
+reste,blanc,nmod,NOUN,0.5097660422325134,[],,
+reste,neige,nmod,NOUN,0.4809442460536957,[],,
+mélange,mascarpone,nmod,NOUN,0.6107001900672913,[],,
+mélange,sucre,nmod,NOUN,0.6809773445129395,[],,
+mélange,jaune,nmod,NOUN,0.5599935054779053,[],,
+mélange,oeuf,nmod,NOUN,0.5729450583457947,[],,
+marron,glacé,amod,ADJ,0.4576280415058136,"[{""id"": 415003096, ""node1"": 132479, ""node2"": 39487, ""type"": 0, ""w"": 27.0}, {""id"": 14804177, ""node1"": 132479, ""node2"": 39487, ""type"": 17, ""w"": 21.0}]",r_associated,27.0
+mélanger,cuillère,obj,NOUN,0.6018561720848083,"[{""id"": 3121051, ""node1"": 37151, ""node2"": 51905, ""type"": 0, ""w"": 41.0}, {""id"": 148627, ""node1"": 37151, ""node2"": 51905, ""type"": 16, ""w"": 194.0}]",r_instr,194.0
+blanc,monter,acl,VERB,0.5055097341537476,[],,
+prendre,verre,obj,NOUN,0.5141723155975342,"[{""id"": 914306203, ""node1"": 86306, ""node2"": 144497, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+verre,individuel,amod,ADJ,0.5069934725761414,[],,
+couche,différent,amod,ADJ,0.4571606814861297,[],,
+voir,couche,obj,NOUN,0.4159133434295654,[],,
+couche,fin,amod,ADJ,0.4426682293415069,[],,
+poser,couche,obj,NOUN,0.4463357031345367,[],,
+couche,crème,nmod,NOUN,0.5708410739898682,[],,
+couche,épais,amod,ADJ,0.4565062820911407,[],,
+fois,épais,amod,ADJ,0.4352555871009826,[],,
+fois,couche,nmod,NOUN,0.4142790138721466,[],,
+couche,tremper,acl,VERB,0.5470688939094543,[],,
+ajouter,couche,obj,NOUN,0.4657270014286041,[],,
+pouvoir,recouvrir,advcl,VERB,0.4103720486164093,[],,
+couche,bon,amod,ADJ,0.4901613891124725,[],,
+couche,chocolat,nmod,NOUN,0.575548529624939,[],,
+laisser,heure,obj,NOUN,0.4083273708820343,[],,
+préparer,veille,obj,NOUN,0.4476141929626465,[],,
+consistance,même,amod,ADJ,0.4359801709651947,[],,
+moment,servir,acl,VERB,0.4804177582263946,[],,
+ajouter,marron,obj,NOUN,0.5140794515609741,[],,

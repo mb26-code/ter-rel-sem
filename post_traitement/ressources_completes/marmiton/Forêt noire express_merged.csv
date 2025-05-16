@@ -1,0 +1,42 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,forêt,nmod,NOUN,0.421598345041275,[],,
+forêt,noir,amod,ADJ,0.4653232395648956,"[{""id"": 27831768, ""node1"": 146632, ""node2"": 64238, ""type"": 17, ""w"": 29.0}, {""id"": 3184909, ""node1"": 146632, ""node2"": 64238, ""type"": 106, ""w"": 1.0}]",r_carac,29.0
+forêt,express,nmod,NOUN,0.4241240620613098,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,chocolat,nmod,NOUN,0.6857289671897888,[],,
+ingrédient,noir,amod,ADJ,0.5502306818962097,[],,
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,crème,nmod,NOUN,0.6194026470184326,"[{""id"": 602100050, ""node1"": 139470, ""node2"": 44001, ""type"": 0, ""w"": 15.0}]",r_associated,15.0
+confiture,cerise,nmod,NOUN,0.530124843120575,"[{""id"": 796780717, ""node1"": 70793, ""node2"": 49073, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+cerise,saladier,nmod,NOUN,0.5864432454109192,[],,
+saladier,couvercle,nmod,NOUN,0.6053080558776855,[],,
+couvercle,économe,nmod,NOUN,0.5389436483383179,[],,
+confiture,tarte,nmod,NOUN,0.6382361650466919,"[{""id"": 920040189, ""node1"": 70793, ""node2"": 575, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+tarte,plat,nmod,ADJ,0.689184308052063,"[{""id"": 9624144, ""node1"": 575, ""node2"": 36327, ""type"": 0, ""w"": 46.0}, {""id"": 225521, ""node1"": 575, ""node2"": 36327, ""type"": 6, ""w"": 299.0}, {""id"": 200502, ""node1"": 575, ""node2"": 36327, ""type"": 15, ""w"": 178.0}, {""id"": 1525630, ""node1"": 575, ""node2"": 36327, ""type"": 666, ""w"": 1.0}]",r_isa,299.0
+tarte,étape,nmod,NOUN,0.5744171142578125,[],,
+tarte,commencer,acl,VERB,0.6264597177505493,[],,
+pot,cerise,nmod,NOUN,0.5246527194976807,[],,
+prendre,soin,obj,NOUN,0.4055182933807373,[],,
+recueillir,jus,obj,NOUN,0.5533018112182617,[],,
+disposer,mélanger,advcl,VERB,0.5062704682350159,[],,
+mélanger,sirop,obj,NOUN,0.644442617893219,[],,
+disposer,disque,obj,NOUN,0.4123653769493103,[],,
+disque,génoise,nmod,NOUN,0.4436412155628204,[],,
+gâteau,risque,amod,VERB,0.5716373324394226,[],,
+étaler,moitié,obj,NOUN,0.4579174518585205,[],,
+moitié,pot,nmod,NOUN,0.5178486704826355,[],,
+pot,confiture,nmod,NOUN,0.529536783695221,"[{""id"": 415003513, ""node1"": 142367, ""node2"": 70793, ""type"": 0, ""w"": 28.0}, {""id"": 775213335, ""node1"": 142367, ""node2"": 70793, ""type"": 174, ""w"": 25.0}, {""id"": 1769589, ""node1"": 142367, ""node2"": 70793, ""type"": 666, ""w"": 2.0}, {""id"": 7861094, ""node1"": 142367, ""node2"": 70793, ""type"": 777, ""w"": 10.0}]",r_associated,28.0
+couche,bon,amod,ADJ,0.4901613891124725,[],,
+couche,crème,nmod,NOUN,0.5708410739898682,[],,
+couche,avoir,acl:relcl,VERB,0.4315893352031708,[],,
+disque,dessus,nmod,ADV,0.4279128015041351,[],,
+façon,même,amod,ADJ,0.4143386781215668,[],,
+recouvrir,gâteau,obj,NOUN,0.6201028823852539,[],,
+gâteau,reste,nmod,NOUN,0.6031252145767212,[],,
+reste,chantilly,nmod,NOUN,0.5208332538604736,[],,
+économe,tablette,nmod,NOUN,0.4685623943805694,[],,
+tablette,chocolat,nmod,NOUN,0.5693907737731934,"[{""id"": 195806, ""node1"": 29118, ""node2"": 34157, ""type"": 0, ""w"": 60.0}, {""id"": 682495, ""node1"": 29118, ""node2"": 34157, ""type"": 5, ""w"": 102.0}, {""id"": 14674476, ""node1"": 29118, ""node2"": 34157, ""type"": 42, ""w"": 36.0}, {""id"": 720817953, ""node1"": 29118, ""node2"": 34157, ""type"": 174, ""w"": 25.0}]",r_syn,102.0
+économe,dessus,nmod,NOUN,0.4763871431350708,[],,
+disposer,cerise,obj,NOUN,0.4786382615566253,[],,
+cerise,égoutter,acl,VERB,0.5337335467338562,[],,
+frais,heure,nmod,NOUN,0.4179821312427521,[],,

@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+Punch,ingrédient,nmod,NOUN,0.4311687350273132,[],,
+Punch,sucre,appos,NOUN,0.5430006980895996,[],,
+sucre,citron,nmod,NOUN,0.6847571134567261,"[{""id"": 292123774, ""node1"": 139481, ""node2"": 15386, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+citron,eau,nmod,NOUN,0.626600980758667,[],,
+eau,gazeux,amod,ADJ,0.5069980621337891,"[{""id"": 561201568, ""node1"": 65012, ""node2"": 12162, ""type"": 0, ""w"": 36.0}, {""id"": 72244416, ""node1"": 65012, ""node2"": 12162, ""type"": 777, ""w"": 8.0}]",r_associated,36.0
+titre,cuillère,nmod,NOUN,0.5080531239509583,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,réfrigérateur,nmod,NOUN,0.6184566617012024,[],,
+récipient,grand,amod,NOUN,0.5309901833534241,[],,
+cuillère,récipient,appos,NOUN,0.6237295269966125,[],,
+récipient,balance,nmod,NOUN,0.5678063631057739,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+récipient,bouteille,nmod,NOUN,0.6006221771240234,"[{""id"": 374283, ""node1"": 89628, ""node2"": 117423, ""type"": 0, ""w"": 74.0}, {""id"": 212870, ""node1"": 89628, ""node2"": 117423, ""type"": 8, ""w"": 234.0}, {""id"": 9971360, ""node1"": 89628, ""node2"": 117423, ""type"": 9, ""w"": 10.0}, {""id"": 984771815, ""node1"": 89628, ""node2"": 117423, ""type"": 666, ""w"": 3.0}]",r_hypo,234.0
+mélanger,citron,obj,NOUN,0.6611153483390808,[],,
+citron,couper,acl,VERB,0.6150063872337341,"[{""id"": 273535, ""node1"": 15386, ""node2"": 128828, ""type"": 25, ""w"": -60.0}, {""id"": 2214739, ""node1"": 15386, ""node2"": 128828, ""type"": 26, ""w"": 95.0}]",r_patient-1,95.0
+morceau,sucre,nmod,NOUN,0.6897159218788147,"[{""id"": 1675143, ""node1"": 65364, ""node2"": 139481, ""type"": 0, ""w"": 62.0}, {""id"": 349614082, ""node1"": 65364, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 720817978, ""node1"": 65364, ""node2"": 139481, ""type"": 174, ""w"": 25.0}]",r_associated,62.0
+nuit,tout,amod,ADJ,0.4464542865753174,[],,
+moment,servir,acl,VERB,0.4804177582263946,[],,
+mélanger,casser,advcl,VERB,0.494523286819458,[],,
+casser,bulle,obj,NOUN,0.4193455874919891,[],,
+servir,frais,obj,ADJ,0.4840525686740875,"[{""id"": 560379713, ""node1"": 7888, ""node2"": 53495, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+conseil,petit,amod,ADJ,0.4329935014247894,[],,
+eau,frais,nmod,NOUN,0.5647507905960083,[],,

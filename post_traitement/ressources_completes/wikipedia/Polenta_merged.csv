@@ -86,7 +86,7 @@ terre,culture,nmod,NOUN,0.5120682120323181,"[{""id"": 7200960, ""node1"": 25705,
 culture,herbe,nmod,NOUN,0.4823313355445862,[],,
 terre,préférer,acl,VERB,0.5108559727668762,[],,
 produit,différent,amod,ADJ,0.4038648307323456,[],,
-ingrédient,base,nmod,NOUN,0.5895823240280151,"[{""id"": 12352698, ""node1"": 123418, ""node2"": 72257, ""type"": 0, ""w"": 30.0}, {""id"": 12197414, ""node1"": 123418, ""node2"": 72257, ""type"": 5, ""w"": 35.0}]",r_associated,30.0
+ingrédient,base,nmod,NOUN,0.5895823240280151,"[{""id"": 12352698, ""node1"": 123418, ""node2"": 72257, ""type"": 0, ""w"": 30.0}, {""id"": 12197414, ""node1"": 123418, ""node2"": 72257, ""type"": 5, ""w"": 35.0}]",r_syn,35.0
 ingrédient,créer,acl,VERB,0.4844208657741546,[],,
 tel,production,nsubj,NOUN,0.4313485324382782,[],,
 reste,blé,nsubj,NOUN,0.5592270493507385,"[{""id"": 915425948, ""node1"": 21110, ""node2"": 32071, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
@@ -168,7 +168,7 @@ four,courant,amod,ADJ,0.6453826427459717,[],,
 état,cuisson,nmod,NOUN,0.5795539021492004,[],,
 changer,habitude,obj,NOUN,0.4306128323078155,[],,
 proposer,industrie,nsubj,NOUN,0.4101217091083526,[],,
-industrie,alimentaire,amod,ADJ,0.4819638133049011,"[{""id"": 77976913, ""node1"": 118876, ""node2"": 16746, ""type"": 0, ""w"": 24.0}, {""id"": 77976912, ""node1"": 118876, ""node2"": 16746, ""type"": 27, ""w"": 27.0}]",r_associated,24.0
+industrie,alimentaire,amod,ADJ,0.4819638133049011,"[{""id"": 77976913, ""node1"": 118876, ""node2"": 16746, ""type"": 0, ""w"": 24.0}, {""id"": 77976912, ""node1"": 118876, ""node2"": 16746, ""type"": 27, ""w"": 27.0}]",r_domain-1,27.0
 temps,cuisson,nmod,NOUN,0.6997374892234802,[],,
 cuisson,minute,nmod,NOUN,0.6714344024658203,[],,
 lieu,minute,nmod,NOUN,0.436672031879425,"[{""id"": 10582130, ""node1"": 135190, ""node2"": 31491, ""type"": 0, ""w"": 60.0}, {""id"": 9641596, ""node1"": 135190, ""node2"": 31491, ""type"": 8, ""w"": 30.0}]",r_associated,60.0
@@ -187,7 +187,7 @@ marier,rapport,nsubj,NOUN,0.4105994999408722,[],,
 rapport,eau,nmod,NOUN,0.551754891872406,[],,
 rapport,temps,appos,NOUN,0.4286551773548126,"[{""id"": 292951747, ""node1"": 116395, ""node2"": 13861, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
 variété,maïs,nmod,ADV,0.5621063709259033,[],,
-fromage,pâte,nmod,NOUN,0.6909428834915161,"[{""id"": 83648051, ""node1"": 141687, ""node2"": 34069, ""type"": 0, ""w"": 33.0}, {""id"": 96698106, ""node1"": 141687, ""node2"": 34069, ""type"": 9, ""w"": 32.0}, {""id"": 1070020056, ""node1"": 141687, ""node2"": 34069, ""type"": 666, ""w"": 2.0}]",r_associated,33.0
+fromage,pâte,nmod,NOUN,0.6909428834915161,"[{""id"": 83648051, ""node1"": 141687, ""node2"": 34069, ""type"": 0, ""w"": 33.0}, {""id"": 96698106, ""node1"": 141687, ""node2"": 34069, ""type"": 9, ""w"": 32.0}, {""id"": 1070020056, ""node1"": 141687, ""node2"": 34069, ""type"": 666, ""w"": 2.0}]",r_has_part,32.0
 pâte,mou,amod,ADJ,0.5720343589782715,[],,
 plat,contenir,acl:relcl,VERB,0.6232796311378479,[],,
 contenir,beaucoup,obj,ADV,0.4229664802551269,[],,

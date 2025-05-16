@@ -1,0 +1,16 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+pinot,noir,amod,ADJ,0.4313856065273285,[],,
+oignon,noir,amod,ADJ,0.5711159110069275,[],,
+cocotte,fonte,nmod,NOUN,0.5734525322914124,"[{""id"": 432184651, ""node1"": 120952, ""node2"": 111654, ""type"": 0, ""w"": 3.0}, {""id"": 98282817, ""node1"": 120952, ""node2"": 111654, ""type"": 50, ""w"": 47.0}, {""id"": 1764373, ""node1"": 120952, ""node2"": 111654, ""type"": 666, ""w"": 2.0}]",r_object>mater,47.0
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+oignon,couper,acl,VERB,0.596168577671051,"[{""id"": 900892185, ""node1"": 123307, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 31770901, ""node1"": 123307, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 1767208, ""node1"": 123307, ""node2"": 128828, ""type"": 666, ""w"": 2.0}]",r_patient-1,100.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+oignon,morceau,nmod,NOUN,0.6422560214996338,[],,
+baisser,feu,obj,NOUN,0.552813708782196,[],,
+ajouter,carotte,obj,NOUN,0.5934749245643616,[],,
+carotte,couper,acl,VERB,0.5670887231826782,"[{""id"": 93434679, ""node1"": 76234, ""node2"": 128828, ""type"": 26, ""w"": 34.0}]",r_patient-1,34.0
+bâton,petit,amod,ADJ,0.4964828491210937,[],,
+carotte,bâton,nmod,NOUN,0.4889439344406128,[],,
+laisser,mijoter,obj,VERB,0.5789923667907715,[],,
+feu,petit,amod,ADJ,0.5734477639198303,"[{""id"": 2278793, ""node1"": 143703, ""node2"": 55222, ""type"": 17, ""w"": 30.0}]",r_carac,30.0
+devoir,porc,nsubj,NOUN,0.6007247567176819,[],,

@@ -1,0 +1,40 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,gratin,nmod,NOUN,0.4893978536128998,[],,
+gratin,chou-fleur,nmod,NOUN,0.5897226929664612,"[{""id"": 601603633, ""node1"": 12942, ""node2"": 111894, ""type"": 0, ""w"": 21.0}, {""id"": 606747349, ""node1"": 12942, ""node2"": 111894, ""type"": 9, ""w"": 51.0}]",r_has_part,51.0
+gratin,ingrédient,nmod,NOUN,0.6309539079666138,[],,
+farine,beurre,acl,NOUN,0.7180377840995789,"[{""id"": 423997331, ""node1"": 127629, ""node2"": 140377, ""type"": 0, ""w"": 3.0}]",r_associated,3.0
+gratin,lait,nmod,NOUN,0.6502888798713684,"[{""id"": 97754768, ""node1"": 12942, ""node2"": 86296, ""type"": 0, ""w"": 29.0}, {""id"": 97126799, ""node1"": 12942, ""node2"": 86296, ""type"": 9, ""w"": 27.0}]",r_associated,29.0
+titre,Plat,nmod,PROPN,0.4341082274913788,[],,
+Plat,gratin,nmod,NOUN,0.4779236614704132,[],,
+casserole,fouet,obj,NOUN,0.5830783247947693,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 306.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 266.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,306.0
+fouet,four,nmod,NOUN,0.6685465574264526,"[{""id"": 288507172, ""node1"": 73888, ""node2"": 9190, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+titre,cuire,acl,VERB,0.7010467648506165,[],,
+cuire,chou-fleur,obj,NOUN,0.7629681825637817,[],,
+eau,saler,acl,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+saler,minute,obj,NOUN,0.5838092565536499,[],,
+faire,sauce,obj,NOUN,0.6960442066192627,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+ajouter,farine,obj,NOUN,0.6640971302986145,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+faire,roux,obj,NOUN,0.5398892164230347,[],,
+ajouter,lait,obj,NOUN,0.5957752466201782,"[{""id"": 373014760, ""node1"": 25099, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+lait,petit,amod,ADJ,0.603304922580719,"[{""id"": 1794036, ""node1"": 86296, ""node2"": 55222, ""type"": 666, ""w"": 1.0}]",r_aki,1.0
+ajouter,réduire,advcl,VERB,0.4144448339939117,"[{""id"": 85362415, ""node1"": 25099, ""node2"": 120230, ""type"": 7, ""w"": 30.0}]",r_anto,30.0
+réduire,sauce,obj,NOUN,0.673485279083252,"[{""id"": 1660257, ""node1"": 120230, ""node2"": 141110, ""type"": 0, ""w"": 60.0}, {""id"": 940663193, ""node1"": 120230, ""node2"": 141110, ""type"": 14, ""w"": 30.0}]",r_associated,60.0
+faire,ajouter,advcl,VERB,0.4615261554718017,[],,
+ajouter,noix,obj,ADV,0.5746623277664185,[],,
+noix,muscade,nmod,NOUN,0.5663605332374573,"[{""id"": 796773628, ""node1"": 30910, ""node2"": 115297, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+ajouter,sel,obj,NOUN,0.6747812032699585,"[{""id"": 914306223, ""node1"": 25099, ""node2"": 13260, ""type"": 0, ""w"": 20.0}, {""id"": 220261, ""node1"": 25099, ""node2"": 13260, ""type"": 14, ""w"": 70.0}]",r_patient,70.0
+ajouter,plat,obj,NOUN,0.63030606508255,"[{""id"": 492070000, ""node1"": 25099, ""node2"": 36327, ""type"": 0, ""w"": 28.0}, {""id"": 492069999, ""node1"": 25099, ""node2"": 36327, ""type"": 31, ""w"": 27.0}]",r_associated,28.0
+plat,gratin,nmod,NOUN,0.6157448291778564,"[{""id"": 415003453, ""node1"": 36327, ""node2"": 12942, ""type"": 0, ""w"": 28.0}, {""id"": 246264043, ""node1"": 36327, ""node2"": 12942, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+ajouter,faire,advcl,VERB,0.4615261554718017,[],,
+faire,couche,obj,NOUN,0.5221765637397766,[],,
+couche,chou-fleur,nmod,NOUN,0.5700975060462952,[],,
+ajouter,couche,nsubj,NOUN,0.4657270014286041,[],,
+couche,autre,amod,ADJ,0.458811342716217,[],,
+couche,chou,nmod,NOUN,0.578449010848999,[],,
+ajouter,sauce,obj,NOUN,0.6714595556259155,[],,
+four,chaud,amod,ADJ,0.6748667359352112,"[{""id"": 363192, ""node1"": 9190, ""node2"": 19150, ""type"": 0, ""w"": 123.0}, {""id"": 376860, ""node1"": 9190, ""node2"": 19150, ""type"": 17, ""w"": 130.0}, {""id"": 11348785, ""node1"": 9190, ""node2"": 19150, ""type"": 28, ""w"": 38.0}, {""id"": 2221131, ""node1"": 9190, ""node2"": 19150, ""type"": 666, ""w"": 1.0}]",r_carac,130.0

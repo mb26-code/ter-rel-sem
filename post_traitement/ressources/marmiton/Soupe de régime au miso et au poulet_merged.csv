@@ -1,0 +1,59 @@
+head,lemma,dep,pos,sim,relation
+soupe,régime,nmod,NOUN,0.6439989805221558,[]
+poulet,ingrédient,nmod,NOUN,0.7190364599227905,"[{""id"": 24929041, ""node1"": 146261, ""node2"": 123418, ""type"": 6, ""w"": 1.0}]"
+vinaigre,riz,nmod,ADV,0.6922438144683838,"[{""id"": 1023005499, ""node1"": 145443, ""node2"": 24372, ""type"": 0, ""w"": 26.0}, {""id"": 3355970, ""node1"": 145443, ""node2"": 24372, ""type"": 777, ""w"": 10.0}]"
+vinaigre,huile,obj,NOUN,0.6314905285835266,"[{""id"": 2139914, ""node1"": 145443, ""node2"": 141971, ""type"": 0, ""w"": 86.0}, {""id"": 1046576307, ""node1"": 145443, ""node2"": 141971, ""type"": 8, ""w"": 20.0}]"
+huile,bouillon,nmod,NOUN,0.6829477548599243,"[{""id"": 914309724, ""node1"": 141971, ""node2"": 146582, ""type"": 0, ""w"": 20.0}]"
+bouillon,légume,nmod,NOUN,0.7116243243217468,"[{""id"": 152250, ""node1"": 146582, ""node2"": 120603, ""type"": 0, ""w"": 55.0}]"
+légume,blanc,amod,NOUN,0.660892128944397,"[{""id"": 97410501, ""node1"": 120603, ""node2"": 15196, ""type"": 17, ""w"": 8.0}, {""id"": 3165611, ""node1"": 120603, ""node2"": 15196, ""type"": 106, ""w"": 4.0}]"
+blanc,poulet,nmod,NOUN,0.6177458167076111,"[{""id"": 9356626, ""node1"": 15196, ""node2"": 146261, ""type"": 0, ""w"": 50.0}, {""id"": 97329786, ""node1"": 15196, ""node2"": 146261, ""type"": 10, ""w"": 29.0}, {""id"": 1933499, ""node1"": 15196, ""node2"": 146261, ""type"": 35, ""w"": 45.0}, {""id"": 14659361, ""node1"": 15196, ""node2"": 146261, ""type"": 42, ""w"": 29.0}, {""id"": 1663131, ""node1"": 15196, ""node2"": 146261, ""type"": 666, ""w"": 1.0}]"
+vinaigre,haricot,nmod,NOUN,0.6379445195198059,[]
+louche,mixeur,nmod,NOUN,0.5896725058555603,[]
+mixeur,plonger,acl,VERB,0.5584041476249695,[]
+mixeur,chauffer,acl,VERB,0.6226776838302612,[]
+chauffer,casserole,obj,NOUN,0.666526198387146,[]
+casserole,fouet,nmod,NOUN,0.5830783247947693,[]
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+casserole,saladier,nmod,NOUN,0.6254573464393616,[]
+saladier,chinois,nmod,ADJ,0.5542520880699158,[]
+casserole,cuillère,nmod,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]"
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,bol,nmod,NOUN,0.5572551488876343,"[{""id"": 662510559, ""node1"": 51905, ""node2"": 145405, ""type"": 0, ""w"": 23.0}, {""id"": 765213573, ""node1"": 51905, ""node2"": 145405, ""type"": 75, ""w"": 29.0}, {""id"": 1032957252, ""node1"": 51905, ""node2"": 145405, ""type"": 78, ""w"": 27.0}]"
+porter,litre,obj,NOUN,0.4794597625732422,[]
+litre,eau,nmod,NOUN,0.5440258383750916,"[{""id"": 2458362, ""node1"": 57416, ""node2"": 65012, ""type"": 0, ""w"": 84.0}, {""id"": 15759326, ""node1"": 57416, ""node2"": 65012, ""type"": 28, ""w"": 10.0}, {""id"": 720818422, ""node1"": 57416, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 980526881, ""node1"": 57416, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]"
+eau,ébullition,nmod,NOUN,0.5533320903778076,"[{""id"": 1030680817, ""node1"": 65012, ""node2"": 83252, ""type"": 0, ""w"": 22.0}, {""id"": 3253715, ""node1"": 65012, ""node2"": 83252, ""type"": 777, ""w"": 7.0}]"
+litre,casserole,nmod,NOUN,0.5586698055267334,[]
+jeter,bouillon,obj,NOUN,0.5702390074729919,[]
+bouillon,cube,amod,NOUN,0.5364071130752563,"[{""id"": 799190726, ""node1"": 146582, ""node2"": 6041, ""type"": 0, ""w"": 23.0}]"
+bouillon,dedans,nmod,ADV,0.6248682141304016,[]
+fois,bouillon,nmod,NOUN,0.5441466569900513,[]
+bouillon,dissoudre,acl,VERB,0.5876675844192505,[]
+ajouter,cuillère,obj,NOUN,0.5465437173843384,[]
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]"
+battre,dissoudre,advcl,VERB,0.4067765772342682,[]
+dissoudre,pâte,obj,NOUN,0.6356770992279053,[]
+soupe,sauce,nmod,NOUN,0.7104631662368774,[]
+cuillère,soja,acl,ADV,0.6406779289245605,[]
+revenir,minute,obj,NOUN,0.4577978253364563,[]
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]"
+huile,poulet,nmod,NOUN,0.7082552909851074,[]
+tofu,fumé,acl,ADJ,0.6141031384468079,[]
+tofu,vegan,nmod,NOUN,0.5564582347869873,"[{""id"": 1035768440, ""node1"": 216328, ""node2"": 1703609, ""type"": 666, ""w"": 2.0}]"
+oignon,poudre,nmod,NOUN,0.6705887317657471,[]
+ajouter,pousse,obj,NOUN,0.4130419492721557,[]
+pousse,haricot,nmod,NOUN,0.4736707806587219,[]
+cuire,vingtaine,obj,NOUN,0.7020300030708313,[]
+vingtaine,feu,nmod,NOUN,0.5311940908432007,[]
+feu,doux,amod,ADJ,0.5496628284454346,[]
+mélanger,entretenir,advcl,VERB,0.4816150665283203,[]
+ébullition,léger,amod,ADJ,0.4728730320930481,[]
+entretenir,ébullition,obj,NOUN,0.4665777683258056,[]
+cuire,temps,obj,NOUN,0.698011040687561,"[{""id"": 1011357542, ""node1"": 5115, ""node2"": 13861, ""type"": 666, ""w"": 2.0}]"
+faire,lui,nsubj,PRON,0.4000574052333832,[]
+peu,petit,amod,ADJ,0.4567189812660217,"[{""id"": 14380759, ""node1"": 39409, ""node2"": 55222, ""type"": 0, ""w"": 54.0}]"
+casser,peu,obj,ADV,0.4675562381744385,[]
+facile,cela,nsubj,PRON,0.4150332808494568,[]
+casser,facile,advcl,ADJ,0.4441146552562713,[]
+bol,famille,nmod,NOUN,0.5321424603462219,[]
+trouver,cela,obj,PRON,0.4195386469364166,[]
+cela,mauvais,amod,ADJ,0.4282350838184356,[]

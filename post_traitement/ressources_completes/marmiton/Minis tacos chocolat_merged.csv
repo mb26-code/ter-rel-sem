@@ -1,0 +1,24 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+mini,ingrédient,nmod,NOUN,0.5000250935554504,[],,
+mini,chocolat,nmod,NOUN,0.5009470582008362,[],,
+mini,cornet,nmod,NOUN,0.4466286301612854,[],,
+cornet,crème,acl,NOUN,0.5969883799552917,"[{""id"": 526333196, ""node1"": 84087, ""node2"": 44001, ""type"": 0, ""w"": 59.0}, {""id"": 1073318237, ""node1"": 84087, ""node2"": 44001, ""type"": 666, ""w"": 2.0}]",r_associated,59.0
+mini,congélateur,nmod,NOUN,0.4410549104213714,[],,
+congélateur,casserole,nmod,NOUN,0.6718193888664246,"[{""id"": 3486711, ""node1"": 46141, ""node2"": 57253, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+congélateur,sortir,acl,VERB,0.4919314384460449,"[{""id"": 594619407, ""node1"": 46141, ""node2"": 5714, ""type"": 9, ""w"": -5.0}]",r_has_part,-5.0
+sortir,crème,obj,NOUN,0.6056169271469116,[],,
+crème,glacé,amod,ADJ,0.5768504738807678,"[{""id"": 14803746, ""node1"": 44001, ""node2"": 39487, ""type"": 17, ""w"": 28.0}]",r_carac,28.0
+remplir,cornet,obj,NOUN,0.4671315550804138,[],,
+aide,cuillère,nmod,NOUN,0.45757657289505,[],,
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+fondre,chocolat,obj,NOUN,0.5867562890052795,"[{""id"": 28589116, ""node1"": 16480, ""node2"": 34157, ""type"": 0, ""w"": 63.0}, {""id"": 24768886, ""node1"": 16480, ""node2"": 34157, ""type"": 13, ""w"": 30.0}, {""id"": 1011304980, ""node1"": 16480, ""node2"": 34157, ""type"": 14, ""w"": 30.0}, {""id"": 1009801551, ""node1"": 16480, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]",r_associated,63.0
+cornet,congélateur,nmod,NOUN,0.5309891700744629,[],,
+bord,chocolat,nmod,NOUN,0.5090956091880798,[],,
+bord,fondre,acl,VERB,0.4915526211261749,[],,
+bord,cornet,nmod,NOUN,0.4715966582298279,[],,
+disposer,cornet,obj,NOUN,0.4931532442569732,[],,
+cornet,droit,nmod,NOUN,0.4375719428062439,[],,
+remettre,temps,obj,NOUN,0.4184365272521972,"[{""id"": 941366448, ""node1"": 62982, ""node2"": 13861, ""type"": 0, ""w"": 51.0}]",r_associated,51.0
+prendre,chocolat,nsubj,NOUN,0.580066978931427,[],,
+temps,prendre,acl:relcl,VERB,0.4133656620979309,"[{""id"": 892867793, ""node1"": 13861, ""node2"": 86306, ""type"": 0, ""w"": 20.0}, {""id"": 15071419, ""node1"": 13861, ""node2"": 86306, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+prendre,minute,obj,NOUN,0.4245601892471313,[],,

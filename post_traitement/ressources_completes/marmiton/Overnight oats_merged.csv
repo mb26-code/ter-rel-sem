@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+ingrédient,miel,appos,ADJ,0.6318907737731934,"[{""id"": 245158268, ""node1"": 123418, ""node2"": 136055, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+avoine,graine,amod,NOUN,0.541945219039917,[],,
+lait,amande,nmod,NOUN,0.5926035642623901,[],,
+amande,fruit,nmod,NOUN,0.5484750270843506,"[{""id"": 159136, ""node1"": 28557, ""node2"": 87286, ""type"": 0, ""w"": 95.0}, {""id"": 469153, ""node1"": 28557, ""node2"": 87286, ""type"": 3, ""w"": 38.0}, {""id"": 506377, ""node1"": 28557, ""node2"": 87286, ""type"": 6, ""w"": 116.0}, {""id"": 404677, ""node1"": 28557, ""node2"": 87286, ""type"": 10, ""w"": 53.0}, {""id"": 15809950, ""node1"": 28557, ""node2"": 87286, ""type"": 35, ""w"": 65.0}, {""id"": 962115932, ""node1"": 28557, ""node2"": 87286, ""type"": 666, ""w"": 2.0}]",r_isa,116.0
+fruit,rouge,amod,ADJ,0.5084561109542847,"[{""id"": 640137316, ""node1"": 87286, ""node2"": 86356, ""type"": 0, ""w"": 96.0}, {""id"": 2171760, ""node1"": 87286, ""node2"": 86356, ""type"": 17, ""w"": 26.0}, {""id"": 3160627, ""node1"": 87286, ""node2"": 86356, ""type"": 106, ""w"": 22.0}]",r_associated,96.0
+miel,étape,nmod,NOUN,0.5944004654884338,[],,
+pot,confiture,nmod,NOUN,0.529536783695221,"[{""id"": 415003513, ""node1"": 142367, ""node2"": 70793, ""type"": 0, ""w"": 28.0}, {""id"": 775213335, ""node1"": 142367, ""node2"": 70793, ""type"": 174, ""w"": 25.0}, {""id"": 1769589, ""node1"": 142367, ""node2"": 70793, ""type"": 666, ""w"": 2.0}, {""id"": 7861094, ""node1"": 142367, ""node2"": 70793, ""type"": 777, ""w"": 10.0}]",r_associated,28.0
+miel,verser,acl,VERB,0.6136889457702637,[],,
+recouvrir,miel,nsubj,NOUN,0.6073871850967407,[],,
+graine,recouvrir,acl,VERB,0.5579204559326172,[],,
+graine,contact,nmod,NOUN,0.5032305717468262,[],,
+contact,liquide,nmod,NOUN,0.4772077798843384,"[{""id"": 483766875, ""node1"": 83098, ""node2"": 140315, ""type"": 17, ""w"": 28.0}]",r_carac,28.0
+mélanger,assurer,advcl,VERB,0.4488882422447204,[],,
+rester,graine,nsubj,NOUN,0.5086696147918701,[],,
+homogène,mélange,nsubj,NOUN,0.4782799482345581,"[{""id"": 560376822, ""node1"": 124759, ""node2"": 14800, ""type"": 0, ""w"": 32.0}, {""id"": 33169412, ""node1"": 124759, ""node2"": 14800, ""type"": 23, ""w"": 54.0}]",r_carac-1,54.0
+refermer,récipient,obj,NOUN,0.507536768913269,[],,
+nuit,tout,amod,ADJ,0.4464542865753174,[],,
+déguster,matin,obj,NOUN,0.5044968128204346,[],,
+déjeuner,petit,amod,ADJ,0.4978998899459839,"[{""id"": 12233362, ""node1"": 78845, ""node2"": 55222, ""type"": 0, ""w"": 34.0}, {""id"": 706705, ""node1"": 78845, ""node2"": 55222, ""type"": 5, ""w"": 27.0}]",r_associated,34.0
+déguster,agrémenter,advcl,VERB,0.5407456755638123,[],,
+fruit,frais,amod,ADJ,0.4628446996212005,[],,
+fruit,goût,nmod,NOUN,0.5546804070472717,"[{""id"": 915175302, ""node1"": 87286, ""node2"": 119233, ""type"": 0, ""w"": 20.0}]",r_associated,20.0

@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,gratin,nmod,NOUN,0.4893978536128998,[],,
+gratin,pâte,nmod,NOUN,0.6890262961387634,"[{""id"": 606766232, ""node1"": 12942, ""node2"": 34069, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+gratin,saumon,nmod,ADV,0.6295727491378784,"[{""id"": 606743379, ""node1"": 12942, ""node2"": 3361, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+saumon,fumé,amod,ADJ,0.5537497997283936,"[{""id"": 156540, ""node1"": 3361, ""node2"": 23335, ""type"": 0, ""w"": 122.0}, {""id"": 14803107, ""node1"": 3361, ""node2"": 23335, ""type"": 17, ""w"": 22.0}, {""id"": 3189320, ""node1"": 3361, ""node2"": 23335, ""type"": 106, ""w"": -11.0}, {""id"": 502202500, ""node1"": 3361, ""node2"": 23335, ""type"": 666, ""w"": 9.0}]",r_associated,122.0
+gratin,ingrédient,nmod,NOUN,0.6309539079666138,[],,
+gratin,mascarpone,nmod,NOUN,0.586194634437561,[],,
+mascarpone,fumé,amod,ADJ,0.5369367003440857,[],,
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]",r_associated,598.0
+oeuf,basilic,amod,NOUN,0.5821439027786255,[],,
+gratin,Plat,nmod,PROPN,0.4779236614704132,"[{""id"": 606766250, ""node1"": 12942, ""node2"": 415256, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+gratin,gratin,nmod,NOUN,0.4922143518924713,"[{""id"": 306276, ""node1"": 12942, ""node2"": 12942, ""type"": 19, ""w"": 55.0}]",r_lemma,55.0
+gratin,top,nmod,NOUN,0.4157531857490539,[],,
+gratin,four,nmod,NOUN,0.6803157329559326,"[{""id"": 1831101, ""node1"": 12942, ""node2"": 9190, ""type"": 0, ""w"": 56.0}, {""id"": 97126803, ""node1"": 12942, ""node2"": 9190, ""type"": 15, ""w"": 31.0}, {""id"": 14673979, ""node1"": 12942, ""node2"": 9190, ""type"": 42, ""w"": 27.0}]",r_associated,56.0
+gratin,casserole,nmod,NOUN,0.6515781879425049,[],,
+casserole,saladier,obj,NOUN,0.6254573464393616,[],,
+saladier,plat,nmod,ADJ,0.6500786542892456,"[{""id"": 2181154, ""node1"": 45455, ""node2"": 36327, ""type"": 0, ""w"": 62.0}, {""id"": 1668935, ""node1"": 45455, ""node2"": 36327, ""type"": 666, ""w"": 3.0}]",r_associated,62.0
+gratin,étape,nmod,NOUN,0.5125875473022461,[],,
+four,min,nmod,NOUN,0.5254760980606079,[],,
+position,gratin,amod,ADJ,0.5213645100593567,[],,
+verser,pâte,obj,NOUN,0.6542285084724426,"[{""id"": 373014722, ""node1"": 104506, ""node2"": 34069, ""type"": 14, ""w"": 36.0}]",r_patient,36.0
+cuire,le,obj,DET,0.4500194191932678,[],,
+cuire,temps,obj,NOUN,0.698011040687561,"[{""id"": 1011357542, ""node1"": 5115, ""node2"": 13861, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+fondre,mascarpone,obj,NOUN,0.589675784111023,[],,
+ajouter,saumon,obj,NOUN,0.6255812644958496,[],,
+tout,feu,nmod,NOUN,0.5684407353401184,[],,
+tout,doux,amod,ADJ,0.4742471277713775,[],,
+arrêter,cuisson,obj,NOUN,0.6741373538970947,"[{""id"": 372620649, ""node1"": 28778, ""node2"": 60056, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ajouter,oeuf,obj,NOUN,0.5327831506729126,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+oeuf,mélanger,acl,VERB,0.5539453625679016,[],,
+préparation,pâte,nmod,NOUN,0.6407255530357361,"[{""id"": 920490588, ""node1"": 33634, ""node2"": 34069, ""type"": 0, ""w"": 20.0}, {""id"": 246257612, ""node1"": 33634, ""node2"": 34069, ""type"": 8, ""w"": 43.0}]",r_hypo,43.0
+pâte,égoutter,acl,VERB,0.6485137343406677,[],,
+verser,tout,obj,NOUN,0.5228472352027893,[],,
+plat,aller,acl,VERB,0.5960066914558411,[],,
+couper,mozzarella,obj,NOUN,0.5374503135681152,"[{""id"": 31821895, ""node1"": 128828, ""node2"": 120576, ""type"": 14, ""w"": 54.0}]",r_patient,54.0
+temps,désirer,amod,ADJ,0.4065901339054107,[],,

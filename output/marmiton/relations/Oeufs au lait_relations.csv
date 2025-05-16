@@ -1,0 +1,21 @@
+node1,node2,relations
+oeuf,lait,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]"
+lait,ingrédient,"[{""id"": 15370374, ""node1"": 86296, ""node2"": 123418, ""type"": 0, ""w"": 37.0}, {""id"": 506059, ""node1"": 86296, ""node2"": 123418, ""type"": 3, ""w"": 56.0}]"
+oeuf,sucre,"[{""id"": 76133259, ""node1"": 116175, ""node2"": 139481, ""type"": 50, ""w"": 26.0}]"
+sucre,lait,[]
+lait,entier,"[{""id"": 114016, ""node1"": 86296, ""node2"": 49309, ""type"": 0, ""w"": 134.0}, {""id"": 132413, ""node1"": 86296, ""node2"": 49309, ""type"": 8, ""w"": 111.0}, {""id"": 276797, ""node1"": 86296, ""node2"": 49309, ""type"": 17, ""w"": 80.0}]"
+sucre,oeuf,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]"
+four,casserole,[]
+casserole,bol,[]
+bol,cuillère,"[{""id"": 1046576301, ""node1"": 145405, ""node2"": 51905, ""type"": 8, ""w"": 20.0}]"
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,balance,[]
+balance,cuisine,[]
+balance,plat,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]"
+balance,étape,[]
+chauffer,lait,"[{""id"": 31845126, ""node1"": 90994, ""node2"": 86296, ""type"": 14, ""w"": 30.0}]"
+mélanger,oeuf,[]
+plat,aller,[]
+mettre,lait,[]
+ajouter,oeuf,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]"
+cuire,jaune,[]

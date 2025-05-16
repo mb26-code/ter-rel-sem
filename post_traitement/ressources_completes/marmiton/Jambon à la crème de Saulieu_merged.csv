@@ -1,0 +1,27 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+Jambon,crème,nmod,NOUN,0.5693147778511047,[],,
+crème,ingrédient,nmod,NOUN,0.6610228419303894,"[{""id"": 24850723, ""node1"": 44001, ""node2"": 123418, ""type"": 0, ""w"": 30.0}, {""id"": 24842105, ""node1"": 44001, ""node2"": 123418, ""type"": 6, ""w"": 143.0}]",r_isa,143.0
+ingrédient,poivre,appos,NOUN,0.7064663171768188,"[{""id"": 24923435, ""node1"": 123418, ""node2"": 139597, ""type"": 0, ""w"": 15.0}, {""id"": 24850733, ""node1"": 123418, ""node2"": 139597, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,beurre,amod,NOUN,0.7119027376174927,"[{""id"": 29328492, ""node1"": 13260, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 9986817, ""node1"": 13260, ""node2"": 140377, ""type"": 10, ""w"": 35.0}]",r_holo,35.0
+beurre,jambon,nmod,NOUN,0.6806144714355469,"[{""id"": 500926016, ""node1"": 140377, ""node2"": 57980, ""type"": 0, ""w"": 2.0}]",r_associated,2.0
+échalote,crème,appos,NOUN,0.6363560557365417,[],,
+poivre,champignon,nmod,NOUN,0.6624889373779297,[],,
+poivre,Paris,nmod,PROPN,0.5340769290924072,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+revenir,champignon,obj,NOUN,0.5831126570701599,[],,
+beurre,noisette,amod,NOUN,0.6675335168838501,"[{""id"": 500926040, ""node1"": 140377, ""node2"": 67819, ""type"": 0, ""w"": 12.0}, {""id"": 607207794, ""node1"": 140377, ""node2"": 67819, ""type"": 50, ""w"": -25.0}, {""id"": 765218080, ""node1"": 140377, ""node2"": 67819, ""type"": 58, ""w"": 31.0}]",r_quantificateur,31.0
+beurre,min,nmod,NOUN,0.4582551419734955,[],,
+récupérer,jus,obj,NOUN,0.5488473176956177,[],,
+jus,cuisson,nmod,NOUN,0.6731067299842834,[],,
+ajouter,Bourgogne,obj,PROPN,0.4017288982868194,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+plat,grand,amod,ADJ,0.5802130699157715,[],,
+plat,fonte,nmod,NOUN,0.6575993299484253,[],,
+plat,alterner,acl,VERB,0.6075461506843567,[],,
+four,200,nmod,NUM,0.5053980350494385,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+four,thermostat,appos,NOUN,0.6374015808105469,"[{""id"": 391935, ""node1"": 9190, ""node2"": 130331, ""type"": 0, ""w"": 54.0}, {""id"": 115475, ""node1"": 9190, ""node2"": 130331, ""type"": 9, ""w"": 165.0}, {""id"": 1026722506, ""node1"": 9190, ""node2"": 130331, ""type"": 82, ""w"": 30.0}]",r_has_part,165.0

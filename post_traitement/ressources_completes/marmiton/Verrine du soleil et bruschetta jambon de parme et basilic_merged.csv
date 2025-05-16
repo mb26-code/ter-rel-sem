@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+poivre,pesto,appos,NOUN,0.6618441939353943,[],,
+pesto,tomate,nmod,ADV,0.6282111406326294,[],,
+pesto,sécher,acl,VERB,0.6341267824172974,[],,
+fromage,frais,amod,ADJ,0.5452271103858948,"[{""id"": 198759, ""node1"": 141687, ""node2"": 53495, ""type"": 17, ""w"": 110.0}]",r_carac,110.0
+fromage,caviar,amod,ADJ,0.6108075976371765,[],,
+caviar,aubergine,nmod,NOUN,0.5622228980064392,"[{""id"": 213897944, ""node1"": 99862, ""node2"": 14731, ""type"": 0, ""w"": 51.0}]",r_associated,51.0
+aubergine,ciboulette,nmod,NOUN,0.6100420355796814,[],,
+pesto,pain,nmod,NOUN,0.6956026554107666,[],,
+pain,campagne,nmod,NOUN,0.6385389566421509,"[{""id"": 652238, ""node1"": 61283, ""node2"": 79444, ""type"": 0, ""w"": 57.0}]",r_associated,57.0
+campagne,Jambon,nmod,PROPN,0.4009523689746856,[],,
+pain,Parme,nmod,PROPN,0.5822634696960449,[],,
+bol,saladier,nmod,NOUN,0.5367903709411621,"[{""id"": 796872211, ""node1"": 145405, ""node2"": 45455, ""type"": 0, ""w"": 28.0}, {""id"": 1029292999, ""node1"": 145405, ""node2"": 45455, ""type"": 67, ""w"": 34.0}]",r_similar,34.0
+saladier,couteau,nmod,NOUN,0.6030980348587036,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+battre,fromage,obj,NOUN,0.602375328540802,[],,
+ajouter,peu,obj,ADV,0.4455879032611847,[],,
+peu,poivre,nmod,NOUN,0.5967963337898254,[],,
+ciboulette,haché,amod,ADJ,0.5465508103370667,[],,
+déposer,cuillère,obj,NOUN,0.5286773443222046,[],,
+cuillère,café,nmod,NOUN,0.592677116394043,"[{""id"": 163839, ""node1"": 51905, ""node2"": 66324, ""type"": 0, ""w"": 180.0}, {""id"": 11354840, ""node1"": 51905, ""node2"": 66324, ""type"": 15, ""w"": 39.0}, {""id"": 720818158, ""node1"": 51905, ""node2"": 66324, ""type"": 174, ""w"": 25.0}]",r_associated,180.0
+café,caviar,nmod,NOUN,0.5791372060775757,[],,
+préparation,fromage,nmod,NOUN,0.6962330937385559,"[{""id"": 1016249838, ""node1"": 33634, ""node2"": 141687, ""type"": 8, ""w"": 20.0}]",r_hypo,20.0
+couper,tomate,obj,NOUN,0.6290057301521301,"[{""id"": 628044027, ""node1"": 128828, ""node2"": 22138, ""type"": 0, ""w"": 27.0}, {""id"": 628044026, ""node1"": 128828, ""node2"": 22138, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+tomate,sécher,acl,VERB,0.6565603017807007,"[{""id"": 421761208, ""node1"": 22138, ""node2"": 56038, ""type"": 0, ""w"": 1.0}, {""id"": 758065756, ""node1"": 22138, ""node2"": 56038, ""type"": 24, ""w"": 30.0}]",r_agent-1,30.0
+tomate,déposer,acl:relcl,VERB,0.6279715299606323,[],,
+tranche,pain,nmod,NOUN,0.6442368030548096,"[{""id"": 240074, ""node1"": 143123, ""node2"": 61283, ""type"": 0, ""w"": 221.0}, {""id"": 97833247, ""node1"": 143123, ""node2"": 61283, ""type"": 3, ""w"": 10.0}, {""id"": 9992595, ""node1"": 143123, ""node2"": 61283, ""type"": 10, ""w"": 4.0}, {""id"": 97327248, ""node1"": 143123, ""node2"": 61283, ""type"": 35, ""w"": 30.0}, {""id"": 775213283, ""node1"": 143123, ""node2"": 61283, ""type"": 174, ""w"": 25.0}]",r_associated,221.0
+faite,griller,obj,VERB,0.5738502144813538,[],,
+faite,étaler,acl,VERB,0.4425971806049347,[],,
+chacun,pesto,nmod,NOUN,0.5909051299095154,[],,
+pesto,basilic,nmod,NOUN,0.5714476704597473,"[{""id"": 213231569, ""node1"": 221048, ""node2"": 112671, ""type"": 0, ""w"": 116.0}, {""id"": 213227606, ""node1"": 221048, ""node2"": 112671, ""type"": 9, ""w"": 57.0}, {""id"": 765200087, ""node1"": 221048, ""node2"": 112671, ""type"": 50, ""w"": 28.0}, {""id"": 1044492699, ""node1"": 221048, ""node2"": 112671, ""type"": 666, ""w"": 2.0}, {""id"": 77806767, ""node1"": 221048, ""node2"": 112671, ""type"": 777, ""w"": 10.0}]",r_associated,116.0
+jambon,Parme,nmod,PROPN,0.4293844699859619,"[{""id"": 796761723, ""node1"": 57980, ""node2"": 138282, ""type"": 0, ""w"": 25.0}]",r_associated,25.0
+régaler,servir,advcl,VERB,0.4988662600517273,"[{""id"": 822369115, ""node1"": 45906, ""node2"": 7888, ""type"": 0, ""w"": 26.0}]",r_associated,26.0

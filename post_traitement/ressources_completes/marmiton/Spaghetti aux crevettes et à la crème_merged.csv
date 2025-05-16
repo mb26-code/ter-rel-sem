@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+crème,ingrédient,nmod,NOUN,0.6610228419303894,"[{""id"": 24850723, ""node1"": 44001, ""node2"": 123418, ""type"": 0, ""w"": 30.0}, {""id"": 24842105, ""node1"": 44001, ""node2"": 123418, ""type"": 6, ""w"": 143.0}]",r_isa,143.0
+crème,sel,nmod,NOUN,0.7389078736305237,[],,
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+crème,oignon,acl,NOUN,0.682665228843689,[],,
+oignon,herbe,nmod,NOUN,0.563450813293457,[],,
+herbe,Provence,nmod,PROPN,0.4220801889896393,[],,
+crème,crème,acl,NOUN,0.5604454278945923,"[{""id"": 96714571, ""node1"": 44001, ""node2"": 44001, ""type"": 17, ""w"": 11.0}, {""id"": 292050, ""node1"": 44001, ""node2"": 44001, ""type"": 19, ""w"": 56.0}, {""id"": 648885465, ""node1"": 44001, ""node2"": 44001, ""type"": 99, ""w"": 32.0}]",r_lemma,56.0
+crème,épais,amod,ADJ,0.5873329043388367,[],,
+crème,vin,amod,NOUN,0.687624990940094,[],,
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+vin,sec,amod,ADJ,0.5958885550498962,"[{""id"": 558785883, ""node1"": 35798, ""node2"": 63619, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+casserole,set,nmod,NOUN,0.4378535151481628,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+casserole,grand,amod,ADJ,0.5876413583755493,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+oignon,couper,acl,VERB,0.596168577671051,"[{""id"": 900892185, ""node1"": 123307, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 31770901, ""node1"": 123307, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 1767208, ""node1"": 123307, ""node2"": 128828, ""type"": 666, ""w"": 2.0}]",r_patient-1,100.0
+oignon,peu,nmod,ADV,0.5508608818054199,[],,
+oignon,matière,nmod,NOUN,0.6314046382904053,[],,
+matière,gras,amod,ADJ,0.5428515672683716,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+ajouter,peu,obj,ADV,0.4455879032611847,[],,
+peu,ail,nmod,NOUN,0.5982154011726379,[],,
+laisser,mijoter,obj,VERB,0.5789923667907715,[],,
+mijoter,remuer,advcl,VERB,0.6055772304534912,[],,
+remuer,temps,obj,NOUN,0.5274296998977661,[],,
+cuire,spaghetti,obj,NOUN,0.7421337962150574,"[{""id"": 34438893, ""node1"": 5115, ""node2"": 48529, ""type"": 14, ""w"": 52.0}]",r_patient,52.0
+casserole,eau,nmod,NOUN,0.6077002882957458,"[{""id"": 96542705, ""node1"": 57253, ""node2"": 65012, ""type"": 0, ""w"": 19.0}, {""id"": 22760525, ""node1"": 57253, ""node2"": 65012, ""type"": 28, ""w"": 34.0}, {""id"": 96542704, ""node1"": 57253, ""node2"": 65012, ""type"": 666, ""w"": 1.0}]",r_lieu-1,34.0
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+cuillère,huile,nmod,NOUN,0.612982988357544,"[{""id"": 775213351, ""node1"": 51905, ""node2"": 141971, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+ajouter,crevette,obj,NOUN,0.5697072744369507,[],,
+crevette,sauce,nmod,NOUN,0.691152811050415,"[{""id"": 988032453, ""node1"": 106607, ""node2"": 141110, ""type"": 666, ""w"": 3.0}]",r_aki,3.0
+mijoter,min,obj,NOUN,0.4553591310977936,[],,
+rectifier,assaisonnement,obj,NOUN,0.5303710103034973,"[{""id"": 15080476, ""node1"": 36001, ""node2"": 15763, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+assaisonnement,nécessaire,amod,ADJ,0.5968281030654907,[],,
+servir,spaghetti,obj,NOUN,0.5975041389465332,[],,

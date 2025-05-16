@@ -1,0 +1,30 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+Mini,sel,nmod,NOUN,0.6227704286575317,[],,
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,thym,amod,NOUN,0.6287614107131958,"[{""id"": 584573822, ""node1"": 139597, ""node2"": 3323, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+Mini,farine,amod,NOUN,0.4893292188644409,[],,
+Mini,oeuf,nmod,NOUN,0.4468028843402862,[],,
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+four,saladier,nmod,NOUN,0.6991847157478333,[],,
+saladier,mixeur,nmod,NOUN,0.581632137298584,[],,
+mixeur,set,nmod,NOUN,0.4433817863464355,[],,
+top,poêle,nmod,NOUN,0.5366419553756714,[],,
+Mini,crêpe,nmod,NOUN,0.454361617565155,[],,
+crêpe,balance,obj,NOUN,0.5917694568634033,"[{""id"": 347084028, ""node1"": 17186, ""node2"": 145190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+saladier,courgette,appos,NOUN,0.6460440158843994,[],,
+courgette,couper,acl,VERB,0.5805845856666565,[],,
+pain,petit,amod,ADJ,0.6563963294029236,"[{""id"": 12987089, ""node1"": 61283, ""node2"": 55222, ""type"": 17, ""w"": 61.0}]",r_carac,61.0
+pain,grillé,amod,ADJ,0.6803522706031799,"[{""id"": 1782545, ""node1"": 61283, ""node2"": 141899, ""type"": 17, ""w"": 80.0}]",r_carac,80.0
+lait,oeuf,appos,NOUN,0.590930700302124,"[{""id"": 920038083, ""node1"": 86296, ""node2"": 116175, ""type"": 0, ""w"": 21.0}, {""id"": 385498014, ""node1"": 86296, ""node2"": 116175, ""type"": 8, ""w"": -25.0}]",r_associated,21.0
+ajouter,farine,obj,NOUN,0.6640971302986145,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+farine,mélange,nmod,NOUN,0.6902046799659729,[],,
+mélange,remuer,acl,VERB,0.5663568377494812,"[{""id"": 920083775, ""node1"": 14800, ""node2"": 125556, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+déposer,galette,obj,NOUN,0.5536845922470093,[],,
+galette,pâte,nmod,NOUN,0.6526337265968323,"[{""id"": 98286717, ""node1"": 28590, ""node2"": 34069, ""type"": 0, ""w"": 30.0}, {""id"": 798292459, ""node1"": 28590, ""node2"": 34069, ""type"": 666, ""w"": 2.0}]",r_associated,30.0
+poêle,chauffer,acl,VERB,0.652711808681488,[],,

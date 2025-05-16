@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+nettoyer,titre,nsubj,NOUN,0.4362305104732513,[],,
+moelle,ingrédient,nmod,NOUN,0.5694913268089294,[],,
+ingrédient,poivre,appos,NOUN,0.7064663171768188,"[{""id"": 24923435, ""node1"": 123418, ""node2"": 139597, ""type"": 0, ""w"": 15.0}, {""id"": 24850733, ""node1"": 123418, ""node2"": 139597, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+bouillon,volaille,nmod,NOUN,0.6946349143981934,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+poivre,boeuf,nmod,NOUN,0.6786247491836548,[],,
+poivre,couteau,nmod,NOUN,0.6515600681304932,[],,
+poivre,étape,nmod,NOUN,0.6137527823448181,[],,
+nettoyer,faire,advcl,VERB,0.4732670187950134,"[{""id"": 53738677, ""node1"": 85286, ""node2"": 87528, ""type"": 0, ""w"": 28.0}, {""id"": 53614335, ""node1"": 85286, ""node2"": 87528, ""type"": 5, ""w"": -84.0}]",r_associated,28.0
+cuire,minute,nmod,NOUN,0.6918482780456543,[],,
+minute,cocotte,nmod,NOUN,0.5547523498535156,"[{""id"": 418389, ""node1"": 31491, ""node2"": 120952, ""type"": 0, ""w"": 60.0}, {""id"": 539971619, ""node1"": 31491, ""node2"": 120952, ""type"": 21, ""w"": -25.0}]",r_associated,60.0
+jus,veau,nmod,NOUN,0.6273616552352905,[],,
+jus,rôti,nmod,NOUN,0.6751711964607239,"[{""id"": 10533773, ""node1"": 53310, ""node2"": 19636, ""type"": 0, ""w"": 23.0}, {""id"": 2220242, ""node1"": 53310, ""node2"": 19636, ""type"": 10, ""w"": 54.0}]",r_holo,54.0
+mijoter,minute,obj,NOUN,0.6123385429382324,[],,
+gramme,moelle,nmod,NOUN,0.4881800413131714,[],,
+moelle,boeuf,nmod,NOUN,0.5600637197494507,[],,
+aide,couteau,nmod,NOUN,0.4610194563865661,[],,
+couteau,pointu,amod,ADJ,0.482959508895874,"[{""id"": 118099, ""node1"": 32610, ""node2"": 132632, ""type"": 0, ""w"": 74.0}, {""id"": 98295368, ""node1"": 32610, ""node2"": 132632, ""type"": 17, ""w"": 22.0}, {""id"": 653260657, ""node1"": 32610, ""node2"": 132632, ""type"": 666, ""w"": 3.0}]",r_associated,74.0
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+disposer,rondelle,obj,NOUN,0.4852708280086517,[],,
+rondelle,moelle,nmod,NOUN,0.494169682264328,[],,
+rôti,veau,nmod,NOUN,0.629530131816864,"[{""id"": 561175328, ""node1"": 19636, ""node2"": 91311, ""type"": 0, ""w"": 41.0}, {""id"": 514132169, ""node1"": 19636, ""node2"": 91311, ""type"": 23, ""w"": 3.0}, {""id"": 23206327, ""node1"": 19636, ""node2"": 91311, ""type"": 777, ""w"": 10.0}]",r_associated,41.0
+rôti,utiliser,acl:relcl,VERB,0.6711573004722595,[],,
+utiliser,partie,obj,NOUN,0.432075023651123,[],,
+partie,jus,nmod,NOUN,0.5847374200820923,[],,

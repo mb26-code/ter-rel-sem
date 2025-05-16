@@ -1,0 +1,24 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+soupe,courgette,nmod,NOUN,0.6856979727745056,"[{""id"": 729556085, ""node1"": 117152, ""node2"": 85172, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+soupe,vache,nmod,NOUN,0.5844100117683411,[],,
+vache,rire,acl:relcl,VERB,0.4146716296672821,[],,
+ingrédient,sel,appos,NOUN,0.6997572183609009,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+ingrédient,vache,appos,NOUN,0.5198480486869812,[],,
+ingrédient,cube,nmod,NOUN,0.5473321080207825,[],,
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+ingrédient,eau,appos,NOUN,0.6008535623550415,"[{""id"": 245157298, ""node1"": 123418, ""node2"": 65012, ""type"": 8, ""w"": 36.0}]",r_hypo,36.0
+eau,louche,appos,NOUN,0.5861531496047974,"[{""id"": 104957473, ""node1"": 65012, ""node2"": 124144, ""type"": 15, ""w"": 6.0}]",r_lieu,6.0
+louche,mixeur,nmod,NOUN,0.5896725058555603,[],,
+mixeur,plonger,acl,VERB,0.5584041476249695,[],,
+mixeur,chauffer,acl,VERB,0.6226776838302612,[],,
+chauffer,mixeur,obj,NOUN,0.6226776838302612,[],,
+eau,étape,nmod,NOUN,0.5415300130844116,[],,
+vache,mettre,acl,VERB,0.4710118174552917,[],,
+chauffer,eau,obj,NOUN,0.593856930732727,"[{""id"": 548529671, ""node1"": 90994, ""node2"": 65012, ""type"": 0, ""w"": 29.0}, {""id"": 426777342, ""node1"": 90994, ""node2"": 65012, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+courgette,ail,nmod,NOUN,0.5895158052444458,[],,
+ail,écraser,acl,VERB,0.5606361031532288,"[{""id"": 906193744, ""node1"": 26979, ""node2"": 52004, ""type"": 0, ""w"": 20.0}, {""id"": 98571281, ""node1"": 26979, ""node2"": 52004, ""type"": 26, ""w"": 40.0}]",r_patient-1,40.0
+courgette,couper,acl,VERB,0.5805845856666565,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+tendre,courgette,nsubj,NOUN,0.5829514265060425,"[{""id"": 372674685, ""node1"": 71211, ""node2"": 85172, ""type"": 23, ""w"": 2.0}]",r_carac-1,2.0
+cuire,tendre,advcl,ADJ,0.6985766291618347,[],,

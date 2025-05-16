@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,fondue,nmod,NOUN,0.5169522166252136,[],,
+fondue,asiatique,amod,ADJ,0.5291778445243835,[],,
+fondue,boeuf,nmod,NOUN,0.6093349456787109,"[{""id"": 1587288, ""node1"": 101081, ""node2"": 47417, ""type"": 0, ""w"": 90.0}]",r_associated,90.0
+boeuf,ingrédient,nmod,NOUN,0.6519651412963867,"[{""id"": 24929879, ""node1"": 47417, ""node2"": 123418, ""type"": 6, ""w"": 2.0}]",r_isa,2.0
+boeuf,persil,nmod,NOUN,0.6359483599662781,[],,
+boeuf,poireau,nmod,NOUN,0.6372915506362915,[],,
+titre,boeuf,nmod,NOUN,0.5486986637115479,[],,
+boeuf,bouillon,nmod,NOUN,0.6349595785140991,[],,
+bouillon,volaille,nmod,NOUN,0.6946349143981934,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+volaille,céleri,amod,PROPN,0.6860244870185852,[],,
+titre,curry,nmod,NOUN,0.6213446855545044,[],,
+curry,mayonnaise,nmod,NOUN,0.6936731338500977,[],,
+appareil,fondre,acl,VERB,0.5232203602790833,[],,
+fondre,couteau,appos,NOUN,0.5875259041786194,[],,
+couteau,bol,nmod,NOUN,0.5557995438575745,[],,
+bol,saladier,nmod,NOUN,0.5367903709411621,"[{""id"": 796872211, ""node1"": 145405, ""node2"": 45455, ""type"": 0, ""w"": 28.0}, {""id"": 1029292999, ""node1"": 145405, ""node2"": 45455, ""type"": 67, ""w"": 34.0}]",r_similar,34.0
+saladier,casserole,appos,NOUN,0.6254573464393616,[],,
+titre,trancher,acl,VERB,0.4133235216140747,[],,
+trancher,viande,obj,NOUN,0.6952183246612549,"[{""id"": 478236136, ""node1"": 32322, ""node2"": 140100, ""type"": 0, ""w"": 26.0}, {""id"": 1595268, ""node1"": 32322, ""node2"": 140100, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+faire,que,obj,ADV,0.4427080750465393,[],,
+bouchée,chacun,nmod,PRON,0.4869525134563446,[],,
+cuire,riz,obj,NOUN,0.7637909054756165,"[{""id"": 426022657, ""node1"": 5115, ""node2"": 24372, ""type"": 0, ""w"": 36.0}, {""id"": 31820394, ""node1"": 5115, ""node2"": 24372, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+préparer,sauce,obj,NOUN,0.6940045356750488,"[{""id"": 395781320, ""node1"": 36246, ""node2"": 141110, ""type"": 0, ""w"": 35.0}, {""id"": 373014451, ""node1"": 36246, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparer,mélanger,advcl,VERB,0.5422113537788391,[],,
+ingrédient,différent,amod,ADJ,0.5547208189964294,[],,
+mélanger,ingrédient,obj,NOUN,0.6362285614013672,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ingrédient,composer,acl:relcl,VERB,0.5188685059547424,[],,
+mettre,sauce,obj,NOUN,0.6739883422851562,[],,
+bol,petit,amod,ADJ,0.5434224009513855,[],,
+amener,bouillon,obj,NOUN,0.5968552231788635,[],,
+bouillon,ébullition,nmod,NOUN,0.5922847986221313,"[{""id"": 558647531, ""node1"": 146582, ""node2"": 83252, ""type"": 0, ""w"": 30.0}, {""id"": 4238164, ""node1"": 146582, ""node2"": 83252, ""type"": 777, ""w"": 10.0}]",r_associated,30.0
+ébullition,légume,nmod,NOUN,0.68348628282547,[],,
+vérifier,assaisonnement,obj,NOUN,0.4943651258945465,[],,
+cuire,viande,obj,NOUN,0.8064185976982117,"[{""id"": 2182411, ""node1"": 5115, ""node2"": 140100, ""type"": 0, ""w"": 73.0}, {""id"": 148035, ""node1"": 5115, ""node2"": 140100, ""type"": 13, ""w"": 100.0}, {""id"": 206249, ""node1"": 5115, ""node2"": 140100, ""type"": 14, ""w"": 100.0}, {""id"": 722712577, ""node1"": 5115, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]",r_agent,100.0
+sauce,choix,nmod,NOUN,0.6647953391075134,[],,

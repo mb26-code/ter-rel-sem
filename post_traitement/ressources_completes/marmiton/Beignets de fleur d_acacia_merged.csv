@@ -1,0 +1,20 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+sucre,sel,nmod,NOUN,0.6925632357597351,"[{""id"": 83941, ""node1"": 139481, ""node2"": 13260, ""type"": 0, ""w"": 401.0}, {""id"": 1046576271, ""node1"": 139481, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 1895756, ""node1"": 139481, ""node2"": 13260, ""type"": 20, ""w"": 51.0}, {""id"": 1376354, ""node1"": 139481, ""node2"": 13260, ""type"": 21, ""w"": 60.0}]",r_associated,401.0
+sel,farine,nmod,NOUN,0.7164311408996582,[],,
+sucre,lait,nmod,NOUN,0.6437966823577881,[],,
+lait,fleur,nmod,NOUN,0.6117987036705017,[],,
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+titre,saladier,nmod,NOUN,0.5138511061668396,[],,
+titre,mélanger,acl,VERB,0.4706915318965912,[],,
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+mélanger,fleur,nsubj,NOUN,0.5897946953773499,[],,
+fleur,rincer,acl,VERB,0.5406279563903809,[],,
+fleur,pâte,nmod,NOUN,0.6378579139709473,[],,
+bouillir,huile,nmod,NOUN,0.6765826940536499,[],,
+verser,cuillère,obj,NOUN,0.554061770439148,"[{""id"": 922009833, ""node1"": 104506, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 154215, ""node1"": 104506, ""node2"": 51905, ""type"": 16, ""w"": 60.0}]",r_instr,60.0
+cuillère,mélange,nmod,NOUN,0.6335723400115967,"[{""id"": 662502763, ""node1"": 51905, ""node2"": 14800, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+retirer,doré,advcl,ADJ,0.5100468993186951,[],,

@@ -1,0 +1,41 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+Cake,chorizo,nmod,NOUN,0.4292667210102081,[],,
+Cake,ingrédient,nmod,NOUN,0.4129388630390167,[],,
+Cake,poivre,appos,NOUN,0.4998015463352203,[],,
+poivre,huile,amod,NOUN,0.6777899265289307,"[{""id"": 917898979, ""node1"": 139597, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+poivre,levure,nmod,NOUN,0.6640017628669739,[],,
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+levure,gruyère,nmod,NOUN,0.5902255177497864,[],,
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+grille,four,nmod,NOUN,0.6606125235557556,"[{""id"": 11786989, ""node1"": 563, ""node2"": 9190, ""type"": 0, ""w"": 51.0}, {""id"": 9977203, ""node1"": 563, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 11353886, ""node1"": 563, ""node2"": 9190, ""type"": 15, ""w"": 38.0}]",r_associated,51.0
+four,fouet,nmod,NOUN,0.6685465574264526,"[{""id"": 879245167, ""node1"": 9190, ""node2"": 73888, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 306.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 266.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,306.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,top,nmod,NOUN,0.4335919320583343,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+four,set,nmod,NOUN,0.553033173084259,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+set,moule,nmod,NOUN,0.4461282789707184,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+four,180,nmod,NUM,0.4979606568813324,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+saladier,fouetter,acl,VERB,0.5312424302101135,"[{""id"": 1077330496, ""node1"": 45455, ""node2"": 45711, ""type"": 0, ""w"": 50.0}, {""id"": 31838081, ""node1"": 45455, ""node2"": 45711, ""type"": 30, ""w"": 51.0}]",r_lieu_action,51.0
+fouetter,oeuf,obj,NOUN,0.5245742201805115,[],,
+incorporer,lait,obj,NOUN,0.5882614850997925,[],,
+lait,chaud,amod,ADJ,0.6167433261871338,"[{""id"": 276798, ""node1"": 86296, ""node2"": 19150, ""type"": 17, ""w"": 141.0}]",r_carac,141.0
+huile,petit,amod,ADJ,0.6305597424507141,[],,
+ajouter,gruyère,obj,NOUN,0.556841254234314,[],,
+gruyère,râpé,amod,ADV,0.5169720649719238,"[{""id"": 1582298, ""node1"": 54095, ""node2"": 52123, ""type"": 0, ""w"": 140.0}, {""id"": 477608590, ""node1"": 54095, ""node2"": 52123, ""type"": 17, ""w"": 26.0}]",r_associated,140.0
+revenir,chorizo,obj,ADV,0.6239259839057922,[],,
+revenir,faire,advcl,VERB,0.4624814093112945,[],,
+griller,peu,obj,ADV,0.5432396531105042,[],,
+incorporer,grillé,advcl,ADJ,0.6254440546035767,[],,
+croûte,petit,amod,ADJ,0.6293177604675293,[],,
+forme,croûte,nsubj,NOUN,0.5511258244514465,[],,
+dessus,cake,nmod,NOUN,0.5551707148551941,[],,
+forme,normal,advcl,ADJ,0.4337714612483978,[],,

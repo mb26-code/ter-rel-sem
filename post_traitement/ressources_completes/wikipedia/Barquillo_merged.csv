@@ -4,7 +4,7 @@ pâtisserie,croustillant,amod,ADJ,0.6520339250564575,[],,
 pâtisserie,forme,nmod,NOUN,0.5583813786506653,[],,
 forme,rouler,amod,ADJ,0.5139485001564026,"[{""id"": 14658126, ""node1"": 142000, ""node2"": 231, ""type"": 41, ""w"": 32.0}]",r_has_conseq,32.0
 pâtisserie,originaire,amod,ADJ,0.5083064436912537,[],,
-ingrédient,base,nmod,NOUN,0.5895823240280151,"[{""id"": 12352698, ""node1"": 123418, ""node2"": 72257, ""type"": 0, ""w"": 30.0}, {""id"": 12197414, ""node1"": 123418, ""node2"": 72257, ""type"": 5, ""w"": 35.0}]",r_associated,30.0
+ingrédient,base,nmod,NOUN,0.5895823240280151,"[{""id"": 12352698, ""node1"": 123418, ""node2"": 72257, ""type"": 0, ""w"": 30.0}, {""id"": 12197414, ""node1"": 123418, ""node2"": 72257, ""type"": 5, ""w"": 35.0}]",r_syn,35.0
 base,biscuit,nmod,NOUN,0.6167486906051636,[],,
 ingrédient,sucre,nmod,NOUN,0.6975625157356262,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]",r_associated,70.0
 blanc,œuf,nmod,NOUN,0.5384882688522339,"[{""id"": 796769193, ""node1"": 15196, ""node2"": 174124, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
@@ -23,6 +23,6 @@ pays,est,nmod,NOUN,0.4135731160640716,"[{""id"": 797244273, ""node1"": 22243, ""
 faire,sucre,nmod,NOUN,0.692607581615448,[],,
 roule,que,obj,PRON,0.4516467154026031,[],,
 sucre,roule,acl:relcl,VERB,0.6222742795944214,[],,
-tube,long,amod,ADJ,0.4303184151649475,"[{""id"": 415003968, ""node1"": 134899, ""node2"": 84432, ""type"": 0, ""w"": 26.0}, {""id"": 552972320, ""node1"": 134899, ""node2"": 84432, ""type"": 17, ""w"": 26.0}]",r_associated,26.0
+tube,long,amod,ADJ,0.4303184151649475,"[{""id"": 415003968, ""node1"": 134899, ""node2"": 84432, ""type"": 0, ""w"": 26.0}, {""id"": 552972320, ""node1"": 134899, ""node2"": 84432, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
 forme,tube,nmod,NOUN,0.4350929856300354,"[{""id"": 914300586, ""node1"": 142000, ""node2"": 134899, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
 fête,habiller,acl:relcl,VERB,0.4407234787940979,[],,

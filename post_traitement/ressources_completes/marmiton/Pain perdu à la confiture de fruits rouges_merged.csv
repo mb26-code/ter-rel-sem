@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,pain,appos,NOUN,0.6112104654312134,[],,
+pain,perdre,acl,VERB,0.6487723588943481,[],,
+confiture,fruit,nmod,NOUN,0.5557554960250854,"[{""id"": 226011, ""node1"": 70793, ""node2"": 87286, ""type"": 0, ""w"": 266.0}, {""id"": 1525774, ""node1"": 70793, ""node2"": 87286, ""type"": 666, ""w"": 6.0}]",r_associated,266.0
+fruit,ingrédient,nmod,NOUN,0.562045156955719,[],,
+fruit,beurre,acl,NOUN,0.6500765085220337,"[{""id"": 920548099, ""node1"": 87286, ""node2"": 140377, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+beurre,sel,nmod,NOUN,0.7119027376174927,"[{""id"": 9986816, ""node1"": 140377, ""node2"": 13260, ""type"": 0, ""w"": 43.0}, {""id"": 649508, ""node1"": 140377, ""node2"": 13260, ""type"": 9, ""w"": 56.0}, {""id"": 3979381, ""node1"": 140377, ""node2"": 13260, ""type"": 777, ""w"": 10.0}]",r_has_part,56.0
+confiture,jus,nmod,NOUN,0.5920900106430054,[],,
+jus,orange,nmod,NOUN,0.5570237040519714,"[{""id"": 237499, ""node1"": 53310, ""node2"": 145382, ""type"": 0, ""w"": 204.0}, {""id"": 10003691, ""node1"": 53310, ""node2"": 145382, ""type"": 10, ""w"": 28.0}, {""id"": 3171890, ""node1"": 53310, ""node2"": 145382, ""type"": 106, ""w"": 5.0}, {""id"": 1771771, ""node1"": 53310, ""node2"": 145382, ""type"": 666, ""w"": 6.0}]",r_associated,204.0
+jus,confiture,nmod,NOUN,0.5920900106430054,[],,
+fruit,rouge,amod,ADJ,0.5084561109542847,"[{""id"": 640137316, ""node1"": 87286, ""node2"": 86356, ""type"": 0, ""w"": 96.0}, {""id"": 2171760, ""node1"": 87286, ""node2"": 86356, ""type"": 17, ""w"": 26.0}, {""id"": 3160627, ""node1"": 87286, ""node2"": 86356, ""type"": 106, ""w"": 22.0}]",r_associated,96.0
+fruit,cannelle,amod,ADJ,0.5942659378051758,"[{""id"": 403056813, ""node1"": 87286, ""node2"": 112959, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+fruit,oeuf,appos,NOUN,0.5669006705284119,[],,
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+lait,sucre,nmod,NOUN,0.6437966823577881,[],,
+sucre,vanillé,amod,ADJ,0.6220211982727051,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]",r_associated,13.0
+confiture,glace,nmod,NOUN,0.6184322834014893,[],,
+casserole,cuillère,nmod,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,fouet,nmod,NOUN,0.5491861701011658,"[{""id"": 662513346, ""node1"": 51905, ""node2"": 73888, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+fouet,set,nmod,NOUN,0.4301668703556061,[],,
+fouet,poêle,nmod,NOUN,0.6531555652618408,[],,
+fouet,pinceau,nmod,NOUN,0.4720708131790161,[],,
+pinceau,balance,nmod,NOUN,0.4696744382381439,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+fouet,étape,nmod,NOUN,0.4946097731590271,[],,
+mélanger,jus,obj,NOUN,0.5910492539405823,[],,
+confiture,casserole,nmod,NOUN,0.6971736550331116,"[{""id"": 610260619, ""node1"": 70793, ""node2"": 57253, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+chauffer,minute,nmod,NOUN,0.5416167974472046,[],,
+chauffer,ébullition,nmod,NOUN,0.5735728144645691,[],,
+tremper,tranche,obj,NOUN,0.5667445063591003,[],,
+dorer,tranche,obj,NOUN,0.5334594249725342,[],,
+min,beurre,nmod,NOUN,0.4582551419734955,[],,
+papier,absorber,acl,VERB,0.4968288838863373,[],,

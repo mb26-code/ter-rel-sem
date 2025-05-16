@@ -1,0 +1,18 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+fleur,oranger,acl,VERB,0.4641747772693634,"[{""id"": 421883126, ""node1"": 28985, ""node2"": 33024, ""type"": 0, ""w"": 11.0}]",r_associated,11.0
+oranger,sucre,obj,NOUN,0.6246147751808167,[],,
+fleur,sucre,nmod,NOUN,0.654744029045105,[],,
+sucre,vanillé,amod,ADJ,0.6220211982727051,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]",r_associated,13.0
+sucre,couteau,nmod,NOUN,0.6995149254798889,[],,
+sucre,mixeur,nmod,NOUN,0.6836506724357605,[],,
+mixeur,balance,nmod,NOUN,0.5409628748893738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+laisser,minute,obj,NOUN,0.4280168712139129,[],,
+enlever,peau,obj,NOUN,0.4885257482528686,"[{""id"": 15076500, ""node1"": 82345, ""node2"": 109785, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+cuire,le,obj,PRON,0.4500194191932678,[],,
+pincée,sel,nmod,NOUN,0.6588193774223328,"[{""id"": 665112730, ""node1"": 122023, ""node2"": 13260, ""type"": 174, ""w"": 40.0}, {""id"": 990072491, ""node1"": 122023, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]",r_quantificateur-1,40.0
+eau,couvert,nmod,NOUN,0.5627243518829346,[],,
+cuire,mixer,advcl,VERB,0.697946310043335,[],,
+cuire,ajouter,advcl,VERB,0.695756196975708,[],,
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0

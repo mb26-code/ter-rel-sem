@@ -1,0 +1,38 @@
+node1,node2,relations
+titre,boulette,[]
+boulette,bœuf,[]
+boulette,pulpe,[]
+pulpe,ingrédient,[]
+boulette,beurre,[]
+boulette,boeuf,[]
+boeuf,lait,"[{""id"": 602098046, ""node1"": 47417, ""node2"": 86296, ""type"": 0, ""w"": 61.0}]"
+lait,oeuf,"[{""id"": 920038083, ""node1"": 86296, ""node2"": 116175, ""type"": 0, ""w"": 21.0}, {""id"": 385498014, ""node1"": 86296, ""node2"": 116175, ""type"": 8, ""w"": -25.0}]"
+boeuf,bouillon,[]
+bouillon,légume,"[{""id"": 152250, ""node1"": 146582, ""node2"": 120603, ""type"": 0, ""w"": 55.0}]"
+légume,farine,[]
+farine,basilic,[]
+basilic,huile,"[{""id"": 561291291, ""node1"": 112671, ""node2"": 141971, ""type"": 0, ""w"": 42.0}]"
+basilic,sel,[]
+boulette,balance,[]
+balance,cuisine,[]
+boulette,louche,[]
+louche,bol,[]
+bol,étape,[]
+boulette,verser,[]
+verser,chapelure,[]
+travailler,viande,[]
+travailler,sel,[]
+ajouter,chapelure,[]
+ajouter,ingrédient,"[{""id"": 9084112, ""node1"": 25099, ""node2"": 123418, ""type"": 0, ""w"": 56.0}, {""id"": 428901945, ""node1"": 25099, ""node2"": 123418, ""type"": 14, ""w"": 100.0}, {""id"": 9084083, ""node1"": 25099, ""node2"": 123418, ""type"": 35, ""w"": 48.0}]"
+ingrédient,obtenir,[]
+obtenir,pâte,[]
+former,boulette,[]
+boulette,viande,"[{""id"": 158031, ""node1"": 112360, ""node2"": 140100, ""type"": 0, ""w"": 82.0}, {""id"": 1013983190, ""node1"": 112360, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]"
+verser,pulpe,[]
+pulpe,tomate,[]
+feuille,basilic,"[{""id"": 98620683, ""node1"": 37993, ""node2"": 112671, ""type"": 0, ""w"": 18.0}, {""id"": 97419090, ""node1"": 37993, ""node2"": 112671, ""type"": 10, ""w"": 27.0}]"
+verser,louche,"[{""id"": 154210, ""node1"": 104506, ""node2"": 124144, ""type"": 16, ""w"": 60.0}]"
+louche,bouillon,"[{""id"": 720819546, ""node1"": 124144, ""node2"": 146582, ""type"": 174, ""w"": 25.0}]"
+cuire,minute,[]
+servir,boulette,[]
+viande,chaud,[]

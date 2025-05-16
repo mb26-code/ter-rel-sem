@@ -1,0 +1,22 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+titre,carotte,appos,NOUN,0.5166646838188171,[],,
+carotte,pomme,flat:name,NOUN,0.5858273506164551,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pois,petit,amod,ADJ,0.5441179871559143,"[{""id"": 1743094, ""node1"": 97846, ""node2"": 55222, ""type"": 0, ""w"": 105.0}, {""id"": 1525554, ""node1"": 97846, ""node2"": 55222, ""type"": 666, ""w"": 2.0}]",r_associated,105.0
+titre,pois,nmod,NOUN,0.5032194256782532,[],,
+pois,haricot,nmod,NOUN,0.5134739279747009,"[{""id"": 561306537, ""node1"": 97846, ""node2"": 114886, ""type"": 0, ""w"": 42.0}, {""id"": 1055645531, ""node1"": 97846, ""node2"": 114886, ""type"": 666, ""w"": 2.0}]",r_associated,42.0
+pois,vert,amod,ADJ,0.5194663405418396,"[{""id"": 1743093, ""node1"": 97846, ""node2"": 26976, ""type"": 0, ""w"": 128.0}, {""id"": 3191801, ""node1"": 97846, ""node2"": 26976, ""type"": 106, ""w"": 4.0}, {""id"": 1525553, ""node1"": 97846, ""node2"": 26976, ""type"": 666, ""w"": 4.0}]",r_associated,128.0
+pois,oeuf,acl,NOUN,0.5738427639007568,[],,
+oeuf,mayonnaise,nmod,ADJ,0.5541825294494629,"[{""id"": 584561372, ""node1"": 116175, ""node2"": 111055, ""type"": 0, ""w"": 44.0}, {""id"": 283880801, ""node1"": 116175, ""node2"": 111055, ""type"": 10, ""w"": 15.0}, {""id"": 109918884, ""node1"": 116175, ""node2"": 111055, ""type"": 777, ""w"": 10.0}]",r_associated,44.0
+titre,cuillère,nmod,NOUN,0.5080531239509583,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+cuillère,tailler,acl,VERB,0.5488061308860779,[],,
+cuillère,légume,nmod,NOUN,0.716711163520813,[],,
+cuire,le,obj,PRON,0.4500194191932678,[],,
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+cuire,oeuf,obj,NOUN,0.7018415927886963,"[{""id"": 477428805, ""node1"": 5115, ""node2"": 116175, ""type"": 0, ""w"": 35.0}, {""id"": 206246, ""node1"": 5115, ""node2"": 116175, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+oeuf,dur,amod,ADJ,0.5033280849456787,"[{""id"": 238844, ""node1"": 116175, ""node2"": 72731, ""type"": 0, ""w"": 73.0}, {""id"": 1911997, ""node1"": 116175, ""node2"": 72731, ""type"": 17, ""w"": 85.0}, {""id"": 1012355283, ""node1"": 116175, ""node2"": 72731, ""type"": 666, ""w"": 2.0}]",r_carac,85.0
+égoutter,légume,nsubj:pass,NOUN,0.6571376919746399,"[{""id"": 50695406, ""node1"": 64627, ""node2"": 120603, ""type"": 0, ""w"": 81.0}]",r_associated,81.0
+mélanger,égoutter,advcl,VERB,0.5177618861198425,[],,

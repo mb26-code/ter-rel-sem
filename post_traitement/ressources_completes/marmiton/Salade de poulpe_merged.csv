@@ -1,0 +1,41 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,salade,appos,NOUN,0.6000369191169739,[],,
+salade,poulpe,nmod,NOUN,0.6121814250946045,[],,
+salade,ingrédient,nmod,NOUN,0.7104912996292114,[],,
+salade,sel,nmod,NOUN,0.7494593858718872,"[{""id"": 97758126, ""node1"": 118908, ""node2"": 13260, ""type"": 0, ""w"": 27.0}, {""id"": 97758127, ""node1"": 118908, ""node2"": 13260, ""type"": 9, ""w"": 32.0}, {""id"": 5292757, ""node1"": 118908, ""node2"": 13260, ""type"": 777, ""w"": 7.0}]",r_has_part,32.0
+sel,persil,nmod,NOUN,0.6742550134658813,[],,
+salade,citron,nmod,NOUN,0.685790479183197,[],,
+citron,huile,amod,NOUN,0.6450877785682678,[],,
+salade,marmite,nmod,NOUN,0.7212777137756348,[],,
+marmite,four,nmod,NOUN,0.7245966196060181,[],,
+four,fourchette,nmod,NOUN,0.6769327521324158,[],,
+four,saladier,nmod,NOUN,0.6899359822273254,[],,
+saladier,couteau,nmod,NOUN,0.5977563261985779,[],,
+saladier,planche,nmod,NOUN,0.5977564454078674,[],,
+saladier,découper,advcl,VERB,0.5906113386154175,[],,
+découper,étape,obj,NOUN,0.4833098649978637,[],,
+nettoyer,poulpe,obj,NOUN,0.512601375579834,[],,
+nettoyer,ventouse,obj,NOUN,0.4304439723491668,[],,
+fois,poulpe,nmod,NOUN,0.5093165636062622,[],,
+poulpe,nettoyer,acl,VERB,0.512601375579834,[],,
+préparer,marmite,obj,NOUN,0.6881200075149536,"[{""id"": 556107345, ""node1"": 36246, ""node2"": 146096, ""type"": 0, ""w"": 32.0}, {""id"": 556107344, ""node1"": 36246, ""node2"": 146096, ""type"": 31, ""w"": 32.0}]",r_associated,32.0
+marmite,eau,nmod,NOUN,0.6246123909950256,[],,
+eau,saler,amod,ADJ,0.6469343900680542,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+saler,bouillante,obj,NOUN,0.6166996359825134,[],,
+piquer,poulpe,obj,NOUN,0.5128061771392822,[],,
+aide,fourchette,nmod,NOUN,0.4402007162570953,[],,
+réserver,retirer,advcl,VERB,0.4337345063686371,[],,
+laisser,poulpe,obj,NOUN,0.496611088514328,[],,
+cuire,cuire,advcl,VERB,0.6932817697525024,"[{""id"": 292374, ""node1"": 5115, ""node2"": 5115, ""type"": 19, ""w"": 274.0}]",r_lemma,274.0
+saladier,préparer,acl,VERB,0.6266721487045288,[],,
+préparer,vinaigrette,obj,NOUN,0.6543126106262207,"[{""id"": 438786344, ""node1"": 36246, ""node2"": 47740, ""type"": 0, ""w"": 28.0}, {""id"": 15084894, ""node1"": 36246, ""node2"": 47740, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparer,mettre,advcl,VERB,0.4697225391864776,"[{""id"": 12272817, ""node1"": 36246, ""node2"": 132366, ""type"": 0, ""w"": 24.0}, {""id"": 652702, ""node1"": 36246, ""node2"": 132366, ""type"": 5, ""w"": 120.0}]",r_syn,120.0
+mettre,jus,obj,NOUN,0.5826805830001831,[],,
+jus,citron,nmod,NOUN,0.5810989141464233,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+huile,olive,nmod,NOUN,0.573360800743103,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+poulpe,cuire,amod,VERB,0.7174718379974365,"[{""id"": 421604306, ""node1"": 23154, ""node2"": 5115, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+morceau,petit,amod,ADJ,0.5585225224494934,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+laisser,incorporer,advcl,VERB,0.4356816411018371,[],,
+incorporer,morceau,obj,NOUN,0.5747342109680176,[],,
+morceau,vinaigrette,nmod,NOUN,0.6905094981193542,[],,
+mettre,heure,obj,NOUN,0.4610253274440765,[],,

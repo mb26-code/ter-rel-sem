@@ -1,0 +1,26 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+pomme,ingrédient,nmod,NOUN,0.6517195105552673,[],,
+pomme,moutarde,appos,NOUN,0.6259464621543884,[],,
+vinaigre,noix,nmod,NOUN,0.6304510235786438,[],,
+pomme,salade,nmod,NOUN,0.6459134221076965,"[{""id"": 799130291, ""node1"": 37201, ""node2"": 118908, ""type"": 0, ""w"": 22.0}, {""id"": 98727884, ""node1"": 37201, ""node2"": 118908, ""type"": 10, ""w"": 38.0}, {""id"": 1077787506, ""node1"": 37201, ""node2"": 118908, ""type"": 666, ""w"": 2.0}]",r_holo,38.0
+salade,huile,amod,NOUN,0.6778484582901001,"[{""id"": 385547, ""node1"": 118908, ""node2"": 141971, ""type"": 0, ""w"": 57.0}, {""id"": 97758237, ""node1"": 118908, ""node2"": 141971, ""type"": 9, ""w"": 27.0}]",r_associated,57.0
+pomme,four,appos,NOUN,0.7223811149597168,"[{""id"": 423545889, ""node1"": 37201, ""node2"": 9190, ""type"": 0, ""w"": 14.0}, {""id"": 4965752, ""node1"": 37201, ""node2"": 9190, ""type"": 777, ""w"": 2.0}]",r_associated,14.0
+four,couteau,nmod,NOUN,0.6828393340110779,[],,
+couteau,économe,nmod,NOUN,0.5018488168716431,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]",r_hypo,76.0
+économe,plat,nmod,ADJ,0.6074525117874146,[],,
+four,étape,nmod,NOUN,0.6555838584899902,[],,
+plat,grand,amod,ADJ,0.5802130699157715,[],,
+prévoir,plat,obj,NOUN,0.609717845916748,[],,
+plat,attache,acl:relcl,VERB,0.595943808555603,[],,
+tranche,fin,amod,ADJ,0.4211523532867431,[],,
+plat,tout,amod,ADJ,0.6215036511421204,[],,
+tranche,plat,nmod,NOUN,0.6107022166252136,"[{""id"": 2128651, ""node1"": 143123, ""node2"": 36327, ""type"": 15, ""w"": 5.0}]",r_lieu,5.0
+pomme,couper,acl,VERB,0.5794677734375,"[{""id"": 31839899, ""node1"": 37201, ""node2"": 128828, ""type"": 26, ""w"": 64.0}]",r_patient-1,64.0
+pomme,disposer,acl,VERB,0.5863984823226929,[],,
+passer,plat,obj,NOUN,0.6260930299758911,[],,
+grill,millimètre,nmod,NOUN,0.5373583436012268,[],,
+doré,fromage,nsubj,NOUN,0.603369951248169,[],,
+servir,entrée,obj,NOUN,0.4702525734901428,[],,
+entrée,délicieux,amod,ADJ,0.4963871538639068,"[{""id"": 96924454, ""node1"": 59893, ""node2"": 145464, ""type"": 17, ""w"": 22.0}]",r_carac,22.0
+salade,noix,nmod,NOUN,0.640461266040802,"[{""id"": 97758144, ""node1"": 118908, ""node2"": 30910, ""type"": 0, ""w"": 35.0}]",r_associated,35.0
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]",r_carac-1,5.0

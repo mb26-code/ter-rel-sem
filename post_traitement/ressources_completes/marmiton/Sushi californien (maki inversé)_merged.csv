@@ -1,0 +1,41 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+sushi,californien,amod,ADJ,0.4647215008735657,"[{""id"": 660288091, ""node1"": 39650, ""node2"": 51895, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+sushi,ingrédient,nmod,NOUN,0.5788580179214478,"[{""id"": 660162541, ""node1"": 39650, ""node2"": 123418, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+sushi,sel,nmod,NOUN,0.7073361277580261,"[{""id"": 660164368, ""node1"": 39650, ""node2"": 13260, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+sel,vinaigre,nmod,NOUN,0.683134913444519,"[{""id"": 796849792, ""node1"": 13260, ""node2"": 145443, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+vinaigre,riz,nmod,ADV,0.6922438144683838,"[{""id"": 1023005499, ""node1"": 145443, ""node2"": 24372, ""type"": 0, ""w"": 26.0}, {""id"": 3355970, ""node1"": 145443, ""node2"": 24372, ""type"": 777, ""w"": 10.0}]",r_associated,26.0
+sushi,sucre,amod,NOUN,0.6705865263938904,[],,
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,sésame,nmod,NOUN,0.622771143913269,[],,
+sésame,avocat,appos,NOUN,0.495816558599472,[],,
+avocat,concombre,nmod,NOUN,0.4385378956794739,[],,
+concombre,crabe,appos,NOUN,0.5468710064888,"[{""id"": 909236400, ""node1"": 31570, ""node2"": 132425, ""type"": 0, ""w"": 10.0}]",r_associated,10.0
+sésame,feuille,nmod,NOUN,0.5917820334434509,[],,
+casserole,couteau,nmod,NOUN,0.6493775248527527,[],,
+couteau,balance,nmod,NOUN,0.5317514538764954,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+rincer,riz,obj,NOUN,0.6711073517799377,"[{""id"": 1046446180, ""node1"": 117283, ""node2"": 24372, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+riz,eau,nmod,NOUN,0.6981638073921204,"[{""id"": 3196068, ""node1"": 24372, ""node2"": 65012, ""type"": 0, ""w"": 28.0}, {""id"": 1041930518, ""node1"": 24372, ""node2"": 65012, ""type"": 129, ""w"": 35.0}]",r_require,35.0
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+clair,eau,nsubj,NOUN,0.5482907891273499,"[{""id"": 120394, ""node1"": 4215, ""node2"": 65012, ""type"": 0, ""w"": 60.0}]",r_associated,60.0
+eau,écouler,acl:relcl,VERB,0.5188531279563904,"[{""id"": 796776587, ""node1"": 65012, ""node2"": 92165, ""type"": 0, ""w"": 30.0}, {""id"": 600063589, ""node1"": 65012, ""node2"": 92165, ""type"": 27, ""w"": 37.0}]",r_domain-1,37.0
+cuire,riz,obj,NOUN,0.7637909054756165,"[{""id"": 426022657, ""node1"": 5115, ""node2"": 24372, ""type"": 0, ""w"": 36.0}, {""id"": 31820394, ""node1"": 5115, ""node2"": 24372, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+ébullition,minute,nmod,NOUN,0.4616620540618896,[],,
+gonfler,minute,obj,NOUN,0.456887423992157,[],,
+feu,petit,amod,ADJ,0.5734477639198303,"[{""id"": 2278793, ""node1"": 143703, ""node2"": 55222, ""type"": 17, ""w"": 30.0}]",r_carac,30.0
+feu,couvert,amod,ADJ,0.5431262254714966,[],,
+bouillir,vinaigre,obj,NOUN,0.6965899467468262,[],,
+vinaigre,sucre,nmod,NOUN,0.6951253414154053,"[{""id"": 3355942, ""node1"": 145443, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+incorporer,assaisonnement,obj,NOUN,0.5907513499259949,[],,
+assaisonnement,riz,nmod,NOUN,0.6826871633529663,[],,
+fin,concombre,nmod,NOUN,0.4713765978813171,[],,
+chacun,feuille,nmod,NOUN,0.464212566614151,[],,
+saupoudrer,graine,obj,NOUN,0.591566801071167,[],,
+graine,sésame,nmod,NOUN,0.5720810890197754,"[{""id"": 797533486, ""node1"": 14469, ""node2"": 18404, ""type"": 0, ""w"": 29.0}, {""id"": 246270686, ""node1"": 14469, ""node2"": 18404, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+retourner,feuille,obj,NOUN,0.4721709191799164,"[{""id"": 543237470, ""node1"": 103323, ""node2"": 37993, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+retrouver,riz,nsubj,NOUN,0.6642898917198181,[],,
+extérieur,rouleau,nmod,NOUN,0.4146363735198974,[],,
+rouler,former,advcl,VERB,0.4134616255760193,[],,
+former,rouleau,obj,NOUN,0.4115220904350281,[],,
+rouleau,facile,amod,ADJ,0.4327265620231628,[],,
+couper,rouleau,obj,NOUN,0.4701743721961975,[],,

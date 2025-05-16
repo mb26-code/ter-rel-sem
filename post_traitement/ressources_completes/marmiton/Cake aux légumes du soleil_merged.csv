@@ -1,0 +1,51 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+Cake,légume,nmod,NOUN,0.492587685585022,[],,
+légume,soleil,nmod,NOUN,0.6424319744110107,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,sel,appos,NOUN,0.6997572183609009,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+sel,huile,amod,NOUN,0.6993125677108765,"[{""id"": 917898976, ""node1"": 13260, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+levure,farine,nmod,NOUN,0.6151298880577087,"[{""id"": 1788186, ""node1"": 53450, ""node2"": 127629, ""type"": 0, ""w"": 60.0}, {""id"": 1046576042, ""node1"": 53450, ""node2"": 127629, ""type"": 8, ""w"": 20.0}]",r_associated,60.0
+levure,oeuf,nmod,NOUN,0.5973623394966125,[],,
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+lait,vin,nmod,NOUN,0.6426251530647278,"[{""id"": 386065395, ""node1"": 86296, ""node2"": 35798, ""type"": 6, ""w"": -25.0}, {""id"": 97056184, ""node1"": 86296, ""node2"": 35798, ""type"": 78, ""w"": 28.0}]",r_cohypo,28.0
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+tomate,sécher,acl,VERB,0.6565603017807007,"[{""id"": 421761208, ""node1"": 22138, ""node2"": 56038, ""type"": 0, ""w"": 1.0}, {""id"": 758065756, ""node1"": 22138, ""node2"": 56038, ""type"": 24, ""w"": 30.0}]",r_agent-1,30.0
+tomate,poivron,appos,ADV,0.6357458233833313,"[{""id"": 1046576624, ""node1"": 22138, ""node2"": 38257, ""type"": 8, ""w"": 20.0}, {""id"": 1029365467, ""node1"": 22138, ""node2"": 38257, ""type"": 67, ""w"": 28.0}]",r_similar,28.0
+blanc,courgette,obj,NOUN,0.6110134124755859,[],,
+oeuf,herbe,nmod,NOUN,0.5455087423324585,[],,
+herbe,Provence,nmod,PROPN,0.4220801889896393,[],,
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+pâtisserie,cuillère,nmod,NOUN,0.624411404132843,"[{""id"": 922009701, ""node1"": 25966, ""node2"": 51905, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,petit,amod,ADJ,0.5946335196495056,[],,
+cuillère,plat,nmod,ADJ,0.6768530607223511,"[{""id"": 662507898, ""node1"": 51905, ""node2"": 36327, ""type"": 0, ""w"": 44.0}]",r_associated,44.0
+grille,mélanger,acl,VERB,0.5905152559280396,[],,
+mélanger,ingrédient,obj,NOUN,0.6362285614013672,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ingrédient,préparation,nmod,NOUN,0.6500309109687805,"[{""id"": 990177276, ""node1"": 123418, ""node2"": 33634, ""type"": 666, ""w"": 3.0}]",r_aki,3.0
+préparation,pâte,nmod,NOUN,0.6407255530357361,"[{""id"": 920490588, ""node1"": 33634, ""node2"": 34069, ""type"": 0, ""w"": 20.0}, {""id"": 246257612, ""node1"": 33634, ""node2"": 34069, ""type"": 8, ""w"": 43.0}]",r_hypo,43.0
+préparation,cake,nmod,NOUN,0.5542082786560059,[],,
+cake,diluer,acl,VERB,0.5787261128425598,[],,
+diluer,levure,obj,NOUN,0.5391191244125366,[],,
+aide,pâte,nmod,NOUN,0.6024914979934692,[],,
+revenir,courgette,obj,NOUN,0.6420042514801025,[],,
+courgette,couper,acl,VERB,0.5805845856666565,[],,
+revenir,éplucher,advcl,VERB,0.4805073738098144,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+ajouter,poivron,obj,NOUN,0.6378853917121887,[],,
+poivron,couper,acl,VERB,0.6246095895767212,"[{""id"": 1944126, ""node1"": 38257, ""node2"": 128828, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+fondre,mélange,nsubj,NOUN,0.5714007019996643,"[{""id"": 1305250, ""node1"": 16480, ""node2"": 14800, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+ajouter,fondre,advcl,VERB,0.4958822429180145,[],,
+ail,écraser,acl,VERB,0.5606361031532288,"[{""id"": 906193744, ""node1"": 26979, ""node2"": 52004, ""type"": 0, ""w"": 20.0}, {""id"": 98571281, ""node1"": 26979, ""node2"": 52004, ""type"": 26, ""w"": 40.0}]",r_patient-1,40.0
+cuillère,herbe,nmod,NOUN,0.5299220681190491,[],,
+fois,prêt,amod,ADJ,0.4199467301368713,[],,
+verser,contenu,obj,NOUN,0.4781818091869354,[],,
+contenu,poêle,nmod,NOUN,0.6419464349746704,[],,
+ajouter,tomate,obj,NOUN,0.6318210363388062,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 29.0}]",r_agent,29.0
+tomate,couper,acl,VERB,0.6290057301521301,"[{""id"": 920912564, ""node1"": 22138, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 628044041, ""node1"": 22138, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+verse,huile,obj,NOUN,0.5674708485603333,[],,
+verse,baigner,advcl,VERB,0.4169850647449493,[],,
+baigner,tomate,obj,NOUN,0.6179409027099609,[],,
+tomate,préparation,nmod,NOUN,0.6617814898490906,"[{""id"": 1038642282, ""node1"": 22138, ""node2"": 33634, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+avoir,plat,obj,NOUN,0.5876511335372925,[],,
+plat,sec,amod,ADJ,0.564572274684906,[],,
+cuire,c,nmod,NOUN,0.4126093685626983,[],,

@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+croûte,italien,nmod,NOUN,0.5616665482521057,[],,
+ingrédient,sel,appos,NOUN,0.6997572183609009,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+sel,poivre,nmod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+ingrédient,tomate,amod,NOUN,0.6937788128852844,"[{""id"": 24923444, ""node1"": 123418, ""node2"": 22138, ""type"": 0, ""w"": 15.0}, {""id"": 24850720, ""node1"": 123418, ""node2"": 22138, ""type"": 8, ""w"": 30.0}]",r_hypo,30.0
+tomate,sécher,acl,VERB,0.6565603017807007,"[{""id"": 421761208, ""node1"": 22138, ""node2"": 56038, ""type"": 0, ""w"": 1.0}, {""id"": 758065756, ""node1"": 22138, ""node2"": 56038, ""type"": 24, ""w"": 30.0}]",r_agent-1,30.0
+olive,Jambon,nmod,PROPN,0.5463675856590271,[],,
+olive,Parme,nmod,PROPN,0.4677134454250335,[],,
+Parme,huile,amod,NOUN,0.4901238083839416,[],,
+olive,four,nmod,NOUN,0.7309117317199707,[],,
+four,Plat,nmod,PROPN,0.6130218505859375,[],,
+Plat,gratin,nmod,NOUN,0.4779236614704132,[],,
+olive,étape,nmod,NOUN,0.5401817560195923,[],,
+plat,grand,amod,ADJ,0.5802130699157715,[],,
+plat,gratin,nmod,NOUN,0.6157448291778564,"[{""id"": 415003453, ""node1"": 36327, ""node2"": 12942, ""type"": 0, ""w"": 28.0}, {""id"": 246264043, ""node1"": 36327, ""node2"": 12942, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+plat,tranche,nmod,NOUN,0.6107022166252136,[],,
+tranche,pain,nmod,NOUN,0.6442368030548096,"[{""id"": 240074, ""node1"": 143123, ""node2"": 61283, ""type"": 0, ""w"": 221.0}, {""id"": 97833247, ""node1"": 143123, ""node2"": 61283, ""type"": 3, ""w"": 10.0}, {""id"": 9992595, ""node1"": 143123, ""node2"": 61283, ""type"": 10, ""w"": 4.0}, {""id"": 97327248, ""node1"": 143123, ""node2"": 61283, ""type"": 35, ""w"": 30.0}, {""id"": 775213283, ""node1"": 143123, ""node2"": 61283, ""type"": 174, ""w"": 25.0}]",r_associated,221.0
+plat,olive,nmod,NOUN,0.7014210224151611,"[{""id"": 11526100, ""node1"": 36327, ""node2"": 238, ""type"": 0, ""w"": 28.0}, {""id"": 3220796, ""node1"": 36327, ""node2"": 238, ""type"": 9, ""w"": 30.0}]",r_has_part,30.0
+filet,huile,nmod,NOUN,0.6150403022766113,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+tomate,couper,amod,VERB,0.6290057301521301,"[{""id"": 920912564, ""node1"": 22138, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 628044041, ""node1"": 22138, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+disposer,couche,obj,NOUN,0.4651126265525818,[],,
+couche,jambon,nmod,NOUN,0.5903676152229309,"[{""id"": 720818784, ""node1"": 19152, ""node2"": 57980, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+couche,mozzarella,nmod,NOUN,0.5181674957275391,[],,
+remettre,couche,obj,NOUN,0.4416791498661041,[],,
+couche,pain,nmod,NOUN,0.6690613627433777,[],,
+couche,olive,nmod,NOUN,0.5944185256958008,[],,
+reste,mozzarella,nmod,NOUN,0.5654963850975037,[],,
+four,minute,nmod,NOUN,0.6574273109436035,[],,
+couleur,mozzarella,nsubj,NOUN,0.5656895637512207,[],,
+couleur,doré,amod,ADJ,0.4999752938747406,"[{""id"": 797004655, ""node1"": 40056, ""node2"": 47964, ""type"": 0, ""w"": 22.0}, {""id"": 242864260, ""node1"": 40056, ""node2"": 47964, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+servez,chaud,amod,ADJ,0.5323237776756287,[],,
+salade,petit,amod,ADJ,0.669308066368103,[],,
+salade,vinaigre,nmod,NOUN,0.7109248638153076,"[{""id"": 385546, ""node1"": 118908, ""node2"": 145443, ""type"": 0, ""w"": 68.0}, {""id"": 97758245, ""node1"": 118908, ""node2"": 145443, ""type"": 9, ""w"": 27.0}]",r_associated,68.0
+vinaigre,balsamique,amod,ADJ,0.5980404615402222,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]",r_associated,166.0

@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+Bianca,pizza,flat:name,NOUN,0.4628619253635406,[],,
+poivre,pâte,amod,NOUN,0.7343641519546509,"[{""id"": 584573801, ""node1"": 139597, ""node2"": 34069, ""type"": 0, ""w"": 16.0}]",r_associated,16.0
+pizza,jus,nmod,NOUN,0.6628506779670715,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+four,économe,nmod,NOUN,0.6647013425827026,[],,
+économe,couteau,nmod,NOUN,0.5018488168716431,"[{""id"": 11472222, ""node1"": 14706, ""node2"": 32610, ""type"": 0, ""w"": 51.0}, {""id"": 9916571, ""node1"": 14706, ""node2"": 32610, ""type"": 6, ""w"": 55.0}, {""id"": 539969426, ""node1"": 14706, ""node2"": 32610, ""type"": 35, ""w"": -25.0}, {""id"": 1786595, ""node1"": 14706, ""node2"": 32610, ""type"": 666, ""w"": 5.0}]",r_isa,55.0
+couteau,couvercle,nmod,NOUN,0.5890913009643555,[],,
+économe,étape,nmod,NOUN,0.4015891551971435,[],,
+four,220,nmod,NUM,0.4830725789070129,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+temps,préparer,acl,VERB,0.464624285697937,[],,
+couper,mozzarella,obj,NOUN,0.5374503135681152,"[{""id"": 31821895, ""node1"": 128828, ""node2"": 120576, ""type"": 14, ""w"": 54.0}]",r_patient,54.0
+mozzarella,tranche,nmod,NOUN,0.5301165580749512,[],,
+tranche,fin,amod,ADJ,0.4211523532867431,[],,
+répartir,tranche,obj,NOUN,0.4340031743049621,[],,
+tranche,mozzarella,nmod,NOUN,0.5301165580749512,[],,
+filet,généreux,amod,ADJ,0.4898666441440582,[],,
+verser,filet,obj,NOUN,0.5606366395950317,[],,
+filet,huile,nmod,NOUN,0.6150403022766113,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+mettre,minute,obj,NOUN,0.4575984179973602,[],,
+devoir,pizza,nsubj,NOUN,0.5822015404701233,[],,
+sortie,four,nmod,NOUN,0.6299260258674622,[],,
+rester,parmesan,obj,NOUN,0.563843309879303,[],,
+filet,léger,amod,ADJ,0.5107735991477966,[],,
+rajouter,filet,obj,NOUN,0.5514463186264038,[],,
+couvrir,tranche,obj,NOUN,0.4806278347969055,[],,
+régaler,repas,obj,NOUN,0.5493101477622986,"[{""id"": 1453803, ""node1"": 45906, ""node2"": 74736, ""type"": 0, ""w"": 37.0}]",r_associated,37.0
+repas,équilibré,amod,ADJ,0.5169566869735718,[],,

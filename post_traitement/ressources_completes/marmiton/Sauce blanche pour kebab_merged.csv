@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+sauce,blanc,amod,ADJ,0.6904076337814331,"[{""id"": 651261981, ""node1"": 141110, ""node2"": 15196, ""type"": 0, ""w"": 22.0}, {""id"": 3161939, ""node1"": 141110, ""node2"": 15196, ""type"": 106, ""w"": 4.0}]",r_associated,22.0
+sauce,ingrédient,nmod,NOUN,0.7589731812477112,"[{""id"": 96714954, ""node1"": 141110, ""node2"": 123418, ""type"": 0, ""w"": 22.0}, {""id"": 24929460, ""node1"": 141110, ""node2"": 123418, ""type"": 6, ""w"": 3.0}, {""id"": 96715010, ""node1"": 141110, ""node2"": 123418, ""type"": 9, ""w"": 31.0}]",r_has_part,31.0
+sauce,sel,nmod,NOUN,0.774036169052124,"[{""id"": 468471, ""node1"": 141110, ""node2"": 13260, ""type"": 0, ""w"": 36.0}, {""id"": 96714998, ""node1"": 141110, ""node2"": 13260, ""type"": 9, ""w"": 32.0}, {""id"": 96715051, ""node1"": 141110, ""node2"": 13260, ""type"": 50, ""w"": 16.0}]",r_associated,36.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,persil,nmod,NOUN,0.6417090892791748,[],,
+sauce,yaourt,nmod,NOUN,0.7086942195892334,"[{""id"": 651263302, ""node1"": 141110, ""node2"": 82320, ""type"": 0, ""w"": 24.0}, {""id"": 376056319, ""node1"": 141110, ""node2"": 82320, ""type"": 50, ""w"": 27.0}, {""id"": 93646431, ""node1"": 141110, ""node2"": 82320, ""type"": 777, ""w"": 10.0}]",r_object>mater,27.0
+yaourt,mayonnaise,nmod,ADJ,0.5994670391082764,[],,
+mayonnaise,citron,appos,NOUN,0.6542017459869385,"[{""id"": 3978239, ""node1"": 111055, ""node2"": 15386, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+échalote,herbe,nmod,NOUN,0.5305232405662537,"[{""id"": 919852502, ""node1"": 41642, ""node2"": 138874, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+échalote,Provence,nmod,PROPN,0.5105046033859253,[],,
+échalote,lait,nmod,NOUN,0.6456893682479858,[],,
+échalote,cuillère,nmod,NOUN,0.6018345355987549,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+sauce,mélanger,acl,VERB,0.7105662822723389,"[{""id"": 343034832, ""node1"": 141110, ""node2"": 37151, ""type"": 26, ""w"": 31.0}]",r_patient-1,31.0
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+diluer,lait,obj,NOUN,0.5726534128189087,[],,
+lait,manière,nmod,NOUN,0.601249098777771,[],,
+lait,obtenir,acl,VERB,0.5676707029342651,[],,
+consistance,désirer,acl,ADJ,0.4109030365943908,[],,
+tout,rectifier,advcl,VERB,0.455308735370636,[],,
+rectifier,assaisonnement,obj,NOUN,0.5303710103034973,"[{""id"": 15080476, ""node1"": 36001, ""node2"": 15763, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+voilà,recette,obj,NOUN,0.5470837354660034,[],,
+recette,authentique,amod,ADJ,0.6216714382171631,"[{""id"": 459375734, ""node1"": 120188, ""node2"": 123691, ""type"": 17, ""w"": 51.0}]",r_carac,51.0

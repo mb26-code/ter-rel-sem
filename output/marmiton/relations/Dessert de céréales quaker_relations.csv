@@ -1,0 +1,23 @@
+node1,node2,relations
+titre,dessert,[]
+titre,ingrédient,[]
+concentrer,eau,"[{""id"": 109756210, ""node1"": 108556, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]"
+eau,lait,"[{""id"": 561286960, ""node1"": 65012, ""node2"": 86296, ""type"": 0, ""w"": 56.0}, {""id"": 385497928, ""node1"": 65012, ""node2"": 86296, ""type"": 8, ""w"": -25.0}, {""id"": 9977474, ""node1"": 65012, ""node2"": 86296, ""type"": 10, ""w"": 4.0}, {""id"": 376055737, ""node1"": 65012, ""node2"": 86296, ""type"": 51, ""w"": 40.0}]"
+casserole,bol,[]
+bol,saladier,"[{""id"": 796872211, ""node1"": 145405, ""node2"": 45455, ""type"": 0, ""w"": 28.0}, {""id"": 1029292999, ""node1"": 145405, ""node2"": 45455, ""type"": 67, ""w"": 34.0}]"
+saladier,étape,[]
+faire,chauffer,[]
+feu,doux,[]
+feu,eau,"[{""id"": 79879, ""node1"": 143703, ""node2"": 65012, ""type"": 0, ""w"": 130.0}, {""id"": 1046576246, ""node1"": 143703, ""node2"": 65012, ""type"": 8, ""w"": 20.0}, {""id"": 375689333, ""node1"": 143703, ""node2"": 65012, ""type"": 56, ""w"": 34.0}]"
+cela,retirer,[]
+retirer,casserole,[]
+casserole,feu,"[{""id"": 252156, ""node1"": 57253, ""node2"": 143703, ""type"": 0, ""w"": 57.0}, {""id"": 96920401, ""node1"": 57253, ""node2"": 143703, ""type"": 15, ""w"": 30.0}, {""id"": 1762446, ""node1"": 57253, ""node2"": 143703, ""type"": 666, ""w"": 2.0}]"
+verser,mélanger,"[{""id"": 72653249, ""node1"": 104506, ""node2"": 37151, ""type"": 0, ""w"": 35.0}]"
+mélanger,lait,"[{""id"": 373014663, ""node1"": 37151, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]"
+lait,concentrer,[]
+obtention,purée,[]
+purée,liquide,"[{""id"": 560843527, ""node1"": 16444, ""node2"": 140315, ""type"": 0, ""w"": 35.0}]"
+purée,suivre,[]
+suivre,goût,[]
+verser,mélange,[]
+mélange,chaud,[]

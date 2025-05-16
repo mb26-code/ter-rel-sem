@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+amande,ingrédient,nmod,NOUN,0.5978695750236511,"[{""id"": 559137438, ""node1"": 28557, ""node2"": 123418, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+barre,sucre,acl,NOUN,0.6096011996269226,"[{""id"": 273954952, ""node1"": 142381, ""node2"": 139481, ""type"": 0, ""w"": 34.0}, {""id"": 273955008, ""node1"": 142381, ""node2"": 139481, ""type"": 50, ""w"": 21.0}]",r_associated,34.0
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+lait,saladier,nmod,NOUN,0.6384831666946411,[],,
+saladier,mixeur,nmod,NOUN,0.581632137298584,[],,
+mixeur,cuillère,nmod,NOUN,0.5916650295257568,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,four,nmod,NOUN,0.7153509855270386,[],,
+titre,table,nmod,NOUN,0.485977828502655,[],,
+table,induction,amod,NOUN,0.5181390047073364,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+ingrédient,sec,amod,ADJ,0.5127678513526917,[],,
+ingrédient,cuillère,nmod,NOUN,0.6755087375640869,[],,
+ajouter,lait,obj,NOUN,0.5957752466201782,"[{""id"": 373014760, ""node1"": 25099, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+garnir,disposer,advcl,VERB,0.4681437015533447,"[{""id"": 213486492, ""node1"": 106541, ""node2"": 116780, ""type"": 57, ""w"": 30.0}]",r_implication,30.0
+appareil,barre,nmod,NOUN,0.4127500355243683,[],,
+garnir,plaque,obj,NOUN,0.5757046937942505,[],,
+utiliser,plaque,obj,NOUN,0.5256801247596741,[],,
+plaque,mini,nmod,NOUN,0.4702397882938385,[],,
+mini,moule,amod,NOUN,0.4780493378639221,[],,
+moule,rectangulaire,amod,ADJ,0.5129973888397217,"[{""id"": 31819059, ""node1"": 143723, ""node2"": 3278, ""type"": 17, ""w"": 57.0}]",r_carac,57.0
+four,180,nmod,NUM,0.4979606568813324,[],,
+cuire,degré,obj,NOUN,0.6603871583938599,[],,
+temps,même,amod,ADJ,0.4074134230613708,[],,
+utiliser,temps,obj,NOUN,0.4385257065296173,[],,
+temps,surveiller,acl,VERB,0.412245512008667,[],,
+surveiller,cuisson,obj,NOUN,0.6946427226066589,"[{""id"": 1007853514, ""node1"": 39170, ""node2"": 60056, ""type"": 14, ""w"": 31.0}]",r_patient,31.0

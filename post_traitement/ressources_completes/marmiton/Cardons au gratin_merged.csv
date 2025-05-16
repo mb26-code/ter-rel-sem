@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+vin,farine,amod,NOUN,0.7017611861228943,[],,
+farine,beurre,appos,NOUN,0.7180377840995789,"[{""id"": 423997331, ""node1"": 127629, ""node2"": 140377, ""type"": 0, ""w"": 3.0}]",r_associated,3.0
+citron,poivre,nmod,NOUN,0.6539869904518127,[],,
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,farine,nmod,NOUN,0.7164311408996582,[],,
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+titre,Plat,nmod,PROPN,0.4341082274913788,[],,
+Plat,gratin,nmod,NOUN,0.4779236614704132,[],,
+titre,marmite,nmod,NOUN,0.5938978791236877,[],,
+marmite,casserole,acl,NOUN,0.6540853977203369,"[{""id"": 452078, ""node1"": 146096, ""node2"": 57253, ""type"": 0, ""w"": 58.0}, {""id"": 65614, ""node1"": 146096, ""node2"": 57253, ""type"": 5, ""w"": 118.0}, {""id"": 795485835, ""node1"": 146096, ""node2"": 57253, ""type"": 21, ""w"": 31.0}]",r_syn,118.0
+casserole,four,nmod,NOUN,0.7147663235664368,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+couper,tronçon,nmod,NOUN,0.4616493284702301,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+marmite,eau,nmod,NOUN,0.6216312050819397,[],,
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+fondre,gramme,obj,NOUN,0.5041888356208801,[],,
+gramme,beurre,nmod,NOUN,0.6074452996253967,[],,
+casserole,feu,nmod,NOUN,0.5973718166351318,"[{""id"": 252156, ""node1"": 57253, ""node2"": 143703, ""type"": 0, ""w"": 57.0}, {""id"": 96920401, ""node1"": 57253, ""node2"": 143703, ""type"": 15, ""w"": 30.0}, {""id"": 1762446, ""node1"": 57253, ""node2"": 143703, ""type"": 666, ""w"": 2.0}]",r_associated,57.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+cuire,le,obj,DET,0.4500194191932678,[],,
+faire,remuer,advcl,VERB,0.5333959460258484,[],,
+jus,viande,nmod,NOUN,0.6670438051223755,"[{""id"": 417886801, ""node1"": 53310, ""node2"": 140100, ""type"": 0, ""w"": 23.0}, {""id"": 1771773, ""node1"": 53310, ""node2"": 140100, ""type"": 666, ""w"": 1.0}]",r_associated,23.0
+tablette,bouillon,nmod,NOUN,0.6263255476951599,[],,
+bouillon,diluer,acl,VERB,0.55594402551651,[],,
+eau,chaud,amod,ADJ,0.6026924252510071,"[{""id"": 915041142, ""node1"": 65012, ""node2"": 19150, ""type"": 0, ""w"": 20.0}, {""id"": 432164, ""node1"": 65012, ""node2"": 19150, ""type"": 17, ""w"": 131.0}]",r_carac,131.0
+poivrer,saler,nsubj,VERB,0.5285379886627197,"[{""id"": 431058, ""node1"": 70211, ""node2"": 15671, ""type"": 0, ""w"": 60.0}, {""id"": 607996659, ""node1"": 70211, ""node2"": 15671, ""type"": 5, ""w"": -5.0}]",r_associated,60.0
+plat,gratin,nmod,NOUN,0.6157448291778564,"[{""id"": 415003453, ""node1"": 36327, ""node2"": 12942, ""type"": 0, ""w"": 28.0}, {""id"": 246264043, ""node1"": 36327, ""node2"": 12942, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+fondre,reste,obj,NOUN,0.5144926905632019,[],,
+reste,beurre,nmod,NOUN,0.6629992127418518,[],,
+reste,gramme,nmod,NOUN,0.4796346426010132,[],,
+garniture,viande,nmod,NOUN,0.7525854110717773,"[{""id"": 115433869, ""node1"": 57803, ""node2"": 140100, ""type"": 9, ""w"": 36.0}]",r_has_part,36.0

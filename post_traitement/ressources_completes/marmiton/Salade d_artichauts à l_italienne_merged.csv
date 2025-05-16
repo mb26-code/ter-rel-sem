@@ -1,0 +1,44 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+salade,italien,nmod,NOUN,0.6133863925933838,"[{""id"": 700300746, ""node1"": 118908, ""node2"": 103658, ""type"": 0, ""w"": 21.0}, {""id"": 5292562, ""node1"": 118908, ""node2"": 103658, ""type"": 777, ""w"": 7.0}]",r_associated,21.0
+italien,ingrédient,nmod,NOUN,0.511681854724884,[],,
+salade,tomate,nmod,NOUN,0.6603864431381226,"[{""id"": 129517, ""node1"": 118908, ""node2"": 22138, ""type"": 0, ""w"": 186.0}, {""id"": 97758137, ""node1"": 118908, ""node2"": 22138, ""type"": 9, ""w"": 31.0}, {""id"": 11333951, ""node1"": 118908, ""node2"": 22138, ""type"": 28, ""w"": 38.0}, {""id"": 765200127, ""node1"": 118908, ""node2"": 22138, ""type"": 50, ""w"": 27.0}, {""id"": 675297494, ""node1"": 118908, ""node2"": 22138, ""type"": 666, ""w"": 9.0}]",r_associated,186.0
+tomate,vinaigre,acl,NOUN,0.6816853880882263,"[{""id"": 421761052, ""node1"": 22138, ""node2"": 145443, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+vinaigre,balsamique,amod,ADJ,0.5980404615402222,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]",r_associated,166.0
+vinaigre,huile,amod,NOUN,0.6314905285835266,"[{""id"": 2139914, ""node1"": 145443, ""node2"": 141971, ""type"": 0, ""w"": 86.0}, {""id"": 1046576307, ""node1"": 145443, ""node2"": 141971, ""type"": 8, ""w"": 20.0}]",r_associated,86.0
+salade,fonds,nmod,NOUN,0.5996518731117249,[],,
+avocat,parmesan,nmod,NOUN,0.5341570377349854,[],,
+salade,fouet,nmod,NOUN,0.6519513130187988,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+cuisine,saladier,nmod,NOUN,0.6925616264343262,"[{""id"": 47300451, ""node1"": 16033, ""node2"": 45455, ""type"": 0, ""w"": 30.0}, {""id"": 47300450, ""node1"": 16033, ""node2"": 45455, ""type"": 27, ""w"": 21.0}]",r_associated,30.0
+saladier,couteau,nmod,NOUN,0.6030980348587036,[],,
+fouet,planche,nmod,NOUN,0.5316084623336792,[],,
+fouet,découper,acl,VERB,0.5331273674964905,[],,
+découper,étape,obj,NOUN,0.4244579374790191,[],,
+fouet,vinaigrette,nmod,NOUN,0.5821497440338135,[],,
+fouet,verser,acl,VERB,0.51644366979599,[],,
+verser,vinaigre,obj,NOUN,0.6104941368103027,"[{""id"": 15085300, ""node1"": 104506, ""node2"": 145443, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+vinaigre,saladier,nmod,NOUN,0.6685875654220581,"[{""id"": 47035386, ""node1"": 145443, ""node2"": 45455, ""type"": 15, ""w"": 121.0}]",r_lieu,121.0
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+petit,fouetter,acl,VERB,0.5163281559944153,[],,
+ajouter,ail,obj,NOUN,0.5651978254318237,[],,
+persil,haché,acl,ADJ,0.5771787762641907,"[{""id"": 8222864, ""node1"": 135982, ""node2"": 47887, ""type"": 666, ""w"": 1.0}]",r_aki,1.0
+cuire,fonds,obj,NOUN,0.6737949252128601,[],,
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+cuire,fois,nsubj,NOUN,0.6635112762451172,"[{""id"": 72773965, ""node1"": 5115, ""node2"": 38021, ""type"": 34, ""w"": -25.0}]",r_manner,-25.0
+cuire,rafraîchir,advcl,VERB,0.6996035575866699,[],,
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+verser,découper,advcl,VERB,0.5007539987564087,[],,
+découper,tomate,obj,NOUN,0.6376076936721802,[],,
+tomate,quartier,nmod,NOUN,0.6002767086029053,[],,
+découper,avocat,obj,NOUN,0.4520586729049682,[],,
+tranche,fin,amod,ADJ,0.4211523532867431,[],,
+couper,tranche,obj,NOUN,0.4768869876861572,"[{""id"": 425448, ""node1"": 128828, ""node2"": 143123, ""type"": 0, ""w"": 51.0}, {""id"": 8900685, ""node1"": 128828, ""node2"": 143123, ""type"": 14, ""w"": -2.0}, {""id"": 539957273, ""node1"": 128828, ""node2"": 143123, ""type"": 31, ""w"": -25.0}]",r_associated,51.0
+tranche,mozzarella,nmod,PRON,0.5301165580749512,[],,
+mozzarella,deux,nmod,PRON,0.4033833146095276,[],,
+couper,ajouter,advcl,VERB,0.4516488313674927,"[{""id"": 59643034, ""node1"": 128828, ""node2"": 25099, ""type"": 0, ""w"": 21.0}, {""id"": 55053059, ""node1"": 128828, ""node2"": 25099, ""type"": 5, ""w"": 43.0}, {""id"": 85334445, ""node1"": 128828, ""node2"": 25099, ""type"": 7, ""w"": 31.0}]",r_syn,43.0
+ajouter,saladier,obj,NOUN,0.5682680010795593,[],,
+découper,fonds,obj,NOUN,0.4417346119880676,[],,
+dépendre,tout,iobj,DET,0.4462645351886749,[],,
+ajouter,dépendre,advcl,VERB,0.4158220291137695,[],,
+tout,parmesan,nmod,ADJ,0.6220410466194153,[],,
+pain,frais,amod,ADJ,0.6157110333442688,"[{""id"": 373839, ""node1"": 61283, ""node2"": 53495, ""type"": 17, ""w"": 61.0}]",r_carac,61.0

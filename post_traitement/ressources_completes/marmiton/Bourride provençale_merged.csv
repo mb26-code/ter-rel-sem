@@ -1,0 +1,22 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+safran,carotte,acl,NOUN,0.6279364228248596,[],,
+safran,poireau,appos,NOUN,0.6182112693786621,[],,
+safran,fenouil,acl,VERB,0.6118587851524353,"[{""id"": 765583851, ""node1"": 84746, ""node2"": 78032, ""type"": 0, ""w"": 48.0}]",r_associated,48.0
+fenouil,citron,appos,NOUN,0.6344478726387024,[],,
+citron,huile,amod,NOUN,0.6506204605102539,[],,
+safran,sel,nmod,NOUN,0.6849467754364014,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 307.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 267.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,307.0
+titre,faire,nmod,AUX,0.4374700486660003,[],,
+poisson,morceau,nmod,NOUN,0.6575455069541931,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+titre,préparer,acl,VERB,0.4304305016994476,[],,
+préparer,bouillon,obj,NOUN,0.6509688496589661,[],,
+préparer,cuire,advcl,VERB,0.705791711807251,"[{""id"": 53730145, ""node1"": 36246, ""node2"": 5115, ""type"": 0, ""w"": 24.0}, {""id"": 53623646, ""node1"": 36246, ""node2"": 5115, ""type"": 5, ""w"": 101.0}]",r_syn,101.0
+cuire,poisson,obj,NOUN,0.7939526438713074,"[{""id"": 418468178, ""node1"": 5115, ""node2"": 68467, ""type"": 0, ""w"": 48.0}, {""id"": 418468177, ""node1"": 5115, ""node2"": 68467, ""type"": 13, ""w"": 100.0}, {""id"": 15077747, ""node1"": 5115, ""node2"": 68467, ""type"": 14, ""w"": 100.0}]",r_agent,100.0
+ôter,mettre,advcl,VERB,0.4260450899600982,"[{""id"": 432804336, ""node1"": 17169, ""node2"": 132366, ""type"": 7, ""w"": 38.0}]",r_anto,38.0
+mettre,pomme,obj,NOUN,0.6015596985816956,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+devoir,moitié,nsubj,NOUN,0.4257063567638397,[],,
+incorporer,fouetter,advcl,VERB,0.4272262156009674,[],,
+consommer,bouillon,obj,NOUN,0.6701585650444031,"[{""id"": 94100723, ""node1"": 97571, ""node2"": 146582, ""type"": 14, ""w"": 34.0}]",r_patient,34.0
+manger,poisson,obj,NOUN,0.6753537654876709,"[{""id"": 374875482, ""node1"": 130164, ""node2"": 68467, ""type"": 0, ""w"": 37.0}, {""id"": 15020613, ""node1"": 130164, ""node2"": 68467, ""type"": 13, ""w"": 100.0}, {""id"": 116652, ""node1"": 130164, ""node2"": 68467, ""type"": 14, ""w"": 100.0}]",r_agent,100.0

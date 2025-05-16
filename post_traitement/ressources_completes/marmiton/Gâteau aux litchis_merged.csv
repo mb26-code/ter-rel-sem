@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,gâteau,nmod,NOUN,0.5333040952682495,[],,
+gâteau,levure,nmod,NOUN,0.6559968590736389,"[{""id"": 1887020, ""node1"": 2149, ""node2"": 53450, ""type"": 0, ""w"": 29.0}, {""id"": 267603, ""node1"": 2149, ""node2"": 53450, ""type"": 28, ""w"": 99.0}]",r_lieu-1,99.0
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+levure,sucre,acl,NOUN,0.6511401534080505,[],,
+sucre,beurre,amod,NOUN,0.6973879933357239,[],,
+sirop,oeuf,nmod,NOUN,0.629533052444458,[],,
+oeuf,arôme,nmod,NOUN,0.5896756052970886,[],,
+four,moule,nmod,NOUN,0.6459261178970337,"[{""id"": 914324367, ""node1"": 9190, ""node2"": 143723, ""type"": 0, ""w"": 20.0}, {""id"": 149292258, ""node1"": 9190, ""node2"": 143723, ""type"": 28, ""w"": 71.0}]",r_lieu-1,71.0
+bol,balance,nmod,NOUN,0.5318400859832764,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+four,180,nmod,NUM,0.4979606568813324,[],,
+réserver,cuillère,obj,NOUN,0.5662010312080383,[],,
+cuillère,sirop,nmod,NOUN,0.6505455374717712,"[{""id"": 662515540, ""node1"": 51905, ""node2"": 91109, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+mixer,obtenir,advcl,VERB,0.4837474822998047,[],,
+obtenir,purée,obj,NOUN,0.6158004403114319,[],,
+bol,grand,amod,ADJ,0.516040563583374,[],,
+mélanger,beurre,obj,NOUN,0.6754149198532104,[],,
+beurre,mou,amod,ADJ,0.4953928291797638,"[{""id"": 211604, ""node1"": 140377, ""node2"": 26607, ""type"": 17, ""w"": 82.0}]",r_carac,82.0
+mousseux,mélange,nsubj,NOUN,0.5410990118980408,[],,
+ajouter,oeuf,obj,NOUN,0.5327831506729126,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ajouter,peu,obj,ADV,0.4455879032611847,[],,
+parer,mélange,nsubj,NOUN,0.4912560582160949,[],,
+obtention,pâte,nmod,NOUN,0.613581120967865,[],,
+pâte,lisse,amod,ADJ,0.6106547713279724,"[{""id"": 532329951, ""node1"": 34069, ""node2"": 140074, ""type"": 17, ""w"": 32.0}]",r_carac,32.0
+ajouter,farine,obj,NOUN,0.6640971302986145,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+moule,cake,nmod,NOUN,0.5423397421836853,"[{""id"": 272916, ""node1"": 143723, ""node2"": 28945, ""type"": 0, ""w"": 60.0}, {""id"": 583219247, ""node1"": 143723, ""node2"": 28945, ""type"": 28, ""w"": 27.0}]",r_associated,60.0
+verser,préparation,obj,NOUN,0.5208573341369629,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparation,dedans,amod,ADV,0.5577629804611206,[],,
+minute,cuisson,nmod,NOUN,0.6456773281097412,[],,
+lame,planter,acl,VERB,0.455636978149414,"[{""id"": 2125339, ""node1"": 139377, ""node2"": 4993, ""type"": 25, ""w"": 57.0}]",r_instr-1,57.0
+ressortir,dedans,iobj,ADV,0.4531320035457611,[],,
+servir,tiède,obj,ADJ,0.5895378589630127,"[{""id"": 373014727, ""node1"": 7888, ""node2"": 13843, ""type"": 34, ""w"": 26.0}]",r_manner,26.0

@@ -1,0 +1,38 @@
+node1,node2,relations
+bacon,ingrédient,"[{""id"": 25274960, ""node1"": 25901, ""node2"": 123418, ""type"": 0, ""w"": 151.0}, {""id"": 25271022, ""node1"": 25901, ""node2"": 123418, ""type"": 6, ""w"": 137.0}]"
+bacon,pain,"[{""id"": 60418563, ""node1"": 25901, ""node2"": 61283, ""type"": 0, ""w"": 156.0}]"
+salade,fromage,"[{""id"": 539974496, ""node1"": 118908, ""node2"": 141687, ""type"": 9, ""w"": 28.0}, {""id"": 97758236, ""node1"": 118908, ""node2"": 141687, ""type"": 52, ""w"": 15.0}, {""id"": 113546267, ""node1"": 118908, ""node2"": 141687, ""type"": 777, ""w"": 9.0}]"
+fromage,bacon,[]
+set,poêle,[]
+cuire,pain,"[{""id"": 364971191, ""node1"": 5115, ""node2"": 61283, ""type"": 0, ""w"": 27.0}, {""id"": 413365254, ""node1"": 5115, ""node2"": 61283, ""type"": 13, ""w"": 100.0}, {""id"": 15086186, ""node1"": 5115, ""node2"": 61283, ""type"": 14, ""w"": 100.0}, {""id"": 376195180, ""node1"": 5115, ""node2"": 61283, ""type"": 16, ""w"": 32.0}]"
+faite,couper,[]
+couper,feuille,"[{""id"": 8905022, ""node1"": 128828, ""node2"": 37993, ""type"": 14, ""w"": 6.0}]"
+feuille,salade,"[{""id"": 614208544, ""node1"": 37993, ""node2"": 118908, ""type"": 0, ""w"": 30.0}, {""id"": 775213406, ""node1"": 37993, ""node2"": 118908, ""type"": 174, ""w"": 25.0}]"
+mettre,tranche,[]
+tranche,fromage,"[{""id"": 720818623, ""node1"": 143123, ""node2"": 141687, ""type"": 174, ""w"": 25.0}]"
+tranche,dessus,[]
+dessus,salade,[]
+cuire,steak,"[{""id"": 796846082, ""node1"": 5115, ""node2"": 55572, ""type"": 0, ""w"": 28.0}, {""id"": 15025387, ""node1"": 5115, ""node2"": 55572, ""type"": 13, ""w"": 40.0}, {""id"": 15082745, ""node1"": 5115, ""node2"": 55572, ""type"": 14, ""w"": 35.0}]"
+poêle,écraser,[]
+aide,spatule,[]
+devoir,steak,[]
+cuire,devoir,[]
+fin,cuisson,[]
+disposer,tranche,[]
+tranche,steak,"[{""id"": 608778741, ""node1"": 143123, ""node2"": 55572, ""type"": 0, ""w"": 39.0}]"
+steak,laisser,[]
+fondre,fromage,"[{""id"": 102294612, ""node1"": 16480, ""node2"": 141687, ""type"": 0, ""w"": 62.0}, {""id"": 98285435, ""node1"": 16480, ""node2"": 141687, ""type"": 13, ""w"": 31.0}]"
+mettre,fondre,[]
+mettre,steak,"[{""id"": 546227639, ""node1"": 132366, ""node2"": 55572, ""type"": 0, ""w"": 30.0}, {""id"": 546227638, ""node1"": 132366, ""node2"": 55572, ""type"": 31, ""w"": 28.0}]"
+tranche,disposé,[]
+salade,couper,[]
+ajouter,tomate,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 29.0}]"
+cuire,tranche,[]
+tranche,bacon,"[{""id"": 915336570, ""node1"": 143123, ""node2"": 25901, ""type"": 0, ""w"": 20.0}]"
+moitié,autre,"[{""id"": 765505277, ""node1"": 89030, ""node2"": 7574, ""type"": 17, ""w"": 28.0}]"
+burger,moitié,[]
+moitié,pain,[]
+revenir,oignon,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]"
+fermer,burger,[]
+mettre,burger,[]
+appétit,bon,[]

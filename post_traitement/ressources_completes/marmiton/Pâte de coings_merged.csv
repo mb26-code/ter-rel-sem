@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+pâte,ingrédient,nmod,NOUN,0.6811284422874451,"[{""id"": 24920568, ""node1"": 34069, ""node2"": 123418, ""type"": 6, ""w"": 17.0}]",r_isa,17.0
+pâte,sucre,nmod,NOUN,0.7055894136428833,"[{""id"": 96931421, ""node1"": 34069, ""node2"": 139481, ""type"": 50, ""w"": 30.0}]",r_object>mater,30.0
+sucre,sucre,nmod,NOUN,0.6199788451194763,"[{""id"": 335264, ""node1"": 139481, ""node2"": 139481, ""type"": 19, ""w"": 142.0}, {""id"": 93901596, ""node1"": 139481, ""node2"": 139481, ""type"": 50, ""w"": -27.0}, {""id"": 376041081, ""node1"": 139481, ""node2"": 139481, ""type"": 51, ""w"": 28.0}]",r_lemma,142.0
+sucre,vanillé,amod,ADJ,0.6220211982727051,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]",r_associated,13.0
+couvercle,couteau,nmod,NOUN,0.5890913009643555,[],,
+couvercle,mixeur,nmod,NOUN,0.585760772228241,[],,
+mixeur,cuillère,nmod,NOUN,0.5916650295257568,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+papier,meilleur,amod,ADJ,0.4798659384250641,[],,
+top,papier,nmod,NOUN,0.4000419974327087,[],,
+mixer,balance,obj,NOUN,0.5337383151054382,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+eau,couvrir,acl,VERB,0.5730895400047302,[],,
+mettre,purée,obj,NOUN,0.6634784936904907,[],,
+sucre,récipient,nmod,NOUN,0.7136839628219604,[],,
+ajouter,tout,nsubj,NOUN,0.4717709124088287,[],,
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+cuire,laisser,advcl,VERB,0.663643479347229,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+tournant,tout,obj,NOUN,0.4697455167770386,[],,
+tournant,éviter,acl,VERB,0.4032883644104004,[],,
+attrape,pâte,nsubj,NOUN,0.6314905285835266,[],,
+verser,tout,obj,NOUN,0.5228472352027893,[],,
+moule,choix,nmod,NOUN,0.4847220480442047,[],,
+forme,autre,amod,ADJ,0.4436557292938232,"[{""id"": 476838709, ""node1"": 142000, ""node2"": 7574, ""type"": 17, ""w"": 51.0}]",r_carac,51.0
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+sécher,pâte,obj,NOUN,0.6549056768417358,[],,

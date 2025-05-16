@@ -1,0 +1,24 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+poivre,ingrédient,nmod,NOUN,0.7064663171768188,"[{""id"": 24850732, ""node1"": 139597, ""node2"": 123418, ""type"": 0, ""w"": 27.0}, {""id"": 24842132, ""node1"": 139597, ""node2"": 123418, ""type"": 6, ""w"": 49.0}]",r_isa,49.0
+poivre,sel,appos,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,crème,amod,NOUN,0.7389078736305237,[],,
+crème,cognac,amod,ADJ,0.6165035367012024,[],,
+cognac,moutarde,amod,ADJ,0.5762614011764526,[],,
+cognac,poivre,obj,NOUN,0.6328660845756531,[],,
+pinceau,saladier,nmod,NOUN,0.5370374321937561,[],,
+saladier,plat,nmod,ADJ,0.6500786542892456,"[{""id"": 2181154, ""node1"": 45455, ""node2"": 36327, ""type"": 0, ""w"": 62.0}, {""id"": 1668935, ""node1"": 45455, ""node2"": 36327, ""type"": 666, ""w"": 3.0}]",r_associated,62.0
+feu,vif,amod,ADJ,0.5094798803329468,"[{""id"": 418102926, ""node1"": 143703, ""node2"": 80204, ""type"": 0, ""w"": 13.0}, {""id"": 221184, ""node1"": 143703, ""node2"": 80204, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+laver,poêle,obj,NOUN,0.6563981771469116,[],,
+cuire,viande,nsubj,NOUN,0.8064185976982117,"[{""id"": 2182411, ""node1"": 5115, ""node2"": 140100, ""type"": 0, ""w"": 73.0}, {""id"": 148035, ""node1"": 5115, ""node2"": 140100, ""type"": 13, ""w"": 100.0}, {""id"": 206249, ""node1"": 5115, ""node2"": 140100, ""type"": 14, ""w"": 100.0}, {""id"": 722712577, ""node1"": 5115, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]",r_agent,100.0
+terre,Cognac,nmod,PROPN,0.4656291306018829,[],,
+ajouter,qui,nsubj,PRON,0.4019325375556946,[],,
+qui,servir,acl,VERB,0.4278677403926849,[],,
+ajouter,moutarde,obj,NOUN,0.585381031036377,[],,
+moutarde,crème,appos,NOUN,0.6351393461227417,[],,
+jus,cuisson,nmod,NOUN,0.6731067299842834,[],,
+cuisson,Cognac,nmod,PROPN,0.6011887788772583,[],,
+jus,découpe,nmod,NOUN,0.5933595299720764,[],,
+découpe,viande,nmod,NOUN,0.663083016872406,"[{""id"": 34293934, ""node1"": 29750, ""node2"": 140100, ""type"": 76, ""w"": 75.0}]",r_processus>patient,75.0
+viande,mélanger,acl,VERB,0.756519615650177,[],,
+sauce,part,nmod,NOUN,0.6343846321105957,[],,

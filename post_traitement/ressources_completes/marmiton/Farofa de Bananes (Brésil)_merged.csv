@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,sel,appos,NOUN,0.6997572183609009,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,beurre,obj,NOUN,0.71866774559021,"[{""id"": 584573840, ""node1"": 139597, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+ingrédient,bacon,appos,NOUN,0.6486365795135498,"[{""id"": 25309655, ""node1"": 123418, ""node2"": 25901, ""type"": 0, ""w"": 16.0}, {""id"": 25274961, ""node1"": 123418, ""node2"": 25901, ""type"": 8, ""w"": 28.0}]",r_hypo,28.0
+ingrédient,set,nmod,NOUN,0.4041900932788849,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+pinceau,balance,nmod,NOUN,0.4696744382381439,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+ingrédient,étape,nmod,NOUN,0.4697338342666626,[],,
+titre,poêle,nmod,NOUN,0.6306821703910828,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+ajouter,baisser,acl,VERB,0.433529257774353,[],,
+baisser,feu,obj,NOUN,0.552813708782196,[],,
+ajouter,farine,obj,NOUN,0.6640971302986145,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+farine,manioc,nmod,NOUN,0.6445809602737427,"[{""id"": 796713007, ""node1"": 127629, ""node2"": 67691, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+type,farine,nmod,NOUN,0.6345577239990234,"[{""id"": 54702298, ""node1"": 15235, ""node2"": 127629, ""type"": 0, ""w"": 21.0}, {""id"": 54653044, ""node1"": 15235, ""node2"": 127629, ""type"": 5, ""w"": -49.0}]",r_associated,21.0
+type,manioc,nmod,NOUN,0.5615127682685852,[],,
+cuire,remuer,advcl,VERB,0.6866573691368103,[],,
+remuer,temps,obj,NOUN,0.5274296998977661,[],,
+remuer,dorer,advcl,VERB,0.5522658824920654,[],,
+dorer,farine,obj,NOUN,0.6607921719551086,[],,
+ajouter,morceau,obj,NOUN,0.5419883728027344,[],,
+morceau,banane,nmod,NOUN,0.6162192225456238,[],,

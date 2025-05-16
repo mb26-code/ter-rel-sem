@@ -1,0 +1,19 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+casserole,confiture,nsubj,NOUN,0.6971736550331116,"[{""id"": 920566702, ""node1"": 57253, ""node2"": 70793, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+confiture,tomate,nmod,NOUN,0.6600561738014221,[],,
+tomate,ingrédient,nmod,NOUN,0.6937788128852844,"[{""id"": 24850719, ""node1"": 22138, ""node2"": 123418, ""type"": 0, ""w"": 43.0}, {""id"": 24842052, ""node1"": 22138, ""node2"": 123418, ""type"": 6, ""w"": 160.0}]",r_isa,160.0
+ingrédient,sirop,nmod,NOUN,0.658586859703064,[],,
+casserole,couvercle,obj,NOUN,0.6508210897445679,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]",r_has_part,100.0
+couvercle,étape,nmod,NOUN,0.4822983145713806,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+casserole,profond,amod,ADJ,0.5750002861022949,[],,
+prendre,confiture,nsubj,NOUN,0.5864404439926147,[],,
+prendre,couleur,obj,NOUN,0.4832141399383545,[],,
+couleur,rouge,amod,ADJ,0.4623506963253021,"[{""id"": 70618, ""node1"": 40056, ""node2"": 86356, ""type"": 0, ""w"": 516.91}, {""id"": 232492, ""node1"": 40056, ""node2"": 86356, ""type"": 8, ""w"": 394.0}, {""id"": 190897, ""node1"": 40056, ""node2"": 86356, ""type"": 17, ""w"": 291.0}, {""id"": 53246441, ""node1"": 40056, ""node2"": 86356, ""type"": 35, ""w"": 51.0}, {""id"": 3160153, ""node1"": 40056, ""node2"": 86356, ""type"": 106, ""w"": 56.0}, {""id"": 1794527, ""node1"": 40056, ""node2"": 86356, ""type"": 666, ""w"": 30.0}]",r_associated,516.91
+couleur,sombre,amod,ADJ,0.4244250655174255,"[{""id"": 3174419, ""node1"": 40056, ""node2"": 122704, ""type"": 0, ""w"": 70.0}, {""id"": 9683819, ""node1"": 40056, ""node2"": 122704, ""type"": 8, ""w"": 43.0}, {""id"": 159300, ""node1"": 40056, ""node2"": 122704, ""type"": 17, ""w"": 133.0}, {""id"": 3163395, ""node1"": 40056, ""node2"": 122704, ""type"": 106, ""w"": 15.0}]",r_carac,133.0
+vérifier,cuisson,obj,NOUN,0.6534045934677124,"[{""id"": 31862099, ""node1"": 76431, ""node2"": 60056, ""type"": 14, ""w"": 64.0}]",r_patient,64.0
+confiture,autre,amod,ADJ,0.5937202572822571,[],,
+bocal,propre,amod,ADJ,0.5672860741615295,[],,
+renverser,bocal,obj,NOUN,0.5682299137115479,[],,
+bocal,couvercle,nmod,NOUN,0.5597714781761169,"[{""id"": 2469176, ""node1"": 109384, ""node2"": 89523, ""type"": 0, ""w"": 53.0}, {""id"": 478898949, ""node1"": 109384, ""node2"": 89523, ""type"": 9, ""w"": 39.0}, {""id"": 1069335673, ""node1"": 109384, ""node2"": 89523, ""type"": 666, ""w"": 2.0}]",r_associated,53.0
+attention,brûlure,nmod,NOUN,0.463414579629898,[],,

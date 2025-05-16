@@ -1,0 +1,44 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+caramel,Chocolate,amod,X,0.476703405380249,[],,
+titre,caramel,appos,NOUN,0.5498389005661011,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,beurre,appos,NOUN,0.7321043014526367,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]",r_associated,69.0
+ingrédient,sucre,nmod,NOUN,0.7083083987236023,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]",r_associated,70.0
+sucre,noix,nmod,NOUN,0.6710987687110901,[],,
+beurre,coco,amod,ADV,0.6429898738861084,[],,
+noix,beurre,nmod,NOUN,0.6414071917533875,"[{""id"": 96697959, ""node1"": 30910, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+sucre,lait,nmod,NOUN,0.6437966823577881,[],,
+lait,concentré,acl,ADJ,0.5687405467033386,"[{""id"": 421005940, ""node1"": 86296, ""node2"": 120287, ""type"": 0, ""w"": 2.0}]",r_associated,2.0
+lait,pâtissier,appos,ADJ,0.592555046081543,[],,
+titre,four,nmod,NOUN,0.6455731391906738,[],,
+four,top,nmod,NOUN,0.5501777529716492,"[{""id"": 509203905, ""node1"": 9190, ""node2"": 61057, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+papier,meilleur,amod,ADJ,0.4798659384250641,[],,
+top,papier,nmod,NOUN,0.4000419974327087,[],,
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+titre,casserole,nmod,NOUN,0.5580013990402222,[],,
+casserole,fouet,obj,NOUN,0.5830783247947693,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+fouet,plat,nmod,ADJ,0.6314644813537598,[],,
+fouet,étape,nmod,NOUN,0.4946097731590271,[],,
+four,180,nmod,NUM,0.4979606568813324,[],,
+base,plat,amod,NOUN,0.6382010579109192,"[{""id"": 17077808, ""node1"": 72257, ""node2"": 36327, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+plat,rectangulaire,amod,ADJ,0.5998041033744812,"[{""id"": 76567693, ""node1"": 36327, ""node2"": 3278, ""type"": 0, ""w"": 35.0}]",r_associated,35.0
+mettre,base,obj,NOUN,0.517137348651886,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+mélanger,ingrédient,obj,NOUN,0.6362285614013672,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ingrédient,saladier,nmod,NOUN,0.6509284973144531,[],,
+mettre,mélange,obj,NOUN,0.5538657903671265,[],,
+mettre,ingrédient,obj,NOUN,0.5923328399658203,[],,
+ingrédient,milieu,nmod,NOUN,0.5674450993537903,[],,
+casserole,feu,nmod,NOUN,0.5973718166351318,"[{""id"": 252156, ""node1"": 57253, ""node2"": 143703, ""type"": 0, ""w"": 57.0}, {""id"": 96920401, ""node1"": 57253, ""node2"": 143703, ""type"": 15, ""w"": 30.0}, {""id"": 1762446, ""node1"": 57253, ""node2"": 143703, ""type"": 666, ""w"": 2.0}]",r_associated,57.0
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+cuire,fouetter,advcl,VERB,0.6812910437583923,[],,
+consistance,ferme,amod,ADJ,0.4332925081253052,"[{""id"": 97120608, ""node1"": 29223, ""node2"": 29786, ""type"": 0, ""w"": 23.0}, {""id"": 97120604, ""node1"": 29223, ""node2"": 29786, ""type"": 17, ""w"": 24.0}, {""id"": 652227831, ""node1"": 29223, ""node2"": 29786, ""type"": 666, ""w"": 6.0}]",r_carac,24.0
+mettre,marier,obj,VERB,0.4280493259429931,[],,
+fondre,tout,nsubj:pass,ADJ,0.5288115739822388,[],,
+fondre,verser,advcl,VERB,0.4997918307781219,[],,
+faire,durcir,acl,VERB,0.4483839869499206,[],,
+durcir,glaçage,obj,NOUN,0.5195785164833069,[],,
+durcir,mettre,advcl,VERB,0.4151099026203155,[],,
+mettre,caramel,obj,NOUN,0.6295360326766968,[],,

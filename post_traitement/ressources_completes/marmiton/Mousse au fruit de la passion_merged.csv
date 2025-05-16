@@ -1,0 +1,52 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,mousse,nmod,NOUN,0.4806961715221405,[],,
+mousse,fruit,nmod,NOUN,0.5477442741394043,[],,
+fruit,passion,nmod,NOUN,0.4803899526596069,"[{""id"": 640137315, ""node1"": 87286, ""node2"": 39448, ""type"": 0, ""w"": 26.0}, {""id"": 14799317, ""node1"": 87286, ""node2"": 39448, ""type"": 23, ""w"": 21.0}]",r_associated,26.0
+passion,ingrédient,nmod,NOUN,0.5779567360877991,[],,
+ingrédient,gélatine,nmod,NOUN,0.6162671446800232,[],,
+ingrédient,sucre,appos,NOUN,0.7083083987236023,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]",r_associated,70.0
+sucre,fruit,nmod,NOUN,0.6387148499488831,"[{""id"": 98831553, ""node1"": 139481, ""node2"": 87286, ""type"": 0, ""w"": 22.0}, {""id"": 9997585, ""node1"": 139481, ""node2"": 87286, ""type"": 10, ""w"": 32.0}]",r_holo,32.0
+sucre,jaune,nmod,NOUN,0.6481616497039795,[],,
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]",r_associated,598.0
+oeuf,crème,nmod,NOUN,0.6166951060295105,"[{""id"": 798892970, ""node1"": 116175, ""node2"": 44001, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+sucre,fouetter,nmod,VERB,0.6263551115989685,[],,
+fouetter,cannelle,amod,ADJ,0.586837112903595,[],,
+titre,tamis,nmod,NOUN,0.468590646982193,[],,
+tamis,bol,nmod,NOUN,0.5444229245185852,[],,
+bol,mixeur,nmod,NOUN,0.5581084489822388,[],,
+mixeur,saladier,nmod,NOUN,0.581632137298584,[],,
+titre,casserole,nmod,NOUN,0.5580013990402222,[],,
+casserole,fouet,nmod,NOUN,0.5830783247947693,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+fouet,lot,appos,NOUN,0.4158265590667724,[],,
+fouet,balance,nmod,NOUN,0.4882497191429138,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,frigo,appos,NOUN,0.5736064314842224,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+casserole,pulpe,obj,NOUN,0.6179657578468323,[],,
+casserole,mixer,advcl,VERB,0.6181690692901611,[],,
+ajouter,eau,obj,NOUN,0.5629687905311584,[],,
+eau,façon,nmod,NOUN,0.567746639251709,[],,
+eau,obtenir,acl,VERB,0.5427676439285278,[],,
+passer,pulpe,obj,NOUN,0.5641471743583679,[],,
+pulpe,tamis,nmod,NOUN,0.5425564646720886,[],,
+ajouter,enlever,advcl,VERB,0.4042659699916839,"[{""id"": 33800597, ""node1"": 25099, ""node2"": 82345, ""type"": 0, ""w"": 51.0}, {""id"": 85362410, ""node1"": 25099, ""node2"": 82345, ""type"": 7, ""w"": 29.0}]",r_associated,51.0
+enlever,graine,obj,NOUN,0.5275331139564514,[],,
+graine,noir,amod,ADJ,0.5433195233345032,"[{""id"": 539970814, ""node1"": 14469, ""node2"": 64238, ""type"": 17, ""w"": -25.0}, {""id"": 3178951, ""node1"": 14469, ""node2"": 64238, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+ajouter,cannelle,obj,ADJ,0.6217688322067261,[],,
+cannelle,pulpe,nmod,NOUN,0.6099895238876343,[],,
+ajouter,mélanger,advcl,VERB,0.476481020450592,[],,
+mélanger,jaune,obj,NOUN,0.5585520267486572,[],,
+jaune,sucre,nmod,NOUN,0.6481616497039795,[],,
+ajouter,pulpe,obj,NOUN,0.5573450922966003,[],,
+ajouter,ébullition,nsubj,NOUN,0.4846977293491363,[],,
+ajouter,feuille,obj,NOUN,0.4999395906925201,[],,
+feuille,gélatine,nmod,NOUN,0.5306443572044373,[],,
+froid,appareil,nsubj,NOUN,0.490742951631546,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+crème,fouetter,acl,VERB,0.5730577111244202,"[{""id"": 2219421, ""node1"": 44001, ""node2"": 45711, ""type"": 0, ""w"": 52.0}, {""id"": 15066415, ""node1"": 44001, ""node2"": 45711, ""type"": 26, ""w"": 30.0}, {""id"": 2311449, ""node1"": 44001, ""node2"": 45711, ""type"": 42, ""w"": 51.0}]",r_associated,52.0
+laisser,verser,advcl,VERB,0.4424374103546142,[],,
+heure,réfrigérateur,nmod,NOUN,0.4385888278484344,[],,
+biscuit,cuillère,nmod,NOUN,0.6286556124687195,"[{""id"": 922009754, ""node1"": 62524, ""node2"": 51905, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+dégustation,bon,amod,ADJ,0.4751738309860229,"[{""id"": 561348579, ""node1"": 107364, ""node2"": 144229, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+laisser,dégustation,obj,NOUN,0.4978899955749511,[],,

@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,bœuf,appos,NOUN,0.5581445693969727,[],,
+bœuf,sécher,acl,VERB,0.6517399549484253,[],,
+bœuf,maison,nmod,NOUN,0.6217626333236694,[],,
+bœuf,ingrédient,nmod,NOUN,0.6396374106407166,"[{""id"": 24930232, ""node1"": 168216, ""node2"": 123418, ""type"": 6, ""w"": 1.0}]",r_isa,1.0
+sel,gros,amod,ADJ,0.6553788781166077,"[{""id"": 188164, ""node1"": 13260, ""node2"": 88096, ""type"": 0, ""w"": 60.0}, {""id"": 645838, ""node1"": 13260, ""node2"": 88096, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+bœuf,sel,appos,NOUN,0.729349672794342,[],,
+bœuf,fin,amod,ADJ,0.5960467457771301,[],,
+bœuf,herbe,amod,NOUN,0.5882123708724976,"[{""id"": 1041049987, ""node1"": 168216, ""node2"": 138874, ""type"": 0, ""w"": 65.0}]",r_associated,65.0
+bœuf,couvercle,appos,NOUN,0.6335352659225464,[],,
+couvercle,couteau,nmod,NOUN,0.5890913009643555,[],,
+couvercle,réfrigérateur,nmod,NOUN,0.5780581831932068,[],,
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[],,
+bœuf,recouvrir,acl,VERB,0.6151101589202881,[],,
+recouvrir,sel,nmod,NOUN,0.6782591938972473,[],,
+recouvrir,pièce,obj,NOUN,0.4874486327171325,[],,
+pièce,bœuf,nmod,NOUN,0.5890517234802246,[],,
+heure,tout,amod,ADJ,0.4477578103542328,[],,
+retirer,jus,obj,NOUN,0.5681401491165161,[],,
+rincer,pièce,obj,NOUN,0.5055831074714661,[],,
+pièce,viande,nmod,NOUN,0.6374578475952148,"[{""id"": 96826159, ""node1"": 96851, ""node2"": 140100, ""type"": 0, ""w"": 35.0}]",r_associated,35.0
+dizaine,eau,nmod,NOUN,0.5404968857765198,[],,
+changer,eau,obj,NOUN,0.5574551224708557,[],,
+eau,heure,nmod,NOUN,0.528317928314209,[],,
+essuyer,pièce,obj,NOUN,0.4444971680641174,[],,
+pièce,torchon,nmod,NOUN,0.5269527435302734,[],,
+sécher,viande,nsubj:pass,NOUN,0.7260003685951233,"[{""id"": 653449467, ""node1"": 56038, ""node2"": 140100, ""type"": 666, ""w"": 4.0}]",r_aki,4.0
+recouvrir,viande,obj,NOUN,0.7356831431388855,[],,
+épice,choix,nmod,NOUN,0.6133472323417664,[],,
+linge,propre,amod,ADJ,0.4980876743793487,"[{""id"": 400912, ""node1"": 92471, ""node2"": 118316, ""type"": 0, ""w"": 54.0}, {""id"": 156265, ""node1"": 92471, ""node2"": 118316, ""type"": 17, ""w"": 190.0}]",r_carac,190.0
+contact,épice,nsubj,NOUN,0.6397885680198669,[],,
+contact,viande,nmod,NOUN,0.6643247604370117,[],,
+réfrigérateur,semaine,nmod,NOUN,0.4868111312389374,[],,
+devoir,pièce,nsubj,NOUN,0.4345615208148956,[],,
+tranche,fin,amod,ADJ,0.4211523532867431,[],,
+couper,tranche,obj,NOUN,0.4768869876861572,"[{""id"": 425448, ""node1"": 128828, ""node2"": 143123, ""type"": 0, ""w"": 51.0}, {""id"": 8900685, ""node1"": 128828, ""node2"": 143123, ""type"": 14, ""w"": -2.0}, {""id"": 539957273, ""node1"": 128828, ""node2"": 143123, ""type"": 31, ""w"": -25.0}]",r_associated,51.0

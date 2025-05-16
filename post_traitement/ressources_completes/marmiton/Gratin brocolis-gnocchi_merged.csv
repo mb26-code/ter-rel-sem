@@ -1,0 +1,20 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,gratin,nmod,NOUN,0.4893978536128998,[],,
+gratin,ingrédient,nmod,NOUN,0.6309539079666138,[],,
+gratin,gruyère,nmod,NOUN,0.5780057907104492,"[{""id"": 607823224, ""node1"": 12942, ""node2"": 54095, ""type"": 0, ""w"": 26.0}, {""id"": 606747321, ""node1"": 12942, ""node2"": 54095, ""type"": 9, ""w"": 51.0}]",r_has_part,51.0
+crème,sel,nmod,NOUN,0.7389078736305237,[],,
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+Plat,gratin,nmod,NOUN,0.4779236614704132,[],,
+Plat,saladier,nmod,NOUN,0.5039201378822327,[],,
+saladier,four,nmod,NOUN,0.6991847157478333,[],,
+four,couvercle,nmod,NOUN,0.6759926676750183,[],,
+couvercle,plat,nmod,ADJ,0.6402535438537598,"[{""id"": 961890557, ""node1"": 89523, ""node2"": 36327, ""type"": 10, ""w"": 24.0}, {""id"": 372856875, ""node1"": 89523, ""node2"": 36327, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+eau,bouillir,acl,VERB,0.6033914685249329,"[{""id"": 796865828, ""node1"": 65012, ""node2"": 42401, ""type"": 0, ""w"": 28.0}, {""id"": 14831508, ""node1"": 65012, ""node2"": 42401, ""type"": 24, ""w"": 59.0}, {""id"": 15074479, ""node1"": 65012, ""node2"": 42401, ""type"": 26, ""w"": 35.0}, {""id"": 600063502, ""node1"": 65012, ""node2"": 42401, ""type"": 27, ""w"": 31.0}, {""id"": 380404023, ""node1"": 65012, ""node2"": 42401, ""type"": 30, ""w"": 32.0}]",r_agent-1,59.0
+bout,verser,acl,VERB,0.4899524748325348,[],,
+temps,cuisson,nmod,NOUN,0.6630411744117737,[],,
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+verser,mélange,obj,NOUN,0.5440542697906494,[],,
+verser,crème,obj,NOUN,0.6168469786643982,[],,
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+recouvrir,gruyère,nmod,NOUN,0.5682602524757385,[],,

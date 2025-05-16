@@ -1,0 +1,32 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,crème,acl,NOUN,0.5721626281738281,[],,
+ciboulette,ingrédient,nmod,NOUN,0.6649365425109863,[],,
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+crème,jaune,amod,NOUN,0.607393741607666,"[{""id"": 417890435, ""node1"": 44001, ""node2"": 86711, ""type"": 0, ""w"": 19.0}, {""id"": 3189132, ""node1"": 44001, ""node2"": 86711, ""type"": 106, ""w"": 3.0}, {""id"": 116190315, ""node1"": 44001, ""node2"": 86711, ""type"": 777, ""w"": 7.0}]",r_associated,19.0
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]",r_associated,598.0
+oeuf,citron,nmod,NOUN,0.6038509607315063,"[{""id"": 53737936, ""node1"": 116175, ""node2"": 15386, ""type"": 0, ""w"": 44.0}, {""id"": 53614845, ""node1"": 116175, ""node2"": 15386, ""type"": 5, ""w"": 74.0}]",r_syn,74.0
+citron,ciboulette,nmod,NOUN,0.616098940372467,[],,
+casserole,couteau,obj,NOUN,0.6493775248527527,[],,
+couteau,saladier,nmod,NOUN,0.6030980348587036,[],,
+saladier,plat,nmod,ADJ,0.6500786542892456,"[{""id"": 2181154, ""node1"": 45455, ""node2"": 36327, ""type"": 0, ""w"": 62.0}, {""id"": 1668935, ""node1"": 45455, ""node2"": 36327, ""type"": 666, ""w"": 3.0}]",r_associated,62.0
+botte,petit,amod,ADJ,0.5057090520858765,[],,
+eau,le,nmod,DET,0.4249178171157837,"[{""id"": 1030697396, ""node1"": 65012, ""node2"": 140509, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+dépendre,eau,nsubj,NOUN,0.55516117811203,[],,
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+reprise,ébullition,nmod,NOUN,0.4009482264518738,[],,
+eau,temps,nmod,NOUN,0.5607243776321411,"[{""id"": 920603911, ""node1"": 65012, ""node2"": 13861, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+temps,cuisson,nmod,NOUN,0.6630411744117737,[],,
+cuire,lui,nsubj:pass,PRON,0.6200059056282043,[],,
+pointe,couteau,nmod,NOUN,0.4962367117404938,"[{""id"": 8856589, ""node1"": 141611, ""node2"": 32610, ""type"": 0, ""w"": 16.0}, {""id"": 251482, ""node1"": 141611, ""node2"": 32610, ""type"": 10, ""w"": 53.0}]",r_holo,53.0
+cuire,enfoncer,advcl,VERB,0.6676396727561951,[],,
+plat,service,nmod,NOUN,0.5934174060821533,"[{""id"": 465259, ""node1"": 36327, ""node2"": 24247, ""type"": 0, ""w"": 81.0}, {""id"": 1726713, ""node1"": 36327, ""node2"": 24247, ""type"": 5, ""w"": 92.0}]",r_syn,92.0
+service,recouvrir,acl,VERB,0.4931676983833313,[],,
+plat,linge,nmod,NOUN,0.6313515901565552,"[{""id"": 784857875, ""node1"": 36327, ""node2"": 92471, ""type"": 17, ""w"": -5.0}, {""id"": 813466775, ""node1"": 36327, ""node2"": 92471, ""type"": 23, ""w"": 7.0}]",r_carac-1,7.0
+excédent,eau,nmod,NOUN,0.5409592390060425,[],,
+préparer,sauce,obj,NOUN,0.6940045356750488,"[{""id"": 395781320, ""node1"": 36246, ""node2"": 141110, ""type"": 0, ""w"": 35.0}, {""id"": 373014451, ""node1"": 36246, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparer,mélanger,advcl,VERB,0.5422113537788391,[],,
+mélanger,jaune,obj,NOUN,0.5585520267486572,[],,
+chaud,sauce,nsubj,NOUN,0.7184710502624512,"[{""id"": 372693366, ""node1"": 19150, ""node2"": 141110, ""type"": 23, ""w"": 11.0}]",r_carac-1,11.0
+ajouter,chaud,advcl,ADJ,0.544730007648468,[],,
+ajouter,ciboulette,obj,NOUN,0.550344705581665,"[{""id"": 373014517, ""node1"": 25099, ""node2"": 131816, ""type"": 14, ""w"": 31.0}]",r_patient,31.0

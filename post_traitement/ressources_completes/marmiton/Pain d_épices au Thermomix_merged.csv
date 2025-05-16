@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,pain,nmod,NOUN,0.6112104654312134,[],,
+pain,épice,nmod,NOUN,0.7047860026359558,[],,
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+levure,gingembre,nmod,NOUN,0.6237838864326477,[],,
+gingembre,muscade,nmod,NOUN,0.5934433937072754,[],,
+levure,sucre,amod,NOUN,0.6511401534080505,[],,
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,miel,amod,ADJ,0.6297056674957275,[],,
+miel,oeuf,appos,NOUN,0.6293219923973083,[],,
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+lait,sucre,nmod,NOUN,0.6437966823577881,[],,
+sucre,vanillé,amod,ADJ,0.6220211982727051,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]",r_associated,13.0
+sucre,graine,nmod,NOUN,0.6806163191795349,[],,
+sucre,anis,nmod,PROPN,0.601198673248291,[],,
+sucre,vert,amod,PROPN,0.6323696970939636,[],,
+vert,cannelle,amod,ADJ,0.560249388217926,"[{""id"": 509560564, ""node1"": 26976, ""node2"": 112959, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+mélange,épice,nmod,NOUN,0.6910523176193237,"[{""id"": 925026230, ""node1"": 14800, ""node2"": 146056, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+miel,four,appos,NOUN,0.7397221922874451,[],,
+four,moule,nmod,NOUN,0.6459261178970337,"[{""id"": 914324367, ""node1"": 9190, ""node2"": 143723, ""type"": 0, ""w"": 20.0}, {""id"": 149292258, ""node1"": 9190, ""node2"": 143723, ""type"": 28, ""w"": 71.0}]",r_lieu-1,71.0
+cake,saladier,nmod,NOUN,0.579090416431427,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+four,160,nmod,NUM,0.4906061589717865,[],,
+sucre,degré,nmod,NOUN,0.5845609307289124,[],,
+chauffer,miel,obj,NOUN,0.6516919136047363,[],,
+miel,min,nmod,NOUN,0.4921332597732544,[],,
+miel,degré,nmod,NOUN,0.5595799684524536,[],,
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+verser,tout,obj,NOUN,0.5228472352027893,[],,
+cuve,miel,nmod,NOUN,0.6556995511054993,[],,
+mélanger,degré,obj,NOUN,0.4453767538070678,[],,
+trou,bouchon,nmod,NOUN,0.4170037508010864,"[{""id"": 1029015, ""node1"": 115865, ""node2"": 121129, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+bouchon,oeuf,nmod,NOUN,0.5352771282196045,[],,
+verser,préparation,obj,NOUN,0.5208573341369629,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparation,moule,nmod,NOUN,0.5472729206085205,"[{""id"": 601611756, ""node1"": 33634, ""node2"": 143723, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+préparation,cake,nmod,ADV,0.5542082786560059,[],,
+pain,refroidir,acl:relcl,VERB,0.6903350949287415,[],,
+patienter,déguster,advcl,VERB,0.4887207150459289,[],,

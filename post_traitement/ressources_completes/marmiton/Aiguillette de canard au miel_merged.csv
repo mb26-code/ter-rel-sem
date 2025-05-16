@@ -1,0 +1,18 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+sel,miel,amod,NOUN,0.6926586031913757,[],,
+miel,ingrédient,nmod,NOUN,0.6318907737731934,"[{""id"": 85917646, ""node1"": 136055, ""node2"": 123418, ""type"": 6, ""w"": 26.0}, {""id"": 661474354, ""node1"": 136055, ""node2"": 123418, ""type"": 666, ""w"": 2.0}]",r_isa,26.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,beurre,appos,NOUN,0.71866774559021,"[{""id"": 584573840, ""node1"": 139597, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+fond,veau,nmod,NOUN,0.573129415512085,"[{""id"": 98303715, ""node1"": 119272, ""node2"": 91311, ""type"": 0, ""w"": 27.0}, {""id"": 98303791, ""node1"": 119272, ""node2"": 91311, ""type"": 9, ""w"": 30.0}]",r_has_part,30.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+chauffer,beurre,obj,NOUN,0.7066839933395386,[],,
+titre,faire,nmod,VERB,0.4374700486660003,[],,
+cuisson,désirer,amod,ADJ,0.6852123737335205,[],,
+feu,vif,amod,ADJ,0.5094798803329468,"[{""id"": 418102926, ""node1"": 143703, ""node2"": 80204, ""type"": 0, ""w"": 13.0}, {""id"": 221184, ""node1"": 143703, ""node2"": 80204, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
+mettre,crème,obj,NOUN,0.6161975264549255,[],,
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+remuer,fond,nsubj,NOUN,0.5348655581474304,[],,
+mettre,remuer,advcl,VERB,0.5015311241149902,[],,
+goûter,sauce,obj,NOUN,0.745824933052063,[],,
+miel,goût,nmod,NOUN,0.6386939883232117,"[{""id"": 654232336, ""node1"": 136055, ""node2"": 119233, ""type"": 0, ""w"": 28.0}, {""id"": 5021340, ""node1"": 136055, ""node2"": 119233, ""type"": 777, ""w"": 10.0}]",r_associated,28.0

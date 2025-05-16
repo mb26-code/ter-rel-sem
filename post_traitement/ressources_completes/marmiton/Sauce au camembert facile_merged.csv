@@ -1,0 +1,18 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+sauce,camembert,nmod,NOUN,0.6978610157966614,[],,
+camembert,facile,amod,ADJ,0.4883644580841064,[],,
+ingrédient,poivre,appos,NOUN,0.7064663171768188,"[{""id"": 24923435, ""node1"": 123418, ""node2"": 139597, ""type"": 0, ""w"": 15.0}, {""id"": 24850733, ""node1"": 123418, ""node2"": 139597, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+poivre,crème,acl,NOUN,0.6996400356292725,[],,
+poivre,camembert,nmod,NOUN,0.6502871513366699,[],,
+camembert,lait,nmod,NOUN,0.5737240314483643,"[{""id"": 417677388, ""node1"": 130831, ""node2"": 86296, ""type"": 0, ""w"": 44.0}, {""id"": 417677387, ""node1"": 130831, ""node2"": 86296, ""type"": 3, ""w"": 37.0}, {""id"": 579976317, ""node1"": 130831, ""node2"": 86296, ""type"": 6, ""w"": 109.0}, {""id"": 1017994578, ""node1"": 130831, ""node2"": 86296, ""type"": 50, ""w"": 28.0}, {""id"": 1769288, ""node1"": 130831, ""node2"": 86296, ""type"": 666, ""w"": 4.0}, {""id"": 290959491, ""node1"": 130831, ""node2"": 86296, ""type"": 777, ""w"": 9.0}]",r_isa,109.0
+ingrédient,casserole,nmod,NOUN,0.7348343133926392,[],,
+casserole,couper,acl,VERB,0.6099616289138794,"[{""id"": 596711113, ""node1"": 57253, ""node2"": 128828, ""type"": 30, ""w"": -25.0}]",r_lieu_action,-25.0
+couper,camembert,nmod,NOUN,0.5277273654937744,[],,
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+fondre,remuer,advcl,VERB,0.527052640914917,[],,
+remuer,temps,obj,NOUN,0.5274296998977661,[],,
+fondre,camembert,nsubj,NOUN,0.5637154579162598,[],,
+ajouter,fondre,advcl,VERB,0.4958822429180145,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+crème,frais,amod,ADJ,0.5796430110931396,[],,

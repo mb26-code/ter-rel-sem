@@ -1,0 +1,47 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+merveille,saumon,nmod,NOUN,0.6265668272972107,[],,
+sel,gros,amod,ADJ,0.6553788781166077,"[{""id"": 188164, ""node1"": 13260, ""node2"": 88096, ""type"": 0, ""w"": 60.0}, {""id"": 645838, ""node1"": 13260, ""node2"": 88096, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+merveille,sel,nmod,NOUN,0.6802590489387512,[],,
+sel,citron,nmod,NOUN,0.6972113847732544,[],,
+citron,huile,amod,NOUN,0.6506204605102539,[],,
+citron,cassonade,nmod,NOUN,0.6490494012832642,[],,
+oignon,rouge,amod,ADJ,0.5798735618591309,"[{""id"": 96738908, ""node1"": 123307, ""node2"": 86356, ""type"": 17, ""w"": 31.0}, {""id"": 3161226, ""node1"": 123307, ""node2"": 86356, ""type"": 106, ""w"": 3.0}]",r_carac,31.0
+merveille,mayonnaise,nmod,NOUN,0.5751343369483948,[],,
+citron,violette,nmod,NOUN,0.5838374495506287,[],,
+violette,pain,nmod,NOUN,0.6838297247886658,[],,
+pain,seigle,nmod,NOUN,0.613412618637085,"[{""id"": 125156, ""node1"": 61283, ""node2"": 33914, ""type"": 0, ""w"": 54.0}, {""id"": 238488, ""node1"": 61283, ""node2"": 33914, ""type"": 28, ""w"": 89.0}, {""id"": 25778961, ""node1"": 61283, ""node2"": 33914, ""type"": 50, ""w"": 51.0}]",r_lieu-1,89.0
+cuisine,saladier,nmod,NOUN,0.6925616264343262,"[{""id"": 47300451, ""node1"": 16033, ""node2"": 45455, ""type"": 0, ""w"": 30.0}, {""id"": 47300450, ""node1"": 16033, ""node2"": 45455, ""type"": 27, ""w"": 21.0}]",r_associated,30.0
+saladier,aluminium,nmod,NOUN,0.5885482430458069,[],,
+aluminium,assiette,nmod,NOUN,0.6168569922447205,[],,
+assiette,plat,nmod,ADJ,0.64161217212677,"[{""id"": 184605, ""node1"": 62735, ""node2"": 36327, ""type"": 0, ""w"": 150.0}, {""id"": 597401, ""node1"": 62735, ""node2"": 36327, ""type"": 5, ""w"": 142.0}, {""id"": 272448, ""node1"": 62735, ""node2"": 36327, ""type"": 20, ""w"": 60.0}, {""id"": 539962229, ""node1"": 62735, ""node2"": 36327, ""type"": 25, ""w"": -25.0}, {""id"": 2358342, ""node1"": 62735, ""node2"": 36327, ""type"": 28, ""w"": 110.0}, {""id"": 1029212457, ""node1"": 62735, ""node2"": 36327, ""type"": 67, ""w"": 47.0}, {""id"": 1471397, ""node1"": 62735, ""node2"": 36327, ""type"": 666, ""w"": 4.0}]",r_associated,150.0
+mélange,citron,nmod,NOUN,0.6636965274810791,[],,
+plat,long,amod,ADJ,0.566232442855835,"[{""id"": 93508055, ""node1"": 36327, ""node2"": 84432, ""type"": 17, ""w"": 34.0}]",r_carac,34.0
+filet,premier,amod,ADJ,0.5088637471199036,[],,
+disposer,filet,obj,NOUN,0.5397936701774597,[],,
+peau,dessous,nmod,NOUN,0.4893912971019745,[],,
+mélange,sel,nmod,NOUN,0.6949740648269653,[],,
+mélange,cassonade,nmod,NOUN,0.6328538060188293,[],,
+reste,marinade,nmod,NOUN,0.6412528157234192,[],,
+papier,alu,amod,ADJ,0.4648590087890625,[],,
+poser,poids,obj,NOUN,0.4410477578639984,[],,
+reste,boîte,appos,NOUN,0.4713891744613647,[],,
+boîte,conserve,acl,VERB,0.4250721931457519,"[{""id"": 2457653, ""node1"": 7575, ""node2"": 144639, ""type"": 0, ""w"": 87.0}, {""id"": 97318713, ""node1"": 7575, ""node2"": 144639, ""type"": 5, ""w"": 29.0}, {""id"": 400272, ""node1"": 7575, ""node2"": 144639, ""type"": 28, ""w"": 79.0}, {""id"": 1710631, ""node1"": 7575, ""node2"": 144639, ""type"": 35, ""w"": 86.0}, {""id"": 1814184, ""node1"": 7575, ""node2"": 144639, ""type"": 42, ""w"": 70.0}, {""id"": 726552696, ""node1"": 7575, ""node2"": 144639, ""type"": 666, ""w"": 2.0}]",r_associated,87.0
+replacer,alu,obj,NOUN,0.4480748474597931,[],,
+laisser,frigo,obj,NOUN,0.5427963733673096,[],,
+laisser,laver,obj,ADJ,0.4674450755119324,[],,
+laver,sécher,acl,ADP,0.494866132736206,"[{""id"": 76677045, ""node1"": 143876, ""node2"": 56038, ""type"": 52, ""w"": 35.0}]",r_successeur-time,35.0
+rondelle,oignon,nmod,NOUN,0.5958291888237,[],,
+mayonnaise,simple,amod,ADJ,0.5475136041641235,[],,
+confectionner,mayonnaise,obj,NOUN,0.6100251078605652,[],,
+mayonnaise,citron,nmod,NOUN,0.6542017459869385,"[{""id"": 3978239, ""node1"": 111055, ""node2"": 15386, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+ajouter,moutarde,obj,NOUN,0.585381031036377,[],,
+incorporer,violette,obj,NOUN,0.5299075841903687,[],,
+faite,tranche,obj,NOUN,0.4560300707817077,[],,
+tranche,oblique,nmod,NOUN,0.4039001166820526,[],,
+frais,jour,nmod,NOUN,0.4219574928283691,[],,
+fleur,tout,amod,ADJ,0.5606189966201782,[],,
+fleur,employer,acl,VERB,0.521730899810791,[],,
+mélange,oignon,nmod,NOUN,0.65721595287323,[],,
+îlot,mayonnaise,nmod,NOUN,0.4836891293525696,[],,
+îlot,froid,amod,ADJ,0.4770299196243286,[],,
+tranche,pain,nmod,NOUN,0.6442368030548096,"[{""id"": 240074, ""node1"": 143123, ""node2"": 61283, ""type"": 0, ""w"": 221.0}, {""id"": 97833247, ""node1"": 143123, ""node2"": 61283, ""type"": 3, ""w"": 10.0}, {""id"": 9992595, ""node1"": 143123, ""node2"": 61283, ""type"": 10, ""w"": 4.0}, {""id"": 97327248, ""node1"": 143123, ""node2"": 61283, ""type"": 35, ""w"": 30.0}, {""id"": 775213283, ""node1"": 143123, ""node2"": 61283, ""type"": 174, ""w"": 25.0}]",r_associated,221.0

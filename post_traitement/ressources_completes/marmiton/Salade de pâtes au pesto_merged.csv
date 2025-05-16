@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,salade,appos,NOUN,0.5926524996757507,[],,
+salade,pâte,nmod,NOUN,0.7069150805473328,"[{""id"": 97758148, ""node1"": 118908, ""node2"": 34069, ""type"": 0, ""w"": 28.0}, {""id"": 97758149, ""node1"": 118908, ""node2"": 34069, ""type"": 9, ""w"": 26.0}]",r_associated,28.0
+salade,pesto,nmod,NOUN,0.6464440226554871,"[{""id"": 700596046, ""node1"": 118908, ""node2"": 221048, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+pesto,ingrédient,nmod,NOUN,0.6301003694534302,[],,
+pesto,tomate,nmod,NOUN,0.6282111406326294,[],,
+titre,cerise,acl,VERB,0.448016345500946,[],,
+cerise,pesto,obj,NOUN,0.6059896945953369,[],,
+olive,vert,amod,ADJ,0.5534511208534241,"[{""id"": 945484, ""node1"": 238, ""node2"": 26976, ""type"": 0, ""w"": 38.0}, {""id"": 53614950, ""node1"": 238, ""node2"": 26976, ""type"": 5, ""w"": 60.0}, {""id"": 12438339, ""node1"": 238, ""node2"": 26976, ""type"": 6, ""w"": 185.0}, {""id"": 96736297, ""node1"": 238, ""node2"": 26976, ""type"": 17, ""w"": 34.0}, {""id"": 14796582, ""node1"": 238, ""node2"": 26976, ""type"": 23, ""w"": 21.0}, {""id"": 3160025, ""node1"": 238, ""node2"": 26976, ""type"": 106, ""w"": 12.0}, {""id"": 2473013, ""node1"": 238, ""node2"": 26976, ""type"": 666, ""w"": 4.0}]",r_isa,185.0
+rose,baie,amod,NOUN,0.4161844551563263,"[{""id"": 344325782, ""node1"": 145583, ""node2"": 108952, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+rose,pignon,nmod,NOUN,0.4683431684970855,[],,
+rose,top,nmod,NOUN,0.4093564748764038,[],,
+saladier,couteau,nmod,NOUN,0.6030980348587036,[],,
+rose,cuire,acl,VERB,0.7116455435752869,[],,
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+quantité,bon,amod,ADJ,0.4778645038604736,[],,
+quantité,eau,nmod,NOUN,0.5596113204956055,[],,
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+quantité,minute,nmod,NOUN,0.4796538352966308,[],,
+saladier,grand,amod,ADJ,0.534858763217926,"[{""id"": 1077330492, ""node1"": 45455, ""node2"": 23178, ""type"": 0, ""w"": 50.0}, {""id"": 31838076, ""node1"": 45455, ""node2"": 23178, ""type"": 17, ""w"": 60.0}, {""id"": 1668931, ""node1"": 45455, ""node2"": 23178, ""type"": 666, ""w"": 2.0}]",r_carac,60.0
+refroidir,remuer,advcl,VERB,0.5356846451759338,[],,
+remuer,temps,obj,NOUN,0.5274296998977661,[],,
+couper,tomate,obj,NOUN,0.6290057301521301,"[{""id"": 628044027, ""node1"": 128828, ""node2"": 22138, ""type"": 0, ""w"": 27.0}, {""id"": 628044026, ""node1"": 128828, ""node2"": 22138, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+baie,rose,nmod,NOUN,0.4161844551563263,"[{""id"": 615058874, ""node1"": 108952, ""node2"": 145583, ""type"": 0, ""w"": 15.0}]",r_associated,15.0
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+vérifier,sel,obj,NOUN,0.6662607192993164,[],,
+mettre,servir,advcl,VERB,0.4629862010478973,[],,
+servir,frais,obj,ADJ,0.4840525686740875,"[{""id"": 560379713, ""node1"": 7888, ""node2"": 53495, ""type"": 0, ""w"": 31.0}]",r_associated,31.0

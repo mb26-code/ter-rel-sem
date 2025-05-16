@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,omelette,nmod,NOUN,0.5322758555412292,[],,
+maman,ingrédient,nmod,NOUN,0.5392165184020996,[],,
+titre,sel,nmod,NOUN,0.6557343602180481,[],,
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+oeuf,eau,nmod,NOUN,0.6093990802764893,"[{""id"": 386067341, ""node1"": 116175, ""node2"": 65012, ""type"": 15, ""w"": 30.0}, {""id"": 76133634, ""node1"": 116175, ""node2"": 65012, ""type"": 50, ""w"": 35.0}, {""id"": 109918850, ""node1"": 116175, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]",r_object>mater,35.0
+eau,huile,amod,NOUN,0.5881909728050232,"[{""id"": 922137128, ""node1"": 65012, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+saladier,fouet,nmod,NOUN,0.5588916540145874,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 307.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 267.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,307.0
+fouet,étape,nmod,NOUN,0.4946097731590271,[],,
+enlever,bout,obj,NOUN,0.434754729270935,[],,
+bout,dur,amod,ADJ,0.4435029029846191,[],,
+garder,pointe,obj,NOUN,0.4524901211261749,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+feu,normal,amod,ADJ,0.5502789616584778,[],,
+eau,moitié,nmod,NOUN,0.5586190223693848,[],,
+moitié,verre,nmod,NOUN,0.5242013931274414,[],,
+eau,min,nmod,NOUN,0.4966203570365906,[],,
+eau,feu,nmod,NOUN,0.6181602478027344,"[{""id"": 427586, ""node1"": 65012, ""node2"": 143703, ""type"": 0, ""w"": 31.0}, {""id"": 1074615749, ""node1"": 65012, ""node2"": 143703, ""type"": 6, ""w"": -25.0}, {""id"": 1839387, ""node1"": 65012, ""node2"": 143703, ""type"": 55, ""w"": 160.0}, {""id"": 1032957100, ""node1"": 65012, ""node2"": 143703, ""type"": 78, ""w"": 47.0}, {""id"": 960354056, ""node1"": 65012, ""node2"": 143703, ""type"": 82, ""w"": 33.0}]",r_against,160.0
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+temps,casser,acl,VERB,0.4705392122268677,[],,
+casser,œuf,obj,NOUN,0.5383567810058594,[],,
+mettre,eau,obj,NOUN,0.5746321082115173,"[{""id"": 437548164, ""node1"": 132366, ""node2"": 65012, ""type"": 0, ""w"": 28.0}, {""id"": 437548163, ""node1"": 132366, ""node2"": 65012, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+réduction,eau,nmod,NOUN,0.5488588809967041,[],,
+réduction,poêle,nmod,NOUN,0.630804717540741,[],,
+rincer,renverser,advcl,VERB,0.4531334042549133,[],,
+renverser,contenu,obj,NOUN,0.4402244389057159,[],,
+contenu,poêle,nmod,NOUN,0.6419464349746704,[],,
+prendre,œuf,nsubj,NOUN,0.5325608253479004,[],,
+renverser,prendre,advcl,VERB,0.4079419672489166,[],,
+prendre,couleur,obj,NOUN,0.4832141399383545,[],,
+rincer,laisser,advcl,VERB,0.4293487966060638,[],,
+remettre,contenu,obj,NOUN,0.4163908958435058,[],,
+contenu,saladier,nmod,NOUN,0.5573059916496277,"[{""id"": 798731106, ""node1"": 108150, ""node2"": 45455, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+obtenir,omelette,obj,NOUN,0.5542930364608765,[],,
+appétit,bon,amod,ADJ,0.4575223624706268,[],,

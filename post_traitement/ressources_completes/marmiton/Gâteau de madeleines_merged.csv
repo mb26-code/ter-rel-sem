@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,gâteau,nmod,NOUN,0.5333040952682495,[],,
+gâteau,ingrédient,nmod,NOUN,0.676111102104187,[],,
+sucre,beurre,nmod,NOUN,0.6973879933357239,[],,
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+lait,cassonade,nmod,NOUN,0.6335712671279907,[],,
+gâteau,grille,nmod,NOUN,0.6220863461494446,[],,
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+pâtisserie,moule,nmod,NOUN,0.56337571144104,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]",r_associated,24.0
+grille,manquer,acl,VERB,0.4866251647472381,[],,
+manquer,moule,obj,NOUN,0.5066490769386292,[],,
+moule,four,nmod,NOUN,0.6459261178970337,"[{""id"": 558702307, ""node1"": 143723, ""node2"": 9190, ""type"": 0, ""w"": 27.0}, {""id"": 253548963, ""node1"": 143723, ""node2"": 9190, ""type"": 15, ""w"": 4.0}]",r_associated,27.0
+four,fourchette,nmod,NOUN,0.6831614375114441,[],,
+four,cuillère,nmod,NOUN,0.7153509855270386,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+chauffer,lait,obj,NOUN,0.6334350109100342,"[{""id"": 31845126, ""node1"": 90994, ""node2"": 86296, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+incorporer,sucre,obj,NOUN,0.6537873148918152,[],,
+ajouter,oeuf,obj,NOUN,0.5327831506729126,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+oeuf,entier,amod,ADJ,0.513298749923706,[],,
+rajouter,cuillère,obj,NOUN,0.5652350783348083,[],,
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+soupe,alcool,nmod,NOUN,0.6784032583236694,[],,
+verser,préparation,obj,NOUN,0.5208573341369629,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparation,moule,nmod,NOUN,0.5472729206085205,"[{""id"": 601611756, ""node1"": 33634, ""node2"": 143723, ""type"": 0, ""w"": 22.0}]",r_associated,22.0

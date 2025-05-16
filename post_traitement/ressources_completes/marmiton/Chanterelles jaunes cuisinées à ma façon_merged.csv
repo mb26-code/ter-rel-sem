@@ -1,0 +1,17 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+façon,ingrédient,nmod,NOUN,0.5542503595352173,[],,
+ingrédient,sel,appos,NOUN,0.6997572183609009,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+nettoyer,champignon,obj,NOUN,0.5482569336891174,"[{""id"": 801979743, ""node1"": 85286, ""node2"": 25484, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+rendre,eau,obj,NOUN,0.5431551933288574,"[{""id"": 31838005, ""node1"": 65447, ""node2"": 65012, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+mettre,champignon,obj,NOUN,0.5527715086936951,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+moment,petit,amod,ADJ,0.4638179540634155,"[{""id"": 907832914, ""node1"": 136447, ""node2"": 55222, ""type"": 0, ""w"": 10.0}]",r_associated,10.0
+cuire,moment,obj,NOUN,0.7191393971443176,[],,
+mettre,tomate,obj,NOUN,0.63638836145401,[],,
+tomate,couper,acl,VERB,0.6290057301521301,"[{""id"": 920912564, ""node1"": 22138, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 628044041, ""node1"": 22138, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+mettre,meilleur,advcl,ADJ,0.4259885847568512,[],,
+boîte,tomate,nmod,NOUN,0.5605863928794861,[],,
+mettre,thym,obj,NOUN,0.6086216568946838,[],,

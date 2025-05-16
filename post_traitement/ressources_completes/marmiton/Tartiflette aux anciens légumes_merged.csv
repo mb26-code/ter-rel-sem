@@ -1,0 +1,64 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+légume,ancien,amod,ADJ,0.5827284455299377,[],,
+légume,ingrédient,nmod,NOUN,0.6797090172767639,[],,
+coriandre,courgette,nmod,NOUN,0.6374951601028442,[],,
+courgette,oignon,nmod,NOUN,0.6394896507263184,"[{""id"": 915324346, ""node1"": 85172, ""node2"": 123307, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+oignon,sel,nmod,NOUN,0.705348014831543,[],,
+sel,poivre,appos,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+oignon,gingembre,nmod,NOUN,0.6462072134017944,[],,
+gingembre,pomme,nmod,NOUN,0.6312372088432312,[],,
+gingembre,terre,nmod,NOUN,0.6288124918937683,[],,
+oignon,bouillon,nmod,NOUN,0.6552467942237854,"[{""id"": 1033722613, ""node1"": 123307, ""node2"": 146582, ""type"": 10, ""w"": 26.0}]",r_holo,26.0
+bouillon,légume,nmod,NOUN,0.7116243243217468,"[{""id"": 152250, ""node1"": 146582, ""node2"": 120603, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+légume,crème,amod,NOUN,0.7267745137214661,[],,
+crème,liquide,amod,ADJ,0.6173139810562134,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]",r_carac,52.0
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+saladier,set,nmod,NOUN,0.4222391545772552,[],,
+saladier,poêle,nmod,NOUN,0.6812556385993958,[],,
+saladier,casserole,nmod,NOUN,0.6254573464393616,[],,
+casserole,pinceau,obj,NOUN,0.5712795853614807,[],,
+pinceau,Plat,nmod,PROPN,0.4481068551540375,[],,
+Plat,gratin,nmod,NOUN,0.4779236614704132,[],,
+pinceau,four,nmod,NOUN,0.6441405415534973,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+lancement,préparation,nmod,NOUN,0.400613009929657,[],,
+temps,même,amod,ADJ,0.4074134230613708,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+lancement,ingrédient,nmod,NOUN,0.5168536901473999,[],,
+ingrédient,prêt,amod,ADJ,0.5108479857444763,[],,
+préparation,pomme,nmod,NOUN,0.6141328811645508,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,couper,acl,VERB,0.5794677734375,"[{""id"": 31839899, ""node1"": 37201, ""node2"": 128828, ""type"": 26, ""w"": 64.0}]",r_patient-1,64.0
+pomme,cube,nmod,NOUN,0.5789888501167297,[],,
+préparation,cuire,acl,VERB,0.7459017038345337,"[{""id"": 601611718, ""node1"": 33634, ""node2"": 5115, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+litre,bouillon,nmod,NOUN,0.5428785681724548,[],,
+bouillon,faire,acl,VERB,0.6479167938232422,[],,
+préparation,minute,nmod,NOUN,0.4669687449932098,[],,
+préparation,légume,nmod,NOUN,0.7004532814025879,[],,
+légume,couper,acl,VERB,0.6484079957008362,"[{""id"": 900892207, ""node1"": 120603, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 8555448, ""node1"": 120603, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+morceau,égal,amod,ADJ,0.4322951436042785,[],,
+égal,carotte,obj,NOUN,0.4688981473445892,[],,
+mélange,huile,nmod,NOUN,0.6350008249282837,[],,
+minute,préparation,appos,NOUN,0.4669687449932098,[],,
+préparation,oignon,nmod,NOUN,0.6636663675308228,[],,
+oignon,couper,acl,VERB,0.596168577671051,"[{""id"": 900892185, ""node1"": 123307, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 31770901, ""node1"": 123307, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 1767208, ""node1"": 123307, ""node2"": 128828, ""type"": 666, ""w"": 2.0}]",r_patient-1,100.0
+gousse,ail,nmod,NOUN,0.5501744151115417,"[{""id"": 1841967, ""node1"": 3889, ""node2"": 26979, ""type"": 0, ""w"": 58.0}, {""id"": 665112731, ""node1"": 3889, ""node2"": 26979, ""type"": 174, ""w"": 40.0}, {""id"": 714921743, ""node1"": 3889, ""node2"": 26979, ""type"": 666, ""w"": 3.0}]",r_associated,58.0
+gousse,haché,acl,ADJ,0.5432020425796509,[],,
+cuillère,bouillon,nmod,NOUN,0.674896240234375,"[{""id"": 914309696, ""node1"": 51905, ""node2"": 146582, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+revenir,ajouter,advcl,VERB,0.4373447000980377,[],,
+ajouter,coriandre,obj,NOUN,0.588874876499176,[],,
+préparation,sauce,nmod,NOUN,0.6986916661262512,"[{""id"": 9903071, ""node1"": 33634, ""node2"": 141110, ""type"": 0, ""w"": 54.0}, {""id"": 422811, ""node1"": 33634, ""node2"": 141110, ""type"": 8, ""w"": 63.0}]",r_hypo,63.0
+fois,liquide,amod,NOUN,0.4900166094303131,[],,
+revenir,pomme,obj,NOUN,0.604914665222168,[],,
+pomme,saupoudrer,acl,VERB,0.6375721096992493,[],,
+noix,muscade,nmod,NOUN,0.5663605332374573,"[{""id"": 796773628, ""node1"": 30910, ""node2"": 115297, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+plat,gratin,nmod,NOUN,0.6157448291778564,"[{""id"": 415003453, ""node1"": 36327, ""node2"": 12942, ""type"": 0, ""w"": 28.0}, {""id"": 246264043, ""node1"": 36327, ""node2"": 12942, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+couche,premier,amod,ADJ,0.4464163482189178,[],,
+mettre,couche,obj,NOUN,0.4788916707038879,[],,
+couche,pomme,nmod,NOUN,0.5732911229133606,[],,
+four,minute,nmod,NOUN,0.6574273109436035,[],,
+jambon,croire,acl,VERB,0.581739604473114,[],,
+vin,Savoie,nmod,PROPN,0.5445109605789185,[],,

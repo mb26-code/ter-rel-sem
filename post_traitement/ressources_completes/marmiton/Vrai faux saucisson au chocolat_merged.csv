@@ -1,0 +1,47 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+saucisson,faux,amod,ADJ,0.4179832637310028,[],,
+vrai,saucisson,nmod,NOUN,0.5116873383522034,"[{""id"": 376083923, ""node1"": 64585, ""node2"": 34296, ""type"": 23, ""w"": 26.0}]",r_carac-1,26.0
+saucisson,chocolat,nmod,NOUN,0.6346737146377563,"[{""id"": 373014594, ""node1"": 34296, ""node2"": 34157, ""type"": 17, ""w"": 31.0}]",r_carac,31.0
+saucisson,ingrédient,nmod,NOUN,0.6839473247528076,"[{""id"": 24929424, ""node1"": 34296, ""node2"": 123418, ""type"": 6, ""w"": 1.0}]",r_isa,1.0
+ingrédient,noix,nmod,NOUN,0.6215821504592896,[],,
+noix,coco,nmod,ADV,0.5701965689659119,"[{""id"": 1924690, ""node1"": 30910, ""node2"": 145904, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+sucre,glace,nmod,NOUN,0.651667594909668,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -126.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]",r_associated,111.0
+sucre,beurre,nmod,NOUN,0.6973879933357239,[],,
+beurre,chocolat,nmod,NOUN,0.6671400666236877,"[{""id"": 500926026, ""node1"": 140377, ""node2"": 34157, ""type"": 0, ""w"": 3.0}]",r_associated,3.0
+beurre,noir,amod,ADJ,0.6023449301719666,"[{""id"": 24959078, ""node1"": 140377, ""node2"": 64238, ""type"": 17, ""w"": 37.0}, {""id"": 3179787, ""node1"": 140377, ""node2"": 64238, ""type"": 106, ""w"": 1.0}]",r_carac,37.0
+beurre,petit,amod,ADJ,0.6663225889205933,[],,
+oeuf,beurre,amod,NOUN,0.6205570101737976,"[{""id"": 96638701, ""node1"": 116175, ""node2"": 140377, ""type"": 0, ""w"": 41.0}]",r_associated,41.0
+sucre,aluminium,nmod,NOUN,0.6540605425834656,[],,
+aluminium,fouet,nmod,NOUN,0.5255367159843445,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+sucre,casserole,nmod,NOUN,0.7403047680854797,[],,
+casserole,couteau,nmod,NOUN,0.6493775248527527,[],,
+casserole,cuillère,nmod,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,planche,nmod,NOUN,0.5615888237953186,[],,
+cuillère,découper,acl,VERB,0.5746886134147644,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+matériel,papier,appos,NOUN,0.4827283024787903,"[{""id"": 24509884, ""node1"": 33377, ""node2"": 103389, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+papier,aluminium,nmod,NOUN,0.4892482459545135,"[{""id"": 796957362, ""node1"": 103389, ""node2"": 95561, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+papier,fondre,acl,VERB,0.5655132532119751,[],,
+fondre,chocolat,obj,NOUN,0.5867562890052795,"[{""id"": 28589116, ""node1"": 16480, ""node2"": 34157, ""type"": 0, ""w"": 63.0}, {""id"": 24768886, ""node1"": 16480, ""node2"": 34157, ""type"": 13, ""w"": 30.0}, {""id"": 1011304980, ""node1"": 16480, ""node2"": 34157, ""type"": 14, ""w"": 30.0}, {""id"": 1009801551, ""node1"": 16480, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]",r_associated,63.0
+ajouter,oeuf,obj,NOUN,0.5327831506729126,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+oeuf,chocolat,nmod,NOUN,0.5730186104774475,"[{""id"": 796685682, ""node1"": 116175, ""node2"": 34157, ""type"": 0, ""w"": 31.0}, {""id"": 472413823, ""node1"": 116175, ""node2"": 34157, ""type"": 50, ""w"": 23.0}]",r_associated,31.0
+oeuf,chaud,amod,ADJ,0.5800310373306274,[],,
+cube,petit,amod,ADJ,0.5087730884552002,[],,
+mélanger,tout,obj,NOUN,0.528428852558136,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]",r_patient,110.0
+verser,préparation,obj,NOUN,0.5208573341369629,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparation,papier,nmod,NOUN,0.5522685050964355,[],,
+papier,alu,amod,ADJ,0.4648590087890625,[],,
+replier,papier,obj,NOUN,0.4316794276237488,"[{""id"": 3187255, ""node1"": 42514, ""node2"": 103389, ""type"": 0, ""w"": 72.0}, {""id"": 645786924, ""node1"": 42514, ""node2"": 103389, ""type"": 666, ""w"": 2.0}]",r_associated,72.0
+papier,autour,nmod,ADV,0.4895452558994293,[],,
+donner,forme,obj,NOUN,0.4219751060009002,[],,
+forme,saucisson,nmod,NOUN,0.5573828816413879,[],,
+mettre,temps,obj,NOUN,0.4475676417350769,[],,
+temps,durcir,acl:relcl,VERB,0.4500682353973388,[],,
+enlever,alu,obj,NOUN,0.4605341553688049,[],,
+passer,saucisson,obj,NOUN,0.5742612481117249,[],,
+planche,bois,nmod,NOUN,0.532573401927948,"[{""id"": 113955, ""node1"": 120728, ""node2"": 96256, ""type"": 0, ""w"": 146.0}, {""id"": 98270888, ""node1"": 120728, ""node2"": 96256, ""type"": 3, ""w"": 27.0}, {""id"": 155758, ""node1"": 120728, ""node2"": 96256, ""type"": 9, ""w"": 69.0}, {""id"": 14803380, ""node1"": 120728, ""node2"": 96256, ""type"": 17, ""w"": -30.0}, {""id"": 9344125, ""node1"": 120728, ""node2"": 96256, ""type"": 35, ""w"": 106.0}, {""id"": 14668015, ""node1"": 120728, ""node2"": 96256, ""type"": 42, ""w"": 37.0}, {""id"": 376056247, ""node1"": 120728, ""node2"": 96256, ""type"": 50, ""w"": 42.0}, {""id"": 8191918, ""node1"": 120728, ""node2"": 96256, ""type"": 54, ""w"": 27.0}, {""id"": 3188784, ""node1"": 120728, ""node2"": 96256, ""type"": 106, ""w"": 3.0}, {""id"": 989832044, ""node1"": 120728, ""node2"": 96256, ""type"": 666, ""w"": 3.0}]",r_associated,146.0
+saucisson,vrai,amod,ADJ,0.5116873383522034,"[{""id"": 373015030, ""node1"": 34296, ""node2"": 64585, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+planche,saucisson,nmod,NOUN,0.5602753758430481,[],,

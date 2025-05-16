@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+riz,libanais,amod,ADJ,0.6337245106697083,[],,
+riz,façon,nmod,NOUN,0.691824734210968,[],,
+façon,papa,nmod,NOUN,0.4343400001525879,[],,
+façon,ingrédient,nmod,NOUN,0.5542503595352173,[],,
+riz,huile,appos,NOUN,0.7102978229522705,[],,
+riz,cube,obj,NOUN,0.6653414368629456,[],,
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+casserole,pinceau,obj,NOUN,0.5712795853614807,[],,
+pinceau,cuillère,nmod,NOUN,0.5075318813323975,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,couvercle,nmod,NOUN,0.6197326183319092,[],,
+couvercle,saladier,nmod,NOUN,0.6053080558776855,[],,
+couvercle,étape,nmod,NOUN,0.4822983145713806,[],,
+casserole,fond,obj,NOUN,0.5823787450790405,"[{""id"": 9995395, ""node1"": 57253, ""node2"": 119272, ""type"": 0, ""w"": 14.0}, {""id"": 2045151, ""node1"": 57253, ""node2"": 119272, ""type"": 9, ""w"": 60.0}]",r_has_part,60.0
+fond,casserole,nmod,NOUN,0.5823787450790405,"[{""id"": 98852292, ""node1"": 119272, ""node2"": 57253, ""type"": 0, ""w"": 17.0}, {""id"": 9995396, ""node1"": 119272, ""node2"": 57253, ""type"": 10, ""w"": 19.0}]",r_holo,19.0
+casserole,huile,nmod,NOUN,0.6577023863792419,[],,
+ajouter,cheveu,obj,NOUN,0.4763331413269043,[],,
+mettre,cube,obj,NOUN,0.5085934996604919,[],,
+eau,chaud,amod,ADJ,0.6026924252510071,"[{""id"": 915041142, ""node1"": 65012, ""node2"": 19150, ""type"": 0, ""w"": 20.0}, {""id"": 432164, ""node1"": 65012, ""node2"": 19150, ""type"": 17, ""w"": 131.0}]",r_carac,131.0
+eau,écraser,acl,VERB,0.5632379651069641,[],,
+eau,recouvrir,acl,VERB,0.5683361291885376,"[{""id"": 1030660857, ""node1"": 65012, ""node2"": 26206, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+recouvrir,mélange,obj,NOUN,0.5647305846214294,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+cuire,recouvrir,advcl,VERB,0.6995803713798523,[],,
+recouvrir,casserole,obj,NOUN,0.6418046951293945,[],,
+sec,riz,nsubj,NOUN,0.6641947627067566,[],,
+rajouter,sec,advcl,ADJ,0.46604123711586,[],,
+quantité,petit,amod,ADJ,0.56585693359375,"[{""id"": 892024045, ""node1"": 78869, ""node2"": 55222, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+eau,quantité,nmod,NOUN,0.5596113204956055,"[{""id"": 1030694969, ""node1"": 65012, ""node2"": 78869, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+devoir,riz,nsubj,NOUN,0.6619561314582825,[],,

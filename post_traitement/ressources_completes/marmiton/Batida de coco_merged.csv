@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+ingrédient,coco,amod,ADP,0.5981916785240173,[],,
+titre,lait,nmod,NOUN,0.5577202439308167,[],,
+lait,glace,nmod,NOUN,0.6265793442726135,"[{""id"": 1046682898, ""node1"": 86296, ""node2"": 141964, ""type"": 51, ""w"": 20.0}]",r_mater>object,20.0
+lait,noix,nmod,NOUN,0.6229388117790222,[],,
+noix,menthe,acl,VERB,0.5954707860946655,[],,
+lait,saladier,nmod,NOUN,0.6384831666946411,[],,
+saladier,fouet,nmod,NOUN,0.5588916540145874,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+fouet,mixeur,nmod,NOUN,0.5370940566062927,[],,
+fouet,cuillère,nmod,NOUN,0.5491861701011658,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+saladier,grand,amod,ADJ,0.534858763217926,"[{""id"": 1077330492, ""node1"": 45455, ""node2"": 23178, ""type"": 0, ""w"": 50.0}, {""id"": 31838076, ""node1"": 45455, ""node2"": 23178, ""type"": 17, ""w"": 60.0}, {""id"": 1668931, ""node1"": 45455, ""node2"": 23178, ""type"": 666, ""w"": 2.0}]",r_carac,60.0
+lait,verser,acl,VERB,0.5939220190048218,"[{""id"": 15064081, ""node1"": 86296, ""node2"": 104506, ""type"": 26, ""w"": 31.0}]",r_patient-1,31.0
+verser,lait,obj,NOUN,0.5939220190048218,"[{""id"": 2147735, ""node1"": 104506, ""node2"": 86296, ""type"": 14, ""w"": 30.0}, {""id"": 645787359, ""node1"": 104506, ""node2"": 86296, ""type"": 666, ""w"": 2.0}]",r_patient,30.0
+lait,coco,nmod,ADV,0.5941302180290222,"[{""id"": 796793155, ""node1"": 86296, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+titre,glace,nmod,NOUN,0.5293558239936829,[],,
+bras,mixer,acl,VERB,0.4711162149906158,[],,
+mélanger,avoir,advcl,VERB,0.4351373016834259,[],,
+mousseux,mélange,nsubj,NOUN,0.5410990118980408,[],,
+manque,verser,advcl,VERB,0.4784108102321625,[],,
+paille,menthe,nmod,NOUN,0.5753849744796753,[],,

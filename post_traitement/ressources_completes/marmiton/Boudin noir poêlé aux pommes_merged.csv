@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+pomme,ingrédient,nmod,NOUN,0.6517195105552673,[],,
+pomme,beurre,appos,NOUN,0.6986082196235657,"[{""id"": 423545892, ""node1"": 37201, ""node2"": 140377, ""type"": 0, ""w"": 21.0}, {""id"": 4965768, ""node1"": 37201, ""node2"": 140377, ""type"": 777, ""w"": 2.0}]",r_associated,21.0
+beurre,boudin,nmod,NOUN,0.6945715546607971,[],,
+beurre,noir,amod,ADJ,0.6023449301719666,"[{""id"": 24959078, ""node1"": 140377, ""node2"": 64238, ""type"": 17, ""w"": 37.0}, {""id"": 3179787, ""node1"": 140377, ""node2"": 64238, ""type"": 106, ""w"": 1.0}]",r_carac,37.0
+pomme,citron,nmod,NOUN,0.6272388696670532,"[{""id"": 418275926, ""node1"": 37201, ""node2"": 15386, ""type"": 0, ""w"": 34.0}, {""id"": 4964999, ""node1"": 37201, ""node2"": 15386, ""type"": 777, ""w"": 2.0}]",r_associated,34.0
+pinceau,balance,nmod,NOUN,0.4696744382381439,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+quartier,jus,nmod,NOUN,0.5547372698783875,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+réserver,jus,obj,NOUN,0.5797170400619507,[],,
+jus,agrémenter,acl,ADJ,0.5741444230079651,[],,
+couper,quartier,obj,NOUN,0.4598008692264557,"[{""id"": 796692988, ""node1"": 128828, ""node2"": 1055, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+revenir,quartier,obj,NOUN,0.4536069333553314,[],,
+gramme,beurre,nmod,NOUN,0.6074452996253967,[],,
+couvrir,poêle,obj,NOUN,0.6677884459495544,"[{""id"": 31871240, ""node1"": 119824, ""node2"": 119686, ""type"": 14, ""w"": 52.0}]",r_patient,52.0
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+poêle,autre,amod,ADJ,0.6494198441505432,[],,
+réserver,faire,advcl,VERB,0.4742717444896698,[],,
+reste,beurre,nmod,NOUN,0.6629992127418518,[],,
+revenir,morceau,obj,NOUN,0.5735010504722595,[],,
+morceau,boudin,nmod,NOUN,0.6113142371177673,[],,
+feu,fort,amod,ADV,0.5296592116355896,"[{""id"": 31823581, ""node1"": 143703, ""node2"": 54186, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+suite,cuisson,nmod,NOUN,0.6287470459938049,[],,
+cuisson,devoir,acl:relcl,VERB,0.6578638553619385,[],,
+cuire,boudin,obj,NOUN,0.7537581920623779,[],,
+côté,tout,amod,ADJ,0.4549163579940796,[],,
+boudin,côté,nmod,NOUN,0.5493684411048889,[],,
+noir,surface,nsubj,NOUN,0.4879284203052521,[],,
+servir,boudin,obj,NOUN,0.6168987154960632,[],,
+servir,accompagner,advcl,VERB,0.4404352605342865,[],,

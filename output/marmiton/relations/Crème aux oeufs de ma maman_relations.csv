@@ -1,0 +1,53 @@
+node1,node2,relations
+oeuf,maman,[]
+maman,ingrédient,[]
+crème,sucre,"[{""id"": 561269855, ""node1"": 44001, ""node2"": 139481, ""type"": 0, ""w"": 61.0}]"
+sucre,oeuf,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]"
+oeuf,lait,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]"
+lait,sucre,[]
+sucre,vanillé,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]"
+sucre,caramel,"[{""id"": 389171, ""node1"": 139481, ""node2"": 67525, ""type"": 0, ""w"": 144.0}, {""id"": 2438125, ""node1"": 139481, ""node2"": 67525, ""type"": 10, ""w"": 28.0}, {""id"": 1656504, ""node1"": 139481, ""node2"": 67525, ""type"": 20, ""w"": 60.0}, {""id"": 34297360, ""node1"": 139481, ""node2"": 67525, ""type"": 51, ""w"": 49.0}, {""id"": 646152035, ""node1"": 139481, ""node2"": 67525, ""type"": 666, ""w"": 7.0}]"
+sucre,saladier,[]
+saladier,fouet,[]
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 307.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 267.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+fouet,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,four,[]
+four,moule,"[{""id"": 914324367, ""node1"": 9190, ""node2"": 143723, ""type"": 0, ""w"": 20.0}, {""id"": 149292258, ""node1"": 9190, ""node2"": 143723, ""type"": 28, ""w"": 71.0}]"
+sucre,manquer,[]
+manquer,balance,[]
+balance,cuisine,[]
+balance,plat,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]"
+balance,étape,[]
+sucre,mettre,"[{""id"": 892952620, ""node1"": 139481, ""node2"": 132366, ""type"": 0, ""w"": 20.0}, {""id"": 374875300, ""node1"": 139481, ""node2"": 132366, ""type"": 26, ""w"": 100.0}]"
+sucre,lait,[]
+battre,œuf,[]
+saladier,grand,"[{""id"": 1077330492, ""node1"": 45455, ""node2"": 23178, ""type"": 0, ""w"": 50.0}, {""id"": 31838076, ""node1"": 45455, ""node2"": 23178, ""type"": 17, ""w"": 60.0}, {""id"": 1668931, ""node1"": 45455, ""node2"": 23178, ""type"": 666, ""w"": 2.0}]"
+saladier,sucre,[]
+blanchir,mélange,[]
+chaud,lait,"[{""id"": 14796670, ""node1"": 19150, ""node2"": 86296, ""type"": 23, ""w"": 46.0}]"
+préparation,œuf,[]
+moule,grand,[]
+prendre,moule,[]
+moule,manqué,"[{""id"": 799188855, ""node1"": 143723, ""node2"": 143990, ""type"": 0, ""w"": 24.0}]"
+verser,préparation,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]"
+préalable,caramel,[]
+caramel,fond,[]
+fond,moule,"[{""id"": 796741908, ""node1"": 119272, ""node2"": 143723, ""type"": 0, ""w"": 30.0}, {""id"": 961890616, ""node1"": 119272, ""node2"": 143723, ""type"": 10, ""w"": 25.0}]"
+four,thermostat,"[{""id"": 391935, ""node1"": 9190, ""node2"": 130331, ""type"": 0, ""w"": 54.0}, {""id"": 115475, ""node1"": 9190, ""node2"": 130331, ""type"": 9, ""w"": 165.0}, {""id"": 1026722506, ""node1"": 9190, ""node2"": 130331, ""type"": 82, ""w"": 30.0}]"
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,[]
+four,180,[]
+utiliser,cuire,[]
+cuire,minute,[]
+minute,bain,[]
+cuire,cuire,"[{""id"": 292374, ""node1"": 5115, ""node2"": 5115, ""type"": 19, ""w"": 274.0}]"
+cuire,marier,[]
+utiliser,lèche,[]
+plat,grand,[]
+plat,remplir,"[{""id"": 276039, ""node1"": 36327, ""node2"": 95980, ""type"": 25, ""w"": 80.0}]"
+dépose,moule,[]
+moule,centre,[]
+fin,cuisson,[]
+devoir,crème,[]
+refroidir,déguster,[]

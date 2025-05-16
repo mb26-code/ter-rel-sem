@@ -1,0 +1,41 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,salade,appos,NOUN,0.5926524996757507,[],,
+salade,blé,nmod,NOUN,0.617585301399231,[],,
+salade,version,nmod,NOUN,0.5961271524429321,[],,
+version,gourmand,amod,ADJ,0.4940576255321502,[],,
+salade,ingrédient,nmod,NOUN,0.7127874493598938,[],,
+salade,poivre,nmod,NOUN,0.7452256679534912,"[{""id"": 97758233, ""node1"": 118908, ""node2"": 139597, ""type"": 0, ""w"": 35.0}, {""id"": 97758234, ""node1"": 118908, ""node2"": 139597, ""type"": 9, ""w"": 40.0}]",r_has_part,40.0
+poivre,tomate,obj,NOUN,0.6968331336975098,[],,
+poivre,échalote,obj,NOUN,0.6468887329101562,"[{""id"": 584573848, ""node1"": 139597, ""node2"": 41642, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+poivre,vinaigre,nmod,NOUN,0.6644958257675171,"[{""id"": 584573829, ""node1"": 139597, ""node2"": 145443, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+vinaigre,balsamique,amod,ADJ,0.5980404615402222,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]",r_associated,166.0
+échalote,ancien,amod,ADJ,0.5042637586593628,[],,
+échalote,huile,amod,NOUN,0.6143849492073059,[],,
+pinceau,cuillère,nmod,NOUN,0.5075318813323975,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,saladier,nmod,NOUN,0.6106023788452148,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+titre,mettre,acl,VERB,0.4057502150535583,[],,
+eau,chaud,amod,ADJ,0.6026924252510071,"[{""id"": 915041142, ""node1"": 65012, ""node2"": 19150, ""type"": 0, ""w"": 20.0}, {""id"": 432164, ""node1"": 65012, ""node2"": 19150, ""type"": 17, ""w"": 131.0}]",r_carac,131.0
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+eau,minute,nmod,NOUN,0.5597324967384338,[],,
+filet,huile,nmod,NOUN,0.6150403022766113,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+filet,échalote,appos,NOUN,0.6085570454597473,[],,
+minute,feu,nmod,NOUN,0.5576279163360596,[],,
+minute,moyen,amod,ADJ,0.4634239375591278,[],,
+ajouter,goutte,obj,NOUN,0.5042680501937866,[],,
+cuisson,couper,acl,VERB,0.6758419275283813,[],,
+cuisson,tomate,nmod,NOUN,0.7748981714248657,[],,
+retirer,courgette,obj,NOUN,0.5960180163383484,[],,
+courgette,feu,nmod,NOUN,0.61329585313797,[],,
+filet,dorer,acl,VERB,0.6001845598220825,[],,
+minute,fort,amod,ADV,0.4198819398880005,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+faire,vinaigrette,obj,NOUN,0.6217663288116455,[],,
+faire,mélanger,advcl,VERB,0.5297929048538208,[],,
+mélanger,huile,obj,NOUN,0.6307845115661621,"[{""id"": 376200336, ""node1"": 37151, ""node2"": 141971, ""type"": 16, ""w"": 26.0}]",r_instr,26.0
+moutarde,sel,appos,NOUN,0.6875824332237244,"[{""id"": 652308756, ""node1"": 28335, ""node2"": 13260, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+sel,poivre,nmod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+moutarde,vinaigre,appos,NOUN,0.6449266076087952,"[{""id"": 642040832, ""node1"": 28335, ""node2"": 145443, ""type"": 0, ""w"": 29.0}, {""id"": 113266845, ""node1"": 28335, ""node2"": 145443, ""type"": 777, ""w"": 10.0}]",r_associated,29.0
+mettre,servir,advcl,VERB,0.4629862010478973,[],,

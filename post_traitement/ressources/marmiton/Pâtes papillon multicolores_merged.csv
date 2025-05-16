@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relation
+pâte,papillon,amod,PROPN,0.627041757106781,[]
+pâte,multicolore,amod,ADJ,0.6350082159042358,[]
+pâte,ingrédient,nmod,NOUN,0.6811284422874451,"[{""id"": 24920568, ""node1"": 34069, ""node2"": 123418, ""type"": 6, ""w"": 17.0}]"
+pâte,beurre,amod,NOUN,0.708305299282074,"[{""id"": 96931349, ""node1"": 34069, ""node2"": 140377, ""type"": 50, ""w"": 15.0}, {""id"": 18159381, ""node1"": 34069, ""node2"": 140377, ""type"": 777, ""w"": 10.0}]"
+beurre,sel,nmod,NOUN,0.7119027376174927,"[{""id"": 9986816, ""node1"": 140377, ""node2"": 13260, ""type"": 0, ""w"": 43.0}, {""id"": 649508, ""node1"": 140377, ""node2"": 13260, ""type"": 9, ""w"": 56.0}, {""id"": 3979381, ""node1"": 140377, ""node2"": 13260, ""type"": 777, ""w"": 10.0}]"
+tomate,papillon,amod,NOUN,0.5908342003822327,"[{""id"": 442540683, ""node1"": 22138, ""node2"": 18285, ""type"": 777, ""w"": 10.0}]"
+pâte,top,nmod,NOUN,0.5758959650993347,[]
+pâte,casserole,nmod,NOUN,0.6972867250442505,[]
+casserole,cuillère,nmod,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]"
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,balance,nmod,NOUN,0.5329062342643738,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+balance,étape,nmod,NOUN,0.4149083495140075,[]
+pâte,cuire,acl,VERB,0.7488689422607422,"[{""id"": 987166482, ""node1"": 34069, ""node2"": 5115, ""type"": 25, ""w"": -25.0}, {""id"": 96931380, ""node1"": 34069, ""node2"": 5115, ""type"": 26, ""w"": 32.0}]"
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]"
+ajouter,cuire,advcl,VERB,0.695756196975708,[]
+ajouter,poivron,nsubj,NOUN,0.6378853917121887,[]
+poivron,casserole,nmod,NOUN,0.7306476831436157,[]
+casserole,beurre,nmod,NOUN,0.732474684715271,"[{""id"": 561074636, ""node1"": 57253, ""node2"": 140377, ""type"": 0, ""w"": 32.0}, {""id"": 98347800, ""node1"": 57253, ""node2"": 140377, ""type"": 28, ""w"": 11.0}]"
+ajouter,pâte,obj,NOUN,0.6482475399971008,[]
+pâte,cuit,acl,ADJ,0.7514774203300476,[]
+mozzarella,couper,acl,VERB,0.5374503135681152,"[{""id"": 31823695, ""node1"": 120576, ""node2"": 128828, ""type"": 26, ""w"": 51.0}]"

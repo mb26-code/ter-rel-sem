@@ -1,0 +1,42 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+ingrédient,sel,appos,NOUN,0.6997572183609009,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,poireau,nmod,NOUN,0.6779045462608337,[],,
+poireau,carotte,amod,ADJ,0.6094618439674377,"[{""id"": 270426, ""node1"": 130303, ""node2"": 76234, ""type"": 0, ""w"": 72.0}]",r_associated,72.0
+ingrédient,chou,appos,NOUN,0.6174046993255615,[],,
+chou,haricot,nmod,NOUN,0.5585371851921082,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,bouquet,nmod,NOUN,0.5841546654701233,[],,
+bouquet,garni,amod,ADJ,0.4469667077064514,[],,
+ingrédient,veille,nmod,NOUN,0.5909719467163086,[],,
+ingrédient,mettre,acl,VERB,0.5923328399658203,[],,
+mettre,haricot,obj,NOUN,0.5464017391204834,[],,
+haricot,blanc,amod,ADJ,0.5464168787002563,"[{""id"": 2193506, ""node1"": 114886, ""node2"": 15196, ""type"": 0, ""w"": 93.0}, {""id"": 1774170, ""node1"": 114886, ""node2"": 15196, ""type"": 17, ""w"": 26.0}, {""id"": 3163695, ""node1"": 114886, ""node2"": 15196, ""type"": 106, ""w"": 14.0}, {""id"": 1802800, ""node1"": 114886, ""node2"": 15196, ""type"": 666, ""w"": 1.0}]",r_associated,93.0
+mettre,tremper,advcl,VERB,0.4966565370559692,"[{""id"": 899475126, ""node1"": 132366, ""node2"": 119858, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+lendemain,placer,acl,VERB,0.4352014362812042,[],,
+lendemain,haricot,nmod,NOUN,0.514956533908844,[],,
+haricot,égoutter,acl,VERB,0.5630395412445068,[],,
+oignon,entier,amod,ADJ,0.5619508028030396,[],,
+oignon,piquer,amod,ADJ,0.621706485748291,[],,
+oignon,clou,nmod,NOUN,0.5263824462890625,[],,
+clou,girofle,nmod,NOUN,0.4290643036365509,"[{""id"": 9902807, ""node1"": 11651, ""node2"": 43873, ""type"": 0, ""w"": 55.0}, {""id"": 413873, ""node1"": 11651, ""node2"": 43873, ""type"": 8, ""w"": 111.0}]",r_hypo,111.0
+mouiller,eau,nmod,NOUN,0.5577380061149597,"[{""id"": 143033, ""node1"": 2344, ""node2"": 65012, ""type"": 0, ""w"": 148.0}, {""id"": 31129134, ""node1"": 2344, ""node2"": 65012, ""type"": 3, ""w"": 34.0}, {""id"": 165889, ""node1"": 2344, ""node2"": 65012, ""type"": 13, ""w"": 235.0}, {""id"": 1034996582, ""node1"": 2344, ""node2"": 65012, ""type"": 14, ""w"": -25.0}, {""id"": 376201088, ""node1"": 2344, ""node2"": 65012, ""type"": 16, ""w"": 26.0}, {""id"": 262323, ""node1"": 2344, ""node2"": 65012, ""type"": 31, ""w"": 90.0}, {""id"": 687010436, ""node1"": 2344, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]",r_agent,235.0
+réduire,feu,nmod,NOUN,0.5594683289527893,[],,
+feu,modérer,amod,ADJ,0.5464203953742981,[],,
+nettoyer,chou,obj,NOUN,0.5895164608955383,[],,
+plonger,feuille,obj,NOUN,0.5270071029663086,[],,
+eau,saler,acl,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+eau,min,nmod,NOUN,0.4966203570365906,[],,
+plonger,blanchir,advcl,VERB,0.474832534790039,[],,
+bout,heure,nmod,NOUN,0.4116244316101074,[],,
+heure,cuisson,nmod,NOUN,0.6170463562011719,[],,
+bout,incorporer,acl,VERB,0.4518861770629883,[],,
+incorporer,légume,obj,NOUN,0.6946993470191956,[],,
+poursuivre,lard,nsubj,NOUN,0.5569193363189697,[],,
+poursuivre,cuisson,obj,NOUN,0.6843500733375549,[],,
+mettre,pomme,obj,NOUN,0.6015596985816956,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+reste,préparation,nmod,NOUN,0.5082931518554688,[],,
+préparation,arroser,acl,VERB,0.5350148677825928,"[{""id"": 601611491, ""node1"": 33634, ""node2"": 67803, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0

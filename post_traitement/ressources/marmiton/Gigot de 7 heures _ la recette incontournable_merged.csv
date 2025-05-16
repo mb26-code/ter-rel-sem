@@ -1,0 +1,39 @@
+head,lemma,dep,pos,sim,relation
+recette,incontournable,amod,ADJ,0.6111178994178772,[]
+recette,ingrédient,nmod,NOUN,0.6639032363891602,"[{""id"": 2195354, ""node1"": 120188, ""node2"": 123418, ""type"": 0, ""w"": 88.0}, {""id"": 9623475, ""node1"": 120188, ""node2"": 123418, ""type"": 8, ""w"": -16.0}, {""id"": 98281124, ""node1"": 120188, ""node2"": 123418, ""type"": 9, ""w"": 35.0}, {""id"": 8841780, ""node1"": 120188, ""node2"": 123418, ""type"": 35, ""w"": 55.0}]"
+ingrédient,carotte,appos,NOUN,0.6786724925041199,[]
+ingrédient,bouillon,nmod,NOUN,0.7058120369911194,[]
+bouillon,boeuf,nmod,NOUN,0.6349595785140991,[]
+boeuf,cognac,amod,NOUN,0.5896210670471191,[]
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]"
+sel,agneau,nmod,ADJ,0.7114691138267517,"[{""id"": 918725510, ""node1"": 13260, ""node2"": 128646, ""type"": 0, ""w"": 20.0}]"
+ingrédient,tomate,amod,NOUN,0.6937788128852844,"[{""id"": 24923444, ""node1"": 123418, ""node2"": 22138, ""type"": 0, ""w"": 15.0}, {""id"": 24850720, ""node1"": 123418, ""node2"": 22138, ""type"": 8, ""w"": 30.0}]"
+ingrédient,bouquet,nmod,NOUN,0.5757981538772583,[]
+bouquet,garni,amod,ADJ,0.4469667077064514,[]
+bouquet,huile,amod,NOUN,0.6044185757637024,[]
+bouquet,vin,nmod,NOUN,0.5903854966163635,"[{""id"": 98891356, ""node1"": 34381, ""node2"": 35798, ""type"": 0, ""w"": 822.0}, {""id"": 207196520, ""node1"": 34381, ""node2"": 35798, ""type"": 3, ""w"": 35.0}, {""id"": 206541893, ""node1"": 34381, ""node2"": 35798, ""type"": 23, ""w"": 37.0}, {""id"": 98895336, ""node1"": 34381, ""node2"": 35798, ""type"": 35, ""w"": 53.0}, {""id"": 6631469, ""node1"": 34381, ""node2"": 35798, ""type"": 777, ""w"": 10.0}]"
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]"
+set,poêle,nmod,NOUN,0.5301709771156311,[]
+set,four,nmod,NOUN,0.553033173084259,[]
+four,couteau,nmod,NOUN,0.6828393340110779,[]
+four,étape,nmod,NOUN,0.6555838584899902,[]
+recette,saler,nmod,VERB,0.7007880210876465,[]
+huile,chaud,amod,ADJ,0.6474975347518921,"[{""id"": 669874570, ""node1"": 141971, ""node2"": 19150, ""type"": 0, ""w"": 21.0}, {""id"": 24929996, ""node1"": 141971, ""node2"": 19150, ""type"": 17, ""w"": 76.0}]"
+fond,cocotte,nmod,NOUN,0.6193427443504333,[]
+cocotte,gras,appos,NOUN,0.6337961554527283,[]
+gras,extérieur,nmod,NOUN,0.514622688293457,[]
+entourer,carotte,obj,NOUN,0.5583125352859497,[]
+ajouter,reste,obj,NOUN,0.454963743686676,[]
+reste,ingrédient,nmod,NOUN,0.5645049810409546,[]
+cuire,heure,obj,NOUN,0.6720207929611206,[]
+four,170,nmod,NUM,0.4763272702693939,[]
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,nmod,NOUN,0.4225132167339325,[]
+note,cuire,acl,VERB,0.675853967666626,[]
+cuire,c,obj,NOUN,0.4126093685626983,[]
+surveiller,cuisson,obj,NOUN,0.6946427226066589,"[{""id"": 1007853514, ""node1"": 39170, ""node2"": 60056, ""type"": 14, ""w"": 31.0}]"
+eau,nécessaire,amod,ADJ,0.5489293336868286,[]
+rectifier,assaisonnement,obj,NOUN,0.5303710103034973,"[{""id"": 15080476, ""node1"": 36001, ""node2"": 15763, ""type"": 14, ""w"": 30.0}]"
+cuillère,cocotte,nmod,NOUN,0.6494348645210266,[]
+rectifier,particularité,obj,NOUN,0.4166877567768097,[]
+rectifier,fondre,advcl,VERB,0.4958588480949402,[]

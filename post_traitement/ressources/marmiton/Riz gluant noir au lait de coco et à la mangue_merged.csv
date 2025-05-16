@@ -1,0 +1,41 @@
+head,lemma,dep,pos,sim,relation
+lait,coco,nmod,ADV,0.5941302180290222,"[{""id"": 796793155, ""node1"": 86296, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]"
+mangue,ingrédient,nmod,NOUN,0.6439843773841858,[]
+mangue,sel,appos,NOUN,0.7241374254226685,[]
+sel,sucre,acl,NOUN,0.6925632357597351,"[{""id"": 183179, ""node1"": 13260, ""node2"": 139481, ""type"": 0, ""w"": 182.0}, {""id"": 377013894, ""node1"": 13260, ""node2"": 139481, ""type"": 20, ""w"": 30.0}, {""id"": 377000348, ""node1"": 13260, ""node2"": 139481, ""type"": 21, ""w"": 28.0}, {""id"": 1032957125, ""node1"": 13260, ""node2"": 139481, ""type"": 78, ""w"": 32.0}]"
+sucre,lait,nmod,NOUN,0.6437966823577881,[]
+lait,mangue,nmod,NOUN,0.6278245449066162,[]
+lait,casserole,nmod,NOUN,0.6534469127655029,"[{""id"": 14379697, ""node1"": 86296, ""node2"": 57253, ""type"": 0, ""w"": 71.0}, {""id"": 104956884, ""node1"": 86296, ""node2"": 57253, ""type"": 15, ""w"": 22.0}]"
+casserole,couteau,appos,NOUN,0.6493775248527527,[]
+couteau,planche,nmod,NOUN,0.5392133593559265,"[{""id"": 799042318, ""node1"": 32610, ""node2"": 120728, ""type"": 0, ""w"": 23.0}]"
+casserole,découper,advcl,VERB,0.6361495852470398,[]
+découper,balance,obj,NOUN,0.4950466752052307,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+balance,étape,nmod,NOUN,0.4149083495140075,[]
+tremper,riz,obj,NOUN,0.6924734115600586,[]
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]"
+eau,chaud,amod,ADJ,0.6026924252510071,"[{""id"": 915041142, ""node1"": 65012, ""node2"": 19150, ""type"": 0, ""w"": 20.0}, {""id"": 432164, ""node1"": 65012, ""node2"": 19150, ""type"": 17, ""w"": 131.0}]"
+fois,eau,nmod,NOUN,0.5474652051925659,[]
+eau,clair,amod,ADJ,0.5482907891273499,"[{""id"": 3126135, ""node1"": 65012, ""node2"": 4215, ""type"": 0, ""w"": 27.0}, {""id"": 3180293, ""node1"": 65012, ""node2"": 4215, ""type"": 106, ""w"": 1.0}]"
+trouble,eau,nsubj,NOUN,0.5349376797676086,"[{""id"": 217982, ""node1"": 141451, ""node2"": 65012, ""type"": 0, ""w"": 160.0}, {""id"": 514114749, ""node1"": 141451, ""node2"": 65012, ""type"": 23, ""w"": 3.0}]"
+ébullition,casserole,nmod,NOUN,0.5843204855918884,"[{""id"": 984351084, ""node1"": 83252, ""node2"": 57253, ""type"": 666, ""w"": 3.0}]"
+poursuivre,cuisson,obj,NOUN,0.6843500733375549,[]
+cuisson,feu,nmod,NOUN,0.6483181118965149,"[{""id"": 53757049, ""node1"": 60056, ""node2"": 143703, ""type"": 0, ""w"": 22.0}, {""id"": 53594904, ""node1"": 60056, ""node2"": 143703, ""type"": 5, ""w"": 65.0}, {""id"": 14675290, ""node1"": 60056, ""node2"": 143703, ""type"": 42, ""w"": 35.0}, {""id"": 1066090857, ""node1"": 60056, ""node2"": 143703, ""type"": 129, ""w"": 28.0}]"
+feu,moyen,amod,ADJ,0.5528092384338379,[]
+poursuivre,remuer,advcl,VERB,0.4791028201580047,[]
+remuer,temps,obj,NOUN,0.5274296998977661,[]
+eau,tout,amod,ADJ,0.58939129114151,[]
+disparaître,eau,nsubj,NOUN,0.5436739921569824,"[{""id"": 558640325, ""node1"": 20601, ""node2"": 65012, ""type"": 0, ""w"": 27.0}]"
+égoutter,riz,obj,NOUN,0.6822848320007324,[]
+feu,doux,amod,ADJ,0.5496628284454346,[]
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]"
+ajouter,sel,obj,NOUN,0.6747812032699585,"[{""id"": 914306223, ""node1"": 25099, ""node2"": 13260, ""type"": 0, ""w"": 20.0}, {""id"": 220261, ""node1"": 25099, ""node2"": 13260, ""type"": 14, ""w"": 70.0}]"
+moitié,lait,nmod,NOUN,0.5975773930549622,[]
+lait,remuer,acl,VERB,0.6376726031303406,[]
+dissoudre,sucre,obj,NOUN,0.6331807374954224,"[{""id"": 1377943, ""node1"": 90446, ""node2"": 139481, ""type"": 0, ""w"": 32.0}, {""id"": 1053467445, ""node1"": 90446, ""node2"": 139481, ""type"": 666, ""w"": 2.0}]"
+absorber,lait,obj,NOUN,0.5745741128921509,[]
+verser,reste,obj,NOUN,0.494085282087326,[]
+reste,lait,nmod,NOUN,0.5964831113815308,[]
+découper,mangue,obj,NOUN,0.595652163028717,[]
+servir,riz,obj,NOUN,0.6907877326011658,"[{""id"": 433854265, ""node1"": 7888, ""node2"": 24372, ""type"": 14, ""w"": 31.0}]"
+morceau,mangue,nmod,NOUN,0.636008620262146,[]

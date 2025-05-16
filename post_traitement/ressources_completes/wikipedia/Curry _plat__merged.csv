@@ -113,7 +113,7 @@ café,Grande-Bretagne,nmod,PROPN,0.5153734087944031,[],,
 servir,devenir,advcl,VERB,0.4511089622974396,[],,
 introduire,curry,nsubj:pass,NOUN,0.6614553928375244,[],,
 arriver,curry,nsubj:pass,NOUN,0.6756643652915955,[],,
-livre,cuisine,nmod,NOUN,0.6082427501678467,"[{""id"": 796690394, ""node1"": 142787, ""node2"": 16033, ""type"": 0, ""w"": 27.0}, {""id"": 661863037, ""node1"": 142787, ""node2"": 16033, ""type"": 142, ""w"": 30.0}]",r_associated,27.0
+livre,cuisine,nmod,NOUN,0.6082427501678467,"[{""id"": 796690394, ""node1"": 142787, ""node2"": 16033, ""type"": 0, ""w"": 27.0}, {""id"": 661863037, ""node1"": 142787, ""node2"": 16033, ""type"": 142, ""w"": 30.0}]",r_has_topic,30.0
 trouver,recette,obj,NOUN,0.6043047308921814,[],,
 recette,curry,nmod,NOUN,0.7093616724014282,[],,
 recette,poulet,nmod,NOUN,0.7194909453392029,"[{""id"": 14659365, ""node1"": 120188, ""node2"": 146261, ""type"": 42, ""w"": 34.0}]",r_has_causatif,34.0
@@ -352,7 +352,7 @@ boulette,cuire,acl,VERB,0.753105640411377,[],,
 mets,assortiment,nmod,NOUN,0.4807259142398834,[],,
 assortiment,traditionnel,amod,ADJ,0.4707131087779999,[],,
 curry,important,amod,ADJ,0.6617145538330078,[],,
-curry,cuisine,nmod,NOUN,0.7288459539413452,"[{""id"": 255693, ""node1"": 82813, ""node2"": 16033, ""type"": 0, ""w"": 405.0}, {""id"": 505315, ""node1"": 82813, ""node2"": 16033, ""type"": 3, ""w"": 406.0}, {""id"": 961875288, ""node1"": 82813, ""node2"": 16033, ""type"": 666, ""w"": 3.0}]",r_associated,405.0
+curry,cuisine,nmod,NOUN,0.7288459539413452,"[{""id"": 255693, ""node1"": 82813, ""node2"": 16033, ""type"": 0, ""w"": 405.0}, {""id"": 505315, ""node1"": 82813, ""node2"": 16033, ""type"": 3, ""w"": 406.0}, {""id"": 961875288, ""node1"": 82813, ""node2"": 16033, ""type"": 666, ""w"": 3.0}]",r_domain,406.0
 curry,poulet,nmod,NOUN,0.6693528890609741,"[{""id"": 765200135, ""node1"": 82813, ""node2"": 146261, ""type"": 50, ""w"": 27.0}, {""id"": 961875283, ""node1"": 82813, ""node2"": 146261, ""type"": 666, ""w"": 3.0}]",r_object>mater,27.0
 mélange,autre,amod,ADJ,0.5603907704353333,[],,
 curry,légume,nmod,NOUN,0.7068546414375305,[],,
@@ -454,7 +454,7 @@ poisson,carpe,appos,NOUN,0.4837309122085571,"[{""id"": 110688, ""node1"": 68467,
 légume,haricot,appos,NOUN,0.613368570804596,"[{""id"": 123782, ""node1"": 120603, ""node2"": 114886, ""type"": 0, ""w"": 343.0}, {""id"": 436669, ""node1"": 120603, ""node2"": 114886, ""type"": 8, ""w"": 166.0}, {""id"": 15191978, ""node1"": 120603, ""node2"": 114886, ""type"": 27, ""w"": -23.0}]",r_associated,343.0
 légume,feuille,appos,NOUN,0.65528804063797,"[{""id"": 746606700, ""node1"": 120603, ""node2"": 37993, ""type"": 0, ""w"": 60.0}, {""id"": 74334, ""node1"": 120603, ""node2"": 37993, ""type"": 9, ""w"": 281.0}, {""id"": 3861680, ""node1"": 120603, ""node2"": 37993, ""type"": 777, ""w"": 10.0}]",r_has_part,281.0
 feuille,manioc,nmod,NOUN,0.5665282607078552,[],,
-légume,cuire,acl,VERB,0.8004546165466309,"[{""id"": 660236, ""node1"": 120603, ""node2"": 5115, ""type"": 0, ""w"": 31.0}, {""id"": 14845362, ""node1"": 120603, ""node2"": 5115, ""type"": 24, ""w"": 30.0}, {""id"": 15071520, ""node1"": 120603, ""node2"": 5115, ""type"": 26, ""w"": 33.0}]",r_associated,31.0
+légume,cuire,acl,VERB,0.8004546165466309,"[{""id"": 660236, ""node1"": 120603, ""node2"": 5115, ""type"": 0, ""w"": 31.0}, {""id"": 14845362, ""node1"": 120603, ""node2"": 5115, ""type"": 24, ""w"": 30.0}, {""id"": 15071520, ""node1"": 120603, ""node2"": 5115, ""type"": 26, ""w"": 33.0}]",r_patient-1,33.0
 sauce,épicé,amod,ADJ,0.6996961832046509,"[{""id"": 939870949, ""node1"": 141110, ""node2"": 81389, ""type"": 0, ""w"": 30.0}, {""id"": 1012592145, ""node1"": 141110, ""node2"": 81389, ""type"": 9, ""w"": -30.0}, {""id"": 96715034, ""node1"": 141110, ""node2"": 81389, ""type"": 17, ""w"": 21.0}]",r_associated,30.0
 ingrédient,local,amod,ADJ,0.5239733457565308,[],,
 ingrédient,tel,amod,ADJ,0.4815298616886139,[],,

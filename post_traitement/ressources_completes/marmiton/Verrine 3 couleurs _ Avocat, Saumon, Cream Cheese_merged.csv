@@ -1,0 +1,20 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+avocat,Saumon,appos,PROPN,0.4229423701763153,[],,
+Saumon,ingrédient,nmod,NOUN,0.554498553276062,[],,
+avocat,fumé,amod,ADJ,0.4877796173095703,[],,
+avocat,citron,nmod,NOUN,0.5289339423179626,"[{""id"": 113703329, ""node1"": 104789, ""node2"": 15386, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+couteau,saladier,nmod,NOUN,0.6030980348587036,[],,
+saladier,frigo,nmod,NOUN,0.5944403409957886,[],,
+avocat,couper,acl,VERB,0.4671432077884674,"[{""id"": 1046107230, ""node1"": 104789, ""node2"": 128828, ""type"": 24, ""w"": 21.0}, {""id"": 96739014, ""node1"": 104789, ""node2"": 128828, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+couper,avocat,obj,NOUN,0.4671432077884674,"[{""id"": 1056062652, ""node1"": 128828, ""node2"": 104789, ""type"": 13, ""w"": 16.0}, {""id"": 97862624, ""node1"": 128828, ""node2"": 104789, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+mélange,sauce,nmod,NOUN,0.7154021263122559,"[{""id"": 920654439, ""node1"": 14800, ""node2"": 141110, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+sauce,soja,amod,NOUN,0.686366856098175,"[{""id"": 558755719, ""node1"": 141110, ""node2"": 78291, ""type"": 0, ""w"": 41.0}, {""id"": 246329893, ""node1"": 141110, ""node2"": 78291, ""type"": 8, ""w"": 31.0}, {""id"": 651031297, ""node1"": 141110, ""node2"": 78291, ""type"": 666, ""w"": 4.0}]",r_associated,41.0
+couper,saumon,obj,NOUN,0.6225590705871582,[],,
+couche,saumon,nmod,ADV,0.6066499352455139,[],,
+saumon,fumé,amod,ADJ,0.5537497997283936,"[{""id"": 156540, ""node1"": 3361, ""node2"": 23335, ""type"": 0, ""w"": 122.0}, {""id"": 14803107, ""node1"": 3361, ""node2"": 23335, ""type"": 17, ""w"": 22.0}, {""id"": 3189320, ""node1"": 3361, ""node2"": 23335, ""type"": 106, ""w"": -11.0}, {""id"": 502202500, ""node1"": 3361, ""node2"": 23335, ""type"": 666, ""w"": 9.0}]",r_associated,122.0
+couche,ajouter,acl:relcl,VERB,0.4657270014286041,[],,
+ajouter,filet,obj,NOUN,0.5471811890602112,[],,
+filet,jus,nmod,NOUN,0.6035513281822205,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+disposer,ajouter,advcl,VERB,0.4101519584655761,[],,
+ajouter,couche,obj,NOUN,0.4657270014286041,[],,

@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+jambon,ingrédient,nmod,NOUN,0.6720108985900879,"[{""id"": 24850707, ""node1"": 57980, ""node2"": 123418, ""type"": 0, ""w"": 27.0}, {""id"": 24842129, ""node1"": 57980, ""node2"": 123418, ""type"": 6, ""w"": 177.0}]",r_isa,177.0
+jambon,poivre,acl,NOUN,0.6672590970993042,[],,
+poivre,sel,nmod,NOUN,0.6562960147857666,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,farine,nmod,NOUN,0.7043456435203552,[],,
+titre,poudre,nmod,NOUN,0.5449827313423157,[],,
+poudre,lever,acl,VERB,0.5104002952575684,"[{""id"": 83647844, ""node1"": 139470, ""node2"": 51683, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+lever,parmesan,obj,NOUN,0.546450138092041,[],,
+oeuf,lait,nmod,NOUN,0.5855197310447693,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+lait,jambon,nmod,NOUN,0.6170340180397034,"[{""id"": 919859965, ""node1"": 86296, ""node2"": 57980, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+jambon,croire,acl,VERB,0.5832800269126892,[],,
+lever,grille,obj,NOUN,0.4936709403991699,[],,
+grille,pâtisserie,nmod,NOUN,0.5868998169898987,[],,
+grille,moule,nmod,NOUN,0.5600053071975708,[],,
+four,cuillère,nmod,NOUN,0.7080159187316895,[],,
+cuillère,bois,nmod,NOUN,0.5890449285507202,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,couteau,nmod,NOUN,0.5709232091903687,"[{""id"": 139564, ""node1"": 51905, ""node2"": 32610, ""type"": 0, ""w"": 212.0}, {""id"": 87319445, ""node1"": 51905, ""node2"": 32610, ""type"": 666, ""w"": 1.0}]",r_associated,212.0
+cuillère,balance,nmod,NOUN,0.5349035263061523,[],,
+balance,cuisine,nmod,NOUN,0.6009083986282349,[],,
+balance,étape,nmod,NOUN,0.4731250703334808,[],,
+four,200,nmod,NUM,0.50577712059021,[],,
+mélanger,farine,obj,NOUN,0.6647212505340576,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+mélanger,poudre,obj,NOUN,0.6099809408187866,[],,
+lever,sel,obj,NOUN,0.6486191153526306,[],,
+ajouter,oeuf,obj,NOUN,0.5367945432662964,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+incorporer,jambon,obj,NOUN,0.6305850148200989,[],,
+verser,préparation,obj,NOUN,0.5398752093315125,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparation,moule,nmod,NOUN,0.5618036389350891,"[{""id"": 601611756, ""node1"": 33634, ""node2"": 143723, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+niveau,deuxième,amod,ADJ,0.4107973575592041,"[{""id"": 425554320, ""node1"": 64681, ""node2"": 119260, ""type"": 17, ""w"": 81.0}]",r_carac,81.0
+enfourner,niveau,nmod,NOUN,0.5402669310569763,[],,
+bas,four,nmod,NOUN,0.578586995601654,[],,
+minute,cuisson,nmod,NOUN,0.6714344024658203,[],,
+vérifier,cuisson,obj,NOUN,0.6696226000785828,"[{""id"": 31862099, ""node1"": 76431, ""node2"": 60056, ""type"": 14, ""w"": 64.0}]",r_patient,64.0
+cuisson,pointe,nmod,NOUN,0.6905625462532043,[],,
+pointe,couteau,nmod,NOUN,0.5031024217605591,"[{""id"": 8856589, ""node1"": 141611, ""node2"": 32610, ""type"": 0, ""w"": 16.0}, {""id"": 251482, ""node1"": 141611, ""node2"": 32610, ""type"": 10, ""w"": 53.0}]",r_holo,53.0
+bon,appétit,obj,NOUN,0.4761436879634857,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]",r_carac-1,5.0

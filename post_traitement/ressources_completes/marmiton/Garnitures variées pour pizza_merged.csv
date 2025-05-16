@@ -1,0 +1,65 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+garniture,varier,amod,ADJ,0.5358394384384155,[],,
+garniture,pizza,nmod,NOUN,0.6482009291648865,"[{""id"": 2140582, ""node1"": 57803, ""node2"": 109533, ""type"": 0, ""w"": 54.0}]",r_associated,54.0
+pizza,ingrédient,nmod,NOUN,0.6763666272163391,"[{""id"": 24928779, ""node1"": 109533, ""node2"": 123418, ""type"": 6, ""w"": 3.0}, {""id"": 694932809, ""node1"": 109533, ""node2"": 123418, ""type"": 9, ""w"": 30.0}]",r_has_part,30.0
+garniture,fromage,nmod,NOUN,0.7055337429046631,"[{""id"": 115433872, ""node1"": 57803, ""node2"": 141687, ""type"": 9, ""w"": 27.0}]",r_has_part,27.0
+fromage,olive,obj,NOUN,0.6637387871742249,[],,
+olive,crème,nmod,NOUN,0.6481060981750488,[],,
+crème,jambon,nmod,NOUN,0.6742925047874451,[],,
+fromage,fromage,obj,NOUN,0.6008382439613342,"[{""id"": 304209, ""node1"": 141687, ""node2"": 141687, ""type"": 19, ""w"": 251.0}]",r_lemma,251.0
+olive,pignon,nmod,NOUN,0.5590771436691284,[],,
+pignon,fromage,nmod,NOUN,0.5542353987693787,[],,
+olive,oeuf,nmod,NOUN,0.5955610275268555,[],,
+fromage,poivron,obj,NOUN,0.6881162524223328,[],,
+fromage,sauce,obj,NOUN,0.7487807869911194,"[{""id"": 98623321, ""node1"": 141687, ""node2"": 141110, ""type"": 0, ""w"": 22.0}, {""id"": 97415114, ""node1"": 141687, ""node2"": 141110, ""type"": 10, ""w"": 34.0}]",r_holo,34.0
+olive,aubergine,nmod,NOUN,0.5877147912979126,[],,
+olive,viande,nmod,NOUN,0.7153013944625854,[],,
+olive,haché,amod,ADJ,0.6073697805404663,[],,
+coeur,crème,amod,NOUN,0.5864589214324951,"[{""id"": 98622853, ""node1"": 96211, ""node2"": 44001, ""type"": 0, ""w"": 62.0}, {""id"": 97415674, ""node1"": 96211, ""node2"": 44001, ""type"": 10, ""w"": 30.0}]",r_associated,62.0
+coeur,fromage,nmod,NOUN,0.556838870048523,[],,
+pignon,crème,nmod,NOUN,0.5869737267494202,[],,
+olive,kiwi,nmod,PROPN,0.5474323034286499,[],,
+fromage,crème,obj,NOUN,0.6630610227584839,"[{""id"": 96698001, ""node1"": 141687, ""node2"": 44001, ""type"": 0, ""w"": 25.0}, {""id"": 96698102, ""node1"": 141687, ""node2"": 44001, ""type"": 9, ""w"": 27.0}, {""id"": 96698119, ""node1"": 141687, ""node2"": 44001, ""type"": 50, ""w"": 36.0}, {""id"": 3175706, ""node1"": 141687, ""node2"": 44001, ""type"": 106, ""w"": 51.0}, {""id"": 508325373, ""node1"": 141687, ""node2"": 44001, ""type"": 666, ""w"": 2.0}]",r_has_color,51.0
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+olive,crevette,nmod,NOUN,0.6142261624336243,[],,
+fromage,avocat,obj,NOUN,0.5488378405570984,[],,
+avocat,citron,nmod,NOUN,0.5289339423179626,"[{""id"": 113703329, ""node1"": 104789, ""node2"": 15386, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+oeuf,fromage,appos,NOUN,0.5934737324714661,"[{""id"": 584561366, ""node1"": 116175, ""node2"": 141687, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+olive,bacon,nmod,NOUN,0.6531751155853271,[],,
+olive,chou-fleur,nmod,NOUN,0.6446810960769653,[],,
+olive,dinde,nmod,VERB,0.6692448258399963,[],,
+crème,chocolat,nmod,NOUN,0.6359425187110901,"[{""id"": 920607472, ""node1"": 44001, ""node2"": 34157, ""type"": 0, ""w"": 23.0}, {""id"": 987926577, ""node1"": 44001, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]",r_associated,23.0
+fromage,noix,obj,NOUN,0.6280656456947327,[],,
+noix,fromage,appos,NOUN,0.6280656456947327,[],,
+crème,épice,nmod,NOUN,0.723371148109436,[],,
+olive,boudin,nmod,NOUN,0.6510258316993713,[],,
+boudin,noir,amod,ADJ,0.5310838222503662,"[{""id"": 162085, ""node1"": 16548, ""node2"": 64238, ""type"": 0, ""w"": 112.0}, {""id"": 3168043, ""node1"": 16548, ""node2"": 64238, ""type"": 106, ""w"": 22.0}, {""id"": 1794570, ""node1"": 16548, ""node2"": 64238, ""type"": 666, ""w"": 2.0}]",r_associated,112.0
+olive,tomate,amod,ADV,0.6272134184837341,[],,
+fromage,ricotta,obj,NOUN,0.6136817932128906,"[{""id"": 31496459, ""node1"": 141687, ""node2"": 225304, ""type"": 0, ""w"": 16.0}, {""id"": 31442225, ""node1"": 141687, ""node2"": 225304, ""type"": 8, ""w"": 35.0}]",r_hypo,35.0
+ricotta,fromage,obj,NOUN,0.6136817932128906,"[{""id"": 1702883, ""node1"": 225304, ""node2"": 141687, ""type"": 0, ""w"": 74.0}, {""id"": 31411514, ""node1"": 225304, ""node2"": 141687, ""type"": 6, ""w"": 66.0}, {""id"": 1045688030, ""node1"": 225304, ""node2"": 141687, ""type"": 666, ""w"": 2.0}]",r_associated,74.0
+olive,jambon,nmod,NOUN,0.6536039113998413,[],,
+olive,champignon,nmod,NOUN,0.6130837798118591,[],,
+crème,olive,nmod,NOUN,0.6481060981750488,[],,
+olive,herbe,nmod,NOUN,0.562111496925354,[],,
+herbe,Provence,nmod,PROPN,0.4220801889896393,[],,
+olive,chèvre,amod,X,0.6130990982055664,"[{""id"": 376084218, ""node1"": 238, ""node2"": 93872, ""type"": 23, ""w"": 26.0}]",r_carac-1,26.0
+olive,olive,obj,NOUN,0.5221779942512512,"[{""id"": 319752, ""node1"": 238, ""node2"": 238, ""type"": 19, ""w"": 242.0}, {""id"": 648885528, ""node1"": 238, ""node2"": 238, ""type"": 99, ""w"": 32.0}]",r_lemma,242.0
+crème,fromage,obj,NOUN,0.6630610227584839,"[{""id"": 96714544, ""node1"": 44001, ""node2"": 141687, ""type"": 0, ""w"": 45.0}, {""id"": 97416053, ""node1"": 44001, ""node2"": 141687, ""type"": 10, ""w"": 35.0}, {""id"": 376038030, ""node1"": 44001, ""node2"": 141687, ""type"": 51, ""w"": 31.0}]",r_associated,45.0
+olive,pomme,nmod,NOUN,0.637131929397583,[],,
+olive,thon,nmod,NOUN,0.6241394877433777,[],,
+thon,fromage,nmod,NOUN,0.6210788488388062,[],,
+thon,fruit,nmod,NOUN,0.6010386347770691,[],,
+fruit,mer,nmod,PROPN,0.493258386850357,[],,
+olive,basilic,amod,NOUN,0.6072728037834167,[],,
+basilic,fromage,obj,NOUN,0.6574072241783142,[],,
+olive,fromage,nmod,NOUN,0.6637387871742249,[],,
+olive,fumé,amod,ADJ,0.6029053926467896,[],,
+olive,moule,nmod,NOUN,0.6374133229255676,[],,
+ananas,poivre,appos,NOUN,0.65115886926651,[],,
+poivre,vert,amod,PROPN,0.5947548747062683,[],,
+garniture,four,nmod,NOUN,0.7180110812187195,[],,
+four,étape,nmod,NOUN,0.6555838584899902,[],,
+préparation,désirer,acl,VERB,0.4617657363414764,[],,
+préparation,pâte,nmod,NOUN,0.6407255530357361,"[{""id"": 920490588, ""node1"": 33634, ""node2"": 34069, ""type"": 0, ""w"": 20.0}, {""id"": 246257612, ""node1"": 33634, ""node2"": 34069, ""type"": 8, ""w"": 43.0}]",r_hypo,43.0
+préparation,pizza,nmod,NOUN,0.6272006630897522,"[{""id"": 601611816, ""node1"": 33634, ""node2"": 109533, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+garniture,thermostat,nmod,NOUN,0.6195870041847229,[],,

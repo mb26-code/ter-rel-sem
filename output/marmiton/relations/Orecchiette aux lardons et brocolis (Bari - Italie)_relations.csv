@@ -1,0 +1,31 @@
+node1,node2,relations
+ingrédient,casserole,[]
+casserole,top,[]
+plaque,meilleur,[]
+top,plaque,[]
+plaque,four,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]"
+four,set,[]
+set,poêle,[]
+set,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+top,assiette,[]
+assiette,étape,[]
+ingrédient,porter,[]
+volume,grand,"[{""id"": 2183077, ""node1"": 130885, ""node2"": 23178, ""type"": 0, ""w"": 61.0}]"
+ébullition,volume,[]
+volume,eau,"[{""id"": 30986586, ""node1"": 130885, ""node2"": 65012, ""type"": 0, ""w"": 35.0}, {""id"": 30984090, ""node1"": 130885, ""node2"": 65012, ""type"": 3, ""w"": 30.0}]"
+volume,litre,"[{""id"": 1865779, ""node1"": 130885, ""node2"": 57416, ""type"": 0, ""w"": 36.0}]"
+litre,gramme,[]
+gramme,pâte,[]
+cuire,temps,"[{""id"": 1011357542, ""node1"": 5115, ""node2"": 13861, ""type"": 666, ""w"": 2.0}]"
+fin,cuisson,[]
+cuisson,pâte,"[{""id"": 915053269, ""node1"": 60056, ""node2"": 34069, ""type"": 0, ""w"": 20.0}, {""id"": 376106703, ""node1"": 60056, ""node2"": 34069, ""type"": 109, ""w"": 29.0}]"
+plonger,ajouter,[]
+matière,gras,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]"
+égoutter,cuire,[]
+pâte,dent,[]
+mélanger,tout,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]"
+servir,saupoudrer,[]
+saupoudrer,assiette,[]
+assiette,poignée,[]
+poignée,parmesan,[]

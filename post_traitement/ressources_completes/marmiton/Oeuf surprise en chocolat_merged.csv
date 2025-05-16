@@ -1,0 +1,60 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+oeuf,surprise,flat:name,NOUN,0.5171623826026917,"[{""id"": 33697748, ""node1"": 116175, ""node2"": 91691, ""type"": 32, ""w"": 54.0}]",r_sentiment,54.0
+oeuf,chocolat,nmod,NOUN,0.5730186104774475,"[{""id"": 796685682, ""node1"": 116175, ""node2"": 34157, ""type"": 0, ""w"": 31.0}, {""id"": 472413823, ""node1"": 116175, ""node2"": 34157, ""type"": 50, ""w"": 23.0}]",r_associated,31.0
+oeuf,ingrédient,nmod,NOUN,0.5738223195075989,"[{""id"": 96638697, ""node1"": 116175, ""node2"": 123418, ""type"": 0, ""w"": 64.0}, {""id"": 24842552, ""node1"": 116175, ""node2"": 123418, ""type"": 6, ""w"": 46.0}]",r_associated,64.0
+oeuf,noir,amod,ADJ,0.5368096232414246,[],,
+noir,chocolat,nmod,NOUN,0.5080411434173584,"[{""id"": 375442, ""node1"": 64238, ""node2"": 34157, ""type"": 0, ""w"": 75.0}, {""id"": 381884, ""node1"": 64238, ""node2"": 34157, ""type"": 23, ""w"": 66.0}, {""id"": 1785976, ""node1"": 64238, ""node2"": 34157, ""type"": 666, ""w"": 4.0}]",r_associated,75.0
+chocolat,oeuf,nmod,NOUN,0.5730186104774475,"[{""id"": 118693, ""node1"": 34157, ""node2"": 116175, ""type"": 0, ""w"": 80.0}, {""id"": 473643919, ""node1"": 34157, ""node2"": 116175, ""type"": 51, ""w"": 17.0}]",r_associated,80.0
+four,cuillère,nsubj,NOUN,0.7153509855270386,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,casserole,nmod,NOUN,0.6258264183998108,"[{""id"": 662507901, ""node1"": 51905, ""node2"": 57253, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+casserole,pinceau,appos,NOUN,0.5712795853614807,[],,
+pinceau,four,nmod,NOUN,0.6441405415534973,[],,
+four,top,nmod,NOUN,0.5501777529716492,"[{""id"": 509203905, ""node1"": 9190, ""node2"": 61057, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+four,frigo,obj,NOUN,0.659515917301178,"[{""id"": 631688270, ""node1"": 9190, ""node2"": 45624, ""type"": 0, ""w"": 16.0}]",r_associated,16.0
+frigo,balance,nmod,NOUN,0.5736064314842224,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+table,induction,amod,NOUN,0.5181390047073364,[],,
+chocolat,noir,amod,ADJ,0.5080411434173584,"[{""id"": 66660, ""node1"": 34157, ""node2"": 64238, ""type"": 0, ""w"": 677.0}, {""id"": 369242, ""node1"": 34157, ""node2"": 64238, ""type"": 17, ""w"": 133.0}, {""id"": 3163487, ""node1"": 34157, ""node2"": 64238, ""type"": 106, ""w"": 23.0}, {""id"": 1548225, ""node1"": 34157, ""node2"": 64238, ""type"": 666, ""w"": 11.0}]",r_associated,677.0
+essuyer,surplus,obj,NOUN,0.4220350384712219,[],,
+papier,absorber,acl,VERB,0.4968288838863373,[],,
+pinceau,cuisine,nmod,NOUN,0.600783109664917,"[{""id"": 1039906975, ""node1"": 79400, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_carac,-5.0
+appliquer,couche,obj,NOUN,0.4187534153461456,[],,
+couche,chocolat,nmod,NOUN,0.575548529624939,[],,
+couche,noir,amod,ADJ,0.4855429232120514,[],,
+couche,empreinte,nmod,NOUN,0.4297080636024475,[],,
+couche,deuxième,amod,ADJ,0.4328492283821106,[],,
+prendre,couche,obj,NOUN,0.4664249718189239,[],,
+couche,frais,nmod,NOUN,0.4763748049736023,[],,
+passer,couche,obj,NOUN,0.4755176305770874,[],,
+réfrigérateur,laisser,acl,VERB,0.4784357845783233,[],,
+laisser,chocolat,obj,NOUN,0.5653185844421387,[],,
+fondre,reste,advcl,VERB,0.5144926905632019,[],,
+prendre,chocolat,nsubj:pass,NOUN,0.580066978931427,[],,
+fondre,chocolat,obj,NOUN,0.5867562890052795,"[{""id"": 28589116, ""node1"": 16480, ""node2"": 34157, ""type"": 0, ""w"": 63.0}, {""id"": 24768886, ""node1"": 16480, ""node2"": 34157, ""type"": 13, ""w"": 30.0}, {""id"": 1011304980, ""node1"": 16480, ""node2"": 34157, ""type"": 14, ""w"": 30.0}, {""id"": 1009801551, ""node1"": 16480, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]",r_associated,63.0
+chocolat,blanc,amod,ADJ,0.5557076930999756,"[{""id"": 66662, ""node1"": 34157, ""node2"": 15196, ""type"": 0, ""w"": 491.0}, {""id"": 369243, ""node1"": 34157, ""node2"": 15196, ""type"": 17, ""w"": 121.0}, {""id"": 3161769, ""node1"": 34157, ""node2"": 15196, ""type"": 106, ""w"": 13.0}, {""id"": 1548224, ""node1"": 34157, ""node2"": 15196, ""type"": 666, ""w"": 6.0}]",r_associated,491.0
+méthode,même,amod,ADJ,0.4530402421951294,"[{""id"": 1049512314, ""node1"": 60009, ""node2"": 146381, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+façon,même,amod,ADJ,0.4143386781215668,[],,
+façon,couche,nmod,NOUN,0.4653362333774566,[],,
+couche,blanc,amod,ADJ,0.5140969753265381,"[{""id"": 3178030, ""node1"": 19152, ""node2"": 15196, ""type"": 106, ""w"": 3.0}]",r_has_color,3.0
+gratter,bord,obj,NOUN,0.4216315150260925,[],,
+bord,moule,nmod,NOUN,0.4929998815059662,[],,
+excédent,petit,amod,ADJ,0.4962232112884521,[],,
+retirer,excédent,obj,NOUN,0.4199469685554504,[],,
+excédent,chocolat,nmod,NOUN,0.577065646648407,[],,
+chauffer,plaque,obj,NOUN,0.6182687878608704,"[{""id"": 558759572, ""node1"": 90994, ""node2"": 145064, ""type"": 0, ""w"": 32.0}, {""id"": 1053586935, ""node1"": 90994, ""node2"": 145064, ""type"": 666, ""w"": 2.0}]",r_associated,32.0
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+oeuf,petit,amod,ADJ,0.5617634654045105,"[{""id"": 422852, ""node1"": 116175, ""node2"": 55222, ""type"": 17, ""w"": 54.0}]",r_carac,54.0
+moitié,autre,amod,ADJ,0.4410399198532104,"[{""id"": 765505277, ""node1"": 89030, ""node2"": 7574, ""type"": 17, ""w"": 28.0}]",r_carac,28.0
+placer,moitié,obj,NOUN,0.4711706936359405,[],,
+moitié,oeuf,nmod,NOUN,0.5513675808906555,[],,
+placer,instant,obj,NOUN,0.4020476341247558,[],,
+instant,plaque,nmod,NOUN,0.4894644320011139,[],,
+plaque,chaud,amod,ADJ,0.5961205959320068,[],,
+placer,faire,advcl,VERB,0.4521099030971527,[],,
+oeuf,remplir,acl,VERB,0.5326783657073975,[],,
+oeuf,oeuf,nmod,NOUN,0.4745641350746155,"[{""id"": 319594, ""node1"": 116175, ""node2"": 116175, ""type"": 19, ""w"": 59.0}, {""id"": 93902125, ""node1"": 116175, ""node2"": 116175, ""type"": 50, ""w"": 28.0}, {""id"": 376040711, ""node1"": 116175, ""node2"": 116175, ""type"": 51, ""w"": 35.0}]",r_lemma,59.0
+adhérer,moitié,nsubj,NOUN,0.4202424883842468,[],,
+fondre,adhérer,advcl,VERB,0.4308248162269592,[],,

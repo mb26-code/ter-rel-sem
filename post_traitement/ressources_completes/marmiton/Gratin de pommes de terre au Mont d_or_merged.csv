@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,gratin,nmod,NOUN,0.4893978536128998,[],,
+gratin,pomme,nmod,NOUN,0.6256453394889832,"[{""id"": 606766277, ""node1"": 12942, ""node2"": 37201, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,poivre,amod,NOUN,0.7064663171768188,"[{""id"": 24923435, ""node1"": 123418, ""node2"": 139597, ""type"": 0, ""w"": 15.0}, {""id"": 24850733, ""node1"": 123418, ""node2"": 139597, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+poivre,pomme,nmod,NOUN,0.6958288550376892,[],,
+poivre,terre,nmod,NOUN,0.6796647906303406,[],,
+ingrédient,Plat,nmod,PROPN,0.4784882664680481,[],,
+Plat,gratin,nmod,NOUN,0.4779236614704132,[],,
+Plat,économe,appos,NOUN,0.4572044610977173,[],,
+économe,couvercle,nmod,NOUN,0.5389436483383179,[],,
+économe,four,nmod,NOUN,0.6647013425827026,[],,
+four,plat,nmod,ADJ,0.711601734161377,"[{""id"": 218402, ""node1"": 9190, ""node2"": 36327, ""type"": 0, ""w"": 54.0}, {""id"": 1612283, ""node1"": 9190, ""node2"": 36327, ""type"": 28, ""w"": 125.0}, {""id"": 1013894208, ""node1"": 9190, ""node2"": 36327, ""type"": 666, ""w"": 2.0}]",r_lieu-1,125.0
+cuire,pomme,obj,NOUN,0.7712360620498657,"[{""id"": 195355017, ""node1"": 5115, ""node2"": 37201, ""type"": 13, ""w"": 30.0}, {""id"": 97862229, ""node1"": 5115, ""node2"": 37201, ""type"": 14, ""w"": 30.0}]",r_agent,30.0
+pomme,eau,nmod,NOUN,0.6170430183410645,[],,
+fois,pomme,nmod,NOUN,0.5306810736656189,[],,
+terre,cuire,amod,VERB,0.7472566366195679,[],,
+plat,gratin,nmod,NOUN,0.6157448291778564,"[{""id"": 415003453, ""node1"": 36327, ""node2"": 12942, ""type"": 0, ""w"": 28.0}, {""id"": 246264043, ""node1"": 36327, ""node2"": 12942, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+mettre,saler,obj,VERB,0.5700843930244446,[],,
+mettre,poivrer,advcl,VERB,0.5049523115158081,[],,
+sortie,four,nmod,NOUN,0.6299260258674622,[],,
+salade,vert,amod,ADJ,0.6158227920532227,"[{""id"": 558712508, ""node1"": 118908, ""node2"": 26976, ""type"": 0, ""w"": 30.0}, {""id"": 3200451, ""node1"": 118908, ""node2"": 26976, ""type"": 17, ""w"": 30.0}, {""id"": 3160509, ""node1"": 118908, ""node2"": 26976, ""type"": 106, ""w"": 18.0}, {""id"": 1813836, ""node1"": 118908, ""node2"": 26976, ""type"": 666, ""w"": 4.0}]",r_carac,30.0

@@ -1,0 +1,64 @@
+node1,node2,relations
+légume,ancien,[]
+légume,ingrédient,[]
+coriandre,courgette,[]
+courgette,oignon,"[{""id"": 915324346, ""node1"": 85172, ""node2"": 123307, ""type"": 0, ""w"": 21.0}]"
+oignon,sel,[]
+sel,poivre,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]"
+oignon,gingembre,[]
+gingembre,pomme,[]
+gingembre,terre,[]
+oignon,bouillon,"[{""id"": 1033722613, ""node1"": 123307, ""node2"": 146582, ""type"": 10, ""w"": 26.0}]"
+bouillon,légume,"[{""id"": 152250, ""node1"": 146582, ""node2"": 120603, ""type"": 0, ""w"": 55.0}]"
+légume,crème,[]
+crème,liquide,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]"
+vin,blanc,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]"
+saladier,set,[]
+saladier,poêle,[]
+saladier,casserole,[]
+casserole,pinceau,[]
+pinceau,Plat,[]
+Plat,gratin,[]
+pinceau,four,[]
+four,balance,[]
+balance,cuisine,[]
+balance,plat,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]"
+lancement,préparation,[]
+temps,même,[]
+ingrédient,tout,[]
+lancement,ingrédient,[]
+ingrédient,prêt,[]
+préparation,pomme,[]
+pomme,terre,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+pomme,couper,"[{""id"": 31839899, ""node1"": 37201, ""node2"": 128828, ""type"": 26, ""w"": 64.0}]"
+pomme,cube,[]
+préparation,cuire,"[{""id"": 601611718, ""node1"": 33634, ""node2"": 5115, ""type"": 0, ""w"": 27.0}]"
+litre,bouillon,[]
+bouillon,faire,[]
+préparation,minute,[]
+préparation,légume,[]
+légume,couper,"[{""id"": 900892207, ""node1"": 120603, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 8555448, ""node1"": 120603, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]"
+morceau,petit,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]"
+morceau,égal,[]
+égal,carotte,[]
+mélange,huile,[]
+minute,préparation,[]
+préparation,oignon,[]
+oignon,couper,"[{""id"": 900892185, ""node1"": 123307, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 31770901, ""node1"": 123307, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 1767208, ""node1"": 123307, ""node2"": 128828, ""type"": 666, ""w"": 2.0}]"
+gousse,ail,"[{""id"": 1841967, ""node1"": 3889, ""node2"": 26979, ""type"": 0, ""w"": 58.0}, {""id"": 665112731, ""node1"": 3889, ""node2"": 26979, ""type"": 174, ""w"": 40.0}, {""id"": 714921743, ""node1"": 3889, ""node2"": 26979, ""type"": 666, ""w"": 3.0}]"
+gousse,haché,[]
+cuillère,bouillon,"[{""id"": 914309696, ""node1"": 51905, ""node2"": 146582, ""type"": 0, ""w"": 20.0}]"
+revenir,ajouter,[]
+ajouter,coriandre,[]
+préparation,sauce,"[{""id"": 9903071, ""node1"": 33634, ""node2"": 141110, ""type"": 0, ""w"": 54.0}, {""id"": 422811, ""node1"": 33634, ""node2"": 141110, ""type"": 8, ""w"": 63.0}]"
+fois,liquide,[]
+revenir,pomme,[]
+pomme,saupoudrer,[]
+noix,muscade,"[{""id"": 796773628, ""node1"": 30910, ""node2"": 115297, ""type"": 0, ""w"": 29.0}]"
+plat,gratin,"[{""id"": 415003453, ""node1"": 36327, ""node2"": 12942, ""type"": 0, ""w"": 28.0}, {""id"": 246264043, ""node1"": 36327, ""node2"": 12942, ""type"": 8, ""w"": 32.0}]"
+couche,premier,[]
+mettre,couche,[]
+couche,pomme,[]
+four,minute,[]
+jambon,croire,[]
+vin,Savoie,[]

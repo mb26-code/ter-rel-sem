@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+vinaigre,ingrédient,nmod,NOUN,0.6819102168083191,[],,
+vinaigre,vin,nmod,NOUN,0.6201894283294678,"[{""id"": 260680, ""node1"": 145443, ""node2"": 35798, ""type"": 0, ""w"": 213.0}, {""id"": 82356060, ""node1"": 145443, ""node2"": 35798, ""type"": 6, ""w"": 36.0}, {""id"": 375688370, ""node1"": 145443, ""node2"": 35798, ""type"": 56, ""w"": 35.0}, {""id"": 1527098, ""node1"": 145443, ""node2"": 35798, ""type"": 666, ""w"": 2.0}]",r_associated,213.0
+vin,persil,nmod,NOUN,0.6465003490447998,[],,
+sucre,poudre,nmod,NOUN,0.6574808955192566,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,oignon,nmod,NOUN,0.6646345257759094,[],,
+oignon,bière,nmod,NOUN,0.6459054946899414,[],,
+bière,porc,nmod,NOUN,0.6296180486679077,[],,
+balance,cuisine,nmod,NOUN,0.6009083986282349,[],,
+balance,étape,nmod,NOUN,0.4731250703334808,[],,
+balance,cocotte,nmod,NOUN,0.6156079173088074,[],,
+titre,faire,acl,VERB,0.4633305966854095,[],,
+revenir,viande,obj,NOUN,0.7260416746139526,[],,
+viande,couper,acl,VERB,0.6744248270988464,"[{""id"": 796696872, ""node1"": 140100, ""node2"": 128828, ""type"": 0, ""w"": 27.0}, {""id"": 2194964, ""node1"": 140100, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+viande,morceau,nmod,NOUN,0.713297426700592,"[{""id"": 796691557, ""node1"": 140100, ""node2"": 65364, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+retirer,morceau,obj,NOUN,0.5494242906570435,[],,
+morceau,viande,nmod,NOUN,0.713297426700592,"[{""id"": 179412, ""node1"": 65364, ""node2"": 140100, ""type"": 0, ""w"": 83.0}, {""id"": 1007988744, ""node1"": 65364, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]",r_associated,83.0
+dissoudre,faite,nsubj,NOUN,0.4576649963855743,[],,
+dissoudre,tablette,obj,NOUN,0.5096275210380554,[],,
+litre,eau,nmod,NOUN,0.5494043231010437,"[{""id"": 2458362, ""node1"": 57416, ""node2"": 65012, ""type"": 0, ""w"": 84.0}, {""id"": 15759326, ""node1"": 57416, ""node2"": 65012, ""type"": 28, ""w"": 10.0}, {""id"": 720818422, ""node1"": 57416, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 980526881, ""node1"": 57416, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]",r_associated,84.0
+eau,chaud,amod,ADJ,0.6119096279144287,"[{""id"": 915041142, ""node1"": 65012, ""node2"": 19150, ""type"": 0, ""w"": 20.0}, {""id"": 432164, ""node1"": 65012, ""node2"": 19150, ""type"": 17, ""w"": 131.0}]",r_carac,131.0
+ajouter,verser,advcl,VERB,0.4643767774105072,"[{""id"": 12346252, ""node1"": 25099, ""node2"": 104506, ""type"": 0, ""w"": 21.0}, {""id"": 12293759, ""node1"": 25099, ""node2"": 104506, ""type"": 5, ""w"": 82.0}]",r_syn,82.0
+verser,bouillon,obj,NOUN,0.5989014506340027,[],,
+ajouter,bière,obj,NOUN,0.5716506838798523,[],,
+ajouter,mettre,advcl,VERB,0.4343390166759491,"[{""id"": 753802, ""node1"": 25099, ""node2"": 132366, ""type"": 0, ""w"": 22.0}, {""id"": 432805150, ""node1"": 25099, ""node2"": 132366, ""type"": 5, ""w"": 34.0}]",r_syn,34.0
+mettre,viande,obj,NOUN,0.7079417109489441,[],,
+viande,cocotte,nmod,NOUN,0.7514612674713135,[],,
+ajouter,oignon,obj,NOUN,0.5862674713134766,[],,
+oignon,couper,acl,VERB,0.5958451628684998,"[{""id"": 900892185, ""node1"": 123307, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 31770901, ""node1"": 123307, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 1767208, ""node1"": 123307, ""node2"": 128828, ""type"": 666, ""w"": 2.0}]",r_patient-1,100.0
+oignon,rondelle,nmod,NOUN,0.5898785591125488,[],,
+gousse,ail,nmod,NOUN,0.5413048267364502,"[{""id"": 1841967, ""node1"": 3889, ""node2"": 26979, ""type"": 0, ""w"": 58.0}, {""id"": 665112731, ""node1"": 3889, ""node2"": 26979, ""type"": 174, ""w"": 40.0}, {""id"": 714921743, ""node1"": 3889, ""node2"": 26979, ""type"": 666, ""w"": 3.0}]",r_associated,58.0
+heure,feu,nmod,NOUN,0.5728137493133545,[],,
+feu,doux,amod,ADJ,0.5531697273254395,[],,
+ajouter,servir,advcl,VERB,0.4853428602218628,[],,
+ajouter,vinaigre,obj,NOUN,0.621259868144989,[],,

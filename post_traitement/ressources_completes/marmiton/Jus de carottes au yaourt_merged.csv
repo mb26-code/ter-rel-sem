@@ -1,0 +1,18 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,jus,appos,NOUN,0.5529780983924866,[],,
+jus,carotte,nmod,NOUN,0.601193904876709,"[{""id"": 651234566, ""node1"": 53310, ""node2"": 76234, ""type"": 666, ""w"": 5.0}]",r_aki,5.0
+jus,yaourt,nmod,NOUN,0.5921649932861328,[],,
+yaourt,ingrédient,nmod,NOUN,0.6232267022132874,[],,
+jus,sucre,nmod,NOUN,0.6386624574661255,"[{""id"": 602097658, ""node1"": 53310, ""node2"": 139481, ""type"": 0, ""w"": 17.0}, {""id"": 580307919, ""node1"": 53310, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]",r_associated,17.0
+sucre,carotte,nmod,NOUN,0.7103574275970459,[],,
+sucre,eau,appos,NOUN,0.6594484448432922,[],,
+eau,citron,nmod,NOUN,0.626600980758667,"[{""id"": 190529862, ""node1"": 65012, ""node2"": 15386, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+eau,ce,nmod,PRON,0.4319391548633575,[],,
+cuire,lui,nsubj:pass,PRON,0.6200059056282043,[],,
+ce,cuire,acl,VERB,0.456451803445816,[],,
+refroidir,carotte,obj,NOUN,0.6768547892570496,[],,
+ajouter,pot,obj,NOUN,0.5142199993133545,[],,
+pot,yaourt,nmod,NOUN,0.5379484295845032,"[{""id"": 238073, ""node1"": 142367, ""node2"": 82320, ""type"": 0, ""w"": 63.0}, {""id"": 308206346, ""node1"": 142367, ""node2"": 82320, ""type"": 28, ""w"": 2.0}, {""id"": 720818525, ""node1"": 142367, ""node2"": 82320, ""type"": 174, ""w"": 25.0}]",r_associated,63.0
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+eau,minéral,amod,ADJ,0.5503257513046265,"[{""id"": 796683143, ""node1"": 65012, ""node2"": 86490, ""type"": 0, ""w"": 24.0}, {""id"": 72244414, ""node1"": 65012, ""node2"": 86490, ""type"": 777, ""w"": 8.0}]",r_associated,24.0
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0

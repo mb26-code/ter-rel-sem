@@ -1,0 +1,34 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+levure,chocolat,nmod,NOUN,0.6238788962364197,[],,
+levure,sucre,amod,NOUN,0.6511401534080505,[],,
+sucre,beurre,nmod,NOUN,0.6973879933357239,[],,
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+sucre,pépite,nmod,NOUN,0.6477202773094177,[],,
+pépite,chocolat,nmod,NOUN,0.5406539440155029,"[{""id"": 365455, ""node1"": 25082, ""node2"": 34157, ""type"": 0, ""w"": 152.0}, {""id"": 376056261, ""node1"": 25082, ""node2"": 34157, ""type"": 50, ""w"": 35.0}, {""id"": 930408960, ""node1"": 25082, ""node2"": 34157, ""type"": 666, ""w"": 2.0}]",r_associated,152.0
+titre,cuillère,nmod,NOUN,0.5080531239509583,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,saladier,nmod,NOUN,0.6106023788452148,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+cuillère,casserole,nmod,NOUN,0.6258264183998108,"[{""id"": 662507901, ""node1"": 51905, ""node2"": 57253, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+casserole,moule,nmod,NOUN,0.5965444445610046,[],,
+cake,four,appos,NOUN,0.6546434164047241,"[{""id"": 561291406, ""node1"": 28945, ""node2"": 9190, ""type"": 0, ""w"": 33.0}, {""id"": 583219224, ""node1"": 28945, ""node2"": 9190, ""type"": 5, ""w"": -5.0}, {""id"": 623131366, ""node1"": 28945, ""node2"": 9190, ""type"": 15, ""w"": 32.0}]",r_lieu,32.0
+four,couteau,nmod,NOUN,0.6828393340110779,[],,
+couteau,moule,nmod,NOUN,0.5594446659088135,[],,
+four,tarte,nmod,NOUN,0.7168973088264465,"[{""id"": 209910, ""node1"": 9190, ""node2"": 575, ""type"": 0, ""w"": 61.0}, {""id"": 2290225, ""node1"": 9190, ""node2"": 575, ""type"": 28, ""w"": 98.0}]",r_lieu-1,98.0
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+titre,fondre,acl,VERB,0.4839583337306976,[],,
+fondre,chocolat,obj,NOUN,0.5867562890052795,"[{""id"": 28589116, ""node1"": 16480, ""node2"": 34157, ""type"": 0, ""w"": 63.0}, {""id"": 24768886, ""node1"": 16480, ""node2"": 34157, ""type"": 13, ""w"": 30.0}, {""id"": 1011304980, ""node1"": 16480, ""node2"": 34157, ""type"": 14, ""w"": 30.0}, {""id"": 1009801551, ""node1"": 16480, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]",r_associated,63.0
+beurre,minute,nmod,NOUN,0.6583911776542664,[],,
+minute,micro,nmod,PROPN,0.4361498057842254,[],,
+beurre,onde,amod,NOUN,0.5321215391159058,[],,
+mélanger,oeuf,obj,NOUN,0.5539453625679016,[],,
+blanchir,mélange,nsubj,NOUN,0.5664106011390686,[],,
+ajouter,farine,obj,NOUN,0.6640971302986145,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+incorporer,mélange,obj,NOUN,0.5238626003265381,"[{""id"": 1313256, ""node1"": 3845, ""node2"": 14800, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+mélange,chocolat,nmod,NOUN,0.6509661078453064,"[{""id"": 941666523, ""node1"": 14800, ""node2"": 34157, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+mélange,beurre,nmod,NOUN,0.6993793249130249,"[{""id"": 373015122, ""node1"": 14800, ""node2"": 140377, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+verser,préparation,obj,NOUN,0.5208573341369629,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+vérifier,cuisson,obj,NOUN,0.6534045934677124,"[{""id"": 31862099, ""node1"": 76431, ""node2"": 60056, ""type"": 14, ""w"": 64.0}]",r_patient,64.0
+pointe,couteau,nmod,NOUN,0.4962367117404938,"[{""id"": 8856589, ""node1"": 141611, ""node2"": 32610, ""type"": 0, ""w"": 16.0}, {""id"": 251482, ""node1"": 141611, ""node2"": 32610, ""type"": 10, ""w"": 53.0}]",r_holo,53.0

@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,sucre,appos,NOUN,0.7083083987236023,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]",r_associated,70.0
+sucre,canne,nmod,NOUN,0.6069387793540955,"[{""id"": 107598, ""node1"": 139481, ""node2"": 144267, ""type"": 0, ""w"": 241.0}, {""id"": 160436, ""node1"": 139481, ""node2"": 144267, ""type"": 15, ""w"": 78.0}, {""id"": 1763995, ""node1"": 139481, ""node2"": 144267, ""type"": 666, ""w"": 1.0}]",r_associated,241.0
+sucre,pomme,nmod,NOUN,0.7055277824401855,"[{""id"": 98623378, ""node1"": 139481, ""node2"": 37201, ""type"": 0, ""w"": 19.0}, {""id"": 612652730, ""node1"": 139481, ""node2"": 37201, ""type"": 9, ""w"": -5.0}, {""id"": 97415216, ""node1"": 139481, ""node2"": 37201, ""type"": 10, ""w"": 26.0}]",r_holo,26.0
+pomme,farine,amod,NOUN,0.7008973360061646,[],,
+pomme,châtaigne,nmod,NOUN,0.5946367383003235,"[{""id"": 53732413, ""node1"": 37201, ""node2"": 120225, ""type"": 0, ""w"": 29.0}, {""id"": 53618348, ""node1"": 37201, ""node2"": 120225, ""type"": 5, ""w"": 89.0}]",r_syn,89.0
+sucre,four,nmod,NOUN,0.7770997881889343,[],,
+four,couteau,nmod,NOUN,0.6828393340110779,[],,
+four,cuillère,nmod,NOUN,0.7153509855270386,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+four,180,nmod,NUM,0.4979606568813324,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+sel,bout,nmod,NOUN,0.6591586470603943,[],,
+bout,doigt,nmod,NOUN,0.4017129242420196,"[{""id"": 899132502, ""node1"": 56924, ""node2"": 62706, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+faire,maximum,obj,NOUN,0.4532638788223266,"[{""id"": 1051672216, ""node1"": 87528, ""node2"": 22154, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+faire,opération,obj,NOUN,0.4599912464618683,[],,
+opération,faire,acl,VERB,0.4599912464618683,"[{""id"": 415010383, ""node1"": 26638, ""node2"": 87528, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+mélanger,fondre,advcl,VERB,0.5295987725257874,"[{""id"": 937512, ""node1"": 37151, ""node2"": 16480, ""type"": 0, ""w"": 32.0}, {""id"": 54439653, ""node1"": 37151, ""node2"": 16480, ""type"": 5, ""w"": 93.0}]",r_syn,93.0

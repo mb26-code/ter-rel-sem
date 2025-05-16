@@ -1,0 +1,34 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,beurre,appos,NOUN,0.7321043014526367,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]",r_associated,69.0
+sucre,canne,nmod,NOUN,0.6069387793540955,"[{""id"": 107598, ""node1"": 139481, ""node2"": 144267, ""type"": 0, ""w"": 241.0}, {""id"": 160436, ""node1"": 139481, ""node2"": 144267, ""type"": 15, ""w"": 78.0}, {""id"": 1763995, ""node1"": 139481, ""node2"": 144267, ""type"": 666, ""w"": 1.0}]",r_associated,241.0
+sucre,sucre,nmod,NOUN,0.6199788451194763,"[{""id"": 335264, ""node1"": 139481, ""node2"": 139481, ""type"": 19, ""w"": 142.0}, {""id"": 93901596, ""node1"": 139481, ""node2"": 139481, ""type"": 50, ""w"": -27.0}, {""id"": 376041081, ""node1"": 139481, ""node2"": 139481, ""type"": 51, ""w"": 28.0}]",r_lemma,142.0
+sucre,gingembre,nmod,NOUN,0.6843656301498413,[],,
+gingembre,sel,appos,NOUN,0.690368115901947,[],,
+sel,levure,nmod,NOUN,0.6924784183502197,[],,
+levure,oeuf,nmod,NOUN,0.5973623394966125,[],,
+casserole,papier,nmod,NOUN,0.6485713124275208,[],,
+découper,balance,obj,NOUN,0.4950466752052307,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+table,induction,amod,NOUN,0.5181390047073364,[],,
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+mélanger,levure,obj,NOUN,0.5925063490867615,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+casserole,grand,amod,ADJ,0.5876413583755493,[],,
+rajouter,sucre,obj,NOUN,0.6595261693000793,"[{""id"": 442783461, ""node1"": 87561, ""node2"": 139481, ""type"": 0, ""w"": 30.0}, {""id"": 413194, ""node1"": 87561, ""node2"": 139481, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+miel,érable,nmod,NOUN,0.5818526744842529,[],,
+oeuf,battre,acl,VERB,0.5256416201591492,"[{""id"": 15064344, ""node1"": 116175, ""node2"": 119162, ""type"": 26, ""w"": 34.0}]",r_patient-1,34.0
+ajouter,mélange,obj,NOUN,0.5318974852561951,[],,
+mélange,sec,amod,ADJ,0.4958626925945282,[],,
+farine,épice,nmod,NOUN,0.7426432967185974,"[{""id"": 925020683, ""node1"": 127629, ""node2"": 146056, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+mettre,mélange,obj,NOUN,0.5538657903671265,[],,
+étaler,pâte,obj,NOUN,0.6019123196601868,"[{""id"": 364779096, ""node1"": 98214, ""node2"": 34069, ""type"": 0, ""w"": 38.0}, {""id"": 243248, ""node1"": 98214, ""node2"": 34069, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+découper,biscuit,obj,NOUN,0.5931468605995178,[],,
+pièce,sapin,amod,ADJ,0.4861194789409637,[],,
+faire,boule,obj,NOUN,0.5590701699256897,[],,
+boule,Noël,nmod,PROPN,0.4575067460536957,"[{""id"": 406351, ""node1"": 141883, ""node2"": 143255, ""type"": 0, ""w"": 52.0}]",r_associated,52.0
+cuire,biscuit,obj,NOUN,0.753751277923584,"[{""id"": 943611947, ""node1"": 5115, ""node2"": 62524, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+plaque,recouvrir,acl,VERB,0.5361502170562744,[],,
+feuille,papier,nmod,NOUN,0.4767924547195434,"[{""id"": 99562, ""node1"": 37993, ""node2"": 103389, ""type"": 0, ""w"": 667.0}, {""id"": 157352, ""node1"": 37993, ""node2"": 103389, ""type"": 5, ""w"": 169.0}, {""id"": 186644, ""node1"": 37993, ""node2"": 103389, ""type"": 8, ""w"": 134.0}, {""id"": 377011482, ""node1"": 37993, ""node2"": 103389, ""type"": 20, ""w"": 35.0}, {""id"": 246389, ""node1"": 37993, ""node2"": 103389, ""type"": 21, ""w"": 85.0}, {""id"": 665112728, ""node1"": 37993, ""node2"": 103389, ""type"": 174, ""w"": 30.0}, {""id"": 1770446, ""node1"": 37993, ""node2"": 103389, ""type"": 666, ""w"": 7.0}]",r_associated,667.0
+papier,cuisson,nmod,NOUN,0.6981122493743896,[],,

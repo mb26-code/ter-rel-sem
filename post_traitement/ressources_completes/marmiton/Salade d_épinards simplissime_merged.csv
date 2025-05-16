@@ -1,0 +1,22 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+mettre,titre,nsubj,NOUN,0.4057502150535583,[],,
+titre,salade,appos,NOUN,0.5926524996757507,[],,
+salade,ingrédient,nmod,NOUN,0.7127874493598938,[],,
+salade,sel,nmod,NOUN,0.7604894042015076,"[{""id"": 97758126, ""node1"": 118908, ""node2"": 13260, ""type"": 0, ""w"": 27.0}, {""id"": 97758127, ""node1"": 118908, ""node2"": 13260, ""type"": 9, ""w"": 32.0}, {""id"": 5292757, ""node1"": 118908, ""node2"": 13260, ""type"": 777, ""w"": 7.0}]",r_has_part,32.0
+sel,vinaigre,nmod,NOUN,0.683134913444519,"[{""id"": 796849792, ""node1"": 13260, ""node2"": 145443, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+vinaigre,balsamique,amod,ADJ,0.5980404615402222,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]",r_associated,166.0
+vinaigre,jeune,amod,ADJ,0.5529382228851318,[],,
+salade,pousse,acl,NOUN,0.5897478461265564,[],,
+pignon,huile,amod,NOUN,0.5422000885009766,"[{""id"": 6632396, ""node1"": 145454, ""node2"": 141971, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+salade,saladier,nmod,NOUN,0.6674543619155884,"[{""id"": 176886, ""node1"": 118908, ""node2"": 45455, ""type"": 0, ""w"": 64.0}, {""id"": 3200445, ""node1"": 118908, ""node2"": 45455, ""type"": 15, ""w"": 53.0}, {""id"": 648953994, ""node1"": 118908, ""node2"": 45455, ""type"": 99, ""w"": 34.0}, {""id"": 1813879, ""node1"": 118908, ""node2"": 45455, ""type"": 666, ""w"": 1.0}]",r_associated,64.0
+salade,étape,nmod,NOUN,0.5620172619819641,[],,
+mettre,pousse,obj,NOUN,0.4090869426727295,[],,
+mettre,verser,advcl,VERB,0.4680196940898895,"[{""id"": 53740701, ""node1"": 132366, ""node2"": 104506, ""type"": 0, ""w"": 28.0}, {""id"": 53610609, ""node1"": 132366, ""node2"": 104506, ""type"": 5, ""w"": 82.0}]",r_syn,82.0
+pincée,bon,amod,ADJ,0.5173773765563965,[],,
+saler,rectifier,advcl,VERB,0.5432634353637695,[],,
+arroser,huile,obj,NOUN,0.5913853049278259,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+arroser,cuillère,obj,NOUN,0.5626327991485596,[],,
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+soupe,vinaigre,nmod,NOUN,0.7203998565673828,"[{""id"": 729556147, ""node1"": 117152, ""node2"": 145443, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+rectifier,assaisonnement,obj,NOUN,0.5303710103034973,"[{""id"": 15080476, ""node1"": 36001, ""node2"": 15763, ""type"": 14, ""w"": 30.0}]",r_patient,30.0

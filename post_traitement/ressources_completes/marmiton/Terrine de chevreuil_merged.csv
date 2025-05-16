@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+quantité,terrine,nsubj,NOUN,0.6470332145690918,[],,
+terrine,chevreuil,nmod,NOUN,0.5796290040016174,[],,
+chevreuil,ingrédient,nmod,NOUN,0.6168444156646729,[],,
+sel,chevreuil,nmod,NOUN,0.6886255145072937,[],,
+chevreuil,porc,nmod,VERB,0.5853065848350525,[],,
+chevreuil,pain,nmod,NOUN,0.6626811623573303,[],,
+pain,oeuf,nmod,NOUN,0.6695903539657593,"[{""id"": 798889056, ""node1"": 61283, ""node2"": 116175, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+oeuf,laurier,nmod,PROPN,0.5622161626815796,[],,
+saladier,couvercle,nmod,NOUN,0.6053080558776855,[],,
+couvercle,four,nmod,NOUN,0.6759926676750183,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+terrine,étape,nmod,NOUN,0.5292922854423523,[],,
+terrine,secret,nmod,NOUN,0.5988593697547913,[],,
+secret,terrine,nmod,NOUN,0.5988593697547913,[],,
+quantité,sel,nmod,NOUN,0.6791085004806519,[],,
+gramme,sel,nmod,NOUN,0.6561664342880249,"[{""id"": 720818112, ""node1"": 140383, ""node2"": 13260, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+gramme,poivre,nmod,NOUN,0.6178039312362671,[],,
+viande,chevreuil,nmod,NOUN,0.669381856918335,"[{""id"": 9912245, ""node1"": 140100, ""node2"": 30838, ""type"": 0, ""w"": 17.0}, {""id"": 2116570, ""node1"": 140100, ""node2"": 30838, ""type"": 8, ""w"": 141.0}]",r_hypo,141.0
+gorge,porc,nmod,NOUN,0.5588566660881042,[],,
+mie,pain,nmod,NOUN,0.5814495086669922,"[{""id"": 377332, ""node1"": 37905, ""node2"": 61283, ""type"": 0, ""w"": 145.0}, {""id"": 96639071, ""node1"": 37905, ""node2"": 61283, ""type"": 3, ""w"": 26.0}, {""id"": 96639075, ""node1"": 37905, ""node2"": 61283, ""type"": 6, ""w"": 48.0}, {""id"": 9985753, ""node1"": 37905, ""node2"": 61283, ""type"": 10, ""w"": 48.0}, {""id"": 11358396, ""node1"": 37905, ""node2"": 61283, ""type"": 15, ""w"": 38.0}, {""id"": 25183388, ""node1"": 37905, ""node2"": 61283, ""type"": 35, ""w"": 52.0}, {""id"": 376051245, ""node1"": 37905, ""node2"": 61283, ""type"": 51, ""w"": 29.0}, {""id"": 979307703, ""node1"": 37905, ""node2"": 61283, ""type"": 666, ""w"": 2.0}]",r_associated,145.0
+mélanger,oeuf,obj,NOUN,0.5539453625679016,[],,
+disposer,préparation,obj,NOUN,0.4969910979270935,"[{""id"": 1294704, ""node1"": 116780, ""node2"": 33634, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+préparation,terrine,nmod,NOUN,0.6441052556037903,"[{""id"": 601611645, ""node1"": 33634, ""node2"": 111516, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+disposer,thym,obj,NOUN,0.5985308885574341,[],,
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+mélanger,former,advcl,VERB,0.4416838586330414,[],,
+former,pâte,obj,NOUN,0.6060660481452942,"[{""id"": 97862150, ""node1"": 66314, ""node2"": 34069, ""type"": 14, ""w"": 39.0}]",r_patient,39.0
+pâte,élastique,amod,ADJ,0.6127678751945496,"[{""id"": 96931426, ""node1"": 34069, ""node2"": 95600, ""type"": 17, ""w"": 21.0}]",r_carac,21.0
+servir,déposer,advcl,VERB,0.4589407444000244,[],,
+déposer,pâte,obj,NOUN,0.6274656057357788,"[{""id"": 97862127, ""node1"": 35714, ""node2"": 34069, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+pourtour,terrine,nmod,NOUN,0.6196561455726624,[],,
+servir,pâte,nsubj,NOUN,0.6821659803390503,[],,
+couvrir,terrine,obj,NOUN,0.6234087944030762,[],,
+terrine,couvercle,nmod,NOUN,0.6529417037963867,[],,
+marier,minute,obj,NOUN,0.4654219448566437,[],,
+minute,minimum,acl,ADJ,0.4195579290390014,[],,

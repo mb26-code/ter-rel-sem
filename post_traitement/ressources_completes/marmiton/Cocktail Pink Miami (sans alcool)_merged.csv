@@ -1,0 +1,30 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,cocktail,nmod,NOUN,0.4204443097114563,[],,
+cocktail,alcool,nmod,NOUN,0.5078482031822205,"[{""id"": 417230, ""node1"": 132548, ""node2"": 47597, ""type"": 0, ""w"": 187.0}, {""id"": 957531381, ""node1"": 132548, ""node2"": 47597, ""type"": 666, ""w"": 3.0}]",r_associated,187.0
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,fraise,nmod,NOUN,0.6214956045150757,[],,
+ingrédient,jus,nmod,NOUN,0.6051733493804932,[],,
+jus,ananas,nmod,NOUN,0.5756807923316956,"[{""id"": 899180188, ""node1"": 53310, ""node2"": 115827, ""type"": 0, ""w"": 22.0}, {""id"": 1055429116, ""node1"": 53310, ""node2"": 115827, ""type"": 666, ""w"": 2.0}]",r_associated,22.0
+sirop,fraise,nmod,NOUN,0.6061238646507263,"[{""id"": 214380, ""node1"": 91109, ""node2"": 16242, ""type"": 0, ""w"": 417.0}, {""id"": 2404430, ""node1"": 91109, ""node2"": 16242, ""type"": 8, ""w"": 112.0}]",r_associated,417.0
+jus,Presse,nmod,PROPN,0.5341017246246338,[],,
+jus,mixeur,nmod,NOUN,0.6086046099662781,[],,
+mixeur,cuillère,nmod,NOUN,0.5916650295257568,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,couvercle,nmod,NOUN,0.6197326183319092,[],,
+couvercle,étape,nmod,NOUN,0.4822983145713806,[],,
+ingrédient,commencer,acl,VERB,0.5969255566596985,[],,
+titre,laver,nmod,VERB,0.5016543865203857,[],,
+obtenir,purée,obj,NOUN,0.6158004403114319,[],,
+purée,fraise,nmod,NOUN,0.6418434977531433,"[{""id"": 8791507, ""node1"": 16444, ""node2"": 16242, ""type"": 50, ""w"": 5.0}]",r_object>mater,5.0
+ajouter,jus,obj,NOUN,0.5800648331642151,[],,
+ajouter,mélanger,advcl,VERB,0.476481020450592,[],,
+mélanger,tout,obj,NOUN,0.528428852558136,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]",r_patient,110.0
+devoir,cocktail,nsubj,NOUN,0.4639347493648529,[],,
+couleur,joli,amod,ADJ,0.4406419992446899,[],,
+devoir,couleur,nsubj,NOUN,0.4376364946365356,[],,
+couleur,rosé,amod,ADJ,0.4914473593235016,"[{""id"": 796682113, ""node1"": 40056, ""node2"": 140986, ""type"": 0, ""w"": 22.0}, {""id"": 242864261, ""node1"": 40056, ""node2"": 140986, ""type"": 8, ""w"": 34.0}]",r_hypo,34.0
+mousse,bel,amod,ADJ,0.4088757932186126,[],,
+verre,joli,amod,ADJ,0.5027233362197876,[],,
+trait,sirop,nmod,NOUN,0.5603766441345215,[],,
+ajouter,finir,advcl,VERB,0.4177050292491913,[],,
+finir,paille,obj,NOUN,0.5231847167015076,[],,

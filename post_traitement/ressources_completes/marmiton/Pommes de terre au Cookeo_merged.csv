@@ -1,0 +1,20 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+Pommes,terre,nmod,NOUN,0.4372754693031311,[],,
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+Pommes,pomme,nmod,NOUN,0.4628044366836548,"[{""id"": 713952493, ""node1"": 3759832, ""node2"": 37201, ""type"": 0, ""w"": 10.0}, {""id"": 713952796, ""node1"": 3759832, ""node2"": 37201, ""type"": 170, ""w"": 10.0}]",r_associated,10.0
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+Pommes,cube,nmod,NOUN,0.4926527142524719,[],,
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+bouillon,eau,appos,NOUN,0.6091527938842773,"[{""id"": 32063698, ""node1"": 146582, ""node2"": 65012, ""type"": 0, ""w"": 33.0}, {""id"": 418498335, ""node1"": 146582, ""node2"": 65012, ""type"": 3, ""w"": 31.0}, {""id"": 32061929, ""node1"": 146582, ""node2"": 65012, ""type"": 9, ""w"": 53.0}]",r_has_part,53.0
+eau,huile,amod,NOUN,0.5881909728050232,"[{""id"": 922137128, ""node1"": 65012, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+Pommes,étape,nmod,NOUN,0.413015216588974,[],,
+Pommes,éplucher,nmod,VERB,0.4332424700260162,"[{""id"": 713952407, ""node1"": 3759832, ""node2"": 59879, ""type"": 26, ""w"": 10.0}]",r_patient-1,10.0
+verser,huile,obj,NOUN,0.6115446090698242,"[{""id"": 227659, ""node1"": 104506, ""node2"": 141971, ""type"": 14, ""w"": 57.0}, {""id"": 645787360, ""node1"": 104506, ""node2"": 141971, ""type"": 666, ""w"": 2.0}]",r_patient,57.0
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+oignon,dedans,nmod,ADV,0.617203414440155,[],,
+ajouter,pomme,obj,NOUN,0.602749228477478,[],,
+dorer,minute,obj,NOUN,0.5380439162254333,[],,
+dorer,remuer,advcl,VERB,0.5522658824920654,[],,
+lancer,cuisson,obj,NOUN,0.6590927243232727,[],,
+cuisson,rapide,amod,ADJ,0.6360381841659546,"[{""id"": 31834087, ""node1"": 60056, ""node2"": 110732, ""type"": 17, ""w"": 59.0}]",r_carac,59.0
+cuisson,min,nmod,NOUN,0.4561061859130859,[],,

@@ -1,0 +1,26 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+bleu,cordon,nsubj,NOUN,0.4326801598072052,[],,
+bleu,ingrédient,nmod,NOUN,0.5274584889411926,"[{""id"": 24929873, ""node1"": 60, ""node2"": 123418, ""type"": 6, ""w"": 1.0}]",r_isa,1.0
+ingrédient,beurre,appos,NOUN,0.7321043014526367,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]",r_associated,69.0
+farine,blanc,amod,ADJ,0.6782625913619995,"[{""id"": 116083, ""node1"": 127629, ""node2"": 15196, ""type"": 0, ""w"": 91.0}, {""id"": 24901422, ""node1"": 127629, ""node2"": 15196, ""type"": 17, ""w"": 3.0}, {""id"": 3161193, ""node1"": 127629, ""node2"": 15196, ""type"": 106, ""w"": 21.0}]",r_associated,91.0
+blanc,poulet,nmod,NOUN,0.6177458167076111,"[{""id"": 9356626, ""node1"": 15196, ""node2"": 146261, ""type"": 0, ""w"": 50.0}, {""id"": 97329786, ""node1"": 15196, ""node2"": 146261, ""type"": 10, ""w"": 29.0}, {""id"": 1933499, ""node1"": 15196, ""node2"": 146261, ""type"": 35, ""w"": 45.0}, {""id"": 14659361, ""node1"": 15196, ""node2"": 146261, ""type"": 42, ""w"": 29.0}, {""id"": 1663131, ""node1"": 15196, ""node2"": 146261, ""type"": 666, ""w"": 1.0}]",r_associated,50.0
+poulet,bacon,nmod,NOUN,0.6363844275474548,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+tranche,poulet,nmod,NOUN,0.6484262347221375,[],,
+tranche,mettre,acl,VERB,0.4838809669017792,[],,
+mettre,tranche,obj,NOUN,0.4838809669017792,[],,
+tranche,bacon,nmod,NOUN,0.5835222601890564,"[{""id"": 915336570, ""node1"": 143123, ""node2"": 25901, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+côté,autre,nmod,PRON,0.4043467342853546,[],,
+poser,tranche,obj,NOUN,0.4408090710639953,[],,
+tranche,fromage,nmod,NOUN,0.6097967624664307,"[{""id"": 720818623, ""node1"": 143123, ""node2"": 141687, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+refermer,tout,obj,NOUN,0.4415948987007141,[],,
+tout,plier,acl,VERB,0.4467872977256775,[],,
+plier,tranche,obj,NOUN,0.4252136945724487,[],,
+prévoir,assiette,obj,NOUN,0.579897403717041,[],,
+mettre,farine,obj,NOUN,0.6636205315589905,"[{""id"": 427128973, ""node1"": 132366, ""node2"": 127629, ""type"": 0, ""w"": 26.0}, {""id"": 427128972, ""node1"": 132366, ""node2"": 127629, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+oeuf,battre,acl,VERB,0.5256416201591492,"[{""id"": 15064344, ""node1"": 116175, ""node2"": 119162, ""type"": 26, ""w"": 34.0}]",r_patient-1,34.0
+cuire,le,obj,PRON,0.4500194191932678,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+minute,côté,nmod,NOUN,0.4591824114322662,[],,
+peu,beurre,nmod,NOUN,0.5877829194068909,[],,

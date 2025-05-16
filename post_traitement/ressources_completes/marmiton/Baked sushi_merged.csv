@@ -1,0 +1,65 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+sushi,ingrédient,obj,NOUN,0.5788580179214478,"[{""id"": 660162541, ""node1"": 39650, ""node2"": 123418, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+vinaigre,sel,nmod,NOUN,0.683134913444519,"[{""id"": 2147403, ""node1"": 145443, ""node2"": 13260, ""type"": 0, ""w"": 80.0}]",r_associated,80.0
+sel,sucre,acl,NOUN,0.6925632357597351,"[{""id"": 183179, ""node1"": 13260, ""node2"": 139481, ""type"": 0, ""w"": 182.0}, {""id"": 377013894, ""node1"": 13260, ""node2"": 139481, ""type"": 20, ""w"": 30.0}, {""id"": 377000348, ""node1"": 13260, ""node2"": 139481, ""type"": 21, ""w"": 28.0}, {""id"": 1032957125, ""node1"": 13260, ""node2"": 139481, ""type"": 78, ""w"": 32.0}]",r_associated,182.0
+sucre,sauce,nmod,NOUN,0.7883309721946716,"[{""id"": 941576681, ""node1"": 139481, ""node2"": 141110, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+sucre,mayonnaise,nmod,ADJ,0.7102497816085815,[],,
+vinaigre,crème,obj,NOUN,0.6759811639785767,[],,
+crème,liquide,amod,ADJ,0.6173139810562134,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]",r_carac,52.0
+sushi,pavé,obj,NOUN,0.4974914789199829,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,casserole,acl:relcl,NOUN,0.5916885137557983,[],,
+casserole,four,nmod,NOUN,0.7147663235664368,[],,
+four,top,nmod,NOUN,0.5501777529716492,"[{""id"": 509203905, ""node1"": 9190, ""node2"": 61057, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+saladier,Spatule,nmod,PROPN,0.4745384156703949,[],,
+chauffer,plat,obj,ADJ,0.6805668473243713,"[{""id"": 97862749, ""node1"": 90994, ""node2"": 36327, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+plat,étape,nmod,NOUN,0.5833562016487122,[],,
+mettre,saumon,obj,NOUN,0.6289751529693604,[],,
+plat,aller,acl,VERB,0.5960066914558411,[],,
+vinaigre,riz,nmod,NOUN,0.6922438144683838,"[{""id"": 1023005499, ""node1"": 145443, ""node2"": 24372, ""type"": 0, ""w"": 26.0}, {""id"": 3355970, ""node1"": 145443, ""node2"": 24372, ""type"": 777, ""w"": 10.0}]",r_associated,26.0
+préparation,riz,nmod,NOUN,0.6755267977714539,[],,
+préparation,collant,amod,ADJ,0.5288332104682922,[],,
+mélanger,vinaigre,obj,NOUN,0.6564185619354248,"[{""id"": 15085301, ""node1"": 37151, ""node2"": 145443, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+passer,mélange,obj,NOUN,0.5571170449256897,[],,
+mélange,seconde,nmod,NOUN,0.5414453148841858,[],,
+seconde,micro-onde,nmod,NOUN,0.5203176736831665,[],,
+dissolution,sucre,nmod,NOUN,0.6266725659370422,[],,
+mettre,riz,obj,NOUN,0.6785814762115479,[],,
+mettre,eau,obj,NOUN,0.5746321082115173,"[{""id"": 437548164, ""node1"": 132366, ""node2"": 65012, ""type"": 0, ""w"": 28.0}, {""id"": 437548163, ""node1"": 132366, ""node2"": 65012, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+tremper,fois,obj,NOUN,0.4876574575901031,[],,
+blanc,eau,nsubj,NOUN,0.5962139964103699,"[{""id"": 30746329, ""node1"": 15196, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+blanc,rinçage,appos,NOUN,0.5558832287788391,[],,
+allumer,feu,obj,NOUN,0.5185922384262085,"[{""id"": 397194, ""node1"": 82772, ""node2"": 143703, ""type"": 0, ""w"": 198.0}, {""id"": 147091, ""node1"": 82772, ""node2"": 143703, ""type"": 14, ""w"": 100.0}, {""id"": 2147827, ""node1"": 82772, ""node2"": 143703, ""type"": 16, ""w"": 51.0}, {""id"": 455403, ""node1"": 82772, ""node2"": 143703, ""type"": 31, ""w"": 58.0}, {""id"": 984310137, ""node1"": 82772, ""node2"": 143703, ""type"": 666, ""w"": 3.0}]",r_associated,198.0
+feu,puissance,nmod,NOUN,0.5337189435958862,[],,
+puissance,moyen,amod,ADJ,0.4470772445201874,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+ajouter,vinaigre,obj,NOUN,0.6182233095169067,[],,
+mélanger,écraser,advcl,VERB,0.4882788062095642,[],,
+écraser,grain,obj,NOUN,0.5486687421798706,[],,
+grain,riz,nmod,NOUN,0.6601706147193909,"[{""id"": 247113, ""node1"": 57895, ""node2"": 24372, ""type"": 0, ""w"": 80.0}, {""id"": 1041936725, ""node1"": 57895, ""node2"": 24372, ""type"": 10, ""w"": 24.0}, {""id"": 13094051, ""node1"": 57895, ""node2"": 24372, ""type"": 11, ""w"": 51.0}, {""id"": 377013783, ""node1"": 57895, ""node2"": 24372, ""type"": 20, ""w"": 31.0}, {""id"": 671656973, ""node1"": 57895, ""node2"": 24372, ""type"": 58, ""w"": 25.0}, {""id"": 720817955, ""node1"": 57895, ""node2"": 24372, ""type"": 174, ""w"": 25.0}]",r_associated,80.0
+préparation,garniture,nmod,NOUN,0.6397891044616699,[],,
+four,200,nmod,NUM,0.5053980350494385,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+ajouter,repasser,advcl,VERB,0.4212316274642944,[],,
+repasser,sec,advcl,ADJ,0.4478375613689422,[],,
+ajouter,oignon,obj,NOUN,0.585871696472168,[],,
+pincée,sel,nmod,NOUN,0.6588193774223328,"[{""id"": 665112730, ""node1"": 122023, ""node2"": 13260, ""type"": 174, ""w"": 40.0}, {""id"": 990072491, ""node1"": 122023, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]",r_quantificateur-1,40.0
+mettre,dressage,nsubj,NOUN,0.4751193523406982,[],,
+dressage,sushi,nmod,NOUN,0.5043855905532837,[],,
+mettre,couche,obj,NOUN,0.4788916707038879,[],,
+couche,riz,nmod,NOUN,0.6796338558197021,[],,
+couche,fond,nmod,NOUN,0.4925581216812134,"[{""id"": 914483097, ""node1"": 19152, ""node2"": 119272, ""type"": 0, ""w"": 20.0}, {""id"": 645481775, ""node1"": 19152, ""node2"": 119272, ""type"": 17, ""w"": -5.0}]",r_associated,20.0
+couche,allant,nmod,NOUN,0.4534681439399719,[],,
+four,épaisseur,nmod,NOUN,0.6629660725593567,[],,
+feuille,algue,nmod,NOUN,0.47987961769104,"[{""id"": 3766115, ""node1"": 37993, ""node2"": 124531, ""type"": 777, ""w"": 8.0}]",r_wiki,8.0
+sésame,grillé,acl,ADJ,0.6125639081001282,"[{""id"": 477551496, ""node1"": 18404, ""node2"": 141899, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+ensemble,mélange,nmod,NOUN,0.5071336627006531,[],,
+mélange,algue,amod,NOUN,0.5527059435844421,[],,
+ensemble,sésame,appos,NOUN,0.5519940853118896,[],,
+portion,déposer,acl,VERB,0.5213146805763245,[],,
+morceau,algue,nmod,NOUN,0.5475980639457703,[],,
+ajouter,tranche,nmod,NOUN,0.4790236055850982,[],,
+tranche,avocat,nmod,NOUN,0.4311899542808532,[],,
+tranche,dessus,nmod,NOUN,0.4642078876495361,[],,
+dessus,facultatif,appos,ADJ,0.4720077216625213,[],,

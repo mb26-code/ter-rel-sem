@@ -1,0 +1,26 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+crème,ingrédient,nmod,NOUN,0.6610228419303894,"[{""id"": 24850723, ""node1"": 44001, ""node2"": 123418, ""type"": 0, ""w"": 30.0}, {""id"": 24842105, ""node1"": 44001, ""node2"": 123418, ""type"": 6, ""w"": 143.0}]",r_isa,143.0
+crème,persil,nmod,NOUN,0.6723319292068481,[],,
+crème,tomate,nmod,NOUN,0.6629513502120972,[],,
+tomate,beurre,amod,NOUN,0.7559117674827576,"[{""id"": 421761122, ""node1"": 22138, ""node2"": 140377, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+crème,crevette,nmod,NOUN,0.6360651254653931,[],,
+crevette,crème,acl,NOUN,0.6360651254653931,[],,
+crème,liquide,amod,ADJ,0.6173139810562134,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]",r_carac,52.0
+crevette,lait,acl:relcl,NOUN,0.6284672617912292,[],,
+lait,sel,nmod,NOUN,0.6984105706214905,[],,
+casserole,balance,obj,NOUN,0.5916885137557983,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+casserole,dent,amod,ADJ,0.5402095317840576,[],,
+revenir,beurre,obj,NOUN,0.6765562295913696,[],,
+ajouter,oignon,obj,NOUN,0.585871696472168,[],,
+ajouter,tomate,obj,NOUN,0.6318210363388062,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 30.0}]",r_agent,30.0
+arriver,sauce,nsubj,NOUN,0.6755099892616272,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+laisser,mijoter,obj,VERB,0.5789923667907715,[],,
+ajouter,crevette,obj,NOUN,0.5697072744369507,[],,
+déposer,pâte,obj,NOUN,0.6274656057357788,"[{""id"": 97862127, ""node1"": 35714, ""node2"": 34069, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+pâte,cuire,acl,VERB,0.7488689422607422,"[{""id"": 987166482, ""node1"": 34069, ""node2"": 5115, ""type"": 25, ""w"": -25.0}, {""id"": 96931380, ""node1"": 34069, ""node2"": 5115, ""type"": 26, ""w"": 32.0}]",r_patient-1,32.0
+ajouter,parmesan,obj,NOUN,0.6033021807670593,[],,
+persil,haché,acl,ADJ,0.5771787762641907,"[{""id"": 8222864, ""node1"": 135982, ""node2"": 47887, ""type"": 666, ""w"": 1.0}]",r_aki,1.0

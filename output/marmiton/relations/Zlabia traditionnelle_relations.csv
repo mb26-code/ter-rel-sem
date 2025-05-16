@@ -1,0 +1,60 @@
+node1,node2,relations
+titre,ingrédient,[]
+ingrédient,huile,"[{""id"": 561306445, ""node1"": 123418, ""node2"": 141971, ""type"": 0, ""w"": 44.0}]"
+ingrédient,sucre,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]"
+sucre,semoule,"[{""id"": 277256, ""node1"": 139481, ""node2"": 64778, ""type"": 17, ""w"": -94.0}, {""id"": 639101518, ""node1"": 139481, ""node2"": 64778, ""type"": 141, ""w"": 25.0}]"
+sucre,sel,"[{""id"": 83941, ""node1"": 139481, ""node2"": 13260, ""type"": 0, ""w"": 401.0}, {""id"": 1046576271, ""node1"": 139481, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 1895756, ""node1"": 139481, ""node2"": 13260, ""type"": 20, ""w"": 51.0}, {""id"": 1376354, ""node1"": 139481, ""node2"": 13260, ""type"": 21, ""w"": 60.0}]"
+sel,colorer,[]
+colorer,alimentaire,[]
+colorer,safran,[]
+safran,levure,[]
+safran,boulanger,[]
+boulanger,sec,[]
+titre,eau,"[{""id"": 368369040, ""node1"": 7970, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]"
+eau,fleur,[]
+eau,oranger,[]
+oranger,miel,[]
+oranger,fleur,"[{""id"": 364269, ""node1"": 33024, ""node2"": 28985, ""type"": 0, ""w"": 61.0}]"
+fleur,citron,[]
+citron,eau,[]
+eau,saladier,[]
+saladier,bol,"[{""id"": 2284782, ""node1"": 45455, ""node2"": 145405, ""type"": 0, ""w"": 73.0}, {""id"": 979970161, ""node1"": 45455, ""node2"": 145405, ""type"": 666, ""w"": 3.0}]"
+bol,casserole,[]
+poche,balance,"[{""id"": 54692522, ""node1"": 139906, ""node2"": 145190, ""type"": 0, ""w"": 22.0}, {""id"": 54673051, ""node1"": 139906, ""node2"": 145190, ""type"": 5, ""w"": 75.0}]"
+balance,cuisine,[]
+balance,douille,[]
+millimètre,plat,[]
+balance,étape,[]
+balance,saladier,[]
+eau,mélanger,[]
+mélanger,farine,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]"
+pincée,sel,"[{""id"": 665112730, ""node1"": 122023, ""node2"": 13260, ""type"": 174, ""w"": 40.0}, {""id"": 990072491, ""node1"": 122023, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]"
+mélanger,ingrédient,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]"
+ingrédient,sec,[]
+ajouter,cuillère,[]
+cuillère,café,"[{""id"": 163839, ""node1"": 51905, ""node2"": 66324, ""type"": 0, ""w"": 180.0}, {""id"": 11354840, ""node1"": 51905, ""node2"": 66324, ""type"": 15, ""w"": 39.0}, {""id"": 720818158, ""node1"": 51905, ""node2"": 66324, ""type"": 174, ""w"": 25.0}]"
+cuillère,eau,"[{""id"": 662508617, ""node1"": 51905, ""node2"": 65012, ""type"": 0, ""w"": 24.0}]"
+colorant,alimentaire,[]
+obtenir,pâte,[]
+pâte,homogène,"[{""id"": 796702467, ""node1"": 34069, ""node2"": 124759, ""type"": 0, ""w"": 28.0}, {""id"": 372565004, ""node1"": 34069, ""node2"": 124759, ""type"": 17, ""w"": 26.0}]"
+torchon,propre,"[{""id"": 14801365, ""node1"": 87841, ""node2"": 118316, ""type"": 17, ""w"": 30.0}]"
+lever,pâte,[]
+reposer,pâte,"[{""id"": 9366390, ""node1"": 106663, ""node2"": 34069, ""type"": 0, ""w"": 32.0}, {""id"": 218835, ""node1"": 106663, ""node2"": 34069, ""type"": 13, ""w"": 59.0}, {""id"": 9173399, ""node1"": 106663, ""node2"": 34069, ""type"": 35, ""w"": 31.0}]"
+chauffer,eau,"[{""id"": 548529671, ""node1"": 90994, ""node2"": 65012, ""type"": 0, ""w"": 29.0}, {""id"": 426777342, ""node1"": 90994, ""node2"": 65012, ""type"": 14, ""w"": 100.0}]"
+eau,restant,[]
+commencer,celui-ci,[]
+ajouter,commencer,[]
+ajouter,miel,[]
+former,sirop,[]
+chauffer,bain,[]
+bain,huile,"[{""id"": 363950, ""node1"": 59618, ""node2"": 141971, ""type"": 0, ""w"": 56.0}]"
+bain,180,[]
+bain,degré,[]
+huile,chaud,"[{""id"": 669874570, ""node1"": 141971, ""node2"": 19150, ""type"": 0, ""w"": 21.0}, {""id"": 24929996, ""node1"": 141971, ""node2"": 19150, ""type"": 17, ""w"": 76.0}]"
+chaud,faire,[]
+faire,spirale,[]
+colorer,minute,[]
+minute,côté,[]
+fois,cuire,[]
+papier,absorber,[]
+déguster,froid,"[{""id"": 405871111, ""node1"": 80710, ""node2"": 49803, ""type"": 34, ""w"": 26.0}]"

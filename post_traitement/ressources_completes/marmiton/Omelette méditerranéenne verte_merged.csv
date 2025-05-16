@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,omelette,nmod,NOUN,0.5322758555412292,[],,
+omelette,méditerranéen,amod,ADJ,0.6400682926177979,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,courgette,nmod,NOUN,0.7117159366607666,[],,
+titre,oeuf,nmod,NOUN,0.5048717856407166,[],,
+oeuf,jambon,nmod,NOUN,0.5943741798400879,"[{""id"": 920587244, ""node1"": 116175, ""node2"": 57980, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+jambon,ibérique,amod,ADJ,0.5407554507255554,[],,
+oeuf,huile,amod,NOUN,0.6085584163665771,[],,
+set,poêle,obj,NOUN,0.5301709771156311,[],,
+poêle,couteau,nmod,NOUN,0.6776712536811829,[],,
+couteau,économe,nmod,NOUN,0.5018488168716431,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]",r_hypo,76.0
+économe,four,nmod,NOUN,0.6647013425827026,[],,
+four,bol,nmod,NOUN,0.6603272557258606,[],,
+bol,fourchette,nmod,NOUN,0.5402145385742188,[],,
+bol,cuillère,nmod,NOUN,0.5572551488876343,"[{""id"": 1046576301, ""node1"": 145405, ""node2"": 51905, ""type"": 8, ""w"": 20.0}]",r_hypo,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+éplucher,courgette,obj,NOUN,0.5762845277786255,"[{""id"": 440511343, ""node1"": 59879, ""node2"": 85172, ""type"": 0, ""w"": 29.0}, {""id"": 13018727, ""node1"": 59879, ""node2"": 85172, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+mélanger,couper,advcl,VERB,0.50969398021698,"[{""id"": 54629781, ""node1"": 37151, ""node2"": 128828, ""type"": 0, ""w"": 24.0}, {""id"": 54618240, ""node1"": 37151, ""node2"": 128828, ""type"": 5, ""w"": 78.0}]",r_syn,78.0
+couper,rondelle,obj,NOUN,0.4930605292320251,"[{""id"": 797551061, ""node1"": 128828, ""node2"": 71106, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+couper,oignon,obj,NOUN,0.596168577671051,"[{""id"": 435065584, ""node1"": 128828, ""node2"": 123307, ""type"": 0, ""w"": 29.0}, {""id"": 31770866, ""node1"": 128828, ""node2"": 123307, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+ajouter,ail,obj,NOUN,0.5651978254318237,[],,
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+casser,œuf,obj,NOUN,0.5383567810058594,[],,
+verser,œuf,obj,NOUN,0.5614053606987,[],,
+verser,ajouter,advcl,VERB,0.4542763829231262,"[{""id"": 12293758, ""node1"": 104506, ""node2"": 25099, ""type"": 0, ""w"": 67.0}, {""id"": 582612, ""node1"": 104506, ""node2"": 25099, ""type"": 5, ""w"": 86.0}, {""id"": 495005859, ""node1"": 104506, ""node2"": 25099, ""type"": 35, ""w"": 62.0}, {""id"": 213486817, ""node1"": 104506, ""node2"": 25099, ""type"": 57, ""w"": 31.0}]",r_syn,86.0
+ajouter,jambon,obj,NOUN,0.6169880032539368,[],,
+jambon,couper,acl,VERB,0.6028013229370117,"[{""id"": 31770896, ""node1"": 57980, ""node2"": 128828, ""type"": 26, ""w"": 35.0}]",r_patient-1,35.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+cuire,remuer,advcl,VERB,0.6866573691368103,[],,
+cuire,servir,advcl,VERB,0.7140127420425415,[],,
+servir,omelette,obj,NOUN,0.6305859684944153,[],,
+servir,appétit,obj,NOUN,0.5391475558280945,[],,

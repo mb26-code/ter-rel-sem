@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+salade,délicieuse,amod,NOUN,0.6570700407028198,"[{""id"": 31842757, ""node1"": 118908, ""node2"": 155721, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
+salade,ingrédient,nmod,NOUN,0.7127874493598938,[],,
+salade,tomate,appos,NOUN,0.6603864431381226,"[{""id"": 129517, ""node1"": 118908, ""node2"": 22138, ""type"": 0, ""w"": 186.0}, {""id"": 97758137, ""node1"": 118908, ""node2"": 22138, ""type"": 9, ""w"": 31.0}, {""id"": 11333951, ""node1"": 118908, ""node2"": 22138, ""type"": 28, ""w"": 38.0}, {""id"": 765200127, ""node1"": 118908, ""node2"": 22138, ""type"": 50, ""w"": 27.0}, {""id"": 675297494, ""node1"": 118908, ""node2"": 22138, ""type"": 666, ""w"": 9.0}]",r_associated,186.0
+tomate,curry,nmod,NOUN,0.7037389278411865,"[{""id"": 421761116, ""node1"": 22138, ""node2"": 82813, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+curry,sel,nmod,NOUN,0.7383365035057068,"[{""id"": 7242974, ""node1"": 82813, ""node2"": 13260, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+sel,poivre,nmod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,miel,amod,ADJ,0.6577664613723755,[],,
+miel,huile,amod,NOUN,0.6502832770347595,[],,
+miel,vinaigre,nmod,NOUN,0.6219134330749512,"[{""id"": 654230744, ""node1"": 136055, ""node2"": 145443, ""type"": 0, ""w"": 29.0}, {""id"": 5021048, ""node1"": 136055, ""node2"": 145443, ""type"": 777, ""w"": 10.0}]",r_associated,29.0
+vinaigre,balsamique,amod,ADJ,0.5980404615402222,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]",r_associated,166.0
+vinaigre,huile,amod,NOUN,0.6314905285835266,"[{""id"": 2139914, ""node1"": 145443, ""node2"": 141971, ""type"": 0, ""w"": 86.0}, {""id"": 1046576307, ""node1"": 145443, ""node2"": 141971, ""type"": 8, ""w"": 20.0}]",r_associated,86.0
+vinaigre,échalote,nmod,NOUN,0.6470509767532349,[],,
+salade,étape,nmod,NOUN,0.5620172619819641,[],,
+salade,cuire,acl,VERB,0.8083714842796326,[],,
+cuire,lentille,obj,NOUN,0.7369478940963745,"[{""id"": 376201112, ""node1"": 5115, ""node2"": 44137, ""type"": 16, ""w"": 27.0}]",r_instr,27.0
+cuire,indiquer,advcl,VERB,0.6858347058296204,[],,
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+préparer,vinaigrette,obj,NOUN,0.6360166668891907,"[{""id"": 438786344, ""node1"": 36246, ""node2"": 47740, ""type"": 0, ""w"": 28.0}, {""id"": 15084894, ""node1"": 36246, ""node2"": 47740, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+couper,tomate,obj,NOUN,0.6290057301521301,"[{""id"": 628044027, ""node1"": 128828, ""node2"": 22138, ""type"": 0, ""w"": 27.0}, {""id"": 628044026, ""node1"": 128828, ""node2"": 22138, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+quartier,fin,amod,NOUN,0.4183693528175354,[],,
+couper,agréable,amod,ADJ,0.4638805389404297,[],,
+ajouter,lentille,obj,NOUN,0.5168600082397461,[],,
+fois,froid,amod,ADJ,0.4708743989467621,[],,
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]",r_carac-1,5.0

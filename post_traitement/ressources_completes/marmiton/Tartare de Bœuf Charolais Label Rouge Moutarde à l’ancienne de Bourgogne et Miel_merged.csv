@@ -1,0 +1,22 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+ingrédient,miel,appos,NOUN,0.6318907737731934,"[{""id"": 245158268, ""node1"": 123418, ""node2"": 136055, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+miel,fleur,nmod,NOUN,0.5948697924613953,"[{""id"": 661368143, ""node1"": 136055, ""node2"": 28985, ""type"": 0, ""w"": 25.0}, {""id"": 2045778, ""node1"": 136055, ""node2"": 28985, ""type"": 666, ""w"": 1.0}]",r_associated,25.0
+label,huile,acl,NOUN,0.4975747466087341,[],,
+moutarde,olive,amod,ADJ,0.6080439686775208,[],,
+moutarde,Bourgogne,nmod,PROPN,0.4731008410453796,"[{""id"": 113266923, ""node1"": 28335, ""node2"": 138828, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+sel,ancien,amod,ADJ,0.6555197834968567,[],,
+label,sel,nmod,NOUN,0.6317644119262695,[],,
+sel,paprika,acl,NOUN,0.6801984906196594,[],,
+oignon,balance,nmod,NOUN,0.607184648513794,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,couteau,nmod,NOUN,0.5317514538764954,[],,
+couteau,saladier,nmod,NOUN,0.6030980348587036,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+peser,ingrédient,obj,NOUN,0.4917863011360168,"[{""id"": 915341708, ""node1"": 34122, ""node2"": 123418, ""type"": 0, ""w"": 20.0}, {""id"": 430055375, ""node1"": 34122, ""node2"": 123418, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+oignon,couper,acl,VERB,0.596168577671051,"[{""id"": 900892185, ""node1"": 123307, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 31770901, ""node1"": 123307, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 1767208, ""node1"": 123307, ""node2"": 128828, ""type"": 666, ""w"": 2.0}]",r_patient-1,100.0
+insérer,huile,obj,NOUN,0.5542109608650208,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+ajouter,moutarde,obj,NOUN,0.585381031036377,[],,
+ajouter,miel,obj,NOUN,0.6036369204521179,[],,
+ajouter,sel,obj,NOUN,0.6747812032699585,"[{""id"": 914306223, ""node1"": 25099, ""node2"": 13260, ""type"": 0, ""w"": 20.0}, {""id"": 220261, ""node1"": 25099, ""node2"": 13260, ""type"": 14, ""w"": 70.0}]",r_patient,70.0
+mélanger,tout,obj,NOUN,0.528428852558136,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]",r_patient,110.0

@@ -1,0 +1,20 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+oeuf,brouiller,acl,VERB,0.5105379223823547,[],,
+sel,poivre,acl,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,oeuf,nmod,NOUN,0.646331787109375,"[{""id"": 798889061, ""node1"": 139597, ""node2"": 116175, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+petit,suisse,amod,ADJ,0.4592638611793518,[],,
+cercle,pâtisserie,nmod,NOUN,0.4923855662345886,[],,
+pâtisserie,couteau,appos,NOUN,0.6024098992347717,[],,
+couteau,économe,nmod,NOUN,0.5018488168716431,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]",r_hypo,76.0
+économe,four,nmod,NOUN,0.6647013425827026,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+four,poêle,nmod,NOUN,0.7086914777755737,"[{""id"": 620960557, ""node1"": 9190, ""node2"": 119686, ""type"": 0, ""w"": 52.0}]",r_associated,52.0
+crêpe,étape,obj,NOUN,0.5361658334732056,[],,
+couper,concombre,obj,NOUN,0.529761552810669,[],,
+concombre,cube,nmod,NOUN,0.511466920375824,[],,
+ajouter,petit,obj,ADJ,0.4974119067192077,[],,
+ajouter,saler,advcl,VERB,0.5586202144622803,[],,
+griller,faire,advcl,VERB,0.5669460892677307,[],,
+faire,oeuf,obj,NOUN,0.5896216034889221,[],,

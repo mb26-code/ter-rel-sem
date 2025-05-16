@@ -1,0 +1,34 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+poulet,sésame,nmod,NOUN,0.6683554649353027,[],,
+sésame,ingrédient,nmod,NOUN,0.6195341348648071,[],,
+miel,soja,acl,ADV,0.6298032402992249,[],,
+blanc,poulet,nmod,NOUN,0.6177458167076111,"[{""id"": 9356626, ""node1"": 15196, ""node2"": 146261, ""type"": 0, ""w"": 50.0}, {""id"": 97329786, ""node1"": 15196, ""node2"": 146261, ""type"": 10, ""w"": 29.0}, {""id"": 1933499, ""node1"": 15196, ""node2"": 146261, ""type"": 35, ""w"": 45.0}, {""id"": 14659361, ""node1"": 15196, ""node2"": 146261, ""type"": 42, ""w"": 29.0}, {""id"": 1663131, ""node1"": 15196, ""node2"": 146261, ""type"": 666, ""w"": 1.0}]",r_associated,50.0
+fécule,maïs,nmod,ADP,0.5981661081314087,"[{""id"": 968308159, ""node1"": 30818, ""node2"": 139790, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+eau,graine,nmod,NOUN,0.5944392681121826,"[{""id"": 1030663598, ""node1"": 65012, ""node2"": 14469, ""type"": 0, ""w"": 20.0}, {""id"": 480295435, ""node1"": 65012, ""node2"": 14469, ""type"": 777, ""w"": 10.0}]",r_associated,20.0
+graine,sésame,nmod,NOUN,0.5720810890197754,"[{""id"": 797533486, ""node1"": 14469, ""node2"": 18404, ""type"": 0, ""w"": 29.0}, {""id"": 246270686, ""node1"": 14469, ""node2"": 18404, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+sésame,sucre,acl,NOUN,0.6855493187904358,[],,
+sucre,eau,nmod,NOUN,0.6594484448432922,[],,
+eau,huile,amod,NOUN,0.5881909728050232,"[{""id"": 922137128, ""node1"": 65012, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+eau,casserole,nmod,NOUN,0.6077002882957458,"[{""id"": 22760165, ""node1"": 65012, ""node2"": 57253, ""type"": 15, ""w"": 26.0}]",r_lieu,26.0
+casserole,bol,nmod,NOUN,0.5670263171195984,[],,
+bol,planche,nmod,NOUN,0.5588846802711487,[],,
+planche,balance,nmod,NOUN,0.4853509068489074,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+eau,étape,nmod,NOUN,0.5415300130844116,[],,
+bol,petit,amod,ADJ,0.5434224009513855,[],,
+mélanger,fécule,obj,NOUN,0.5970613360404968,[],,
+fois,mélange,nmod,NOUN,0.4820212125778198,[],,
+mélange,homogène,amod,ADJ,0.4782799482345581,"[{""id"": 914526136, ""node1"": 14800, ""node2"": 124759, ""type"": 0, ""w"": 21.0}, {""id"": 33170626, ""node1"": 14800, ""node2"": 124759, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+casserole,autre,amod,ADJ,0.588993489742279,[],,
+casserole,mélanger,acl,VERB,0.6540839076042175,"[{""id"": 96920367, ""node1"": 57253, ""node2"": 37151, ""type"": 30, ""w"": 15.0}]",r_lieu_action,15.0
+mélanger,eau,obj,NOUN,0.5894894003868103,[],,
+eau,ail,nmod,NOUN,0.6270644664764404,[],,
+verser,huile,obj,NOUN,0.6115446090698242,"[{""id"": 227659, ""node1"": 104506, ""node2"": 141971, ""type"": 14, ""w"": 57.0}, {""id"": 645787360, ""node1"": 104506, ""node2"": 141971, ""type"": 666, ""w"": 2.0}]",r_patient,57.0
+huile,poêle,nmod,NOUN,0.6790264844894409,"[{""id"": 31823895, ""node1"": 141971, ""node2"": 119686, ""type"": 15, ""w"": 54.0}]",r_lieu,54.0
+chaud,huile,nsubj,NOUN,0.6474975347518921,"[{""id"": 31746541, ""node1"": 19150, ""node2"": 141971, ""type"": 23, ""w"": 28.0}]",r_carac-1,28.0
+ajouter,poulet,obj,NOUN,0.6573215126991272,[],,
+cuisson,complet,amod,ADJ,0.6762620210647583,[],,
+incorporer,sauce,obj,NOUN,0.679974377155304,[],,
+sauce,saler,amod,ADJ,0.7184929847717285,[],,
+sauce,préparer,acl,VERB,0.6940045356750488,"[{""id"": 893428150, ""node1"": 141110, ""node2"": 36246, ""type"": 0, ""w"": 20.0}, {""id"": 3219217, ""node1"": 141110, ""node2"": 36246, ""type"": 25, ""w"": 0.0}, {""id"": 373070066, ""node1"": 141110, ""node2"": 36246, ""type"": 26, ""w"": 100.0}, {""id"": 348326087, ""node1"": 141110, ""node2"": 36246, ""type"": 38, ""w"": 34.0}]",r_patient-1,100.0

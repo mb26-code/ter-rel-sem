@@ -1,0 +1,24 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,sirop,appos,NOUN,0.5721874833106995,[],,
+sirop,lavande,nmod,NOUN,0.5919548869132996,[],,
+sirop,ingrédient,nmod,NOUN,0.658586859703064,[],,
+sirop,sucre,nmod,NOUN,0.648704469203949,"[{""id"": 217497, ""node1"": 91109, ""node2"": 139481, ""type"": 0, ""w"": 407.0}, {""id"": 415329, ""node1"": 91109, ""node2"": 139481, ""type"": 9, ""w"": 70.0}, {""id"": 1035329517, ""node1"": 91109, ""node2"": 139481, ""type"": 50, ""w"": 31.0}, {""id"": 984864968, ""node1"": 91109, ""node2"": 139481, ""type"": 666, ""w"": 3.0}]",r_associated,407.0
+sucre,lavande,amod,ADJ,0.6421247720718384,[],,
+sucre,eau,nmod,NOUN,0.6594484448432922,[],,
+casserole,saladier,obj,NOUN,0.6254573464393616,[],,
+saladier,balance,nmod,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+titre,chauffer,acl,VERB,0.5177783370018005,[],,
+casserole,feu,nmod,NOUN,0.5973718166351318,"[{""id"": 252156, ""node1"": 57253, ""node2"": 143703, ""type"": 0, ""w"": 57.0}, {""id"": 96920401, ""node1"": 57253, ""node2"": 143703, ""type"": 15, ""w"": 30.0}, {""id"": 1762446, ""node1"": 57253, ""node2"": 143703, ""type"": 666, ""w"": 2.0}]",r_associated,57.0
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+chauffer,eau,obj,NOUN,0.593856930732727,"[{""id"": 548529671, ""node1"": 90994, ""node2"": 65012, ""type"": 0, ""w"": 29.0}, {""id"": 426777342, ""node1"": 90994, ""node2"": 65012, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+eau,remuer,acl,VERB,0.6087642312049866,[],,
+fois,mélange,nmod,NOUN,0.4820212125778198,[],,
+mélange,ébullition,nmod,NOUN,0.5576464533805847,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+cuire,baisser,advcl,VERB,0.6752694845199585,[],,
+baisser,feu,obj,NOUN,0.552813708782196,[],,
+ajouter,lavande,obj,NOUN,0.513773500919342,[],,
+bocal,exemple,nmod,NOUN,0.540020763874054,[],,
+ôter,lendemain,obj,NOUN,0.4398635327816009,[],,

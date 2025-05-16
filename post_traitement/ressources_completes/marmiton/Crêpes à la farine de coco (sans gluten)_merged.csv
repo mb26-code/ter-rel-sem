@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+farine,coco,nmod,VERB,0.6540257334709167,[],,
+crêpe,gluten,nmod,NOUN,0.6271049976348877,"[{""id"": 115736182, ""node1"": 17186, ""node2"": 19041, ""type"": 9, ""w"": 30.0}]",r_has_part,30.0
+crêpe,ingrédient,nmod,NOUN,0.6617911458015442,[],,
+crêpe,sel,nmod,NOUN,0.7378122210502625,[],,
+sel,farine,nmod,NOUN,0.7164311408996582,[],,
+sucre,coco,amod,ADV,0.6447168588638306,[],,
+sucre,huile,amod,NOUN,0.7004923224449158,[],,
+lait,coco,amod,ADV,0.5941302180290222,"[{""id"": 796793155, ""node1"": 86296, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+sucre,lait,nmod,NOUN,0.6437966823577881,[],,
+lait,oeuf,nmod,NOUN,0.590930700302124,"[{""id"": 920038083, ""node1"": 86296, ""node2"": 116175, ""type"": 0, ""w"": 21.0}, {""id"": 385498014, ""node1"": 86296, ""node2"": 116175, ""type"": 8, ""w"": -25.0}]",r_associated,21.0
+louche,poêle,nmod,NOUN,0.6664699912071228,[],,
+crêpe,crêpe,nmod,NOUN,0.5387868881225586,"[{""id"": 1077682175, ""node1"": 17186, ""node2"": 17186, ""type"": 0, ""w"": 30.0}, {""id"": 292067, ""node1"": 17186, ""node2"": 17186, ""type"": 19, ""w"": 60.0}]",r_lemma,60.0
+crêpe,balance,obj,NOUN,0.5917694568634033,"[{""id"": 347084028, ""node1"": 17186, ""node2"": 145190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+ajouter,œuf,obj,NOUN,0.5268428325653076,[],,
+huile,coco,nmod,ADV,0.6010280847549438,"[{""id"": 669863245, ""node1"": 141971, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+ajouter,lait,obj,NOUN,0.5957752466201782,"[{""id"": 373014760, ""node1"": 25099, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+mélanger,limiter,advcl,VERB,0.4577576220035553,[],,
+reposer,pâte,obj,NOUN,0.6314936280250549,"[{""id"": 9366390, ""node1"": 106663, ""node2"": 34069, ""type"": 0, ""w"": 32.0}, {""id"": 218835, ""node1"": 106663, ""node2"": 34069, ""type"": 13, ""w"": 59.0}, {""id"": 9173399, ""node1"": 106663, ""node2"": 34069, ""type"": 35, ""w"": 31.0}]",r_agent,59.0
+peu,matière,nmod,NOUN,0.4574180841445923,[],,
+matière,gras,amod,ADJ,0.5428515672683716,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+chaud,lui,nsubj,PRON,0.4615650475025177,[],,
+ajouter,chaud,advcl,ADJ,0.544730007648468,[],,
+ajouter,louche,obj,NOUN,0.5061096549034119,[],,
+louche,pâte,nmod,NOUN,0.6495169401168823,"[{""id"": 415002984, ""node1"": 124144, ""node2"": 34069, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+cuire,min,obj,NOUN,0.5212259888648987,[],,

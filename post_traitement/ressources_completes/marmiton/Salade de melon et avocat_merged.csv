@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,salade,appos,NOUN,0.5926524996757507,[],,
+salade,melon,nmod,NOUN,0.6431654095649719,"[{""id"": 920010652, ""node1"": 118908, ""node2"": 31080, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+avocat,ingrédient,nmod,NOUN,0.4848114550113678,"[{""id"": 15370403, ""node1"": 104789, ""node2"": 123418, ""type"": 0, ""w"": 39.0}, {""id"": 506028, ""node1"": 104789, ""node2"": 123418, ""type"": 3, ""w"": 51.0}, {""id"": 581820109, ""node1"": 104789, ""node2"": 123418, ""type"": 6, ""w"": 29.0}]",r_domain,51.0
+salade,vinaigre,nmod,NOUN,0.7109248638153076,"[{""id"": 385546, ""node1"": 118908, ""node2"": 145443, ""type"": 0, ""w"": 68.0}, {""id"": 97758245, ""node1"": 118908, ""node2"": 145443, ""type"": 9, ""w"": 27.0}]",r_associated,68.0
+vinaigre,balsamique,amod,ADJ,0.5980404615402222,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]",r_associated,166.0
+vinaigre,melon,appos,NOUN,0.6202644109725952,[],,
+salade,avocat,nmod,NOUN,0.5618098974227905,"[{""id"": 558712512, ""node1"": 118908, ""node2"": 104789, ""type"": 0, ""w"": 46.0}, {""id"": 1037447699, ""node1"": 118908, ""node2"": 104789, ""type"": 666, ""w"": 4.0}]",r_associated,46.0
+avocat,fumé,amod,ADJ,0.4877796173095703,[],,
+fumé,pignon,obj,NOUN,0.4871179461479187,[],,
+pignon,huile,amod,NOUN,0.5422000885009766,"[{""id"": 6632396, ""node1"": 145454, ""node2"": 141971, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+salade,top,nmod,NOUN,0.4977631270885467,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+four,set,nmod,NOUN,0.553033173084259,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+set,bol,appos,NOUN,0.4851927459239959,[],,
+bol,saladier,nmod,NOUN,0.5367903709411621,"[{""id"": 796872211, ""node1"": 145405, ""node2"": 45455, ""type"": 0, ""w"": 28.0}, {""id"": 1029292999, ""node1"": 145405, ""node2"": 45455, ""type"": 67, ""w"": 34.0}]",r_similar,34.0
+saladier,étape,nmod,NOUN,0.5214974880218506,[],,
+salade,griller,acl,VERB,0.7289947867393494,[],,
+griller,pignon,obj,NOUN,0.5525352358818054,[],,
+pépin,melon,nmod,NOUN,0.4605268537998199,"[{""id"": 12860089, ""node1"": 143219, ""node2"": 31080, ""type"": 0, ""w"": 19.0}, {""id"": 11023378, ""node1"": 143219, ""node2"": 31080, ""type"": 10, ""w"": 17.0}, {""id"": 160494, ""node1"": 143219, ""node2"": 31080, ""type"": 15, ""w"": 78.0}]",r_lieu,78.0
+ôter,peau,obj,NOUN,0.5053906440734863,"[{""id"": 31874381, ""node1"": 17169, ""node2"": 109785, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+peau,avocat,nmod,NOUN,0.4863959550857544,"[{""id"": 97333298, ""node1"": 109785, ""node2"": 104789, ""type"": 0, ""w"": 18.0}, {""id"": 9981256, ""node1"": 109785, ""node2"": 104789, ""type"": 10, ""w"": 26.0}]",r_holo,26.0
+couper,chair,obj,NOUN,0.5305777192115784,[],,
+Mélangez,huile,obj,NOUN,0.5593315362930298,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+Mélangez,vinaigre,appos,NOUN,0.5480743050575256,[],,
+vinaigre,sel,appos,NOUN,0.683134913444519,"[{""id"": 2147403, ""node1"": 145443, ""node2"": 13260, ""type"": 0, ""w"": 80.0}]",r_associated,80.0
+salade,fond,nmod,NOUN,0.6618233323097229,[],,
+fond,assiette,nmod,NOUN,0.5784623026847839,"[{""id"": 53749231, ""node1"": 119272, ""node2"": 62735, ""type"": 0, ""w"": 22.0}, {""id"": 53602986, ""node1"": 119272, ""node2"": 62735, ""type"": 5, ""w"": 80.0}]",r_syn,80.0
+disposer,tranche,obj,NOUN,0.4626000821590423,[],,
+tranche,melon,nmod,NOUN,0.5610186457633972,[],,
+tranche,dessus,amod,ADV,0.4642078876495361,[],,
+pin,grillé,amod,ADJ,0.4581428468227386,[],,
+déguster,tout,nsubj,NOUN,0.5616986155509949,[],,
+tout,vinaigrette,nmod,NOUN,0.6078792214393616,[],,

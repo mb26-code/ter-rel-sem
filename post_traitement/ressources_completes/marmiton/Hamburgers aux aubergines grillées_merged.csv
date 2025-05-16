@@ -1,0 +1,27 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+aubergine,ingrédient,nmod,NOUN,0.6650853753089905,[],,
+poivre,sel,appos,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,aubergine,nmod,NOUN,0.7145346403121948,[],,
+burger,herbe,obj,NOUN,0.5544123649597168,[],,
+herbe,Provence,nmod,PROPN,0.4220801889896393,[],,
+burger,top,obj,NOUN,0.416585773229599,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+steak,différent,amod,ADJ,0.5986530780792236,[],,
+cuire,steak,obj,NOUN,0.7575573921203613,"[{""id"": 796846082, ""node1"": 5115, ""node2"": 55572, ""type"": 0, ""w"": 28.0}, {""id"": 15025387, ""node1"": 5115, ""node2"": 55572, ""type"": 13, ""w"": 40.0}, {""id"": 15082745, ""node1"": 5115, ""node2"": 55572, ""type"": 14, ""w"": 35.0}]",r_agent,40.0
+aubergine,grillé,amod,ADJ,0.6362186670303345,"[{""id"": 1038623504, ""node1"": 14731, ""node2"": 141899, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+saler,poivrer,advcl,VERB,0.5285379886627197,"[{""id"": 796710265, ""node1"": 15671, ""node2"": 70211, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+mettre,pincée,obj,NOUN,0.5193409323692322,[],,
+pincée,herbe,nmod,NOUN,0.5158771276473999,[],,
+griller,pain,obj,NOUN,0.7031118273735046,"[{""id"": 485475760, ""node1"": 46367, ""node2"": 61283, ""type"": 0, ""w"": 39.0}, {""id"": 174255, ""node1"": 46367, ""node2"": 61283, ""type"": 13, ""w"": 60.0}, {""id"": 289454910, ""node1"": 46367, ""node2"": 61283, ""type"": 14, ""w"": 100.0}, {""id"": 376198961, ""node1"": 46367, ""node2"": 61283, ""type"": 16, ""w"": 30.0}]",r_patient,100.0
+pain,déposer,acl:relcl,VERB,0.6536194682121277,"[{""id"": 1018352180, ""node1"": 61283, ""node2"": 35714, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+déposer,tranche,obj,NOUN,0.461878627538681,[],,
+tranche,fromage,nmod,NOUN,0.6097967624664307,"[{""id"": 720818623, ""node1"": 143123, ""node2"": 141687, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+fin,minute,nmod,NOUN,0.4153892695903778,[],,
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+fin,ajouter,acl,VERB,0.4294197261333465,[],,
+ajouter,oignon,obj,NOUN,0.585871696472168,[],,
+tranche,aubergine,nmod,NOUN,0.5535061955451965,[],,
+oignon,steak,nsubj:pass,NOUN,0.6757868528366089,[],,
+sauce,pain,nmod,NOUN,0.7790783643722534,"[{""id"": 651237402, ""node1"": 141110, ""node2"": 61283, ""type"": 0, ""w"": 42.0}, {""id"": 588198960, ""node1"": 141110, ""node2"": 61283, ""type"": 777, ""w"": 10.0}]",r_associated,42.0

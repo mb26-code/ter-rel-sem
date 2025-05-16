@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+fondre,chocolat,obj,NOUN,0.5867562890052795,"[{""id"": 28589116, ""node1"": 16480, ""node2"": 34157, ""type"": 0, ""w"": 63.0}, {""id"": 24768886, ""node1"": 16480, ""node2"": 34157, ""type"": 13, ""w"": 30.0}, {""id"": 1011304980, ""node1"": 16480, ""node2"": 34157, ""type"": 14, ""w"": 30.0}, {""id"": 1009801551, ""node1"": 16480, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]",r_associated,63.0
+fondre,ingrédient,obj,NOUN,0.628924548625946,[],,
+titre,chocolat,nmod,NOUN,0.5182958245277405,[],,
+chocolat,pâtissier,amod,ADJ,0.553939163684845,"[{""id"": 822321508, ""node1"": 34157, ""node2"": 31618, ""type"": 0, ""w"": 30.0}, {""id"": 599365095, ""node1"": 34157, ""node2"": 31618, ""type"": 17, ""w"": 12.0}]",r_associated,30.0
+chocolat,sucre,acl,NOUN,0.6538985371589661,"[{""id"": 165653, ""node1"": 34157, ""node2"": 139481, ""type"": 0, ""w"": 202.0}, {""id"": 9621343, ""node1"": 34157, ""node2"": 139481, ""type"": 8, ""w"": -17.0}, {""id"": 386523, ""node1"": 34157, ""node2"": 139481, ""type"": 9, ""w"": 56.0}, {""id"": 11347756, ""node1"": 34157, ""node2"": 139481, ""type"": 28, ""w"": 38.0}, {""id"": 86848971, ""node1"": 34157, ""node2"": 139481, ""type"": 50, ""w"": 85.0}, {""id"": 369697932, ""node1"": 34157, ""node2"": 139481, ""type"": 666, ""w"": 5.0}]",r_associated,202.0
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,oeuf,nmod,NOUN,0.588036835193634,[],,
+titre,Nutella,nmod,PROPN,0.4476278722286224,[],,
+Nutella,beurre,acl,NOUN,0.6162963509559631,"[{""id"": 1619368, ""node1"": 161947, ""node2"": 140377, ""type"": 0, ""w"": 57.0}]",r_associated,57.0
+beurre,alléger,acl,VERB,0.6123455762863159,"[{""id"": 15060786, ""node1"": 140377, ""node2"": 14734, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+alléger,amande,obj,NOUN,0.5005165338516235,[],,
+alléger,micro-onde,obj,NOUN,0.5053687691688538,[],,
+casserole,saladier,obj,NOUN,0.6254573464393616,[],,
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,four,nmod,NOUN,0.7153509855270386,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+titre,fondre,acl,VERB,0.4839583337306976,[],,
+fond,eau,nmod,NOUN,0.581144392490387,"[{""id"": 96691076, ""node1"": 119272, ""node2"": 65012, ""type"": 0, ""w"": 37.0}, {""id"": 98303780, ""node1"": 119272, ""node2"": 65012, ""type"": 9, ""w"": 30.0}]",r_associated,37.0
+fond,micro-onde,nmod,NOUN,0.5574291944503784,[],,
+saladier,verser,acl,VERB,0.5594906806945801,[],,
+verser,farine,obj,NOUN,0.6472393274307251,"[{""id"": 25676320, ""node1"": 104506, ""node2"": 127629, ""type"": 14, ""w"": 40.0}]",r_patient,40.0
+verser,sucre,obj,NOUN,0.6521592736244202,[],,
+ajouter,préparation,obj,NOUN,0.5048086047172546,[],,
+préparation,chocolat,nmod,NOUN,0.6564794778823853,[],,
+remuer,obtenir,advcl,VERB,0.4786170721054077,[],,
+obtenir,pâte,obj,NOUN,0.6173189282417297,[],,
+pâte,homogène,amod,ADJ,0.6105889678001404,"[{""id"": 796702467, ""node1"": 34069, ""node2"": 124759, ""type"": 0, ""w"": 28.0}, {""id"": 372565004, ""node1"": 34069, ""node2"": 124759, ""type"": 17, ""w"": 26.0}]",r_associated,28.0
+ajouter,amande,obj,NOUN,0.5431617498397827,[],,
+verser,pâte,obj,NOUN,0.6542285084724426,"[{""id"": 373014722, ""node1"": 104506, ""node2"": 34069, ""type"": 14, ""w"": 36.0}]",r_patient,36.0
+mettre,thermostat,appos,NOUN,0.5112968683242798,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,

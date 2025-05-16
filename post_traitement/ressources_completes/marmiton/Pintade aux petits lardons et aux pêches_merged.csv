@@ -1,0 +1,20 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+bordeaux,bouillon,nmod,NOUN,0.5679947137832642,[],,
+bouillon,pêche,nmod,NOUN,0.608468770980835,"[{""id"": 74384480, ""node1"": 146582, ""node2"": 145624, ""type"": 0, ""w"": 32.0}, {""id"": 74162940, ""node1"": 146582, ""node2"": 145624, ""type"": 3, ""w"": 29.0}]",r_associated,32.0
+bouquet,garni,amod,ADJ,0.4469667077064514,[],,
+économe,pinceau,nmod,NOUN,0.4334880113601684,[],,
+pinceau,couvercle,nmod,NOUN,0.4981644749641418,[],,
+couvercle,balance,nmod,NOUN,0.5437039136886597,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+titre,préparer,acl,VERB,0.4304305016994476,[],,
+mettre,beurre,obj,NOUN,0.663346529006958,"[{""id"": 371985740, ""node1"": 132366, ""node2"": 140377, ""type"": 0, ""w"": 32.0}, {""id"": 371985739, ""node1"": 132366, ""node2"": 140377, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+mettre,carotte,obj,NOUN,0.5812945365905762,[],,
+carotte,couper,acl,VERB,0.5670887231826782,"[{""id"": 93434679, ""node1"": 76234, ""node2"": 128828, ""type"": 26, ""w"": 34.0}]",r_patient-1,34.0
+oignon,couper,acl,VERB,0.596168577671051,"[{""id"": 900892185, ""node1"": 123307, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 31770901, ""node1"": 123307, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 1767208, ""node1"": 123307, ""node2"": 128828, ""type"": 666, ""w"": 2.0}]",r_patient-1,100.0
+mettre,dorer,advcl,VERB,0.5209039449691772,[],,
+dorer,min,obj,NOUN,0.4383701980113983,[],,
+mettre,couvercle,obj,NOUN,0.5487321615219116,[],,
+couvercle,cocotte,nmod,NOUN,0.6516067981719971,"[{""id"": 98634682, ""node1"": 89523, ""node2"": 120952, ""type"": 0, ""w"": 19.0}, {""id"": 98313574, ""node1"": 89523, ""node2"": 120952, ""type"": 10, ""w"": 35.0}, {""id"": 5745846, ""node1"": 89523, ""node2"": 120952, ""type"": 777, ""w"": 10.0}]",r_holo,35.0
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+passer,sauce,obj,NOUN,0.6868014931678772,[],,
+verser,sauce,obj,NOUN,0.6628547310829163,"[{""id"": 478293932, ""node1"": 104506, ""node2"": 141110, ""type"": 0, ""w"": 28.0}, {""id"": 478293931, ""node1"": 104506, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0

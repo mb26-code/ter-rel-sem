@@ -1,0 +1,49 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+fécule,maïs,nmod,ADP,0.5981661081314087,"[{""id"": 968308159, ""node1"": 30818, ""node2"": 139790, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,farine,amod,NOUN,0.6485477685928345,"[{""id"": 2206156, ""node1"": 139470, ""node2"": 127629, ""type"": 0, ""w"": 142.0}, {""id"": 362954, ""node1"": 139470, ""node2"": 127629, ""type"": 8, ""w"": 151.0}, {""id"": 9976810, ""node1"": 139470, ""node2"": 127629, ""type"": 10, ""w"": 4.0}, {""id"": 9065573, ""node1"": 139470, ""node2"": 127629, ""type"": 20, ""w"": 51.0}, {""id"": 1590401, ""node1"": 139470, ""node2"": 127629, ""type"": 35, ""w"": 58.0}, {""id"": 1782941, ""node1"": 139470, ""node2"": 127629, ""type"": 666, ""w"": 11.0}]",r_hypo,151.0
+poudre,eau,nmod,NOUN,0.5974155068397522,"[{""id"": 3751198, ""node1"": 139470, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+eau,confiture,nmod,NOUN,0.611621081829071,[],,
+confiture,glace,nmod,NOUN,0.6184322834014893,[],,
+confiture,congélateur,nmod,NOUN,0.648638129234314,[],,
+congélateur,chinois,nmod,ADJ,0.4946616590023041,[],,
+chinois,cuillère,nmod,NOUN,0.5485638976097107,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,couvercle,nmod,NOUN,0.6197326183319092,[],,
+couvercle,couteau,nmod,NOUN,0.5890913009643555,[],,
+couvercle,planche,nmod,NOUN,0.5579204559326172,[],,
+découper,balance,obj,NOUN,0.4950466752052307,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+boule,petit,amod,ADJ,0.5510615706443787,[],,
+faire,boule,obj,NOUN,0.5590701699256897,[],,
+boule,glace,nmod,NOUN,0.5476489067077637,"[{""id"": 243451, ""node1"": 141883, ""node2"": 141964, ""type"": 0, ""w"": 101.0}, {""id"": 9903174, ""node1"": 141883, ""node2"": 141964, ""type"": 6, ""w"": 13.0}, {""id"": 4985394, ""node1"": 141883, ""node2"": 141964, ""type"": 9, ""w"": 5.0}, {""id"": 720819380, ""node1"": 141883, ""node2"": 141964, ""type"": 174, ""w"": 25.0}]",r_associated,101.0
+passer,confiture,obj,NOUN,0.6138770580291748,[],,
+confiture,chinois,nmod,NOUN,0.5659996867179871,[],,
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+ajouter,eau,obj,NOUN,0.5629687905311584,[],,
+eau,petit,amod,ADJ,0.5949434638023376,[],,
+ajouter,confiture,obj,NOUN,0.6040862798690796,[],,
+film,plastique,amod,ADJ,0.4269080460071563,[],,
+remettre,sec,obj,ADJ,0.4521771967411041,[],,
+obtenir,pâte,obj,NOUN,0.6173189282417297,[],,
+pâte,élastique,amod,ADJ,0.6127678751945496,"[{""id"": 96931426, ""node1"": 34069, ""node2"": 95600, ""type"": 17, ""w"": 21.0}]",r_carac,21.0
+étaler,fécule,obj,NOUN,0.5849467515945435,[],,
+déposer,pâte,obj,NOUN,0.6274656057357788,"[{""id"": 97862127, ""node1"": 35714, ""node2"": 34069, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+pâte,obtenir,acl,VERB,0.6173189282417297,[],,
+déposer,dessus,obj,ADV,0.4480475187301636,[],,
+étaler,pâte,obj,NOUN,0.6019123196601868,"[{""id"": 364779096, ""node1"": 98214, ""node2"": 34069, ""type"": 0, ""w"": 38.0}, {""id"": 243248, ""node1"": 98214, ""node2"": 34069, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+découper,rectangle,obj,NOUN,0.477452278137207,[],,
+déposer,que,obj,PRON,0.4308871328830719,[],,
+rectangle,déposer,acl:relcl,VERB,0.4706496894359588,[],,
+morceau,film,nmod,NOUN,0.4474316537380218,[],,
+morceau,ôter,acl,VERB,0.5070017576217651,[],,
+ôter,excéder,obj,VERB,0.4001568257808685,[],,
+excéder,farine,nmod,NOUN,0.5914473533630371,[],,
+aider,boule,nsubj,NOUN,0.4560230374336242,[],,
+boule,rectangle,nmod,NOUN,0.4922127723693847,[],,
+rectangle,pâte,nmod,NOUN,0.6235933899879456,[],,
+film,faire,acl,VERB,0.4683388471603393,[],,
+boule,joli,amod,ADJ,0.4945525527000427,[],,
+paquet,petit,amod,ADJ,0.498190701007843,"[{""id"": 97338506, ""node1"": 18403, ""node2"": 55222, ""type"": 17, ""w"": 29.0}]",r_carac,29.0
+fermer,paquet,obj,NOUN,0.4263795614242553,"[{""id"": 97337952, ""node1"": 24346, ""node2"": 18403, ""type"": 14, ""w"": 30.0}]",r_patient,30.0

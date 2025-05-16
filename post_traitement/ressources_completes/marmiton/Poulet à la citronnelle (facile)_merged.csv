@@ -1,0 +1,39 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,poulet,nmod,NOUN,0.5709884762763977,[],,
+ingrédient,sucre,nmod,NOUN,0.7083083987236023,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]",r_associated,70.0
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,huile,amod,NOUN,0.616247296333313,"[{""id"": 3751197, ""node1"": 139470, ""node2"": 141971, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+piment,petit,amod,ADJ,0.6294569373130798,[],,
+sucre,piment,nmod,NOUN,0.7030274868011475,"[{""id"": 922162943, ""node1"": 139481, ""node2"": 128791, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+piment,filet,nmod,NOUN,0.6411774158477783,[],,
+filet,poulet,nmod,NOUN,0.6290961503982544,"[{""id"": 796711931, ""node1"": 42188, ""node2"": 146261, ""type"": 0, ""w"": 25.0}, {""id"": 775213396, ""node1"": 42188, ""node2"": 146261, ""type"": 174, ""w"": 25.0}, {""id"": 113026988, ""node1"": 42188, ""node2"": 146261, ""type"": 777, ""w"": 10.0}]",r_associated,25.0
+filet,oignon,nmod,NOUN,0.6260968446731567,"[{""id"": 423999015, ""node1"": 42188, ""node2"": 123307, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+oignon,nouveau,amod,ADJ,0.6103869080543518,[],,
+piment,cuillère,nmod,NOUN,0.6842818856239319,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,pinceau,appos,NOUN,0.5075318813323975,[],,
+pinceau,saladier,nmod,NOUN,0.5370374321937561,[],,
+pinceau,étape,nmod,NOUN,0.4064047634601593,[],,
+piment,mélanger,acl,VERB,0.6575685143470764,"[{""id"": 673298331, ""node1"": 128791, ""node2"": 37151, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+ingrédient,marinade,nmod,NOUN,0.72576904296875,[],,
+ajouter,poulet,obj,NOUN,0.6573215126991272,[],,
+poulet,couper,acl,VERB,0.6432042717933655,"[{""id"": 378725090, ""node1"": 146261, ""node2"": 128828, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+réserver,frais,nmod,NOUN,0.4315350949764251,"[{""id"": 373014550, ""node1"": 7006, ""node2"": 53495, ""type"": 31, ""w"": 26.0}]",r_action_lieu,26.0
+minimum,minute,obj,NOUN,0.4195579290390014,[],,
+sauter,poulet,obj,NOUN,0.6407081484794617,[],,
+sauter,minute,obj,NOUN,0.4733817279338836,[],,
+minute,feu,nmod,NOUN,0.5576279163360596,[],,
+minute,vif,amod,ADJ,0.4327122569084167,[],,
+sauter,ajouter,advcl,VERB,0.4542523622512817,[],,
+ajouter,oignon,obj,NOUN,0.585871696472168,[],,
+oignon,couper,acl,VERB,0.596168577671051,"[{""id"": 900892185, ""node1"": 123307, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 31770901, ""node1"": 123307, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 1767208, ""node1"": 123307, ""node2"": 128828, ""type"": 666, ""w"": 2.0}]",r_patient-1,100.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+piment,haché,acl,ADJ,0.6125693917274475,"[{""id"": 723386055, ""node1"": 128791, ""node2"": 47887, ""type"": 0, ""w"": 28.0}, {""id"": 32025853, ""node1"": 128791, ""node2"": 47887, ""type"": 17, ""w"": 57.0}]",r_carac,57.0
+dorer,minute,obj,NOUN,0.5380439162254333,[],,
+décorer,feuille,obj,NOUN,0.5068062543869019,[],,
+feuille,menthe,nmod,NOUN,0.5525094866752625,"[{""id"": 29327658, ""node1"": 37993, ""node2"": 97057, ""type"": 0, ""w"": 30.0}, {""id"": 9980624, ""node1"": 37993, ""node2"": 97057, ""type"": 10, ""w"": 34.0}]",r_holo,34.0
+servir,accompagner,obj,VERB,0.4404352605342865,[],,
+mélange,légume,nmod,NOUN,0.6975813508033752,[],,
+légume,asiatique,amod,ADJ,0.6411105394363403,[],,
+légume,wok,nmod,NOUN,0.6791054010391235,"[{""id"": 104334795, ""node1"": 120603, ""node2"": 177318, ""type"": 0, ""w"": 36.0}]",r_associated,36.0

@@ -1,0 +1,46 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+pépite,chocolat,nmod,NOUN,0.5406539440155029,"[{""id"": 365455, ""node1"": 25082, ""node2"": 34157, ""type"": 0, ""w"": 152.0}, {""id"": 376056261, ""node1"": 25082, ""node2"": 34157, ""type"": 50, ""w"": 35.0}, {""id"": 930408960, ""node1"": 25082, ""node2"": 34157, ""type"": 666, ""w"": 2.0}]",r_associated,152.0
+compote,pomme,nmod,NOUN,0.5912173986434937,"[{""id"": 1986749, ""node1"": 5295, ""node2"": 37201, ""type"": 0, ""w"": 147.0}, {""id"": 373000107, ""node1"": 5295, ""node2"": 37201, ""type"": 17, ""w"": 26.0}, {""id"": 377010654, ""node1"": 5295, ""node2"": 37201, ""type"": 20, ""w"": 29.0}, {""id"": 11346927, ""node1"": 5295, ""node2"": 37201, ""type"": 28, ""w"": 38.0}, {""id"": 14672084, ""node1"": 5295, ""node2"": 37201, ""type"": 42, ""w"": 30.0}, {""id"": 2046466, ""node1"": 5295, ""node2"": 37201, ""type"": 50, ""w"": 37.0}, {""id"": 1688878, ""node1"": 5295, ""node2"": 37201, ""type"": 666, ""w"": 6.0}]",r_associated,147.0
+pomme,ingrédient,nmod,NOUN,0.6517195105552673,[],,
+compote,chocolat,nmod,NOUN,0.6464310884475708,[],,
+chocolat,sel,nmod,NOUN,0.6984856128692627,[],,
+sel,levure,nmod,NOUN,0.6924784183502197,[],,
+compote,sucre,acl,NOUN,0.6972362399101257,"[{""id"": 558832956, ""node1"": 5295, ""node2"": 139481, ""type"": 0, ""w"": 43.0}, {""id"": 1975814, ""node1"": 5295, ""node2"": 139481, ""type"": 50, ""w"": 35.0}, {""id"": 1688882, ""node1"": 5295, ""node2"": 139481, ""type"": 666, ""w"": 2.0}, {""id"": 4220666, ""node1"": 5295, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]",r_associated,43.0
+sucre,farine,nmod,NOUN,0.699601411819458,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]",r_associated,47.0
+sucre,cacao,nmod,NOUN,0.6052868962287903,"[{""id"": 561132476, ""node1"": 139481, ""node2"": 68363, ""type"": 0, ""w"": 48.0}]",r_associated,48.0
+cacao,compote,appos,NOUN,0.6112412214279175,[],,
+compote,oeuf,nmod,NOUN,0.6000653505325317,[],,
+compote,extraire,acl,VERB,0.5673111081123352,[],,
+extraire,grille,obj,NOUN,0.4780906736850738,[],,
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+pâtisserie,moule,nmod,NOUN,0.56337571144104,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]",r_associated,24.0
+four,cuillère,nmod,NOUN,0.7153509855270386,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,saladier,nmod,NOUN,0.6106023788452148,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+saladier,fouet,nmod,NOUN,0.5588916540145874,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 306.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 266.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,306.0
+cuillère,top,nmod,NOUN,0.4335919320583343,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+four,180,nmod,NUM,0.4979606568813324,[],,
+titre,mélanger,acl,VERB,0.4706915318965912,[],,
+mélanger,ingrédient,obj,NOUN,0.6362285614013672,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ingrédient,suivant,amod,ADJ,0.5020381808280945,[],,
+ingrédient,récipient,nmod,NOUN,0.6642211675643921,[],,
+récipient,séparer,acl,VERB,0.5550128817558289,[],,
+récipient,mélange,appos,NOUN,0.6166273355484009,[],,
+récipient,farine,appos,NOUN,0.7145699262619019,[],,
+mélange,oeuf,nmod,NOUN,0.5729450583457947,[],,
+oeuf,huile,amod,NOUN,0.6085584163665771,[],,
+extraire,amande,nmod,NOUN,0.5219348669052124,[],,
+faire,puits,obj,NOUN,0.5106947422027588,[],,
+puits,mélange,nmod,NOUN,0.516068696975708,[],,
+introduire,mélange,obj,NOUN,0.5211641788482666,[],,
+battre,pâte,obj,NOUN,0.6321544647216797,[],,
+ajouter,pépite,obj,NOUN,0.4621942043304443,[],,
+aide,cuillère,nmod,NOUN,0.45757657289505,[],,
+remplir,moule,obj,NOUN,0.495488554239273,[],,
+refroidir,minute,obj,NOUN,0.509716272354126,[],,

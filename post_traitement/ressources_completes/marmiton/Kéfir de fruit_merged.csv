@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+sucre,orange,nmod,NOUN,0.6487499475479126,[],,
+verser,eau,obj,NOUN,0.5738218426704407,"[{""id"": 383589, ""node1"": 104506, ""node2"": 65012, ""type"": 0, ""w"": 232.0}, {""id"": 167908, ""node1"": 104506, ""node2"": 65012, ""type"": 14, ""w"": 100.0}, {""id"": 376198934, ""node1"": 104506, ""node2"": 65012, ""type"": 16, ""w"": 26.0}, {""id"": 645787357, ""node1"": 104506, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]",r_associated,232.0
+eau,diluer,acl,VERB,0.5517762899398804,"[{""id"": 31129243, ""node1"": 65012, ""node2"": 119483, ""type"": 0, ""w"": 27.0}, {""id"": 185003, ""node1"": 65012, ""node2"": 119483, ""type"": 25, ""w"": 81.0}, {""id"": 31129242, ""node1"": 65012, ""node2"": 119483, ""type"": 27, ""w"": 26.0}]",r_instr-1,81.0
+diluer,sucre,obj,NOUN,0.6269497275352478,[],,
+ajouter,grain,obj,NOUN,0.5503000617027283,[],,
+ajouter,fruit,obj,NOUN,0.5211451053619385,[],,
+fruit,sec,amod,ADJ,0.4956011176109314,"[{""id"": 796701053, ""node1"": 87286, ""node2"": 63619, ""type"": 0, ""w"": 24.0}, {""id"": 14805636, ""node1"": 87286, ""node2"": 63619, ""type"": 17, ""w"": 22.0}]",r_associated,24.0
+devenir,milieu,nsubj,NOUN,0.4017003774642944,[],,
+sortir,grain,obj,NOUN,0.5484796762466431,[],,
+enlever,fruit,obj,NOUN,0.5188847780227661,[],,
+filtrer,boisson,obj,NOUN,0.4860095679759979,[],,
+type,bouteille,amod,ADJ,0.4944344162940979,[],,
+type,soda,nmod,NOUN,0.5204925537109375,[],,
+rincer,grain,obj,NOUN,0.5615625977516174,[],,
+relancer,fermentation,obj,NOUN,0.4169149100780487,[],,
+stocker,grain,obj,NOUN,0.5314715504646301,[],,
+peu,eau,nmod,NOUN,0.5583444833755493,[],,
+eau,frais,nmod,NOUN,0.5647507905960083,[],,
+laisser,fermentation,obj,NOUN,0.4558084309101105,[],,
+jour,température,nmod,NOUN,0.4260093867778778,[],,
+bouteille,fermer,acl,VERB,0.437268316745758,"[{""id"": 939644892, ""node1"": 117423, ""node2"": 24346, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+conserver,bouteille,obj,NOUN,0.5263341665267944,"[{""id"": 376066274, ""node1"": 42089, ""node2"": 117423, ""type"": 31, ""w"": 30.0}]",r_action_lieu,30.0
+bouteille,frigo,nmod,NOUN,0.5706863403320312,"[{""id"": 9971188, ""node1"": 117423, ""node2"": 45624, ""type"": 0, ""w"": 10.0}, {""id"": 133326, ""node1"": 117423, ""node2"": 45624, ""type"": 10, ""w"": -53.0}, {""id"": 369368, ""node1"": 117423, ""node2"": 45624, ""type"": 15, ""w"": 151.0}]",r_lieu,151.0
+frigo,consommation,nmod,NOUN,0.5745562314987183,[],,

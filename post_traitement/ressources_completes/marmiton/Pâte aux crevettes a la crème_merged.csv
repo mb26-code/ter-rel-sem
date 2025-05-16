@@ -1,0 +1,26 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+pâte,crevette,nmod,NOUN,0.6589902639389038,[],,
+avoir,crème,obj,NOUN,0.5765222907066345,[],,
+crème,ingrédient,nmod,NOUN,0.6610228419303894,"[{""id"": 24850723, ""node1"": 44001, ""node2"": 123418, ""type"": 0, ""w"": 30.0}, {""id"": 24842105, ""node1"": 44001, ""node2"": 123418, ""type"": 6, ""w"": 143.0}]",r_isa,143.0
+crème,poivre,acl,NOUN,0.6996400356292725,[],,
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,persil,nmod,NOUN,0.6879991888999939,[],,
+poivre,tomate,nmod,NOUN,0.6968331336975098,[],,
+poivre,pâte,nmod,NOUN,0.7343641519546509,"[{""id"": 584573801, ""node1"": 139597, ""node2"": 34069, ""type"": 0, ""w"": 16.0}]",r_associated,16.0
+poivre,crevette,nmod,NOUN,0.6815639138221741,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+temps,faire,acl,VERB,0.4694518446922302,[],,
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+celui-ci,cuire,acl,VERB,0.7276975512504578,[],,
+doré,oignon,nsubj,NOUN,0.595569372177124,"[{""id"": 514133577, ""node1"": 47964, ""node2"": 123307, ""type"": 23, ""w"": 3.0}]",r_carac-1,3.0
+ajouter,doré,advcl,ADJ,0.5194652080535889,[],,
+ajouter,crevette,obj,NOUN,0.5697072744369507,[],,
+ajouter,tomate,obj,NOUN,0.6318210363388062,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 30.0}]",r_agent,30.0
+tomate,couper,acl,VERB,0.6290057301521301,"[{""id"": 920912564, ""node1"": 22138, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 628044041, ""node1"": 22138, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+mijoter,min,obj,NOUN,0.4553591310977936,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+ajouter,garniture,obj,NOUN,0.5877809524536133,"[{""id"": 361411724, ""node1"": 25099, ""node2"": 57803, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+garniture,pâte,nmod,NOUN,0.6498002409934998,[],,
+sec,plat,nsubj,NOUN,0.564572274684906,[],,
+pouvoir,sec,advcl,ADJ,0.440991461277008,[],,
+servez,chaud,amod,ADJ,0.5323237776756287,[],,

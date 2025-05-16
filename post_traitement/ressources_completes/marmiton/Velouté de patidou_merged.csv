@@ -1,0 +1,20 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+velouté,ingrédient,nmod,NOUN,0.6268470287322998,[],,
+velouté,muscade,nmod,NOUN,0.6055301427841187,[],,
+velouté,sel,nmod,NOUN,0.7175381183624268,[],,
+sel,poivre,acl,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+velouté,céleri,nmod,PROPN,0.620505690574646,[],,
+lait,louche,appos,NOUN,0.60867840051651,[],,
+louche,mixeur,nmod,NOUN,0.5896725058555603,[],,
+mixeur,plonger,acl,VERB,0.5584041476249695,[],,
+plonger,casserole,obj,NOUN,0.6076292395591736,[],,
+casserole,chauffer,amod,VERB,0.666526198387146,"[{""id"": 96542707, ""node1"": 57253, ""node2"": 90994, ""type"": 0, ""w"": 17.0}, {""id"": 1684713, ""node1"": 57253, ""node2"": 90994, ""type"": 37, ""w"": 120.0}, {""id"": 96542706, ""node1"": 57253, ""node2"": 90994, ""type"": 666, ""w"": 1.0}]",r_telic_role,120.0
+chauffer,étape,obj,NOUN,0.4912289679050445,[],,
+cuire,légume,obj,NOUN,0.8064759373664856,"[{""id"": 796715114, ""node1"": 5115, ""node2"": 120603, ""type"": 0, ""w"": 26.0}, {""id"": 148033, ""node1"": 5115, ""node2"": 120603, ""type"": 13, ""w"": 53.0}, {""id"": 234259, ""node1"": 5115, ""node2"": 120603, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+légume,vapeur,nmod,NOUN,0.6859498620033264,"[{""id"": 3861797, ""node1"": 120603, ""node2"": 98392, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+cuisson,écraser,acl,VERB,0.7147755026817322,[],,
+écraser,tout,obj,NOUN,0.4855453073978424,[],,
+tout,purée,nmod,NOUN,0.6674067974090576,[],,
+écraser,ajouter,advcl,VERB,0.4266918301582336,[],,
+ajouter,lait,obj,NOUN,0.5957752466201782,"[{""id"": 373014760, ""node1"": 25099, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,

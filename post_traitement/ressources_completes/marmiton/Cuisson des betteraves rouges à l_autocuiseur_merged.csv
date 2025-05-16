@@ -1,0 +1,40 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,cuisson,nmod,NOUN,0.659193754196167,[],,
+cuisson,betterave,nmod,NOUN,0.7670246362686157,[],,
+betterave,rouge,amod,ADJ,0.5389664173126221,"[{""id"": 257974, ""node1"": 20232, ""node2"": 86356, ""type"": 0, ""w"": 116.0}, {""id"": 1804329, ""node1"": 20232, ""node2"": 86356, ""type"": 17, ""w"": 61.0}, {""id"": 3163724, ""node1"": 20232, ""node2"": 86356, ""type"": 106, ""w"": 16.0}, {""id"": 608598860, ""node1"": 20232, ""node2"": 86356, ""type"": 666, ""w"": 6.0}]",r_associated,116.0
+cuisson,ingrédient,nmod,NOUN,0.78163743019104,[],,
+cuisson,cocotte,nmod,NOUN,0.7383053302764893,"[{""id"": 799189960, ""node1"": 60056, ""node2"": 120952, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+minute,économe,nmod,NOUN,0.456129252910614,[],,
+économe,couteau,nmod,NOUN,0.5018488168716431,"[{""id"": 11472222, ""node1"": 14706, ""node2"": 32610, ""type"": 0, ""w"": 51.0}, {""id"": 9916571, ""node1"": 14706, ""node2"": 32610, ""type"": 6, ""w"": 55.0}, {""id"": 539969426, ""node1"": 14706, ""node2"": 32610, ""type"": 35, ""w"": -25.0}, {""id"": 1786595, ""node1"": 14706, ""node2"": 32610, ""type"": 666, ""w"": 5.0}]",r_isa,55.0
+couteau,mandoline,nmod,NOUN,0.5220769643783569,"[{""id"": 377020808, ""node1"": 32610, ""node2"": 112354, ""type"": 20, ""w"": 27.0}]",r_has_magn,27.0
+économe,blender,nmod,NOUN,0.4979376494884491,[],,
+économe,chauffer,acl,VERB,0.5165823698043823,[],,
+chauffer,étape,obj,NOUN,0.4912289679050445,[],,
+minute,rincer,acl,VERB,0.4704210758209228,[],,
+rincer,betterave,obj,NOUN,0.5541638731956482,[],,
+éliminer,terre,obj,NOUN,0.5164690613746643,[],,
+minute,laisser,acl,VERB,0.4280168712139129,[],,
+laisser,bout,obj,NOUN,0.4258936047554016,[],,
+bout,queue,nmod,NOUN,0.475100964307785,"[{""id"": 784298, ""node1"": 56924, ""node2"": 95256, ""type"": 0, ""w"": 59.0}, {""id"": 54697404, ""node1"": 56924, ""node2"": 95256, ""type"": 5, ""w"": 104.0}, {""id"": 9755445, ""node1"": 56924, ""node2"": 95256, ""type"": 8, ""w"": 53.0}]",r_syn,104.0
+sortir,panier,obj,NOUN,0.422838032245636,[],,
+refroidir,éplucher,advcl,VERB,0.5261842608451843,[],,
+éplucher,porter,advcl,VERB,0.4557135999202728,[],,
+porter,gant,obj,NOUN,0.4201110899448395,"[{""id"": 473585626, ""node1"": 43404, ""node2"": 106035, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+gant,ménage,nmod,NOUN,0.4476164579391479,[],,
+gant,peau,appos,NOUN,0.4766838252544403,"[{""id"": 558805757, ""node1"": 106035, ""node2"": 109785, ""type"": 0, ""w"": 35.0}]",r_associated,35.0
+peau,part,nmod,NOUN,0.4993046522140503,[],,
+peau,seul,amod,ADJ,0.5070891380310059,[],,
+peau,doigt,nmod,NOUN,0.4749919772148132,"[{""id"": 10533965, ""node1"": 109785, ""node2"": 62706, ""type"": 0, ""w"": 16.0}, {""id"": 2285322, ""node1"": 109785, ""node2"": 62706, ""type"": 10, ""w"": 64.0}]",r_holo,64.0
+proposition,assaisonnement,nmod,NOUN,0.5917569398880005,[],,
+betterave,rondelle,nmod,NOUN,0.5674219727516174,"[{""id"": 1035077275, ""node1"": 20232, ""node2"": 71106, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+aide,mandoline,nmod,NOUN,0.4158306121826172,[],,
+faire,tranche,obj,NOUN,0.5263957381248474,[],,
+tranche,épaisseur,nmod,NOUN,0.4221954345703125,[],,
+tranche,taille,acl:relcl,VERB,0.4303261339664459,[],,
+vinaigre,vinaigre,acl,NOUN,0.5820666551589966,"[{""id"": 341194, ""node1"": 145443, ""node2"": 145443, ""type"": 19, ""w"": 54.0}, {""id"": 93913784, ""node1"": 145443, ""node2"": 145443, ""type"": 50, ""w"": 32.0}, {""id"": 376038282, ""node1"": 145443, ""node2"": 145443, ""type"": 51, ""w"": 26.0}]",r_lemma,54.0
+vinaigre,miel,nmod,NOUN,0.6219134330749512,"[{""id"": 921832676, ""node1"": 145443, ""node2"": 136055, ""type"": 0, ""w"": 20.0}, {""id"": 3355994, ""node1"": 145443, ""node2"": 136055, ""type"": 777, ""w"": 10.0}]",r_associated,20.0
+miel,Alsace,nmod,PROPN,0.5515596270561218,"[{""id"": 105105387, ""node1"": 136055, ""node2"": 62628, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+miel,type,nmod,NOUN,0.6041120886802673,[],,
+clou,girofle,nmod,NOUN,0.4290643036365509,"[{""id"": 9902807, ""node1"": 11651, ""node2"": 43873, ""type"": 0, ""w"": 55.0}, {""id"": 413873, ""node1"": 11651, ""node2"": 43873, ""type"": 8, ""w"": 111.0}]",r_hypo,111.0
+clou,écraser,acl,VERB,0.4249334335327148,[],,
+rondelle,fin,amod,ADJ,0.4580791592597961,[],,

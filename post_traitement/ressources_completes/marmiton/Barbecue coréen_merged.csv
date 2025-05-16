@@ -1,0 +1,41 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,Barbecue,appos,PROPN,0.4070535600185394,[],,
+coréen,ingrédient,obj,NOUN,0.4665509462356567,[],,
+sucre,gingembre,nmod,NOUN,0.6843656301498413,[],,
+gingembre,sésame,appos,NOUN,0.6100141406059265,[],,
+sésame,poireau,nmod,NOUN,0.6289433240890503,[],,
+sésame,sucre,nmod,NOUN,0.6855493187904358,[],,
+sésame,huile,amod,NOUN,0.6178574562072754,"[{""id"": 12258573, ""node1"": 18404, ""node2"": 141971, ""type"": 0, ""w"": 32.0}, {""id"": 678049, ""node1"": 18404, ""node2"": 141971, ""type"": 5, ""w"": 41.0}, {""id"": 97343670, ""node1"": 18404, ""node2"": 141971, ""type"": 53, ""w"": 29.0}, {""id"": 1786371, ""node1"": 18404, ""node2"": 141971, ""type"": 666, ""w"": 1.0}]",r_syn,41.0
+huile,sésame,nmod,NOUN,0.6178574562072754,"[{""id"": 12295235, ""node1"": 141971, ""node2"": 18404, ""type"": 0, ""w"": 43.0}, {""id"": 580644, ""node1"": 141971, ""node2"": 18404, ""type"": 5, ""w"": 32.0}, {""id"": 88080850, ""node1"": 141971, ""node2"": 18404, ""type"": 35, ""w"": 32.0}, {""id"": 380316783, ""node1"": 141971, ""node2"": 18404, ""type"": 54, ""w"": 34.0}]",r_associated,43.0
+sésame,viande,nmod,NOUN,0.7365583181381226,[],,
+sésame,ail,nmod,ADP,0.608076810836792,[],,
+sucre,citron,nmod,NOUN,0.6847571134567261,"[{""id"": 292123774, ""node1"": 139481, ""node2"": 15386, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+citron,pomme,nmod,NOUN,0.6272388696670532,"[{""id"": 96740068, ""node1"": 15386, ""node2"": 37201, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+titre,cuillère,nmod,NOUN,0.5080531239509583,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,top,nmod,NOUN,0.4335919320583343,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+four,barbecue,nmod,NOUN,0.6808654069900513,"[{""id"": 54698182, ""node1"": 9190, ""node2"": 95126, ""type"": 0, ""w"": 29.0}, {""id"": 54664380, ""node1"": 9190, ""node2"": 95126, ""type"": 5, ""w"": 97.0}]",r_syn,97.0
+titre,mélanger,acl,VERB,0.4706915318965912,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,marinade,nmod,NOUN,0.72576904296875,[],,
+mettre,viande,obj,NOUN,0.7075909972190857,[],,
+rajouter,huile,obj,NOUN,0.5963115096092224,[],,
+laisser,heure,obj,NOUN,0.4083273708820343,[],,
+chauffer,faire,advcl,VERB,0.5420644879341125,[],,
+faire,sauce,obj,NOUN,0.6960442066192627,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+chauffer,ingrédient,obj,NOUN,0.7100048065185547,[],,
+ingrédient,sauce,nmod,NOUN,0.7589731812477112,"[{""id"": 98477910, ""node1"": 123418, ""node2"": 141110, ""type"": 0, ""w"": 28.0}, {""id"": 97415123, ""node1"": 123418, ""node2"": 141110, ""type"": 10, ""w"": 28.0}]",r_holo,28.0
+chauffer,rondelle,obj,NOUN,0.5916182994842529,[],,
+rondelle,citron,nmod,NOUN,0.5871434807777405,"[{""id"": 798896119, ""node1"": 71106, ""node2"": 15386, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+rajouter,temps,obj,NOUN,0.4589921236038208,[],,
+refroidir,sauce,nsubj,NOUN,0.7247826457023621,[],,
+temps,refroidir,acl,VERB,0.5131525993347168,"[{""id"": 14844705, ""node1"": 13861, ""node2"": 126973, ""type"": 24, ""w"": 30.0}]",r_agent-1,30.0
+présenter,viande,obj,NOUN,0.6959550380706787,[],,
+prendre,morceau,obj,NOUN,0.5406008958816528,[],,
+morceau,viande,nmod,NOUN,0.7157437205314636,"[{""id"": 179412, ""node1"": 65364, ""node2"": 140100, ""type"": 0, ""w"": 83.0}, {""id"": 1007988744, ""node1"": 65364, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]",r_associated,83.0
+pierre,cuisson,nmod,NOUN,0.6942359805107117,[],,
+griller,tremper,advcl,VERB,0.6205861568450928,[],,

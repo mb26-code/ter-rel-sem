@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+soupe,courgette,nmod,NOUN,0.6856979727745056,"[{""id"": 729556085, ""node1"": 117152, ""node2"": 85172, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+courgette,ingrédient,nmod,NOUN,0.7065210938453674,[],,
+soupe,crème,amod,NOUN,0.6830318570137024,"[{""id"": 729556086, ""node1"": 117152, ""node2"": 44001, ""type"": 0, ""w"": 36.0}, {""id"": 216637777, ""node1"": 117152, ""node2"": 44001, ""type"": 50, ""w"": 32.0}, {""id"": 663289934, ""node1"": 117152, ""node2"": 44001, ""type"": 666, ""w"": 4.0}]",r_associated,36.0
+crème,courgette,nmod,NOUN,0.6472225785255432,[],,
+crème,pomme,nmod,NOUN,0.6424804329872131,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,cube,nmod,NOUN,0.5789888501167297,[],,
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+pomme,louche,appos,NOUN,0.6174519658088684,[],,
+pomme,mixeur,appos,NOUN,0.6513398289680481,[],,
+mixeur,plonger,acl,VERB,0.5584041476249695,[],,
+plonger,chauffer,advcl,VERB,0.5310614705085754,[],,
+chauffer,casserole,obj,NOUN,0.666526198387146,[],,
+casserole,mixeur,nmod,NOUN,0.61752849817276,[],,
+porter,bouillon,obj,NOUN,0.6005552411079407,[],,
+bouillon,ébullition,nmod,NOUN,0.5922847986221313,"[{""id"": 558647531, ""node1"": 146582, ""node2"": 83252, ""type"": 0, ""w"": 30.0}, {""id"": 4238164, ""node1"": 146582, ""node2"": 83252, ""type"": 777, ""w"": 10.0}]",r_associated,30.0
+soupe,incorporer,acl,VERB,0.6626948714256287,[],,
+incorporer,courgette,obj,NOUN,0.6386978626251221,[],,
+pomme,éplucher,acl,VERB,0.5793353319168091,"[{""id"": 796705709, ""node1"": 37201, ""node2"": 59879, ""type"": 0, ""w"": 24.0}, {""id"": 2202541, ""node1"": 37201, ""node2"": 59879, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+cuire,légume,nsubj:pass,NOUN,0.8064759373664856,"[{""id"": 796715114, ""node1"": 5115, ""node2"": 120603, ""type"": 0, ""w"": 26.0}, {""id"": 148033, ""node1"": 5115, ""node2"": 120603, ""type"": 13, ""w"": 53.0}, {""id"": 234259, ""node1"": 5115, ""node2"": 120603, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+enlever,cuire,advcl,VERB,0.673664927482605,[],,
+bout,minute,nmod,NOUN,0.430193156003952,[],,
+enlever,eau,obj,NOUN,0.556739330291748,[],,
+eau,surplus,nmod,NOUN,0.557167649269104,[],,
+enlever,pas,advcl,ADV,0.4034187793731689,[],,
+liquide,soupe,nsubj,NOUN,0.6870909929275513,"[{""id"": 10575607, ""node1"": 140315, ""node2"": 117152, ""type"": 0, ""w"": 84.0}, {""id"": 9623311, ""node1"": 140315, ""node2"": 117152, ""type"": 8, ""w"": 26.0}, {""id"": 14716152, ""node1"": 140315, ""node2"": 117152, ""type"": 23, ""w"": 39.0}, {""id"": 12053723, ""node1"": 140315, ""node2"": 117152, ""type"": 35, ""w"": 81.0}]",r_associated,84.0
+légume,ajouter,acl,VERB,0.6689792275428772,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+liquide,lui,nsubj,PRON,0.4498572051525116,[],,
+soupe,liquide,amod,ADJ,0.6870909929275513,"[{""id"": 8260675, ""node1"": 117152, ""node2"": 140315, ""type"": 0, ""w"": 36.0}, {""id"": 189719, ""node1"": 117152, ""node2"": 140315, ""type"": 6, ""w"": 262.0}, {""id"": 14402439, ""node1"": 117152, ""node2"": 140315, ""type"": 17, ""w"": 84.0}, {""id"": 1671052, ""node1"": 117152, ""node2"": 140315, ""type"": 666, ""w"": 2.0}]",r_isa,262.0

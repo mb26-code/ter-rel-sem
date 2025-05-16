@@ -1,0 +1,21 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+Côtes,porc,nmod,NOUN,0.4721393287181854,[],,
+Côtes,curry,nmod,NOUN,0.4977541863918304,[],,
+curry,miel,amod,NOUN,0.690517008304596,[],,
+miel,ingrédient,nmod,NOUN,0.6318907737731934,"[{""id"": 85917646, ""node1"": 136055, ""node2"": 123418, ""type"": 6, ""w"": 26.0}, {""id"": 661474354, ""node1"": 136055, ""node2"": 123418, ""type"": 666, ""w"": 2.0}]",r_isa,26.0
+titre,curry,nmod,NOUN,0.6213446855545044,[],,
+curry,côte,nmod,NOUN,0.5921308398246765,[],,
+curry,citron,nmod,NOUN,0.6768912672996521,[],,
+curry,set,nmod,NOUN,0.5299272537231445,[],,
+set,poêle,obj,NOUN,0.5301709771156311,[],,
+set,cuillère,nmod,NOUN,0.4149639010429382,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+curry,mélanger,acl,VERB,0.6909562349319458,[],,
+mélanger,huile,obj,NOUN,0.6307845115661621,"[{""id"": 376200336, ""node1"": 37151, ""node2"": 141971, ""type"": 16, ""w"": 26.0}]",r_instr,26.0
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+cuire,côte,obj,NOUN,0.6524490714073181,[],,
+côte,porc,nmod,NOUN,0.5510370135307312,"[{""id"": 7156687, ""node1"": 141949, ""node2"": 71135, ""type"": 0, ""w"": 51.0}]",r_associated,51.0
+cuire,arroser,advcl,VERB,0.6963884830474854,[],,
+cuisson,retourner,acl,VERB,0.7064816951751709,[],,
+retourner,viande,obj,NOUN,0.6923571228981018,"[{""id"": 133539, ""node1"": 103323, ""node2"": 140100, ""type"": 14, ""w"": 60.0}]",r_patient,60.0

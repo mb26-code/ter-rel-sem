@@ -1,0 +1,48 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+risotto,ingrédient,obj,NOUN,0.6905470490455627,[],,
+ingrédient,poivre,appos,NOUN,0.7064663171768188,"[{""id"": 24923435, ""node1"": 123418, ""node2"": 139597, ""type"": 0, ""w"": 15.0}, {""id"": 24850733, ""node1"": 123418, ""node2"": 139597, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+poivre,sel,appos,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+poivre,Espelette,nmod,PROPN,0.5726268887519836,[],,
+poivre,persil,nmod,NOUN,0.6417090892791748,[],,
+persil,thym,amod,NOUN,0.5837678909301758,"[{""id"": 415003388, ""node1"": 135982, ""node2"": 3323, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+poivre,tomate,nmod,NOUN,0.6968331336975098,[],,
+poivre,confit,amod,ADJ,0.6653721928596497,[],,
+huile,vin,nmod,NOUN,0.6687270998954773,[],,
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+blanc,bouillon,obj,NOUN,0.6178013682365417,[],,
+bouillon,ail,nmod,ADP,0.6112963557243347,"[{""id"": 558647560, ""node1"": 146582, ""node2"": 26979, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+poivre,set,nmod,NOUN,0.4926290810108185,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+poivre,étape,nmod,NOUN,0.6137527823448181,[],,
+poivre,Laver,nmod,PROPN,0.4759707450866699,[],,
+gousse,ail,nmod,NOUN,0.5501744151115417,"[{""id"": 1841967, ""node1"": 3889, ""node2"": 26979, ""type"": 0, ""w"": 58.0}, {""id"": 665112731, ""node1"": 3889, ""node2"": 26979, ""type"": 174, ""w"": 40.0}, {""id"": 714921743, ""node1"": 3889, ""node2"": 26979, ""type"": 666, ""w"": 3.0}]",r_associated,58.0
+couper,tomate,obj,NOUN,0.6290057301521301,"[{""id"": 628044027, ""node1"": 128828, ""node2"": 22138, ""type"": 0, ""w"": 27.0}, {""id"": 628044026, ""node1"": 128828, ""node2"": 22138, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+tomate,confit,amod,ADJ,0.6672384738922119,[],,
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+peu,huile,nmod,NOUN,0.5692240595817566,[],,
+fois,oignon,nmod,NOUN,0.5425262451171875,[],,
+oignon,fondre,acl,VERB,0.6370865702629089,[],,
+mélanger,éviter,advcl,VERB,0.4410018622875213,[],,
+accroche,cela,nsubj,PRON,0.4129345417022705,[],,
+laisser,minute,obj,NOUN,0.4280168712139129,[],,
+ajouter,laisser,advcl,VERB,0.4014033377170563,[],,
+absorber,ajouter,advcl,VERB,0.4092305302619934,[],,
+ajouter,thym,obj,NOUN,0.5940713882446289,[],,
+tiers,bouillon,nmod,NOUN,0.5011383891105652,[],,
+absorption,bouillon,nmod,NOUN,0.6033534407615662,[],,
+reste,bouillon,nmod,NOUN,0.6053631901741028,[],,
+bouillon,tout,amod,ADJ,0.6207096576690674,[],,
+absorber,bouillon,nsubj:pass,NOUN,0.583610475063324,[],,
+ajouter,piment,obj,NOUN,0.6054633259773254,[],,
+poêle,second,amod,ADJ,0.6310334205627441,[],,
+revenir,gousse,obj,NOUN,0.5327615141868591,[],,
+ajouter,persil,obj,NOUN,0.5982922315597534,[],,
+cuire,lui,nsubj,PRON,0.6200059056282043,[],,
+jus,cuisson,nmod,NOUN,0.6731067299842834,[],,
+jus,filtrer,acl,VERB,0.5463928580284119,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+minute,mélanger,acl,VERB,0.5259966850280762,[],,
+mélanger,délicatement,obj,ADV,0.5423157811164856,"[{""id"": 373014854, ""node1"": 37151, ""node2"": 81791, ""type"": 34, ""w"": 26.0}]",r_manner,26.0
+reposer,minute,obj,NOUN,0.4512225389480591,[],,
+minute,couvert,nmod,NOUN,0.4901266098022461,[],,

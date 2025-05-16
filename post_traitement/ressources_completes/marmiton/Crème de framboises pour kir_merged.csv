@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+crème,ingrédient,nmod,NOUN,0.6610228419303894,"[{""id"": 24850723, ""node1"": 44001, ""node2"": 123418, ""type"": 0, ""w"": 30.0}, {""id"": 24842105, ""node1"": 44001, ""node2"": 123418, ""type"": 6, ""w"": 143.0}]",r_isa,143.0
+crème,sucre,nmod,NOUN,0.7060490250587463,"[{""id"": 561269855, ""node1"": 44001, ""node2"": 139481, ""type"": 0, ""w"": 61.0}]",r_associated,61.0
+sucre,bordeaux,nmod,NOUN,0.635429322719574,[],,
+sucre,saladier,nmod,NOUN,0.6957500576972961,[],,
+saladier,tamis,nmod,NOUN,0.5371009111404419,[],,
+sucre,casserole,nmod,NOUN,0.7403047680854797,[],,
+casserole,balance,obj,NOUN,0.5916885137557983,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+effectuer,préparation,nsubj,NOUN,0.4058924615383148,[],,
+préserver,arôme,obj,NOUN,0.5235520005226135,[],,
+arôme,fruit,nmod,NOUN,0.541130781173706,"[{""id"": 775215638, ""node1"": 25859, ""node2"": 87286, ""type"": 54, ""w"": 25.0}, {""id"": 646188319, ""node1"": 25859, ""node2"": 87286, ""type"": 666, ""w"": 6.0}]",r_product_of,25.0
+saladier,grand,amod,ADJ,0.534858763217926,"[{""id"": 1077330492, ""node1"": 45455, ""node2"": 23178, ""type"": 0, ""w"": 50.0}, {""id"": 31838076, ""node1"": 45455, ""node2"": 23178, ""type"": 17, ""w"": 60.0}, {""id"": 1668931, ""node1"": 45455, ""node2"": 23178, ""type"": 666, ""w"": 2.0}]",r_carac,60.0
+saladier,faire,appos,VERB,0.6162859797477722,[],,
+endroit,frais,amod,ADJ,0.4134631752967834,[],,
+filtrer,tamis,nmod,NOUN,0.4236718416213989,"[{""id"": 1077393320, ""node1"": 62259, ""node2"": 19126, ""type"": 13, ""w"": 5.0}]",r_agent,5.0
+mettre,jus,obj,NOUN,0.5838963389396667,[],,
+jus,obtenir,acl,VERB,0.5567485690116882,[],,
+casserole,inoxydable,amod,ADJ,0.6037921905517578,[],,
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ébullition,tournant,nmod,NOUN,0.4715167284011841,[],,
+papier,filtre,amod,NOUN,0.4639367163181305,"[{""id"": 54307226, ""node1"": 103389, ""node2"": 28570, ""type"": 0, ""w"": 27.0}, {""id"": 53750044, ""node1"": 103389, ""node2"": 28570, ""type"": 5, ""w"": 81.0}, {""id"": 1046683123, ""node1"": 103389, ""node2"": 28570, ""type"": 51, ""w"": 20.0}, {""id"": 3298456, ""node1"": 103389, ""node2"": 28570, ""type"": 777, ""w"": 10.0}]",r_syn,81.0
+conserver,bouteille,obj,NOUN,0.5263341665267944,"[{""id"": 376066274, ""node1"": 42089, ""node2"": 117423, ""type"": 31, ""w"": 30.0}]",r_action_lieu,30.0
+bouteille,bouché,amod,ADJ,0.4281234741210937,[],,
+bouché,bouteille,appos,NOUN,0.4281234741210937,[],,
+laver,qui,nsubj:pass,PRON,0.4699183404445648,[],,
+bouteille,laver,acl:relcl,VERB,0.538680374622345,"[{""id"": 96926016, ""node1"": 117423, ""node2"": 143876, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0

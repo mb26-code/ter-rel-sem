@@ -1,0 +1,38 @@
+node1,node2,relations
+Cake,fruit,[]
+fruit,ingrédient,[]
+abricot,levure,[]
+levure,chimique,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]"
+abricot,beurre,[]
+abricot,sucre,"[{""id"": 9979847, ""node1"": 118502, ""node2"": 139481, ""type"": 0, ""w"": 14.0}, {""id"": 181619, ""node1"": 118502, ""node2"": 139481, ""type"": 9, ""w"": 90.0}]"
+sucre,poudre,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]"
+poudre,oeuf,[]
+oeuf,cassonade,[]
+pêche,pomme,"[{""id"": 211788, ""node1"": 145624, ""node2"": 37201, ""type"": 0, ""w"": 60.0}]"
+grille,pâtisserie,[]
+pâtisserie,four,"[{""id"": 942271912, ""node1"": 25966, ""node2"": 9190, ""type"": 0, ""w"": 24.0}, {""id"": 15790548, ""node1"": 25966, ""node2"": 9190, ""type"": 15, ""w"": 58.0}, {""id"": 1789859, ""node1"": 25966, ""node2"": 9190, ""type"": 666, ""w"": 1.0}]"
+four,fouet,"[{""id"": 879245167, ""node1"": 9190, ""node2"": 73888, ""type"": 0, ""w"": 20.0}]"
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 307.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 267.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+cuisine,saladier,"[{""id"": 47300451, ""node1"": 16033, ""node2"": 45455, ""type"": 0, ""w"": 30.0}, {""id"": 47300450, ""node1"": 16033, ""node2"": 45455, ""type"": 27, ""w"": 21.0}]"
+saladier,tamis,[]
+grille,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,économe,[]
+économe,moule,[]
+balance,cuisine,[]
+balance,étape,[]
+four,150,[]
+sucre,aide,[]
+aide,fouet,[]
+ajouter,oeuf,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]"
+morceau,petit,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]"
+fruit,morceau,[]
+préférence,dessus,[]
+dessus,saladier,[]
+conserver,jus,"[{""id"": 519932527, ""node1"": 42089, ""node2"": 53310, ""type"": 14, ""w"": 56.0}]"
+verser,préparation,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]"
+mettre,tout,[]
+vérifier,cuisson,"[{""id"": 31862099, ""node1"": 76431, ""node2"": 60056, ""type"": 14, ""w"": 64.0}]"
+délicieux,gâteau,"[{""id"": 613066929, ""node1"": 145464, ""node2"": 2149, ""type"": 0, ""w"": 30.0}, {""id"": 33803781, ""node1"": 145464, ""node2"": 2149, ""type"": 23, ""w"": 56.0}]"
+mettre,délicieux,[]
+bon,appétit,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]"

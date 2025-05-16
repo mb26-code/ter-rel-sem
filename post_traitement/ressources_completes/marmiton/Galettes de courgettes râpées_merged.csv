@@ -1,0 +1,41 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+galette,courgette,nmod,NOUN,0.6405163407325745,[],,
+galette,ingrédient,nmod,NOUN,0.6757978796958923,[],,
+galette,sel,nmod,NOUN,0.7223284840583801,"[{""id"": 652202925, ""node1"": 28590, ""node2"": 13260, ""type"": 0, ""w"": 21.0}, {""id"": 435729007, ""node1"": 28590, ""node2"": 13260, ""type"": 777, ""w"": 10.0}]",r_associated,21.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,courgette,obj,NOUN,0.6948403120040894,[],,
+sel,oeuf,nmod,NOUN,0.6938258409500122,[],,
+galette,fin,amod,ADJ,0.4980852603912353,"[{""id"": 652200699, ""node1"": 28590, ""node2"": 144718, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+fin,herbe,acl,NOUN,0.478801280260086,[],,
+cuillère,top,nmod,NOUN,0.4335919320583343,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,set,nmod,NOUN,0.4149639010429382,[],,
+cuillère,poêle,nmod,NOUN,0.66766756772995,[],,
+cuillère,pinceau,appos,NOUN,0.5075318813323975,[],,
+pinceau,saladier,nmod,NOUN,0.5370374321937561,[],,
+saladier,cuillère,appos,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+mettre,saupoudrer,advcl,VERB,0.4957563281059265,[],,
+laisser,rincer,advcl,VERB,0.4293487966060638,[],,
+sécher,serrer,advcl,VERB,0.451336145401001,[],,
+ajouter,farine,obj,NOUN,0.6640971302986145,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+herbe,fin,amod,ADJ,0.478801280260086,[],,
+liquide,consistance,nsubj,NOUN,0.5256249308586121,"[{""id"": 76195100, ""node1"": 140315, ""node2"": 29223, ""type"": 0, ""w"": 27.0}, {""id"": 97866275, ""node1"": 140315, ""node2"": 29223, ""type"": 23, ""w"": 24.0}]",r_associated,27.0
+ajouter,peu,obj,ADV,0.4455879032611847,[],,
+peu,farine,nmod,NOUN,0.5970592498779297,[],,
+chauffer,cuillère,obj,NOUN,0.652341902256012,[],,
+soupe,huile,nmod,NOUN,0.676633894443512,"[{""id"": 3346889, ""node1"": 117152, ""node2"": 141971, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+chaud,poêle,nsubj,NOUN,0.6645733714103699,"[{""id"": 878856411, ""node1"": 19150, ""node2"": 119686, ""type"": 0, ""w"": 20.0}, {""id"": 14752982, ""node1"": 19150, ""node2"": 119686, ""type"": 23, ""w"": 24.0}]",r_carac-1,24.0
+paquet,petit,amod,ADJ,0.498190701007843,"[{""id"": 97338506, ""node1"": 18403, ""node2"": 55222, ""type"": 17, ""w"": 29.0}]",r_carac,29.0
+disposer,paquet,obj,NOUN,0.4878756999969482,[],,
+paquet,cuillère,appos,NOUN,0.5668172240257263,[],,
+paquet,préparation,nmod,NOUN,0.5248222351074219,[],,
+dorer,minute,obj,NOUN,0.5380439162254333,[],,
+dorer,galette,nsubj:pass,NOUN,0.5949376225471497,[],,
+ajouter,cuillère,obj,NOUN,0.5465437173843384,[],,
+cuillère,eau,nmod,NOUN,0.5921421051025391,"[{""id"": 662508617, ""node1"": 51905, ""node2"": 65012, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+eau,poêle,nmod,NOUN,0.6723008155822754,[],,
+eau,besoin,nmod,NOUN,0.5439085960388184,"[{""id"": 1030694961, ""node1"": 65012, ""node2"": 33296, ""type"": 0, ""w"": 20.0}]",r_associated,20.0

@@ -1,0 +1,63 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+feuille,vigne,nmod,NOUN,0.4471348524093628,"[{""id"": 9902057, ""node1"": 37993, ""node2"": 83635, ""type"": 0, ""w"": 14.0}, {""id"": 373296, ""node1"": 37993, ""node2"": 83635, ""type"": 8, ""w"": 101.0}, {""id"": 10001630, ""node1"": 37993, ""node2"": 83635, ""type"": 10, ""w"": 4.0}, {""id"": 11358695, ""node1"": 37993, ""node2"": 83635, ""type"": 15, ""w"": 38.0}]",r_hypo,101.0
+feuille,riz,nmod,NOUN,0.6777033805847168,[],,
+ingrédient,poivre,appos,NOUN,0.7064663171768188,"[{""id"": 24923435, ""node1"": 123418, ""node2"": 139597, ""type"": 0, ""w"": 15.0}, {""id"": 24850733, ""node1"": 123418, ""node2"": 139597, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+poivre,feuille,nmod,NOUN,0.6660715341567993,[],,
+feuille,citron,nmod,NOUN,0.6288616061210632,[],,
+poivre,cube,nmod,NOUN,0.614830732345581,[],,
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+bouillon,huile,amod,NOUN,0.6829477548599243,"[{""id"": 558647559, ""node1"": 146582, ""node2"": 141971, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+bouillon,pignon,nmod,NOUN,0.5564653873443604,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+couvercle,étape,nmod,NOUN,0.4822983145713806,[],,
+cuillère,heure,nmod,NOUN,0.4800123274326324,[],,
+ingrédient,faire,advcl,VERB,0.6170313358306885,[],,
+ingrédient,bouillir,nmod,VERB,0.7238650918006897,[],,
+jeter,feuille,obj,NOUN,0.4983755052089691,[],,
+refroidir,préparer,advcl,VERB,0.5312302708625793,[],,
+refroidir,préparation,obj,NOUN,0.5895336270332336,"[{""id"": 920476989, ""node1"": 126973, ""node2"": 33634, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+préparation,farce,nmod,NOUN,0.5677170157432556,"[{""id"": 601611629, ""node1"": 33634, ""node2"": 36354, ""type"": 0, ""w"": 29.0}, {""id"": 616543913, ""node1"": 33634, ""node2"": 36354, ""type"": 8, ""w"": 1.0}]",r_associated,29.0
+préparation,couper,acl,VERB,0.5147535800933838,[],,
+couper,oignon,obj,NOUN,0.596168577671051,"[{""id"": 435065584, ""node1"": 128828, ""node2"": 123307, ""type"": 0, ""w"": 29.0}, {""id"": 31770866, ""node1"": 128828, ""node2"": 123307, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+poêle,profond,amod,ADJ,0.635657548904419,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+soupe,huile,nmod,NOUN,0.676633894443512,"[{""id"": 3346889, ""node1"": 117152, ""node2"": 141971, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+rajouter,riz,obj,NOUN,0.672153115272522,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+cuire,remuer,advcl,VERB,0.6866573691368103,[],,
+remuer,temps,obj,NOUN,0.5274296998977661,[],,
+devoir,riz,nsubj,NOUN,0.6619561314582825,[],,
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+rajouter,pignon,obj,NOUN,0.4414172172546386,[],,
+jeter,jus,nsubj,NOUN,0.5719720125198364,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+jus,attention,appos,NOUN,0.5642969608306885,[],,
+jeter,citron,obj,NOUN,0.6006664633750916,[],,
+fois,vider,acl,VERB,0.4171613454818725,[],,
+prendre,feuille,obj,NOUN,0.4766469001770019,[],,
+couper,queue,obj,NOUN,0.4982436597347259,[],,
+disposer,feuille,obj,NOUN,0.4872424602508545,[],,
+devoir,pointe,nsubj,NOUN,0.4053996503353119,[],,
+pointe,feuille,nmod,NOUN,0.4649470448493957,[],,
+déposer,cuillère,obj,NOUN,0.5286773443222046,[],,
+cuillère,café,nmod,NOUN,0.592677116394043,"[{""id"": 163839, ""node1"": 51905, ""node2"": 66324, ""type"": 0, ""w"": 180.0}, {""id"": 11354840, ""node1"": 51905, ""node2"": 66324, ""type"": 15, ""w"": 39.0}, {""id"": 720818158, ""node1"": 51905, ""node2"": 66324, ""type"": 174, ""w"": 25.0}]",r_associated,180.0
+café,farce,nmod,NOUN,0.6405750513076782,[],,
+cuillère,bas,nmod,NOUN,0.4295653104782104,[],,
+ramener,côté,obj,NOUN,0.4277622699737549,[],,
+côté,feuille,nmod,NOUN,0.4905551671981811,"[{""id"": 8904948, ""node1"": 138419, ""node2"": 37993, ""type"": 15, ""w"": -2.0}]",r_lieu,-2.0
+ramener,rouler,advcl,VERB,0.4309796988964081,[],,
+eau,marmite,nmod,NOUN,0.6216312050819397,[],,
+filet,huile,nmod,NOUN,0.6150403022766113,[],,
+filet,placer,acl,VERB,0.5331761837005615,[],,
+placer,citron,obj,NOUN,0.6326245069503784,[],,
+citron,vide,amod,ADJ,0.5584471821784973,[],,
+bouillir,eau,obj,NOUN,0.6033914685249329,"[{""id"": 2243409, ""node1"": 42401, ""node2"": 65012, ""type"": 0, ""w"": 37.0}, {""id"": 418498333, ""node1"": 42401, ""node2"": 65012, ""type"": 3, ""w"": 32.0}, {""id"": 2243394, ""node1"": 42401, ""node2"": 65012, ""type"": 13, ""w"": 175.0}, {""id"": 153578, ""node1"": 42401, ""node2"": 65012, ""type"": 14, ""w"": 270.0}, {""id"": 352516461, ""node1"": 42401, ""node2"": 65012, ""type"": 31, ""w"": 31.0}, {""id"": 979642032, ""node1"": 42401, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]",r_patient,270.0
+eau,cuisson,nmod,NOUN,0.6715990304946899,"[{""id"": 489016047, ""node1"": 65012, ""node2"": 60056, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+baisser,feu,obj,NOUN,0.552813708782196,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+rajouter,peu,obj,ADV,0.4418238401412964,[],,
+peu,eau,nmod,NOUN,0.5583444833755493,[],,
+cuisson,besoin,nmod,NOUN,0.6826686263084412,[],,
+refroidir,servir,advcl,VERB,0.526896059513092,[],,

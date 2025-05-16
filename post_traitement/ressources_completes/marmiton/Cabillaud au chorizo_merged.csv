@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+sel,poivre,acl,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,oignon,nmod,NOUN,0.6702394485473633,[],,
+oignon,courgette,nmod,NOUN,0.6394896507263184,"[{""id"": 561294234, ""node1"": 123307, ""node2"": 85172, ""type"": 0, ""w"": 57.0}]",r_associated,57.0
+tomate,cabillaud,acl,NOUN,0.6517155766487122,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+ajouter,tomate,obj,NOUN,0.6318210363388062,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 30.0}]",r_agent,30.0
+tomate,couper,acl,VERB,0.6290057301521301,"[{""id"": 920912564, ""node1"": 22138, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 628044041, ""node1"": 22138, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+courgette,couper,acl,VERB,0.5805845856666565,[],,
+revenir,minute,obj,NOUN,0.4577978253364563,[],,
+cuire,filet,obj,NOUN,0.7411284446716309,[],,
+filet,cabillaud,nmod,NOUN,0.5657699704170227,"[{""id"": 561074261, ""node1"": 42188, ""node2"": 9046, ""type"": 0, ""w"": 41.0}]",r_associated,41.0
+revenir,rondelle,obj,NOUN,0.5313155055046082,[],,
+rondelle,chorizo,nmod,ADV,0.60137540102005,"[{""id"": 943602788, ""node1"": 71106, ""node2"": 51767, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+saisir,incorporer,advcl,VERB,0.4049618244171142,[],,
+obtenir,sauce,obj,NOUN,0.6665064692497253,"[{""id"": 373013766, ""node1"": 102671, ""node2"": 141110, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+sauce,homogène,amod,ADJ,0.6622551679611206,[],,
+incorporer,poisson,nsubj,NOUN,0.6879274845123291,[],,
+chauffer,minute,obj,NOUN,0.5416167974472046,[],,
+minute,mélanger,acl,VERB,0.5259966850280762,[],,
+incorporer,servir,appos,ADJ,0.4827648103237152,[],,
+servir,tel,amod,ADJ,0.4527022838592529,[],,
+servir,quel,obj,ADJ,0.4469148814678192,[],,
+riz,accompagnement,nmod,NOUN,0.6550289988517761,"[{""id"": 3196076, ""node1"": 24372, ""node2"": 22605, ""type"": 0, ""w"": 71.0}, {""id"": 1791473, ""node1"": 24372, ""node2"": 22605, ""type"": 6, ""w"": 66.0}]",r_associated,71.0

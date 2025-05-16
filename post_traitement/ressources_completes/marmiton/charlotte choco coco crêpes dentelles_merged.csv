@@ -1,0 +1,45 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,charlotte,nmod,NOUN,0.4110290110111236,[],,
+dentelle,ingrédient,nmod,NOUN,0.5931956768035889,[],,
+crêpe,chocolat,nmod,NOUN,0.6320329904556274,"[{""id"": 2141251, ""node1"": 17186, ""node2"": 34157, ""type"": 0, ""w"": 78.0}, {""id"": 98284701, ""node1"": 17186, ""node2"": 34157, ""type"": 28, ""w"": 31.0}, {""id"": 1024605402, ""node1"": 17186, ""node2"": 34157, ""type"": 666, ""w"": 2.0}]",r_associated,78.0
+crêpe,noir,amod,ADJ,0.5722079873085022,"[{""id"": 10738592, ""node1"": 17186, ""node2"": 64238, ""type"": 0, ""w"": 21.0}, {""id"": 98274105, ""node1"": 17186, ""node2"": 64238, ""type"": 17, ""w"": 31.0}, {""id"": 98274103, ""node1"": 17186, ""node2"": 64238, ""type"": 106, ""w"": 10.0}]",r_carac,31.0
+cuillère,crêpe,amod,NOUN,0.6092498302459717,[],,
+cuillère,dentelle,amod,ADJ,0.5389169454574585,[],,
+cuillère,crème,amod,NOUN,0.6264995336532593,"[{""id"": 662506915, ""node1"": 51905, ""node2"": 44001, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+crème,liquide,amod,ADJ,0.618919312953949,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]",r_carac,52.0
+mascarpone,coco,amod,ADV,0.5681962370872498,[],,
+poudre,mascarpone,nmod,NOUN,0.6111465096473694,[],,
+mascarpone,cacao,amod,NOUN,0.5498318076133728,[],,
+cacao,lait,appos,NOUN,0.5691551566123962,"[{""id"": 115928, ""node1"": 68363, ""node2"": 86296, ""type"": 0, ""w"": 130.0}, {""id"": 1715440, ""node1"": 68363, ""node2"": 86296, ""type"": 9, ""w"": -3.0}, {""id"": 1811927, ""node1"": 68363, ""node2"": 86296, ""type"": 15, ""w"": 78.0}]",r_associated,130.0
+mascarpone,moule,nmod,NOUN,0.5743825435638428,[],,
+moule,charlotte,nmod,PROPN,0.4892186224460602,"[{""id"": 558702306, ""node1"": 143723, ""node2"": 71783, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+moule,louche,appos,NOUN,0.5561479926109314,[],,
+louche,Spatule,nmod,PROPN,0.4290337562561035,[],,
+mascarpone,casserole,nmod,NOUN,0.6723377704620361,[],,
+casserole,pinceau,appos,NOUN,0.5741793513298035,[],,
+pinceau,saladier,nmod,NOUN,0.537192165851593,[],,
+saladier,poêle,nmod,NOUN,0.6743712425231934,[],,
+poudre,crêpe,nmod,NOUN,0.6330118775367737,[],,
+crêpe,étape,obj,NOUN,0.5757045745849609,[],,
+poudre,monter,acl,VERB,0.5791388154029846,[],,
+monter,ajouter,advcl,VERB,0.4428631663322449,[],,
+aide,mascarpone,nsubj,NOUN,0.5019649267196655,[],,
+aide,spatule,nmod,NOUN,0.4552697539329529,[],,
+spatule,fondre,acl,VERB,0.558742344379425,[],,
+fondre,chocolat,obj,NOUN,0.5862945318222046,"[{""id"": 28589116, ""node1"": 16480, ""node2"": 34157, ""type"": 0, ""w"": 63.0}, {""id"": 24768886, ""node1"": 16480, ""node2"": 34157, ""type"": 13, ""w"": 30.0}, {""id"": 1011304980, ""node1"": 16480, ""node2"": 34157, ""type"": 14, ""w"": 30.0}, {""id"": 1009801551, ""node1"": 16480, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]",r_associated,63.0
+crêpe,dentelle,amod,ADJ,0.5409942269325256,"[{""id"": 18217813, ""node1"": 17186, ""node2"": 113968, ""type"": 0, ""w"": 61.0}, {""id"": 750284598, ""node1"": 17186, ""node2"": 113968, ""type"": 17, ""w"": -5.0}]",r_associated,61.0
+réserver,frais,nmod,NOUN,0.4484988451004028,"[{""id"": 373014550, ""node1"": 7006, ""node2"": 53495, ""type"": 31, ""w"": 26.0}]",r_action_lieu,26.0
+réserver,temps,nmod,NOUN,0.5071247816085815,"[{""id"": 1023152372, ""node1"": 7006, ""node2"": 13861, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+prendre,mousse,nsubj,NOUN,0.5277689695358276,[],,
+temps,prendre,acl,VERB,0.4625634253025055,"[{""id"": 892867793, ""node1"": 13861, ""node2"": 86306, ""type"": 0, ""w"": 20.0}, {""id"": 15071419, ""node1"": 13861, ""node2"": 86306, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+prendre,moule,obj,NOUN,0.5382034182548523,[],,
+mélange,cacao,amod,ADJ,0.584828794002533,[],,
+mélange,lait,amod,ADJ,0.6114028692245483,[],,
+aide,pinceau,nmod,NOUN,0.420757919549942,[],,
+mousse,prise,amod,NOUN,0.4717744886875152,[],,
+décorer,dessus,obj,NOUN,0.4904303848743438,[],,
+dessus,chocolat,nmod,NOUN,0.5704660415649414,[],,
+réserver,minimum,advcl,NOUN,0.4490168392658233,[],,
+minimum,heure,obj,NOUN,0.4174869060516357,[],,
+boule,glace,nmod,NOUN,0.5471148490905762,"[{""id"": 243451, ""node1"": 141883, ""node2"": 141964, ""type"": 0, ""w"": 101.0}, {""id"": 9903174, ""node1"": 141883, ""node2"": 141964, ""type"": 6, ""w"": 13.0}, {""id"": 4985394, ""node1"": 141883, ""node2"": 141964, ""type"": 9, ""w"": 5.0}, {""id"": 720819380, ""node1"": 141883, ""node2"": 141964, ""type"": 174, ""w"": 25.0}]",r_associated,101.0
+boule,vanille,nmod,NOUN,0.5815197229385376,[],,

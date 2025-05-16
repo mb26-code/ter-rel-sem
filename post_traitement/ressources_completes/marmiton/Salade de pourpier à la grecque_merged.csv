@@ -1,0 +1,24 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,salade,appos,NOUN,0.6000369191169739,[],,
+salade,ingrédient,nmod,NOUN,0.7104912996292114,[],,
+salade,poivre,nmod,NOUN,0.729775071144104,"[{""id"": 97758233, ""node1"": 118908, ""node2"": 139597, ""type"": 0, ""w"": 35.0}, {""id"": 97758234, ""node1"": 118908, ""node2"": 139597, ""type"": 9, ""w"": 40.0}]",r_has_part,40.0
+poivre,sel,acl,NOUN,0.6562960147857666,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+poivre,vinaigre,acl,NOUN,0.647547721862793,"[{""id"": 584573829, ""node1"": 139597, ""node2"": 145443, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+vinaigre,tomate,nmod,NOUN,0.6710893511772156,[],,
+salade,oignon,nmod,NOUN,0.686040997505188,"[{""id"": 429982183, ""node1"": 118908, ""node2"": 123307, ""type"": 0, ""w"": 23.0}, {""id"": 97758222, ""node1"": 118908, ""node2"": 123307, ""type"": 9, ""w"": 27.0}, {""id"": 675297508, ""node1"": 118908, ""node2"": 123307, ""type"": 666, ""w"": 2.0}]",r_has_part,27.0
+oignon,poivron,appos,NOUN,0.6129616498947144,[],,
+oignon,vert,appos,PROPN,0.5560280680656433,[],,
+salade,poivron,nmod,NOUN,0.6861389875411987,"[{""id"": 796822240, ""node1"": 118908, ""node2"": 38257, ""type"": 0, ""w"": 25.0}, {""id"": 10531943, ""node1"": 118908, ""node2"": 38257, ""type"": 9, ""w"": 10.0}, {""id"": 803716990, ""node1"": 118908, ""node2"": 38257, ""type"": 17, ""w"": -5.0}, {""id"": 675297511, ""node1"": 118908, ""node2"": 38257, ""type"": 666, ""w"": 3.0}]",r_associated,25.0
+poivron,rouge,amod,ADJ,0.5815114378929138,"[{""id"": 273173, ""node1"": 38257, ""node2"": 86356, ""type"": 0, ""w"": 151.0}, {""id"": 1944118, ""node1"": 38257, ""node2"": 86356, ""type"": 17, ""w"": 36.0}, {""id"": 3160591, ""node1"": 38257, ""node2"": 86356, ""type"": 106, ""w"": 11.0}]",r_associated,151.0
+salade,concombre,nmod,NOUN,0.6217596530914307,"[{""id"": 1652827, ""node1"": 118908, ""node2"": 31570, ""type"": 0, ""w"": 141.0}, {""id"": 765200128, ""node1"": 118908, ""node2"": 31570, ""type"": 50, ""w"": 27.0}, {""id"": 675297497, ""node1"": 118908, ""node2"": 31570, ""type"": 666, ""w"": 11.0}]",r_associated,141.0
+concombre,radis,nmod,PROPN,0.4816597104072571,[],,
+concombre,huile,amod,NOUN,0.610710620880127,[],,
+salade,saladier,nmod,NOUN,0.6602394580841064,"[{""id"": 176886, ""node1"": 118908, ""node2"": 45455, ""type"": 0, ""w"": 64.0}, {""id"": 3200445, ""node1"": 118908, ""node2"": 45455, ""type"": 15, ""w"": 53.0}, {""id"": 648953994, ""node1"": 118908, ""node2"": 45455, ""type"": 99, ""w"": 34.0}, {""id"": 1813879, ""node1"": 118908, ""node2"": 45455, ""type"": 666, ""w"": 1.0}]",r_associated,64.0
+saladier,réfrigérateur,nmod,NOUN,0.5831339359283447,[],,
+réfrigérateur,étape,nmod,NOUN,0.4904063940048218,[],,
+salade,bouillir,acl,VERB,0.7578731775283813,[],,
+dépôt,noir,amod,ADJ,0.4503724277019501,[],,
+ingrédient,autre,amod,ADJ,0.5639666318893433,[],,
+ajouter,ingrédient,obj,NOUN,0.5776577591896057,"[{""id"": 9084112, ""node1"": 25099, ""node2"": 123418, ""type"": 0, ""w"": 56.0}, {""id"": 428901945, ""node1"": 25099, ""node2"": 123418, ""type"": 14, ""w"": 100.0}, {""id"": 9084083, ""node1"": 25099, ""node2"": 123418, ""type"": 35, ""w"": 48.0}]",r_patient,100.0
+ingrédient,découper,acl,VERB,0.6337003111839294,[],,
+préparer,assaisonnement,obj,NOUN,0.6501865386962891,[],,

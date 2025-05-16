@@ -1,0 +1,61 @@
+node1,node2,relations
+tarte,noix,"[{""id"": 588371010, ""node1"": 575, ""node2"": 30910, ""type"": 0, ""w"": 78.0}, {""id"": 1015266846, ""node1"": 575, ""node2"": 30910, ""type"": 666, ""w"": 6.0}, {""id"": 110795971, ""node1"": 575, ""node2"": 30910, ""type"": 777, ""w"": 10.0}]"
+tarte,ingrédient,"[{""id"": 588372722, ""node1"": 575, ""node2"": 123418, ""type"": 0, ""w"": 2.0}]"
+ingrédient,crème,"[{""id"": 24923429, ""node1"": 123418, ""node2"": 44001, ""type"": 0, ""w"": 15.0}, {""id"": 24850724, ""node1"": 123418, ""node2"": 44001, ""type"": 8, ""w"": 36.0}]"
+crème,beurre,"[{""id"": 405906, ""node1"": 44001, ""node2"": 140377, ""type"": 0, ""w"": 73.0}, {""id"": 9980280, ""node1"": 44001, ""node2"": 140377, ""type"": 10, ""w"": 4.0}, {""id"": 1836384, ""node1"": 44001, ""node2"": 140377, ""type"": 21, ""w"": 60.0}, {""id"": 306776452, ""node1"": 44001, ""node2"": 140377, ""type"": 666, ""w"": 2.0}]"
+beurre,noix,"[{""id"": 500926044, ""node1"": 140377, ""node2"": 30910, ""type"": 0, ""w"": 2.0}]"
+oeuf,cassonade,[]
+cassonade,sel,[]
+sel,beurre,"[{""id"": 29328492, ""node1"": 13260, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 9986817, ""node1"": 13260, ""node2"": 140377, ""type"": 10, ""w"": 35.0}]"
+crème,sucre,"[{""id"": 561269855, ""node1"": 44001, ""node2"": 139481, ""type"": 0, ""w"": 61.0}]"
+sucre,roux,"[{""id"": 121310, ""node1"": 139481, ""node2"": 75869, ""type"": 0, ""w"": 178.0}, {""id"": 2484851, ""node1"": 139481, ""node2"": 75869, ""type"": 8, ""w"": 64.0}, {""id"": 182237, ""node1"": 139481, ""node2"": 75869, ""type"": 17, ""w"": 174.0}, {""id"": 3163417, ""node1"": 139481, ""node2"": 75869, ""type"": 106, ""w"": 21.0}]"
+sucre,amande,[]
+amande,poudre,[]
+poudre,oeuf,[]
+oeuf,sucre,"[{""id"": 76133259, ""node1"": 116175, ""node2"": 139481, ""type"": 50, ""w"": 26.0}]"
+sucre,vanillé,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]"
+sucre,moule,[]
+moule,tarte,"[{""id"": 201624, ""node1"": 143723, ""node2"": 575, ""type"": 0, ""w"": 130.0}]"
+tarte,saladier,[]
+saladier,tamis,[]
+saladier,four,[]
+four,rouleau,[]
+sucre,pâtisserie,"[{""id"": 191282, ""node1"": 139481, ""node2"": 25966, ""type"": 0, ""w"": 62.0}, {""id"": 219463, ""node1"": 139481, ""node2"": 25966, ""type"": 10, ""w"": 56.0}, {""id"": 34655896, ""node1"": 139481, ""node2"": 25966, ""type"": 15, ""w"": 34.0}, {""id"": 14661291, ""node1"": 139481, ""node2"": 25966, ""type"": 42, ""w"": 32.0}, {""id"": 193811249, ""node1"": 139481, ""node2"": 25966, ""type"": 51, ""w"": 53.0}, {""id"": 651011197, ""node1"": 139481, ""node2"": 25966, ""type"": 666, ""w"": 2.0}]"
+pâtisserie,congélateur,"[{""id"": 24365589, ""node1"": 25966, ""node2"": 46141, ""type"": 15, ""w"": 28.0}]"
+papier,meilleur,[]
+top,papier,[]
+mixeur,fouet,"[{""id"": 16409545, ""node1"": 78314, ""node2"": 73888, ""type"": 777, ""w"": 10.0}]"
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+fouet,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,balance,[]
+balance,cuisine,[]
+balance,réfrigérateur,[]
+réfrigérateur,étape,[]
+réfrigérateur,travailler,[]
+travailler,beurre,[]
+ajouter,farine,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]"
+ajouter,sel,"[{""id"": 914306223, ""node1"": 25099, ""node2"": 13260, ""type"": 0, ""w"": 20.0}, {""id"": 220261, ""node1"": 25099, ""node2"": 13260, ""type"": 14, ""w"": 70.0}]"
+poudre,amande,[]
+incorporer,oeuf,[]
+écraser,pâte,[]
+fois,plan,[]
+réfrigérateur,heure,[]
+réfrigérateur,film,[]
+film,plastique,[]
+four,200,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,[]
+étaler,pâte,"[{""id"": 364779096, ""node1"": 98214, ""node2"": 34069, ""type"": 0, ""w"": 38.0}, {""id"": 243248, ""node1"": 98214, ""node2"": 34069, ""type"": 14, ""w"": 100.0}]"
+garnir,moule,"[{""id"": 98282812, ""node1"": 106541, ""node2"": 143723, ""type"": 0, ""w"": 22.0}]"
+piquer,fond,[]
+cuire,fond,[]
+fond,tarte,[]
+papier,légume,[]
+légume,sec,"[{""id"": 426805, ""node1"": 120603, ""node2"": 63619, ""type"": 17, ""w"": 53.0}]"
+papier,temps,[]
+garder,quinzaine,[]
+fouet,œuf,[]
+ajouter,crème,[]
+beurre,fondre,"[{""id"": 652231036, ""node1"": 140377, ""node2"": 16480, ""type"": 0, ""w"": 21.0}, {""id"": 24771033, ""node1"": 140377, ""node2"": 16480, ""type"": 24, ""w"": 137.0}, {""id"": 1886772, ""node1"": 140377, ""node2"": 16480, ""type"": 26, ""w"": 33.0}]"
+fond,refroidir,[]

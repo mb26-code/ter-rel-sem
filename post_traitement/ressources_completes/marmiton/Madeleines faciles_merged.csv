@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+ingrédient,beurre,appos,NOUN,0.7321043014526367,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]",r_associated,69.0
+beurre,levure,nmod,NOUN,0.6823499798774719,"[{""id"": 500926032, ""node1"": 140377, ""node2"": 53450, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+ingrédient,eau,nmod,NOUN,0.6008535623550415,"[{""id"": 245157298, ""node1"": 123418, ""node2"": 65012, ""type"": 8, ""w"": 36.0}]",r_hypo,36.0
+eau,fleur,nmod,NOUN,0.5764890909194946,[],,
+eau,oranger,acl,VERB,0.5404275059700012,[],,
+oranger,sucre,obj,NOUN,0.6246147751808167,[],,
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+lait,moule,nmod,NOUN,0.6305511593818665,[],,
+lait,four,nmod,NOUN,0.7315001487731934,[],,
+four,saladier,nmod,NOUN,0.6991847157478333,[],,
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+four,240,nmod,NUM,0.4864433705806732,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+casserole,feu,nmod,NOUN,0.5973718166351318,"[{""id"": 252156, ""node1"": 57253, ""node2"": 143703, ""type"": 0, ""w"": 57.0}, {""id"": 96920401, ""node1"": 57253, ""node2"": 143703, ""type"": 15, ""w"": 30.0}, {""id"": 1762446, ""node1"": 57253, ""node2"": 143703, ""type"": 666, ""w"": 2.0}]",r_associated,57.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+mélanger,oeuf,obj,NOUN,0.5539453625679016,[],,
+blanchir,mélange,nsubj,NOUN,0.5664106011390686,[],,
+ajouter,fleur,obj,NOUN,0.52531898021698,[],,
+fleur,oranger,acl,VERB,0.4641747772693634,"[{""id"": 421883126, ""node1"": 28985, ""node2"": 33024, ""type"": 0, ""w"": 11.0}]",r_associated,11.0
+gramme,lait,nmod,NOUN,0.5701826214790344,[],,
+ajouter,farine,obj,NOUN,0.6640971302986145,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+tour,beurre,nmod,NOUN,0.6190184354782104,[],,
+restant,lait,nmod,NOUN,0.5810036063194275,[],,
+verser,préparation,obj,NOUN,0.5208573341369629,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparation,dedans,amod,ADV,0.5577629804611206,[],,
+enfourner,thermostat,appos,NOUN,0.5461767911911011,[],,
+baisser,thermostat,obj,NOUN,0.4859053492546081,"[{""id"": 529523394, ""node1"": 91711, ""node2"": 130331, ""type"": 13, ""w"": 1.0}]",r_agent,1.0
+surveiller,cuisson,obj,NOUN,0.6946427226066589,"[{""id"": 1007853514, ""node1"": 39170, ""node2"": 60056, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+sortie,four,nmod,NOUN,0.6299260258674622,[],,

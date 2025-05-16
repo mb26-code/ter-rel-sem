@@ -1,0 +1,20 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,beurre,amod,NOUN,0.71866774559021,"[{""id"": 584573840, ""node1"": 139597, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+crème,liquide,amod,ADJ,0.6173139810562134,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]",r_carac,52.0
+concentrer,tomate,nmod,NOUN,0.6202633380889893,[],,
+casserole,four,nmod,NOUN,0.7147663235664368,[],,
+four,saladier,nmod,NOUN,0.6991847157478333,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+cuire,il,nsubj,PRON,0.4034532904624939,[],,
+eau,cuire,acl:relcl,VERB,0.7274088263511658,"[{""id"": 434400, ""node1"": 65012, ""node2"": 5115, ""type"": 25, ""w"": 61.0}, {""id"": 380404068, ""node1"": 65012, ""node2"": 5115, ""type"": 30, ""w"": 26.0}]",r_instr-1,61.0
+cuire,remonter,advcl,VERB,0.6751520037651062,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+casserole,grand,amod,ADJ,0.5876413583755493,[],,
+ajouter,mouiller,advcl,VERB,0.4893102049827575,"[{""id"": 908251962, ""node1"": 25099, ""node2"": 2344, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+ajouter,concentré,obj,NOUN,0.4534747898578644,[],,
+concentré,tomate,nmod,NOUN,0.6039107441902161,[],,
+ajouter,parmesan,obj,NOUN,0.6033021807670593,[],,

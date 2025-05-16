@@ -1,0 +1,55 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+ajouter,ingrédient,nsubj,NOUN,0.5645265579223633,"[{""id"": 9084112, ""node1"": 25099, ""node2"": 123418, ""type"": 0, ""w"": 56.0}, {""id"": 428901945, ""node1"": 25099, ""node2"": 123418, ""type"": 14, ""w"": 100.0}, {""id"": 9084083, ""node1"": 25099, ""node2"": 123418, ""type"": 35, ""w"": 48.0}]",r_patient,100.0
+ingrédient,curry,nmod,NOUN,0.6966756582260132,[],,
+curry,piment,nmod,ADV,0.670763373374939,"[{""id"": 3116751, ""node1"": 82813, ""node2"": 128791, ""type"": 0, ""w"": 97.0}]",r_associated,97.0
+curry,muscade,nmod,NOUN,0.6490968465805054,"[{""id"": 112976524, ""node1"": 82813, ""node2"": 115297, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+curry,gingembre,nmod,NOUN,0.664743959903717,"[{""id"": 3116771, ""node1"": 82813, ""node2"": 77020, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+gingembre,poulet,nmod,NOUN,0.6895540356636047,"[{""id"": 3573441, ""node1"": 77020, ""node2"": 146261, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+menthe,citron,appos,NOUN,0.5805667042732239,[],,
+curry,crème,amod,NOUN,0.7014504671096802,[],,
+coco,blond,obj,ADJ,0.5410581231117249,[],,
+blond,cannelle,amod,ADJ,0.5436345934867859,[],,
+coco,huile,obj,NOUN,0.6010280847549438,"[{""id"": 602113834, ""node1"": 145904, ""node2"": 141971, ""type"": 0, ""w"": 16.0}]",r_associated,16.0
+coco,bouillon,obj,NOUN,0.6380618810653687,[],,
+bouillon,volaille,nmod,NOUN,0.6946349143981934,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+curry,lot,nmod,NOUN,0.5233544707298279,[],,
+mixeur,saladier,nmod,NOUN,0.581632137298584,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+curry,étape,nmod,NOUN,0.6459842920303345,[],,
+ingrédient,revenir,acl,VERB,0.6335567235946655,[],,
+revenir,poulet,obj,NOUN,0.6672897338867188,[],,
+type,poêle,amod,NOUN,0.6486048102378845,[],,
+fond,bon,amod,ADJ,0.4894628226757049,[],,
+fond,huile,nmod,NOUN,0.603881299495697,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+fond,oignon,nmod,NOUN,0.6196684241294861,"[{""id"": 98303736, ""node1"": 119272, ""node2"": 123307, ""type"": 0, ""w"": 22.0}, {""id"": 98303794, ""node1"": 119272, ""node2"": 123307, ""type"": 9, ""w"": 30.0}]",r_has_part,30.0
+ajouter,curry,obj,NOUN,0.6705759763717651,"[{""id"": 31845118, ""node1"": 25099, ""node2"": 82813, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+ajouter,bouillon,obj,NOUN,0.597090482711792,[],,
+bouillon,cube,amod,NOUN,0.5364071130752563,"[{""id"": 799190726, ""node1"": 146582, ""node2"": 6041, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+bouillon,peu,nmod,ADV,0.5373464822769165,[],,
+bouillon,eau,nmod,NOUN,0.6091527938842773,"[{""id"": 32063698, ""node1"": 146582, ""node2"": 65012, ""type"": 0, ""w"": 33.0}, {""id"": 418498335, ""node1"": 146582, ""node2"": 65012, ""type"": 3, ""w"": 31.0}, {""id"": 32061929, ""node1"": 146582, ""node2"": 65012, ""type"": 9, ""w"": 53.0}]",r_has_part,53.0
+fois,poulet,nmod,NOUN,0.5914230346679688,[],,
+poulet,cuit,amod,ADJ,0.745978057384491,"[{""id"": 921199711, ""node1"": 146261, ""node2"": 28105, ""type"": 0, ""w"": 20.0}, {""id"": 157276, ""node1"": 146261, ""node2"": 28105, ""type"": 17, ""w"": 65.0}]",r_carac,65.0
+verser,contenu,obj,NOUN,0.4781818091869354,[],,
+contenu,poêle,nmod,NOUN,0.6419464349746704,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+crème,coco,nmod,ADV,0.6196759939193726,[],,
+feuille,menthe,nmod,NOUN,0.5525094866752625,"[{""id"": 29327658, ""node1"": 37993, ""node2"": 97057, ""type"": 0, ""w"": 30.0}, {""id"": 9980624, ""node1"": 37993, ""node2"": 97057, ""type"": 10, ""w"": 34.0}]",r_holo,34.0
+disposer,contenu,obj,NOUN,0.4189418852329254,[],,
+ajouter,couper,advcl,VERB,0.4516488313674927,"[{""id"": 55053058, ""node1"": 25099, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 55011750, ""node1"": 25099, ""node2"": 128828, ""type"": 5, ""w"": 57.0}, {""id"": 85362404, ""node1"": 25099, ""node2"": 128828, ""type"": 7, ""w"": 31.0}]",r_syn,57.0
+couper,votre,obj,DET,0.4642773270606994,[],,
+cube,petit,amod,ADJ,0.5087730884552002,[],,
+faire,que,obj,PRON,0.4427080750465393,[],,
+cube,faire,acl,VERB,0.5396797060966492,[],,
+fondre,vous,nsubj,PRON,0.4138486385345459,[],,
+poêle,fondre,acl:relcl,VERB,0.6530109643936157,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+ajouter,cannelle,obj,ADJ,0.6217688322067261,[],,
+présent,écraser,acl,VERB,0.4215351641178131,[],,
+disposer,couche,obj,NOUN,0.4651126265525818,[],,
+ajouter,mélange,obj,NOUN,0.5318974852561951,[],,
+mélange,poulet,nmod,NOUN,0.7039109468460083,[],,
+cube,mangue,nmod,NOUN,0.5805458426475525,[],,
+feuille,déco,nmod,NOUN,0.494004875421524,[],,
+bon,régal,amod,ADJ,0.4478985667228699,[],,

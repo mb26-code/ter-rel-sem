@@ -1,0 +1,70 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,beurre,appos,NOUN,0.7321043014526367,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]",r_associated,69.0
+beurre,poivre,amod,NOUN,0.71866774559021,"[{""id"": 500926010, ""node1"": 140377, ""node2"": 139597, ""type"": 0, ""w"": 3.0}]",r_associated,3.0
+poivre,sel,appos,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,vin,nmod,NOUN,0.710414469242096,[],,
+ingrédient,rouge,amod,ADJ,0.5934998989105225,[],,
+cognac,bouillon,obj,NOUN,0.6027479767799377,[],,
+bouillon,boeuf,nmod,NOUN,0.6349595785140991,[],,
+lard,fumé,amod,ADJ,0.5547491908073425,"[{""id"": 365516, ""node1"": 59430, ""node2"": 23335, ""type"": 0, ""w"": 55.0}, {""id"": 372425196, ""node1"": 59430, ""node2"": 23335, ""type"": 17, ""w"": 41.0}, {""id"": 980614507, ""node1"": 59430, ""node2"": 23335, ""type"": 666, ""w"": 2.0}]",r_associated,55.0
+lard,bouquet,appos,NOUN,0.5780619382858276,[],,
+bouquet,garni,amod,ADJ,0.4469667077064514,[],,
+choisir,découper,advcl,VERB,0.4190790057182312,[],,
+découper,couteau,obj,NOUN,0.5228949189186096,"[{""id"": 202430, ""node1"": 45686, ""node2"": 32610, ""type"": 0, ""w"": 172.0}, {""id"": 1014719791, ""node1"": 45686, ""node2"": 32610, ""type"": 13, ""w"": 31.0}, {""id"": 174251, ""node1"": 45686, ""node2"": 32610, ""type"": 16, ""w"": 320.0}]",r_instr,320.0
+mixeur,chinois,nmod,ADJ,0.5262686610221863,[],,
+cuillère,petit,amod,ADJ,0.5946335196495056,[],,
+chinois,cuillère,appos,NOUN,0.5485638976097107,[],,
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+choisir,gros,obj,ADJ,0.4187732934951782,[],,
+enlever,bout,obj,NOUN,0.434754729270935,[],,
+grain,petit,amod,ADJ,0.5564358830451965,"[{""id"": 211569, ""node1"": 57895, ""node2"": 55222, ""type"": 0, ""w"": 71.0}, {""id"": 203190, ""node1"": 57895, ""node2"": 55222, ""type"": 17, ""w"": 60.0}]",r_associated,71.0
+mettre,grain,obj,NOUN,0.5518916249275208,[],,
+grain,garder,acl,VERB,0.5415118336677551,[],,
+garder,entier,obj,NOUN,0.4385325610637665,[],,
+préparer,échalote,nsubj,NOUN,0.6185281872749329,[],,
+préparer,bouillon,obj,NOUN,0.6509688496589661,[],,
+préparer,verre,obj,NOUN,0.5695381760597229,[],,
+verre,cognac,nmod,NOUN,0.5311985611915588,"[{""id"": 661673349, ""node1"": 144497, ""node2"": 6628, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+préparer,vin,obj,NOUN,0.629363477230072,[],,
+vin,rouge,amod,ADJ,0.599454402923584,"[{""id"": 61835, ""node1"": 35798, ""node2"": 86356, ""type"": 0, ""w"": 517.0}, {""id"": 556239, ""node1"": 35798, ""node2"": 86356, ""type"": 5, ""w"": 122.0}, {""id"": 9857786, ""node1"": 35798, ""node2"": 86356, ""type"": 8, ""w"": 139.0}, {""id"": 14806149, ""node1"": 35798, ""node2"": 86356, ""type"": 17, ""w"": 71.0}, {""id"": 31149018, ""node1"": 35798, ""node2"": 86356, ""type"": 27, ""w"": 22.0}, {""id"": 3154292, ""node1"": 35798, ""node2"": 86356, ""type"": 106, ""w"": 12.0}, {""id"": 1526706, ""node1"": 35798, ""node2"": 86356, ""type"": 666, ""w"": 8.0}]",r_associated,517.0
+devoir,tête,obj,NOUN,0.4073109924793243,[],,
+tête,couper,acl,VERB,0.4592490792274475,"[{""id"": 892213881, ""node1"": 144846, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 15064602, ""node1"": 144846, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+devoir,planche,obj,NOUN,0.4448659718036651,[],,
+planche,découper,acl,VERB,0.4705511629581451,"[{""id"": 97319170, ""node1"": 120728, ""node2"": 45686, ""type"": 0, ""w"": 16.0}, {""id"": 1042405165, ""node1"": 120728, ""node2"": 45686, ""type"": 25, ""w"": 5.0}, {""id"": 380393905, ""node1"": 120728, ""node2"": 45686, ""type"": 30, ""w"": 27.0}, {""id"": 1930157, ""node1"": 120728, ""node2"": 45686, ""type"": 38, ""w"": 130.0}]",r_agentif_role,130.0
+étaler,tranche,obj,NOUN,0.4526293873786926,[],,
+tranche,lard,nmod,NOUN,0.5612525939941406,"[{""id"": 438153, ""node1"": 143123, ""node2"": 59430, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+morceau,ficelle,nmod,NOUN,0.5616524815559387,[],,
+ficelle,cuisine,nmod,NOUN,0.6417686343193054,"[{""id"": 558779492, ""node1"": 94536, ""node2"": 16033, ""type"": 0, ""w"": 47.0}, {""id"": 426050067, ""node1"": 94536, ""node2"": 16033, ""type"": 777, ""w"": 10.0}]",r_associated,47.0
+cuisine,dessous,amod,ADV,0.6092488169670105,[],,
+lard,autour,amod,ADV,0.5698051452636719,[],,
+ficelle,quatrième,amod,ADJ,0.4609264433383941,[],,
+ajouter,ficelle,obj,NOUN,0.5151840448379517,[],,
+chose,même,amod,ADJ,0.442503809928894,"[{""id"": 102032118, ""node1"": 109527, ""node2"": 146381, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+faite,chose,obj,NOUN,0.4612142145633697,[],,
+cocotte,gros,amod,ADJ,0.5737282633781433,[],,
+cocotte,fonte,nmod,NOUN,0.5734525322914124,"[{""id"": 432184651, ""node1"": 120952, ""node2"": 111654, ""type"": 0, ""w"": 3.0}, {""id"": 98282817, ""node1"": 120952, ""node2"": 111654, ""type"": 50, ""w"": 47.0}, {""id"": 1764373, ""node1"": 120952, ""node2"": 111654, ""type"": 666, ""w"": 2.0}]",r_object>mater,47.0
+noix,gros,amod,ADJ,0.5693343281745911,[],,
+fondre,noix,obj,NOUN,0.6182065606117249,[],,
+noix,beurre,nmod,NOUN,0.6414071917533875,"[{""id"": 96697959, ""node1"": 30910, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+mettre,fois,nsubj,NOUN,0.4076454937458038,[],,
+fois,dorer,acl,VERB,0.5224992632865906,[],,
+mettre,cognac,obj,NOUN,0.5416870713233948,[],,
+fois,flambée,acl,NOUN,0.4362733662128448,[],,
+revenir,remuer,advcl,VERB,0.5150187611579895,[],,
+diminuer,feu,obj,NOUN,0.5505782961845398,"[{""id"": 213711828, ""node1"": 113326, ""node2"": 143703, ""type"": 13, ""w"": 65.0}]",r_agent,65.0
+mettre,vin,obj,NOUN,0.6231614947319031,[],,
+chauffer,faite,nsubj,NOUN,0.5475254058837891,[],,
+chauffer,heure,obj,NOUN,0.504925549030304,[],,
+chercher,intérieur,obj,NOUN,0.4105332493782043,[],,
+sortir,que,obj,PRON,0.4049062728881836,[],,
+mettre,tout,obj,ADV,0.4651019871234894,[],,
+préparation,tout,amod,ADJ,0.5226712822914124,[],,
+préparation,sauce,appos,NOUN,0.6986916661262512,"[{""id"": 9903071, ""node1"": 33634, ""node2"": 141110, ""type"": 0, ""w"": 54.0}, {""id"": 422811, ""node1"": 33634, ""node2"": 141110, ""type"": 8, ""w"": 63.0}]",r_hypo,63.0
+remettre,tout,obj,NOUN,0.4472759366035461,[],,
+augmenter,feu,obj,NOUN,0.5432495474815369,[],,
+réduire,sauce,obj,NOUN,0.673485279083252,"[{""id"": 1660257, ""node1"": 120230, ""node2"": 141110, ""type"": 0, ""w"": 60.0}, {""id"": 940663193, ""node1"": 120230, ""node2"": 141110, ""type"": 14, ""w"": 30.0}]",r_associated,60.0
+consistance,bon,amod,ADJ,0.4506252706050873,[],,
+chauffer,minute,obj,NOUN,0.5416167974472046,[],,

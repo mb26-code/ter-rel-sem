@@ -1,0 +1,32 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+mascarpone,ingrédient,nmod,NOUN,0.6461954116821289,[],,
+mascarpone,cacao,amod,NOUN,0.5594278573989868,[],,
+cacao,amer,amod,ADJ,0.5085153579711914,"[{""id"": 914305448, ""node1"": 68363, ""node2"": 97910, ""type"": 0, ""w"": 21.0}, {""id"": 76024991, ""node1"": 68363, ""node2"": 97910, ""type"": 17, ""w"": 31.0}, {""id"": 1787117, ""node1"": 68363, ""node2"": 97910, ""type"": 666, ""w"": 1.0}]",r_carac,31.0
+sel,gros,amod,ADJ,0.6553788781166077,"[{""id"": 188164, ""node1"": 13260, ""node2"": 88096, ""type"": 0, ""w"": 60.0}, {""id"": 645838, ""node1"": 13260, ""node2"": 88096, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+amer,sel,appos,NOUN,0.654331624507904,[],,
+sel,beurre,amod,NOUN,0.7119027376174927,"[{""id"": 29328492, ""node1"": 13260, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 9986817, ""node1"": 13260, ""node2"": 140377, ""type"": 10, ""w"": 35.0}]",r_holo,35.0
+facile,sucre,obj,NOUN,0.6564071774482727,[],,
+sucre,confiture,nmod,NOUN,0.6927701830863953,"[{""id"": 244457, ""node1"": 139481, ""node2"": 70793, ""type"": 0, ""w"": 58.0}, {""id"": 1656503, ""node1"": 139481, ""node2"": 70793, ""type"": 20, ""w"": 59.0}, {""id"": 651011196, ""node1"": 139481, ""node2"": 70793, ""type"": 666, ""w"": 2.0}]",r_has_magn,59.0
+confiture,lait,nmod,NOUN,0.6145787835121155,"[{""id"": 585584618, ""node1"": 70793, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 765215486, ""node1"": 70793, ""node2"": 86296, ""type"": 17, ""w"": -5.0}]",r_associated,47.0
+lait,mascarpone,nmod,NOUN,0.5919399857521057,"[{""id"": 899321476, ""node1"": 86296, ""node2"": 115657, ""type"": 0, ""w"": 20.0}, {""id"": 428609720, ""node1"": 86296, ""node2"": 115657, ""type"": 8, ""w"": -2.0}, {""id"": 598510443, ""node1"": 86296, ""node2"": 115657, ""type"": 27, ""w"": 31.0}]",r_domain-1,31.0
+mascarpone,petit,amod,ADJ,0.5951691269874573,[],,
+mascarpone,lire,appos,DET,0.4242641627788543,[],,
+saladier,balance,nmod,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+cuisine,frigo,nmod,NOUN,0.6375747919082642,"[{""id"": 118986, ""node1"": 16033, ""node2"": 45624, ""type"": 0, ""w"": 304.0}, {""id"": 9973132, ""node1"": 16033, ""node2"": 45624, ""type"": 9, ""w"": 10.0}, {""id"": 15222678, ""node1"": 16033, ""node2"": 45624, ""type"": 27, ""w"": 27.0}, {""id"": 151638, ""node1"": 16033, ""node2"": 45624, ""type"": 28, ""w"": 868.0}]",r_lieu-1,868.0
+frigo,plat,nmod,ADJ,0.6431636810302734,"[{""id"": 13500927, ""node1"": 45624, ""node2"": 36327, ""type"": 28, ""w"": 40.0}]",r_lieu-1,40.0
+moitié,paquet,nmod,NOUN,0.4887631833553314,[],,
+paquet,gâteau,nmod,NOUN,0.5872646570205688,[],,
+morceau,beurre,nmod,NOUN,0.6982128024101257,[],,
+fond,plat,nmod,NOUN,0.5886687636375427,"[{""id"": 961890508, ""node1"": 119272, ""node2"": 36327, ""type"": 10, ""w"": 25.0}]",r_holo,25.0
+constituer,fond,obj,NOUN,0.4539341330528259,[],,
+fond,gâteau,nmod,NOUN,0.5936098098754883,[],,
+moitié,pot,nmod,NOUN,0.5178486704826355,[],,
+pot,confiture,nmod,NOUN,0.529536783695221,"[{""id"": 415003513, ""node1"": 142367, ""node2"": 70793, ""type"": 0, ""w"": 28.0}, {""id"": 775213335, ""node1"": 142367, ""node2"": 70793, ""type"": 174, ""w"": 25.0}, {""id"": 1769589, ""node1"": 142367, ""node2"": 70793, ""type"": 666, ""w"": 2.0}, {""id"": 7861094, ""node1"": 142367, ""node2"": 70793, ""type"": 777, ""w"": 10.0}]",r_associated,28.0
+pot,gâteau,nmod,NOUN,0.5621103048324585,"[{""id"": 602053254, ""node1"": 142367, ""node2"": 2149, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+couper,banane,obj,NOUN,0.5668771266937256,[],,
+mettre,confiture,obj,NOUN,0.5942056179046631,[],,
+mélanger,mascarpone,obj,NOUN,0.5860960483551025,[],,
+mascarpone,sucre,nmod,NOUN,0.6537553668022156,[],,
+recouvrir,banane,obj,NOUN,0.599057137966156,[],,
+mettre,veille,obj,NOUN,0.4489780068397522,[],,

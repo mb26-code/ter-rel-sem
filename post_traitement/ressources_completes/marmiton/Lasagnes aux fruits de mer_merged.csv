@@ -1,0 +1,59 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+fruit,mer,nmod,PROPN,0.493258386850357,[],,
+ingrédient,fromage,appos,NOUN,0.7009125351905823,"[{""id"": 24923443, ""node1"": 123418, ""node2"": 141687, ""type"": 0, ""w"": 15.0}, {""id"": 24850718, ""node1"": 123418, ""node2"": 141687, ""type"": 8, ""w"": 43.0}]",r_hypo,43.0
+fromage,râpé,acl,ADV,0.5681582093238831,"[{""id"": 12302415, ""node1"": 141687, ""node2"": 52123, ""type"": 0, ""w"": 35.0}, {""id"": 570495, ""node1"": 141687, ""node2"": 52123, ""type"": 5, ""w"": 34.0}, {""id"": 25028576, ""node1"": 141687, ""node2"": 52123, ""type"": 8, ""w"": 26.0}, {""id"": 383306, ""node1"": 141687, ""node2"": 52123, ""type"": 17, ""w"": 129.0}]",r_carac,129.0
+beurre,persil,nmod,NOUN,0.6788381934165955,[],,
+fromage,bouquet,appos,NOUN,0.6171492338180542,[],,
+bouquet,moule,nmod,NOUN,0.5456783771514893,[],,
+bouquet,vin,nmod,NOUN,0.5903854966163635,"[{""id"": 98891356, ""node1"": 34381, ""node2"": 35798, ""type"": 0, ""w"": 822.0}, {""id"": 207196520, ""node1"": 34381, ""node2"": 35798, ""type"": 3, ""w"": 35.0}, {""id"": 206541893, ""node1"": 34381, ""node2"": 35798, ""type"": 23, ""w"": 37.0}, {""id"": 98895336, ""node1"": 34381, ""node2"": 35798, ""type"": 35, ""w"": 53.0}, {""id"": 6631469, ""node1"": 34381, ""node2"": 35798, ""type"": 777, ""w"": 10.0}]",r_associated,822.0
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+échalote,concentrer,acl,VERB,0.5624399185180664,[],,
+échalote,tomate,nmod,NOUN,0.6337923407554626,[],,
+blanc,noix,obj,NOUN,0.59977787733078,[],,
+Plat,gratin,nmod,NOUN,0.4779236614704132,[],,
+Plat,économe,nmod,NOUN,0.4572044610977173,[],,
+économe,couteau,nmod,NOUN,0.5018488168716431,"[{""id"": 11472222, ""node1"": 14706, ""node2"": 32610, ""type"": 0, ""w"": 51.0}, {""id"": 9916571, ""node1"": 14706, ""node2"": 32610, ""type"": 6, ""w"": 55.0}, {""id"": 539969426, ""node1"": 14706, ""node2"": 32610, ""type"": 35, ""w"": -25.0}, {""id"": 1786595, ""node1"": 14706, ""node2"": 32610, ""type"": 666, ""w"": 5.0}]",r_isa,55.0
+économe,pinceau,nmod,NOUN,0.4334880113601684,[],,
+pinceau,casserole,nmod,NOUN,0.5712795853614807,[],,
+couvercle,balance,nmod,NOUN,0.5437039136886597,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+couvercle,plat,nmod,ADJ,0.6402535438537598,"[{""id"": 961890557, ""node1"": 89523, ""node2"": 36327, ""type"": 10, ""w"": 24.0}, {""id"": 372856875, ""node1"": 89523, ""node2"": 36327, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+économe,étape,nmod,NOUN,0.4015891551971435,[],,
+cuire,moule,obj,NOUN,0.7072280049324036,[],,
+filet,vin,nmod,NOUN,0.6527025699615479,[],,
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+détailler,morceau,obj,NOUN,0.5398213267326355,"[{""id"": 2217438, ""node1"": 47845, ""node2"": 65364, ""type"": 14, ""w"": 70.0}]",r_patient,70.0
+échalote,morceau,nmod,NOUN,0.6524716019630432,[],,
+peu,beurre,nmod,NOUN,0.5877829194068909,[],,
+cuire,rendre,advcl,VERB,0.6628713011741638,"[{""id"": 967067998, ""node1"": 5115, ""node2"": 65447, ""type"": 5, ""w"": -25.0}]",r_syn,-25.0
+rendre,jus,obj,NOUN,0.5613313317298889,"[{""id"": 31838006, ""node1"": 65447, ""node2"": 53310, ""type"": 14, ""w"": 58.0}]",r_patient,58.0
+noisette,beurre,nmod,NOUN,0.6675335168838501,"[{""id"": 120202, ""node1"": 67819, ""node2"": 140377, ""type"": 0, ""w"": 70.0}, {""id"": 775213357, ""node1"": 67819, ""node2"": 140377, ""type"": 174, ""w"": 25.0}]",r_associated,70.0
+ajouter,échalote,obj,NOUN,0.5571005344390869,[],,
+fois,faire,acl,VERB,0.4396242499351501,[],,
+quantité,petit,amod,ADJ,0.56585693359375,"[{""id"": 892024045, ""node1"": 78869, ""node2"": 55222, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+concentré,tomate,nmod,NOUN,0.6039107441902161,[],,
+concentré,noisette,appos,NOUN,0.5760783553123474,[],,
+noisette,fois,nmod,NOUN,0.4958397448062897,[],,
+obtenir,couleur,obj,NOUN,0.4278659224510193,[],,
+couleur,rosé,amod,ADJ,0.4914473593235016,"[{""id"": 796682113, ""node1"": 40056, ""node2"": 140986, ""type"": 0, ""w"": 22.0}, {""id"": 242864261, ""node1"": 40056, ""node2"": 140986, ""type"": 8, ""w"": 34.0}]",r_hypo,34.0
+prendre,celui-ci,nsubj,PRON,0.4257937669754028,"[{""id"": 797507849, ""node1"": 86306, ""node2"": 7863, ""type"": 0, ""w"": 25.0}]",r_associated,25.0
+prendre,goût,obj,NOUN,0.5528542995452881,[],,
+goût,tomate,nmod,NOUN,0.6696058511734009,[],,
+four,180,nmod,NUM,0.4979606568813324,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+prendre,plat,obj,NOUN,0.6132282018661499,"[{""id"": 368488351, ""node1"": 86306, ""node2"": 36327, ""type"": 0, ""w"": 28.0}, {""id"": 368488350, ""node1"": 86306, ""node2"": 36327, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+couche,petit,amod,ADJ,0.5225206017494202,[],,
+couche,couvrir,acl,VERB,0.4816376268863678,[],,
+couvrir,couche,obj,NOUN,0.4816376268863678,"[{""id"": 989765799, ""node1"": 119824, ""node2"": 19152, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+couche,préparation,nmod,NOUN,0.4923223257064819,[],,
+préparation,fruit,nmod,NOUN,0.5188730359077454,[],,
+étaler,peu,obj,ADV,0.452187180519104,[],,
+épuisement,préparation,nmod,NOUN,0.4563365578651428,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+cuire,suivre,advcl,VERB,0.6444080471992493,[],,
+température,four,nmod,NOUN,0.6657106280326843,"[{""id"": 799308416, ""node1"": 40531, ""node2"": 9190, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+dégustation,bon,amod,ADJ,0.4751738309860229,"[{""id"": 561348579, ""node1"": 107364, ""node2"": 144229, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+mettre,dégustation,obj,NOUN,0.5291162729263306,[],,
+faire,moi,nmod,PRON,0.4298111796379089,[],,
+apprécier,recette,obj,NOUN,0.6082326769828796,[],,

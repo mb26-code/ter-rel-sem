@@ -1,0 +1,24 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+glisser,rhum,nsubj,NOUN,0.5545258522033691,[],,
+rhum,arranger,acl,VERB,0.5143182277679443,[],,
+arranger,ingrédient,obj,NOUN,0.5428600907325745,[],,
+ingrédient,sucre,nmod,NOUN,0.7083083987236023,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]",r_associated,70.0
+sucre,canne,nmod,NOUN,0.6069387793540955,"[{""id"": 107598, ""node1"": 139481, ""node2"": 144267, ""type"": 0, ""w"": 241.0}, {""id"": 160436, ""node1"": 139481, ""node2"": 144267, ""type"": 15, ""w"": 78.0}, {""id"": 1763995, ""node1"": 139481, ""node2"": 144267, ""type"": 666, ""w"": 1.0}]",r_associated,241.0
+rhum,cannelle,amod,ADJ,0.575512170791626,"[{""id"": 1066710605, ""node1"": 129154, ""node2"": 112959, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+sucre,Spatule,nmod,PROPN,0.5824302434921265,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+rhum,bouteille,nmod,NOUN,0.5344544053077698,"[{""id"": 561345236, ""node1"": 129154, ""node2"": 117423, ""type"": 0, ""w"": 43.0}, {""id"": 2557601, ""node1"": 129154, ""node2"": 117423, ""type"": 15, ""w"": 60.0}]",r_lieu,60.0
+bouteille,vide,amod,ADJ,0.4341413378715515,"[{""id"": 121679, ""node1"": 117423, ""node2"": 144943, ""type"": 0, ""w"": 61.0}, {""id"": 130353, ""node1"": 117423, ""node2"": 144943, ""type"": 17, ""w"": 130.0}]",r_carac,130.0
+glisser,fruit,obj,NOUN,0.5061360001564026,[],,
+glisser,découper,advcl,VERB,0.437609851360321,[],,
+vider,fruit,obj,NOUN,0.5019705295562744,[],,
+fruit,passion,nmod,NOUN,0.4803899526596069,"[{""id"": 640137315, ""node1"": 87286, ""node2"": 39448, ""type"": 0, ""w"": 26.0}, {""id"": 14799317, ""node1"": 87286, ""node2"": 39448, ""type"": 23, ""w"": 21.0}]",r_associated,26.0
+graine,entendre,acl,VERB,0.5008618831634521,[],,
+ajouter,gousse,obj,NOUN,0.4987163245677948,[],,
+gousse,vanille,nmod,NOUN,0.5133623480796814,"[{""id"": 723347912, ""node1"": 3889, ""node2"": 140463, ""type"": 0, ""w"": 27.0}, {""id"": 671656975, ""node1"": 3889, ""node2"": 140463, ""type"": 58, ""w"": 25.0}, {""id"": 714921745, ""node1"": 3889, ""node2"": 140463, ""type"": 666, ""w"": 3.0}]",r_associated,27.0
+cannelle,entier,amod,ADJ,0.5943472385406494,[],,
+ajouter,verre,obj,NOUN,0.5440654754638672,[],,
+verre,moutarde,nmod,NOUN,0.6036860942840576,[],,
+moutarde,sucre,nmod,NOUN,0.7068785429000854,"[{""id"": 652308920, ""node1"": 28335, ""node2"": 139481, ""type"": 0, ""w"": 21.0}, {""id"": 113266841, ""node1"": 28335, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]",r_associated,21.0
+sucre,liquide,amod,ADJ,0.6617963910102844,"[{""id"": 558788617, ""node1"": 139481, ""node2"": 140315, ""type"": 0, ""w"": 49.0}]",r_associated,49.0

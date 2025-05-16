@@ -1,0 +1,47 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,boeuf,appos,NOUN,0.5486986637115479,[],,
+boeuf,sauter,acl,VERB,0.6038451790809631,[],,
+basilic,ingrédient,nmod,NOUN,0.6434639692306519,"[{""id"": 24929891, ""node1"": 112671, ""node2"": 123418, ""type"": 6, ""w"": 1.0}]",r_isa,1.0
+basilic,sel,appos,NOUN,0.6894136667251587,[],,
+sel,piment,nmod,ADV,0.6957902908325195,"[{""id"": 1004420, ""node1"": 13260, ""node2"": 128791, ""type"": 0, ""w"": 27.0}, {""id"": 53733592, ""node1"": 13260, ""node2"": 128791, ""type"": 5, ""w"": 109.0}]",r_syn,109.0
+basilic,huile,amod,NOUN,0.6442691683769226,"[{""id"": 561291291, ""node1"": 112671, ""node2"": 141971, ""type"": 0, ""w"": 42.0}]",r_associated,42.0
+boeuf,sucre,amod,NOUN,0.7237079739570618,[],,
+sucre,brun,amod,VERB,0.5946850776672363,"[{""id"": 182239, ""node1"": 139481, ""node2"": 14189, ""type"": 17, ""w"": 61.0}, {""id"": 3163418, ""node1"": 139481, ""node2"": 14189, ""type"": 106, ""w"": 25.0}]",r_carac,61.0
+boeuf,café,nmod,NOUN,0.6431836485862732,[],,
+café,jus,nmod,NOUN,0.5957739353179932,"[{""id"": 789510, ""node1"": 66324, ""node2"": 53310, ""type"": 0, ""w"": 24.0}, {""id"": 54724245, ""node1"": 66324, ""node2"": 53310, ""type"": 5, ""w"": 64.0}]",r_syn,64.0
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+wok,couteau,nmod,NOUN,0.6380111575126648,[],,
+couteau,bol,nmod,NOUN,0.5557995438575745,[],,
+bol,cuillère,nmod,NOUN,0.5572551488876343,"[{""id"": 1046576301, ""node1"": 145405, ""node2"": 51905, ""type"": 8, ""w"": 20.0}]",r_hypo,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,saladier,nmod,NOUN,0.6106023788452148,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+découper,balance,obj,NOUN,0.4950466752052307,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+balance,chauffer,appos,NOUN,0.5568371415138245,[],,
+chauffer,huile,amod,NOUN,0.64256751537323,[],,
+chaud,lui,nsubj,PRON,0.4615650475025177,[],,
+feuille,basilic,nmod,PROPN,0.5825510621070862,"[{""id"": 98620683, ""node1"": 37993, ""node2"": 112671, ""type"": 0, ""w"": 18.0}, {""id"": 97419090, ""node1"": 37993, ""node2"": 112671, ""type"": 10, ""w"": 27.0}]",r_holo,27.0
+basilic,entier,amod,ADJ,0.5424525141716003,[],,
+dorer,lui,nsubj:pass,PRON,0.5067495107650757,[],,
+papier,absorber,acl,VERB,0.4968288838863373,[],,
+retirer,wok,obj,NOUN,0.6245869398117065,[],,
+wok,feu,nmod,NOUN,0.6534097790718079,[],,
+laisser,équivalent,obj,NOUN,0.4001183807849884,[],,
+équivalent,cuillère,nmod,NOUN,0.5312085151672363,[],,
+équivalent,soupe,nmod,NOUN,0.6318928599357605,[],,
+soupe,huile,nmod,NOUN,0.676633894443512,"[{""id"": 3346889, ""node1"": 117152, ""node2"": 141971, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+bol,mélanger,acl,VERB,0.5405644178390503,"[{""id"": 98290223, ""node1"": 145405, ""node2"": 37151, ""type"": 0, ""w"": 35.0}, {""id"": 2575332, ""node1"": 145405, ""node2"": 37151, ""type"": 25, ""w"": 61.0}, {""id"": 72802251, ""node1"": 145405, ""node2"": 37151, ""type"": 30, ""w"": 26.0}]",r_instr-1,61.0
+mélanger,sauce,obj,NOUN,0.7105662822723389,"[{""id"": 343034831, ""node1"": 37151, ""node2"": 141110, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+bol,incorporer,acl,VERB,0.5299082398414612,[],,
+incorporer,boeuf,obj,NOUN,0.6155154705047607,[],,
+boeuf,mélange,nmod,NOUN,0.645179033279419,[],,
+revenir,piment,obj,NOUN,0.6389657258987427,[],,
+revenir,gingembre,obj,NOUN,0.6310768127441406,[],,
+basilic,ajouter,advcl,VERB,0.5756345987319946,[],,
+ajouter,boeuf,obj,NOUN,0.6044713854789734,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+jus,sel,amod,NOUN,0.7010449171066284,[],,
+servir,déco,advcl,NOUN,0.5219526886940002,[],,
+servir,feuille,obj,NOUN,0.5452607870101929,[],,
+basilic,dorer,amod,VERB,0.6148439645767212,[],,

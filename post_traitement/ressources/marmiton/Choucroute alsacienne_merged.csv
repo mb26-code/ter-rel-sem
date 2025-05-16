@@ -1,0 +1,69 @@
+head,lemma,dep,pos,sim,relation
+titre,choucroute,nmod,NOUN,0.48378387093544,[]
+choucroute,alsacien,amod,ADJ,0.4746762812137604,"[{""id"": 3247756, ""node1"": 42598, ""node2"": 57969, ""type"": 777, ""w"": 9.0}]"
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[]
+ingrédient,beurre,amod,NOUN,0.7321043014526367,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]"
+ingrédient,saucisse,acl,NOUN,0.7062863111495972,"[{""id"": 15303718, ""node1"": 123418, ""node2"": 77807, ""type"": 0, ""w"": 30.0}, {""id"": 631629178, ""node1"": 123418, ""node2"": 77807, ""type"": 8, ""w"": 1.0}, {""id"": 15173642, ""node1"": 123418, ""node2"": 77807, ""type"": 27, ""w"": -34.0}]"
+saucisse,Montbéliard,nmod,PROPN,0.4728213548660278,"[{""id"": 642807546, ""node1"": 77807, ""node2"": 17572, ""type"": 0, ""w"": 1.0}]"
+sel,sel,nmod,NOUN,0.6370302438735962,"[{""id"": 332638, ""node1"": 13260, ""node2"": 13260, ""type"": 19, ""w"": 51.0}]"
+ingrédient,piment,nmod,NOUN,0.667888879776001,"[{""id"": 920040264, ""node1"": 123418, ""node2"": 128791, ""type"": 0, ""w"": 21.0}]"
+ingrédient,coriandre,nmod,NOUN,0.6872987747192383,[]
+sel,gros,amod,ADJ,0.6553788781166077,"[{""id"": 188164, ""node1"": 13260, ""node2"": 88096, ""type"": 0, ""w"": 60.0}, {""id"": 645838, ""node1"": 13260, ""node2"": 88096, ""type"": 17, ""w"": 60.0}]"
+coriandre,sel,nmod,NOUN,0.6917389631271362,[]
+sel,feuille,nmod,NOUN,0.6848840117454529,[]
+feuille,laurier,nmod,PROPN,0.4908609986305237,"[{""id"": 15624759, ""node1"": 37993, ""node2"": 114548, ""type"": 0, ""w"": 29.0}, {""id"": 14620301, ""node1"": 37993, ""node2"": 114548, ""type"": 10, ""w"": 36.0}]"
+sel,coriandre,nmod,NOUN,0.6917389631271362,[]
+coriandre,oignon,nmod,NOUN,0.6450710296630859,[]
+oignon,huile,amod,NOUN,0.633205235004425,"[{""id"": 3937482, ""node1"": 123307, ""node2"": 141971, ""type"": 777, ""w"": 1.0}]"
+oignon,choucroute,amod,NOUN,0.6435081362724304,[]
+oignon,ail,nmod,ADP,0.5643161535263062,"[{""id"": 414999232, ""node1"": 123307, ""node2"": 26979, ""type"": 0, ""w"": 28.0}, {""id"": 1032956777, ""node1"": 123307, ""node2"": 26979, ""type"": 78, ""w"": 44.0}, {""id"": 1767139, ""node1"": 123307, ""node2"": 26979, ""type"": 666, ""w"": 3.0}, {""id"": 3935620, ""node1"": 123307, ""node2"": 26979, ""type"": 777, ""w"": 1.0}]"
+palette,poitrine,nmod,NOUN,0.4269703030586242,[]
+fumé,saucisson,nmod,NOUN,0.5401895642280579,"[{""id"": 922052294, ""node1"": 23335, ""node2"": 34296, ""type"": 0, ""w"": 21.0}]"
+saucisse,Francfort,nmod,PROPN,0.4672301411628723,"[{""id"": 585677116, ""node1"": 77807, ""node2"": 58421, ""type"": 0, ""w"": 28.0}, {""id"": 113155498, ""node1"": 77807, ""node2"": 58421, ""type"": 777, ""w"": 9.0}]"
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+terre,persil,nmod,NOUN,0.6378832459449768,[]
+set,poêle,obj,NOUN,0.5301709771156311,[]
+poêle,couteau,nmod,NOUN,0.6776712536811829,[]
+casserole,couvercle,obj,NOUN,0.6508210897445679,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]"
+couvercle,économe,appos,NOUN,0.5389436483383179,[]
+casserole,balance,obj,NOUN,0.5916885137557983,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]"
+titre,rincer,acl,VERB,0.4681382477283478,[]
+rincer,choucroute,obj,NOUN,0.5307618975639343,[]
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]"
+poignée,choucroute,nmod,NOUN,0.5571866631507874,[]
+ajouter,moitié,obj,NOUN,0.4683646261692047,[]
+moitié,chou,nmod,NOUN,0.5692039728164673,[]
+moitié,ail,nmod,NOUN,0.5827924013137817,[]
+reste,chou,nmod,NOUN,0.5733715295791626,[]
+feu,doux,amod,ADJ,0.5496628284454346,[]
+cuire,limitation,obj,NOUN,0.708653450012207,[]
+cuit,cela,nsubj,PRON,0.6927492022514343,[]
+fondant,chou,nsubj,NOUN,0.5860468149185181,[]
+bouillon,court,amod,ADJ,0.5470806956291199,[]
+ingrédient,bouillon,nmod,NOUN,0.7058120369911194,[]
+cuire,heure,obj,NOUN,0.6720207929611206,[]
+feu,moyen,amod,ADJ,0.5528092384338379,[]
+ajouter,travers,obj,NOUN,0.4309180974960327,[]
+heure,cuisson,nmod,NOUN,0.6170463562011719,[]
+ajouter,saucisson,obj,NOUN,0.5900483131408691,[]
+fin,cuisson,nmod,NOUN,0.5646086931228638,[]
+cuisson,choucroute,nmod,NOUN,0.7677760124206543,[]
+ajouter,disposer,advcl,VERB,0.4101519584655761,[]
+poitrine,fumé,amod,ADJ,0.5047934651374817,[]
+heure,ajouter,advcl,VERB,0.4146985709667206,[]
+ajouter,saucisse,obj,NOUN,0.6106433272361755,[]
+pomme,couper,acl,VERB,0.5794677734375,"[{""id"": 31839899, ""node1"": 37201, ""node2"": 128828, ""type"": 26, ""w"": 64.0}]"
+pomme,mettre,acl,VERB,0.6015596985816956,"[{""id"": 1054632655, ""node1"": 37201, ""node2"": 132366, ""type"": 0, ""w"": 20.0}]"
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]"
+cuire,le,obj,PRON,0.4500194191932678,[]
+cuire,min,obj,NOUN,0.5212259888648987,[]
+ajouter,morceau,obj,NOUN,0.5419883728027344,[]
+morceau,beurre,nmod,NOUN,0.6982128024101257,[]
+viande,tout,amod,ADJ,0.7159339189529419,[]
+couper,viande,obj,NOUN,0.6744567155838013,"[{""id"": 241180, ""node1"": 128828, ""node2"": 140100, ""type"": 0, ""w"": 74.0}, {""id"": 15084106, ""node1"": 128828, ""node2"": 140100, ""type"": 14, ""w"": 100.0}]"
+viande,tranche,nmod,NOUN,0.6732141375541687,"[{""id"": 796696815, ""node1"": 140100, ""node2"": 143123, ""type"": 0, ""w"": 21.0}, {""id"": 765218133, ""node1"": 140100, ""node2"": 143123, ""type"": 58, ""w"": 28.0}]"
+viande,plat,nmod,NOUN,0.7392164468765259,"[{""id"": 2166298, ""node1"": 140100, ""node2"": 36327, ""type"": 0, ""w"": 86.0}, {""id"": 9901809, ""node1"": 140100, ""node2"": 36327, ""type"": 6, ""w"": 227.0}, {""id"": 390248, ""node1"": 140100, ""node2"": 36327, ""type"": 10, ""w"": 103.0}, {""id"": 2501754, ""node1"": 140100, ""node2"": 36327, ""type"": 15, ""w"": 63.0}, {""id"": 376035518, ""node1"": 140100, ""node2"": 36327, ""type"": 51, ""w"": 35.0}]"
+couper,mettre,advcl,VERB,0.4427872598171234,[]
+mettre,choucroute,obj,NOUN,0.5637598633766174,[]

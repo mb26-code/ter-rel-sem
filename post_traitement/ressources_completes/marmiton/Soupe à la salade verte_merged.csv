@@ -1,0 +1,39 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+soupe,salade,nmod,NOUN,0.682275652885437,"[{""id"": 729556135, ""node1"": 117152, ""node2"": 118908, ""type"": 0, ""w"": 32.0}, {""id"": 1046575886, ""node1"": 117152, ""node2"": 118908, ""type"": 8, ""w"": 20.0}]",r_associated,32.0
+salade,ingrédient,nmod,NOUN,0.7127874493598938,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,ail,nmod,ADP,0.617033839225769,[],,
+vache,bouillon,nmod,NOUN,0.5577927231788635,[],,
+bouillon,volaille,nmod,NOUN,0.6946349143981934,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+volaille,huile,amod,NOUN,0.6777820587158203,"[{""id"": 473702534, ""node1"": 70493, ""node2"": 141971, ""type"": 15, ""w"": 26.0}]",r_lieu,26.0
+bouillon,eau,nmod,NOUN,0.6091527938842773,"[{""id"": 32063698, ""node1"": 146582, ""node2"": 65012, ""type"": 0, ""w"": 33.0}, {""id"": 418498335, ""node1"": 146582, ""node2"": 65012, ""type"": 3, ""w"": 31.0}, {""id"": 32061929, ""node1"": 146582, ""node2"": 65012, ""type"": 9, ""w"": 53.0}]",r_has_part,53.0
+louche,mixeur,nmod,NOUN,0.5896725058555603,[],,
+mixeur,plonger,acl,VERB,0.5584041476249695,[],,
+mixeur,chauffer,acl,VERB,0.6226776838302612,[],,
+chauffer,économe,obj,NOUN,0.5165823698043823,[],,
+économe,couteau,nmod,NOUN,0.5018488168716431,"[{""id"": 11472222, ""node1"": 14706, ""node2"": 32610, ""type"": 0, ""w"": 51.0}, {""id"": 9916571, ""node1"": 14706, ""node2"": 32610, ""type"": 6, ""w"": 55.0}, {""id"": 539969426, ""node1"": 14706, ""node2"": 32610, ""type"": 35, ""w"": -25.0}, {""id"": 1786595, ""node1"": 14706, ""node2"": 32610, ""type"": 666, ""w"": 5.0}]",r_isa,55.0
+économe,casserole,nmod,NOUN,0.571812093257904,[],,
+casserole,mixeur,nmod,NOUN,0.61752849817276,[],,
+mixeur,étape,nmod,NOUN,0.5223461985588074,[],,
+permettre,préparation,nsubj,NOUN,0.4410292208194732,[],,
+utiliser,feuille,obj,NOUN,0.4916096925735473,[],,
+feuille,vert,amod,ADJ,0.4934384822845459,"[{""id"": 130761, ""node1"": 37993, ""node2"": 26976, ""type"": 0, ""w"": 178.0}, {""id"": 9625437, ""node1"": 37993, ""node2"": 26976, ""type"": 8, ""w"": 21.0}, {""id"": 14806058, ""node1"": 37993, ""node2"": 26976, ""type"": 17, ""w"": 22.0}, {""id"": 13182648, ""node1"": 37993, ""node2"": 26976, ""type"": 21, ""w"": 51.0}, {""id"": 3154216, ""node1"": 37993, ""node2"": 26976, ""type"": 106, ""w"": 27.0}, {""id"": 1525444, ""node1"": 37993, ""node2"": 26976, ""type"": 666, ""w"": 3.0}]",r_associated,178.0
+feuille,salade,nmod,NOUN,0.615514874458313,"[{""id"": 614208544, ""node1"": 37993, ""node2"": 118908, ""type"": 0, ""w"": 30.0}, {""id"": 775213406, ""node1"": 37993, ""node2"": 118908, ""type"": 174, ""w"": 25.0}]",r_associated,30.0
+feuille,falloir,acl:relcl,VERB,0.4251101911067962,[],,
+éplucher,préférence,nmod,NOUN,0.4836166501045227,[],,
+préférence,eau,nmod,NOUN,0.5466585159301758,[],,
+feuille,grand,amod,ADJ,0.5061614513397217,[],,
+pomme,falloir,acl:relcl,VERB,0.5478612184524536,[],,
+mettre,huile,obj,NOUN,0.6046144962310791,"[{""id"": 392082685, ""node1"": 132366, ""node2"": 141971, ""type"": 0, ""w"": 27.0}, {""id"": 392082684, ""node1"": 132366, ""node2"": 141971, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+ajouter,feuille,obj,NOUN,0.4999395906925201,[],,
+pomme,couper,acl,VERB,0.5794677734375,"[{""id"": 31839899, ""node1"": 37201, ""node2"": 128828, ""type"": 26, ""w"": 64.0}]",r_patient-1,64.0
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+commencer,cela,nsubj,PRON,0.4146075248718261,[],,
+laisser,mixer,advcl,VERB,0.5111859440803528,[],,
+mixer,obtenir,advcl,VERB,0.4837474822998047,[],,
+obtenir,velouté,obj,NOUN,0.4944810271263122,[],,
+ajouter,portion,obj,NOUN,0.5268239378929138,[],,
+portion,vache,nmod,NOUN,0.4779242277145386,[],,
+vache,rire,acl:relcl,VERB,0.4146716296672821,[],,
+coup,mixer,acl,VERB,0.4905231595039367,[],,

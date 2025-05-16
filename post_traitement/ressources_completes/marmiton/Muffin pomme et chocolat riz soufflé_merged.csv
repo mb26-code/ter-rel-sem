@@ -1,0 +1,30 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+souffler,ingrédient,obj,NOUN,0.5700357556343079,[],,
+ingrédient,levure,appos,NOUN,0.6170762777328491,[],,
+levure,sucre,nmod,NOUN,0.6511401534080505,[],,
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+ingrédient,yaourt,amod,NOUN,0.6232267022132874,[],,
+ingrédient,nature,appos,NOUN,0.5846259593963623,[],,
+nature,pomme,nmod,NOUN,0.5623124837875366,[],,
+pomme,chocolat,nmod,NOUN,0.6322623491287231,[],,
+pomme,riz,nmod,NOUN,0.704151451587677,[],,
+riz,souffler,acl,VERB,0.6645468473434448,[],,
+ingrédient,grille,nmod,NOUN,0.6116532683372498,[],,
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+grille,moule,nmod,NOUN,0.5495657920837402,[],,
+saladier,four,nmod,NOUN,0.6991847157478333,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+ingrédient,étape,nmod,NOUN,0.4697338342666626,[],,
+ingrédient,blanc,nmod,NOUN,0.6017552018165588,"[{""id"": 3179134, ""node1"": 123418, ""node2"": 15196, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+blanc,jaune,nmod,NOUN,0.4685034155845642,"[{""id"": 246331, ""node1"": 15196, ""node2"": 86711, ""type"": 0, ""w"": 56.0}]",r_associated,56.0
+mélanger,sucre,obj,NOUN,0.6743173599243164,[],,
+ajouter,yaourt,obj,NOUN,0.5681745409965515,"[{""id"": 310228470, ""node1"": 25099, ""node2"": 82320, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+pomme,cube,nmod,NOUN,0.5789888501167297,[],,
+cube,moyen,amod,ADJ,0.5064423680305481,[],,
+blanc,neige,nmod,NOUN,0.4736866652965545,"[{""id"": 116991, ""node1"": 15196, ""node2"": 3699, ""type"": 0, ""w"": 509.77}, {""id"": 117866, ""node1"": 15196, ""node2"": 3699, ""type"": 23, ""w"": 320.0}, {""id"": 1622496, ""node1"": 15196, ""node2"": 3699, ""type"": 666, ""w"": 12.0}]",r_associated,509.77
+reste,pâte,nmod,NOUN,0.6521061062812805,[],,
+mettre,pomme,nsubj,NOUN,0.6015596985816956,[],,
+pomme,découper,acl,VERB,0.59700608253479,"[{""id"": 96711544, ""node1"": 37201, ""node2"": 45686, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+chocolat,cassé,amod,ADJ,0.4834612011909485,[],,

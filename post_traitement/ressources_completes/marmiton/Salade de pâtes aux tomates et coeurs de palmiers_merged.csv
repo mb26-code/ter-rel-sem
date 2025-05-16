@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,salade,appos,NOUN,0.5926524996757507,[],,
+salade,pâte,nmod,NOUN,0.7069150805473328,"[{""id"": 97758148, ""node1"": 118908, ""node2"": 34069, ""type"": 0, ""w"": 28.0}, {""id"": 97758149, ""node1"": 118908, ""node2"": 34069, ""type"": 9, ""w"": 26.0}]",r_associated,28.0
+salade,tomate,nmod,NOUN,0.6603864431381226,"[{""id"": 129517, ""node1"": 118908, ""node2"": 22138, ""type"": 0, ""w"": 186.0}, {""id"": 97758137, ""node1"": 118908, ""node2"": 22138, ""type"": 9, ""w"": 31.0}, {""id"": 11333951, ""node1"": 118908, ""node2"": 22138, ""type"": 28, ""w"": 38.0}, {""id"": 765200127, ""node1"": 118908, ""node2"": 22138, ""type"": 50, ""w"": 27.0}, {""id"": 675297494, ""node1"": 118908, ""node2"": 22138, ""type"": 666, ""w"": 9.0}]",r_associated,186.0
+coeur,palmier,nmod,NOUN,0.4515793919563293,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,sel,appos,NOUN,0.6997572183609009,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,huile,amod,NOUN,0.6777899265289307,"[{""id"": 917898979, ""node1"": 139597, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+ingrédient,vinaigre,acl,NOUN,0.6862488389015198,[],,
+vinaigre,tomate,nmod,NOUN,0.6816853880882263,[],,
+oeuf,olive,nmod,NOUN,0.5955610275268555,[],,
+olive,vert,amod,ADJ,0.5534511208534241,"[{""id"": 945484, ""node1"": 238, ""node2"": 26976, ""type"": 0, ""w"": 38.0}, {""id"": 53614950, ""node1"": 238, ""node2"": 26976, ""type"": 5, ""w"": 60.0}, {""id"": 12438339, ""node1"": 238, ""node2"": 26976, ""type"": 6, ""w"": 185.0}, {""id"": 96736297, ""node1"": 238, ""node2"": 26976, ""type"": 17, ""w"": 34.0}, {""id"": 14796582, ""node1"": 238, ""node2"": 26976, ""type"": 23, ""w"": 21.0}, {""id"": 3160025, ""node1"": 238, ""node2"": 26976, ""type"": 106, ""w"": 12.0}, {""id"": 2473013, ""node1"": 238, ""node2"": 26976, ""type"": 666, ""w"": 4.0}]",r_isa,185.0
+olive,sel,nmod,NOUN,0.7034202218055725,[],,
+vinaigre,top,nmod,NOUN,0.4518167674541473,[],,
+saladier,couteau,nmod,NOUN,0.6030980348587036,[],,
+titre,cuire,acl,VERB,0.7010467648506165,[],,
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+titre,couper,acl,VERB,0.4430274069309234,[],,
+couper,coeur,obj,NOUN,0.4570708274841308,[],,
+olive,rondelle,nmod,NOUN,0.5828750729560852,[],,
+saladier,pâte,nmod,NOUN,0.6635634303092957,[],,
+préparer,vinaigrette,obj,NOUN,0.6360166668891907,"[{""id"": 438786344, ""node1"": 36246, ""node2"": 47740, ""type"": 0, ""w"": 28.0}, {""id"": 15084894, ""node1"": 36246, ""node2"": 47740, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparer,mélanger,advcl,VERB,0.5422113537788391,[],,
+mélanger,ingrédient,obj,NOUN,0.6362285614013672,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+arroser,saladier,obj,NOUN,0.5804064273834229,[],,
+saladier,vinaigrette,nmod,NOUN,0.6460995078086853,"[{""id"": 3108058, ""node1"": 45455, ""node2"": 47740, ""type"": 0, ""w"": 43.0}, {""id"": 11335888, ""node1"": 45455, ""node2"": 47740, ""type"": 28, ""w"": 128.0}]",r_lieu-1,128.0
+mêler,délicatement,obj,ADV,0.4511916637420654,[],,
+décorer,oeuf,nmod,NOUN,0.5475937724113464,[],,
+décorer,couper,acl,VERB,0.4651672840118408,[],,

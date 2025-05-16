@@ -1,0 +1,18 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+piment,tomate,amod,NOUN,0.6761990785598755,"[{""id"": 673297614, ""node1"": 128791, ""node2"": 22138, ""type"": 0, ""w"": 31.0}, {""id"": 474067307, ""node1"": 128791, ""node2"": 22138, ""type"": 777, ""w"": 10.0}]",r_associated,31.0
+tomate,ingrédient,nmod,NOUN,0.6937788128852844,"[{""id"": 24850719, ""node1"": 22138, ""node2"": 123418, ""type"": 0, ""w"": 43.0}, {""id"": 24842052, ""node1"": 22138, ""node2"": 123418, ""type"": 6, ""w"": 160.0}]",r_isa,160.0
+anneau,piment,nmod,NOUN,0.5666505694389343,[],,
+anneau,tomate,nmod,NOUN,0.5866166353225708,[],,
+anneau,poivre,amod,NOUN,0.6064261794090271,[],,
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+titre,couvercle,nmod,NOUN,0.4697539210319519,[],,
+couvercle,étape,nmod,NOUN,0.4822983145713806,[],,
+titre,cuire,acl,VERB,0.7010467648506165,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+ajouter,boite,obj,NOUN,0.4479573965072632,[],,
+boite,tomate,nmod,NOUN,0.5468555092811584,[],,
+titre,saler,amod,VERB,0.585317850112915,[],,
+laisser,remuer,advcl,VERB,0.476580411195755,[],,
+remuer,temps,obj,NOUN,0.5274296998977661,[],,
+avoir,jus,obj,NOUN,0.5571165680885315,[],,

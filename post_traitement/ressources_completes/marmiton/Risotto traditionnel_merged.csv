@@ -1,0 +1,52 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,beurre,appos,NOUN,0.7321043014526367,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]",r_associated,69.0
+beurre,safran,obj,NOUN,0.68073570728302,[],,
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+jambon,sec,amod,ADJ,0.5422156453132629,[],,
+ingrédient,bouillon,nmod,NOUN,0.7058120369911194,[],,
+bouillon,légume,nmod,NOUN,0.7116243243217468,"[{""id"": 152250, ""node1"": 146582, ""node2"": 120603, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+légume,champignon,appos,NOUN,0.6492125391960144,"[{""id"": 1883952, ""node1"": 120603, ""node2"": 25484, ""type"": 0, ""w"": 62.0}, {""id"": 1639006, ""node1"": 120603, ""node2"": 25484, ""type"": 8, ""w"": 83.0}]",r_hypo,83.0
+champignon,parmesan,appos,NOUN,0.6404001116752625,[],,
+casserole,louche,obj,NOUN,0.5996624231338501,"[{""id"": 17498824, ""node1"": 57253, ""node2"": 124144, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+casserole,porter,amod,VERB,0.5768375992774963,[],,
+porter,bouillon,obj,NOUN,0.6005552411079407,[],,
+chaud,casser,advcl,VERB,0.5411418676376343,[],,
+casser,cuisson,obj,NOUN,0.7001253962516785,[],,
+cuisson,riz,nmod,NOUN,0.7417046427726746,[],,
+temps,même,amod,ADJ,0.4074134230613708,[],,
+casserole,petit,amod,ADJ,0.6468310356140137,[],,
+rendre,eau,obj,NOUN,0.5431551933288574,"[{""id"": 31838005, ""node1"": 65447, ""node2"": 65012, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+eau,champignon,nmod,NOUN,0.5842656493186951,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+oignon,confit,amod,ADJ,0.6382328867912292,"[{""id"": 796708630, ""node1"": 123307, ""node2"": 95692, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+ajouter,champignon,obj,NOUN,0.5464464426040649,[],,
+ajouter,vin,obj,NOUN,0.6198925375938416,[],,
+fois,vin,nmod,NOUN,0.6218909025192261,[],,
+vin,assimiler,acl,VERB,0.6041931509971619,[],,
+ajouter,bouillon,obj,NOUN,0.597090482711792,[],,
+bouillon,demi,amod,NOUN,0.5134692788124084,[],,
+bouillon,louche,acl,ADJ,0.6199405789375305,"[{""id"": 98284062, ""node1"": 146582, ""node2"": 124144, ""type"": 58, ""w"": 21.0}]",r_quantificateur,21.0
+ajouter,conseil,obj,NOUN,0.4006833136081695,[],,
+conseil,cuisson,nmod,NOUN,0.6693861484527588,[],,
+devoir,température,nsubj,NOUN,0.4316711127758026,[],,
+arrêter,cuisson,obj,NOUN,0.6741373538970947,"[{""id"": 372620649, ""node1"": 28778, ""node2"": 60056, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ferme,riz,nsubj,NOUN,0.6772270798683167,[],,
+cuisson,ferme,amod,ADJ,0.6520907282829285,[],,
+cuit,riz,nsubj,NOUN,0.7474448680877686,"[{""id"": 796934425, ""node1"": 28105, ""node2"": 24372, ""type"": 0, ""w"": 30.0}, {""id"": 14797378, ""node1"": 28105, ""node2"": 24372, ""type"": 23, ""w"": 45.0}]",r_carac-1,45.0
+cuit,incorporer,advcl,VERB,0.7173525094985962,[],,
+incorporer,noix,obj,NOUN,0.5712540745735168,[],,
+noix,beurre,nmod,NOUN,0.6414071917533875,"[{""id"": 96697959, ""node1"": 30910, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+gramme,parmesan,nmod,ADV,0.5648564100265503,[],,
+gramme,râpé,amod,ADV,0.5260376930236816,[],,
+cuire,le,obj,PRON,0.4500194191932678,[],,
+cuire,safran,obj,NOUN,0.7705173492431641,[],,
+qualité,riz,nmod,NOUN,0.6574074625968933,[],,
+primordial,cuisson,nsubj,NOUN,0.6996626853942871,[],,
+riz,long,amod,ADJ,0.6569145917892456,"[{""id"": 2207433, ""node1"": 24372, ""node2"": 84432, ""type"": 0, ""w"": 48.0}, {""id"": 373265, ""node1"": 24372, ""node2"": 84432, ""type"": 8, ""w"": 101.0}, {""id"": 2207440, ""node1"": 24372, ""node2"": 84432, ""type"": 17, ""w"": 57.0}]",r_hypo,101.0
+consistance,risotto,nmod,NOUN,0.6483721733093262,[],,
+vin,bon,amod,ADJ,0.6022603511810303,"[{""id"": 915332606, ""node1"": 35798, ""node2"": 144229, ""type"": 0, ""w"": 20.0}, {""id"": 8997811, ""node1"": 35798, ""node2"": 144229, ""type"": 17, ""w"": 32.0}]",r_carac,32.0
+vin,rouge,amod,ADJ,0.599454402923584,"[{""id"": 61835, ""node1"": 35798, ""node2"": 86356, ""type"": 0, ""w"": 517.0}, {""id"": 556239, ""node1"": 35798, ""node2"": 86356, ""type"": 5, ""w"": 122.0}, {""id"": 9857786, ""node1"": 35798, ""node2"": 86356, ""type"": 8, ""w"": 139.0}, {""id"": 14806149, ""node1"": 35798, ""node2"": 86356, ""type"": 17, ""w"": 71.0}, {""id"": 31149018, ""node1"": 35798, ""node2"": 86356, ""type"": 27, ""w"": 22.0}, {""id"": 3154292, ""node1"": 35798, ""node2"": 86356, ""type"": 106, ""w"": 12.0}, {""id"": 1526706, ""node1"": 35798, ""node2"": 86356, ""type"": 666, ""w"": 8.0}]",r_associated,517.0
+vin,suivre,acl,VERB,0.5905461311340332,[],,
+fruit,dessert,nmod,NOUN,0.5544292330741882,"[{""id"": 185733, ""node1"": 87286, ""node2"": 38557, ""type"": 0, ""w"": 233.0}, {""id"": 452217, ""node1"": 87286, ""node2"": 38557, ""type"": 6, ""w"": 141.0}, {""id"": 195452, ""node1"": 87286, ""node2"": 38557, ""type"": 10, ""w"": 54.0}, {""id"": 13010242, ""node1"": 87286, ""node2"": 38557, ""type"": 25, ""w"": 51.0}, {""id"": 775104408, ""node1"": 87286, ""node2"": 38557, ""type"": 139, ""w"": 25.0}]",r_associated,233.0

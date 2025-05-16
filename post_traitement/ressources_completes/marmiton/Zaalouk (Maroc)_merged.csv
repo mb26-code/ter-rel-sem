@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,aubergine,appos,NOUN,0.6650853753089905,[],,
+aubergine,persil,nmod,NOUN,0.6461389660835266,[],,
+aubergine,sel,nmod,NOUN,0.7145346403121948,[],,
+sel,vinaigre,acl,NOUN,0.683134913444519,"[{""id"": 796849792, ""node1"": 13260, ""node2"": 145443, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+ingrédient,marmite,nmod,NOUN,0.7438843250274658,[],,
+marmite,saladier,nmod,NOUN,0.6751908659934998,[],,
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+marmite,enlever,acl,VERB,0.6455079913139343,[],,
+enlever,peau,obj,NOUN,0.4885257482528686,"[{""id"": 15076500, ""node1"": 82345, ""node2"": 109785, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+peau,aubergine,nmod,NOUN,0.535301148891449,"[{""id"": 97333285, ""node1"": 109785, ""node2"": 14731, ""type"": 0, ""w"": 23.0}, {""id"": 97333131, ""node1"": 109785, ""node2"": 14731, ""type"": 10, ""w"": 16.0}]",r_associated,23.0
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+marmite,plein,amod,ADJ,0.6141559481620789,[],,
+marmite,eau,nmod,NOUN,0.6216312050819397,[],,
+préparer,sauce,obj,NOUN,0.6940045356750488,"[{""id"": 395781320, ""node1"": 36246, ""node2"": 141110, ""type"": 0, ""w"": 35.0}, {""id"": 373014451, ""node1"": 36246, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparer,mélanger,advcl,VERB,0.5422113537788391,[],,
+mélanger,huile,amod,NOUN,0.6307845115661621,"[{""id"": 376200336, ""node1"": 37151, ""node2"": 141971, ""type"": 16, ""w"": 26.0}]",r_instr,26.0
+piment,rouge,amod,ADJ,0.5935078263282776,"[{""id"": 1946, ""node1"": 128791, ""node2"": 86356, ""type"": 0, ""w"": 136.0}, {""id"": 3180088, ""node1"": 128791, ""node2"": 86356, ""type"": 106, ""w"": 6.0}, {""id"": 1524855, ""node1"": 128791, ""node2"": 86356, ""type"": 666, ""w"": 6.0}]",r_associated,136.0
+aubergine,cuire,acl,VERB,0.7636326551437378,"[{""id"": 886230291, ""node1"": 14731, ""node2"": 5115, ""type"": 26, ""w"": 41.0}]",r_patient-1,41.0
+mélanger,sauce,obj,NOUN,0.7105662822723389,"[{""id"": 343034831, ""node1"": 37151, ""node2"": 141110, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+sauce,préparer,acl,VERB,0.6940045356750488,"[{""id"": 893428150, ""node1"": 141110, ""node2"": 36246, ""type"": 0, ""w"": 20.0}, {""id"": 3219217, ""node1"": 141110, ""node2"": 36246, ""type"": 25, ""w"": 0.0}, {""id"": 373070066, ""node1"": 141110, ""node2"": 36246, ""type"": 26, ""w"": 100.0}, {""id"": 348326087, ""node1"": 141110, ""node2"": 36246, ""type"": 38, ""w"": 34.0}]",r_patient-1,100.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+tout,remuer,acl,VERB,0.5498727560043335,[],,
+vérifier,goût,obj,NOUN,0.5325757265090942,[],,
+mélanger,ajouter,advcl,VERB,0.476481020450592,[],,
+sécher,sauce,obj,NOUN,0.7281560897827148,[],,
+laisser,huile,obj,NOUN,0.6037718057632446,[],,
+goûter,qui,nsubj,PRON,0.4865079522132873,[],,
+huile,goûter,acl:relcl,VERB,0.6871024966239929,[],,
+ajouter,tomate,obj,NOUN,0.6318210363388062,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 30.0}]",r_agent,30.0
+tomate,écraser,acl,VERB,0.6166732311248779,[],,

@@ -1,0 +1,21 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,tomate,nmod,NOUN,0.5722841620445251,[],,
+tomate,vert,amod,ADJ,0.5801488161087036,"[{""id"": 1967747, ""node1"": 22138, ""node2"": 26976, ""type"": 17, ""w"": 27.0}, {""id"": 3164033, ""node1"": 22138, ""node2"": 26976, ""type"": 106, ""w"": 13.0}]",r_carac,27.0
+tomate,vinaigre,nmod,NOUN,0.6816853880882263,"[{""id"": 421761052, ""node1"": 22138, ""node2"": 145443, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+vinaigre,ingrédient,nmod,NOUN,0.6862488389015198,[],,
+vinaigre,alcool,nmod,NOUN,0.5851388573646545,"[{""id"": 606194778, ""node1"": 145443, ""node2"": 47597, ""type"": 0, ""w"": 7.0}, {""id"": 604555619, ""node1"": 145443, ""node2"": 47597, ""type"": 6, ""w"": 32.0}, {""id"": 434562941, ""node1"": 145443, ""node2"": 47597, ""type"": 50, ""w"": 26.0}, {""id"": 72930125, ""node1"": 145443, ""node2"": 47597, ""type"": 777, ""w"": 10.0}]",r_isa,32.0
+vinaigre,tomate,obj,NOUN,0.6816853880882263,[],,
+poivre,grain,nmod,NOUN,0.6204152703285217,"[{""id"": 765218139, ""node1"": 139597, ""node2"": 57895, ""type"": 58, ""w"": 28.0}]",r_quantificateur,28.0
+tomate,blanchir,acl,VERB,0.647527277469635,[],,
+blanchir,tomate,obj,NOUN,0.647527277469635,[],,
+bocal,gros,amod,ADJ,0.5382285714149475,[],,
+bocal,verre,nmod,NOUN,0.5670445561408997,"[{""id"": 437763, ""node1"": 109384, ""node2"": 144497, ""type"": 0, ""w"": 87.0}, {""id"": 106939492, ""node1"": 109384, ""node2"": 144497, ""type"": 50, ""w"": 22.0}, {""id"": 988431929, ""node1"": 109384, ""node2"": 144497, ""type"": 666, ""w"": 3.0}]",r_associated,87.0
+oignon,petit,amod,ADJ,0.612844705581665,"[{""id"": 96738917, ""node1"": 123307, ""node2"": 55222, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+bocal,oignon,nmod,NOUN,0.6354292035102844,[],,
+oignon,piment,appos,NOUN,0.6524915099143982,"[{""id"": 922162629, ""node1"": 123307, ""node2"": 128791, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+piment,rouge,amod,ADJ,0.5935078263282776,"[{""id"": 1946, ""node1"": 128791, ""node2"": 86356, ""type"": 0, ""w"": 136.0}, {""id"": 3180088, ""node1"": 128791, ""node2"": 86356, ""type"": 106, ""w"": 6.0}, {""id"": 1524855, ""node1"": 128791, ""node2"": 86356, ""type"": 666, ""w"": 6.0}]",r_associated,136.0
+vinaigre,bouillir,acl,VERB,0.6965899467468262,[],,
+recueillir,vinaigre,obj,NOUN,0.5981095433235168,[],,
+tomate,bocal,nmod,NOUN,0.6531196236610413,[],,
+bocal,ajouter,acl,VERB,0.5774390697479248,[],,
+verser,vinaigre,obj,NOUN,0.6104941368103027,"[{""id"": 15085300, ""node1"": 104506, ""node2"": 145443, ""type"": 14, ""w"": 30.0}]",r_patient,30.0

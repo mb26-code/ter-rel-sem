@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+fruit,ingrédient,nmod,NOUN,0.562045156955719,[],,
+fruit,beurre,amod,NOUN,0.6500765085220337,"[{""id"": 920548099, ""node1"": 87286, ""node2"": 140377, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+beurre,abricot,obj,NOUN,0.6550504565238953,[],,
+abricot,pêche,appos,NOUN,0.482481837272644,"[{""id"": 402006, ""node1"": 118502, ""node2"": 145624, ""type"": 0, ""w"": 225.0}, {""id"": 393685, ""node1"": 118502, ""node2"": 145624, ""type"": 20, ""w"": 56.0}, {""id"": 939564049, ""node1"": 118502, ""node2"": 145624, ""type"": 666, ""w"": 2.0}]",r_associated,225.0
+fruit,four,nmod,NOUN,0.695097804069519,[],,
+four,plat,nmod,NOUN,0.711601734161377,"[{""id"": 218402, ""node1"": 9190, ""node2"": 36327, ""type"": 0, ""w"": 54.0}, {""id"": 1612283, ""node1"": 9190, ""node2"": 36327, ""type"": 28, ""w"": 125.0}, {""id"": 1013894208, ""node1"": 9190, ""node2"": 36327, ""type"": 666, ""w"": 2.0}]",r_lieu-1,125.0
+four,gratin,nmod,NOUN,0.6803157329559326,"[{""id"": 391931, ""node1"": 9190, ""node2"": 12942, ""type"": 0, ""w"": 54.0}, {""id"": 98289672, ""node1"": 9190, ""node2"": 12942, ""type"": 28, ""w"": 41.0}, {""id"": 1918539, ""node1"": 9190, ""node2"": 12942, ""type"": 41, ""w"": 70.0}]",r_has_conseq,70.0
+four,robot,nmod,NOUN,0.6581268906593323,[],,
+robot,balance,nmod,NOUN,0.4875776767730713,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plancha,nmod,NOUN,0.5655341148376465,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+four,étape,nmod,NOUN,0.6555838584899902,[],,
+robot,petit,amod,ADJ,0.5209058523178101,"[{""id"": 413863100, ""node1"": 12875, ""node2"": 55222, ""type"": 17, ""w"": 66.0}]",r_carac,66.0
+robot,mixer,acl,VERB,0.5421504974365234,"[{""id"": 878708814, ""node1"": 12875, ""node2"": 12170, ""type"": 0, ""w"": 20.0}, {""id"": 97345622, ""node1"": 12875, ""node2"": 12170, ""type"": 24, ""w"": 31.0}, {""id"": 376186446, ""node1"": 12875, ""node2"": 12170, ""type"": 25, ""w"": 29.0}]",r_agent-1,31.0
+verser,noix,obj,NOUN,0.5958284735679626,[],,
+sucre,gramme,nmod,NOUN,0.6024630069732666,"[{""id"": 1913810, ""node1"": 139481, ""node2"": 140383, ""type"": 58, ""w"": 35.0}]",r_quantificateur,35.0
+gramme,beurre,nmod,NOUN,0.6074452996253967,[],,
+obtenir,mélange,obj,NOUN,0.4783641993999481,[],,
+laver,fruit,obj,NOUN,0.5700708627700806,"[{""id"": 213741328, ""node1"": 143876, ""node2"": 87286, ""type"": 14, ""w"": 30.0}, {""id"": 376193977, ""node1"": 143876, ""node2"": 87286, ""type"": 16, ""w"": -25.0}]",r_patient,30.0
+couper,abricot,obj,NOUN,0.5425969362258911,[],,
+aide,cuillère,nmod,NOUN,0.45757657289505,[],,
+cuillère,parisien,amod,ADJ,0.5329010486602783,[],,
+cuillère,creuser,amod,VERB,0.5120670199394226,"[{""id"": 662535903, ""node1"": 51905, ""node2"": 129264, ""type"": 0, ""w"": 22.0}, {""id"": 140517, ""node1"": 51905, ""node2"": 129264, ""type"": 25, ""w"": 521.0}]",r_instr-1,521.0
+cuillère,pêche,appos,NOUN,0.5511480569839478,"[{""id"": 10658883, ""node1"": 51905, ""node2"": 145624, ""type"": 0, ""w"": 46.0}, {""id"": 97337478, ""node1"": 51905, ""node2"": 145624, ""type"": 3, ""w"": 15.0}, {""id"": 28315179, ""node1"": 51905, ""node2"": 145624, ""type"": 35, ""w"": 43.0}]",r_associated,46.0
+pêche,plat,amod,ADJ,0.6429014801979065,"[{""id"": 8551306, ""node1"": 145624, ""node2"": 36327, ""type"": 15, ""w"": -14.0}]",r_lieu,-14.0
+disposer,fruit,obj,NOUN,0.4985760450363159,[],,
+fruit,fond,nmod,NOUN,0.5268491506576538,[],,
+fond,plat,nmod,NOUN,0.5886687636375427,"[{""id"": 961890508, ""node1"": 119272, ""node2"": 36327, ""type"": 10, ""w"": 25.0}]",r_holo,25.0
+cœur,fruit,nmod,NOUN,0.4420989751815796,"[{""id"": 1041105473, ""node1"": 151462, ""node2"": 87286, ""type"": 0, ""w"": 65.0}]",r_associated,65.0
+fruit,mélange,nmod,NOUN,0.5375536680221558,[],,
+cœur,noix,nmod,NOUN,0.5368079543113708,[],,
+mettre,plat,obj,NOUN,0.6154568791389465,"[{""id"": 513445480, ""node1"": 132366, ""node2"": 36327, ""type"": 0, ""w"": 30.0}, {""id"": 559393289, ""node1"": 132366, ""node2"": 36327, ""type"": 14, ""w"": 100.0}, {""id"": 513445479, ""node1"": 132366, ""node2"": 36327, ""type"": 31, ""w"": 26.0}]",r_patient,100.0
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+minute,cuisson,nmod,NOUN,0.6456773281097412,[],,
+minute,four,nmod,NOUN,0.6574273109436035,[],,

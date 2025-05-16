@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,gratin,nmod,NOUN,0.4893978536128998,[],,
+gratin,bleu,nmod,NOUN,0.5252818465232849,[],,
+bleu,Bresse,nmod,PROPN,0.4145457148551941,[],,
+Bresse,ingrédient,nmod,NOUN,0.5246764421463013,[],,
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+crème,épaisse,amod,NOUN,0.5719905495643616,"[{""id"": 796714566, ""node1"": 44001, ""node2"": 154650, ""type"": 0, ""w"": 21.0}, {""id"": 1022007608, ""node1"": 44001, ""node2"": 154650, ""type"": 17, ""w"": 33.0}]",r_carac,33.0
+Bresse,Plat,nmod,PROPN,0.419195145368576,[],,
+Plat,gratin,nmod,NOUN,0.4779236614704132,[],,
+Bresse,four,nmod,NOUN,0.6398258209228516,[],,
+four,couvercle,nmod,NOUN,0.6759926676750183,[],,
+couvercle,couteau,nmod,NOUN,0.5890913009643555,[],,
+couvercle,plat,nmod,ADJ,0.6402535438537598,"[{""id"": 961890557, ""node1"": 89523, ""node2"": 36327, ""type"": 10, ""w"": 24.0}, {""id"": 372856875, ""node1"": 89523, ""node2"": 36327, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+bleu,étape,nmod,NOUN,0.4455143511295318,[],,
+four,200,nmod,NUM,0.5053980350494385,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+eau,ce,nmod,PRON,0.4319391548633575,[],,
+cuire,lui,nsubj:pass,PRON,0.6200059056282043,[],,
+ce,cuire,acl,VERB,0.456451803445816,[],,
+égoutter,placer,advcl,VERB,0.4798579216003418,[],,
+plat,gratin,appos,NOUN,0.6157448291778564,"[{""id"": 415003453, ""node1"": 36327, ""node2"": 12942, ""type"": 0, ""w"": 28.0}, {""id"": 246264043, ""node1"": 36327, ""node2"": 12942, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+couper,fromage,obj,NOUN,0.6230878829956055,"[{""id"": 365853942, ""node1"": 128828, ""node2"": 141687, ""type"": 0, ""w"": 29.0}, {""id"": 365853940, ""node1"": 128828, ""node2"": 141687, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+plat,tout,amod,ADJ,0.6215036511421204,[],,
+recouvrir,plat,obj,NOUN,0.6233996152877808,[],,
+avoir,gratin,obj,NOUN,0.5069518089294434,[],,
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]",r_carac-1,5.0

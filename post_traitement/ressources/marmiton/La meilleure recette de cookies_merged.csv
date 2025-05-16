@@ -1,0 +1,48 @@
+head,lemma,dep,pos,sim,relation
+recette,meilleur,amod,ADJ,0.602213978767395,[]
+recette,cookie,nmod,NOUN,0.5476966500282288,[]
+cookie,ingrédient,nmod,NOUN,0.4952365756034851,[]
+recette,fleur,appos,NOUN,0.6312694549560547,[]
+fleur,sel,nmod,NOUN,0.668102502822876,"[{""id"": 796703205, ""node1"": 28985, ""node2"": 13260, ""type"": 0, ""w"": 28.0}]"
+fleur,chocolat,nmod,NOUN,0.5886329412460327,[]
+fleur,noir,amod,ADJ,0.5194345116615295,[]
+noir,bicarbonate,obj,NOUN,0.5159299373626709,[]
+bicarbonate,farine,amod,NOUN,0.6624030470848083,[]
+fleur,sucre,acl,NOUN,0.654744029045105,[]
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]"
+poudre,beurre,acl,NOUN,0.6949014067649841,[]
+fleur,blonde,amod,NOUN,0.4960741102695465,[]
+fleur,oeuf,nmod,NOUN,0.5739175081253052,[]
+oeuf,purée,amod,NOUN,0.6461037993431091,[]
+oeuf,amande,nmod,NOUN,0.5567412972450256,[]
+fleur,plaque,nmod,NOUN,0.5459088087081909,[]
+plaque,cuisson,nmod,NOUN,0.6722077131271362,"[{""id"": 14676768, ""node1"": 145064, ""node2"": 60056, ""type"": 0, ""w"": 49.0}, {""id"": 97321944, ""node1"": 145064, ""node2"": 60056, ""type"": 3, ""w"": 15.0}, {""id"": 14199213, ""node1"": 145064, ""node2"": 60056, ""type"": 35, ""w"": 47.0}]"
+cuisson,frigo,nmod,NOUN,0.7109809517860413,[]
+frigo,balance,nmod,NOUN,0.5736064314842224,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+recette,table,nmod,NOUN,0.6316155791282654,"[{""id"": 98281061, ""node1"": 120188, ""node2"": 89591, ""type"": 0, ""w"": 16.0}]"
+table,induction,amod,NOUN,0.5181390047073364,[]
+recette,mélanger,acl,VERB,0.6986085772514343,[]
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]"
+mélanger,bicarbonate,obj,NOUN,0.5930687785148621,[]
+recette,fondre,acl,VERB,0.6728544235229492,[]
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]"
+tranche,seconde,nmod,NOUN,0.4000909626483917,"[{""id"": 477441093, ""node1"": 143123, ""node2"": 21933, ""type"": 17, ""w"": 31.0}]"
+tranche,micro,nmod,PROPN,0.4482685625553131,[]
+mélanger,beurre,obj,NOUN,0.6754149198532104,[]
+beurre,fondre,acl,VERB,0.643409252166748,"[{""id"": 652231036, ""node1"": 140377, ""node2"": 16480, ""type"": 0, ""w"": 21.0}, {""id"": 24771033, ""node1"": 140377, ""node2"": 16480, ""type"": 24, ""w"": 137.0}, {""id"": 1886772, ""node1"": 140377, ""node2"": 16480, ""type"": 26, ""w"": 33.0}]"
+ajouter,poudre,obj,NOUN,0.5711148977279663,[]
+finir,ajouter,advcl,VERB,0.4177050292491913,[]
+ajouter,chocolat,obj,NOUN,0.6055095791816711,[]
+chocolat,noir,amod,ADJ,0.5080411434173584,"[{""id"": 66660, ""node1"": 34157, ""node2"": 64238, ""type"": 0, ""w"": 677.0}, {""id"": 369242, ""node1"": 34157, ""node2"": 64238, ""type"": 17, ""w"": 133.0}, {""id"": 3163487, ""node1"": 34157, ""node2"": 64238, ""type"": 106, ""w"": 23.0}, {""id"": 1548225, ""node1"": 34157, ""node2"": 64238, ""type"": 666, ""w"": 11.0}]"
+ajouter,couper,advcl,VERB,0.4516488313674927,"[{""id"": 55053058, ""node1"": 25099, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 55011750, ""node1"": 25099, ""node2"": 128828, ""type"": 5, ""w"": 57.0}, {""id"": 85362404, ""node1"": 25099, ""node2"": 128828, ""type"": 7, ""w"": 31.0}]"
+pépite,gros,amod,ADJ,0.4427862763404846,[]
+pépite,pâte,nmod,NOUN,0.6234750747680664,[]
+aide,cuillère,nmod,NOUN,0.45757657289505,[]
+cuillère,former,acl,VERB,0.5054979920387268,[]
+former,boule,obj,NOUN,0.4745096266269684,"[{""id"": 461428458, ""node1"": 66314, ""node2"": 141883, ""type"": 14, ""w"": 41.0}]"
+boule,régulier,amod,ADJ,0.498405784368515,[]
+cuisson,recouvrir,acl,VERB,0.7294594049453735,[]
+écraser,boule,obj,NOUN,0.5092893838882446,[]
+boule,doigt,nmod,NOUN,0.468498021364212,[]
+pointe,fleur,nmod,NOUN,0.480314701795578,[]

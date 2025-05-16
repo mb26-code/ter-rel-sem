@@ -1,0 +1,41 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+carotte,ingrédient,obj,NOUN,0.6786724925041199,[],,
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,carotte,amod,ADJ,0.703865647315979,[],,
+sel,courgette,nmod,NOUN,0.7117159366607666,[],,
+poivre,frais,amod,ADJ,0.5931172370910645,[],,
+poivre,crème,amod,NOUN,0.6996400356292725,[],,
+crème,liquide,amod,ADJ,0.6173139810562134,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]",r_carac,52.0
+crème,graine,amod,NOUN,0.6292582154273987,[],,
+économe,couteau,nmod,NOUN,0.5018488168716431,"[{""id"": 11472222, ""node1"": 14706, ""node2"": 32610, ""type"": 0, ""w"": 51.0}, {""id"": 9916571, ""node1"": 14706, ""node2"": 32610, ""type"": 6, ""w"": 55.0}, {""id"": 539969426, ""node1"": 14706, ""node2"": 32610, ""type"": 35, ""w"": -25.0}, {""id"": 1786595, ""node1"": 14706, ""node2"": 32610, ""type"": 666, ""w"": 5.0}]",r_isa,55.0
+économe,wok,nmod,NUM,0.6167813539505005,[],,
+économe,pinceau,appos,NOUN,0.4334880113601684,[],,
+pinceau,saladier,nmod,NOUN,0.5370374321937561,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+préparer,ingrédient,obj,NOUN,0.6240276098251343,[],,
+économe,faire,acl,VERB,0.4909349381923675,[],,
+rondelle,fin,amod,ADJ,0.4580791592597961,[],,
+jeter,ajout,advcl,NOUN,0.4231548309326172,[],,
+matière,gras,amod,ADJ,0.5428515672683716,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+commencer,chorizo,nsubj,ADV,0.6201179027557373,[],,
+peu,huile,nmod,NOUN,0.5692240595817566,[],,
+huile,nappe,amod,NOUN,0.5818942785263062,[],,
+mettre,ajouter,advcl,VERB,0.4179443120956421,"[{""id"": 930338, ""node1"": 132366, ""node2"": 25099, ""type"": 0, ""w"": 33.0}, {""id"": 432805151, ""node1"": 132366, ""node2"": 25099, ""type"": 5, ""w"": 31.0}, {""id"": 9094398, ""node1"": 132366, ""node2"": 25099, ""type"": 35, ""w"": 30.0}, {""id"": 1008795590, ""node1"": 132366, ""node2"": 25099, ""type"": 666, ""w"": 3.0}]",r_associated,33.0
+ajouter,graine,obj,NOUN,0.5452349185943604,[],,
+mettre,eau,obj,NOUN,0.5746321082115173,"[{""id"": 437548164, ""node1"": 132366, ""node2"": 65012, ""type"": 0, ""w"": 28.0}, {""id"": 437548163, ""node1"": 132366, ""node2"": 65012, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+eau,chauffer,acl,VERB,0.593856930732727,"[{""id"": 913483848, ""node1"": 65012, ""node2"": 90994, ""type"": 0, ""w"": 20.0}, {""id"": 426780851, ""node1"": 65012, ""node2"": 90994, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+cuisson,pâte,nmod,NOUN,0.7189537286758423,"[{""id"": 915053269, ""node1"": 60056, ""node2"": 34069, ""type"": 0, ""w"": 20.0}, {""id"": 376106703, ""node1"": 60056, ""node2"": 34069, ""type"": 109, ""w"": 29.0}]",r_has_predecesseur-time,29.0
+ajouter,oignon,obj,NOUN,0.585871696472168,[],,
+fond,petit,amod,ADJ,0.5144332647323608,"[{""id"": 104271378, ""node1"": 119272, ""node2"": 55222, ""type"": 10, ""w"": 1.0}]",r_holo,1.0
+fond,eau,nmod,NOUN,0.581144392490387,"[{""id"": 96691076, ""node1"": 119272, ""node2"": 65012, ""type"": 0, ""w"": 37.0}, {""id"": 98303780, ""node1"": 119272, ""node2"": 65012, ""type"": 9, ""w"": 30.0}]",r_associated,37.0
+transparent,oignon,nsubj,NOUN,0.5706696510314941,[],,
+ajouter,transparent,amod,ADJ,0.4236989319324493,[],,
+ajouter,légume,obj,NOUN,0.6689792275428772,[],,
+saler,faire,advcl,VERB,0.5950424671173096,[],,
+cuisson,légume,nmod,NOUN,0.7936146259307861,[],,
+mettre,pâte,obj,NOUN,0.6384987831115723,[],,
+rectifier,assaisonnement,obj,NOUN,0.5303710103034973,"[{""id"": 15080476, ""node1"": 36001, ""node2"": 15763, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+surmonter,pâte,nsubj,NOUN,0.6204379200935364,[],,
+pâte,nid,nmod,NOUN,0.558342456817627,[],,
+servir,surmonter,advcl,VERB,0.4365962743759155,[],,
+surmonter,garniture,obj,NOUN,0.549022912979126,[],,

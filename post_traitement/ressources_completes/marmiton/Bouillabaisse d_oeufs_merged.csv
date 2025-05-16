@@ -1,0 +1,42 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+sel,poivre,acl,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+herbe,Provence,nmod,PROPN,0.4220801889896393,[],,
+Provence,huile,amod,NOUN,0.54030442237854,[],,
+titre,couteau,nmod,NOUN,0.4826497733592987,[],,
+pinceau,couvercle,nmod,NOUN,0.4981644749641418,[],,
+couvercle,cuillère,nmod,NOUN,0.6197326183319092,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,planche,nmod,NOUN,0.5615888237953186,[],,
+cuillère,découper,acl,VERB,0.5746886134147644,[],,
+découper,étape,obj,NOUN,0.4244579374790191,[],,
+découper,pomme,obj,NOUN,0.59700608253479,"[{""id"": 97862769, ""node1"": 45686, ""node2"": 37201, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+marmite,fonte,nmod,NOUN,0.58919757604599,"[{""id"": 376056076, ""node1"": 146096, ""node2"": 111654, ""type"": 50, ""w"": 26.0}]",r_object>mater,26.0
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+dorer,pomme,obj,NOUN,0.6535199880599976,[],,
+ajouter,oignon,obj,NOUN,0.585871696472168,[],,
+oignon,couper,acl,VERB,0.596168577671051,"[{""id"": 900892185, ""node1"": 123307, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 31770901, ""node1"": 123307, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 1767208, ""node1"": 123307, ""node2"": 128828, ""type"": 666, ""w"": 2.0}]",r_patient-1,100.0
+laisser,tout,obj,NOUN,0.4551617503166199,[],,
+tout,dorer,acl,VERB,0.5732940435409546,[],,
+minute,bon,amod,ADJ,0.4657595455646515,[],,
+mettre,sachet,obj,NOUN,0.5227101445198059,[],,
+utiliser,riz,obj,NOUN,0.6735346913337708,[],,
+riz,or,nmod,NOUN,0.44058358669281,[],,
+contenir,épice,obj,NOUN,0.6605864763259888,[],,
+épice,donner,acl:relcl,VERB,0.6535304188728333,[],,
+donner,gout,obj,NOUN,0.5005598068237305,"[{""id"": 926485708, ""node1"": 12941, ""node2"": 153396, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+gout,final,amod,ADJ,0.4943946897983551,[],,
+contenir,remuer,advcl,VERB,0.495954692363739,[],,
+couvrir,tout,obj,NOUN,0.4875380098819732,[],,
+tout,eau,nmod,NOUN,0.58939129114151,[],,
+rajouter,gousse,obj,NOUN,0.5051958560943604,[],,
+gousse,ail,nmod,ADV,0.5501744151115417,"[{""id"": 1841967, ""node1"": 3889, ""node2"": 26979, ""type"": 0, ""w"": 58.0}, {""id"": 665112731, ""node1"": 3889, ""node2"": 26979, ""type"": 174, ""w"": 40.0}, {""id"": 714921743, ""node1"": 3889, ""node2"": 26979, ""type"": 666, ""w"": 3.0}]",r_associated,58.0
+gousse,éplucher,acl,VERB,0.4950290620326996,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+casser,servir,advcl,VERB,0.4831041097640991,[],,
+casser,oeuf,obj,NOUN,0.543071448802948,"[{""id"": 796687958, ""node1"": 63509, ""node2"": 116175, ""type"": 0, ""w"": 28.0}, {""id"": 213740960, ""node1"": 63509, ""node2"": 116175, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+ajouter,noix,obj,NOUN,0.5746623277664185,[],,
+noix,dessus,nmod,ADV,0.5652778148651123,[],,
+prendre,blanc,nsubj:pass,NOUN,0.5163448452949524,[],,
+liquide,jaune,nsubj,NOUN,0.5461075305938721,"[{""id"": 246261729, ""node1"": 140315, ""node2"": 86711, ""type"": 8, ""w"": 34.0}, {""id"": 97865929, ""node1"": 140315, ""node2"": 86711, ""type"": 23, ""w"": 28.0}, {""id"": 3169691, ""node1"": 140315, ""node2"": 86711, ""type"": 106, ""w"": 3.0}]",r_hypo,34.0
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]",r_carac-1,5.0

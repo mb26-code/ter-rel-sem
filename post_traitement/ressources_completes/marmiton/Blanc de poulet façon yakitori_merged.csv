@@ -1,0 +1,34 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+Blanc,poulet,nmod,NOUN,0.5141049027442932,[],,
+ingrédient,filet,nmod,NOUN,0.6121397614479065,[],,
+filet,poulet,nmod,NOUN,0.6290961503982544,"[{""id"": 796711931, ""node1"": 42188, ""node2"": 146261, ""type"": 0, ""w"": 25.0}, {""id"": 775213396, ""node1"": 42188, ""node2"": 146261, ""type"": 174, ""w"": 25.0}, {""id"": 113026988, ""node1"": 42188, ""node2"": 146261, ""type"": 777, ""w"": 10.0}]",r_associated,25.0
+ingrédient,graine,nmod,NOUN,0.6171390414237976,[],,
+graine,sésame,nmod,NOUN,0.5720810890197754,"[{""id"": 797533486, ""node1"": 14469, ""node2"": 18404, ""type"": 0, ""w"": 29.0}, {""id"": 246270686, ""node1"": 14469, ""node2"": 18404, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+ingrédient,pinceau,appos,NOUN,0.536277711391449,[],,
+pinceau,couteau,nmod,NOUN,0.4793228805065155,"[{""id"": 558826967, ""node1"": 79400, ""node2"": 32610, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+cuillère,wok,nmod,NUM,0.6448703408241272,[],,
+pinceau,cuillère,nmod,NOUN,0.5075318813323975,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,top,nmod,NOUN,0.4335919320583343,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+four,planche,nmod,NOUN,0.6710441708564758,[],,
+pinceau,découper,acl,VERB,0.4618694484233856,[],,
+découper,étape,obj,NOUN,0.4244579374790191,[],,
+récipient,sauce,nmod,NOUN,0.7618463039398193,"[{""id"": 345611970, ""node1"": 89628, ""node2"": 141110, ""type"": 28, ""w"": 26.0}]",r_lieu-1,26.0
+découper,filet,obj,NOUN,0.556812047958374,[],,
+filet,cube,nmod,NOUN,0.5346978306770325,[],,
+demi-heure,bon,amod,ADJ,0.434575468301773,[],,
+cuire,poulet,obj,NOUN,0.778136670589447,"[{""id"": 364585547, ""node1"": 5115, ""node2"": 146261, ""type"": 0, ""w"": 30.0}, {""id"": 216454663, ""node1"": 5115, ""node2"": 146261, ""type"": 13, ""w"": 40.0}, {""id"": 97862716, ""node1"": 5115, ""node2"": 146261, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+poêle,chaud,amod,ADJ,0.6645733714103699,"[{""id"": 278998504, ""node1"": 119686, ""node2"": 19150, ""type"": 0, ""w"": 26.0}, {""id"": 3078839, ""node1"": 119686, ""node2"": 19150, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+commencer,sauce,nsubj,NOUN,0.6826952695846558,[],,
+saupoudrer,commencer,advcl,VERB,0.4920594394207001,[],,
+moment,servir,acl,VERB,0.4804177582263946,[],,
+moment,saupoudrer,acl,VERB,0.5234942436218262,[],,
+saupoudrer,graine,obj,NOUN,0.591566801071167,[],,
+sésame,grillé,amod,ADJ,0.6125639081001282,"[{""id"": 477551496, ""node1"": 18404, ""node2"": 141899, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+saupoudrer,disponible,obj,ADJ,0.4700399339199066,[],,
+disponible,épicerie,nmod,NOUN,0.4347028732299804,[],,
+épicerie,asiatique,amod,ADJ,0.5060846209526062,[],,

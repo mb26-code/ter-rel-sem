@@ -1,0 +1,54 @@
+node1,node2,relations
+titre,ingrédient,[]
+titre,carotte,[]
+carotte,huile,[]
+carotte,vin,"[{""id"": 588258668, ""node1"": 76234, ""node2"": 35798, ""type"": 777, ""w"": 10.0}]"
+vin,rouge,"[{""id"": 61835, ""node1"": 35798, ""node2"": 86356, ""type"": 0, ""w"": 517.0}, {""id"": 556239, ""node1"": 35798, ""node2"": 86356, ""type"": 5, ""w"": 122.0}, {""id"": 9857786, ""node1"": 35798, ""node2"": 86356, ""type"": 8, ""w"": 139.0}, {""id"": 14806149, ""node1"": 35798, ""node2"": 86356, ""type"": 17, ""w"": 71.0}, {""id"": 31149018, ""node1"": 35798, ""node2"": 86356, ""type"": 27, ""w"": 22.0}, {""id"": 3154292, ""node1"": 35798, ""node2"": 86356, ""type"": 106, ""w"": 12.0}, {""id"": 1526706, ""node1"": 35798, ""node2"": 86356, ""type"": 666, ""w"": 8.0}]"
+rouge,sel,[]
+sel,poivre,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]"
+poivre,coriandre,[]
+coriandre,poivre,"[{""id"": 16178724, ""node1"": 61977, ""node2"": 139597, ""type"": 777, ""w"": 10.0}]"
+poivre,oignon,[]
+titre,coulis,[]
+titre,couteau,[]
+couteau,cocotte,[]
+set,poêle,[]
+poêle,couvercle,[]
+couvercle,blender,[]
+minute,chauffer,[]
+chauffer,plat,"[{""id"": 97862749, ""node1"": 90994, ""node2"": 36327, ""type"": 14, ""w"": 30.0}]"
+plat,étape,[]
+recette,couper,[]
+l,vin,[]
+légume,oignon,"[{""id"": 9905180, ""node1"": 120603, ""node2"": 123307, ""type"": 0, ""w"": 34.0}, {""id"": 1638960, ""node1"": 120603, ""node2"": 123307, ""type"": 8, ""w"": 136.0}, {""id"": 15191967, ""node1"": 120603, ""node2"": 123307, ""type"": 27, ""w"": -42.0}, {""id"": 1067325117, ""node1"": 120603, ""node2"": 123307, ""type"": 666, ""w"": 2.0}, {""id"": 3861720, ""node1"": 120603, ""node2"": 123307, ""type"": 777, ""w"": 10.0}]"
+oignon,ail,"[{""id"": 414999232, ""node1"": 123307, ""node2"": 26979, ""type"": 0, ""w"": 28.0}, {""id"": 1032956777, ""node1"": 123307, ""node2"": 26979, ""type"": 78, ""w"": 44.0}, {""id"": 1767139, ""node1"": 123307, ""node2"": 26979, ""type"": 666, ""w"": 3.0}, {""id"": 3935620, ""node1"": 123307, ""node2"": 26979, ""type"": 777, ""w"": 1.0}]"
+légume,laurier,"[{""id"": 3861776, ""node1"": 120603, ""node2"": 114548, ""type"": 777, ""w"": 10.0}]"
+laurier,grain,[]
+grain,poivre,"[{""id"": 775213400, ""node1"": 57895, ""node2"": 139597, ""type"": 174, ""w"": 25.0}]"
+légume,coriandre,"[{""id"": 915349624, ""node1"": 120603, ""node2"": 61977, ""type"": 0, ""w"": 22.0}]"
+revenir,morceau,[]
+morceau,viande,"[{""id"": 179412, ""node1"": 65364, ""node2"": 140100, ""type"": 0, ""w"": 83.0}, {""id"": 1007988744, ""node1"": 65364, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]"
+huile,chaud,"[{""id"": 669874570, ""node1"": 141971, ""node2"": 19150, ""type"": 0, ""w"": 21.0}, {""id"": 24929996, ""node1"": 141971, ""node2"": 19150, ""type"": 17, ""w"": 76.0}]"
+feu,vif,"[{""id"": 418102926, ""node1"": 143703, ""node2"": 80204, ""type"": 0, ""w"": 13.0}, {""id"": 221184, ""node1"": 143703, ""node2"": 80204, ""type"": 17, ""w"": 52.0}]"
+doré,viande,[]
+ajouter,marinade,[]
+ingrédient,tout,[]
+bouillir,vin,"[{""id"": 97374669, ""node1"": 42401, ""node2"": 35798, ""type"": 0, ""w"": 28.0}, {""id"": 97374668, ""node1"": 42401, ""node2"": 35798, ""type"": 3, ""w"": 24.0}, {""id"": 352516493, ""node1"": 42401, ""node2"": 35798, ""type"": 31, ""w"": 26.0}]"
+vin,minute,[]
+ajouter,coulis,[]
+coulis,tomate,"[{""id"": 798889036, ""node1"": 10401, ""node2"": 22138, ""type"": 0, ""w"": 31.0}, {""id"": 1072261196, ""node1"": 10401, ""node2"": 22138, ""type"": 666, ""w"": 2.0}]"
+faire,mijoter,"[{""id"": 77814648, ""node1"": 87528, ""node2"": 24589, ""type"": 0, ""w"": 30.0}, {""id"": 54838108, ""node1"": 87528, ""node2"": 24589, ""type"": 5, ""w"": -52.0}]"
+faire,heure,[]
+issue,cuisson,[]
+trouver,sauce,[]
+sauce,liquide,"[{""id"": 468465, ""node1"": 141110, ""node2"": 140315, ""type"": 0, ""w"": 41.0}, {""id"": 242693, ""node1"": 141110, ""node2"": 140315, ""type"": 6, ""w"": 85.0}, {""id"": 96715031, ""node1"": 141110, ""node2"": 140315, ""type"": 17, ""w"": 22.0}]"
+recette,même,[]
+faire,recette,[]
+condition,revenir,[]
+revenir,viande,[]
+revenir,ajouter,[]
+ajouter,légume,[]
+changer,reste,[]
+accompagner,plat,[]
+pomme,terre,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+pomme,vapeur,[]

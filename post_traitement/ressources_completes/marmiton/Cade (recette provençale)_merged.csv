@@ -1,0 +1,13 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+recette,provençal,amod,ADJ,0.599429190158844,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,farine,amod,NOUN,0.7189153432846069,"[{""id"": 561306446, ""node1"": 123418, ""node2"": 127629, ""type"": 0, ""w"": 39.0}, {""id"": 243153377, ""node1"": 123418, ""node2"": 127629, ""type"": 8, ""w"": 42.0}]",r_hypo,42.0
+ingrédient,pois,nmod,NOUN,0.5750998258590698,[],,
+ingrédient,oeuf,nmod,NOUN,0.5738223195075989,"[{""id"": 243484684, ""node1"": 123418, ""node2"": 116175, ""type"": 8, ""w"": 35.0}]",r_hypo,35.0
+oeuf,eau,nmod,NOUN,0.6093990802764893,"[{""id"": 386067341, ""node1"": 116175, ""node2"": 65012, ""type"": 15, ""w"": 30.0}, {""id"": 76133634, ""node1"": 116175, ""node2"": 65012, ""type"": 50, ""w"": 35.0}, {""id"": 109918850, ""node1"": 116175, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]",r_object>mater,35.0
+oeuf,fouet,nmod,NOUN,0.5590640902519226,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 307.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 267.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,307.0
+fouet,four,nmod,NOUN,0.6685465574264526,"[{""id"": 288507172, ""node1"": 73888, ""node2"": 9190, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+titre,table,nmod,NOUN,0.485977828502655,[],,
+table,induction,amod,NOUN,0.5181390047073364,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0

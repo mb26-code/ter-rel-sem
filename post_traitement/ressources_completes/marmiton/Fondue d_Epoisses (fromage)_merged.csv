@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,fondue,nmod,NOUN,0.5169522166252136,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,vin,nmod,NOUN,0.6430637836456299,"[{""id"": 578506260, ""node1"": 123418, ""node2"": 35798, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+appareil,fondre,acl,VERB,0.5232203602790833,[],,
+appareil,four,nmod,NOUN,0.6531080007553101,"[{""id"": 10575281, ""node1"": 106265, ""node2"": 9190, ""type"": 0, ""w"": 59.0}, {""id"": 9622435, ""node1"": 106265, ""node2"": 9190, ""type"": 8, ""w"": 21.0}]",r_associated,59.0
+four,couteau,nmod,NOUN,0.6828393340110779,[],,
+appareil,aluminium,nmod,NOUN,0.483972430229187,[],,
+aluminium,plat,nmod,ADJ,0.6240705251693726,[],,
+four,200,nmod,NUM,0.5053980350494385,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+sortir,fromage,obj,NOUN,0.6129188537597656,[],,
+fromage,boîte,nmod,NOUN,0.5762354731559753,"[{""id"": 796911178, ""node1"": 141687, ""node2"": 7575, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+retirer,papier,obj,NOUN,0.4924801290035248,[],,
+papier,fond,nmod,NOUN,0.5033518671989441,[],,
+boîte,bois,nmod,NOUN,0.539854109287262,"[{""id"": 224806, ""node1"": 7575, ""node2"": 96256, ""type"": 0, ""w"": 53.0}, {""id"": 31301301, ""node1"": 7575, ""node2"": 96256, ""type"": 3, ""w"": 32.0}, {""id"": 167830, ""node1"": 7575, ""node2"": 96256, ""type"": 9, ""w"": 60.0}, {""id"": 97318682, ""node1"": 7575, ""node2"": 96256, ""type"": 50, ""w"": 16.0}]",r_has_part,60.0
+culotte,papier,nmod,NOUN,0.5068776607513428,[],,
+papier,alu,amod,ADJ,0.4648590087890625,[],,
+papier,autour,nmod,ADV,0.4895452558994293,[],,
+papier,boîte,nmod,NOUN,0.4761360287666321,"[{""id"": 914318770, ""node1"": 103389, ""node2"": 7575, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+culotte,éviter,acl,VERB,0.4493211209774017,[],,
+faire,trou,obj,NOUN,0.4763500690460205,[],,
+trou,fromage,nmod,NOUN,0.5320603847503662,"[{""id"": 98477821, ""node1"": 115865, ""node2"": 141687, ""type"": 0, ""w"": 23.0}, {""id"": 2170865, ""node1"": 115865, ""node2"": 141687, ""type"": 3, ""w"": -1.0}, {""id"": 97416943, ""node1"": 115865, ""node2"": 141687, ""type"": 10, ""w"": 41.0}]",r_holo,41.0
+couper,gousse,obj,NOUN,0.5158411860466003,[],,
+gousse,ail,nmod,NOUN,0.5501744151115417,"[{""id"": 1841967, ""node1"": 3889, ""node2"": 26979, ""type"": 0, ""w"": 58.0}, {""id"": 665112731, ""node1"": 3889, ""node2"": 26979, ""type"": 174, ""w"": 40.0}, {""id"": 714921743, ""node1"": 3889, ""node2"": 26979, ""type"": 666, ""w"": 3.0}]",r_associated,58.0
+arroser,fromage,obj,NOUN,0.6551343202590942,[],,
+aller,cela,nsubj,PRON,0.4088405668735504,[],,
+servir,plat,nsubj,NOUN,0.6300330758094788,"[{""id"": 1610963, ""node1"": 7888, ""node2"": 36327, ""type"": 0, ""w"": 123.0}, {""id"": 97862196, ""node1"": 7888, ""node2"": 36327, ""type"": 14, ""w"": 100.0}, {""id"": 134589, ""node1"": 7888, ""node2"": 36327, ""type"": 16, ""w"": 110.0}, {""id"": 376065693, ""node1"": 7888, ""node2"": 36327, ""type"": 31, ""w"": 26.0}, {""id"": 466842766, ""node1"": 7888, ""node2"": 36327, ""type"": 666, ""w"": 3.0}]",r_associated,123.0
+cuillère,pomme,nmod,NOUN,0.6174559593200684,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,robe,nmod,NOUN,0.5304929614067078,[],,
+robe,champ,nmod,NOUN,0.4469524621963501,[],,
+champ,couper,acl,VERB,0.4525892436504364,[],,
+salade,vert,amod,ADJ,0.6158227920532227,"[{""id"": 558712508, ""node1"": 118908, ""node2"": 26976, ""type"": 0, ""w"": 30.0}, {""id"": 3200451, ""node1"": 118908, ""node2"": 26976, ""type"": 17, ""w"": 30.0}, {""id"": 3160509, ""node1"": 118908, ""node2"": 26976, ""type"": 106, ""w"": 18.0}, {""id"": 1813836, ""node1"": 118908, ""node2"": 26976, ""type"": 666, ""w"": 4.0}]",r_carac,30.0

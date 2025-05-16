@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,poulet,nmod,NOUN,0.5709884762763977,[],,
+poulet,bière,nmod,NOUN,0.6531192064285278,[],,
+bière,facile,amod,ADJ,0.5470793843269348,[],,
+ingrédient,beurre,appos,NOUN,0.7321043014526367,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]",r_associated,69.0
+beurre,fond,nmod,NOUN,0.6420056819915771,[],,
+fond,veau,nmod,NOUN,0.573129415512085,"[{""id"": 98303715, ""node1"": 119272, ""node2"": 91311, ""type"": 0, ""w"": 27.0}, {""id"": 98303791, ""node1"": 119272, ""node2"": 91311, ""type"": 9, ""w"": 30.0}]",r_has_part,30.0
+beurre,blanc,obj,NOUN,0.6481732726097107,"[{""id"": 208767, ""node1"": 140377, ""node2"": 15196, ""type"": 17, ""w"": 167.0}, {""id"": 3163442, ""node1"": 140377, ""node2"": 15196, ""type"": 106, ""w"": 14.0}, {""id"": 2040375, ""node1"": 140377, ""node2"": 15196, ""type"": 666, ""w"": 1.0}]",r_carac,167.0
+blanc,poulet,nmod,NOUN,0.6177458167076111,"[{""id"": 9356626, ""node1"": 15196, ""node2"": 146261, ""type"": 0, ""w"": 50.0}, {""id"": 97329786, ""node1"": 15196, ""node2"": 146261, ""type"": 10, ""w"": 29.0}, {""id"": 1933499, ""node1"": 15196, ""node2"": 146261, ""type"": 35, ""w"": 45.0}, {""id"": 14659361, ""node1"": 15196, ""node2"": 146261, ""type"": 42, ""w"": 29.0}, {""id"": 1663131, ""node1"": 15196, ""node2"": 146261, ""type"": 666, ""w"": 1.0}]",r_associated,50.0
+beurre,bière,obj,NOUN,0.6932721734046936,[],,
+beurre,blond,amod,ADJ,0.5923490524291992,[],,
+beurre,crème,obj,NOUN,0.6757769584655762,"[{""id"": 273196, ""node1"": 140377, ""node2"": 44001, ""type"": 0, ""w"": 140.0}, {""id"": 189715, ""node1"": 140377, ""node2"": 44001, ""type"": 9, ""w"": 51.0}, {""id"": 377014572, ""node1"": 140377, ""node2"": 44001, ""type"": 20, ""w"": 29.0}, {""id"": 651239431, ""node1"": 140377, ""node2"": 44001, ""type"": 666, ""w"": 5.0}]",r_associated,140.0
+crème,liquide,amod,ADJ,0.6173139810562134,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]",r_carac,52.0
+crème,champignon,nmod,NOUN,0.6407762169837952,[],,
+champignon,eau,appos,NOUN,0.5842656493186951,[],,
+ingrédient,pinceau,nmod,NOUN,0.536277711391449,[],,
+casserole,couvercle,obj,NOUN,0.6508210897445679,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]",r_has_part,100.0
+couvercle,balance,nmod,NOUN,0.5437039136886597,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+pinceau,étape,nmod,NOUN,0.4064047634601593,[],,
+pinceau,revenir,acl,VERB,0.4799833297729492,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+beurre,fondre,acl,VERB,0.643409252166748,"[{""id"": 652231036, ""node1"": 140377, ""node2"": 16480, ""type"": 0, ""w"": 21.0}, {""id"": 24771033, ""node1"": 140377, ""node2"": 16480, ""type"": 24, ""w"": 137.0}, {""id"": 1886772, ""node1"": 140377, ""node2"": 16480, ""type"": 26, ""w"": 33.0}]",r_agent-1,137.0
+ajouter,poulet,obj,NOUN,0.6573215126991272,[],,
+feu,vif,amod,ADJ,0.5094798803329468,"[{""id"": 418102926, ""node1"": 143703, ""node2"": 80204, ""type"": 0, ""w"": 13.0}, {""id"": 221184, ""node1"": 143703, ""node2"": 80204, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
+dorer,remuer,advcl,VERB,0.5522658824920654,[],,
+coup,casserole,nmod,NOUN,0.4943795800209045,[],,
+ajouter,sel,obj,NOUN,0.6747812032699585,"[{""id"": 914306223, ""node1"": 25099, ""node2"": 13260, ""type"": 0, ""w"": 20.0}, {""id"": 220261, ""node1"": 25099, ""node2"": 13260, ""type"": 14, ""w"": 70.0}]",r_patient,70.0
+ajouter,poivre,amod,NOUN,0.6484997868537903,"[{""id"": 243200, ""node1"": 25099, ""node2"": 139597, ""type"": 14, ""w"": 60.0}]",r_patient,60.0
+laisser,mijoter,obj,VERB,0.5789923667907715,[],,
+mijoter,couvercle,nmod,NOUN,0.6798115968704224,[],,
+mijoter,minute,obj,NOUN,0.6123385429382324,[],,
+vérifier,cuisson,obj,NOUN,0.6534045934677124,"[{""id"": 31862099, ""node1"": 76431, ""node2"": 60056, ""type"": 14, ""w"": 64.0}]",r_patient,64.0
+cuisson,poulet,nmod,NOUN,0.781815767288208,[],,
+ajouter,cuire,advcl,VERB,0.695756196975708,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+goûter,assaisonnement,nmod,NOUN,0.6520905494689941,[],,

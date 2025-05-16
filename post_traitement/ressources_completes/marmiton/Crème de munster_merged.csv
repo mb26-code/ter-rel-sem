@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+crème,ingrédient,nmod,NOUN,0.6610228419303894,"[{""id"": 24850723, ""node1"": 44001, ""node2"": 123418, ""type"": 0, ""w"": 30.0}, {""id"": 24842105, ""node1"": 44001, ""node2"": 123418, ""type"": 6, ""w"": 143.0}]",r_isa,143.0
+crème,farine,nsubj,NOUN,0.693698525428772,"[{""id"": 601796011, ""node1"": 44001, ""node2"": 127629, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+farine,beurre,acl,NOUN,0.7180377840995789,"[{""id"": 423997331, ""node1"": 127629, ""node2"": 140377, ""type"": 0, ""w"": 3.0}]",r_associated,3.0
+crème,marc,amod,PROPN,0.5220628976821899,[],,
+crème,casserole,nmod,NOUN,0.6707737445831299,[],,
+casserole,Spatule,nmod,PROPN,0.4747828841209411,[],,
+mixeur,bol,nmod,NOUN,0.5581084489822388,"[{""id"": 539977939, ""node1"": 78314, ""node2"": 145405, ""type"": 58, ""w"": -25.0}]",r_quantificateur,-25.0
+bol,balance,nmod,NOUN,0.5318400859832764,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+chauffer,crème,obj,NOUN,0.6699466705322266,[],,
+crème,incorporer,acl,VERB,0.6097753047943115,[],,
+tranche,fin,amod,ADJ,0.4211523532867431,[],,
+croûte,tranche,nmod,NOUN,0.5566612482070923,[],,
+incorporer,fondre,advcl,VERB,0.4862461686134338,"[{""id"": 54842341, ""node1"": 3845, ""node2"": 16480, ""type"": 0, ""w"": 31.0}, {""id"": 54439655, ""node1"": 3845, ""node2"": 16480, ""type"": 5, ""w"": 90.0}]",r_syn,90.0
+fois,fromage,amod,NOUN,0.5650792717933655,[],,
+fromage,fondre,acl,VERB,0.6491246819496155,"[{""id"": 799248818, ""node1"": 141687, ""node2"": 16480, ""type"": 0, ""w"": 26.0}, {""id"": 24806795, ""node1"": 141687, ""node2"": 16480, ""type"": 24, ""w"": 47.0}]",r_agent-1,47.0
+mixer,lisser,advcl,VERB,0.4966961741447449,[],,
+lisser,préparation,obj,NOUN,0.4714165925979614,"[{""id"": 72786303, ""node1"": 125101, ""node2"": 33634, ""type"": 0, ""w"": 52.0}, {""id"": 98304691, ""node1"": 125101, ""node2"": 33634, ""type"": 14, ""w"": 31.0}]",r_associated,52.0
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+ajouter,farine,obj,NOUN,0.6640971302986145,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ajouter,beurre,obj,NOUN,0.658586859703064,"[{""id"": 373014956, ""node1"": 25099, ""node2"": 140377, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+beurre,manier,acl,VERB,0.5994385480880737,"[{""id"": 797004451, ""node1"": 140377, ""node2"": 72867, ""type"": 0, ""w"": 24.0}]",r_associated,24.0

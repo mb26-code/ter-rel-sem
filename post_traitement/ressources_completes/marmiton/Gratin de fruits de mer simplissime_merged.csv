@@ -1,0 +1,43 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,gratin,nmod,NOUN,0.4893978536128998,[],,
+gratin,fruit,nmod,NOUN,0.5871053338050842,"[{""id"": 606766294, ""node1"": 12942, ""node2"": 87286, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+fruit,mer,nmod,NOUN,0.493258386850357,[],,
+gratin,ingrédient,nmod,NOUN,0.6309539079666138,[],,
+gratin,sel,appos,NOUN,0.7350955009460449,[],,
+sel,poivre,acl,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,beurre,appos,NOUN,0.71866774559021,"[{""id"": 584573840, ""node1"": 139597, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+gratin,eau,appos,NOUN,0.636329174041748,[],,
+eau,crème,amod,NOUN,0.6397729516029358,"[{""id"": 561287034, ""node1"": 65012, ""node2"": 44001, ""type"": 0, ""w"": 45.0}]",r_associated,45.0
+crème,liquide,amod,ADJ,0.6173139810562134,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]",r_carac,52.0
+gratin,Plat,nmod,PROPN,0.4779236614704132,"[{""id"": 606766250, ""node1"": 12942, ""node2"": 415256, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+gratin,gratin,nmod,NOUN,0.4922143518924713,"[{""id"": 306276, ""node1"": 12942, ""node2"": 12942, ""type"": 19, ""w"": 55.0}]",r_lemma,55.0
+gratin,saladier,nmod,NOUN,0.612115204334259,[],,
+gratin,casserole,nmod,NOUN,0.6515781879425049,[],,
+casserole,four,nmod,NOUN,0.7147663235664368,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+gratin,étape,nmod,NOUN,0.5125875473022461,[],,
+chauffer,eau,obj,NOUN,0.593856930732727,"[{""id"": 548529671, ""node1"": 90994, ""node2"": 65012, ""type"": 0, ""w"": 29.0}, {""id"": 426777342, ""node1"": 90994, ""node2"": 65012, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+commencer,mélange,nsubj,NOUN,0.5514114499092102,[],,
+ajouter,sachet,obj,NOUN,0.5306626558303833,[],,
+sachet,fruit,nmod,NOUN,0.5506676435470581,[],,
+fruit,conserver,acl,VERB,0.4925887286663055,"[{""id"": 1045718975, ""node1"": 87286, ""node2"": 42089, ""type"": 24, ""w"": 93.0}, {""id"": 121784317, ""node1"": 87286, ""node2"": 42089, ""type"": 26, ""w"": 31.0}]",r_agent-1,93.0
+conserver,jus,obj,NOUN,0.5655150413513184,"[{""id"": 519932527, ""node1"": 42089, ""node2"": 53310, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+jus,cuisson,nmod,NOUN,0.6731067299842834,[],,
+ajouter,mettre,advcl,VERB,0.4179443120956421,"[{""id"": 753802, ""node1"": 25099, ""node2"": 132366, ""type"": 0, ""w"": 22.0}, {""id"": 432805150, ""node1"": 25099, ""node2"": 132366, ""type"": 5, ""w"": 34.0}]",r_syn,34.0
+casserole,beurre,amod,NOUN,0.732474684715271,"[{""id"": 561074636, ""node1"": 57253, ""node2"": 140377, ""type"": 0, ""w"": 32.0}, {""id"": 98347800, ""node1"": 57253, ""node2"": 140377, ""type"": 28, ""w"": 11.0}]",r_associated,32.0
+ajouter,farine,obj,NOUN,0.6640971302986145,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ajouter,jus,obj,NOUN,0.5800648331642151,[],,
+cuisson,fruit,nmod,NOUN,0.6939542293548584,[],,
+obtenir,mélange,obj,NOUN,0.4783641993999481,[],,
+mélange,épais,amod,ADJ,0.5038201808929443,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+plat,gratin,nmod,NOUN,0.6157448291778564,"[{""id"": 415003453, ""node1"": 36327, ""node2"": 12942, ""type"": 0, ""w"": 28.0}, {""id"": 246264043, ""node1"": 36327, ""node2"": 12942, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+déposer,fruit,obj,NOUN,0.5090960264205933,[],,
+tranche,petit,amod,ADJ,0.5192389488220215,[],,
+tranche,fin,amod,ADJ,0.4211523532867431,[],,
+verser,sauce,obj,NOUN,0.6628547310829163,"[{""id"": 478293932, ""node1"": 104506, ""node2"": 141110, ""type"": 0, ""w"": 28.0}, {""id"": 478293931, ""node1"": 104506, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+sauce,dessus,flat:name,ADV,0.6883375644683838,[],,
+mettre,degré,obj,NOUN,0.4046871662139892,[],,
+devoir,dessus,nsubj,NOUN,0.4116673469543457,[],,

@@ -1,0 +1,41 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,soupe,nmod,NOUN,0.601783037185669,[],,
+soupe,thaïlandais,amod,ADJ,0.6469683051109314,[],,
+ingrédient,coriandre,appos,NOUN,0.6872987747192383,[],,
+coriandre,piment,nmod,NOUN,0.639997124671936,"[{""id"": 922162957, ""node1"": 61977, ""node2"": 128791, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+piment,eau,nmod,NOUN,0.6520392894744873,"[{""id"": 673287660, ""node1"": 128791, ""node2"": 65012, ""type"": 0, ""w"": 25.0}]",r_associated,25.0
+eau,bouillon,nmod,NOUN,0.6091527938842773,"[{""id"": 32079803, ""node1"": 65012, ""node2"": 146582, ""type"": 0, ""w"": 26.0}, {""id"": 32063699, ""node1"": 65012, ""node2"": 146582, ""type"": 10, ""w"": 26.0}, {""id"": 600063504, ""node1"": 65012, ""node2"": 146582, ""type"": 27, ""w"": 26.0}]",r_holo,26.0
+bouillon,bouillon,nmod,NOUN,0.5927756428718567,"[{""id"": 284931, ""node1"": 146582, ""node2"": 146582, ""type"": 19, ""w"": 51.0}]",r_lemma,51.0
+bouillon,crevette,nmod,NOUN,0.6830839514732361,[],,
+eau,champignon,nmod,NOUN,0.5842656493186951,[],,
+eau,tomate,nmod,NOUN,0.6414415240287781,[],,
+poisson,lime,acl,NOUN,0.5597177147865295,[],,
+eau,louche,appos,NOUN,0.5861531496047974,"[{""id"": 104957473, ""node1"": 65012, ""node2"": 124144, ""type"": 15, ""w"": 6.0}]",r_lieu,6.0
+louche,mixeur,nmod,NOUN,0.5896725058555603,[],,
+mixeur,plonger,acl,VERB,0.5584041476249695,[],,
+mixeur,chauffer,acl,VERB,0.6226776838302612,[],,
+eau,couteau,nmod,NOUN,0.6052229404449463,"[{""id"": 104939775, ""node1"": 65012, ""node2"": 32610, ""type"": 28, ""w"": 3.0}]",r_lieu-1,3.0
+eau,casserole,nmod,NOUN,0.6077002882957458,"[{""id"": 22760165, ""node1"": 65012, ""node2"": 57253, ""type"": 15, ""w"": 26.0}]",r_lieu,26.0
+casserole,bol,nmod,NOUN,0.5670263171195984,[],,
+piment,étape,nmod,NOUN,0.5830727219581604,[],,
+piment,préparer,acl,VERB,0.6607787013053894,"[{""id"": 673222275, ""node1"": 128791, ""node2"": 36246, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+préparer,ingrédient,obj,NOUN,0.6240276098251343,[],,
+ingrédient,temps,nmod,NOUN,0.5574309825897217,[],,
+ingrédient,faire,acl,VERB,0.6170313358306885,[],,
+faire,bouillon,obj,NOUN,0.6479167938232422,[],,
+bouillon,ail,nmod,NOUN,0.6112963557243347,"[{""id"": 558647560, ""node1"": 146582, ""node2"": 26979, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+bouillon,champignon,nmod,NOUN,0.665076732635498,"[{""id"": 558647549, ""node1"": 146582, ""node2"": 25484, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+ajouter,zeste,obj,NOUN,0.4997840821743011,[],,
+ajouter,tomate,obj,NOUN,0.6318210363388062,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 30.0}]",r_agent,30.0
+sauce,poisson,nmod,NOUN,0.757826030254364,"[{""id"": 651264131, ""node1"": 141110, ""node2"": 68467, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+ajouter,crevette,obj,NOUN,0.5697072744369507,[],,
+rajouter,dernier,iobj,ADJ,0.4185273945331573,[],,
+rajouter,jus,obj,NOUN,0.5763691663742065,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+jus,vert,amod,ADJ,0.5731567144393921,"[{""id"": 3195893, ""node1"": 53310, ""node2"": 26976, ""type"": 17, ""w"": 30.0}, {""id"": 3182850, ""node1"": 53310, ""node2"": 26976, ""type"": 106, ""w"": 14.0}, {""id"": 1793333, ""node1"": 53310, ""node2"": 26976, ""type"": 666, ""w"": 2.0}]",r_carac,30.0
+rajouter,coriandre,obj,NOUN,0.6124487519264221,[],,
+rajouter,servir,advcl,VERB,0.4839091002941131,[],,

@@ -1,0 +1,21 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+fruit,automne,nmod,NOUN,0.4552051723003387,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,poivre,appos,NOUN,0.7064663171768188,"[{""id"": 24923435, ""node1"": 123418, ""node2"": 139597, ""type"": 0, ""w"": 15.0}, {""id"": 24850733, ""node1"": 123418, ""node2"": 139597, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+titre,sucre,nmod,NOUN,0.6168144345283508,[],,
+sucre,semoule,amod,ADV,0.6967501044273376,"[{""id"": 277256, ""node1"": 139481, ""node2"": 64778, ""type"": 17, ""w"": -94.0}, {""id"": 639101518, ""node1"": 139481, ""node2"": 64778, ""type"": 141, ""w"": 25.0}]",r_carac_nominale,25.0
+sucre,figue,acl,NOUN,0.6641230583190918,[],,
+casserole,saladier,nmod,NOUN,0.6254573464393616,[],,
+saladier,balance,nmod,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+casserole,couper,acl,VERB,0.6099616289138794,"[{""id"": 596711113, ""node1"": 57253, ""node2"": 128828, ""type"": 30, ""w"": -25.0}]",r_lieu_action,-25.0
+fruit,tout,amod,ADJ,0.5248923301696777,[],,
+fruit,éplucher,acl,VERB,0.5136252045631409,"[{""id"": 796703353, ""node1"": 87286, ""node2"": 59879, ""type"": 0, ""w"": 28.0}, {""id"": 1045718982, ""node1"": 87286, ""node2"": 59879, ""type"": 24, ""w"": 92.0}, {""id"": 10744510, ""node1"": 87286, ""node2"": 59879, ""type"": 25, ""w"": 51.0}, {""id"": 15066319, ""node1"": 87286, ""node2"": 59879, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+verser,sucre,obj,NOUN,0.6521592736244202,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+ajouter,fruit,obj,NOUN,0.5211451053619385,[],,
+porter,tout,obj,NOUN,0.4637970626354217,[],,
+tout,ébullition,nmod,NOUN,0.520694375038147,[],,
+ajouter,menthe,obj,NOUN,0.5663367509841919,[],,
+servir,tiède,amod,ADJ,0.5895378589630127,"[{""id"": 373014727, ""node1"": 7888, ""node2"": 13843, ""type"": 34, ""w"": 26.0}]",r_manner,26.0

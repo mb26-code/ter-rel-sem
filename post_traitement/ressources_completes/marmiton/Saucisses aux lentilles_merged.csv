@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,saucisse,nmod,NOUN,0.5347501039505005,[],,
+saucisse,lentille,nmod,NOUN,0.5855918526649475,"[{""id"": 588759273, ""node1"": 77807, ""node2"": 44137, ""type"": 0, ""w"": 41.0}]",r_associated,41.0
+saucisse,ingrédient,nmod,NOUN,0.7062863111495972,"[{""id"": 15370355, ""node1"": 77807, ""node2"": 123418, ""type"": 0, ""w"": 30.0}, {""id"": 506079, ""node1"": 77807, ""node2"": 123418, ""type"": 3, ""w"": 32.0}, {""id"": 601493769, ""node1"": 77807, ""node2"": 123418, ""type"": 6, ""w"": 120.0}]",r_isa,120.0
+lentille,vert,amod,ADJ,0.503134548664093,"[{""id"": 97120543, ""node1"": 44137, ""node2"": 26976, ""type"": 0, ""w"": 34.0}, {""id"": 1969198, ""node1"": 44137, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3159328, ""node1"": 44137, ""node2"": 26976, ""type"": 106, ""w"": 8.0}]",r_associated,34.0
+carotte,saucisse,obj,NOUN,0.6226945519447327,[],,
+carotte,blanc,amod,ADJ,0.6006603240966797,[],,
+bouquet,garni,amod,ADJ,0.4469667077064514,[],,
+titre,four,nmod,NOUN,0.6455731391906738,[],,
+four,fourchette,nmod,NOUN,0.6831614375114441,[],,
+four,étape,nmod,NOUN,0.6555838584899902,[],,
+four,piquer,acl,VERB,0.6828936338424683,[],,
+piquer,saucisse,obj,NOUN,0.589252233505249,[],,
+titre,fourchette,nmod,NOUN,0.4333155751228332,[],,
+litre,eau,nmod,NOUN,0.5440258383750916,"[{""id"": 2458362, ""node1"": 57416, ""node2"": 65012, ""type"": 0, ""w"": 84.0}, {""id"": 15759326, ""node1"": 57416, ""node2"": 65012, ""type"": 28, ""w"": 10.0}, {""id"": 720818422, ""node1"": 57416, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 980526881, ""node1"": 57416, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]",r_associated,84.0
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+litre,bouquet,nmod,NOUN,0.4845192730426788,[],,
+carotte,couper,acl,VERB,0.5670887231826782,"[{""id"": 93434679, ""node1"": 76234, ""node2"": 128828, ""type"": 26, ""w"": 34.0}]",r_patient-1,34.0
+bouquet,rondelle,nmod,NOUN,0.5174199342727661,[],,
+bouillon,gros,amod,ADJ,0.5442451238632202,[],,
+cuire,faire,advcl,VERB,0.6910812258720398,"[{""id"": 12309986, ""node1"": 5115, ""node2"": 87528, ""type"": 0, ""w"": 32.0}, {""id"": 434916501, ""node1"": 5115, ""node2"": 87528, ""type"": 5, ""w"": 51.0}]",r_syn,51.0
+oignon,blanc,amod,ADJ,0.6052383184432983,"[{""id"": 414999234, ""node1"": 123307, ""node2"": 15196, ""type"": 0, ""w"": 29.0}, {""id"": 1780353, ""node1"": 123307, ""node2"": 15196, ""type"": 17, ""w"": 29.0}, {""id"": 3161217, ""node1"": 123307, ""node2"": 15196, ""type"": 106, ""w"": 9.0}, {""id"": 1767140, ""node1"": 123307, ""node2"": 15196, ""type"": 666, ""w"": 3.0}]",r_carac,29.0
+saler,faire,advcl,VERB,0.5950424671173096,[],,
+cuire,tout,obj,NOUN,0.7203893661499023,[],,
+tout,feu,nmod,NOUN,0.5684407353401184,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+retirer,bouquet,obj,NOUN,0.4760725796222687,[],,
+peu,persil,nmod,NOUN,0.5641094446182251,[],,
+persil,haché,acl,ADJ,0.5771787762641907,"[{""id"": 8222864, ""node1"": 135982, ""node2"": 47887, ""type"": 666, ""w"": 1.0}]",r_aki,1.0

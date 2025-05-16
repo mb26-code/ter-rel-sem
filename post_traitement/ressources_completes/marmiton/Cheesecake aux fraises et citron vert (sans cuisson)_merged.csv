@@ -1,0 +1,45 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+fraise,vert,amod,ADJ,0.5244928598403931,"[{""id"": 13017805, ""node1"": 16242, ""node2"": 26976, ""type"": 17, ""w"": 62.0}, {""id"": 12980097, ""node1"": 16242, ""node2"": 26976, ""type"": 106, ""w"": 11.0}]",r_carac,62.0
+fraise,cuisson,nmod,NOUN,0.7324495911598206,[],,
+ingrédient,beurre,appos,NOUN,0.7321043014526367,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]",r_associated,69.0
+ingrédient,fraise,nmod,NOUN,0.6214956045150757,[],,
+fraise,sucre,acl,NOUN,0.6523148417472839,"[{""id"": 195938, ""node1"": 16242, ""node2"": 139481, ""type"": 0, ""w"": 71.0}, {""id"": 1662775, ""node1"": 16242, ""node2"": 139481, ""type"": 666, ""w"": 2.0}]",r_associated,71.0
+sucre,fromage,nmod,NOUN,0.7180400490760803,[],,
+fromage,blanc,amod,ADJ,0.5992328524589539,"[{""id"": 96698067, ""node1"": 141687, ""node2"": 15196, ""type"": 0, ""w"": 34.0}, {""id"": 121011, ""node1"": 141687, ""node2"": 15196, ""type"": 17, ""w"": 155.0}, {""id"": 3163361, ""node1"": 141687, ""node2"": 15196, ""type"": 106, ""w"": 58.0}, {""id"": 12134443, ""node1"": 141687, ""node2"": 15196, ""type"": 666, ""w"": 1.0}]",r_carac,155.0
+blanc,zeste,obj,NOUN,0.5453868508338928,[],,
+zeste,citron,nmod,NOUN,0.5487085580825806,"[{""id"": 615058522, ""node1"": 98173, ""node2"": 15386, ""type"": 0, ""w"": 22.0}, {""id"": 9991099, ""node1"": 98173, ""node2"": 15386, ""type"": 10, ""w"": 4.0}, {""id"": 377014851, ""node1"": 98173, ""node2"": 15386, ""type"": 20, ""w"": 34.0}, {""id"": 986046177, ""node1"": 98173, ""node2"": 15386, ""type"": 666, ""w"": 2.0}]",r_has_magn,34.0
+sucre,jus,nmod,NOUN,0.6386624574661255,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+citron,gélatine,amod,NOUN,0.6302732825279236,[],,
+jus,feuille,nmod,NOUN,0.5883422493934631,[],,
+ingrédient,micro-onde,appos,NOUN,0.6909865736961365,[],,
+micro-onde,frigo,nmod,NOUN,0.5673696398735046,[],,
+frigo,saladier,nmod,NOUN,0.5944403409957886,[],,
+saladier,balance,nmod,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+ingrédient,étape,nmod,NOUN,0.4697338342666626,[],,
+commencer,recette,obj,NOUN,0.6216686367988586,[],,
+commencer,fondre,advcl,VERB,0.4814386069774627,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+réduire,pistache,obj,NOUN,0.5763608813285828,[],,
+réduire,poudre,nmod,NOUN,0.5584999918937683,"[{""id"": 915249505, ""node1"": 120230, ""node2"": 139470, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+mélanger,tout,obj,NOUN,0.528428852558136,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]",r_patient,110.0
+tout,beurre,nmod,NOUN,0.6646692752838135,[],,
+beurre,fondre,acl,VERB,0.643409252166748,"[{""id"": 652231036, ""node1"": 140377, ""node2"": 16480, ""type"": 0, ""w"": 21.0}, {""id"": 24771033, ""node1"": 140377, ""node2"": 16480, ""type"": 24, ""w"": 137.0}, {""id"": 1886772, ""node1"": 140377, ""node2"": 16480, ""type"": 26, ""w"": 33.0}]",r_agent-1,137.0
+bord,moule,nmod,NOUN,0.4929998815059662,[],,
+moule,charnière,nmod,NOUN,0.4750351011753082,[],,
+eau,minute,nmod,NOUN,0.5597324967384338,[],,
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+Philadelphia,sucre,appos,NOUN,0.6269307136535645,[],,
+zeste,vert,amod,ADJ,0.5172343254089355,[],,
+fondre,gélatine,obj,NOUN,0.5751140713691711,[],,
+incorporer,préparation,obj,NOUN,0.5200691223144531,[],,
+préparation,précédent,amod,ADJ,0.436631441116333,[],,
+moule,réfrigérateur,nmod,NOUN,0.542266309261322,[],,
+verser,mélange,obj,NOUN,0.5440542697906494,[],,
+mélange,fromage,nmod,NOUN,0.6779654622077942,"[{""id"": 1033521334, ""node1"": 14800, ""node2"": 141687, ""type"": 17, ""w"": -5.0}]",r_carac,-5.0
+placer,moule,obj,NOUN,0.5235525369644165,[],,
+couper,fraise,nmod,NOUN,0.5462130904197693,[],,
+fraise,morceau,nmod,NOUN,0.5993856191635132,[],,
+disposer,fraise,obj,NOUN,0.5557398200035095,[],,
+fraise,dessus,nmod,NOUN,0.5424500107765198,[],,

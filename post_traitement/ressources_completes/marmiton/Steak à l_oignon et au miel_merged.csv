@@ -1,0 +1,26 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+miel,ingrédient,nmod,NOUN,0.6318907737731934,"[{""id"": 85917646, ""node1"": 136055, ""node2"": 123418, ""type"": 6, ""w"": 26.0}, {""id"": 661474354, ""node1"": 136055, ""node2"": 123418, ""type"": 666, ""w"": 2.0}]",r_isa,26.0
+miel,oignon,nmod,ADP,0.6559088826179504,[],,
+steak,herbe,nmod,NOUN,0.6091713309288025,[],,
+herbe,Provence,nmod,PROPN,0.4220801889896393,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+pinceau,saladier,nmod,NOUN,0.5370374321937561,[],,
+pinceau,étape,nmod,NOUN,0.4064047634601593,[],,
+verser,huile,obj,NOUN,0.6115446090698242,"[{""id"": 227659, ""node1"": 104506, ""node2"": 141971, ""type"": 14, ""w"": 57.0}, {""id"": 645787360, ""node1"": 104506, ""node2"": 141971, ""type"": 666, ""w"": 2.0}]",r_patient,57.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+arrêter,feu,obj,NOUN,0.5267881155014038,[],,
+poêle,autre,amod,ADJ,0.6494198441505432,[],,
+cuire,viande,obj,NOUN,0.8064185976982117,"[{""id"": 2182411, ""node1"": 5115, ""node2"": 140100, ""type"": 0, ""w"": 73.0}, {""id"": 148035, ""node1"": 5115, ""node2"": 140100, ""type"": 13, ""w"": 100.0}, {""id"": 206249, ""node1"": 5115, ""node2"": 140100, ""type"": 14, ""w"": 100.0}, {""id"": 722712577, ""node1"": 5115, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]",r_agent,100.0
+goût,cuisson,nmod,NOUN,0.7213932871818542,[],,
+reprendre,poêle,obj,NOUN,0.6492595076560974,[],,
+ajouter,miel,obj,NOUN,0.6036369204521179,[],,
+reprendre,faire,advcl,VERB,0.4256412386894226,[],,
+cuire,le,obj,DET,0.4500194191932678,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+reprendre,mélanger,advcl,VERB,0.4725322723388672,[],,
+mélanger,miel,obj,NOUN,0.6314476728439331,[],,
+verser,préparation,obj,NOUN,0.5208573341369629,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparation,viande,nmod,NOUN,0.7364691495895386,"[{""id"": 9903072, ""node1"": 33634, ""node2"": 140100, ""type"": 0, ""w"": 23.0}, {""id"": 422812, ""node1"": 33634, ""node2"": 140100, ""type"": 8, ""w"": 101.0}]",r_hypo,101.0
+préparation,poêle,nmod,NOUN,0.6747783422470093,"[{""id"": 601611414, ""node1"": 33634, ""node2"": 119686, ""type"": 0, ""w"": 16.0}]",r_associated,16.0
+herbe,préparation,nmod,NOUN,0.5015151500701904,[],,
+dégustation,bon,amod,ADJ,0.4751738309860229,"[{""id"": 561348579, ""node1"": 107364, ""node2"": 144229, ""type"": 0, ""w"": 31.0}]",r_associated,31.0

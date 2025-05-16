@@ -1,0 +1,26 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,délice,nmod,NOUN,0.4944075345993042,[],,
+délice,miel,amod,ADJ,0.629010796546936,[],,
+avoine,miel,appos,ADJ,0.6044744253158569,[],,
+miel,farine,amod,NOUN,0.6815508008003235,[],,
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+lait,fouet,nmod,NOUN,0.5997150540351868,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 307.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 267.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,307.0
+cuisine,saladier,nmod,NOUN,0.6925616264343262,"[{""id"": 47300451, ""node1"": 16033, ""node2"": 45455, ""type"": 0, ""w"": 30.0}, {""id"": 47300450, ""node1"": 16033, ""node2"": 45455, ""type"": 27, ""w"": 21.0}]",r_associated,30.0
+saladier,set,nmod,NOUN,0.4222391545772552,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+étape,terrine,nmod,NOUN,0.5292922854423523,[],,
+verser,farine,obj,NOUN,0.6472393274307251,"[{""id"": 25676320, ""node1"": 104506, ""node2"": 127629, ""type"": 14, ""w"": 40.0}]",r_patient,40.0
+ajouter,oeuf,obj,NOUN,0.5327831506729126,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+mélanger,tout,nsubj:pass,NOUN,0.528428852558136,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]",r_patient,110.0
+ajouter,miel,obj,NOUN,0.6036369204521179,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+avoir,galette,obj,NOUN,0.5139647126197815,[],,
+galette,épais,amod,ADJ,0.5561832785606384,[],,
+galette,centimètre,nmod,NOUN,0.5628190040588379,[],,
+cuire,dessous,nsubj,NOUN,0.7076632976531982,[],,
+dessous,celui-ci,nmod,PRON,0.4043106734752655,[],,
+plier,cuire,advcl,VERB,0.6234725117683411,[],,
+cuire,extérieur,nsubj:pass,NOUN,0.7224537134170532,[],,
+cuire,rester,advcl,VERB,0.6661030650138855,[],,
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]",r_carac-1,5.0

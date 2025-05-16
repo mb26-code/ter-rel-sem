@@ -1,0 +1,32 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+Cookies,ingrédient,nmod,NOUN,0.4049802422523498,[],,
+Cookies,levure,nmod,NOUN,0.4779705107212066,[],,
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+liqueur,beurre,nmod,NOUN,0.6948605179786682,[],,
+liqueur,sucre,nmod,NOUN,0.6587448120117188,"[{""id"": 423451177, ""node1"": 66643, ""node2"": 139481, ""type"": 0, ""w"": 26.0}, {""id"": 980975051, ""node1"": 66643, ""node2"": 139481, ""type"": 666, ""w"": 3.0}, {""id"": 3573576, ""node1"": 66643, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]",r_associated,26.0
+sucre,farine,nmod,NOUN,0.699601411819458,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]",r_associated,47.0
+sucre,noix,nmod,NOUN,0.6710987687110901,[],,
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+pâtisserie,cuillère,nmod,NOUN,0.624411404132843,"[{""id"": 922009701, ""node1"": 25966, ""node2"": 51905, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,four,nmod,NOUN,0.7153509855270386,[],,
+four,couteau,nmod,NOUN,0.6828393340110779,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+table,induction,amod,NOUN,0.5181390047073364,[],,
+faire,faire,iobj,AUX,0.4315766096115112,"[{""id"": 301931, ""node1"": 87528, ""node2"": 87528, ""type"": 19, ""w"": 55.0}, {""id"": 1063193, ""node1"": 87528, ""node2"": 87528, ""type"": 39, ""w"": 58.0}, {""id"": 1063194, ""node1"": 87528, ""node2"": 87528, ""type"": 40, ""w"": 56.0}, {""id"": 648859364, ""node1"": 87528, ""node2"": 87528, ""type"": 99, ""w"": 28.0}]",r_verbe-action,58.0
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+mélanger,ingrédient,obj,NOUN,0.6362285614013672,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ingrédient,vrac,nmod,NOUN,0.454711377620697,[],,
+faire,boudin,nmod,NOUN,0.6066665649414062,[],,
+boudin,pâte,nmod,NOUN,0.6703240871429443,[],,
+durcir,nuit,obj,NOUN,0.4344746470451355,[],,
+nuit,frigo,nmod,NOUN,0.5112811923027039,[],,
+four,thermostat,nmod,NOUN,0.6374015808105469,"[{""id"": 391935, ""node1"": 9190, ""node2"": 130331, ""type"": 0, ""w"": 54.0}, {""id"": 115475, ""node1"": 9190, ""node2"": 130331, ""type"": 9, ""w"": 165.0}, {""id"": 1026722506, ""node1"": 9190, ""node2"": 130331, ""type"": 82, ""w"": 30.0}]",r_has_part,165.0
+four,couper,acl,VERB,0.6794336438179016,[],,
+couper,boudin,obj,NOUN,0.577363908290863,[],,
+boudin,rondelle,nmod,NOUN,0.5756306052207947,[],,
+mou,cookie,nsubj,NOUN,0.4147396087646484,[],,
+minute,pouvoir,acl:relcl,VERB,0.4236716032028198,[],,
+détacher,plaque,nmod,NOUN,0.5166172981262207,[],,

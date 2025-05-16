@@ -1,0 +1,24 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+salade,étage,nmod,NOUN,0.5704028010368347,[],,
+étage,ingrédient,nmod,NOUN,0.4528068006038666,[],,
+salade,sucre,nmod,NOUN,0.7840214371681213,"[{""id"": 700656317, ""node1"": 118908, ""node2"": 139481, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+pois,petit,amod,ADJ,0.5441179871559143,"[{""id"": 1743094, ""node1"": 97846, ""node2"": 55222, ""type"": 0, ""w"": 105.0}, {""id"": 1525554, ""node1"": 97846, ""node2"": 55222, ""type"": 666, ""w"": 2.0}]",r_associated,105.0
+salade,pois,nmod,NOUN,0.6190088987350464,[],,
+pois,oignon,acl,NOUN,0.5740501284599304,[],,
+pois,rouge,amod,ADJ,0.5226656198501587,"[{""id"": 3191803, ""node1"": 97846, ""node2"": 86356, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+salade,mayonnaise,nmod,NOUN,0.652815580368042,"[{""id"": 97758212, ""node1"": 118908, ""node2"": 111055, ""type"": 0, ""w"": 16.0}]",r_associated,16.0
+mayonnaise,oeuf,nmod,NOUN,0.5541825294494629,"[{""id"": 651237877, ""node1"": 111055, ""node2"": 116175, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+oeuf,bacon,nmod,NOUN,0.5940601229667664,"[{""id"": 915336573, ""node1"": 116175, ""node2"": 25901, ""type"": 0, ""w"": 41.0}, {""id"": 131036907, ""node1"": 116175, ""node2"": 25901, ""type"": 75, ""w"": 34.0}]",r_associated,41.0
+salade,saladier,nmod,NOUN,0.6674543619155884,"[{""id"": 176886, ""node1"": 118908, ""node2"": 45455, ""type"": 0, ""w"": 64.0}, {""id"": 3200445, ""node1"": 118908, ""node2"": 45455, ""type"": 15, ""w"": 53.0}, {""id"": 648953994, ""node1"": 118908, ""node2"": 45455, ""type"": 99, ""w"": 34.0}, {""id"": 1813879, ""node1"": 118908, ""node2"": 45455, ""type"": 666, ""w"": 1.0}]",r_associated,64.0
+saladier,couvercle,nmod,NOUN,0.6053080558776855,[],,
+couvercle,frigo,nmod,NOUN,0.5806869268417358,[],,
+salade,étape,nmod,NOUN,0.5620172619819641,[],,
+mettre,ingrédient,obj,NOUN,0.5923328399658203,[],,
+ingrédient,couche,nmod,NOUN,0.5831795334815979,[],,
+saladier,transparent,amod,ADJ,0.5388335585594177,[],,
+salade,couvrir,acl,VERB,0.6675278544425964,[],,
+salade,film,nmod,NOUN,0.5722414255142212,[],,
+film,plastique,amod,ADJ,0.4269080460071563,[],,
+réfrigérateur,veille,obj,NOUN,0.4871666729450226,[],,
+réfrigérateur,midi,nmod,NOUN,0.4377211630344391,[],,
+réfrigérateur,soir,nmod,NOUN,0.4504269361495971,[],,

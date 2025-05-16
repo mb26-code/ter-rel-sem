@@ -1,0 +1,32 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,carotte,appos,NOUN,0.6786724925041199,[],,
+ingrédient,thon,nmod,NOUN,0.6298080086708069,"[{""id"": 243484669, ""node1"": 123418, ""node2"": 86754, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+thon,lieu,nmod,NOUN,0.5619537830352783,"[{""id"": 558641763, ""node1"": 86754, ""node2"": 135190, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+lieu,noir,amod,ADJ,0.4406268298625946,"[{""id"": 142345, ""node1"": 135190, ""node2"": 64238, ""type"": 0, ""w"": 89.0}, {""id"": 9641643, ""node1"": 135190, ""node2"": 64238, ""type"": 8, ""w"": 32.0}, {""id"": 229793, ""node1"": 135190, ""node2"": 64238, ""type"": 17, ""w"": 62.0}, {""id"": 3163455, ""node1"": 135190, ""node2"": 64238, ""type"": 106, ""w"": 19.0}]",r_associated,89.0
+crevette,radis,nmod,PROPN,0.5485171675682068,[],,
+ingrédient,couteau,appos,NOUN,0.6389530301094055,[],,
+couteau,économe,appos,NOUN,0.5018488168716431,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]",r_hypo,76.0
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,bol,nmod,NOUN,0.5572551488876343,"[{""id"": 662510559, ""node1"": 51905, ""node2"": 145405, ""type"": 0, ""w"": 23.0}, {""id"": 765213573, ""node1"": 51905, ""node2"": 145405, ""type"": 75, ""w"": 29.0}, {""id"": 1032957252, ""node1"": 51905, ""node2"": 145405, ""type"": 78, ""w"": 27.0}]",r_accomp,29.0
+bol,plat,nmod,ADJ,0.6071146726608276,"[{""id"": 8544458, ""node1"": 145405, ""node2"": 36327, ""type"": 28, ""w"": 46.0}]",r_lieu-1,46.0
+ingrédient,étape,amod,NOUN,0.4697338342666626,[],,
+ingrédient,ôter,acl,NOUN,0.5287919640541077,[],,
+ôter,peau,nmod,NOUN,0.5053906440734863,"[{""id"": 31874381, ""node1"": 17169, ""node2"": 109785, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+peau,poisson,nmod,NOUN,0.5773550271987915,"[{""id"": 9984798, ""node1"": 109785, ""node2"": 68467, ""type"": 10, ""w"": 35.0}]",r_holo,35.0
+couper,morceau,obj,NOUN,0.5354392528533936,"[{""id"": 914859385, ""node1"": 128828, ""node2"": 65364, ""type"": 0, ""w"": 22.0}, {""id"": 8801222, ""node1"": 128828, ""node2"": 65364, ""type"": 14, ""w"": 5.0}, {""id"": 1066576858, ""node1"": 128828, ""node2"": 65364, ""type"": 666, ""w"": 2.0}]",r_associated,22.0
+crevette,gros,amod,ADJ,0.4951153695583343,[],,
+éplucher,crevette,obj,NOUN,0.5716684460639954,"[{""id"": 31848779, ""node1"": 59879, ""node2"": 106607, ""type"": 14, ""w"": 54.0}]",r_patient,54.0
+plat,service,nmod,NOUN,0.5934174060821533,"[{""id"": 465259, ""node1"": 36327, ""node2"": 24247, ""type"": 0, ""w"": 81.0}, {""id"": 1726713, ""node1"": 36327, ""node2"": 24247, ""type"": 5, ""w"": 92.0}]",r_syn,92.0
+radis,noir,amod,ADJ,0.4907235503196716,"[{""id"": 2138436, ""node1"": 123068, ""node2"": 64238, ""type"": 0, ""w"": 108.0}, {""id"": 1788285, ""node1"": 123068, ""node2"": 64238, ""type"": 666, ""w"": 1.0}]",r_associated,108.0
+répartir,mélange,obj,NOUN,0.4992000162601471,[],,
+mélange,plat,nmod,NOUN,0.6584339141845703,[],,
+bol,petit,amod,ADJ,0.5434224009513855,[],,
+préparer,bol,obj,NOUN,0.5508545637130737,"[{""id"": 438786368, ""node1"": 36246, ""node2"": 145405, ""type"": 0, ""w"": 35.0}, {""id"": 438786367, ""node1"": 36246, ""node2"": 145405, ""type"": 31, ""w"": 26.0}]",r_associated,35.0
+mettre,sauce,obj,NOUN,0.6739883422851562,[],,
+noisette,petit,amod,ADJ,0.5944075584411621,[],,
+ajouter,noisette,obj,NOUN,0.574908435344696,[],,
+diluer,attention,appos,NOUN,0.4280172884464264,[],,
+tremper,poisson,obj,NOUN,0.6691949367523193,[],,
+thon,rouge,amod,ADJ,0.5761762857437134,"[{""id"": 401824, ""node1"": 86754, ""node2"": 86356, ""type"": 0, ""w"": 522.0}, {""id"": 98287448, ""node1"": 86754, ""node2"": 86356, ""type"": 17, ""w"": 21.0}, {""id"": 3161830, ""node1"": 86754, ""node2"": 86356, ""type"": 106, ""w"": 4.0}, {""id"": 2164102, ""node1"": 86754, ""node2"": 86356, ""type"": 666, ""w"": 2.0}]",r_associated,522.0

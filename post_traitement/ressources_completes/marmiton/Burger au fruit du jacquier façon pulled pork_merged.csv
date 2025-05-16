@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+Burger,fruit,nmod,NOUN,0.4753429591655731,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,vinaigre,acl,NOUN,0.6862488389015198,[],,
+vinaigre,cidre,nmod,NOUN,0.591953456401825,"[{""id"": 98947289, ""node1"": 145443, ""node2"": 75142, ""type"": 0, ""w"": 55.0}, {""id"": 3355909, ""node1"": 145443, ""node2"": 75142, ""type"": 777, ""w"": 10.0}]",r_associated,55.0
+cidre,fromage,nmod,NOUN,0.6092483401298523,[],,
+fromage,blanc,amod,ADJ,0.5992328524589539,"[{""id"": 96698067, ""node1"": 141687, ""node2"": 15196, ""type"": 0, ""w"": 34.0}, {""id"": 121011, ""node1"": 141687, ""node2"": 15196, ""type"": 17, ""w"": 155.0}, {""id"": 3163361, ""node1"": 141687, ""node2"": 15196, ""type"": 106, ""w"": 58.0}, {""id"": 12134443, ""node1"": 141687, ""node2"": 15196, ""type"": 666, ""w"": 1.0}]",r_carac,155.0
+fruit,pain,nmod,NOUN,0.629976749420166,[],,
+saladier,barbecue,nmod,NOUN,0.6680120229721069,[],,
+chou,rouge,amod,ADJ,0.5560259819030762,"[{""id"": 8814016, ""node1"": 67203, ""node2"": 86356, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+Laver,salade,obj,NOUN,0.4803152978420257,[],,
+couper,pain,obj,NOUN,0.6540286540985107,"[{""id"": 365440568, ""node1"": 128828, ""node2"": 61283, ""type"": 0, ""w"": 31.0}, {""id"": 31770882, ""node1"": 128828, ""node2"": 61283, ""type"": 14, ""w"": 100.0}, {""id"": 376198958, ""node1"": 128828, ""node2"": 61283, ""type"": 16, ""w"": 29.0}, {""id"": 376067866, ""node1"": 128828, ""node2"": 61283, ""type"": 31, ""w"": 28.0}]",r_patient,100.0
+pain,burger,acl,VERB,0.6463713645935059,"[{""id"": 28540722, ""node1"": 61283, ""node2"": 138357, ""type"": 0, ""w"": 24.0}, {""id"": 28517502, ""node1"": 61283, ""node2"": 138357, ""type"": 10, ""w"": 31.0}]",r_holo,31.0
+préparer,fruit,obj,NOUN,0.531898021697998,"[{""id"": 1047029605, ""node1"": 36246, ""node2"": 87286, ""type"": 13, ""w"": 30.0}, {""id"": 122111142, ""node1"": 36246, ""node2"": 87286, ""type"": 14, ""w"": 30.0}]",r_agent,30.0
+fois,égoutter,amod,ADV,0.4700702428817749,[],,
+épice,saladier,nmod,NOUN,0.7181078195571899,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+poêle,chaud,amod,ADJ,0.6645733714103699,"[{""id"": 278998504, ""node1"": 119686, ""node2"": 19150, ""type"": 0, ""w"": 26.0}, {""id"": 3078839, ""node1"": 119686, ""node2"": 19150, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+baisser,feu,obj,NOUN,0.552813708782196,[],,
+ajouter,fruit,obj,NOUN,0.5211451053619385,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+cuire,ajouter,advcl,VERB,0.695756196975708,[],,
+ajouter,sauce,obj,NOUN,0.6714595556259155,[],,
+ajouter,filet,obj,NOUN,0.5471811890602112,[],,
+filet,eau,nmod,NOUN,0.5945509076118469,"[{""id"": 98284539, ""node1"": 42188, ""node2"": 65012, ""type"": 0, ""w"": 31.0}, {""id"": 418498460, ""node1"": 42188, ""node2"": 65012, ""type"": 3, ""w"": 35.0}, {""id"": 3113857, ""node1"": 42188, ""node2"": 65012, ""type"": 15, ""w"": 53.0}]",r_lieu,53.0
+laisser,vingtaine,obj,NOUN,0.4009540975093841,[],,
+partie,pain,nmod,NOUN,0.6649089455604553,[],,
+mélanger,chou,obj,NOUN,0.6126765608787537,[],,
+chou,fromage,nmod,NOUN,0.6179493069648743,[],,
+monter,burger,obj,NOUN,0.542360782623291,[],,
+disposer,fruit,obj,NOUN,0.4985760450363159,[],,
+disposer,salade,obj,NOUN,0.6496737003326416,[],,
+refermer,burger,obj,NOUN,0.5123445987701416,[],,
+refermer,déguster,advcl,VERB,0.4756008982658386,[],,

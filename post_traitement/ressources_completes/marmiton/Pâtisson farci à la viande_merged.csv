@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+viande,ingrédient,nmod,NOUN,0.7726908326148987,"[{""id"": 29383223, ""node1"": 140100, ""node2"": 123418, ""type"": 0, ""w"": 55.0}, {""id"": 24842507, ""node1"": 140100, ""node2"": 123418, ""type"": 6, ""w"": 42.0}]",r_associated,55.0
+viande,gruyère,nmod,NOUN,0.7117958664894104,[],,
+tomate,poivre,appos,NOUN,0.6968331336975098,"[{""id"": 421761048, ""node1"": 22138, ""node2"": 139597, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,oignon,nmod,ADP,0.705348014831543,[],,
+viande,boeuf,nmod,NOUN,0.6566208004951477,"[{""id"": 82328, ""node1"": 140100, ""node2"": 47417, ""type"": 0, ""w"": 704.0}, {""id"": 611172240, ""node1"": 140100, ""node2"": 47417, ""type"": 6, ""w"": -5.0}, {""id"": 159580, ""node1"": 140100, ""node2"": 47417, ""type"": 8, ""w"": 193.0}, {""id"": 390247, ""node1"": 140100, ""node2"": 47417, ""type"": 10, ""w"": 70.0}, {""id"": 420878, ""node1"": 140100, ""node2"": 47417, ""type"": 20, ""w"": 55.0}, {""id"": 98385755, ""node1"": 140100, ""node2"": 47417, ""type"": 27, ""w"": 24.0}, {""id"": 2354577, ""node1"": 140100, ""node2"": 47417, ""type"": 42, ""w"": 81.0}, {""id"": 1762357, ""node1"": 140100, ""node2"": 47417, ""type"": 666, ""w"": 3.0}]",r_associated,704.0
+minute,saladier,nmod,NOUN,0.5740882158279419,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+étape,cuire,acl,VERB,0.6723977327346802,[],,
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+oignon,fin,amod,NOUN,0.5517643094062805,[],,
+moitié,matière,nmod,NOUN,0.4691914618015289,[],,
+matière,gras,amod,ADJ,0.5428515672683716,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+ajouter,viande,obj,NOUN,0.7162638902664185,[],,
+viande,haché,amod,ADJ,0.6638813018798828,[],,
+mélanger,éviter,advcl,VERB,0.4410018622875213,[],,
+morceau,gros,amod,ADJ,0.4822109341621399,[],,
+avoir,morceau,obj,NOUN,0.4641084671020508,[],,
+morceau,boeuf,nmod,NOUN,0.615619957447052,[],,
+ajouter,sauce,obj,NOUN,0.6714595556259155,[],,
+sauce,tomate,amod,NOUN,0.7022931575775146,"[{""id"": 2221325, ""node1"": 141110, ""node2"": 22138, ""type"": 0, ""w"": 74.0}, {""id"": 10528848, ""node1"": 141110, ""node2"": 22138, ""type"": 9, ""w"": 26.0}, {""id"": 11333947, ""node1"": 141110, ""node2"": 22138, ""type"": 28, ""w"": 38.0}, {""id"": 96715050, ""node1"": 141110, ""node2"": 22138, ""type"": 50, ""w"": 16.0}, {""id"": 651031294, ""node1"": 141110, ""node2"": 22138, ""type"": 666, ""w"": 4.0}]",r_associated,74.0
+revenir,tout,obj,NOUN,0.4829182922840118,[],,
+tout,feu,nmod,NOUN,0.5684407353401184,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+obtention,préparation,nmod,NOUN,0.4172218441963196,[],,
+préparation,homogène,amod,ADJ,0.4661692380905151,[],,
+four,grill,nmod,NOUN,0.6512710452079773,"[{""id"": 9985102, ""node1"": 9190, ""node2"": 80591, ""type"": 0, ""w"": 12.0}, {""id"": 397277, ""node1"": 9190, ""node2"": 80591, ""type"": 9, ""w"": 90.0}]",r_has_part,90.0

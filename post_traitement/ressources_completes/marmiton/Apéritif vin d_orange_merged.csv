@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+apéritif,vin,amod,NOUN,0.6005839109420776,"[{""id"": 384515, ""node1"": 135068, ""node2"": 35798, ""type"": 0, ""w"": 98.0}, {""id"": 10528076, ""node1"": 135068, ""node2"": 35798, ""type"": 9, ""w"": 34.0}, {""id"": 992226000, ""node1"": 135068, ""node2"": 35798, ""type"": 666, ""w"": 3.0}]",r_associated,98.0
+vin,orange,nmod,NOUN,0.615390419960022,[],,
+orange,ingrédient,nmod,NOUN,0.5929214358329773,"[{""id"": 569052591, ""node1"": 145382, ""node2"": 123418, ""type"": 6, ""w"": 29.0}]",r_isa,29.0
+apéritif,clou,nmod,NOUN,0.4872171580791473,[],,
+clou,girofle,nmod,ADP,0.433244377374649,"[{""id"": 9902807, ""node1"": 11651, ""node2"": 43873, ""type"": 0, ""w"": 55.0}, {""id"": 413873, ""node1"": 11651, ""node2"": 43873, ""type"": 8, ""w"": 111.0}]",r_hypo,111.0
+clou,orange,amod,PROPN,0.475679337978363,[],,
+clou,sucre,appos,NOUN,0.5853173136711121,[],,
+sucre,vin,nmod,NOUN,0.6707944273948669,[],,
+sucre,citron,nmod,NOUN,0.6693125367164612,"[{""id"": 292123774, ""node1"": 139481, ""node2"": 15386, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+couvercle,cuillère,nmod,NOUN,0.6151049137115479,[],,
+cuillère,bois,nmod,NOUN,0.5890449285507202,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,couteau,nmod,NOUN,0.5709232091903687,"[{""id"": 139564, ""node1"": 51905, ""node2"": 32610, ""type"": 0, ""w"": 212.0}, {""id"": 87319445, ""node1"": 51905, ""node2"": 32610, ""type"": 666, ""w"": 1.0}]",r_associated,212.0
+couteau,balance,nmod,NOUN,0.5329304337501526,[],,
+balance,cuisine,nmod,NOUN,0.6009083986282349,[],,
+balance,étape,nmod,NOUN,0.4731250703334808,[],,
+couper,fruit,obj,NOUN,0.5441493391990662,"[{""id"": 1047029628, ""node1"": 128828, ""node2"": 87286, ""type"": 13, ""w"": 30.0}, {""id"": 376194376, ""node1"": 128828, ""node2"": 87286, ""type"": 16, ""w"": 30.0}]",r_instr,30.0
+fruit,quatre,nmod,NUM,0.458705723285675,[],,
+planter,clou,obj,NOUN,0.4173869788646698,"[{""id"": 193860190, ""node1"": 4993, ""node2"": 11651, ""type"": 0, ""w"": 76.0}, {""id"": 193845304, ""node1"": 4993, ""node2"": 11651, ""type"": 14, ""w"": 100.0}, {""id"": 376192325, ""node1"": 4993, ""node2"": 11651, ""type"": 16, ""w"": 26.0}]",r_patient,100.0
+pot,grand,amod,ADJ,0.5074377655982971,"[{""id"": 247109, ""node1"": 142367, ""node2"": 23178, ""type"": 17, ""w"": 56.0}]",r_carac,56.0
+pot,couvercle,nmod,NOUN,0.5106779336929321,"[{""id"": 558853390, ""node1"": 142367, ""node2"": 89523, ""type"": 0, ""w"": 40.0}]",r_associated,40.0
+pot,vin,appos,NOUN,0.6159324049949646,"[{""id"": 941046212, ""node1"": 142367, ""node2"": 35798, ""type"": 0, ""w"": 65.0}]",r_associated,65.0
+remuer,dissoudre,advcl,VERB,0.4751831293106079,[],,
+dissoudre,sucre,obj,NOUN,0.6234087944030762,"[{""id"": 1377943, ""node1"": 90446, ""node2"": 139481, ""type"": 0, ""w"": 32.0}, {""id"": 1053467445, ""node1"": 90446, ""node2"": 139481, ""type"": 666, ""w"": 2.0}]",r_associated,32.0
+ajouter,fruit,obj,NOUN,0.534120500087738,[],,
+plus,muscade,nmod,NOUN,0.517638623714447,[],,
+remuer,fois,obj,NOUN,0.5141237378120422,[],,
+moment,mise,nmod,NOUN,0.4263614118099212,[],,
+mise,bouteille,nmod,NOUN,0.4403437077999115,[],,

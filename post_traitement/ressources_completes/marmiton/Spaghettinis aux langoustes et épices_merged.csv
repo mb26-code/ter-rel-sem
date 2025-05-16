@@ -1,0 +1,22 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+sel,poivre,acl,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+titre,coriandre,nmod,NOUN,0.5300296545028687,[],,
+coriandre,gingembre,nmod,NOUN,0.6166588068008423,[],,
+gingembre,courgette,nmod,NOUN,0.6667488217353821,[],,
+gingembre,queue,nmod,NOUN,0.5699248313903809,[],,
+top,chauffer,acl,VERB,0.4132329821586609,[],,
+titre,cuire,acl,VERB,0.7010467648506165,[],,
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+tailler,carotte,nmod,NOUN,0.5392707586288452,[],,
+carotte,courgette,appos,NOUN,0.6023526191711426,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+vapeur,carotte,nmod,NOUN,0.6235880255699158,[],,
+carotte,couper,acl,VERB,0.5670887231826782,"[{""id"": 93434679, ""node1"": 76234, ""node2"": 128828, ""type"": 26, ""w"": 34.0}]",r_patient-1,34.0
+chauffer,huile,obj,NOUN,0.64256751537323,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+huile,chaud,amod,ADJ,0.6474975347518921,"[{""id"": 669874570, ""node1"": 141971, ""node2"": 19150, ""type"": 0, ""w"": 21.0}, {""id"": 24929996, ""node1"": 141971, ""node2"": 19150, ""type"": 17, ""w"": 76.0}]",r_carac,76.0
+couper,queue,obj,NOUN,0.4982436597347259,[],,
+poêle,chaud,amod,ADJ,0.6645733714103699,"[{""id"": 278998504, ""node1"": 119686, ""node2"": 19150, ""type"": 0, ""w"": 26.0}, {""id"": 3078839, ""node1"": 119686, ""node2"": 19150, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+revenir,ajouter,advcl,VERB,0.4373447000980377,[],,
+ajouter,légume,obj,NOUN,0.6689792275428772,[],,
+revenir,tout,obj,NOUN,0.4829182922840118,[],,

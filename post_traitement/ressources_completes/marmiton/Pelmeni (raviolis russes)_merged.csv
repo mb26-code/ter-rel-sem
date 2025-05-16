@@ -1,0 +1,30 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+casserole,titre,nsubj,NOUN,0.5580013990402222,[],,
+ingrédient,sel,appos,NOUN,0.6997572183609009,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+sel,farine,nmod,NOUN,0.7164311408996582,[],,
+sel,eau,nmod,NOUN,0.6719006896018982,"[{""id"": 413184, ""node1"": 13260, ""node2"": 65012, ""type"": 0, ""w"": 59.0}, {""id"": 224105, ""node1"": 13260, ""node2"": 65012, ""type"": 15, ""w"": 98.0}, {""id"": 652227842, ""node1"": 13260, ""node2"": 65012, ""type"": 666, ""w"": 2.0}]",r_lieu,98.0
+sel,saladier,nmod,NOUN,0.7112836241722107,"[{""id"": 553967566, ""node1"": 13260, ""node2"": 45455, ""type"": 0, ""w"": 35.0}, {""id"": 47035352, ""node1"": 13260, ""node2"": 45455, ""type"": 15, ""w"": 34.0}]",r_lieu,34.0
+casserole,balance,obj,NOUN,0.5916885137557983,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+casserole,pâte,obj,NOUN,0.6972867250442505,[],,
+plan,verser,acl,VERB,0.4750981330871582,[],,
+verser,farine,obj,NOUN,0.6472393274307251,"[{""id"": 25676320, ""node1"": 104506, ""node2"": 127629, ""type"": 14, ""w"": 40.0}]",r_patient,40.0
+casserole,faire,acl,VERB,0.637271523475647,[],,
+pincée,gros,amod,ADJ,0.488480269908905,[],,
+ajouter,pincée,obj,NOUN,0.4863170683383941,[],,
+pincée,sel,nmod,NOUN,0.6588193774223328,"[{""id"": 665112730, ""node1"": 122023, ""node2"": 13260, ""type"": 174, ""w"": 40.0}, {""id"": 990072491, ""node1"": 122023, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]",r_quantificateur-1,40.0
+eau,petit,amod,ADJ,0.5949434638023376,[],,
+eau,ce,nmod,PRON,0.4319391548633575,[],,
+former,boule,obj,NOUN,0.4745096266269684,"[{""id"": 461428458, ""node1"": 66314, ""node2"": 141883, ""type"": 14, ""w"": 41.0}]",r_patient,41.0
+mélanger,farce,obj,NOUN,0.6001878976821899,[],,
+aide,verre,nmod,NOUN,0.5026697516441345,[],,
+cercle,déposer,acl,VERB,0.4395801723003387,[],,
+déposer,peu,obj,ADV,0.4566705226898193,[],,
+coller,bord,obj,NOUN,0.4173021018505096,[],,
+casserole,grand,amod,ADJ,0.5876413583755493,[],,
+casserole,eau,nmod,NOUN,0.6077002882957458,"[{""id"": 96542705, ""node1"": 57253, ""node2"": 65012, ""type"": 0, ""w"": 19.0}, {""id"": 22760525, ""node1"": 57253, ""node2"": 65012, ""type"": 28, ""w"": 34.0}, {""id"": 96542704, ""node1"": 57253, ""node2"": 65012, ""type"": 666, ""w"": 1.0}]",r_lieu-1,34.0
+casserole,minute,nmod,NOUN,0.5735957026481628,[],,
+noisette,beurre,nmod,NOUN,0.6675335168838501,"[{""id"": 120202, ""node1"": 67819, ""node2"": 140377, ""type"": 0, ""w"": 70.0}, {""id"": 775213357, ""node1"": 67819, ""node2"": 140377, ""type"": 174, ""w"": 25.0}]",r_associated,70.0
+cuillère,crème,nmod,NOUN,0.6280089020729065,"[{""id"": 662506915, ""node1"": 51905, ""node2"": 44001, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+crème,frais,amod,ADJ,0.5796430110931396,[],,

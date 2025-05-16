@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+Naturel,ingrédient,nmod,NOUN,0.4309770762920379,[],,
+Naturel,poivre,amod,NOUN,0.5269922614097595,[],,
+poivre,blanc,amod,ADJ,0.6191187500953674,"[{""id"": 3192371, ""node1"": 139597, ""node2"": 15196, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+blanc,homard,obj,NOUN,0.5981693863868713,[],,
+poivre,beurre,acl,NOUN,0.71866774559021,"[{""id"": 584573840, ""node1"": 139597, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+four,top,nmod,NOUN,0.5501777529716492,"[{""id"": 509203905, ""node1"": 9190, ""node2"": 61057, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+top,casserole,nmod,NOUN,0.4402943253517151,[],,
+casserole,balance,obj,NOUN,0.5916885137557983,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,assiette,nmod,NOUN,0.5656145215034485,[],,
+assiette,étape,nmod,NOUN,0.483820229768753,[],,
+grille,four,nmod,NOUN,0.6606125235557556,"[{""id"": 11786989, ""node1"": 563, ""node2"": 9190, ""type"": 0, ""w"": 51.0}, {""id"": 9977203, ""node1"": 563, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 11353886, ""node1"": 563, ""node2"": 9190, ""type"": 15, ""w"": 38.0}]",r_associated,51.0
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+chair,ferme,amod,ADJ,0.4924193322658539,[],,
+fondre,faible,amod,ADJ,0.4943448901176452,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+fondre,sel,obj,NOUN,0.6950792074203491,"[{""id"": 367914571, ""node1"": 16480, ""node2"": 13260, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+homard,four,nmod,NOUN,0.7245636582374573,[],,
+disposer,moitié,obj,NOUN,0.4555573165416717,[],,
+moitié,assiette,nmod,NOUN,0.5657786726951599,[],,
+assiette,service,nmod,NOUN,0.5711503624916077,"[{""id"": 558775187, ""node1"": 62735, ""node2"": 24247, ""type"": 0, ""w"": 38.0}, {""id"": 244811, ""node1"": 62735, ""node2"": 24247, ""type"": 25, ""w"": 70.0}, {""id"": 1873682, ""node1"": 62735, ""node2"": 24247, ""type"": 42, ""w"": 57.0}, {""id"": 775104594, ""node1"": 62735, ""node2"": 24247, ""type"": 139, ""w"": 25.0}, {""id"": 1052363018, ""node1"": 62735, ""node2"": 24247, ""type"": 666, ""w"": 2.0}]",r_instr-1,70.0
+moitié,fondre,acl,VERB,0.5195116996765137,[],,
+poser,accompagnement,obj,NOUN,0.4243149161338806,[],,
+garder,peu,obj,ADV,0.4448802471160888,[],,
+peu,beurre,nmod,NOUN,0.5877829194068909,[],,
+beurre,tiède,amod,ADJ,0.6777368783950806,[],,
+garder,casser,advcl,VERB,0.4271894693374634,[],,

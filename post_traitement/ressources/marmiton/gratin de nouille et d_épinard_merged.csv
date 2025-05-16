@@ -1,0 +1,49 @@
+head,lemma,dep,pos,sim,relation
+titre,gratin,appos,NOUN,0.4893978536128998,[]
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[]
+ingrédient,oignon,appos,NOUN,0.6626235842704773,"[{""id"": 24923430, ""node1"": 123418, ""node2"": 123307, ""type"": 0, ""w"": 15.0}, {""id"": 24850729, ""node1"": 123418, ""node2"": 123307, ""type"": 8, ""w"": 28.0}]"
+oignon,beurre,acl,NOUN,0.702610969543457,[]
+ingrédient,thé,appos,NOUN,0.5980839729309082,[]
+thé,thé,appos,NOUN,0.5194541811943054,"[{""id"": 337522, ""node1"": 143378, ""node2"": 143378, ""type"": 19, ""w"": 53.0}]"
+thé,oeuf,nmod,NOUN,0.6309564113616943,[]
+oeuf,oeuf,nmod,NOUN,0.4745641350746155,"[{""id"": 319594, ""node1"": 116175, ""node2"": 116175, ""type"": 19, ""w"": 59.0}, {""id"": 93902125, ""node1"": 116175, ""node2"": 116175, ""type"": 50, ""w"": 28.0}, {""id"": 376040711, ""node1"": 116175, ""node2"": 116175, ""type"": 51, ""w"": 35.0}]"
+oeuf,parmesan,nmod,NOUN,0.5902929902076721,[]
+titre,Plat,nmod,PROPN,0.4341082274913788,[]
+Plat,gratin,nmod,NOUN,0.4779236614704132,[]
+Plat,four,nmod,NOUN,0.6130218505859375,[]
+four,set,nmod,NOUN,0.553033173084259,[]
+titre,poêle,nmod,NOUN,0.6306821703910828,[]
+titre,casserole,nmod,NOUN,0.5580013990402222,[]
+casserole,couvercle,obj,NOUN,0.6508210897445679,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]"
+couvercle,cuillère,nmod,NOUN,0.6197326183319092,[]
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,saladier,nmod,NOUN,0.6106023788452148,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]"
+saladier,balance,nmod,NOUN,0.5669676065444946,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]"
+poêle,grand,amod,ADJ,0.628409743309021,[]
+fondre,moitié,obj,NOUN,0.5195116996765137,[]
+moitié,beurre,nmod,NOUN,0.6586446166038513,[]
+ajouter,oignon,obj,NOUN,0.585871696472168,[]
+revenir,minute,obj,NOUN,0.4577978253364563,[]
+cuire,minute,obj,NOUN,0.6918482780456543,[]
+cuire,remuer,advcl,VERB,0.6866573691368103,[]
+ajouter,remuer,advcl,VERB,0.4985744059085846,[]
+remuer,oeuf,obj,NOUN,0.5880377888679504,[]
+commencer,oeuf,nsubj,NOUN,0.5275899171829224,[]
+disposer,moitié,obj,NOUN,0.4555573165416717,[]
+moitié,fond,nmod,NOUN,0.4953416585922241,[]
+fond,plat,nmod,NOUN,0.5886687636375427,"[{""id"": 961890508, ""node1"": 119272, ""node2"": 36327, ""type"": 10, ""w"": 25.0}]"
+moitié,gratin,nmod,NOUN,0.5590841174125671,[]
+moitié,fromage,nmod,NOUN,0.6209864020347595,[]
+poêle,petit,amod,ADJ,0.6650837063789368,[]
+fondre,reste,obj,NOUN,0.5144926905632019,[]
+reste,beurre,nmod,NOUN,0.6629992127418518,[]
+reste,feu,nmod,NOUN,0.5608862638473511,"[{""id"": 560959200, ""node1"": 21110, ""node2"": 143703, ""type"": 0, ""w"": 34.0}]"
+feu,doux,amod,ADJ,0.5496628284454346,[]
+ajouter,chapelure,obj,NOUN,0.6182978749275208,[]
+mettre,mélange,obj,NOUN,0.5538657903671265,[]
+aliment,plat,nmod,NOUN,0.6736646294593811,"[{""id"": 132863, ""node1"": 114637, ""node2"": 36327, ""type"": 0, ""w"": 82.0}, {""id"": 135847, ""node1"": 114637, ""node2"": 36327, ""type"": 15, ""w"": 118.0}, {""id"": 402551, ""node1"": 114637, ""node2"": 36327, ""type"": 35, ""w"": 60.0}]"
+aliment,gratin,nmod,NOUN,0.6508960127830505,[]
+four,minute,nmod,NOUN,0.6574273109436035,[]
+doré,chapelure,nsubj,NOUN,0.6038440465927124,[]

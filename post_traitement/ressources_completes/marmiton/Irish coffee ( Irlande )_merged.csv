@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+coffee,ingrédient,nmod,NOUN,0.4381771981716156,[],,
+coffee,sucre,appos,NOUN,0.559651255607605,[],,
+sucre,whisky,nmod,NOUN,0.6534999012947083,[],,
+sucre,café,amod,NOUN,0.6459575891494751,"[{""id"": 101242, ""node1"": 139481, ""node2"": 66324, ""type"": 0, ""w"": 521.0}, {""id"": 589180402, ""node1"": 139481, ""node2"": 66324, ""type"": 9, ""w"": -5.0}, {""id"": 222006, ""node1"": 139481, ""node2"": 66324, ""type"": 10, ""w"": 51.0}, {""id"": 153631, ""node1"": 139481, ""node2"": 66324, ""type"": 15, ""w"": 118.0}, {""id"": 992007292, ""node1"": 139481, ""node2"": 66324, ""type"": 75, ""w"": 33.0}, {""id"": 1763993, ""node1"": 139481, ""node2"": 66324, ""type"": 666, ""w"": 2.0}]",r_associated,521.0
+crème,chantilly,amod,NOUN,0.5629333853721619,"[{""id"": 432348, ""node1"": 44001, ""node2"": 56698, ""type"": 0, ""w"": 59.0}, {""id"": 652229615, ""node1"": 44001, ""node2"": 56698, ""type"": 666, ""w"": 2.0}]",r_associated,59.0
+chantilly,cacao,nmod,NOUN,0.531670331954956,"[{""id"": 1021918342, ""node1"": 56698, ""node2"": 68363, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+cuillère,petit,amod,ADJ,0.5946335196495056,[],,
+saladier,cuillère,appos,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+coffee,astuce,obj,NOUN,0.4089972078800201,[],,
+température,même,amod,ADJ,0.4601578116416931,[],,
+titre,chaud,amod,ADJ,0.4892004132270813,[],,
+astuce,autre,amod,ADJ,0.4464867115020752,[],,
+instrument,astuce,nsubj,NOUN,0.4428164064884186,[],,
+instrument,petit,amod,ADJ,0.478626549243927,[],,
+instrument,simple,amod,ADJ,0.4213730096817016,"[{""id"": 583466616, ""node1"": 6605, ""node2"": 53269, ""type"": 17, ""w"": 30.0}]",r_carac,30.0
+instrument,réaliser,acl,VERB,0.4187268614768982,"[{""id"": 1015325668, ""node1"": 6605, ""node2"": 4528, ""type"": 24, ""w"": 30.0}, {""id"": 376187184, ""node1"": 6605, ""node2"": 4528, ""type"": 25, ""w"": 27.0}]",r_agent-1,30.0
+sacrifier,cuillère,obj,NOUN,0.5503952503204346,[],,
+cuillère,plier,appos,ADJ,0.4915214478969574,[],,
+plier,cuillère,obj,NOUN,0.4915214478969574,[],,
+verre,grand,amod,ADJ,0.5217540860176086,"[{""id"": 1021921339, ""node1"": 144497, ""node2"": 23178, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+verre,pied,nmod,NOUN,0.4950700402259826,"[{""id"": 184155, ""node1"": 144497, ""node2"": 34898, ""type"": 0, ""w"": 53.0}, {""id"": 1602277, ""node1"": 144497, ""node2"": 34898, ""type"": 9, ""w"": 70.0}, {""id"": 1789502, ""node1"": 144497, ""node2"": 34898, ""type"": 666, ""w"": 1.0}]",r_has_part,70.0
+verre,résistant,amod,ADJ,0.4941124022006988,[],,
+sucre,canne,nmod,NOUN,0.6069387793540955,"[{""id"": 107598, ""node1"": 139481, ""node2"": 144267, ""type"": 0, ""w"": 241.0}, {""id"": 160436, ""node1"": 139481, ""node2"": 144267, ""type"": 15, ""w"": 78.0}, {""id"": 1763995, ""node1"": 139481, ""node2"": 144267, ""type"": 666, ""w"": 1.0}]",r_associated,241.0
+sucre,chaud,amod,ADJ,0.6895188689231873,[],,
+utiliser,cuillère,nsubj,NOUN,0.5555021166801453,"[{""id"": 388688, ""node1"": 62611, ""node2"": 51905, ""type"": 16, ""w"": 51.0}]",r_instr,51.0
+surface,mélange,nmod,NOUN,0.5667339563369751,[],,
+falloir,verser,advcl,VERB,0.4161265194416046,[],,
+verser,café,obj,NOUN,0.5743672251701355,"[{""id"": 370794490, ""node1"": 104506, ""node2"": 66324, ""type"": 0, ""w"": 26.0}, {""id"": 370794489, ""node1"": 104506, ""node2"": 66324, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+café,chaud,amod,ADJ,0.5793254375457764,"[{""id"": 136956, ""node1"": 66324, ""node2"": 19150, ""type"": 0, ""w"": 128.0}, {""id"": 118853, ""node1"": 66324, ""node2"": 19150, ""type"": 17, ""w"": 538.0}, {""id"": 1801536, ""node1"": 66324, ""node2"": 19150, ""type"": 666, ""w"": 10.0}]",r_carac,538.0
+couche,deuxième,amod,ADJ,0.4328492283821106,[],,
+former,couche,obj,NOUN,0.4329245984554291,[],,
+ajouter,chantilly,obj,NOUN,0.5000874400138855,[],,
+chantilly,aller,acl:relcl,VERB,0.45234015583992,[],,
+couche,troisième,amod,ADJ,0.4192302227020263,[],,

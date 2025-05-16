@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+vinaigre,sel,nmod,NOUN,0.683134913444519,"[{""id"": 2147403, ""node1"": 145443, ""node2"": 13260, ""type"": 0, ""w"": 80.0}]",r_associated,80.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,persil,nmod,NOUN,0.6417090892791748,[],,
+sucre,roux,amod,ADP,0.5956728458404541,"[{""id"": 121310, ""node1"": 139481, ""node2"": 75869, ""type"": 0, ""w"": 178.0}, {""id"": 2484851, ""node1"": 139481, ""node2"": 75869, ""type"": 8, ""w"": 64.0}, {""id"": 182237, ""node1"": 139481, ""node2"": 75869, ""type"": 17, ""w"": 174.0}, {""id"": 3163417, ""node1"": 139481, ""node2"": 75869, ""type"": 106, ""w"": 21.0}]",r_carac,174.0
+sucre,beurre,nmod,NOUN,0.6973879933357239,[],,
+sucre,pain,nmod,NOUN,0.7169201970100403,"[{""id"": 193581, ""node1"": 139481, ""node2"": 61283, ""type"": 0, ""w"": 53.0}]",r_associated,53.0
+pain,épice,nmod,NOUN,0.7047860026359558,[],,
+épice,gîte,nmod,NOUN,0.5985819101333618,[],,
+gîte,bière,amod,NOUN,0.5196844339370728,[],,
+sucre,blond,amod,ADJ,0.5938111543655396,"[{""id"": 12982412, ""node1"": 139481, ""node2"": 26117, ""type"": 17, ""w"": 51.0}, {""id"": 13817709, ""node1"": 139481, ""node2"": 26117, ""type"": 106, ""w"": 626.0}]",r_has_color,626.0
+sucre,laurier,nmod,PROPN,0.6521927714347839,[],,
+casserole,cuillère,nmod,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,couvercle,nmod,NOUN,0.6197326183319092,[],,
+couvercle,balance,nmod,NOUN,0.5437039136886597,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+titre,fondre,acl,VERB,0.4839583337306976,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+ajouter,bœuf,obj,NOUN,0.6058138012886047,[],,
+bœuf,couper,acl,VERB,0.6219655275344849,"[{""id"": 97358749, ""node1"": 168216, ""node2"": 128828, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+colorer,face,obj,NOUN,0.4622198343276977,[],,
+retirer,viande,obj,NOUN,0.6854143142700195,[],,
+beurre,cuisson,nmod,NOUN,0.8047853708267212,"[{""id"": 500926055, ""node1"": 140377, ""node2"": 60056, ""type"": 0, ""w"": 21.0}, {""id"": 651239428, ""node1"": 140377, ""node2"": 60056, ""type"": 666, ""w"": 4.0}, {""id"": 3978117, ""node1"": 140377, ""node2"": 60056, ""type"": 777, ""w"": 10.0}]",r_associated,21.0
+colorer,oignon,obj,NOUN,0.6435539126396179,[],,
+ajouter,viande,obj,NOUN,0.7162638902664185,[],,
+ajouter,thym,obj,NOUN,0.5940713882446289,[],,
+ajouter,laurier,obj,NOUN,0.4998011589050293,[],,
+ajouter,partie,obj,NOUN,0.4468285739421844,[],,
+partie,persil,nmod,NOUN,0.6323001980781555,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+ajouter,tartine,obj,NOUN,0.5600834488868713,[],,
+tartine,pain,nmod,NOUN,0.6558628678321838,"[{""id"": 416317, ""node1"": 25337, ""node2"": 61283, ""type"": 0, ""w"": 255.0}, {""id"": 9973894, ""node1"": 25337, ""node2"": 61283, ""type"": 9, ""w"": 167.0}, {""id"": 376056101, ""node1"": 25337, ""node2"": 61283, ""type"": 50, ""w"": 35.0}, {""id"": 1671360, ""node1"": 25337, ""node2"": 61283, ""type"": 666, ""w"": 6.0}]",r_associated,255.0

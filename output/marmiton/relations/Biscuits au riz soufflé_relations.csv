@@ -1,0 +1,31 @@
+node1,node2,relations
+titre,biscuit,[]
+biscuit,riz,[]
+biscuit,souffler,[]
+souffler,ingrédient,[]
+ingrédient,miel,"[{""id"": 245158268, ""node1"": 123418, ""node2"": 136055, ""type"": 8, ""w"": 27.0}]"
+miel,beurre,"[{""id"": 62362450, ""node1"": 136055, ""node2"": 140377, ""type"": 75, ""w"": 46.0}]"
+miel,sucre,"[{""id"": 273615, ""node1"": 136055, ""node2"": 139481, ""type"": 0, ""w"": 135.0}, {""id"": 1046576041, ""node1"": 136055, ""node2"": 139481, ""type"": 8, ""w"": 20.0}, {""id"": 473701581, ""node1"": 136055, ""node2"": 139481, ""type"": 50, ""w"": 26.0}, {""id"": 1885993, ""node1"": 136055, ""node2"": 139481, ""type"": 666, ""w"": 4.0}]"
+sucre,barre,"[{""id"": 878708828, ""node1"": 139481, ""node2"": 142381, ""type"": 0, ""w"": 20.0}, {""id"": 385308109, ""node1"": 139481, ""node2"": 142381, ""type"": 51, ""w"": 29.0}]"
+grille,pâtisserie,[]
+pièce,casserole,[]
+casserole,cuillère,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]"
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,couteau,"[{""id"": 139564, ""node1"": 51905, ""node2"": 32610, ""type"": 0, ""w"": 212.0}, {""id"": 87319445, ""node1"": 51905, ""node2"": 32610, ""type"": 666, ""w"": 1.0}]"
+cuillère,aluminium,"[{""id"": 662512817, ""node1"": 51905, ""node2"": 95561, ""type"": 0, ""w"": 23.0}, {""id"": 1051888785, ""node1"": 51905, ""node2"": 95561, ""type"": 666, ""w"": 2.0}]"
+aluminium,planche,[]
+casserole,découper,[]
+découper,plat,[]
+découper,étape,[]
+casserole,barre,[]
+ingrédient,tout,[]
+mélanger,ingrédient,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]"
+fondre,tout,[]
+chauffer,retirer,[]
+retirer,casserole,[]
+casserole,feu,"[{""id"": 252156, ""node1"": 57253, ""node2"": 143703, ""type"": 0, ""w"": 57.0}, {""id"": 96920401, ""node1"": 57253, ""node2"": 143703, ""type"": 15, ""w"": 30.0}, {""id"": 1762446, ""node1"": 57253, ""node2"": 143703, ""type"": 666, ""w"": 2.0}]"
+ajouter,mélanger,[]
+verser,tout,[]
+plat,recouvrir,[]
+papier,aluminium,"[{""id"": 796957362, ""node1"": 103389, ""node2"": 95561, ""type"": 0, ""w"": 26.0}]"
+refroidir,cela,[]

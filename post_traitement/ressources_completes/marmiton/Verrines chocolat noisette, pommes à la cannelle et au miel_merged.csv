@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+pomme,cannelle,nmod,NOUN,0.6249549388885498,"[{""id"": 963640, ""node1"": 37201, ""node2"": 112959, ""type"": 0, ""w"": 60.0}]",r_associated,60.0
+miel,miel,amod,NOUN,0.5466066598892212,"[{""id"": 316449, ""node1"": 136055, ""node2"": 136055, ""type"": 19, ""w"": 53.0}, {""id"": 648885468, ""node1"": 136055, ""node2"": 136055, ""type"": 99, ""w"": 32.0}]",r_lemma,53.0
+miel,ingrédient,nmod,NOUN,0.6318907737731934,"[{""id"": 85917646, ""node1"": 136055, ""node2"": 123418, ""type"": 6, ""w"": 26.0}, {""id"": 661474354, ""node1"": 136055, ""node2"": 123418, ""type"": 666, ""w"": 2.0}]",r_isa,26.0
+pomme,miel,acl:relcl,ADJ,0.640826940536499,[],,
+miel,chocolat,nmod,NOUN,0.6103922128677368,[],,
+miel,noisette,nmod,NOUN,0.6053047776222229,[],,
+noisette,crème,amod,NOUN,0.604735255241394,"[{""id"": 982331795, ""node1"": 67819, ""node2"": 44001, ""type"": 666, ""w"": 3.0}]",r_aki,3.0
+crème,liquide,amod,ADJ,0.6173139810562134,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]",r_carac,52.0
+noisette,pomme,appos,NOUN,0.6038499474525452,[],,
+titre,casserole,nmod,NOUN,0.5580013990402222,[],,
+casserole,saladier,obj,NOUN,0.6254573464393616,[],,
+pinceau,réfrigérateur,nmod,NOUN,0.4776258468627929,[],,
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[],,
+réfrigérateur,préparer,amod,ADP,0.555677056312561,[],,
+préparer,ganache,obj,NOUN,0.535662055015564,[],,
+casser,chocolat,obj,NOUN,0.5810004472732544,[],,
+bouillir,crème,obj,NOUN,0.6968050599098206,"[{""id"": 352516456, ""node1"": 42401, ""node2"": 44001, ""type"": 31, ""w"": 38.0}]",r_action_lieu,38.0
+casserole,petit,amod,ADJ,0.6468310356140137,[],,
+verser,mélanger,nsubj,VERB,0.4985589385032654,"[{""id"": 72653249, ""node1"": 104506, ""node2"": 37151, ""type"": 0, ""w"": 35.0}]",r_associated,35.0
+réfrigérateur,minute,nmod,NOUN,0.4894644021987915,[],,
+minute,feu,nmod,NOUN,0.5576279163360596,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+déguster,ajouter,advcl,VERB,0.5421473979949951,[],,
+déguster,appétit,obj,NOUN,0.5633120536804199,[],,

@@ -1,0 +1,21 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,salade,appos,NOUN,0.5926524996757507,[],,
+salade,ingrédient,nmod,NOUN,0.7127874493598938,[],,
+salade,tomate,nmod,NOUN,0.6603864431381226,"[{""id"": 129517, ""node1"": 118908, ""node2"": 22138, ""type"": 0, ""w"": 186.0}, {""id"": 97758137, ""node1"": 118908, ""node2"": 22138, ""type"": 9, ""w"": 31.0}, {""id"": 11333951, ""node1"": 118908, ""node2"": 22138, ""type"": 28, ""w"": 38.0}, {""id"": 765200127, ""node1"": 118908, ""node2"": 22138, ""type"": 50, ""w"": 27.0}, {""id"": 675297494, ""node1"": 118908, ""node2"": 22138, ""type"": 666, ""w"": 9.0}]",r_associated,186.0
+salade,basilic,flat:name,PROPN,0.6646772027015686,"[{""id"": 97758213, ""node1"": 118908, ""node2"": 112671, ""type"": 0, ""w"": 47.0}, {""id"": 97758214, ""node1"": 118908, ""node2"": 112671, ""type"": 9, ""w"": 26.0}]",r_associated,47.0
+basilic,huile,acl,NOUN,0.6442691683769226,"[{""id"": 561291291, ""node1"": 112671, ""node2"": 141971, ""type"": 0, ""w"": 42.0}]",r_associated,42.0
+salade,planche,nmod,NOUN,0.6300684809684753,[],,
+salade,découper,acl,VERB,0.6493803858757019,[],,
+découper,assiette,obj,NOUN,0.6059194207191467,[],,
+assiette,étape,nmod,NOUN,0.483820229768753,[],,
+salade,cuire,nmod,VERB,0.8083714842796326,[],,
+instruction,paquet,nmod,NOUN,0.4137939810752868,[],,
+rincer,pâte,obj,NOUN,0.6352052688598633,[],,
+pâte,eau,nmod,NOUN,0.6791620850563049,"[{""id"": 12437285, ""node1"": 34069, ""node2"": 65012, ""type"": 0, ""w"": 59.0}, {""id"": 96931365, ""node1"": 34069, ""node2"": 65012, ""type"": 50, ""w"": 15.0}, {""id"": 650992493, ""node1"": 34069, ""node2"": 65012, ""type"": 666, ""w"": 5.0}]",r_associated,59.0
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+ajouter,huile,obj,NOUN,0.5838896036148071,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+découper,tomate,obj,NOUN,0.6376076936721802,[],,
+mélanger,tomate,obj,NOUN,0.6800077557563782,[],,
+moment,servir,acl,VERB,0.4804177582263946,[],,
+retirer,cire,obj,NOUN,0.4980483651161194,[],,

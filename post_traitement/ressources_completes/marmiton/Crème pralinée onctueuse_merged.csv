@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+crème,ingrédient,nmod,NOUN,0.6614693999290466,"[{""id"": 24850723, ""node1"": 44001, ""node2"": 123418, ""type"": 0, ""w"": 30.0}, {""id"": 24842105, ""node1"": 44001, ""node2"": 123418, ""type"": 6, ""w"": 143.0}]",r_isa,143.0
+crème,sucre,acl,NOUN,0.6958311200141907,"[{""id"": 561269855, ""node1"": 44001, ""node2"": 139481, ""type"": 0, ""w"": 61.0}]",r_associated,61.0
+sucre,poudre,nmod,NOUN,0.6574808955192566,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,lait,nmod,NOUN,0.598251223564148,"[{""id"": 798069862, ""node1"": 139470, ""node2"": 86296, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+lait,jaune,amod,ADJ,0.5920828580856323,"[{""id"": 12979907, ""node1"": 86296, ""node2"": 86711, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+jaune,oeuf,nmod,NOUN,0.5290272235870361,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]",r_associated,598.0
+sucre,fouet,nmod,NOUN,0.6183446645736694,[],,
+fouet,cuisine,nmod,NOUN,0.6216769218444824,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+casserole,saladier,nmod,NOUN,0.619270384311676,[],,
+saladier,lot,nmod,NOUN,0.4245868325233459,[],,
+frigo,balance,nmod,NOUN,0.5735482573509216,[],,
+balance,cuisine,nmod,NOUN,0.6009083986282349,[],,
+sucre,étape,nmod,NOUN,0.6834232211112976,[],,
+sucre,peu,nmod,ADV,0.6182363033294678,[],,
+peu,lait,nmod,NOUN,0.5964295268058777,[],,
+lait,froid,amod,ADJ,0.59633469581604,"[{""id"": 276799, ""node1"": 86296, ""node2"": 49803, ""type"": 17, ""w"": 57.0}]",r_carac,57.0
+reste,lait,nmod,NOUN,0.6023515462875366,[],,
+commencer,lait,nsubj,NOUN,0.586929976940155,[],,
+ajouter,mélange,obj,NOUN,0.5439569354057312,[],,
+mélange,oeuf,nmod,NOUN,0.5728257894515991,[],,
+bouillon,petit,amod,ADJ,0.638225793838501,[],,
+bouillon,minute,nmod,NOUN,0.6144245862960815,[],,

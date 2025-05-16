@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+verser,titre,nsubj,NOUN,0.4395780265331268,[],,
+titre,porc,appos,ADV,0.5907620191574097,[],,
+porc,caramel,advcl,ADJ,0.6533198952674866,[],,
+gingembre,sucre,appos,NOUN,0.6843656301498413,[],,
+sucre,oignon,nmod,ADP,0.7221262454986572,[],,
+sucre,filet,nmod,NOUN,0.694729208946228,[],,
+filet,mignon,amod,ADJ,0.4982842803001404,"[{""id"": 415002564, ""node1"": 42188, ""node2"": 128961, ""type"": 0, ""w"": 27.0}, {""id"": 14805958, ""node1"": 42188, ""node2"": 128961, ""type"": 17, ""w"": 23.0}]",r_associated,27.0
+mélange,épice,nmod,NOUN,0.6910523176193237,"[{""id"": 925026230, ""node1"": 14800, ""node2"": 146056, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+épice,sauce,nmod,NOUN,0.7685546875,"[{""id"": 10575657, ""node1"": 146056, ""node2"": 141110, ""type"": 0, ""w"": 45.0}, {""id"": 9623450, ""node1"": 146056, ""node2"": 141110, ""type"": 8, ""w"": -13.0}, {""id"": 97415115, ""node1"": 146056, ""node2"": 141110, ""type"": 10, ""w"": 31.0}, {""id"": 376037998, ""node1"": 146056, ""node2"": 141110, ""type"": 51, ""w"": 34.0}]",r_associated,45.0
+épice,bouillon,nmod,NOUN,0.7274739146232605,"[{""id"": 736569776, ""node1"": 146056, ""node2"": 146582, ""type"": 0, ""w"": 29.0}, {""id"": 390632344, ""node1"": 146056, ""node2"": 146582, ""type"": 777, ""w"": 10.0}]",r_associated,29.0
+bouillon,volaille,nmod,NOUN,0.6946349143981934,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+casserole,balance,obj,NOUN,0.5916885137557983,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+ajouter,cube,obj,NOUN,0.4883004128932953,[],,
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+cube,gingembre,appos,NOUN,0.5434712767601013,[],,
+gingembre,mélange,appos,NOUN,0.6633781790733337,[],,
+sauce,soja,acl,NOUN,0.686366856098175,"[{""id"": 558755719, ""node1"": 141110, ""node2"": 78291, ""type"": 0, ""w"": 41.0}, {""id"": 246329893, ""node1"": 141110, ""node2"": 78291, ""type"": 8, ""w"": 31.0}, {""id"": 651031297, ""node1"": 141110, ""node2"": 78291, ""type"": 666, ""w"": 4.0}]",r_associated,41.0
+cube,dorer,acl,VERB,0.5857821702957153,[],,
+chauffer,sucre,obj,NOUN,0.7090326547622681,[],,
+eau,obtenir,acl,VERB,0.5427676439285278,[],,
+obtenir,caramel,obj,NOUN,0.5698603391647339,[],,
+caramel,clair,amod,ADJ,0.5271952152252197,"[{""id"": 96700815, ""node1"": 67525, ""node2"": 4215, ""type"": 17, ""w"": 30.0}, {""id"": 96700812, ""node1"": 67525, ""node2"": 4215, ""type"": 106, ""w"": 10.0}]",r_carac,30.0
+fois,caramel,amod,NOUN,0.5579037070274353,[],,
+caramel,prêt,amod,ADJ,0.538790225982666,[],,
+bouillon,maintenir,acl,VERB,0.6107524037361145,[],,
+bouillon,cuve,nmod,NOUN,0.6209160089492798,[],,
+mode,dorer,acl,VERB,0.5564908385276794,[],,
+dorer,remuer,advcl,VERB,0.5522658824920654,[],,
+ajouter,viande,obj,NOUN,0.7162638902664185,[],,
+oignon,couper,acl,VERB,0.596168577671051,"[{""id"": 900892185, ""node1"": 123307, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 31770901, ""node1"": 123307, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 1767208, ""node1"": 123307, ""node2"": 128828, ""type"": 666, ""w"": 2.0}]",r_patient-1,100.0
+morceau,gros,amod,ADJ,0.4822109341621399,[],,
+laisser,mijoter,obj,NOUN,0.5789923667907715,[],,
+mode,cuisson,appos,NOUN,0.5969096422195435,[],,
+cuisson,pression,nmod,NOUN,0.6660934090614319,[],,

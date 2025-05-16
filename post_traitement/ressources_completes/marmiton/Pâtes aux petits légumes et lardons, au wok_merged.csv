@@ -1,0 +1,26 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+légume,petit,amod,ADJ,0.654370129108429,[],,
+pâte,légume,nmod,NOUN,0.7379322648048401,[],,
+ingrédient,wok,nmod,ADP,0.6402312517166138,[],,
+pâte,ingrédient,nmod,NOUN,0.6811284422874451,"[{""id"": 24920568, ""node1"": 34069, ""node2"": 123418, ""type"": 6, ""w"": 17.0}]",r_isa,17.0
+pâte,tomate,nmod,NOUN,0.6880875825881958,"[{""id"": 651002091, ""node1"": 34069, ""node2"": 22138, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+tomate,sécher,acl,VERB,0.6565603017807007,"[{""id"": 421761208, ""node1"": 22138, ""node2"": 56038, ""type"": 0, ""w"": 1.0}, {""id"": 758065756, ""node1"": 22138, ""node2"": 56038, ""type"": 24, ""w"": 30.0}]",r_agent-1,30.0
+tomate,poivre,appos,NOUN,0.6968331336975098,"[{""id"": 421761048, ""node1"": 22138, ""node2"": 139597, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+poivre,poireau,nmod,NOUN,0.6779045462608337,[],,
+poireau,courgette,nmod,NOUN,0.6181361675262451,[],,
+wok,top,nmod,NOUN,0.572348415851593,[],,
+pinceau,étape,nmod,NOUN,0.4064047634601593,[],,
+couper,légume,obj,NOUN,0.6484079957008362,"[{""id"": 435065646, ""node1"": 128828, ""node2"": 120603, ""type"": 0, ""w"": 26.0}, {""id"": 15079599, ""node1"": 128828, ""node2"": 120603, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+légume,morceau,nmod,NOUN,0.6784549951553345,[],,
+cuillère,huile,nmod,NOUN,0.612982988357544,"[{""id"": 775213351, ""node1"": 51905, ""node2"": 141971, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+ajouter,saler,advcl,VERB,0.5586202144622803,[],,
+rajouter,tomate,obj,NOUN,0.6449426412582397,[],,
+laisser,tout,obj,NOUN,0.4551617503166199,[],,
+tout,couvert,acl,NOUN,0.4978058934211731,[],,
+cuit,ce,nsubj,PRON,0.4674714505672455,[],,
+ce,cuit,acl,ADJ,0.4674714505672455,[],,
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+verser,pâte,obj,NOUN,0.6542285084724426,"[{""id"": 373014722, ""node1"": 104506, ""node2"": 34069, ""type"": 14, ""w"": 36.0}]",r_patient,36.0

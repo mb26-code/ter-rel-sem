@@ -1,0 +1,21 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,cocktail,nmod,NOUN,0.4204443097114563,[],,
+cocktail,exotique,amod,ADJ,0.5234334468841553,[],,
+cocktail,fruit,nmod,NOUN,0.5021359920501709,"[{""id"": 1700037, ""node1"": 132548, ""node2"": 87286, ""type"": 0, ""w"": 61.0}, {""id"": 1046069157, ""node1"": 132548, ""node2"": 87286, ""type"": 666, ""w"": 2.0}]",r_associated,61.0
+fruit,passion,nmod,NOUN,0.4803899526596069,"[{""id"": 640137315, ""node1"": 87286, ""node2"": 39448, ""type"": 0, ""w"": 26.0}, {""id"": 14799317, ""node1"": 87286, ""node2"": 39448, ""type"": 23, ""w"": 21.0}]",r_associated,26.0
+passion,ingrédient,nmod,NOUN,0.5779567360877991,[],,
+passion,sirop,nmod,NOUN,0.6288797855377197,[],,
+passion,jus,nmod,NOUN,0.5801042914390564,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+jus,Presse,nmod,PROPN,0.5341017246246338,[],,
+cuillère,ail,nmod,NOUN,0.5968332886695862,[],,
+jus,cuillère,nmod,NOUN,0.6121601462364197,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,saladier,nmod,NOUN,0.6106023788452148,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+titre,mélanger,acl,VERB,0.4706915318965912,[],,
+mélanger,sirop,obj,NOUN,0.644442617893219,[],,
+sirop,fruit,nmod,NOUN,0.6000692248344421,"[{""id"": 369202, ""node1"": 91109, ""node2"": 87286, ""type"": 0, ""w"": 136.0}, {""id"": 415328, ""node1"": 91109, ""node2"": 87286, ""type"": 9, ""w"": 60.0}]",r_associated,136.0
+verser,mélange,obj,NOUN,0.5440542697906494,[],,
+mélange,obtenir,acl,VERB,0.4783641993999481,[],,
+titre,litre,nmod,NOUN,0.4371916055679321,[],,

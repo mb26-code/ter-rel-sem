@@ -1,0 +1,32 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+salade,crevette,amod,NOUN,0.6412937045097351,"[{""id"": 915324262, ""node1"": 118908, ""node2"": 106607, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+salade,ingrédient,nmod,NOUN,0.7127874493598938,[],,
+salade,poivre,amod,NOUN,0.7452256679534912,"[{""id"": 97758233, ""node1"": 118908, ""node2"": 139597, ""type"": 0, ""w"": 35.0}, {""id"": 97758234, ""node1"": 118908, ""node2"": 139597, ""type"": 9, ""w"": 40.0}]",r_has_part,40.0
+poivre,crevette,nmod,NOUN,0.6815639138221741,[],,
+salade,avocat,nmod,NOUN,0.5618098974227905,"[{""id"": 558712512, ""node1"": 118908, ""node2"": 104789, ""type"": 0, ""w"": 46.0}, {""id"": 1037447699, ""node1"": 118908, ""node2"": 104789, ""type"": 666, ""w"": 4.0}]",r_associated,46.0
+avocat,salade,nmod,NOUN,0.5618098974227905,"[{""id"": 560957225, ""node1"": 104789, ""node2"": 118908, ""type"": 0, ""w"": 55.0}, {""id"": 539971484, ""node1"": 104789, ""node2"": 118908, ""type"": 15, ""w"": -25.0}, {""id"": 1009543484, ""node1"": 104789, ""node2"": 118908, ""type"": 666, ""w"": 3.0}, {""id"": 447971034, ""node1"": 104789, ""node2"": 118908, ""type"": 777, ""w"": 10.0}]",r_associated,55.0
+salade,pamplemousse,amod,ADV,0.6543851494789124,[],,
+avocat,crème,acl,NOUN,0.567970335483551,[],,
+crème,jus,nmod,NOUN,0.6407484412193298,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+salade,couteau,nmod,NOUN,0.6751915812492371,[],,
+couteau,bol,nmod,NOUN,0.5557995438575745,[],,
+bol,étape,nmod,NOUN,0.5393725633621216,[],,
+salade,Laver,nmod,PROPN,0.4803152978420257,[],,
+salade,salade,nmod,NOUN,0.6076122522354126,"[{""id"": 331573, ""node1"": 118908, ""node2"": 118908, ""type"": 19, ""w"": 57.0}]",r_lemma,57.0
+feuille,assiette,nmod,NOUN,0.5802052617073059,[],,
+avocat,enlever,acl,VERB,0.4252856969833374,[],,
+enlever,noyau,obj,NOUN,0.4160637855529785,"[{""id"": 15085715, ""node1"": 82345, ""node2"": 126405, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+rosace,salade,nmod,NOUN,0.5645341873168945,[],,
+mettre,crème,obj,NOUN,0.6161975264549255,[],,
+bol,grand,amod,ADJ,0.516040563583374,[],,
+mettre,poivrer,advcl,VERB,0.5049523115158081,[],,
+mettre,ajouter,advcl,VERB,0.4179443120956421,"[{""id"": 930338, ""node1"": 132366, ""node2"": 25099, ""type"": 0, ""w"": 33.0}, {""id"": 432805151, ""node1"": 132366, ""node2"": 25099, ""type"": 5, ""w"": 31.0}, {""id"": 9094398, ""node1"": 132366, ""node2"": 25099, ""type"": 35, ""w"": 30.0}, {""id"": 1008795590, ""node1"": 132366, ""node2"": 25099, ""type"": 666, ""w"": 3.0}]",r_associated,33.0
+ajouter,paprika,obj,NOUN,0.5960863828659058,[],,
+ajouter,jus,obj,NOUN,0.5800648331642151,[],,
+enlever,peau,obj,NOUN,0.4885257482528686,"[{""id"": 15076500, ""node1"": 82345, ""node2"": 109785, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+peau,blanc,amod,ADJ,0.5381765365600586,"[{""id"": 21113647, ""node1"": 109785, ""node2"": 15196, ""type"": 0, ""w"": 26.0}, {""id"": 515406767, ""node1"": 109785, ""node2"": 15196, ""type"": 10, ""w"": 36.0}, {""id"": 3174824, ""node1"": 109785, ""node2"": 15196, ""type"": 106, ""w"": 18.0}]",r_holo,36.0
+peau,quartier,nmod,NOUN,0.4748843014240265,[],,
+garder,chair,obj,NOUN,0.5232482552528381,[],,
+ajouter,délicatement,obj,ADV,0.4850133657455444,[],,
+feuille,salade,nmod,NOUN,0.615514874458313,"[{""id"": 614208544, ""node1"": 37993, ""node2"": 118908, ""type"": 0, ""w"": 30.0}, {""id"": 775213406, ""node1"": 37993, ""node2"": 118908, ""type"": 174, ""w"": 25.0}]",r_associated,30.0

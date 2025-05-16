@@ -1,0 +1,27 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+mélanger,pomme,nsubj,NOUN,0.6457197666168213,[],,
+pomme,dauphin,nmod,NOUN,0.5418981909751892,[],,
+pomme,ingrédient,nmod,NOUN,0.6517195105552673,[],,
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+lait,huile,amod,NOUN,0.6405364274978638,[],,
+oeuf,four,appos,NOUN,0.6867774724960327,[],,
+four,cuillère,nmod,NOUN,0.7153509855270386,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,saladier,nmod,NOUN,0.6106023788452148,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+four,220,nmod,NUM,0.4830725789070129,[],,
+pomme,chaleur,nmod,NOUN,0.5974790453910828,[],,
+chaleur,tournant,amod,ADJ,0.5036808252334595,[],,
+ajouter,lait,obj,NOUN,0.5957752466201782,"[{""id"": 373014760, ""node1"": 25099, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+lait,petit,amod,ADJ,0.603304922580719,"[{""id"": 1794036, ""node1"": 86296, ""node2"": 55222, ""type"": 666, ""w"": 1.0}]",r_aki,1.0
+tout,petit,amod,ADJ,0.4940192103385925,[],,
+tout,mélanger,acl,VERB,0.528428852558136,"[{""id"": 15074002, ""node1"": 136232, ""node2"": 37151, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+ajouter,œuf,obj,NOUN,0.5268428325653076,[],,
+boule,petit,amod,ADJ,0.5510615706443787,[],,
+faire,boule,obj,NOUN,0.5590701699256897,[],,
+Asperger,huile,nmod,NOUN,0.5721979141235352,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+obtenir,coloration,obj,NOUN,0.4282847642898559,[],,
+coloration,doré,amod,ADJ,0.5188059210777283,[],,
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]",r_carac-1,5.0

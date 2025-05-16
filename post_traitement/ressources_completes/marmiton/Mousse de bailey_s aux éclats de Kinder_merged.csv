@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,mousse,nmod,NOUN,0.4806961715221405,[],,
+mousse,éclat,nmod,NOUN,0.4650468826293945,[],,
+Kinder,ingrédient,nmod,NOUN,0.4125096201896667,[],,
+titre,sucre,nmod,NOUN,0.6168144345283508,[],,
+sucre,gélatine,nmod,NOUN,0.6545450687408447,[],,
+sucre,crème,acl,NOUN,0.7060490250587463,"[{""id"": 915278756, ""node1"": 139481, ""node2"": 44001, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+crème,oeuf,obj,NOUN,0.6166951060295105,"[{""id"": 96714533, ""node1"": 44001, ""node2"": 116175, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+sucre,Kinder,nmod,PROPN,0.528802752494812,[],,
+sucre,surprise,nmod,NOUN,0.6647966504096985,"[{""id"": 496808169, ""node1"": 139481, ""node2"": 91691, ""type"": 32, ""w"": 55.0}]",r_sentiment,55.0
+titre,casserole,nmod,NOUN,0.5580013990402222,[],,
+casserole,fouet,nmod,NOUN,0.5830783247947693,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 307.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 267.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,307.0
+cuisine,saladier,nmod,NOUN,0.6925616264343262,"[{""id"": 47300451, ""node1"": 16033, ""node2"": 45455, ""type"": 0, ""w"": 30.0}, {""id"": 47300450, ""node1"": 16033, ""node2"": 45455, ""type"": 27, ""w"": 21.0}]",r_associated,30.0
+fouet,balance,nmod,NOUN,0.4882497191429138,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+fouet,étape,nmod,NOUN,0.4946097731590271,[],,
+titre,bouillir,acl,VERB,0.5746515989303589,[],,
+bouillir,crème,obj,NOUN,0.6968050599098206,"[{""id"": 352516456, ""node1"": 42401, ""node2"": 44001, ""type"": 31, ""w"": 38.0}]",r_action_lieu,38.0
+tremper,gélatine,obj,NOUN,0.5911643505096436,[],,
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+faire,ruban,obj,NOUN,0.4931843876838684,[],,
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]",r_associated,598.0
+jaune,gramme,nmod,NOUN,0.4975632131099701,[],,
+gramme,sucre,nmod,NOUN,0.6024630069732666,"[{""id"": 720818120, ""node1"": 140383, ""node2"": 139481, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+feu,diluer,acl,VERB,0.568716824054718,[],,
+diluer,gélatine,obj,NOUN,0.5168192386627197,[],,
+fois,ébullition,nmod,NOUN,0.4197856187820434,[],,
+battre,neige,nmod,NOUN,0.4577920138835907,[],,
+blanc,oeuf,nmod,NOUN,0.5395181179046631,"[{""id"": 215721, ""node1"": 15196, ""node2"": 116175, ""type"": 0, ""w"": 84.0}, {""id"": 31299415, ""node1"": 15196, ""node2"": 116175, ""type"": 3, ""w"": 32.0}, {""id"": 76136326, ""node1"": 15196, ""node2"": 116175, ""type"": 10, ""w"": 26.0}, {""id"": 373603, ""node1"": 15196, ""node2"": 116175, ""type"": 23, ""w"": 110.0}, {""id"": 91492401, ""node1"": 15196, ""node2"": 116175, ""type"": 35, ""w"": 54.0}]",r_carac-1,110.0
+blanc,incorporer,acl,VERB,0.5217159390449524,[],,
+délicatement,oeuf,nmod,NOUN,0.5335990786552429,[],,
+oeuf,neige,nmod,NOUN,0.5373665690422058,"[{""id"": 57931432, ""node1"": 116175, ""node2"": 3699, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+crème,casser,acl,VERB,0.621930718421936,[],,
+verser,mousse,obj,NOUN,0.5463694930076599,[],,
+pot,petit,amod,ADJ,0.5189867615699768,"[{""id"": 247112, ""node1"": 142367, ""node2"": 55222, ""type"": 17, ""w"": 57.0}]",r_carac,57.0
+ajouter,éclat,obj,NOUN,0.4056894779205322,[],,
+ajouter,mélanger,advcl,VERB,0.476481020450592,[],,

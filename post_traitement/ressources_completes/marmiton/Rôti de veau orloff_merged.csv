@@ -1,0 +1,43 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+rôti,veau,nmod,NOUN,0.629530131816864,"[{""id"": 561175328, ""node1"": 19636, ""node2"": 91311, ""type"": 0, ""w"": 41.0}, {""id"": 514132169, ""node1"": 19636, ""node2"": 91311, ""type"": 23, ""w"": 3.0}, {""id"": 23206327, ""node1"": 19636, ""node2"": 91311, ""type"": 777, ""w"": 10.0}]",r_associated,41.0
+veau,ingrédient,nmod,NOUN,0.6231942176818848,"[{""id"": 578518146, ""node1"": 91311, ""node2"": 123418, ""type"": 6, ""w"": 30.0}]",r_isa,30.0
+rôti,crème,amod,NOUN,0.7213926315307617,[],,
+crème,sel,nmod,NOUN,0.7389078736305237,[],,
+crème,poivre,amod,NOUN,0.6996400356292725,[],,
+poivre,beurre,appos,NOUN,0.71866774559021,"[{""id"": 584573840, ""node1"": 139597, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+poivre,veau,nmod,NOUN,0.6536258459091187,"[{""id"": 943400748, ""node1"": 139597, ""node2"": 91311, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+veau,gruyère,nmod,NOUN,0.5921517610549927,[],,
+veau,bacon,nmod,NOUN,0.6192775368690491,[],,
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+Spatule,couteau,nmod,NOUN,0.4382261633872986,[],,
+couteau,pinceau,nmod,NOUN,0.4793228805065155,"[{""id"": 914434066, ""node1"": 32610, ""node2"": 79400, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+pinceau,bol,nmod,NOUN,0.5210156440734863,[],,
+bol,cuillère,nmod,NOUN,0.5572551488876343,"[{""id"": 1046576301, ""node1"": 145405, ""node2"": 51905, ""type"": 8, ""w"": 20.0}]",r_hypo,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,appos,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+rôti,profondeur,nmod,NOUN,0.6635710000991821,[],,
+glisser,tranche,obj,NOUN,0.4636963605880737,[],,
+tranche,bacon,nmod,NOUN,0.5835222601890564,"[{""id"": 915336570, ""node1"": 143123, ""node2"": 25901, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+tranche,gruyère,nmod,NOUN,0.5446084141731262,[],,
+noix,gros,amod,ADJ,0.5693343281745911,[],,
+chauffer,noix,obj,NOUN,0.6355915069580078,[],,
+noix,beurre,nmod,NOUN,0.6414071917533875,"[{""id"": 96697959, ""node1"": 30910, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+chauffer,saisir,advcl,VERB,0.4950103163719177,[],,
+saisir,rôti,obj,NOUN,0.6435247659683228,"[{""id"": 31864763, ""node1"": 80010, ""node2"": 19636, ""type"": 14, ""w"": 55.0}]",r_patient,55.0
+coté,tout,amod,ADJ,0.4260300397872925,[],,
+rôti,coté,nmod,NOUN,0.646335780620575,[],,
+saisir,dorer,advcl,VERB,0.4991708099842071,[],,
+bol,eau,nmod,NOUN,0.6060970425605774,"[{""id"": 561293661, ""node1"": 145405, ""node2"": 65012, ""type"": 0, ""w"": 42.0}]",r_associated,42.0
+rajouter,vin,obj,NOUN,0.6207178235054016,[],,
+mijoter,min,obj,NOUN,0.4553591310977936,[],,
+moment,retirer,acl,VERB,0.4314929842948913,[],,
+retirer,rôti,obj,NOUN,0.6658359169960022,[],,
+verser,crème,obj,NOUN,0.6168469786643982,[],,
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+crème,sauce,nmod,NOUN,0.687790036201477,"[{""id"": 361505, ""node1"": 44001, ""node2"": 141110, ""type"": 0, ""w"": 56.0}, {""id"": 97416506, ""node1"": 44001, ""node2"": 141110, ""type"": 10, ""w"": 32.0}, {""id"": 13059733, ""node1"": 44001, ""node2"": 141110, ""type"": 15, ""w"": 59.0}, {""id"": 306776463, ""node1"": 44001, ""node2"": 141110, ""type"": 666, ""w"": 1.0}]",r_lieu,59.0
+verser,mélanger,advcl,VERB,0.4985589385032654,"[{""id"": 72653249, ""node1"": 104506, ""node2"": 37151, ""type"": 0, ""w"": 35.0}]",r_associated,35.0
+servir,rôti,obj,NOUN,0.6915250420570374,[],,
+plat,part,nmod,NOUN,0.6053759455680847,[],,

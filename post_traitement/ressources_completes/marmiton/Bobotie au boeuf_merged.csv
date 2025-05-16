@@ -1,0 +1,56 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+boeuf,ingrédient,nmod,NOUN,0.6519651412963867,"[{""id"": 24929879, ""node1"": 47417, ""node2"": 123418, ""type"": 6, ""w"": 2.0}]",r_isa,2.0
+boeuf,sel,nmod,NOUN,0.7255796790122986,[],,
+sel,huile,amod,NOUN,0.6993125677108765,"[{""id"": 917898976, ""node1"": 13260, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+sel,beurre,nmod,NOUN,0.7119027376174927,"[{""id"": 29328492, ""node1"": 13260, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 9986817, ""node1"": 13260, ""node2"": 140377, ""type"": 10, ""w"": 35.0}]",r_holo,35.0
+boeuf,sucre,amod,NOUN,0.7237079739570618,[],,
+sucre,curry,nmod,NOUN,0.7489069104194641,[],,
+curry,curcuma,nmod,NOUN,0.6586863398551941,"[{""id"": 3116776, ""node1"": 82813, ""node2"": 133098, ""type"": 0, ""w"": 96.0}]",r_associated,96.0
+curry,vinaigre,nmod,NOUN,0.7117711901664734,"[{""id"": 112976497, ""node1"": 82813, ""node2"": 145443, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+vinaigre,vin,nmod,NOUN,0.6279023885726929,"[{""id"": 260680, ""node1"": 145443, ""node2"": 35798, ""type"": 0, ""w"": 213.0}, {""id"": 82356060, ""node1"": 145443, ""node2"": 35798, ""type"": 6, ""w"": 36.0}, {""id"": 375688370, ""node1"": 145443, ""node2"": 35798, ""type"": 56, ""w"": 35.0}, {""id"": 1527098, ""node1"": 145443, ""node2"": 35798, ""type"": 666, ""w"": 2.0}]",r_associated,213.0
+vin,bouillon,nmod,NOUN,0.6469701528549194,"[{""id"": 914309710, ""node1"": 35798, ""node2"": 146582, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+bouillon,boeuf,nmod,NOUN,0.6349595785140991,[],,
+boeuf,oignon,nmod,NOUN,0.6415389776229858,[],,
+oignon,tomate,nmod,NOUN,0.6465381383895874,[],,
+boeuf,citron,nmod,NOUN,0.6526677012443542,[],,
+citron,amande,nmod,NOUN,0.5932424068450928,[],,
+amande,raisin,appos,NOUN,0.5753480792045593,[],,
+curry,pain,nmod,NOUN,0.7420452833175659,[],,
+pain,lait,nmod,NOUN,0.6678959727287292,"[{""id"": 385497912, ""node1"": 61283, ""node2"": 86296, ""type"": 8, ""w"": -25.0}]",r_hypo,-25.0
+mangue,oeuf,nmod,NOUN,0.6010278463363647,[],,
+oeuf,laurier,nmod,PROPN,0.5622161626815796,[],,
+mangue,saladier,nmod,NOUN,0.647382915019989,[],,
+saladier,four,nmod,NOUN,0.6991847157478333,[],,
+four,tamis,nmod,NOUN,0.6446834206581116,[],,
+four,fouet,nmod,NOUN,0.6685465574264526,"[{""id"": 879245167, ""node1"": 9190, ""node2"": 73888, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 306.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 266.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,306.0
+fouet,balance,nmod,NOUN,0.4882497191429138,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+fouet,étape,nmod,NOUN,0.4946097731590271,[],,
+tomate,couper,acl,VERB,0.6290057301521301,"[{""id"": 920912564, ""node1"": 22138, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 628044041, ""node1"": 22138, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+couper,retirer,advcl,VERB,0.4234890639781952,"[{""id"": 54317258, ""node1"": 128828, ""node2"": 3486, ""type"": 0, ""w"": 22.0}, {""id"": 53724852, ""node1"": 128828, ""node2"": 3486, ""type"": 5, ""w"": 152.0}]",r_syn,152.0
+retirer,graine,obj,NOUN,0.5278207063674927,[],,
+oignon,éplucher,acl,VERB,0.5758936405181885,"[{""id"": 107838427, ""node1"": 123307, ""node2"": 59879, ""type"": 0, ""w"": 55.0}, {""id"": 15046764, ""node1"": 123307, ""node2"": 59879, ""type"": 26, ""w"": 100.0}, {""id"": 1767180, ""node1"": 123307, ""node2"": 59879, ""type"": 666, ""w"": 5.0}]",r_patient-1,100.0
+couper,citron,obj,NOUN,0.6150063872337341,"[{""id"": 15083963, ""node1"": 128828, ""node2"": 15386, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+rondelle,fin,amod,ADJ,0.4580791592597961,[],,
+mélanger,curry,nmod,NOUN,0.6909562349319458,[],,
+ajouter,viande,obj,NOUN,0.7162638902664185,[],,
+viande,écraser,acl,VERB,0.7030258774757385,[],,
+dorer,lui,nsubj,PRON,0.5067495107650757,[],,
+ajouter,tomate,obj,NOUN,0.6318210363388062,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 30.0}]",r_agent,30.0
+saler,vinaigre,nsubj,NOUN,0.6640720367431641,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+allumer,four,obj,NOUN,0.6448209285736084,"[{""id"": 375341199, ""node1"": 82772, ""node2"": 9190, ""type"": 0, ""w"": 27.0}, {""id"": 96637759, ""node1"": 82772, ""node2"": 9190, ""type"": 14, ""w"": 100.0}, {""id"": 271782, ""node1"": 82772, ""node2"": 9190, ""type"": 31, ""w"": 52.0}]",r_patient,100.0
+extraire,lait,obj,NOUN,0.5735129117965698,[],,
+enfourner,préparation,obj,NOUN,0.5811421275138855,[],,
+casser,oeuf,obj,NOUN,0.543071448802948,"[{""id"": 796687958, ""node1"": 63509, ""node2"": 116175, ""type"": 0, ""w"": 28.0}, {""id"": 213740960, ""node1"": 63509, ""node2"": 116175, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+incorporer,reste,obj,NOUN,0.4724568128585815,[],,
+reste,lait,nmod,NOUN,0.5964831113815308,[],,
+passer,tamis,obj,NOUN,0.4753356575965881,[],,
+poser,rondelle,obj,NOUN,0.4674229919910431,[],,
+rondelle,citron,nmod,NOUN,0.5871434807777405,"[{""id"": 798896119, ""node1"": 71106, ""node2"": 15386, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+feuille,laurier,nmod,NOUN,0.4908609986305237,"[{""id"": 15624759, ""node1"": 37993, ""node2"": 114548, ""type"": 0, ""w"": 29.0}, {""id"": 14620301, ""node1"": 37993, ""node2"": 114548, ""type"": 10, ""w"": 36.0}]",r_holo,36.0
+doré,dessus,nsubj,NOUN,0.494736909866333,"[{""id"": 376083980, ""node1"": 47964, ""node2"": 88380, ""type"": 23, ""w"": 26.0}]",r_carac-1,26.0
+remplacer,boeuf,obj,NOUN,0.5692144632339478,[],,
+boeuf,agneau,nmod,NOUN,0.5464668869972229,"[{""id"": 799190072, ""node1"": 47417, ""node2"": 128646, ""type"": 0, ""w"": 30.0}]",r_associated,30.0

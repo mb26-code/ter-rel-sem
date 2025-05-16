@@ -1,0 +1,34 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+carotte,ingrédient,nmod,NOUN,0.6786724925041199,[],,
+clou,girofle,nmod,ADP,0.4290643036365509,"[{""id"": 9902807, ""node1"": 11651, ""node2"": 43873, ""type"": 0, ""w"": 55.0}, {""id"": 413873, ""node1"": 11651, ""node2"": 43873, ""type"": 8, ""w"": 111.0}]",r_hypo,111.0
+clou,figue,amod,NOUN,0.5116481781005859,[],,
+clou,abricot,amod,NOUN,0.4662628471851349,[],,
+coriandre,huile,amod,NOUN,0.6417601704597473,[],,
+vinaigre,olive,amod,ADJ,0.6319341659545898,[],,
+coriandre,vinaigre,nmod,NOUN,0.6785361170768738,[],,
+vinaigre,cidre,nmod,NOUN,0.591953456401825,"[{""id"": 98947289, ""node1"": 145443, ""node2"": 75142, ""type"": 0, ""w"": 55.0}, {""id"": 3355909, ""node1"": 145443, ""node2"": 75142, ""type"": 777, ""w"": 10.0}]",r_associated,55.0
+cidre,eau,nmod,NOUN,0.6220027804374695,"[{""id"": 7033271, ""node1"": 75142, ""node2"": 65012, ""type"": 50, ""w"": 57.0}]",r_object>mater,57.0
+eau,sel,nmod,NOUN,0.6719006896018982,"[{""id"": 796707616, ""node1"": 65012, ""node2"": 13260, ""type"": 0, ""w"": 32.0}, {""id"": 2123272, ""node1"": 65012, ""node2"": 13260, ""type"": 28, ""w"": 98.0}, {""id"": 602535234, ""node1"": 65012, ""node2"": 13260, ""type"": 777, ""w"": 10.0}]",r_lieu-1,98.0
+cidre,cuillère,appos,NOUN,0.6267615556716919,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+clou,Laver,nmod,PROPN,0.4061305522918701,[],,
+oignon,rouge,amod,ADJ,0.5798735618591309,"[{""id"": 96738908, ""node1"": 123307, ""node2"": 86356, ""type"": 17, ""w"": 31.0}, {""id"": 3161226, ""node1"": 123307, ""node2"": 86356, ""type"": 106, ""w"": 3.0}]",r_carac,31.0
+fruit,sec,acl,ADJ,0.4956011176109314,"[{""id"": 796701053, ""node1"": 87286, ""node2"": 63619, ""type"": 0, ""w"": 24.0}, {""id"": 14805636, ""node1"": 87286, ""node2"": 63619, ""type"": 17, ""w"": 22.0}]",r_associated,24.0
+morceau,fin,amod,ADJ,0.4833599328994751,[],,
+fruit,morceau,nmod,NOUN,0.5414688587188721,[],,
+chauffer,poêle,obj,NOUN,0.652711808681488,[],,
+chauffer,remuer,advcl,VERB,0.560030996799469,[],,
+ajouter,oignon,obj,NOUN,0.585871696472168,[],,
+ajouter,huile,obj,NOUN,0.5838896036148071,[],,
+revenir,tout,obj,NOUN,0.4829182922840118,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+ajouter,eau,obj,NOUN,0.5629687905311584,[],,
+ajouter,morceau,obj,NOUN,0.5419883728027344,[],,
+morceau,fruit,nmod,NOUN,0.5414688587188721,"[{""id"": 1007988743, ""node1"": 65364, ""node2"": 87286, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+commencer,carotte,nsubj,NOUN,0.5893584489822388,[],,
+ajouter,commencer,advcl,VERB,0.4004059433937073,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+mijoter,mélanger,advcl,VERB,0.6376505494117737,[],,
+évaporation,liquide,nmod,NOUN,0.5137730836868286,"[{""id"": 367812, ""node1"": 26046, ""node2"": 140315, ""type"": 0, ""w"": 57.0}]",r_associated,57.0
+laisser,saler,obj,VERB,0.5505558252334595,[],,

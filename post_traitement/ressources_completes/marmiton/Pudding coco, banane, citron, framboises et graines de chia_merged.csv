@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+coco,banane,obj,NOUN,0.5666763186454773,[],,
+coco,citron,obj,NOUN,0.6018784046173096,[],,
+citron,ingrédient,nmod,NOUN,0.6679258942604065,[],,
+citron,banane,appos,NOUN,0.6159293055534363,"[{""id"": 914409136, ""node1"": 15386, ""node2"": 34046, ""type"": 0, ""w"": 20.0}, {""id"": 1074625644, ""node1"": 15386, ""node2"": 34046, ""type"": 6, ""w"": -25.0}]",r_associated,20.0
+citron,lait,nmod,NOUN,0.6357219219207764,[],,
+lait,citron,nmod,NOUN,0.6357219219207764,[],,
+coco,étape,obj,NOUN,0.5636276006698608,[],,
+coco,veille,obj,NOUN,0.5795412063598633,[],,
+veille,soir,nmod,NOUN,0.4055766761302948,[],,
+mélanger,lait,obj,NOUN,0.6098827719688416,"[{""id"": 373014663, ""node1"": 37151, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+lait,coco,acl,ADV,0.5941302180290222,"[{""id"": 796793155, ""node1"": 86296, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+lait,sirop,appos,NOUN,0.6239028573036194,"[{""id"": 796702958, ""node1"": 86296, ""node2"": 91109, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+lait,bol,nmod,NOUN,0.6028084754943848,"[{""id"": 796726088, ""node1"": 86296, ""node2"": 145405, ""type"": 0, ""w"": 28.0}, {""id"": 97056216, ""node1"": 86296, ""node2"": 145405, ""type"": 15, ""w"": 31.0}, {""id"": 97056176, ""node1"": 86296, ""node2"": 145405, ""type"": 58, ""w"": 21.0}]",r_lieu,31.0
+bol,filmer,acl,VERB,0.5274091958999634,[],,
+laisser,nuit,obj,NOUN,0.4050264656543731,[],,
+nuit,frigo,nmod,NOUN,0.5112811923027039,[],,
+mélanger,jus,obj,NOUN,0.5910492539405823,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+casserole,petit,amod,ADJ,0.6468310356140137,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+ajouter,prêt,advcl,ADJ,0.4343077838420868,[],,
+déposer,mélange,obj,NOUN,0.5359852910041809,[],,
+mélange,lait,amod,NOUN,0.6162230372428894,[],,
+mélange,coco,nmod,ADV,0.6028205752372742,[],,
+mélange,fond,nmod,NOUN,0.5410748720169067,[],,
+ajouter,framboise,obj,NOUN,0.527557373046875,[],,
+noix,coco,nmod,ADV,0.5701965689659119,"[{""id"": 1924690, ""node1"": 30910, ""node2"": 145904, ""type"": 0, ""w"": 55.0}]",r_associated,55.0

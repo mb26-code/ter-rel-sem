@@ -1,0 +1,32 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+ingrédient,parisien,amod,ADJ,0.5256326198577881,[],,
+titre,sucre,appos,NOUN,0.6168144345283508,[],,
+sucre,fraise,nmod,NOUN,0.6523148417472839,"[{""id"": 561132474, ""node1"": 139481, ""node2"": 16242, ""type"": 0, ""w"": 52.0}]",r_associated,52.0
+fraise,banane,appos,NOUN,0.5452800393104553,"[{""id"": 593429492, ""node1"": 16242, ""node2"": 34046, ""type"": 0, ""w"": 66.0}]",r_associated,66.0
+sucre,biscuit,nmod,NOUN,0.67692631483078,"[{""id"": 796700506, ""node1"": 139481, ""node2"": 62524, ""type"": 0, ""w"": 28.0}, {""id"": 376049397, ""node1"": 139481, ""node2"": 62524, ""type"": 51, ""w"": 29.0}]",r_mater>object,29.0
+biscuit,café,amod,NOUN,0.5875248908996582,"[{""id"": 4301338, ""node1"": 62524, ""node2"": 66324, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+titre,casserole,nmod,NOUN,0.5580013990402222,[],,
+mixeur,lot,nmod,NOUN,0.452340692281723,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+mixeur,réfrigérateur,nmod,NOUN,0.557101309299469,[],,
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[],,
+casserole,fondre,advcl,VERB,0.6157484650611877,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+mixer,biscuit,nsubj,NOUN,0.6267085671424866,[],,
+ajouter,beurre,obj,NOUN,0.658586859703064,"[{""id"": 373014956, ""node1"": 25099, ""node2"": 140377, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+beurre,fondre,acl,VERB,0.643409252166748,"[{""id"": 652231036, ""node1"": 140377, ""node2"": 16480, ""type"": 0, ""w"": 21.0}, {""id"": 24771033, ""node1"": 140377, ""node2"": 16480, ""type"": 24, ""w"": 137.0}, {""id"": 1886772, ""node1"": 140377, ""node2"": 16480, ""type"": 26, ""w"": 33.0}]",r_agent-1,137.0
+mettre,mélange,obj,NOUN,0.5538657903671265,[],,
+reposer,heure,obj,NOUN,0.4106099009513855,[],,
+couper,banane,obj,NOUN,0.5668771266937256,[],,
+revenir,fruit,obj,NOUN,0.5359926819801331,[],,
+fruit,sucre,nmod,NOUN,0.6387148499488831,"[{""id"": 415317, ""node1"": 87286, ""node2"": 139481, ""type"": 0, ""w"": 93.0}, {""id"": 2150566, ""node1"": 87286, ""node2"": 139481, ""type"": 9, ""w"": 26.0}]",r_associated,93.0
+prendre,fruit,nsubj,NOUN,0.4965924918651581,[],,
+fruit,prêt,amod,ADJ,0.4868085980415344,[],,
+déposer,couche,obj,NOUN,0.459342896938324,"[{""id"": 432394802, ""node1"": 35714, ""node2"": 19152, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+mariage,melon,nsubj,PROPN,0.5357941389083862,[],,
+déposer,mariage,obj,NOUN,0.4262512028217315,[],,
+ajouter,fruit,obj,NOUN,0.5211451053619385,[],,
+fruit,chaud,amod,ADJ,0.5544973611831665,[],,
+déguster,prendre,advcl,VERB,0.5056039094924927,"[{""id"": 54931774, ""node1"": 80710, ""node2"": 86306, ""type"": 0, ""w"": 24.0}, {""id"": 54753594, ""node1"": 80710, ""node2"": 86306, ""type"": 5, ""w"": 84.0}]",r_syn,84.0
+prendre,couche,obj,NOUN,0.4664249718189239,[],,
+couche,dessert,nmod,NOUN,0.5660445690155029,[],,

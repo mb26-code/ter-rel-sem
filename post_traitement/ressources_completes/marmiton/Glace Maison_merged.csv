@@ -1,0 +1,21 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,glace,nmod,NOUN,0.5293558239936829,[],,
+glace,Maison,nmod,PROPN,0.5076203346252441,[],,
+glace,ingrédient,nmod,NOUN,0.6449928283691406,[],,
+glace,crème,amod,NOUN,0.6268568634986877,"[{""id"": 9983546, ""node1"": 141964, ""node2"": 44001, ""type"": 0, ""w"": 36.0}, {""id"": 563966, ""node1"": 141964, ""node2"": 44001, ""type"": 5, ""w"": 26.0}, {""id"": 271127, ""node1"": 141964, ""node2"": 44001, ""type"": 9, ""w"": 52.0}, {""id"": 653708370, ""node1"": 141964, ""node2"": 44001, ""type"": 666, ""w"": 5.0}, {""id"": 4599185, ""node1"": 141964, ""node2"": 44001, ""type"": 777, ""w"": 10.0}]",r_has_part,52.0
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+glace,sucre,amod,NOUN,0.651667594909668,"[{""id"": 796687414, ""node1"": 141964, ""node2"": 139481, ""type"": 0, ""w"": 21.0}, {""id"": 14798529, ""node1"": 141964, ""node2"": 139481, ""type"": 23, ""w"": -29.0}, {""id"": 112969239, ""node1"": 141964, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]",r_associated,21.0
+sucre,fruit,nmod,NOUN,0.6387148499488831,"[{""id"": 98831553, ""node1"": 139481, ""node2"": 87286, ""type"": 0, ""w"": 22.0}, {""id"": 9997585, ""node1"": 139481, ""node2"": 87286, ""type"": 10, ""w"": 32.0}]",r_holo,32.0
+mixeur,cuillère,nmod,NOUN,0.5916650295257568,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,congélateur,nmod,NOUN,0.6287068128585815,[],,
+congélateur,balance,nmod,NOUN,0.5224598050117493,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+glace,mixer,acl,VERB,0.618349015712738,[],,
+glace,fruit,nmod,NOUN,0.578676700592041,"[{""id"": 653703117, ""node1"": 141964, ""node2"": 87286, ""type"": 666, ""w"": 4.0}, {""id"": 440833911, ""node1"": 141964, ""node2"": 87286, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+mélanger,tout,obj,NOUN,0.528428852558136,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]",r_patient,110.0
+mettre,préparation,obj,NOUN,0.5001351833343506,[],,
+préparation,congélateur,nmod,NOUN,0.6211637854576111,[],,
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]",r_carac-1,5.0

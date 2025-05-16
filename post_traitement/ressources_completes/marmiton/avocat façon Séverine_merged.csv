@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+avocat,ingrédient,nmod,NOUN,0.4848114550113678,"[{""id"": 15370403, ""node1"": 104789, ""node2"": 123418, ""type"": 0, ""w"": 39.0}, {""id"": 506028, ""node1"": 104789, ""node2"": 123418, ""type"": 3, ""w"": 51.0}, {""id"": 581820109, ""node1"": 104789, ""node2"": 123418, ""type"": 6, ""w"": 29.0}]",r_domain,51.0
+avocat,curry,appos,NOUN,0.6133047938346863,[],,
+curry,avocat,appos,NOUN,0.6133047938346863,[],,
+curry,cocktail,appos,NOUN,0.6736592054367065,[],,
+avocat,saladier,nmod,NOUN,0.5216882228851318,"[{""id"": 47035350, ""node1"": 104789, ""node2"": 45455, ""type"": 15, ""w"": 26.0}]",r_lieu,26.0
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,couteau,nmod,NOUN,0.5726497173309326,"[{""id"": 139564, ""node1"": 51905, ""node2"": 32610, ""type"": 0, ""w"": 212.0}, {""id"": 87319445, ""node1"": 51905, ""node2"": 32610, ""type"": 666, ""w"": 1.0}]",r_associated,212.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+avocat,vider,acl,VERB,0.4459111988544464,[],,
+vider,avocat,obj,NOUN,0.4459111988544464,[],,
+vider,couper,advcl,VERB,0.4290776550769806,[],,
+couper,chair,obj,NOUN,0.5305777192115784,[],,
+morceau,gros,amod,ADJ,0.4822109341621399,[],,
+couper,tranche,obj,NOUN,0.4768869876861572,"[{""id"": 425448, ""node1"": 128828, ""node2"": 143123, ""type"": 0, ""w"": 51.0}, {""id"": 8900685, ""node1"": 128828, ""node2"": 143123, ""type"": 14, ""w"": -2.0}, {""id"": 539957273, ""node1"": 128828, ""node2"": 143123, ""type"": 31, ""w"": -25.0}]",r_associated,51.0
+tranche,ananas,nmod,NOUN,0.5421468615531921,[],,
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+mélanger,avocat,obj,NOUN,0.4893431663513183,"[{""id"": 1053451764, ""node1"": 37151, ""node2"": 104789, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+avocat,ananas,appos,ADV,0.459867388010025,[],,
+ananas,sauce,advcl,NOUN,0.7149780988693237,[],,
+sauce,cocktail,nmod,NOUN,0.7003676891326904,[],,
+ajouter,pointe,obj,NOUN,0.4546763002872467,[],,
+pointe,curry,nmod,NOUN,0.6522493958473206,[],,
+remettre,mélange,obj,NOUN,0.5359495282173157,[],,

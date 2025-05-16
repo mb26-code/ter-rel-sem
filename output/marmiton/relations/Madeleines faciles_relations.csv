@@ -1,0 +1,38 @@
+node1,node2,relations
+ingrédient,beurre,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]"
+beurre,levure,"[{""id"": 500926032, ""node1"": 140377, ""node2"": 53450, ""type"": 0, ""w"": 1.0}]"
+levure,chimique,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]"
+ingrédient,eau,"[{""id"": 245157298, ""node1"": 123418, ""node2"": 65012, ""type"": 8, ""w"": 36.0}]"
+eau,fleur,[]
+eau,oranger,[]
+oranger,sucre,[]
+sucre,oeuf,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]"
+oeuf,lait,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]"
+lait,moule,[]
+lait,four,[]
+four,saladier,[]
+saladier,cuillère,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]"
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,balance,[]
+balance,cuisine,[]
+balance,étape,[]
+four,240,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,[]
+fondre,beurre,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]"
+casserole,feu,"[{""id"": 252156, ""node1"": 57253, ""node2"": 143703, ""type"": 0, ""w"": 57.0}, {""id"": 96920401, ""node1"": 57253, ""node2"": 143703, ""type"": 15, ""w"": 30.0}, {""id"": 1762446, ""node1"": 57253, ""node2"": 143703, ""type"": 666, ""w"": 2.0}]"
+feu,doux,[]
+mélanger,oeuf,[]
+blanchir,mélange,[]
+ajouter,fleur,[]
+fleur,oranger,"[{""id"": 421883126, ""node1"": 28985, ""node2"": 33024, ""type"": 0, ""w"": 11.0}]"
+gramme,lait,[]
+ajouter,farine,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]"
+tour,beurre,[]
+restant,lait,[]
+verser,préparation,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]"
+préparation,dedans,[]
+enfourner,thermostat,[]
+baisser,thermostat,"[{""id"": 529523394, ""node1"": 91711, ""node2"": 130331, ""type"": 13, ""w"": 1.0}]"
+surveiller,cuisson,"[{""id"": 1007853514, ""node1"": 39170, ""node2"": 60056, ""type"": 14, ""w"": 31.0}]"
+sortie,four,[]

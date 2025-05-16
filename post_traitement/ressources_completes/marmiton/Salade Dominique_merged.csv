@@ -1,0 +1,19 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,salade,appos,NOUN,0.5926524996757507,[],,
+salade,Dominique,flat:name,PROPN,0.575988233089447,[],,
+salade,ingrédient,nmod,NOUN,0.7127874493598938,[],,
+salade,poivre,nmod,NOUN,0.7452256679534912,"[{""id"": 97758233, ""node1"": 118908, ""node2"": 139597, ""type"": 0, ""w"": 35.0}, {""id"": 97758234, ""node1"": 118908, ""node2"": 139597, ""type"": 9, ""w"": 40.0}]",r_has_part,40.0
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,moutarde,appos,ADJ,0.6875824332237244,[],,
+sel,pomme,nmod,NOUN,0.7310441136360168,[],,
+salade,concombre,nmod,NOUN,0.6306709051132202,"[{""id"": 1652827, ""node1"": 118908, ""node2"": 31570, ""type"": 0, ""w"": 141.0}, {""id"": 765200128, ""node1"": 118908, ""node2"": 31570, ""type"": 50, ""w"": 27.0}, {""id"": 675297497, ""node1"": 118908, ""node2"": 31570, ""type"": 666, ""w"": 11.0}]",r_associated,141.0
+salade,alléger,acl,VERB,0.5993120074272156,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+rose,baie,amod,NOUN,0.4161844551563263,"[{""id"": 344325782, ""node1"": 145583, ""node2"": 108952, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+rose,couteau,nmod,NOUN,0.5437483191490173,[],,
+rose,étape,nmod,NOUN,0.4653131663799286,[],,
+faire,sauce,obj,NOUN,0.6960442066192627,[],,
+rose,yaourt,nmod,NOUN,0.5581581592559814,[],,
+couper,légume,obj,NOUN,0.6484079957008362,"[{""id"": 435065646, ""node1"": 128828, ""node2"": 120603, ""type"": 0, ""w"": 26.0}, {""id"": 15079599, ""node1"": 128828, ""node2"": 120603, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+légume,morceau,nmod,NOUN,0.6784549951553345,[],,

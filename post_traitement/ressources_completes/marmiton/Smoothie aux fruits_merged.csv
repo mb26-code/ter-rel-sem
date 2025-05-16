@@ -1,0 +1,26 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+fruit,ingrédient,nmod,NOUN,0.562045156955719,[],,
+fruit,abricot,nmod,NOUN,0.4904134571552276,"[{""id"": 125062, ""node1"": 87286, ""node2"": 118502, ""type"": 0, ""w"": 383.0}, {""id"": 128053, ""node1"": 87286, ""node2"": 118502, ""type"": 8, ""w"": 434.0}, {""id"": 2212815, ""node1"": 87286, ""node2"": 118502, ""type"": 9, ""w"": -35.0}, {""id"": 15197254, ""node1"": 87286, ""node2"": 118502, ""type"": 27, ""w"": -21.0}]",r_hypo,434.0
+abricot,banane,nmod,NOUN,0.5294669270515442,"[{""id"": 1612225, ""node1"": 118502, ""node2"": 34046, ""type"": 0, ""w"": 53.0}]",r_associated,53.0
+abricot,fruit,appos,NOUN,0.4904134571552276,"[{""id"": 167479, ""node1"": 118502, ""node2"": 87286, ""type"": 0, ""w"": 555.0}, {""id"": 469150, ""node1"": 118502, ""node2"": 87286, ""type"": 3, ""w"": 26.0}, {""id"": 159437, ""node1"": 118502, ""node2"": 87286, ""type"": 6, ""w"": 296.0}, {""id"": 174738, ""node1"": 118502, ""node2"": 87286, ""type"": 10, ""w"": -60.0}, {""id"": 13995221, ""node1"": 118502, ""node2"": 87286, ""type"": 35, ""w"": 195.0}, {""id"": 2164243, ""node1"": 118502, ""node2"": 87286, ""type"": 666, ""w"": 107.0}]",r_associated,555.0
+fruit,mangue,nmod,NOUN,0.5518021583557129,"[{""id"": 393001, ""node1"": 87286, ""node2"": 54862, ""type"": 0, ""w"": 203.0}, {""id"": 132087, ""node1"": 87286, ""node2"": 54862, ""type"": 8, ""w"": 228.0}, {""id"": 15197190, ""node1"": 87286, ""node2"": 54862, ""type"": 27, ""w"": -21.0}]",r_hypo,228.0
+mangue,kiwi,nmod,NOUN,0.481765478849411,"[{""id"": 235758574, ""node1"": 54862, ""node2"": 31864, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+abricot,framboise,amod,ADJ,0.4630788266658783,"[{""id"": 558808240, ""node1"": 118502, ""node2"": 12402, ""type"": 0, ""w"": 60.0}]",r_associated,60.0
+framboise,pêche,obj,NOUN,0.4903726279735565,[],,
+pêche,prune,nmod,NOUN,0.4974991977214813,"[{""id"": 561260400, ""node1"": 145624, ""node2"": 76566, ""type"": 0, ""w"": 60.0}]",r_associated,60.0
+prune,lait,nmod,NOUN,0.6157575249671936,[],,
+blender,mixeur,nmod,NOUN,0.5062692165374756,"[{""id"": 570703424, ""node1"": 1979239, ""node2"": 78314, ""type"": 0, ""w"": 35.0}, {""id"": 1046575774, ""node1"": 1979239, ""node2"": 78314, ""type"": 8, ""w"": 20.0}]",r_associated,35.0
+mixeur,étape,nmod,NOUN,0.5223461985588074,[],,
+fruit,mixer,nmod,NOUN,0.5833689570426941,"[{""id"": 1045720601, ""node1"": 87286, ""node2"": 12170, ""type"": 24, ""w"": 66.0}]",r_agent-1,66.0
+fruit,tout,amod,ADJ,0.5248923301696777,[],,
+mettre,fruit,obj,NOUN,0.5133665204048157,[],,
+fruit,couper,acl,VERB,0.53367018699646,"[{""id"": 1045720747, ""node1"": 87286, ""node2"": 128828, ""type"": 24, ""w"": 43.0}, {""id"": 10744513, ""node1"": 87286, ""node2"": 128828, ""type"": 25, ""w"": 81.0}]",r_instr-1,81.0
+morceau,gros,amod,ADJ,0.4822109341621399,[],,
+fruit,morceau,nmod,NOUN,0.5414688587188721,[],,
+essentiel,banane,nsubj,NOUN,0.5617823004722595,[],,
+consistance,bon,amod,ADJ,0.4506252706050873,[],,
+donner,fruit,nsubj,NOUN,0.4878739416599273,[],,
+donner,boisson,obj,NOUN,0.5459240674972534,[],,
+boisson,frais,amod,ADJ,0.5276462435722351,"[{""id"": 915423434, ""node1"": 113547, ""node2"": 53495, ""type"": 0, ""w"": 21.0}, {""id"": 96920927, ""node1"": 113547, ""node2"": 53495, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+boisson,instantané,amod,ADJ,0.5073114633560181,"[{""id"": 780408360, ""node1"": 113547, ""node2"": 91741, ""type"": 8, ""w"": 25.0}]",r_hypo,25.0
+ajouter,lait,obj,NOUN,0.5957752466201782,"[{""id"": 373014760, ""node1"": 25099, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0

@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+champagne,ingrédient,nmod,NOUN,0.6200870275497437,[],,
+poivre,beurre,appos,NOUN,0.71866774559021,"[{""id"": 584573840, ""node1"": 139597, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+champagne,jaune,nmod,NOUN,0.5012295246124268,"[{""id"": 3161764, ""node1"": 57266, ""node2"": 86711, ""type"": 106, ""w"": 7.0}]",r_has_color,7.0
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]",r_associated,598.0
+oeuf,ciboulette,nmod,NOUN,0.5558125972747803,[],,
+saladier,fouet,nmod,NOUN,0.5588916540145874,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+fouet,four,nmod,NOUN,0.6685465574264526,"[{""id"": 288507172, ""node1"": 73888, ""node2"": 9190, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+eau,le,nmod,DET,0.4249178171157837,"[{""id"": 1030697396, ""node1"": 65012, ""node2"": 140509, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+eau,rendre,acl,VERB,0.5431551933288574,"[{""id"": 31839889, ""node1"": 65012, ""node2"": 65447, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+eau,filtrer,acl,VERB,0.5276976227760315,"[{""id"": 31129293, ""node1"": 65012, ""node2"": 62259, ""type"": 0, ""w"": 22.0}, {""id"": 1019098849, ""node1"": 65012, ""node2"": 62259, ""type"": 26, ""w"": 33.0}, {""id"": 31129292, ""node1"": 65012, ""node2"": 62259, ""type"": 27, ""w"": 26.0}]",r_patient-1,33.0
+réduire,sauce,obj,NOUN,0.673485279083252,"[{""id"": 1660257, ""node1"": 120230, ""node2"": 141110, ""type"": 0, ""w"": 60.0}, {""id"": 940663193, ""node1"": 120230, ""node2"": 141110, ""type"": 14, ""w"": 30.0}]",r_associated,60.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+soupe,champagne,nmod,NOUN,0.6536416411399841,[],,
+faire,fouetter,advcl,VERB,0.4752158522605896,[],,
+sauce,réduire,acl,VERB,0.673485279083252,"[{""id"": 796764043, ""node1"": 141110, ""node2"": 120230, ""type"": 0, ""w"": 25.0}, {""id"": 940332472, ""node1"": 141110, ""node2"": 120230, ""type"": 26, ""w"": 57.0}]",r_patient-1,57.0
+ajouter,ciboulette,obj,NOUN,0.550344705581665,"[{""id"": 373014517, ""node1"": 25099, ""node2"": 131816, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+champagne,rester,acl,VERB,0.4401460587978363,[],,
+coquille,vide,amod,ADJ,0.4097658097743988,[],,
+grill,minute,nmod,NOUN,0.5697076916694641,[],,
+grill,four,nmod,NOUN,0.6512710452079773,"[{""id"": 429195, ""node1"": 80591, ""node2"": 9190, ""type"": 0, ""w"": 76.0}, {""id"": 9985103, ""node1"": 80591, ""node2"": 9190, ""type"": 10, ""w"": 4.0}]",r_associated,76.0
+servir,chaud,amod,ADJ,0.5655732154846191,[],,

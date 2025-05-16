@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,poulet,nmod,NOUN,0.5722964406013489,[],,
+poulet,Louisiane,flat:name,PROPN,0.5804017782211304,[],,
+poulet,ingrédient,nmod,NOUN,0.7097015976905823,"[{""id"": 24929041, ""node1"": 146261, ""node2"": 123418, ""type"": 6, ""w"": 1.0}]",r_isa,1.0
+poulet,sel,appos,NOUN,0.7310043573379517,"[{""id"": 8795280, ""node1"": 146261, ""node2"": 13260, ""type"": 28, ""w"": -5.0}]",r_lieu-1,-5.0
+sel,poivre,amod,NOUN,0.6562960147857666,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,beurre,appos,NOUN,0.701371967792511,"[{""id"": 584573840, ""node1"": 139597, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+poulet,sucre,acl,NOUN,0.7317409515380859,[],,
+sucre,tomate,nmod,NOUN,0.7195672988891602,"[{""id"": 920115188, ""node1"": 139481, ""node2"": 22138, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+poulet,poudre,nmod,NOUN,0.6966333985328674,[],,
+poudre,piment,nmod,NOUN,0.6494670510292053,[],,
+poudre,poivron,nmod,NOUN,0.6789712905883789,[],,
+poudre,rouge,amod,ADJ,0.573184609413147,"[{""id"": 529448639, ""node1"": 139470, ""node2"": 86356, ""type"": 17, ""w"": 31.0}]",r_carac,31.0
+filet,poulet,nmod,NOUN,0.6209192872047424,"[{""id"": 796711931, ""node1"": 42188, ""node2"": 146261, ""type"": 0, ""w"": 25.0}, {""id"": 775213396, ""node1"": 42188, ""node2"": 146261, ""type"": 174, ""w"": 25.0}, {""id"": 113026988, ""node1"": 42188, ""node2"": 146261, ""type"": 777, ""w"": 10.0}]",r_associated,25.0
+filet,eau,appos,NOUN,0.5990857481956482,"[{""id"": 98284539, ""node1"": 42188, ""node2"": 65012, ""type"": 0, ""w"": 31.0}, {""id"": 418498460, ""node1"": 42188, ""node2"": 65012, ""type"": 3, ""w"": 35.0}, {""id"": 3113857, ""node1"": 42188, ""node2"": 65012, ""type"": 15, ""w"": 53.0}]",r_lieu,53.0
+eau,huile,acl,NOUN,0.5924809575080872,"[{""id"": 922137128, ""node1"": 65012, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+balance,cuisine,nmod,NOUN,0.6009083986282349,[],,
+assiette,étape,nmod,NOUN,0.5391367077827454,[],,
+filet,oignon,obj,NOUN,0.6199843883514404,"[{""id"": 423999015, ""node1"": 42188, ""node2"": 123307, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+gousse,ail,nmod,NOUN,0.5413048267364502,"[{""id"": 1841967, ""node1"": 3889, ""node2"": 26979, ""type"": 0, ""w"": 58.0}, {""id"": 665112731, ""node1"": 3889, ""node2"": 26979, ""type"": 174, ""w"": 40.0}, {""id"": 714921743, ""node1"": 3889, ""node2"": 26979, ""type"": 666, ""w"": 3.0}]",r_associated,58.0
+chauffer,gramme,obj,NOUN,0.5576814413070679,[],,
+gramme,beurre,nmod,NOUN,0.604022741317749,[],,
+poêle,cuire,acl,VERB,0.7489591240882874,"[{""id"": 463498043, ""node1"": 119686, ""node2"": 5115, ""type"": 0, ""w"": 51.0}, {""id"": 365344037, ""node1"": 119686, ""node2"": 5115, ""type"": 30, ""w"": 44.0}, {""id"": 1526743, ""node1"": 119686, ""node2"": 5115, ""type"": 666, ""w"": 2.0}]",r_associated,51.0
+cuire,filet,obj,NOUN,0.7381971478462219,[],,
+beurre,mélanger,acl,VERB,0.6686049103736877,[],,
+cuillère,soupe,nmod,NOUN,0.6428441405296326,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+soupe,huile,nmod,NOUN,0.675014078617096,"[{""id"": 3346889, ""node1"": 117152, ""node2"": 141971, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+huile,olive,nmod,ADJ,0.573360800743103,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+Ajoutez,oignon,obj,NOUN,0.5026745796203613,[],,
+feu,vif,amod,ADJ,0.5199712514877319,"[{""id"": 418102926, ""node1"": 143703, ""node2"": 80204, ""type"": 0, ""w"": 13.0}, {""id"": 221184, ""node1"": 143703, ""node2"": 80204, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
+cuire,remuer,advcl,VERB,0.6838507056236267,[],,
+ajouter,poudre,obj,NOUN,0.5804365277290344,[],,
+poudre,thym,appos,NOUN,0.6315697431564331,[],,
+oignon,sécher,acl,VERB,0.6402921080589294,[],,
+mélanger,cuillère,obj,NOUN,0.6017835140228271,"[{""id"": 3121051, ""node1"": 37151, ""node2"": 51905, ""type"": 0, ""w"": 41.0}, {""id"": 148627, ""node1"": 37151, ""node2"": 51905, ""type"": 16, ""w"": 194.0}]",r_instr,194.0
+soupe,farine,nmod,NOUN,0.7193624973297119,[],,
+centre,assiette,nmod,NOUN,0.5670499801635742,[],,
+entourer,sauce,obj,NOUN,0.6704996228218079,[],,

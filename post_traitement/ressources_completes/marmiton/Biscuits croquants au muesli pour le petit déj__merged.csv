@@ -1,0 +1,42 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,biscuit,nmod,NOUN,0.5244453549385071,[],,
+biscuit,croquant,amod,ADJ,0.5884861946105957,"[{""id"": 798729039, ""node1"": 62524, ""node2"": 96376, ""type"": 0, ""w"": 23.0}, {""id"": 246299896, ""node1"": 62524, ""node2"": 96376, ""type"": 8, ""w"": 38.0}, {""id"": 77538473, ""node1"": 62524, ""node2"": 96376, ""type"": 17, ""w"": 27.0}]",r_hypo,38.0
+déj,petit,amod,ADJ,0.4155711829662323,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,beurre,acl,NOUN,0.7321043014526367,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]",r_associated,69.0
+beurre,miel,nmod,NOUN,0.6565355062484741,"[{""id"": 500926057, ""node1"": 140377, ""node2"": 136055, ""type"": 0, ""w"": 4.0}]",r_associated,4.0
+miel,liquide,amod,ADJ,0.6094732880592346,"[{""id"": 62362311, ""node1"": 136055, ""node2"": 140315, ""type"": 0, ""w"": 97.0}, {""id"": 2045771, ""node1"": 136055, ""node2"": 140315, ""type"": 17, ""w"": 35.0}, {""id"": 1939698, ""node1"": 136055, ""node2"": 140315, ""type"": 666, ""w"": 6.0}]",r_associated,97.0
+titre,sucre,nmod,NOUN,0.6168144345283508,[],,
+sucre,canne,nmod,NOUN,0.6069387793540955,"[{""id"": 107598, ""node1"": 139481, ""node2"": 144267, ""type"": 0, ""w"": 241.0}, {""id"": 160436, ""node1"": 139481, ""node2"": 144267, ""type"": 15, ""w"": 78.0}, {""id"": 1763995, ""node1"": 139481, ""node2"": 144267, ""type"": 666, ""w"": 1.0}]",r_associated,241.0
+sucre,grille,nmod,NOUN,0.7015109062194824,[],,
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+pièce,four,nmod,NOUN,0.6606661081314087,[],,
+four,micro-onde,nmod,NOUN,0.6579254269599915,"[{""id"": 363193, ""node1"": 9190, ""node2"": 47773, ""type"": 0, ""w"": 80.0}, {""id"": 243399915, ""node1"": 9190, ""node2"": 47773, ""type"": 8, ""w"": 28.0}]",r_associated,80.0
+micro-onde,saladier,nmod,NOUN,0.6247562766075134,[],,
+pièce,casserole,nmod,NOUN,0.5682159662246704,[],,
+casserole,cuillère,nmod,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,top,nmod,NOUN,0.4335919320583343,[],,
+papier,meilleur,amod,ADJ,0.4798659384250641,[],,
+top,papier,nmod,NOUN,0.4000419974327087,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+four,150,nmod,NUM,0.5138540863990784,[],,
+pièce,thermostat,nmod,NOUN,0.4843928813934326,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+verser,ingrédient,obj,NOUN,0.5961355566978455,[],,
+ingrédient,minute,nmod,NOUN,0.5584479570388794,[],,
+reposer,préparation,obj,NOUN,0.5000928044319153,"[{""id"": 12983122, ""node1"": 106663, ""node2"": 33634, ""type"": 13, ""w"": 51.0}]",r_agent,51.0
+tas,petit,amod,ADJ,0.4517754316329956,[],,
+faire,tas,obj,ADV,0.4565950930118561,[],,
+plat,papier,nmod,NOUN,0.6175196170806885,[],,
+plat,utiliser,acl,VERB,0.6232938170433044,"[{""id"": 93507608, ""node1"": 36327, ""node2"": 62611, ""type"": 26, ""w"": 34.0}]",r_patient-1,34.0
+utiliser,plaque,obj,NOUN,0.5256801247596741,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+enfourner,doré,advcl,ADJ,0.5437523126602173,[],,
+éteindre,four,obj,NOUN,0.6389097571372986,[],,
+porte,four,nmod,NOUN,0.6304441094398499,"[{""id"": 9977242, ""node1"": 143613, ""node2"": 9190, ""type"": 10, ""w"": 21.0}]",r_holo,21.0
+laisser,biscuit,obj,NOUN,0.5602381825447083,[],,
+nuit,tout,amod,ADJ,0.4464542865753174,[],,
+nuit,four,nmod,NOUN,0.6367581486701965,[],,

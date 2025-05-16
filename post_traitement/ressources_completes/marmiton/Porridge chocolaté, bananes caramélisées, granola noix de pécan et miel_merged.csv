@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+lait,coco,amod,ADV,0.5941302180290222,"[{""id"": 796793155, ""node1"": 86296, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+coco,banane,obj,NOUN,0.5666763186454773,[],,
+banane,banane,appos,NOUN,0.500211238861084,"[{""id"": 283007, ""node1"": 34046, ""node2"": 34046, ""type"": 19, ""w"": 58.0}, {""id"": 982772121, ""node1"": 34046, ""node2"": 34046, ""type"": 26, ""w"": -25.0}, {""id"": 93900914, ""node1"": 34046, ""node2"": 34046, ""type"": 50, ""w"": 27.0}, {""id"": 376041404, ""node1"": 34046, ""node2"": 34046, ""type"": 51, ""w"": 27.0}]",r_lemma,58.0
+lait,sucre,nmod,NOUN,0.6437966823577881,[],,
+lait,robot,appos,NOUN,0.6031796932220459,[],,
+robot,bol,nmod,NOUN,0.5342860817909241,[],,
+bol,balance,nmod,NOUN,0.5318400859832764,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+ingrédient,étape,nmod,NOUN,0.4697338342666626,[],,
+ingrédient,récipient,nmod,NOUN,0.6642211675643921,[],,
+ingrédient,chauffer,acl,VERB,0.7100048065185547,[],,
+chauffer,lait,obj,NOUN,0.6334350109100342,"[{""id"": 31845126, ""node1"": 90994, ""node2"": 86296, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+lait,végétal,amod,ADJ,0.593098521232605,"[{""id"": 97133882, ""node1"": 86296, ""node2"": 136507, ""type"": 0, ""w"": 16.0}, {""id"": 395858565, ""node1"": 86296, ""node2"": 136507, ""type"": 666, ""w"": 1.0}]",r_associated,16.0
+bol,le,nmod,NOUN,0.4069209992885589,[],,
+bol,contenir,acl,VERB,0.5320158004760742,"[{""id"": 1058913994, ""node1"": 145405, ""node2"": 34519, ""type"": 37, ""w"": 27.0}]",r_telic_role,27.0
+avoine,chocolat,nmod,NOUN,0.5928857922554016,[],,
+cannelle,poudre,nmod,NOUN,0.6294552683830261,"[{""id"": 214231, ""node1"": 112959, ""node2"": 139470, ""type"": 0, ""w"": 52.0}]",r_associated,52.0
+mélanger,verser,advcl,VERB,0.4985589385032654,"[{""id"": 797891024, ""node1"": 37151, ""node2"": 104506, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+verser,sucre,obj,NOUN,0.6521592736244202,[],,
+sucre,coco,nmod,ADV,0.6447168588638306,[],,
+huile,coco,acl,ADV,0.6010280847549438,"[{""id"": 669863245, ""node1"": 141971, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+couper,banane,obj,NOUN,0.5668771266937256,[],,
+dorer,coco,advcl,NOUN,0.6323311924934387,[],,
+aide,robot,nmod,NOUN,0.4581281542778015,[],,
+banane,congeler,amod,ADJ,0.6219136714935303,[],,
+aide,bol,nmod,NOUN,0.5241472721099854,[],,
+côté,croustillant,amod,ADJ,0.4793595671653747,[],,

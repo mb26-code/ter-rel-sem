@@ -1,0 +1,53 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+piment,fromage,nmod,NOUN,0.6950727105140686,"[{""id"": 673287849, ""node1"": 128791, ""node2"": 141687, ""type"": 0, ""w"": 21.0}, {""id"": 1022099851, ""node1"": 128791, ""node2"": 141687, ""type"": 75, ""w"": 44.0}, {""id"": 1022084990, ""node1"": 128791, ""node2"": 141687, ""type"": 82, ""w"": 25.0}]",r_accomp,44.0
+faire,ingrédient,nmod,NOUN,0.6170313358306885,[],,
+ingrédient,sel,appos,NOUN,0.6997572183609009,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+sel,poivre,nmod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+ingrédient,piment,nmod,NOUN,0.667888879776001,"[{""id"": 920040264, ""node1"": 123418, ""node2"": 128791, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+piment,vert,amod,ADJ,0.5778583884239197,"[{""id"": 2160977, ""node1"": 128791, ""node2"": 26976, ""type"": 0, ""w"": 69.0}, {""id"": 8552901, ""node1"": 128791, ""node2"": 26976, ""type"": 17, ""w"": 24.0}, {""id"": 3193282, ""node1"": 128791, ""node2"": 26976, ""type"": 106, ""w"": 1.0}, {""id"": 723379915, ""node1"": 128791, ""node2"": 26976, ""type"": 666, ""w"": 3.0}]",r_associated,69.0
+piment,vache,appos,NOUN,0.5951862931251526,[],,
+fromage,frais,amod,ADJ,0.5452271103858948,"[{""id"": 198759, ""node1"": 141687, ""node2"": 53495, ""type"": 17, ""w"": 110.0}]",r_carac,110.0
+fromage,oeuf,nmod,NOUN,0.5934737324714661,[],,
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+bol,cuillère,nmod,NOUN,0.5572551488876343,"[{""id"": 1046576301, ""node1"": 145405, ""node2"": 51905, ""type"": 8, ""w"": 20.0}]",r_hypo,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,saladier,nmod,NOUN,0.6106023788452148,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+cuillère,petit,amod,ADJ,0.5946335196495056,[],,
+saladier,cuillère,appos,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+cuisine,frigo,nmod,NOUN,0.6375747919082642,"[{""id"": 118986, ""node1"": 16033, ""node2"": 45624, ""type"": 0, ""w"": 303.0}, {""id"": 9973132, ""node1"": 16033, ""node2"": 45624, ""type"": 9, ""w"": 10.0}, {""id"": 15222678, ""node1"": 16033, ""node2"": 45624, ""type"": 27, ""w"": 27.0}, {""id"": 151638, ""node1"": 16033, ""node2"": 45624, ""type"": 28, ""w"": 868.0}]",r_lieu-1,868.0
+frigo,étape,nmod,NOUN,0.5452443957328796,[],,
+faire,pâte,obj,NOUN,0.662661075592041,"[{""id"": 97862385, ""node1"": 87528, ""node2"": 34069, ""type"": 14, ""w"": 32.0}]",r_patient,32.0
+faire,accrocher,advcl,VERB,0.4276894032955169,[],,
+épais,lui,nsubj,PRON,0.4124627411365509,[],,
+piment,épais,acl,ADJ,0.5895425081253052,[],,
+faire,garder,advcl,VERB,0.4506239593029022,[],,
+garder,queue,obj,NOUN,0.4867101013660431,[],,
+faire,mélanger,advcl,VERB,0.5297929048538208,[],,
+mélanger,fromage,obj,NOUN,0.6724821329116821,[],,
+faire,saler,acl,VERB,0.5950424671173096,[],,
+obtenir,pâte,obj,NOUN,0.6173189282417297,[],,
+pâte,souple,amod,ADJ,0.5932251811027527,"[{""id"": 31873270, ""node1"": 34069, ""node2"": 119048, ""type"": 17, ""w"": 22.0}]",r_carac,22.0
+sortir,fromage,obj,NOUN,0.6129188537597656,[],,
+fromage,réfrigérateur,nmod,NOUN,0.660968005657196,"[{""id"": 915290111, ""node1"": 141687, ""node2"": 128721, ""type"": 0, ""w"": 20.0}, {""id"": 11359049, ""node1"": 141687, ""node2"": 128721, ""type"": 15, ""w"": 54.0}, {""id"": 3960390, ""node1"": 141687, ""node2"": 128721, ""type"": 777, ""w"": 8.0}]",r_lieu,54.0
+réfrigérateur,heure,nmod,NOUN,0.4385888278484344,[],,
+réfrigérateur,avant,nmod,ADP,0.4668847322463989,[],,
+cuillère,remplir,acl,VERB,0.5142411589622498,"[{""id"": 376187646, ""node1"": 51905, ""node2"": 95980, ""type"": 25, ""w"": 29.0}]",r_instr-1,29.0
+remplir,piment,obj,NOUN,0.6043630838394165,[],,
+piment,mélanger,acl,VERB,0.6575685143470764,"[{""id"": 673298331, ""node1"": 128791, ""node2"": 37151, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+devoir,piment,nsubj,NOUN,0.5720230937004089,[],,
+devoir,fromage,nsubj,NOUN,0.575141429901123,[],,
+peau,extérieur,amod,ADJ,0.4784999787807464,[],,
+peau,piment,nmod,NOUN,0.607265055179596,"[{""id"": 97333143, ""node1"": 109785, ""node2"": 128791, ""type"": 0, ""w"": 26.0}, {""id"": 97333503, ""node1"": 109785, ""node2"": 128791, ""type"": 10, ""w"": 30.0}]",r_holo,30.0
+chauffer,huile,obj,NOUN,0.64256751537323,[],,
+chauffer,obtenir,advcl,VERB,0.5018174648284912,[],,
+chauffer,piment,obj,NOUN,0.6947647333145142,[],,
+piment,pâte,nmod,NOUN,0.7249380946159363,"[{""id"": 673289751, ""node1"": 128791, ""node2"": 34069, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+passer,recouvrir,advcl,VERB,0.4673394560813904,[],,
+cuire,le,obj,PRON,0.4500194191932678,[],,
+retourner,temps,nmod,NOUN,0.4129794836044311,[],,
+cuire,il,nsubj,PRON,0.4034532904624939,[],,
+pouvoir,cuire,advcl,VERB,0.6887212991714478,[],,
+papier,absorber,acl,VERB,0.4968288838863373,[],,
+peu,salade,nmod,NOUN,0.5931059718132019,[],,

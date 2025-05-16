@@ -1,0 +1,27 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+mettre,crème,advcl,NOUN,0.6161975264549255,[],,
+perle,ingrédient,nmod,NOUN,0.5700419545173645,[],,
+perle,crème,appos,NOUN,0.5881489515304565,[],,
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+crème,sucre,nmod,NOUN,0.7060490250587463,"[{""id"": 561269855, ""node1"": 44001, ""node2"": 139481, ""type"": 0, ""w"": 61.0}]",r_associated,61.0
+sucre,lait,nmod,NOUN,0.6437966823577881,[],,
+perle,jaune,amod,NOUN,0.4986181855201721,"[{""id"": 3183084, ""node1"": 139228, ""node2"": 86711, ""type"": 106, ""w"": 21.0}]",r_has_color,21.0
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]",r_associated,598.0
+perle,casserole,appos,NOUN,0.5791873931884766,[],,
+casserole,fouet,nmod,NOUN,0.5830783247947693,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+cuisine,couvercle,nmod,NOUN,0.721039354801178,"[{""id"": 15303653, ""node1"": 16033, ""node2"": 89523, ""type"": 0, ""w"": 243.0}, {""id"": 15173457, ""node1"": 16033, ""node2"": 89523, ""type"": 27, ""w"": 22.0}, {""id"": 98290054, ""node1"": 16033, ""node2"": 89523, ""type"": 28, ""w"": 26.0}]",r_associated,243.0
+couvercle,balance,nmod,NOUN,0.5437039136886597,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+fouet,étape,nmod,NOUN,0.4946097731590271,[],,
+mettre,lait,obj,NOUN,0.6112686395645142,[],,
+gousse,vanille,nmod,NOUN,0.5133623480796814,"[{""id"": 723347912, ""node1"": 3889, ""node2"": 140463, ""type"": 0, ""w"": 27.0}, {""id"": 671656975, ""node1"": 3889, ""node2"": 140463, ""type"": 58, ""w"": 25.0}, {""id"": 714921745, ""node1"": 3889, ""node2"": 140463, ""type"": 666, ""w"": 3.0}]",r_associated,27.0
+ébullition,remuer,acl,VERB,0.5175504088401794,"[{""id"": 984351087, ""node1"": 83252, ""node2"": 125556, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+mettre,feu,obj,NOUN,0.5488595962524414,"[{""id"": 392082710, ""node1"": 132366, ""node2"": 143703, ""type"": 0, ""w"": 26.0}, {""id"": 441608290, ""node1"": 132366, ""node2"": 143703, ""type"": 14, ""w"": 100.0}, {""id"": 392082709, ""node1"": 132366, ""node2"": 143703, ""type"": 31, ""w"": 28.0}]",r_patient,100.0
+mettre,couvrir,advcl,VERB,0.4463893473148346,[],,
+remettre,casserole,obj,NOUN,0.6108072996139526,[],,
+fois,ébullition,nmod,NOUN,0.4197856187820434,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+minute,feu,nmod,NOUN,0.5576279163360596,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+incorporer,remuer,advcl,VERB,0.4978745579719543,[],,

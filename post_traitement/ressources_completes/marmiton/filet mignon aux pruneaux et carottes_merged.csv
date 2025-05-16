@@ -1,0 +1,44 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,filet,appos,NOUN,0.4820869565010071,[],,
+filet,mignon,amod,ADJ,0.4982842803001404,"[{""id"": 415002564, ""node1"": 42188, ""node2"": 128961, ""type"": 0, ""w"": 27.0}, {""id"": 14805958, ""node1"": 42188, ""node2"": 128961, ""type"": 17, ""w"": 23.0}]",r_associated,27.0
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+carotte,farine,nsubj,NOUN,0.7025726437568665,[],,
+farine,beurre,acl,NOUN,0.7180377840995789,"[{""id"": 423997331, ""node1"": 127629, ""node2"": 140377, ""type"": 0, ""w"": 3.0}]",r_associated,3.0
+titre,carotte,appos,NOUN,0.5166646838188171,[],,
+carotte,filet,acl,NOUN,0.615032434463501,[],,
+titre,confiture,nmod,NOUN,0.5186997056007385,[],,
+confiture,abricot,acl,NOUN,0.5505228042602539,"[{""id"": 411049, ""node1"": 70793, ""node2"": 118502, ""type"": 0, ""w"": 141.0}, {""id"": 11340043, ""node1"": 70793, ""node2"": 118502, ""type"": 28, ""w"": 38.0}]",r_associated,141.0
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+blanc,bouillon,obj,NOUN,0.6178013682365417,[],,
+bouillon,volaille,nmod,NOUN,0.6946349143981934,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+abricot,pinceau,obj,NOUN,0.4684298038482666,[],,
+pinceau,couteau,nmod,NOUN,0.4793228805065155,"[{""id"": 558826967, ""node1"": 79400, ""node2"": 32610, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+pinceau,cuillère,nmod,NOUN,0.5075318813323975,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,couvercle,nmod,NOUN,0.6197326183319092,[],,
+couvercle,balance,nmod,NOUN,0.5437039136886597,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+pinceau,étape,nmod,NOUN,0.4064047634601593,[],,
+confiture,dorer,acl,VERB,0.6168700456619263,[],,
+dorer,filet,obj,NOUN,0.6001845598220825,[],,
+côté,tout,amod,ADJ,0.4549163579940796,[],,
+filet,côté,nmod,NOUN,0.5149655342102051,[],,
+peu,huile,nmod,NOUN,0.5692240595817566,[],,
+Réserver,couper,acl,VERB,0.4320582151412964,[],,
+couper,carotte,obj,NOUN,0.5670887231826782,"[{""id"": 93436614, ""node1"": 128828, ""node2"": 76234, ""type"": 14, ""w"": 32.0}]",r_patient,32.0
+carotte,éplucher,acl,VERB,0.5695942044258118,"[{""id"": 796703352, ""node1"": 76234, ""node2"": 59879, ""type"": 0, ""w"": 31.0}, {""id"": 15066170, ""node1"": 76234, ""node2"": 59879, ""type"": 26, ""w"": 31.0}]",r_associated,31.0
+dorer,oignon,obj,NOUN,0.6056223511695862,"[{""id"": 1021986507, ""node1"": 67147, ""node2"": 123307, ""type"": 0, ""w"": 40.0}, {""id"": 93571698, ""node1"": 67147, ""node2"": 123307, ""type"": 13, ""w"": 30.0}, {""id"": 93547211, ""node1"": 67147, ""node2"": 123307, ""type"": 14, ""w"": 30.0}]",r_associated,40.0
+dorer,mettre,advcl,VERB,0.5209039449691772,[],,
+mettre,morceau,obj,NOUN,0.5564393401145935,[],,
+morceau,beurre,nmod,NOUN,0.6982128024101257,[],,
+dorer,poivrer,advcl,VERB,0.5339983701705933,[],,
+remettre,viande,obj,NOUN,0.7038813829421997,[],,
+ajouter,carotte,obj,NOUN,0.5934749245643616,[],,
+carotte,viande,appos,NOUN,0.71723872423172,[],,
+carotte,devoir,acl:relcl,VERB,0.5211536884307861,[],,
+laisser,minute,obj,NOUN,0.4280168712139129,[],,
+fin,minute,nmod,NOUN,0.4153892695903778,[],,
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+dorer,ajouter,advcl,VERB,0.521462619304657,[],,
+cuillère,soupe,acl,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+soupe,confiture,nmod,NOUN,0.6903072595596313,[],,

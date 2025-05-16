@@ -1,0 +1,30 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+moutarde,ingrédient,nmod,NOUN,0.6919505596160889,[],,
+moutarde,sel,appos,NOUN,0.6875824332237244,"[{""id"": 652308756, ""node1"": 28335, ""node2"": 13260, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,moutarde,obj,NOUN,0.6478980779647827,"[{""id"": 584573808, ""node1"": 139597, ""node2"": 28335, ""type"": 0, ""w"": 17.0}, {""id"": 993686855, ""node1"": 139597, ""node2"": 28335, ""type"": 666, ""w"": 2.0}]",r_associated,17.0
+vinaigre,vin,nmod,NOUN,0.6279023885726929,"[{""id"": 260680, ""node1"": 145443, ""node2"": 35798, ""type"": 0, ""w"": 213.0}, {""id"": 82356060, ""node1"": 145443, ""node2"": 35798, ""type"": 6, ""w"": 36.0}, {""id"": 375688370, ""node1"": 145443, ""node2"": 35798, ""type"": 56, ""w"": 35.0}, {""id"": 1527098, ""node1"": 145443, ""node2"": 35798, ""type"": 666, ""w"": 2.0}]",r_associated,213.0
+vin,beurre,nmod,NOUN,0.6824631690979004,"[{""id"": 909858241, ""node1"": 35798, ""node2"": 140377, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+côte,porc,nmod,NOUN,0.5510370135307312,"[{""id"": 7156687, ""node1"": 141949, ""node2"": 71135, ""type"": 0, ""w"": 51.0}]",r_associated,51.0
+casserole,saladier,obj,NOUN,0.6254573464393616,[],,
+saladier,balance,appos,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+chauffer,beurre,obj,NOUN,0.7066839933395386,[],,
+poêle,grand,amod,ADJ,0.628409743309021,[],,
+revenir,côte,obj,NOUN,0.4247273504734039,[],,
+minute,côté,nmod,NOUN,0.4591824114322662,[],,
+plat,service,nmod,NOUN,0.5934174060821533,"[{""id"": 465259, ""node1"": 36327, ""node2"": 24247, ""type"": 0, ""w"": 81.0}, {""id"": 1726713, ""node1"": 36327, ""node2"": 24247, ""type"": 5, ""w"": 92.0}]",r_syn,92.0
+Ajoutez,échalote,obj,NOUN,0.4759567975997925,[],,
+échalote,gras,nmod,NOUN,0.6020245552062988,[],,
+gras,poêle,nmod,NOUN,0.6764956116676331,[],,
+cuire,le,obj,PRON,0.4500194191932678,[],,
+échalote,cuire,acl,VERB,0.7570468783378601,[],,
+cuire,brûler,advcl,VERB,0.6950098276138306,"[{""id"": 12309985, ""node1"": 5115, ""node2"": 75156, ""type"": 0, ""w"": 29.0}, {""id"": 558559, ""node1"": 5115, ""node2"": 75156, ""type"": 5, ""w"": 243.0}, {""id"": 2462693, ""node1"": 5115, ""node2"": 75156, ""type"": 20, ""w"": 28.0}, {""id"": 97347631, ""node1"": 5115, ""node2"": 75156, ""type"": 67, ""w"": 21.0}]",r_syn,243.0
+verser,vinaigre,obj,NOUN,0.6104941368103027,"[{""id"": 15085300, ""node1"": 104506, ""node2"": 145443, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+mijoter,minute,obj,NOUN,0.6123385429382324,[],,
+sortir,poêle,obj,NOUN,0.6358218193054199,[],,
+poêle,feu,nmod,NOUN,0.623403787612915,"[{""id"": 12351768, ""node1"": 119686, ""node2"": 143703, ""type"": 0, ""w"": 31.0}, {""id"": 12199892, ""node1"": 119686, ""node2"": 143703, ""type"": 5, ""w"": 35.0}, {""id"": 1786279, ""node1"": 119686, ""node2"": 143703, ""type"": 666, ""w"": 1.0}]",r_syn,35.0
+incorporer,moutarde,obj,NOUN,0.6127996444702148,[],,
+moutarde,sauce,nmod,NOUN,0.692589521408081,"[{""id"": 98623322, ""node1"": 28335, ""node2"": 141110, ""type"": 0, ""w"": 52.0}, {""id"": 97415118, ""node1"": 28335, ""node2"": 141110, ""type"": 10, ""w"": 31.0}, {""id"": 376038001, ""node1"": 28335, ""node2"": 141110, ""type"": 51, ""w"": 27.0}, {""id"": 1763882, ""node1"": 28335, ""node2"": 141110, ""type"": 666, ""w"": 6.0}]",r_associated,52.0

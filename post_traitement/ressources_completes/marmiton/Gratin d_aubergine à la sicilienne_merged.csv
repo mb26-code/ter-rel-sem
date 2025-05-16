@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,gratin,nmod,NOUN,0.4893978536128998,[],,
+gratin,aubergine,nmod,NOUN,0.6128026247024536,[],,
+gratin,ingrédient,nmod,NOUN,0.6309539079666138,[],,
+gratin,gruyère,nmod,NOUN,0.5780057907104492,"[{""id"": 607823224, ""node1"": 12942, ""node2"": 54095, ""type"": 0, ""w"": 26.0}, {""id"": 606747321, ""node1"": 12942, ""node2"": 54095, ""type"": 9, ""w"": 51.0}]",r_has_part,51.0
+aubergine,huile,amod,NOUN,0.6152850985527039,"[{""id"": 581156615, ""node1"": 14731, ""node2"": 141971, ""type"": 0, ""w"": 43.0}]",r_associated,43.0
+gratin,concentrer,acl,VERB,0.5405157804489136,[],,
+tomate,oeuf,nmod,NOUN,0.6164442896842957,[],,
+Plat,gratin,nmod,NOUN,0.4779236614704132,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+verser,boîte,obj,NOUN,0.5061772465705872,[],,
+boîte,concentré,nmod,NOUN,0.4479367434978485,[],,
+concentré,tomate,nmod,NOUN,0.6039107441902161,[],,
+boîte,poêle,nmod,NOUN,0.6208767890930176,[],,
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+ajouter,œuf,obj,NOUN,0.5268428325653076,[],,
+œuf,battre,acl,VERB,0.5265821218490601,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+prendre,plat,obj,NOUN,0.6132282018661499,"[{""id"": 368488351, ""node1"": 86306, ""node2"": 36327, ""type"": 0, ""w"": 28.0}, {""id"": 368488350, ""node1"": 86306, ""node2"": 36327, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+plat,gratin,nmod,NOUN,0.6157448291778564,"[{""id"": 415003453, ""node1"": 36327, ""node2"": 12942, ""type"": 0, ""w"": 28.0}, {""id"": 246264043, ""node1"": 36327, ""node2"": 12942, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+prendre,verser,advcl,VERB,0.4515309333801269,[],,
+verser,contenu,obj,NOUN,0.4781818091869354,[],,
+contenu,poêle,nmod,NOUN,0.6419464349746704,[],,
+minute,four,nmod,NOUN,0.6574273109436035,[],,
+four,moyen,amod,ADJ,0.663184642791748,[],,
+cuire,thermostat,appos,NOUN,0.7162628769874573,[],,
+thermostat,degré,nmod,NOUN,0.407830536365509,[],,

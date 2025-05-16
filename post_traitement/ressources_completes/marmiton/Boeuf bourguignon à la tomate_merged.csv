@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,boeuf,appos,NOUN,0.5486986637115479,[],,
+boeuf,bourguignon,amod,ADJ,0.5500010251998901,"[{""id"": 98287310, ""node1"": 47417, ""node2"": 72370, ""type"": 0, ""w"": 80.0}]",r_associated,80.0
+boeuf,tomate,nmod,NOUN,0.6409834027290344,[],,
+tomate,ingrédient,nmod,NOUN,0.6937788128852844,"[{""id"": 24850719, ""node1"": 22138, ""node2"": 123418, ""type"": 0, ""w"": 43.0}, {""id"": 24842052, ""node1"": 22138, ""node2"": 123418, ""type"": 6, ""w"": 160.0}]",r_isa,160.0
+boeuf,sel,appos,NOUN,0.7255796790122986,[],,
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+boeuf,oignon,nmod,NOUN,0.6415389776229858,[],,
+oignon,bourguignon,acl:relcl,NOUN,0.5975062251091003,[],,
+boeuf,moelle,nmod,NOUN,0.5600637197494507,[],,
+moelle,huile,acl,NOUN,0.5760874152183533,[],,
+pinceau,couvercle,nmod,NOUN,0.4981644749641418,[],,
+couvercle,cocotte,nmod,NOUN,0.6516067981719971,"[{""id"": 98634682, ""node1"": 89523, ""node2"": 120952, ""type"": 0, ""w"": 19.0}, {""id"": 98313574, ""node1"": 89523, ""node2"": 120952, ""type"": 10, ""w"": 35.0}, {""id"": 5745846, ""node1"": 89523, ""node2"": 120952, ""type"": 777, ""w"": 10.0}]",r_holo,35.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+boeuf,étape,nmod,NOUN,0.5655398964881897,[],,
+boeuf,faire,nmod,AUX,0.6249105334281921,[],,
+boeuf,revenir,acl,VERB,0.603035032749176,[],,
+revenir,viande,obj,NOUN,0.7223973870277405,[],,
+cuillère,huile,nmod,NOUN,0.612982988357544,"[{""id"": 775213351, ""node1"": 51905, ""node2"": 141971, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+ajouter,oignon,obj,NOUN,0.585871696472168,[],,
+ajouter,peu,obj,ADV,0.4455879032611847,[],,
+dorer,minute,obj,NOUN,0.5380439162254333,[],,
+ajouter,poivrer,advcl,VERB,0.4842216670513153,[],,
+mettre,feuille,obj,NOUN,0.4968929886817932,[],,
+feuille,laurier,nmod,NOUN,0.4908609986305237,"[{""id"": 15624759, ""node1"": 37993, ""node2"": 114548, ""type"": 0, ""w"": 29.0}, {""id"": 14620301, ""node1"": 37993, ""node2"": 114548, ""type"": 10, ""w"": 36.0}]",r_holo,36.0
+branche,thym,nmod,NOUN,0.5575745105743408,[],,
+recouvrir,sauce,nmod,NOUN,0.7011933922767639,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+minute,cocotte,amod,NOUN,0.5547523498535156,"[{""id"": 418389, ""node1"": 31491, ""node2"": 120952, ""type"": 0, ""w"": 60.0}, {""id"": 539971619, ""node1"": 31491, ""node2"": 120952, ""type"": 21, ""w"": -25.0}]",r_associated,60.0
+cuire,heure,obj,NOUN,0.6720207929611206,[],,
+fin,minute,nmod,NOUN,0.4153892695903778,[],,
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,

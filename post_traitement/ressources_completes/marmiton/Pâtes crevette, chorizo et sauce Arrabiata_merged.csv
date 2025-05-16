@@ -1,0 +1,43 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+pâte,ingrédient,nmod,NOUN,0.6811284422874451,"[{""id"": 24920568, ""node1"": 34069, ""node2"": 123418, ""type"": 6, ""w"": 17.0}]",r_isa,17.0
+pâte,sel,nmod,NOUN,0.7470165491104126,"[{""id"": 384021, ""node1"": 34069, ""node2"": 13260, ""type"": 0, ""w"": 67.0}, {""id"": 96931368, ""node1"": 34069, ""node2"": 13260, ""type"": 50, ""w"": 15.0}, {""id"": 650992494, ""node1"": 34069, ""node2"": 13260, ""type"": 666, ""w"": 4.0}]",r_associated,67.0
+sel,oignon,nmod,ADP,0.705348014831543,[],,
+crevette,parmesan,nmod,NOUN,0.6661422252655029,[],,
+couteau,set,nmod,NOUN,0.4064985811710357,[],,
+meilleur,poêle,nmod,NOUN,0.6472519040107727,[],,
+pinceau,casserole,nmod,NOUN,0.5712795853614807,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+enlever,peau,obj,NOUN,0.4885257482528686,"[{""id"": 15076500, ""node1"": 82345, ""node2"": 109785, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+peau,chorizo,nmod,NOUN,0.5817298889160156,"[{""id"": 31873886, ""node1"": 109785, ""node2"": 51767, ""type"": 0, ""w"": 23.0}, {""id"": 31871773, ""node1"": 109785, ""node2"": 51767, ""type"": 10, ""w"": 65.0}]",r_holo,65.0
+côté,couper,acl,VERB,0.4801142811775207,[],,
+couper,oignon,obj,NOUN,0.596168577671051,"[{""id"": 435065584, ""node1"": 128828, ""node2"": 123307, ""type"": 0, ""w"": 29.0}, {""id"": 31770866, ""node1"": 128828, ""node2"": 123307, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+cube,petit,amod,ADJ,0.5087730884552002,[],,
+dorer,chorizo,obj,ADV,0.6199641227722168,[],,
+dorer,ajouter,advcl,VERB,0.521462619304657,[],,
+matière,gras,amod,ADJ,0.5428515672683716,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+bouillir,casserole,obj,NOUN,0.6772975921630859,"[{""id"": 796851865, ""node1"": 42401, ""node2"": 57253, ""type"": 0, ""w"": 29.0}, {""id"": 372836, ""node1"": 42401, ""node2"": 57253, ""type"": 14, ""w"": 60.0}, {""id"": 979642036, ""node1"": 42401, ""node2"": 57253, ""type"": 666, ""w"": 3.0}]",r_patient,60.0
+casserole,eau,nmod,NOUN,0.6077002882957458,"[{""id"": 96542705, ""node1"": 57253, ""node2"": 65012, ""type"": 0, ""w"": 19.0}, {""id"": 22760525, ""node1"": 57253, ""node2"": 65012, ""type"": 28, ""w"": 34.0}, {""id"": 96542704, ""node1"": 57253, ""node2"": 65012, ""type"": 666, ""w"": 1.0}]",r_lieu-1,34.0
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+eau,cuisson,nmod,NOUN,0.6715990304946899,"[{""id"": 489016047, ""node1"": 65012, ""node2"": 60056, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+cuisson,pâte,nmod,NOUN,0.7189537286758423,"[{""id"": 915053269, ""node1"": 60056, ""node2"": 34069, ""type"": 0, ""w"": 20.0}, {""id"": 376106703, ""node1"": 60056, ""node2"": 34069, ""type"": 109, ""w"": 29.0}]",r_has_predecesseur-time,29.0
+rendre,chorizo,nsubj,NOUN,0.563757598400116,[],,
+chorizo,doré,nmod,PROPN,0.6027777194976807,[],,
+rendre,peu,obj,ADV,0.4085250198841095,[],,
+peu,graisse,nmod,NOUN,0.5399132966995239,[],,
+ajouter,oignon,obj,NOUN,0.585871696472168,[],,
+oignon,cuire,acl,VERB,0.7573981881141663,"[{""id"": 8526807, ""node1"": 123307, ""node2"": 5115, ""type"": 26, ""w"": 35.0}]",r_patient-1,35.0
+mettre,pâte,obj,NOUN,0.6384987831115723,[],,
+eau,bout,nmod,ADJ,0.5608682632446289,[],,
+pâte,cuire,amod,VERB,0.7488689422607422,"[{""id"": 987166482, ""node1"": 34069, ""node2"": 5115, ""type"": 25, ""w"": -25.0}, {""id"": 96931380, ""node1"": 34069, ""node2"": 5115, ""type"": 26, ""w"": 32.0}]",r_patient-1,32.0
+oignon,chorizo,nmod,NOUN,0.6391595005989075,[],,
+oignon,mettre,acl,VERB,0.6089560985565186,[],,
+mettre,crevette,obj,NOUN,0.570980966091156,[],,
+poêle,même,amod,ADJ,0.645407497882843,[],,
+devenir,crevette,nsubj,NOUN,0.501786470413208,[],,
+temps,devenir,acl:relcl,VERB,0.412229984998703,"[{""id"": 899469152, ""node1"": 13861, ""node2"": 9626, ""type"": 0, ""w"": 20.0}, {""id"": 600051732, ""node1"": 13861, ""node2"": 9626, ""type"": 27, ""w"": 27.0}]",r_domain-1,27.0
+cuire,crevette,nsubj:pass,NOUN,0.7572669982910156,[],,
+mélanger,cuire,advcl,VERB,0.7139929533004761,[],,
+ajouter,sauce,obj,NOUN,0.6714595556259155,[],,
+foulée,parmesan,nmod,NOUN,0.5292286276817322,[],,
+parmesan,râpé,acl,ADV,0.5388157367706299,"[{""id"": 31844542, ""node1"": 140416, ""node2"": 52123, ""type"": 17, ""w"": 54.0}, {""id"": 994946665, ""node1"": 140416, ""node2"": 52123, ""type"": 666, ""w"": 2.0}]",r_carac,54.0

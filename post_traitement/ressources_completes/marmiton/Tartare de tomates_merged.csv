@@ -1,0 +1,27 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+pesto,pomme,nmod,NOUN,0.6691436767578125,[],,
+pesto,huile,amod,NOUN,0.655066728591919,[],,
+pesto,basilic,nmod,NOUN,0.5714476704597473,"[{""id"": 213231569, ""node1"": 221048, ""node2"": 112671, ""type"": 0, ""w"": 116.0}, {""id"": 213227606, ""node1"": 221048, ""node2"": 112671, ""type"": 9, ""w"": 57.0}, {""id"": 765200087, ""node1"": 221048, ""node2"": 112671, ""type"": 50, ""w"": 28.0}, {""id"": 1044492699, ""node1"": 221048, ""node2"": 112671, ""type"": 666, ""w"": 2.0}, {""id"": 77806767, ""node1"": 221048, ""node2"": 112671, ""type"": 777, ""w"": 10.0}]",r_associated,116.0
+pesto,cercle,nmod,NOUN,0.569533109664917,[],,
+cercle,pâtisserie,nmod,NOUN,0.4923855662345886,[],,
+pâtisserie,couteau,nmod,NOUN,0.6024098992347717,[],,
+couteau,bol,nmod,NOUN,0.5557995438575745,[],,
+bol,étape,nmod,NOUN,0.5393725633621216,[],,
+pesto,couper,acl,VERB,0.6254985332489014,[],,
+couper,tomate,obj,NOUN,0.6290057301521301,"[{""id"": 628044027, ""node1"": 128828, ""node2"": 22138, ""type"": 0, ""w"": 27.0}, {""id"": 628044026, ""node1"": 128828, ""node2"": 22138, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+cube,petit,amod,ADJ,0.5087730884552002,[],,
+tomate,cube,nmod,NOUN,0.5804005861282349,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+mettre,attention,obj,NOUN,0.428943932056427,[],,
+pomme,huile,nmod,NOUN,0.6486644148826599,[],,
+fond,verre,nmod,NOUN,0.5332586169242859,"[{""id"": 9988078, ""node1"": 119272, ""node2"": 144497, ""type"": 10, ""w"": 4.0}]",r_holo,4.0
+déposer,cuillère,obj,NOUN,0.5286773443222046,[],,
+cuillère,café,nmod,NOUN,0.592677116394043,"[{""id"": 163839, ""node1"": 51905, ""node2"": 66324, ""type"": 0, ""w"": 180.0}, {""id"": 11354840, ""node1"": 51905, ""node2"": 66324, ""type"": 15, ""w"": 39.0}, {""id"": 720818158, ""node1"": 51905, ""node2"": 66324, ""type"": 174, ""w"": 25.0}]",r_associated,180.0
+cuillère,pesto,nmod,NOUN,0.6458794474601746,[],,
+remplir,verre,obj,NOUN,0.5030102729797363,"[{""id"": 2588367, ""node1"": 95980, ""node2"": 144497, ""type"": 0, ""w"": 61.0}, {""id"": 1589582, ""node1"": 95980, ""node2"": 144497, ""type"": 14, ""w"": 100.0}, {""id"": 376200860, ""node1"": 95980, ""node2"": 144497, ""type"": 16, ""w"": 26.0}, {""id"": 1466817, ""node1"": 95980, ""node2"": 144497, ""type"": 31, ""w"": 65.0}]",r_patient,100.0
+préparation,tomate,nmod,NOUN,0.6617814898490906,[],,
+préparation,pomme,nmod,NOUN,0.6141328811645508,[],,
+préparation,huile,nmod,NOUN,0.6074190139770508,"[{""id"": 941867209, ""node1"": 33634, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+décorer,verre,obj,NOUN,0.5392636656761169,[],,
+déposer,feuille,obj,NOUN,0.4747306704521179,[],,
+feuille,basilic,nmod,NOUN,0.5825510621070862,"[{""id"": 98620683, ""node1"": 37993, ""node2"": 112671, ""type"": 0, ""w"": 18.0}, {""id"": 97419090, ""node1"": 37993, ""node2"": 112671, ""type"": 10, ""w"": 27.0}]",r_holo,27.0

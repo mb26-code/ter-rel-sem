@@ -1,0 +1,19 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,sirop,appos,NOUN,0.5721874833106995,[],,
+sirop,ingrédient,nmod,NOUN,0.658586859703064,[],,
+sirop,clou,nmod,NOUN,0.5585233569145203,[],,
+clou,girofle,nmod,ADP,0.4290643036365509,"[{""id"": 9902807, ""node1"": 11651, ""node2"": 43873, ""type"": 0, ""w"": 55.0}, {""id"": 413873, ""node1"": 11651, ""node2"": 43873, ""type"": 8, ""w"": 111.0}]",r_hypo,111.0
+clou,sucre,nmod,NOUN,0.5859211683273315,[],,
+sucre,citron,nmod,NOUN,0.6847571134567261,"[{""id"": 292123774, ""node1"": 139481, ""node2"": 15386, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+sucre,cuillère,nmod,NOUN,0.6920893788337708,"[{""id"": 922009699, ""node1"": 139481, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 765218019, ""node1"": 139481, ""node2"": 51905, ""type"": 58, ""w"": 38.0}, {""id"": 1025057955, ""node1"": 139481, ""node2"": 51905, ""type"": 155, ""w"": 27.0}]",r_quantificateur,38.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,appos,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+sirop,Laver,nmod,PROPN,0.5016189217567444,[],,
+titre,feuille,nmod,NOUN,0.4326170086860657,"[{""id"": 1022997, ""node1"": 7970, ""node2"": 37993, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+eau,sucre,nmod,NOUN,0.6594484448432922,[],,
+ajouter,citron,obj,NOUN,0.6159152984619141,"[{""id"": 373014912, ""node1"": 25099, ""node2"": 15386, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+citron,couper,acl,VERB,0.6150063872337341,"[{""id"": 273535, ""node1"": 15386, ""node2"": 128828, ""type"": 25, ""w"": -60.0}, {""id"": 2214739, ""node1"": 15386, ""node2"": 128828, ""type"": 26, ""w"": 95.0}]",r_patient-1,95.0
+bouillir,remuer,advcl,VERB,0.5883935689926147,[],,
+reposer,heure,obj,NOUN,0.4106099009513855,[],,

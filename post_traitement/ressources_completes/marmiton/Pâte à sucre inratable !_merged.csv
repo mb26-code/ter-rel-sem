@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+pâte,sucre,nmod,NOUN,0.7055894136428833,"[{""id"": 96931421, ""node1"": 34069, ""node2"": 139481, ""type"": 50, ""w"": 30.0}]",r_object>mater,30.0
+ingrédient,colorer,nmod,VERB,0.6455962061882019,[],,
+colorer,alimentaire,amod,ADJ,0.6131971478462219,[],,
+colorer,sucre,nmod,NOUN,0.6876815557479858,[],,
+sucre,glace,nmod,NOUN,0.651667594909668,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -126.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]",r_associated,111.0
+sucre,miel,amod,NOUN,0.6510892510414124,"[{""id"": 101425, ""node1"": 139481, ""node2"": 136055, ""type"": 0, ""w"": 86.0}, {""id"": 514429712, ""node1"": 139481, ""node2"": 136055, ""type"": 51, ""w"": 27.0}, {""id"": 1029365120, ""node1"": 139481, ""node2"": 136055, ""type"": 67, ""w"": 35.0}, {""id"": 1032956771, ""node1"": 139481, ""node2"": 136055, ""type"": 78, ""w"": 29.0}, {""id"": 646152034, ""node1"": 139481, ""node2"": 136055, ""type"": 666, ""w"": 7.0}]",r_associated,86.0
+miel,blanc,amod,ADJ,0.6031903028488159,"[{""id"": 2055784, ""node1"": 136055, ""node2"": 15196, ""type"": 17, ""w"": 36.0}, {""id"": 3164338, ""node1"": 136055, ""node2"": 15196, ""type"": 106, ""w"": -16.0}]",r_carac,36.0
+sucre,fouet,nmod,NOUN,0.6268562078475952,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 306.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 266.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,306.0
+fouet,cuillère,nmod,NOUN,0.5491861701011658,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,Spatule,nmod,PROPN,0.4261991679668426,[],,
+Spatule,saladier,nmod,NOUN,0.4745384156703949,[],,
+saladier,balance,nmod,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+cuisine,frigo,nmod,NOUN,0.6375747919082642,"[{""id"": 118986, ""node1"": 16033, ""node2"": 45624, ""type"": 0, ""w"": 304.0}, {""id"": 9973132, ""node1"": 16033, ""node2"": 45624, ""type"": 9, ""w"": 10.0}, {""id"": 15222678, ""node1"": 16033, ""node2"": 45624, ""type"": 27, ""w"": 27.0}, {""id"": 151638, ""node1"": 16033, ""node2"": 45624, ""type"": 28, ""w"": 868.0}]",r_lieu-1,868.0
+frigo,étape,nmod,NOUN,0.5452443957328796,[],,
+mélanger,demi,obj,NOUN,0.4787910282611847,[],,
+demi,blanc,amod,ADJ,0.4673029482364654,"[{""id"": 602115358, ""node1"": 94398, ""node2"": 15196, ""type"": 0, ""w"": 15.0}]",r_associated,15.0
+miel,fouet,nmod,NOUN,0.6230559945106506,[],,
+colorant,désirer,acl,VERB,0.5339503884315491,[],,
+colorant,ajouter,acl,VERB,0.5416777729988098,[],,
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ajouter,mélanger,advcl,VERB,0.476481020450592,[],,
+déposer,boule,obj,NOUN,0.5094731450080872,[],,
+boule,pâte,nmod,NOUN,0.6151799559593201,"[{""id"": 720819459, ""node1"": 141883, ""node2"": 34069, ""type"": 174, ""w"": 25.0}, {""id"": 4827130, ""node1"": 141883, ""node2"": 34069, ""type"": 777, ""w"": 10.0}]",r_quantificateur-1,25.0
+plan,sucre,nmod,NOUN,0.6039215326309204,[],,
+colle,pâte,nsubj,NOUN,0.5942278504371643,"[{""id"": 803234, ""node1"": 14271, ""node2"": 34069, ""type"": 0, ""w"": 25.0}, {""id"": 53864112, ""node1"": 14271, ""node2"": 34069, ""type"": 5, ""w"": 93.0}, {""id"": 653734287, ""node1"": 14271, ""node2"": 34069, ""type"": 666, ""w"": 2.0}]",r_syn,93.0
+film,réfrigérateur,nmod,NOUN,0.429441750049591,[],,
+utiliser,pâte,obj,NOUN,0.6385105848312378,[],,
+dégustation,bon,amod,ADJ,0.4751738309860229,"[{""id"": 561348579, ""node1"": 107364, ""node2"": 144229, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+biscuit,dégustation,appos,NOUN,0.6293990015983582,[],,

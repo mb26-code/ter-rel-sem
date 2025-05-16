@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+placer,cordon,nsubj,NOUN,0.4731887280941009,[],,
+cordon,bleu,amod,ADJ,0.4326801598072052,[],,
+jambon,blanc,amod,ADJ,0.6019902229309082,"[{""id"": 368564, ""node1"": 57980, ""node2"": 15196, ""type"": 0, ""w"": 67.0}, {""id"": 380715, ""node1"": 57980, ""node2"": 15196, ""type"": 17, ""w"": 51.0}, {""id"": 3163497, ""node1"": 57980, ""node2"": 15196, ""type"": 106, ""w"": 13.0}]",r_associated,67.0
+blanc,sel,obj,NOUN,0.6804950833320618,"[{""id"": 2042147, ""node1"": 15196, ""node2"": 13260, ""type"": 0, ""w"": 62.0}, {""id"": 24930573, ""node1"": 15196, ""node2"": 13260, ""type"": 23, ""w"": 30.0}]",r_associated,62.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+fromage,oeuf,nmod,NOUN,0.5934737324714661,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,pinceau,appos,NOUN,0.4696744382381439,[],,
+pâtisserie,étape,nmod,NOUN,0.4640568792819977,[],,
+feuille,papier,nmod,NOUN,0.4767924547195434,"[{""id"": 99562, ""node1"": 37993, ""node2"": 103389, ""type"": 0, ""w"": 667.0}, {""id"": 157352, ""node1"": 37993, ""node2"": 103389, ""type"": 5, ""w"": 169.0}, {""id"": 186644, ""node1"": 37993, ""node2"": 103389, ""type"": 8, ""w"": 134.0}, {""id"": 377011482, ""node1"": 37993, ""node2"": 103389, ""type"": 20, ""w"": 35.0}, {""id"": 246389, ""node1"": 37993, ""node2"": 103389, ""type"": 21, ""w"": 85.0}, {""id"": 665112728, ""node1"": 37993, ""node2"": 103389, ""type"": 174, ""w"": 30.0}, {""id"": 1770446, ""node1"": 37993, ""node2"": 103389, ""type"": 666, ""w"": 7.0}]",r_associated,667.0
+rouleau,pâtisserie,nmod,NOUN,0.510869026184082,"[{""id"": 34655902, ""node1"": 59019, ""node2"": 25966, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+fin,lui,nsubj,PRON,0.4194207787513733,[],,
+cordon,fin,amod,ADJ,0.4643917083740234,[],,
+placer,tranche,obj,NOUN,0.4671066105365753,[],,
+tranche,jambon,nmod,NOUN,0.5780830979347229,"[{""id"": 243905, ""node1"": 143123, ""node2"": 57980, ""type"": 0, ""w"": 71.0}, {""id"": 720817992, ""node1"": 143123, ""node2"": 57980, ""type"": 174, ""w"": 25.0}]",r_associated,71.0
+tranche,fromage,nmod,NOUN,0.6097967624664307,"[{""id"": 720818623, ""node1"": 143123, ""node2"": 141687, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+refermer,bord,obj,NOUN,0.4017131328582763,[],,
+utiliser,cure,obj,NOUN,0.4370970427989959,[],,
+utiliser,dent,obj,NOUN,0.4515113234519958,[],,
+maintenir,tout,obj,NOUN,0.4543312788009643,[],,
+tout,place,nmod,NOUN,0.4738330245018005,[],,
+préparer,assiette,obj,NOUN,0.6424431800842285,"[{""id"": 441020304, ""node1"": 36246, ""node2"": 62735, ""type"": 0, ""w"": 31.0}, {""id"": 441020303, ""node1"": 36246, ""node2"": 62735, ""type"": 14, ""w"": 100.0}, {""id"": 376201123, ""node1"": 36246, ""node2"": 62735, ""type"": 16, ""w"": 26.0}]",r_patient,100.0
+assiette,creux,amod,ADJ,0.5143321752548218,"[{""id"": 9991966, ""node1"": 62735, ""node2"": 53673, ""type"": 0, ""w"": 4.0}, {""id"": 1882219, ""node1"": 62735, ""node2"": 53673, ""type"": 9, ""w"": 90.0}]",r_has_part,90.0
+œuf,battre,acl,VERB,0.5265821218490601,[],,
+ajouter,pincée,obj,NOUN,0.4863170683383941,[],,
+pincée,sel,nmod,NOUN,0.6588193774223328,"[{""id"": 665112730, ""node1"": 122023, ""node2"": 13260, ""type"": 174, ""w"": 40.0}, {""id"": 990072491, ""node1"": 122023, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]",r_quantificateur-1,40.0
+passer,cordon,obj,NOUN,0.4825149476528168,[],,
+ajouter,bleu,obj,VERB,0.4687837660312652,[],,
+ajouter,placer,advcl,VERB,0.4200277328491211,[],,
+ajouter,peu,obj,ADV,0.4455879032611847,[],,
+peu,huile,nmod,NOUN,0.5692240595817566,[],,
+cordon,pinceau,nmod,NOUN,0.455101877450943,[],,
+pinceau,silicone,nmod,NOUN,0.4476880133152008,[],,
+lancer,cuisson,obj,NOUN,0.6590927243232727,[],,

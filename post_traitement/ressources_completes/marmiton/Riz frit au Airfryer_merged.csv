@@ -1,0 +1,50 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,huile,amod,NOUN,0.6993125677108765,"[{""id"": 917898976, ""node1"": 13260, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+huile,sésame,nmod,NOUN,0.6178574562072754,"[{""id"": 12295235, ""node1"": 141971, ""node2"": 18404, ""type"": 0, ""w"": 43.0}, {""id"": 580644, ""node1"": 141971, ""node2"": 18404, ""type"": 5, ""w"": 32.0}, {""id"": 88080850, ""node1"": 141971, ""node2"": 18404, ""type"": 35, ""w"": 32.0}, {""id"": 380316783, ""node1"": 141971, ""node2"": 18404, ""type"": 54, ""w"": 34.0}]",r_associated,43.0
+pois,petit,amod,ADJ,0.5441179871559143,"[{""id"": 1743094, ""node1"": 97846, ""node2"": 55222, ""type"": 0, ""w"": 105.0}, {""id"": 1525554, ""node1"": 97846, ""node2"": 55222, ""type"": 666, ""w"": 2.0}]",r_associated,105.0
+riz,pois,obj,NOUN,0.6461708545684814,[],,
+pois,oeuf,nmod,NOUN,0.5738427639007568,[],,
+oeuf,sauce,nmod,NOUN,0.6702289581298828,[],,
+pois,huile,nmod,NOUN,0.6231900453567505,[],,
+huile,végétal,amod,ADJ,0.625397801399231,"[{""id"": 669880751, ""node1"": 141971, ""node2"": 136507, ""type"": 0, ""w"": 25.0}]",r_associated,25.0
+pois,oignon,acl,NOUN,0.5740501284599304,[],,
+bol,set,nmod,NOUN,0.4851927459239959,[],,
+bol,poêle,nmod,NOUN,0.6388387084007263,[],,
+bol,casserole,nmod,NOUN,0.5670263171195984,[],,
+cuire,riz,obj,NOUN,0.7637909054756165,"[{""id"": 426022657, ""node1"": 5115, ""node2"": 24372, ""type"": 0, ""w"": 36.0}, {""id"": 31820394, ""node1"": 5115, ""node2"": 24372, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+casserole,eau,nmod,NOUN,0.6077002882957458,"[{""id"": 96542705, ""node1"": 57253, ""node2"": 65012, ""type"": 0, ""w"": 19.0}, {""id"": 22760525, ""node1"": 57253, ""node2"": 65012, ""type"": 28, ""w"": 34.0}, {""id"": 96542704, ""node1"": 57253, ""node2"": 65012, ""type"": 666, ""w"": 1.0}]",r_lieu-1,34.0
+casserole,indiquer,acl,VERB,0.5857105851173401,[],,
+utiliser,reste,obj,NOUN,0.4508874118328094,[],,
+reste,cuire,acl,VERB,0.7218451499938965,[],,
+cuire,veille,obj,NOUN,0.7013471126556396,[],,
+mélanger,pois,obj,NOUN,0.5633265376091003,[],,
+carotte,huile,nmod,NOUN,0.620469331741333,[],,
+verser,légume,obj,NOUN,0.6834107637405396,[],,
+légume,panier,nmod,NOUN,0.6081265807151794,"[{""id"": 11356387, ""node1"": 120603, ""node2"": 64239, ""type"": 15, ""w"": 38.0}]",r_lieu,38.0
+verser,secouer,advcl,VERB,0.4315575957298279,[],,
+secouer,panier,obj,NOUN,0.4054479598999023,[],,
+cuisson,uniforme,amod,ADJ,0.6758725047111511,[],,
+battre,oeuf,obj,NOUN,0.5256416201591492,"[{""id"": 2120026, ""node1"": 119162, ""node2"": 116175, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+cuire,le,obj,PRON,0.4500194191932678,[],,
+poêle,remuer,acl,VERB,0.6752270460128784,[],,
+obtenir,oeuf,obj,NOUN,0.5153005123138428,[],,
+oeuf,brouiller,acl,VERB,0.5105379223823547,[],,
+légume,cuire,acl,VERB,0.8064759373664856,"[{""id"": 660236, ""node1"": 120603, ""node2"": 5115, ""type"": 0, ""w"": 31.0}, {""id"": 14845362, ""node1"": 120603, ""node2"": 5115, ""type"": 24, ""w"": 30.0}, {""id"": 15071520, ""node1"": 120603, ""node2"": 5115, ""type"": 26, ""w"": 33.0}]",r_patient-1,33.0
+légume,retirer,acl,VERB,0.6580161452293396,[],,
+bol,grand,amod,ADJ,0.516040563583374,[],,
+mélanger,froid,obj,ADJ,0.5542457699775696,[],,
+ajouter,sauce,obj,NOUN,0.6714595556259155,[],,
+sauce,soja,amod,NOUN,0.686366856098175,"[{""id"": 558755719, ""node1"": 141110, ""node2"": 78291, ""type"": 0, ""w"": 41.0}, {""id"": 246329893, ""node1"": 141110, ""node2"": 78291, ""type"": 8, ""w"": 31.0}, {""id"": 651031297, ""node1"": 141110, ""node2"": 78291, ""type"": 666, ""w"": 4.0}]",r_associated,41.0
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+verser,mélange,obj,NOUN,0.5440542697906494,[],,
+mélange,riz,nmod,NOUN,0.6901220083236694,[],,
+cuire,c,obj,NOUN,0.4126093685626983,[],,
+doré,riz,nsubj,NOUN,0.6658449172973633,[],,
+secouer,doré,advcl,ADJ,0.5160049796104431,[],,
+fois,doré,amod,ADJ,0.4967719614505768,[],,
+le,œuf,nmod,NOUN,0.4213214516639709,[],,
+œuf,brouiller,acl,VERB,0.5089831352233887,[],,
+décorer,oignon,nmod,NOUN,0.6205854415893555,[],,
+oignon,vert,amod,ADJ,0.5575538873672485,[],,
+décorer,servir,advcl,VERB,0.4691170156002044,[],,

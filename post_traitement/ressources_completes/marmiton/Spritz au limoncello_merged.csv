@@ -1,0 +1,15 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+eau,gazeux,amod,ADJ,0.5069980621337891,"[{""id"": 561201568, ""node1"": 65012, ""node2"": 12162, ""type"": 0, ""w"": 36.0}, {""id"": 72244416, ""node1"": 65012, ""node2"": 12162, ""type"": 777, ""w"": 8.0}]",r_associated,36.0
+eau,citron,nmod,NOUN,0.626600980758667,"[{""id"": 190529862, ""node1"": 65012, ""node2"": 15386, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+citron,sirop,nmod,NOUN,0.6353895664215088,"[{""id"": 1693686, ""node1"": 15386, ""node2"": 91109, ""type"": 0, ""w"": 101.0}, {""id"": 9916981, ""node1"": 15386, ""node2"": 91109, ""type"": 6, ""w"": 65.0}]",r_associated,101.0
+sirop,canne,nmod,NOUN,0.5992820858955383,"[{""id"": 798069799, ""node1"": 91109, ""node2"": 144267, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+ingrédient,balance,nmod,NOUN,0.58506178855896,"[{""id"": 539969237, ""node1"": 123418, ""node2"": 145190, ""type"": 0, ""w"": -25.0}]",r_associated,-25.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+balance,verre,nmod,NOUN,0.5311403274536133,[],,
+ingrédient,verser,acl,VERB,0.5961355566978455,[],,
+sucre,canne,nmod,NOUN,0.6069387793540955,"[{""id"": 107598, ""node1"": 139481, ""node2"": 144267, ""type"": 0, ""w"": 241.0}, {""id"": 160436, ""node1"": 139481, ""node2"": 144267, ""type"": 15, ""w"": 78.0}, {""id"": 1763995, ""node1"": 139481, ""node2"": 144267, ""type"": 666, ""w"": 1.0}]",r_associated,241.0
+terminer,tranche,obj,NOUN,0.4483324289321899,[],,
+tranche,citron,nmod,NOUN,0.6237561106681824,"[{""id"": 560952309, ""node1"": 143123, ""node2"": 15386, ""type"": 0, ""w"": 37.0}, {""id"": 720817951, ""node1"": 143123, ""node2"": 15386, ""type"": 174, ""w"": 25.0}]",r_associated,37.0
+tranche,verre,nmod,NOUN,0.5360854864120483,[],,

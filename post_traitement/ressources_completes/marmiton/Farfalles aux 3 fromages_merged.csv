@@ -1,0 +1,13 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+fromage,ingrédient,nmod,NOUN,0.7009125351905823,"[{""id"": 24850717, ""node1"": 141687, ""node2"": 123418, ""type"": 0, ""w"": 34.0}, {""id"": 24842103, ""node1"": 141687, ""node2"": 123418, ""type"": 6, ""w"": 233.0}]",r_isa,233.0
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+pâte,cuire,acl,VERB,0.7488689422607422,"[{""id"": 987166482, ""node1"": 34069, ""node2"": 5115, ""type"": 25, ""w"": -25.0}, {""id"": 96931380, ""node1"": 34069, ""node2"": 5115, ""type"": 26, ""w"": 32.0}]",r_patient-1,32.0
+remettre,passer,advcl,VERB,0.4050603806972503,"[{""id"": 54634147, ""node1"": 62982, ""node2"": 28108, ""type"": 0, ""w"": 30.0}, {""id"": 54608918, ""node1"": 62982, ""node2"": 28108, ""type"": 5, ""w"": 87.0}]",r_syn,87.0
+casserole,chaud,amod,ADJ,0.6482416391372681,[],,
+remettre,ajouter,advcl,VERB,0.4002814590930938,"[{""id"": 796701306, ""node1"": 62982, ""node2"": 25099, ""type"": 0, ""w"": 21.0}, {""id"": 213486690, ""node1"": 62982, ""node2"": 25099, ""type"": 57, ""w"": 29.0}]",r_implication,29.0
+ajouter,fromage,obj,NOUN,0.6372005939483643,[],,
+fromage,remuer,acl,VERB,0.6754624843597412,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,

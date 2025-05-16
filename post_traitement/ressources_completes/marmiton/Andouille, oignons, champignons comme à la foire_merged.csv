@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+foire,ingrédient,nmod,NOUN,0.5049939751625061,[],,
+oignon,champignon,acl,NOUN,0.6102637052536011,[],,
+oignon,crème,acl,NOUN,0.682665228843689,[],,
+crème,liquide,amod,ADJ,0.6173139810562134,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]",r_carac,52.0
+set,poêle,obj,NOUN,0.5301709771156311,[],,
+set,cuillère,nmod,NOUN,0.4149639010429382,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+titre,revenir,acl,VERB,0.4045074880123138,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+matière,gras,amod,ADJ,0.5428515672683716,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+poêle,chauffer,acl,VERB,0.652711808681488,[],,
+chauffer,morceau,obj,NOUN,0.6530845761299133,[],,
+chauffer,rajouter,advcl,VERB,0.5599896907806396,[],,
+rajouter,oignon,obj,NOUN,0.604992687702179,[],,
+oignon,cuire,acl,VERB,0.7573981881141663,"[{""id"": 8526807, ""node1"": 123307, ""node2"": 5115, ""type"": 26, ""w"": 35.0}]",r_patient-1,35.0
+chauffer,mélanger,advcl,VERB,0.5907781720161438,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+cuire,remuer,advcl,VERB,0.6866573691368103,[],,
+ajouter,champignon,obj,NOUN,0.5464464426040649,[],,
+champignon,rincer,acl,VERB,0.5287063717842102,[],,
+rectifier,saler,advcl,VERB,0.5432634353637695,[],,
+saler,poivrer,advcl,VERB,0.5285379886627197,"[{""id"": 796710265, ""node1"": 15671, ""node2"": 70211, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+remuer,goûter,obj,NOUN,0.6195914149284363,[],,
+reposer,servir,advcl,VERB,0.4678449928760528,[],,

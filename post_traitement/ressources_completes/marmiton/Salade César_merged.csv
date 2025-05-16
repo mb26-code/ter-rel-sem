@@ -1,0 +1,27 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,salade,appos,NOUN,0.5926524996757507,[],,
+salade,César,flat:name,PROPN,0.4428686499595642,[],,
+salade,ingrédient,nmod,NOUN,0.7127874493598938,[],,
+salade,huile,amod,NOUN,0.6778484582901001,"[{""id"": 385547, ""node1"": 118908, ""node2"": 141971, ""type"": 0, ""w"": 57.0}, {""id"": 97758237, ""node1"": 118908, ""node2"": 141971, ""type"": 9, ""w"": 27.0}]",r_associated,57.0
+salade,pain,nmod,NOUN,0.7251226305961609,[],,
+pain,sel,nmod,NOUN,0.7393355965614319,"[{""id"": 107242, ""node1"": 61283, ""node2"": 13260, ""type"": 0, ""w"": 60.0}, {""id"": 238494, ""node1"": 61283, ""node2"": 13260, ""type"": 28, ""w"": 79.0}, {""id"": 25778967, ""node1"": 61283, ""node2"": 13260, ""type"": 50, ""w"": 51.0}, {""id"": 275129722, ""node1"": 61283, ""node2"": 13260, ""type"": 129, ""w"": 60.0}, {""id"": 651237764, ""node1"": 61283, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]",r_lieu-1,79.0
+salade,poivre,amod,NOUN,0.7452256679534912,"[{""id"": 97758233, ""node1"": 118908, ""node2"": 139597, ""type"": 0, ""w"": 35.0}, {""id"": 97758234, ""node1"": 118908, ""node2"": 139597, ""type"": 9, ""w"": 40.0}]",r_has_part,40.0
+oeuf,parmesan,amod,NOUN,0.5902929902076721,[],,
+pinceau,saladier,nmod,NOUN,0.5370374321937561,[],,
+saladier,mixeur,nmod,NOUN,0.581632137298584,[],,
+mixeur,bol,nmod,NOUN,0.5581084489822388,"[{""id"": 539977939, ""node1"": 78314, ""node2"": 145405, ""type"": 58, ""w"": -25.0}]",r_quantificateur,-25.0
+bol,étape,nmod,NOUN,0.5393725633621216,[],,
+titre,dorer,acl,VERB,0.5177324414253235,[],,
+dorer,pain,obj,NOUN,0.676359236240387,[],,
+dorer,couper,advcl,VERB,0.5341538190841675,[],,
+peu,huile,nmod,NOUN,0.5692240595817566,[],,
+déchirer,feuille,obj,NOUN,0.447948545217514,"[{""id"": 11939151, ""node1"": 12636, ""node2"": 37993, ""type"": 0, ""w"": 61.0}]",r_associated,61.0
+feuille,romaine,nmod,NOUN,0.4631517827510834,[],,
+papier,absorber,amod,VERB,0.4968288838863373,[],,
+préparer,sauce,obj,NOUN,0.6940045356750488,"[{""id"": 395781320, ""node1"": 36246, ""node2"": 141110, ""type"": 0, ""w"": 35.0}, {""id"": 373014451, ""node1"": 36246, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+cuire,oeuf,obj,NOUN,0.7018415927886963,"[{""id"": 477428805, ""node1"": 5115, ""node2"": 116175, ""type"": 0, ""w"": 35.0}, {""id"": 206246, ""node1"": 5115, ""node2"": 116175, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+oeuf,min,nmod,NOUN,0.4625183045864105,[],,
+eau,le,nmod,PROPN,0.4249178171157837,"[{""id"": 1030697396, ""node1"": 65012, ""node2"": 140509, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+bol,mixeur,nmod,NOUN,0.5581084489822388,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+ingrédient,autre,amod,ADJ,0.5450181365013123,[],,

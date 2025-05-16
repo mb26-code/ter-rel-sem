@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+ingrédient,tomate,nmod,NOUN,0.6937788128852844,"[{""id"": 24923444, ""node1"": 123418, ""node2"": 22138, ""type"": 0, ""w"": 15.0}, {""id"": 24850720, ""node1"": 123418, ""node2"": 22138, ""type"": 8, ""w"": 30.0}]",r_hypo,30.0
+tomate,sel,nmod,NOUN,0.7264893651008606,"[{""id"": 421761153, ""node1"": 22138, ""node2"": 13260, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+sel,cumin,nmod,DET,0.6861709356307983,[],,
+ingrédient,viande,amod,NOUN,0.7726908326148987,"[{""id"": 29393020, ""node1"": 123418, ""node2"": 140100, ""type"": 0, ""w"": 22.0}, {""id"": 29383224, ""node1"": 123418, ""node2"": 140100, ""type"": 8, ""w"": 35.0}]",r_hypo,35.0
+viande,haché,amod,ADJ,0.6638813018798828,[],,
+ingrédient,citron,nmod,NOUN,0.6679258942604065,[],,
+saladier,assiette,nmod,NOUN,0.6438512206077576,[],,
+assiette,étape,nmod,NOUN,0.483820229768753,[],,
+saladier,mettre,acl,VERB,0.5705810785293579,[],,
+tomate,éplucher,acl,VERB,0.6203005313873291,"[{""id"": 758065757, ""node1"": 22138, ""node2"": 59879, ""type"": 24, ""w"": 30.0}, {""id"": 31849491, ""node1"": 22138, ""node2"": 59879, ""type"": 26, ""w"": 32.0}]",r_patient-1,32.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+cuillère,sauce,nmod,NOUN,0.7047527432441711,"[{""id"": 662514136, ""node1"": 51905, ""node2"": 141110, ""type"": 0, ""w"": 24.0}, {""id"": 720818667, ""node1"": 51905, ""node2"": 141110, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+sauce,poivron,nmod,NOUN,0.7489323019981384,"[{""id"": 29311262, ""node1"": 141110, ""node2"": 38257, ""type"": 0, ""w"": 26.0}, {""id"": 10528612, ""node1"": 141110, ""node2"": 38257, ""type"": 9, ""w"": 28.0}]",r_has_part,28.0
+café,cumin,nmod,NOUN,0.6365668773651123,[],,
+oignon,fin,nmod,NOUN,0.5517643094062805,[],,
+ajouter,viande,obj,NOUN,0.7162638902664185,[],,
+feuille,persil,nmod,NOUN,0.6078542470932007,"[{""id"": 403056384, ""node1"": 37993, ""node2"": 135982, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+acheter,faire,advcl,VERB,0.4474438726902008,[],,
+faire,boule,obj,NOUN,0.5590701699256897,[],,
+boule,tout,nmod,NOUN,0.5536566972732544,[],,
+croquer,cela,nsubj,PRON,0.5148382186889648,[],,
+prendre,croquer,advcl,VERB,0.4605332612991333,[],,
+boulette,petit,amod,ADJ,0.5594663023948669,[],,
+prendre,boulette,obj,NOUN,0.5254087448120117,[],,
+boulette,taille,nmod,NOUN,0.487562358379364,[],,
+taille,noix,nmod,NOUN,0.5544536113739014,[],,
+disposer,assiette,obj,NOUN,0.5862064957618713,"[{""id"": 376199748, ""node1"": 116780, ""node2"": 62735, ""type"": 16, ""w"": 30.0}]",r_instr,30.0
+rien,cuire,acl,VERB,0.6957758069038391,[],,
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]",r_carac-1,5.0

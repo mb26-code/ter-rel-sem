@@ -1,0 +1,17 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+ingrédient,huile,appos,NOUN,0.6304486989974976,"[{""id"": 561306445, ""node1"": 123418, ""node2"": 141971, ""type"": 0, ""w"": 44.0}]",r_associated,44.0
+huile,sel,nmod,NOUN,0.6993125677108765,"[{""id"": 569059224, ""node1"": 141971, ""node2"": 13260, ""type"": 0, ""w"": 57.0}]",r_associated,57.0
+sel,sarrasin,nmod,NOUN,0.6849136352539062,[],,
+sarrasin,eau,appos,NOUN,0.6077921986579895,[],,
+ingrédient,couvercle,nmod,NOUN,0.6720007061958313,[],,
+couvercle,casserole,nmod,NOUN,0.6508210897445679,"[{""id"": 2052952, ""node1"": 89523, ""node2"": 57253, ""type"": 0, ""w"": 118.0}, {""id"": 1602021, ""node1"": 89523, ""node2"": 57253, ""type"": 10, ""w"": 63.0}]",r_associated,118.0
+bouillir,eau,obj,NOUN,0.6033914685249329,"[{""id"": 2243409, ""node1"": 42401, ""node2"": 65012, ""type"": 0, ""w"": 37.0}, {""id"": 418498333, ""node1"": 42401, ""node2"": 65012, ""type"": 3, ""w"": 32.0}, {""id"": 2243394, ""node1"": 42401, ""node2"": 65012, ""type"": 13, ""w"": 175.0}, {""id"": 153578, ""node1"": 42401, ""node2"": 65012, ""type"": 14, ""w"": 270.0}, {""id"": 352516461, ""node1"": 42401, ""node2"": 65012, ""type"": 31, ""w"": 31.0}, {""id"": 979642032, ""node1"": 42401, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]",r_patient,270.0
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+bout,jeter,acl,VERB,0.4517101049423218,"[{""id"": 712769040, ""node1"": 56924, ""node2"": 48625, ""type"": 17, ""w"": -5.0}]",r_carac,-5.0
+bout,petit,amod,ADJ,0.4548309445381164,"[{""id"": 14065828, ""node1"": 56924, ""node2"": 55222, ""type"": 0, ""w"": 51.0}]",r_associated,51.0
+bout,paille,nmod,NOUN,0.4936332702636719,"[{""id"": 98625709, ""node1"": 56924, ""node2"": 143249, ""type"": 0, ""w"": 18.0}, {""id"": 97753239, ""node1"": 56924, ""node2"": 143249, ""type"": 10, ""w"": 35.0}]",r_holo,35.0
+bout,dedans,nmod,ADV,0.4392153620719909,[],,
+reprendre,ébullition,nsubj,NOUN,0.4522150456905365,[],,
+torchon,plier,acl,VERB,0.4749582707881927,[],,
+éteindre,feu,obj,NOUN,0.5080100297927856,"[{""id"": 2069969, ""node1"": 107734, ""node2"": 143703, ""type"": 0, ""w"": 129.0}, {""id"": 1375587, ""node1"": 107734, ""node2"": 143703, ""type"": 14, ""w"": 100.0}, {""id"": 376200967, ""node1"": 107734, ""node2"": 143703, ""type"": 16, ""w"": 26.0}, {""id"": 9121021, ""node1"": 107734, ""node2"": 143703, ""type"": 35, ""w"": 105.0}, {""id"": 1057899598, ""node1"": 107734, ""node2"": 143703, ""type"": 666, ""w"": 2.0}]",r_associated,129.0
+devoir,eau,nsubj,NOUN,0.5510714650154114,[],,

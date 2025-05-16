@@ -1,0 +1,40 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+titre,camembert,appos,NOUN,0.4378612041473388,[],,
+miel,ingrédient,nmod,NOUN,0.6318907737731934,"[{""id"": 85917646, ""node1"": 136055, ""node2"": 123418, ""type"": 6, ""w"": 26.0}, {""id"": 661474354, ""node1"": 136055, ""node2"": 123418, ""type"": 666, ""w"": 2.0}]",r_isa,26.0
+miel,vinaigre,nmod,NOUN,0.6219134330749512,"[{""id"": 654230744, ""node1"": 136055, ""node2"": 145443, ""type"": 0, ""w"": 29.0}, {""id"": 5021048, ""node1"": 136055, ""node2"": 145443, ""type"": 777, ""w"": 10.0}]",r_associated,29.0
+vinaigre,balsamique,amod,ADJ,0.5980404615402222,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]",r_associated,166.0
+vinaigre,miel,amod,ADJ,0.6219134330749512,"[{""id"": 921832676, ""node1"": 145443, ""node2"": 136055, ""type"": 0, ""w"": 20.0}, {""id"": 3355994, ""node1"": 145443, ""node2"": 136055, ""type"": 777, ""w"": 10.0}]",r_associated,20.0
+miel,camembert,nmod,PROPN,0.6042067408561707,[],,
+camembert,pain,nmod,NOUN,0.6422480344772339,"[{""id"": 413902, ""node1"": 130831, ""node2"": 61283, ""type"": 0, ""w"": 55.0}, {""id"": 13060094, ""node1"": 130831, ""node2"": 61283, ""type"": 15, ""w"": 59.0}, {""id"": 24971776, ""node1"": 130831, ""node2"": 61283, ""type"": 75, ""w"": 26.0}]",r_lieu,59.0
+pain,campagne,nmod,NOUN,0.6385389566421509,"[{""id"": 652238, ""node1"": 61283, ""node2"": 79444, ""type"": 0, ""w"": 57.0}]",r_associated,57.0
+camembert,four,appos,NOUN,0.672532856464386,"[{""id"": 314171986, ""node1"": 130831, ""node2"": 9190, ""type"": 15, ""w"": 27.0}]",r_lieu,27.0
+four,top,nmod,NOUN,0.5501777529716492,"[{""id"": 509203905, ""node1"": 9190, ""node2"": 61057, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+papier,meilleur,amod,ADJ,0.4798659384250641,[],,
+top,papier,nmod,NOUN,0.4000419974327087,[],,
+top,casserole,nmod,NOUN,0.4402943253517151,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+camembert,étape,nmod,NOUN,0.4519006609916687,"[{""id"": 579991520, ""node1"": 130831, ""node2"": 38929, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+four,200,nmod,NUM,0.5053980350494385,[],,
+camembert,thermostat,appos,NOUN,0.5429251194000244,[],,
+mettre,camembert,obj,NOUN,0.5304244160652161,[],,
+four,papier,nmod,NOUN,0.6729456186294556,[],,
+éclater,camembert,nsubj,NOUN,0.4960722029209137,[],,
+préparer,miel,obj,NOUN,0.6208812594413757,[],,
+préparer,réchauffer,advcl,VERB,0.5306005477905273,[],,
+préparer,faire,advcl,VERB,0.4733086228370666,"[{""id"": 973276, ""node1"": 36246, ""node2"": 87528, ""type"": 0, ""w"": 30.0}, {""id"": 53623610, ""node1"": 36246, ""node2"": 87528, ""type"": 5, ""w"": 559.0}, {""id"": 656900330, ""node1"": 36246, ""node2"": 87528, ""type"": 6, ""w"": -31.0}]",r_syn,559.0
+faire,bouillir,obj,VERB,0.5914729237556458,[],,
+griller,tartine,obj,NOUN,0.6316503286361694,"[{""id"": 796857028, ""node1"": 46367, ""node2"": 25337, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+tartine,pain,nmod,NOUN,0.6558628678321838,"[{""id"": 416317, ""node1"": 25337, ""node2"": 61283, ""type"": 0, ""w"": 255.0}, {""id"": 9973894, ""node1"": 25337, ""node2"": 61283, ""type"": 9, ""w"": 167.0}, {""id"": 376056101, ""node1"": 25337, ""node2"": 61283, ""type"": 50, ""w"": 35.0}, {""id"": 1671360, ""node1"": 25337, ""node2"": 61283, ""type"": 666, ""w"": 6.0}]",r_associated,255.0
+surface,tout,amod,ADJ,0.5027230978012085,[],,
+disposer,arroser,advcl,VERB,0.4540260732173919,[],,
+filet,vinaigre,nmod,NOUN,0.6159487962722778,"[{""id"": 423998989, ""node1"": 42188, ""node2"": 145443, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+disposer,tartine,obj,NOUN,0.5631746649742126,[],,
+tartine,salade,nmod,NOUN,0.6338397264480591,[],,
+gonflé,camembert,nsubj,NOUN,0.4543534219264984,[],,
+poignée,petit,amod,ADJ,0.5186786651611328,[],,
+mettre,poignée,obj,NOUN,0.4741249978542328,[],,
+mettre,arroser,advcl,VERB,0.4683837890625,[],,
+arroser,tout,obj,NOUN,0.516660749912262,[],,
+miel,chaud,amod,ADJ,0.6328001022338867,[],,

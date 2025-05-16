@@ -1,0 +1,51 @@
+node1,node2,relations
+titre,pain,[]
+pain,ingrédient,"[{""id"": 15370362, ""node1"": 61283, ""node2"": 123418, ""type"": 0, ""w"": 27.0}, {""id"": 506072, ""node1"": 61283, ""node2"": 123418, ""type"": 3, ""w"": 54.0}]"
+pain,sel,"[{""id"": 107242, ""node1"": 61283, ""node2"": 13260, ""type"": 0, ""w"": 60.0}, {""id"": 238494, ""node1"": 61283, ""node2"": 13260, ""type"": 28, ""w"": 79.0}, {""id"": 25778967, ""node1"": 61283, ""node2"": 13260, ""type"": 50, ""w"": 51.0}, {""id"": 275129722, ""node1"": 61283, ""node2"": 13260, ""type"": 129, ""w"": 60.0}, {""id"": 651237764, ""node1"": 61283, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]"
+sel,sucre,"[{""id"": 183179, ""node1"": 13260, ""node2"": 139481, ""type"": 0, ""w"": 182.0}, {""id"": 377013894, ""node1"": 13260, ""node2"": 139481, ""type"": 20, ""w"": 30.0}, {""id"": 377000348, ""node1"": 13260, ""node2"": 139481, ""type"": 21, ""w"": 28.0}, {""id"": 1032957125, ""node1"": 13260, ""node2"": 139481, ""type"": 78, ""w"": 32.0}]"
+sucre,levure,[]
+eau,graine,"[{""id"": 1030663598, ""node1"": 65012, ""node2"": 14469, ""type"": 0, ""w"": 20.0}, {""id"": 480295435, ""node1"": 65012, ""node2"": 14469, ""type"": 777, ""w"": 10.0}]"
+graine,graine,"[{""id"": 306122, ""node1"": 14469, ""node2"": 14469, ""type"": 19, ""w"": 163.0}]"
+graine,sarrasin,"[{""id"": 908353030, ""node1"": 14469, ""node2"": 29459, ""type"": 0, ""w"": 20.0}]"
+eau,saladier,[]
+saladier,four,[]
+four,balance,[]
+balance,cuisine,[]
+eau,étape,[]
+tasse,grand,[]
+tasse,haut,[]
+levure,sucre,[]
+eau,tiède,"[{""id"": 796965917, ""node1"": 65012, ""node2"": 13843, ""type"": 0, ""w"": 29.0}, {""id"": 128780, ""node1"": 65012, ""node2"": 13843, ""type"": 17, ""w"": 73.0}, {""id"": 600063832, ""node1"": 65012, ""node2"": 13843, ""type"": 27, ""w"": 32.0}]"
+mettre,sel,"[{""id"": 513445611, ""node1"": 132366, ""node2"": 13260, ""type"": 0, ""w"": 35.0}, {""id"": 513445610, ""node1"": 132366, ""node2"": 13260, ""type"": 14, ""w"": 100.0}]"
+mettre,tuer,"[{""id"": 493631440, ""node1"": 132366, ""node2"": 7943, ""type"": 0, ""w"": 778.45}, {""id"": 494989586, ""node1"": 132366, ""node2"": 7943, ""type"": 35, ""w"": 1126.0}]"
+tuer,levure,[]
+saladier,mélanger,"[{""id"": 17857328, ""node1"": 45455, ""node2"": 37151, ""type"": 0, ""w"": 2.0}, {""id"": 72596974, ""node1"": 45455, ""node2"": 37151, ""type"": 24, ""w"": -25.0}, {""id"": 380394138, ""node1"": 45455, ""node2"": 37151, ""type"": 30, ""w"": 26.0}]"
+mélanger,farine,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]"
+saladier,son,[]
+son,blé,"[{""id"": 9973713, ""node1"": 51528, ""node2"": 32071, ""type"": 0, ""w"": 26.0}, {""id"": 54639515, ""node1"": 51528, ""node2"": 32071, ""type"": 5, ""w"": 77.0}, {""id"": 209090, ""node1"": 51528, ""node2"": 32071, ""type"": 10, ""w"": 60.0}]"
+puits,centre,[]
+verser,contenu,[]
+contenu,tasse,"[{""id"": 798732704, ""node1"": 108150, ""node2"": 146144, ""type"": 0, ""w"": 24.0}]"
+contenu,puits,[]
+puits,mélanger,[]
+temps,même,[]
+obtenir,pâte,[]
+pâte,homogène,"[{""id"": 796702467, ""node1"": 34069, ""node2"": 124759, ""type"": 0, ""w"": 28.0}, {""id"": 372565004, ""node1"": 34069, ""node2"": 124759, ""type"": 17, ""w"": 26.0}]"
+colle,qui,[]
+pâte,colle,"[{""id"": 975994, ""node1"": 34069, ""node2"": 14271, ""type"": 0, ""w"": 37.0}, {""id"": 53835392, ""node1"": 34069, ""node2"": 14271, ""type"": 5, ""w"": 96.0}]"
+torchon,humide,"[{""id"": 31861657, ""node1"": 87841, ""node2"": 76183, ""type"": 17, ""w"": 63.0}]"
+torchon,saladier,[]
+source,chaleur,[]
+laisser,pâte,[]
+pâte,min,[]
+mettre,pâte,[]
+moule,rectangulaire,"[{""id"": 31819059, ""node1"": 143723, ""node2"": 3278, ""type"": 17, ""w"": 57.0}]"
+moule,assurer,[]
+devoir,pâte,[]
+moitié,moule,[]
+reposer,heure,[]
+four,180,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,[]
+surveiller,cuisson,"[{""id"": 1007853514, ""node1"": 39170, ""node2"": 60056, ""type"": 14, ""w"": 31.0}]"
+doré,croûte,"[{""id"": 98295866, ""node1"": 47964, ""node2"": 41851, ""type"": 23, ""w"": 23.0}]"

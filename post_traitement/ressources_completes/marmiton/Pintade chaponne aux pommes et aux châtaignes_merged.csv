@@ -1,0 +1,42 @@
+head,lemma,dep,pos,sim,relation,relation_name,w
+châtaigne,ingrédient,nmod,NOUN,0.665496289730072,[],,
+châtaigne,sel,appos,NOUN,0.7022412419319153,[],,
+sel,poivre,nmod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,muscade,nmod,NOUN,0.6142682433128357,"[{""id"": 920103858, ""node1"": 139597, ""node2"": 115297, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+pomme,sucre,amod,NOUN,0.7055277824401855,"[{""id"": 96711509, ""node1"": 37201, ""node2"": 139481, ""type"": 0, ""w"": 26.0}, {""id"": 96711585, ""node1"": 37201, ""node2"": 139481, ""type"": 9, ""w"": 31.0}, {""id"": 4965769, ""node1"": 37201, ""node2"": 139481, ""type"": 777, ""w"": 2.0}]",r_has_part,31.0
+sucre,pomme,appos,NOUN,0.7055277824401855,"[{""id"": 98623378, ""node1"": 139481, ""node2"": 37201, ""type"": 0, ""w"": 19.0}, {""id"": 612652730, ""node1"": 139481, ""node2"": 37201, ""type"": 9, ""w"": -5.0}, {""id"": 97415216, ""node1"": 139481, ""node2"": 37201, ""type"": 10, ""w"": 26.0}]",r_holo,26.0
+pomme,châtaigne,nmod,NOUN,0.5946367383003235,"[{""id"": 53732413, ""node1"": 37201, ""node2"": 120225, ""type"": 0, ""w"": 29.0}, {""id"": 53618348, ""node1"": 37201, ""node2"": 120225, ""type"": 5, ""w"": 89.0}]",r_syn,89.0
+pomme,huile,amod,NOUN,0.6486644148826599,[],,
+sucre,four,nmod,NOUN,0.7770997881889343,[],,
+four,pinceau,nmod,NOUN,0.6441405415534973,[],,
+pinceau,micro-onde,nmod,NOUN,0.5232962965965271,[],,
+micro-onde,bol,nmod,NOUN,0.5516098141670227,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+pinceau,étape,nmod,NOUN,0.4064047634601593,[],,
+sucre,surplus,nmod,NOUN,0.6321458220481873,[],,
+surplus,graisse,nmod,NOUN,0.5623233318328857,[],,
+introduire,branche,obj,NOUN,0.4002601504325866,[],,
+branche,romarin,nmod,ADJ,0.5141621232032776,"[{""id"": 55037405, ""node1"": 26062, ""node2"": 127441, ""type"": 10, ""w"": 9.0}]",r_holo,9.0
+branche,frais,amod,ADJ,0.4372234344482422,[],,
+plat,aller,acl,VERB,0.5960066914558411,[],,
+poivrer,extérieur,obj,NOUN,0.4977751076221466,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+oignon,gros,amod,ADJ,0.5413218140602112,"[{""id"": 96738914, ""node1"": 123307, ""node2"": 88096, ""type"": 17, ""w"": 21.0}]",r_carac,21.0
+oignon,couper,acl,VERB,0.596168577671051,"[{""id"": 900892185, ""node1"": 123307, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 31770901, ""node1"": 123307, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 1767208, ""node1"": 123307, ""node2"": 128828, ""type"": 666, ""w"": 2.0}]",r_patient-1,100.0
+tranche,fin,amod,ADJ,0.4211523532867431,[],,
+four,chaud,amod,ADJ,0.6748667359352112,"[{""id"": 363192, ""node1"": 9190, ""node2"": 19150, ""type"": 0, ""w"": 123.0}, {""id"": 376860, ""node1"": 9190, ""node2"": 19150, ""type"": 17, ""w"": 130.0}, {""id"": 11348785, ""node1"": 9190, ""node2"": 19150, ""type"": 28, ""w"": 38.0}, {""id"": 2221131, ""node1"": 9190, ""node2"": 19150, ""type"": 666, ""w"": 1.0}]",r_carac,130.0
+début,cuisson,nmod,NOUN,0.6100133061408997,[],,
+ajouter,arroser,advcl,VERB,0.4606510102748871,[],,
+arroser,temps,obj,NOUN,0.4844806492328644,[],,
+arroser,volaille,obj,NOUN,0.6305285096168518,[],,
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+gras,jus,nsubj,NOUN,0.6148991584777832,"[{""id"": 14750153, ""node1"": 56362, ""node2"": 53310, ""type"": 23, ""w"": 29.0}]",r_carac-1,29.0
+gras,retirer,advcl,VERB,0.5251172780990601,[],,
+retirer,valeur,obj,NOUN,0.4171570539474487,[],,
+Réserver,réchauffer,nmod,ADV,0.4547216296195984,[],,
+châtaigne,micro-onde,nmod,NOUN,0.6643049716949463,[],,
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+répartir,pomme,obj,NOUN,0.5700052380561829,[],,
+pomme,couper,acl,VERB,0.5794677734375,"[{""id"": 31839899, ""node1"": 37201, ""node2"": 128828, ""type"": 26, ""w"": 64.0}]",r_patient-1,64.0
+dorer,pomme,nsubj:pass,NOUN,0.6535199880599976,[],,
