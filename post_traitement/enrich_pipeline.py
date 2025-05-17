@@ -5,7 +5,12 @@ import os
 import datetime
 import concurrent.futures
 import threading
-from langchain_community.llms import Ollama
+try:
+    # Try to import the new recommended package first
+    from langchain_ollama import OllamaLLM as Ollama
+except ImportError:
+    # Fall back to the deprecated version if the new package is not installed
+    from langchain_community.llms import Ollama
 
 # List of relations we care about with descriptions
 RELATIONS = {
@@ -45,8 +50,13 @@ thread_local = threading.local()
 def get_thread_model():
     """Get a thread-specific model instance"""
     if not hasattr(thread_local, "model"):
-        thread_local.model = Ollama(model="llama3:instruct")
-        print(f"Created new Ollama model instance for thread {threading.current_thread().name}")
+        # For Ollama, we need to use the model name as registered in Ollama
+        # Using the model "llama3-relations" that's already registered in Ollama
+        thread_local.model = Ollama(
+            model="llama3:instruct", # llama3-relations
+            # Configure for better deterministic outputs and to handle specific responses
+            # temperature=0.1,  # Lower temperature for more deterministic outputs
+        )
     return thread_local.model
 
 def get_relation_from_model(head, lemma, pos, dependency, context="cuisine"):
@@ -83,7 +93,8 @@ def get_relation_from_model(head, lemma, pos, dependency, context="cuisine"):
     try:
         response = local_model.invoke(prompt).strip().lower()
         
-        # Extract just the relation key if there's extra text
+        # Extract relation from potential JSON response
+        # Look specifically for relation patterns to avoid parsing JSON incorrectly
         for rel in RELATIONS:
             if rel.lower() in response:
                 return rel
@@ -138,10 +149,11 @@ def get_relations_batch(pairs, context="cuisine", batch_size=5):
             
             # Process response line by line
             relations = []
-            lines = response.split('\n')
+            
+            # Split the response into lines and clean them
+            lines = [line.strip().lower() for line in response.split('\n') if line.strip()]
             
             for line in lines:
-                line = line.strip().lower()
                 if not line:
                     continue
                     
@@ -506,7 +518,7 @@ def process_directory_parallel(directory_path, context="cuisine", batch_size=5, 
                 elapsed_min, elapsed_sec = divmod(int(elapsed_time), 60)
                 remaining_min, remaining_sec = divmod(int(est_time_remaining), 60)
                 
-                print(f"Progress: {completed_files}/{total_files} files ({(completed_files/total_files)*100:.1f}%)")
+                print(f"Progress: {completed_files}/{total_files} files ({completed_files/total_files*100:.1f}%)")
                 print(f"Files skipped: {skipped_files}, Files processed: {completed_files - skipped_files}")
                 print(f"Total enhancements so far: {total_enhancements}")
                 print(f"Time elapsed: {elapsed_min}m {elapsed_sec}s, Estimated time remaining: {remaining_min}m {remaining_sec}s")
@@ -516,7 +528,6 @@ def process_directory_parallel(directory_path, context="cuisine", batch_size=5, 
     # Process files in parallel
     print(f"Starting parallel processing with {max_workers} worker threads...")
     print(f"Using similarity threshold: {sim_threshold}, batch size: {batch_size}")
-    print(f"Each thread will use its own thread-local Mistral model instance")
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = []
         for file_name in csv_files:
