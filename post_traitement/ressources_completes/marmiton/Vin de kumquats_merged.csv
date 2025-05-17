@@ -1,0 +1,16 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,vin,appos,NOUN,0.586053192615509,[],,
+vin,ingrédient,nmod,NOUN,0.6430637836456299,"[{""id"": 578506236, ""node1"": 35798, ""node2"": 123418, ""type"": 6, ""w"": 69.0}]",r_isa,69.0
+vin,sucre,nmod,NOUN,0.681702196598053,"[{""id"": 716283715, ""node1"": 35798, ""node2"": 139481, ""type"": 0, ""w"": 22.0}, {""id"": 525755342, ""node1"": 35798, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]",r_associated,22.0
+sucre,citron,nmod,NOUN,0.6847571134567261,"[{""id"": 292123774, ""node1"": 139481, ""node2"": 15386, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+sucre,alcool,nmod,NOUN,0.6231129765510559,"[{""id"": 8792327, ""node1"": 139481, ""node2"": 47597, ""type"": 0, ""w"": 5.0}]",r_associated,5.0
+sucre,vin,nmod,NOUN,0.681702196598053,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+bocal,grand,amod,ADJ,0.5392780303955078,"[{""id"": 106939490, ""node1"": 109384, ""node2"": 23178, ""type"": 17, ""w"": 28.0}]",r_carac,28.0
+ingrédient,bocal,nmod,NOUN,0.6202943921089172,[],,
+bocal,pouvoir,acl:relcl,VERB,0.5318436622619629,[],,
+mois,remuer,acl,VERB,0.4375625848770141,[],,
+remuer,temps,obj,NOUN,0.5274296998977661,[],,
+boire,frais,obj,ADJ,0.49433633685112,[],,

@@ -1,0 +1,15 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+jus,orange,nmod,ADP,0.5570237040519714,"[{""id"": 237499, ""node1"": 53310, ""node2"": 145382, ""type"": 0, ""w"": 204.0}, {""id"": 10003691, ""node1"": 53310, ""node2"": 145382, ""type"": 10, ""w"": 28.0}, {""id"": 3171890, ""node1"": 53310, ""node2"": 145382, ""type"": 106, ""w"": 5.0}, {""id"": 1771771, ""node1"": 53310, ""node2"": 145382, ""type"": 666, ""w"": 6.0}]",r_associated,204.0
+jus,sirop,nmod,NOUN,0.5982855558395386,"[{""id"": 29328486, ""node1"": 53310, ""node2"": 91109, ""type"": 0, ""w"": 21.0}, {""id"": 54735672, ""node1"": 53310, ""node2"": 91109, ""type"": 5, ""w"": 75.0}, {""id"": 9985762, ""node1"": 53310, ""node2"": 91109, ""type"": 10, ""w"": 26.0}]",r_syn,75.0
+sirop,fraise,nmod,NOUN,0.6061238646507263,"[{""id"": 214380, ""node1"": 91109, ""node2"": 16242, ""type"": 0, ""w"": 417.0}, {""id"": 2404430, ""node1"": 91109, ""node2"": 16242, ""type"": 8, ""w"": 112.0}]",r_associated,417.0
+coupe,réfrigérateur,nmod,NOUN,0.4915637671947479,[],,
+réfrigérateur,saladier,nmod,NOUN,0.5889169573783875,[],,
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[],,
+réaliser,recette,obj,NOUN,0.5851512551307678,"[{""id"": 373014759, ""node1"": 4528, ""node2"": 120188, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+saladier,fraise,nmod,NOUN,0.6266868114471436,[],,
+fraise,couper,acl,VERB,0.5462130904197693,"[{""id"": 97124044, ""node1"": 16242, ""node2"": 128828, ""type"": 0, ""w"": 19.0}]",r_associated,19.0
+réfrigérateur,heure,nmod,NOUN,0.4385888278484344,[],,
+moment,servir,acl,VERB,0.4804177582263946,[],,
+ajouter,servir,acl,VERB,0.4676842093467712,[],,
+verre,type,nmod,NOUN,0.5144564509391785,[],,
+verre,coupe,nmod,NOUN,0.5173337459564209,"[{""id"": 390203, ""node1"": 144497, ""node2"": 141091, ""type"": 0, ""w"": 62.0}, {""id"": 700655, ""node1"": 144497, ""node2"": 141091, ""type"": 5, ""w"": 99.0}, {""id"": 99693, ""node1"": 144497, ""node2"": 141091, ""type"": 8, ""w"": 123.0}, {""id"": 377011435, ""node1"": 144497, ""node2"": 141091, ""type"": 20, ""w"": 26.0}, {""id"": 96929101, ""node1"": 144497, ""node2"": 141091, ""type"": 51, ""w"": 37.0}]",r_hypo,123.0

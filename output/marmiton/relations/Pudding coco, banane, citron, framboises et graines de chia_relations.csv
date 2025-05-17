@@ -1,0 +1,28 @@
+node1,node2,relations
+coco,banane,[]
+coco,citron,[]
+citron,ingrédient,[]
+citron,banane,"[{""id"": 914409136, ""node1"": 15386, ""node2"": 34046, ""type"": 0, ""w"": 20.0}, {""id"": 1074625644, ""node1"": 15386, ""node2"": 34046, ""type"": 6, ""w"": -25.0}]"
+citron,lait,[]
+lait,citron,[]
+coco,étape,[]
+coco,veille,[]
+veille,soir,[]
+mélanger,lait,"[{""id"": 373014663, ""node1"": 37151, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]"
+lait,coco,"[{""id"": 796793155, ""node1"": 86296, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]"
+lait,sirop,"[{""id"": 796702958, ""node1"": 86296, ""node2"": 91109, ""type"": 0, ""w"": 28.0}]"
+lait,bol,"[{""id"": 796726088, ""node1"": 86296, ""node2"": 145405, ""type"": 0, ""w"": 28.0}, {""id"": 97056216, ""node1"": 86296, ""node2"": 145405, ""type"": 15, ""w"": 31.0}, {""id"": 97056176, ""node1"": 86296, ""node2"": 145405, ""type"": 58, ""w"": 21.0}]"
+bol,filmer,[]
+laisser,nuit,[]
+nuit,frigo,[]
+mélanger,jus,[]
+jus,citron,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]"
+casserole,petit,[]
+feu,doux,[]
+ajouter,prêt,[]
+déposer,mélange,[]
+mélange,lait,[]
+mélange,coco,[]
+mélange,fond,[]
+ajouter,framboise,[]
+noix,coco,"[{""id"": 1924690, ""node1"": 30910, ""node2"": 145904, ""type"": 0, ""w"": 55.0}]"

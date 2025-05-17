@@ -1,0 +1,41 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,gâteau,nmod,NOUN,0.5333040952682495,[],,
+gâteau,mandarine,nmod,NOUN,0.6176248788833618,[],,
+gâteau,facile,amod,ADJ,0.575636625289917,"[{""id"": 9355626, ""node1"": 2149, ""node2"": 76826, ""type"": 0, ""w"": 63.0}, {""id"": 97330008, ""node1"": 2149, ""node2"": 76826, ""type"": 5, ""w"": 29.0}, {""id"": 1696723, ""node1"": 2149, ""node2"": 76826, ""type"": 35, ""w"": 63.0}]",r_associated,63.0
+ingrédient,beurre,appos,NOUN,0.7321043014526367,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]",r_associated,69.0
+beurre,levure,nmod,NOUN,0.6823499798774719,"[{""id"": 500926032, ""node1"": 140377, ""node2"": 53450, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+levure,farine,amod,NOUN,0.6151298880577087,"[{""id"": 1788186, ""node1"": 53450, ""node2"": 127629, ""type"": 0, ""w"": 60.0}, {""id"": 1046576042, ""node1"": 53450, ""node2"": 127629, ""type"": 8, ""w"": 20.0}]",r_associated,60.0
+levure,huile,amod,NOUN,0.6309573650360107,[],,
+levure,sucre,nmod,NOUN,0.6511401534080505,[],,
+sucre,mandarine,nmod,ADJ,0.6570725440979004,[],,
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+oeuf,moule,nmod,NOUN,0.5740424990653992,[],,
+ingrédient,grille,appos,NOUN,0.6116532683372498,[],,
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+pâtisserie,moule,nmod,NOUN,0.56337571144104,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]",r_associated,24.0
+grille,manquer,acl,VERB,0.4866251647472381,[],,
+manquer,four,obj,NOUN,0.6675082445144653,[],,
+four,couteau,nmod,NOUN,0.6828393340110779,[],,
+four,mixeur,nmod,NOUN,0.6762216091156006,[],,
+mixeur,cuillère,nmod,NOUN,0.5916650295257568,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+four,180,nmod,NUM,0.4979606568813324,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+couteau,gros,amod,ADJ,0.5064264535903931,"[{""id"": 555657871, ""node1"": 32610, ""node2"": 88096, ""type"": 17, ""w"": 31.0}]",r_carac,31.0
+ajouter,œuf,obj,NOUN,0.5268428325653076,[],,
+œuf,entier,amod,ADJ,0.5101135969161987,[],,
+verser,huile,obj,NOUN,0.6115446090698242,"[{""id"": 227659, ""node1"": 104506, ""node2"": 141971, ""type"": 14, ""w"": 57.0}, {""id"": 645787360, ""node1"": 104506, ""node2"": 141971, ""type"": 666, ""w"": 2.0}]",r_patient,57.0
+ajouter,farine,obj,NOUN,0.6640971302986145,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+moule,choisir,acl,VERB,0.5122388601303101,[],,
+verser,préparation,obj,NOUN,0.5208573341369629,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+enfourner,saupoudrer,advcl,VERB,0.5247384905815125,[],,
+sucre,fin,amod,NOUN,0.6024554371833801,"[{""id"": 277257, ""node1"": 139481, ""node2"": 144718, ""type"": 17, ""w"": 107.0}]",r_carac,107.0
+forme,croûte,nsubj,NOUN,0.5511258244514465,[],,
+saupoudrer,forme,advcl,VERB,0.5282781720161438,[],,
+dessus,gâteau,nmod,NOUN,0.5976858735084534,[],,
+gâteau,cuisson,nmod,NOUN,0.7625409364700317,"[{""id"": 99071070, ""node1"": 2149, ""node2"": 60056, ""type"": 0, ""w"": 41.0}]",r_associated,41.0
+cuire,min,obj,NOUN,0.5212259888648987,[],,

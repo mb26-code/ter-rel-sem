@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+nécessaire,yaourt,nsubj,NOUN,0.5916387438774109,[],,
+yaourt,lait,nmod,NOUN,0.5797099471092224,"[{""id"": 120512, ""node1"": 82320, ""node2"": 86296, ""type"": 0, ""w"": 137.0}, {""id"": 31177905, ""node1"": 82320, ""node2"": 86296, ""type"": 3, ""w"": 38.0}, {""id"": 24419596, ""node1"": 82320, ""node2"": 86296, ""type"": 6, ""w"": 245.0}, {""id"": 385497931, ""node1"": 82320, ""node2"": 86296, ""type"": 8, ""w"": -25.0}, {""id"": 274167920, ""node1"": 82320, ""node2"": 86296, ""type"": 9, ""w"": 17.0}, {""id"": 413715, ""node1"": 82320, ""node2"": 86296, ""type"": 21, ""w"": 84.0}, {""id"": 10638507, ""node1"": 82320, ""node2"": 86296, ""type"": 50, ""w"": 35.0}, {""id"": 1046682595, ""node1"": 82320, ""node2"": 86296, ""type"": 54, ""w"": 20.0}, {""id"": 1865773, ""node1"": 82320, ""node2"": 86296, ""type"": 666, ""w"": 29.0}]",r_isa,245.0
+lait,ingrédient,nmod,NOUN,0.6221581101417542,"[{""id"": 15370374, ""node1"": 86296, ""node2"": 123418, ""type"": 0, ""w"": 37.0}, {""id"": 506059, ""node1"": 86296, ""node2"": 123418, ""type"": 3, ""w"": 56.0}]",r_domain,56.0
+lait,jus,nmod,NOUN,0.608954906463623,[],,
+jus,pomme,nmod,NOUN,0.6033669710159302,"[{""id"": 1718367, ""node1"": 53310, ""node2"": 37201, ""type"": 0, ""w"": 94.0}, {""id"": 97415218, ""node1"": 53310, ""node2"": 37201, ""type"": 10, ""w"": 27.0}, {""id"": 377010700, ""node1"": 53310, ""node2"": 37201, ""type"": 20, ""w"": 32.0}, {""id"": 651234554, ""node1"": 53310, ""node2"": 37201, ""type"": 666, ""w"": 5.0}]",r_associated,94.0
+jus,cuillère,appos,NOUN,0.6121601462364197,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,fouet,nmod,NOUN,0.5491861701011658,"[{""id"": 662513346, ""node1"": 51905, ""node2"": 73888, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+cuisine,couvercle,nmod,NOUN,0.721039354801178,"[{""id"": 15303653, ""node1"": 16033, ""node2"": 89523, ""type"": 0, ""w"": 243.0}, {""id"": 15173457, ""node1"": 16033, ""node2"": 89523, ""type"": 27, ""w"": 22.0}, {""id"": 98290054, ""node1"": 16033, ""node2"": 89523, ""type"": 28, ""w"": 26.0}]",r_associated,243.0
+couvercle,étape,nmod,NOUN,0.4822983145713806,[],,
+fouet,nuit,nmod,NOUN,0.4863674342632293,[],,
+chauffer,soja,obj,NOUN,0.6442703008651733,[],,
+yaourt,normal,amod,ADJ,0.5372012257575989,[],,
+essayer,système,obj,NOUN,0.4018697142601013,[],,
+pot,bec,nmod,NOUN,0.5090334415435791,[],,
+mélanger,yaourt,obj,NOUN,0.6041830778121948,"[{""id"": 310228473, ""node1"": 37151, ""node2"": 82320, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+lait,soja,nmod,NOUN,0.5995789170265198,"[{""id"": 423451453, ""node1"": 86296, ""node2"": 78291, ""type"": 0, ""w"": 24.0}, {""id"": 288560005, ""node1"": 86296, ""node2"": 78291, ""type"": 777, ""w"": 7.0}]",r_associated,24.0
+avoir,yaourt,nsubj,NOUN,0.5238980650901794,[],,
+couche,deuxième,amod,ADJ,0.4328492283821106,[],,
+avoir,couche,obj,NOUN,0.4315893352031708,[],,
+couche,mousseux,amod,ADJ,0.496634840965271,[],,
+couche,dessus,nmod,NOUN,0.4572648704051971,[],,
+nuit,tout,amod,ADJ,0.4464542865753174,[],,
+prendre,lait,nsubj,NOUN,0.5839933156967163,[],,
+pouvoir,lait,nsubj,NOUN,0.5588452816009521,[],,
+lait,normal,amod,ADJ,0.562297523021698,"[{""id"": 425008982, ""node1"": 86296, ""node2"": 66118, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+ajouter,arôme,obj,NOUN,0.5423355102539062,[],,
+arôme,divers,amod,ADJ,0.5042287111282349,[],,
+pouvoir,cuillère,obj,NOUN,0.5478693842887878,[],,
+cuillère,fond,nmod,NOUN,0.5666587352752686,[],,
+fond,pot,nmod,NOUN,0.5237971544265747,"[{""id"": 9978630, ""node1"": 119272, ""node2"": 142367, ""type"": 10, ""w"": 4.0}]",r_holo,4.0

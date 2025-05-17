@@ -1,0 +1,59 @@
+node1,node2,relations
+titre,boulette,[]
+mère,grand,"[{""id"": 394116, ""node1"": 122956, ""node2"": 23178, ""type"": 17, ""w"": 60.0}]"
+boulette,mère,[]
+boulette,ingrédient,[]
+boulette,poivre,[]
+poivre,sel,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]"
+sel,persil,[]
+poivre,viande,[]
+viande,haché,[]
+poivre,lait,[]
+lait,oeuf,"[{""id"": 920038083, ""node1"": 86296, ""node2"": 116175, ""type"": 0, ""w"": 21.0}, {""id"": 385498014, ""node1"": 86296, ""node2"": 116175, ""type"": 8, ""w"": -25.0}]"
+boulette,sucre,[]
+sucre,thym,[]
+sucre,bouillon,[]
+bouillon,boeuf,[]
+boeuf,purée,[]
+boeuf,ail,[]
+boeuf,laurier,[]
+boulette,crème,[]
+crème,liquide,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]"
+boulette,pain,"[{""id"": 561335314, ""node1"": 112360, ""node2"": 61283, ""type"": 0, ""w"": 34.0}]"
+boulette,hot,[]
+boulette,oignon,[]
+balance,cuisine,[]
+balance,casserole,[]
+casserole,four,[]
+balance,boulette,[]
+ingrédient,tout,[]
+mélanger,ingrédient,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]"
+laisser,minute,[]
+sortir,frigo,[]
+former,boulette,[]
+passer,farine,[]
+poêle,feu,"[{""id"": 12351768, ""node1"": 119686, ""node2"": 143703, ""type"": 0, ""w"": 31.0}, {""id"": 12199892, ""node1"": 119686, ""node2"": 143703, ""type"": 5, ""w"": 35.0}, {""id"": 1786279, ""node1"": 119686, ""node2"": 143703, ""type"": 666, ""w"": 1.0}]"
+feu,moyen,[]
+mettre,huile,"[{""id"": 392082685, ""node1"": 132366, ""node2"": 141971, ""type"": 0, ""w"": 27.0}, {""id"": 392082684, ""node1"": 132366, ""node2"": 141971, ""type"": 14, ""w"": 100.0}]"
+huile,tournesol,"[{""id"": 143576, ""node1"": 141971, ""node2"": 26026, ""type"": 0, ""w"": 386.0}, {""id"": 580650, ""node1"": 141971, ""node2"": 26026, ""type"": 5, ""w"": 35.0}, {""id"": 272527, ""node1"": 141971, ""node2"": 26026, ""type"": 8, ""w"": 101.0}, {""id"": 99020760, ""node1"": 141971, ""node2"": 26026, ""type"": 27, ""w"": 27.0}, {""id"": 88080846, ""node1"": 141971, ""node2"": 26026, ""type"": 35, ""w"": 28.0}, {""id"": 1808071, ""node1"": 141971, ""node2"": 26026, ""type"": 42, ""w"": 101.0}]"
+chaud,huile,"[{""id"": 31746541, ""node1"": 19150, ""node2"": 141971, ""type"": 23, ""w"": 28.0}]"
+verser,chaud,[]
+déposer,boulette,[]
+face,tout,[]
+papier,absorber,[]
+chaud,Sauce,[]
+casserole,feu,"[{""id"": 252156, ""node1"": 57253, ""node2"": 143703, ""type"": 0, ""w"": 57.0}, {""id"": 96920401, ""node1"": 57253, ""node2"": 143703, ""type"": 15, ""w"": 30.0}, {""id"": 1762446, ""node1"": 57253, ""node2"": 143703, ""type"": 666, ""w"": 2.0}]"
+feu,doux,[]
+verser,coulis,[]
+coulis,tomate,"[{""id"": 798889036, ""node1"": 10401, ""node2"": 22138, ""type"": 0, ""w"": 31.0}, {""id"": 1072261196, ""node1"": 10401, ""node2"": 22138, ""type"": 666, ""w"": 2.0}]"
+ajouter,ail,[]
+ail,presser,"[{""id"": 373070071, ""node1"": 26979, ""node2"": 47617, ""type"": 26, ""w"": 30.0}]"
+sucre,mozzarella,[]
+mijoter,minute,[]
+réchauffer,minute,[]
+ouvrir,pain,[]
+disposer,boulette,[]
+chauffer,minute,[]
+chauffer,fondre,[]
+fondre,mozzarella,[]
+sortie,four,[]

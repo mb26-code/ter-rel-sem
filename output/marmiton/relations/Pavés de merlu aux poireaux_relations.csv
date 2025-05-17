@@ -1,0 +1,37 @@
+node1,node2,relations
+pavé,poireau,[]
+poireau,ingrédient,[]
+pavé,sel,[]
+sel,poivre,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]"
+pavé,tomate,[]
+casserole,four,[]
+four,étape,[]
+titre,casserole,[]
+casserole,eau,"[{""id"": 96542705, ""node1"": 57253, ""node2"": 65012, ""type"": 0, ""w"": 19.0}, {""id"": 22760525, ""node1"": 57253, ""node2"": 65012, ""type"": 28, ""w"": 34.0}, {""id"": 96542704, ""node1"": 57253, ""node2"": 65012, ""type"": 666, ""w"": 1.0}]"
+eau,saler,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]"
+réserver,coté,[]
+réserver,couper,[]
+couper,oignon,"[{""id"": 435065584, ""node1"": 128828, ""node2"": 123307, ""type"": 0, ""w"": 29.0}, {""id"": 31770866, ""node1"": 128828, ""node2"": 123307, ""type"": 14, ""w"": 100.0}]"
+ajouter,poireau,[]
+poireau,laisser,[]
+cuire,min,[]
+cuire,remuer,[]
+remuer,temps,[]
+couper,mozzarella,"[{""id"": 31821895, ""node1"": 128828, ""node2"": 120576, ""type"": 14, ""w"": 54.0}]"
+morceau,petit,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]"
+mozzarella,morceau,[]
+mettre,tranche,[]
+tranche,côté,"[{""id"": 9356193, ""node1"": 143123, ""node2"": 138419, ""type"": 0, ""w"": 35.0}, {""id"": 571732, ""node1"": 143123, ""node2"": 138419, ""type"": 5, ""w"": 163.0}, {""id"": 1856036, ""node1"": 143123, ""node2"": 138419, ""type"": 35, ""w"": 31.0}]"
+cuire,poireau,[]
+laisser,cuire,[]
+cuire,incorporer,[]
+morceau,mozzarella,[]
+incorporer,poivrer,[]
+fondre,minute,[]
+fondre,mozzarella,[]
+mettre,déposer,"[{""id"": 2239033, ""node1"": 132366, ""node2"": 35714, ""type"": 0, ""w"": 106.0}, {""id"": 578720, ""node1"": 132366, ""node2"": 35714, ""type"": 5, ""w"": 126.0}, {""id"": 1528108, ""node1"": 132366, ""node2"": 35714, ""type"": 666, ""w"": 4.0}]"
+déposer,pavé,[]
+pavé,préparation,[]
+mettre,rondelle,[]
+rondelle,tomate,"[{""id"": 28747930, ""node1"": 71106, ""node2"": 22138, ""type"": 0, ""w"": 51.0}]"
+tranche,mozzarella,[]

@@ -1,0 +1,24 @@
+node1,node2,relations
+mini,ingrédient,[]
+mini,chocolat,[]
+mini,cornet,[]
+cornet,crème,"[{""id"": 526333196, ""node1"": 84087, ""node2"": 44001, ""type"": 0, ""w"": 59.0}, {""id"": 1073318237, ""node1"": 84087, ""node2"": 44001, ""type"": 666, ""w"": 2.0}]"
+mini,congélateur,[]
+congélateur,casserole,"[{""id"": 3486711, ""node1"": 46141, ""node2"": 57253, ""type"": 777, ""w"": 9.0}]"
+congélateur,sortir,"[{""id"": 594619407, ""node1"": 46141, ""node2"": 5714, ""type"": 9, ""w"": -5.0}]"
+sortir,crème,[]
+crème,glacé,"[{""id"": 14803746, ""node1"": 44001, ""node2"": 39487, ""type"": 17, ""w"": 28.0}]"
+remplir,cornet,[]
+aide,cuillère,[]
+cuillère,soupe,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]"
+fondre,chocolat,"[{""id"": 28589116, ""node1"": 16480, ""node2"": 34157, ""type"": 0, ""w"": 63.0}, {""id"": 24768886, ""node1"": 16480, ""node2"": 34157, ""type"": 13, ""w"": 30.0}, {""id"": 1011304980, ""node1"": 16480, ""node2"": 34157, ""type"": 14, ""w"": 30.0}, {""id"": 1009801551, ""node1"": 16480, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]"
+cornet,congélateur,[]
+bord,chocolat,[]
+bord,fondre,[]
+bord,cornet,[]
+disposer,cornet,[]
+cornet,droit,[]
+remettre,temps,"[{""id"": 941366448, ""node1"": 62982, ""node2"": 13861, ""type"": 0, ""w"": 51.0}]"
+prendre,chocolat,[]
+temps,prendre,"[{""id"": 892867793, ""node1"": 13861, ""node2"": 86306, ""type"": 0, ""w"": 20.0}, {""id"": 15071419, ""node1"": 13861, ""node2"": 86306, ""type"": 26, ""w"": 100.0}]"
+prendre,minute,[]

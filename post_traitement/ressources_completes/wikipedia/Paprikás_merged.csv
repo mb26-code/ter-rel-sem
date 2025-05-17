@@ -1,0 +1,49 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+plat,viande,nmod,NOUN,0.7352131009101868,"[{""id"": 9901808, ""node1"": 36327, ""node2"": 140100, ""type"": 0, ""w"": 27.0}, {""id"": 360230, ""node1"": 36327, ""node2"": 140100, ""type"": 8, ""w"": 250.0}, {""id"": 10527677, ""node1"": 36327, ""node2"": 140100, ""type"": 9, ""w"": 14.0}, {""id"": 1679895, ""node1"": 36327, ""node2"": 140100, ""type"": 28, ""w"": 170.0}, {""id"": 270876712, ""node1"": 36327, ""node2"": 140100, ""type"": 50, ""w"": 27.0}, {""id"": 4235079, ""node1"": 36327, ""node2"": 140100, ""type"": 777, ""w"": 10.0}]",r_hypo,250.0
+viande,hongrois,amod,ADJ,0.6355175971984863,[],,
+plat,répandre,acl,VERB,0.6315280199050903,[],,
+faire,partie,obj,NOUN,0.4993119537830353,[],,
+famille,plat,nmod,NOUN,0.612501859664917,"[{""id"": 770613452, ""node1"": 98300, ""node2"": 36327, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+plat,paysan,amod,ADJ,0.5796085000038147,[],,
+intégrer,gastronomie,obj,NOUN,0.4960457980632782,[],,
+langue,nombreux,amod,ADJ,0.4253620505332947,"[{""id"": 1053430742, ""node1"": 52119, ""node2"": 101896, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+désigner,langue,nsubj,NOUN,0.4160663485527038,"[{""id"": 585594568, ""node1"": 95874, ""node2"": 52119, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+désigner,plat,obj,NOUN,0.5982265472412109,[],,
+plat,terme,nmod,NOUN,0.6098416447639465,[],,
+terme,unique,amod,ADJ,0.4334783852100372,[],,
+base,viande,nmod,NOUN,0.6828669309616089,[],,
+viande,rouge,amod,ADJ,0.6663224101066589,"[{""id"": 212530, ""node1"": 140100, ""node2"": 86356, ""type"": 0, ""w"": 120.0}, {""id"": 373120, ""node1"": 140100, ""node2"": 86356, ""type"": 17, ""w"": 166.0}, {""id"": 3155262, ""node1"": 140100, ""node2"": 86356, ""type"": 106, ""w"": 49.0}, {""id"": 3217156, ""node1"": 140100, ""node2"": 86356, ""type"": 666, ""w"": 1.0}]",r_carac,166.0
+pâte,hongrois,amod,ADJ,0.6347382664680481,[],,
+mets,indissociable,obj,ADJ,0.4729824960231781,[],,
+plaine,grand,amod,ADJ,0.435840904712677,"[{""id"": 558750911, ""node1"": 145636, ""node2"": 23178, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+contraindre,forme,nsubj,NOUN,0.4224134981632232,[],,
+forme,élevage,nmod,NOUN,0.4909892380237579,[],,
+cuire,il,nsubj,PRON,0.4075803458690643,[],,
+chaudron,métal,nmod,NOUN,0.5483506917953491,"[{""id"": 725795508, ""node1"": 6799, ""node2"": 134927, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+cuire,lard,obj,NOUN,0.7218000888824463,[],,
+prendre,que,obj,PRON,0.4397678077220917,[],,
+épice,prendre,acl:relcl,VERB,0.6777541041374207,[],,
+viande,bœuf,nmod,NOUN,0.636695384979248,"[{""id"": 10577328, ""node1"": 140100, ""node2"": 168216, ""type"": 0, ""w"": 59.0}, {""id"": 9627859, ""node1"": 140100, ""node2"": 168216, ""type"": 8, ""w"": 95.0}, {""id"": 15173562, ""node1"": 140100, ""node2"": 168216, ""type"": 27, ""w"": 30.0}, {""id"": 646611390, ""node1"": 140100, ""node2"": 168216, ""type"": 666, ""w"": 1.0}]",r_hypo,95.0
+utiliser,qui,nsubj:pass,PRON,0.4023291170597076,[],,
+viande,utiliser,acl:relcl,VERB,0.725264310836792,[],,
+utiliser,élevage,obj,NOUN,0.4611937701702118,[],,
+élevage,bœuf,nmod,NOUN,0.5504469871520996,"[{""id"": 796964237, ""node1"": 18412, ""node2"": 168216, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+bœuf,gris,amod,ADJ,0.5405189990997314,[],,
+utiliser,répandre,advcl,VERB,0.4113479554653168,[],,
+apparaître,élevage,nsubj:pass,NOUN,0.4261426627635956,[],,
+élevage,mouton,nmod,NOUN,0.4454327523708343,"[{""id"": 416280, ""node1"": 18412, ""node2"": 145295, ""type"": 0, ""w"": 64.0}, {""id"": 34651791, ""node1"": 18412, ""node2"": 145295, ""type"": 27, ""w"": 24.0}]",r_associated,64.0
+consommer,apparaître,advcl,VERB,0.4989087283611297,[],,
+viande,commencer,acl,VERB,0.7203400731086731,[],,
+consommer,plat,nsubj:pass,NOUN,0.6571562886238098,"[{""id"": 97862751, ""node1"": 97571, ""node2"": 36327, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+probable,consommer,advcl,VERB,0.4911899864673614,[],,
+élevage,assurer,acl,VERB,0.4057372808456421,[],,
+revenu,couche,nmod,NOUN,0.4645339548587799,[],,
+couche,société,nmod,NOUN,0.4133626222610473,[],,
+connaître,préparation,obj,NOUN,0.5369200110435486,[],,
+simplicité,préparation,nmod,NOUN,0.5232031941413879,[],,
+condition,vie,nmod,NOUN,0.4203914403915405,[],,
+remonter,reste,advcl,VERB,0.4512252509593963,[],,
+cuisine,bourgeois,nmod,ADJ,0.5802727341651917,[],,
+celui,paprika,nmod,NOUN,0.5530154705047607,[],,
+paprika,considérer,acl,VERB,0.5863290429115295,[],,
+épice,paysan,amod,ADJ,0.6149782538414001,[],,

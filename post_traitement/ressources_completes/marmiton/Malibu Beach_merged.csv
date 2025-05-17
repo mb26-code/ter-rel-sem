@@ -1,0 +1,18 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+titre,liqueur,nmod,NOUN,0.4889945387840271,[],,
+liqueur,coco,amod,ADV,0.588881254196167,[],,
+liqueur,crème,appos,NOUN,0.6069567799568176,"[{""id"": 12296076, ""node1"": 66643, ""node2"": 44001, ""type"": 0, ""w"": 27.0}, {""id"": 579426, ""node1"": 66643, ""node2"": 44001, ""type"": 5, ""w"": 41.0}, {""id"": 246258244, ""node1"": 66643, ""node2"": 44001, ""type"": 8, ""w"": 26.0}]",r_syn,41.0
+crème,fruit,nmod,NOUN,0.6309862732887268,[],,
+fruit,passion,nmod,NOUN,0.4803899526596069,"[{""id"": 640137315, ""node1"": 87286, ""node2"": 39448, ""type"": 0, ""w"": 26.0}, {""id"": 14799317, ""node1"": 87286, ""node2"": 39448, ""type"": 23, ""w"": 21.0}]",r_associated,26.0
+liqueur,jus,nmod,NOUN,0.5795641541481018,[],,
+jus,fruit,nmod,NOUN,0.5496760606765747,"[{""id"": 237500, ""node1"": 53310, ""node2"": 87286, ""type"": 0, ""w"": 208.0}, {""id"": 210856, ""node1"": 53310, ""node2"": 87286, ""type"": 9, ""w"": -60.0}, {""id"": 1965659, ""node1"": 53310, ""node2"": 87286, ""type"": 10, ""w"": 63.0}, {""id"": 1051892064, ""node1"": 53310, ""node2"": 87286, ""type"": 13, ""w"": 17.0}, {""id"": 24414181, ""node1"": 53310, ""node2"": 87286, ""type"": 35, ""w"": 48.0}, {""id"": 1771770, ""node1"": 53310, ""node2"": 87286, ""type"": 666, ""w"": 4.0}]",r_associated,208.0
+liqueur,sirop,appos,NOUN,0.5979510545730591,[],,
+sirop,fraise,nmod,NOUN,0.6061238646507263,"[{""id"": 214380, ""node1"": 91109, ""node2"": 16242, ""type"": 0, ""w"": 417.0}, {""id"": 2404430, ""node1"": 91109, ""node2"": 16242, ""type"": 8, ""w"": 112.0}]",r_associated,417.0
+recette,Malibu,nmod,X,0.5135678052902222,[],,
+verser,Malibu,obj,PROPN,0.4335692226886749,[],,
+verser,trait,obj,NOUN,0.445886492729187,[],,
+trait,sirop,nmod,NOUN,0.5603766441345215,[],,
+trait,verre,nmod,NOUN,0.4770675897598266,[],,
+verser,contenu,obj,NOUN,0.4781818091869354,[],,
+verre,type,nmod,NOUN,0.5144564509391785,[],,

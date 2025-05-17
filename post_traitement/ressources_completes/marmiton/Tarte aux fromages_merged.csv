@@ -1,0 +1,18 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+tarte,fromage,nmod,NOUN,0.6859312057495117,"[{""id"": 588371004, ""node1"": 575, ""node2"": 141687, ""type"": 0, ""w"": 49.0}, {""id"": 4040883, ""node1"": 575, ""node2"": 141687, ""type"": 777, ""w"": 10.0}]",r_associated,49.0
+fromage,ingrédient,nmod,NOUN,0.7009125351905823,"[{""id"": 24850717, ""node1"": 141687, ""node2"": 123418, ""type"": 0, ""w"": 34.0}, {""id"": 24842103, ""node1"": 141687, ""node2"": 123418, ""type"": 6, ""w"": 233.0}]",r_isa,233.0
+tarte,briser,acl,VERB,0.6160573959350586,[],,
+briser,sel,obj,NOUN,0.6731769442558289,[],,
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,fromage,appos,NOUN,0.7018498778343201,"[{""id"": 24589651, ""node1"": 139597, ""node2"": 141687, ""type"": 0, ""w"": 23.0}, {""id"": 24569976, ""node1"": 139597, ""node2"": 141687, ""type"": 10, ""w"": 29.0}]",r_holo,29.0
+crème,oeuf,nmod,NOUN,0.6166951060295105,"[{""id"": 96714533, ""node1"": 44001, ""node2"": 116175, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+tarte,moule,nmod,NOUN,0.598731517791748,"[{""id"": 70795, ""node1"": 575, ""node2"": 143723, ""type"": 0, ""w"": 72.0}, {""id"": 1015316074, ""node1"": 575, ""node2"": 143723, ""type"": 666, ""w"": 2.0}]",r_associated,72.0
+moule,tarte,nmod,NOUN,0.598731517791748,"[{""id"": 201624, ""node1"": 143723, ""node2"": 575, ""type"": 0, ""w"": 130.0}]",r_associated,130.0
+tarte,mixeur,nmod,NOUN,0.6810333132743835,[],,
+mixeur,four,nmod,NOUN,0.6762216091156006,[],,
+four,étape,nmod,NOUN,0.6555838584899902,[],,
+tarte,Mixer,nmod,PROPN,0.5900179743766785,[],,
+tarte,ensemble,amod,NOUN,0.6269370317459106,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+ajouter,ingrédient,obj,NOUN,0.5645265579223633,"[{""id"": 9084112, ""node1"": 25099, ""node2"": 123418, ""type"": 0, ""w"": 56.0}, {""id"": 428901945, ""node1"": 25099, ""node2"": 123418, ""type"": 14, ""w"": 100.0}, {""id"": 9084083, ""node1"": 25099, ""node2"": 123418, ""type"": 35, ""w"": 48.0}]",r_patient,100.0
+fond,tarte,nmod,NOUN,0.6178751587867737,[],,

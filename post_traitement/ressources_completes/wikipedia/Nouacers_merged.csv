@@ -1,0 +1,20 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,cuisine,obj,NOUN,0.6019042730331421,[],,
+cuisine,tunisien,amod,ADJ,0.5652143359184265,[],,
+partager,connaissance,obj,NOUN,0.4124003052711487,"[{""id"": 929699725, ""node1"": 122353, ""node2"": 104243, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+base,pâte,nmod,NOUN,0.6559011340141296,[],,
+spécialité,tunisien,amod,ADJ,0.4153019785881042,[],,
+mets,historien,nmod,NOUN,0.4575015306472778,[],,
+couleur,doré,amod,ADJ,0.5011557936668396,"[{""id"": 797004655, ""node1"": 40056, ""node2"": 47964, ""type"": 0, ""w"": 22.0}, {""id"": 242864260, ""node1"": 40056, ""node2"": 47964, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+découper,pâte,nsubj:pass,NOUN,0.6360970735549927,"[{""id"": 97862160, ""node1"": 45686, ""node2"": 34069, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+pâte,faire,acl,VERB,0.6741626262664795,"[{""id"": 96931375, ""node1"": 34069, ""node2"": 87528, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+carré,mince,amod,NOUN,0.4517538845539093,[],,
+découper,carré,obj,ADJ,0.4785609543323517,[],,
+carré,soleil,nmod,NOUN,0.4852530658245086,[],,
+faire,cuisson,nsubj,NOUN,0.7496538162231445,[],,
+sauce,tomate,amod,ADV,0.6976383328437805,"[{""id"": 2221325, ""node1"": 141110, ""node2"": 22138, ""type"": 0, ""w"": 74.0}, {""id"": 10528848, ""node1"": 141110, ""node2"": 22138, ""type"": 9, ""w"": 26.0}, {""id"": 11333947, ""node1"": 141110, ""node2"": 22138, ""type"": 28, ""w"": 38.0}, {""id"": 96715050, ""node1"": 141110, ""node2"": 22138, ""type"": 50, ""w"": 16.0}, {""id"": 651031294, ""node1"": 141110, ""node2"": 22138, ""type"": 666, ""w"": 4.0}]",r_associated,74.0
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+poivron,cuire,acl,VERB,0.779416561126709,"[{""id"": 1944120, ""node1"": 38257, ""node2"": 5115, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+viande,tout,amod,ADJ,0.7291925549507141,[],,
+accompagner,viande,obj,NOUN,0.7059446573257446,[],,
+viande,poulet,appos,NOUN,0.7033135890960693,"[{""id"": 82327, ""node1"": 140100, ""node2"": 146261, ""type"": 0, ""w"": 797.0}, {""id"": 177877, ""node1"": 140100, ""node2"": 146261, ""type"": 8, ""w"": 186.0}, {""id"": 3109943, ""node1"": 140100, ""node2"": 146261, ""type"": 10, ""w"": 51.0}, {""id"": 15173548, ""node1"": 140100, ""node2"": 146261, ""type"": 27, ""w"": 26.0}, {""id"": 2518169, ""node1"": 140100, ""node2"": 146261, ""type"": 42, ""w"": 63.0}, {""id"": 376041599, ""node1"": 140100, ""node2"": 146261, ""type"": 51, ""w"": 35.0}, {""id"": 645422219, ""node1"": 140100, ""node2"": 146261, ""type"": 666, ""w"": 6.0}]",r_associated,797.0

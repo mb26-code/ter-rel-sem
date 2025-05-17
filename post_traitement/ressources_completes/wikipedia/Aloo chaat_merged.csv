@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+nom,mets,nmod,NOUN,0.4406270980834961,[],,
+mets,cuisine,nmod,NOUN,0.6013908386230469,"[{""id"": 1621769, ""node1"": 114839, ""node2"": 16033, ""type"": 0, ""w"": 74.0}, {""id"": 505447, ""node1"": 114839, ""node2"": 16033, ""type"": 3, ""w"": -44.0}, {""id"": 553970, ""node1"": 114839, ""node2"": 16033, ""type"": 5, ""w"": -187.0}, {""id"": 2765553, ""node1"": 114839, ""node2"": 16033, ""type"": 15, ""w"": 53.0}, {""id"": 988951706, ""node1"": 114839, ""node2"": 16033, ""type"": 666, ""w"": 3.0}]",r_associated,74.0
+cuisine,indien,amod,ADJ,0.5758578181266785,[],,
+mets,typique,amod,ADJ,0.5279048681259155,"[{""id"": 373155555, ""node1"": 114839, ""node2"": 133589, ""type"": 17, ""w"": -36.0}]",r_carac,-36.0
+préparation,base,nmod,NOUN,0.5450719594955444,[],,
+base,pomme,nmod,NOUN,0.6038941740989685,[],,
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,sauter,acl,VERB,0.6052144169807434,[],,
+préparation,huile,nmod,NOUN,0.6201204657554626,"[{""id"": 941867209, ""node1"": 33634, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+huile,épice,nmod,NOUN,0.679015040397644,"[{""id"": 669880758, ""node1"": 141971, ""node2"": 146056, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+mets,pouvoir,acl:relcl,VERB,0.4722198247909546,[],,
+faire,office,obj,NOUN,0.4528534114360809,[],,
+salade,pomme,nmod,NOUN,0.6419057846069336,"[{""id"": 97758155, ""node1"": 118908, ""node2"": 37201, ""type"": 0, ""w"": 36.0}, {""id"": 97758156, ""node1"": 118908, ""node2"": 37201, ""type"": 9, ""w"": 31.0}]",r_associated,36.0
+courant,faire,advcl,VERB,0.5004472136497498,[],,
+pomme,couper,acl,VERB,0.5837893486022949,"[{""id"": 31839899, ""node1"": 37201, ""node2"": 128828, ""type"": 26, ""w"": 64.0}]",r_patient-1,64.0
+pomme,bouillie,appos,NOUN,0.6341233253479004,[],,
+pomme,servir,acl,VERB,0.6381417512893677,[],,
+mélange,épice,nmod,NOUN,0.6888759136199951,"[{""id"": 925026230, ""node1"": 14800, ""node2"": 146056, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+courant,plat,nsubj,NOUN,0.598058819770813,[],,
+désigner,préparer,advcl,VERB,0.4247028827667236,[],,
+région,différent,amod,ADJ,0.4292839765548706,[],,
+désigner,pomme,obj,NOUN,0.5551697611808777,[],,
+dériver,terme,nsubj:pass,NOUN,0.4083880186080932,[],,
+signifier,savoureux,amod,ADJ,0.4801703989505768,[],,

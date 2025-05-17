@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+tarte,citron,nmod,NOUN,0.6649378538131714,"[{""id"": 588372685, ""node1"": 575, ""node2"": 15386, ""type"": 0, ""w"": 18.0}, {""id"": 2214731, ""node1"": 575, ""node2"": 15386, ""type"": 28, ""w"": 5.0}, {""id"": 672030197, ""node1"": 575, ""node2"": 15386, ""type"": 666, ""w"": 3.0}, {""id"": 500435314, ""node1"": 575, ""node2"": 15386, ""type"": 777, ""w"": 10.0}]",r_associated,18.0
+citron,vert,amod,ADJ,0.53326815366745,"[{""id"": 1559582, ""node1"": 15386, ""node2"": 26976, ""type"": 0, ""w"": 61.0}, {""id"": 1773945, ""node1"": 15386, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3160941, ""node1"": 15386, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]",r_associated,61.0
+dessert,américain,amod,ADJ,0.5263177156448364,[],,
+dessert,réaliser,acl,VERB,0.566160261631012,[],,
+base,jus,nmod,NOUN,0.6180624961853027,[],,
+jus,lime,nmod,NOUN,0.5545007586479187,"[{""id"": 925134036, ""node1"": 53310, ""node2"": 141406, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+dessert,concentrer,acl,VERB,0.5740516185760498,[],,
+recouvrir,dessert,nsubj:pass,NOUN,0.6167591214179993,[],,
+dessert,traditionnel,amod,ADJ,0.5936668515205383,[],,
+couche,meringue,nmod,NOUN,0.5508425235748291,[],,
+couche,faire,acl,VERB,0.549748957157135,[],,
+base,blanc,nmod,NOUN,0.5718958377838135,"[{""id"": 8565710, ""node1"": 72257, ""node2"": 15196, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+blanc,œuf,nmod,NOUN,0.5384882688522339,"[{""id"": 796769193, ""node1"": 15196, ""node2"": 174124, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+cultiver,fruit,nsubj,NOUN,0.4804298281669616,"[{""id"": 94074121, ""node1"": 124394, ""node2"": 87286, ""type"": 0, ""w"": 34.0}, {""id"": 1047029593, ""node1"": 124394, ""node2"": 87286, ""type"": 13, ""w"": 30.0}, {""id"": 94074120, ""node1"": 124394, ""node2"": 87286, ""type"": 14, ""w"": 38.0}]",r_patient,38.0
+utilisation,lait,nmod,NOUN,0.5705348253250122,"[{""id"": 1040435113, ""node1"": 48333, ""node2"": 86296, ""type"": 17, ""w"": -5.0}]",r_carac,-5.0
+lait,concentrer,acl,VERB,0.5706077218055725,[],,
+passé,lait,nmod,NOUN,0.5681303143501282,[],,
+lait,frais,amod,ADJ,0.5659855008125305,"[{""id"": 276952, ""node1"": 86296, ""node2"": 53495, ""type"": 17, ""w"": 73.0}]",r_carac,73.0
+fait,présent,acl,ADJ,0.4260102808475494,"[{""id"": 943464675, ""node1"": 104957, ""node2"": 66808, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+présent,tropical,acl:relcl,ADJ,0.4094105362892151,[],,
+réfrigérateur,premier,amod,ADJ,0.4974198937416076,[],,
+arrivée,réfrigérateur,nmod,NOUN,0.4694493412971496,[],,
+jaunâtre,jus,nsubj,NOUN,0.5623091459274292,[],,
+jaune,œuf,nmod,NOUN,0.529880940914154,"[{""id"": 558764775, ""node1"": 86711, ""node2"": 174124, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+donne,coloration,obj,NOUN,0.4445200562477112,[],,
+ajouter,recette,nsubj,NOUN,0.6382197737693787,"[{""id"": 428901970, ""node1"": 25099, ""node2"": 120188, ""type"": 0, ""w"": 26.0}, {""id"": 428901969, ""node1"": 25099, ""node2"": 120188, ""type"": 31, ""w"": 28.0}]",r_action_lieu,28.0
+ajouter,colorant,obj,NOUN,0.5497388243675232,[],,
+colorant,préparation,nmod,NOUN,0.6209374666213989,[],,
+préparation,donner,acl,VERB,0.5021332502365112,[],,
+donner,coloration,obj,NOUN,0.4903472363948822,[],,
+coloration,vert,amod,ADJ,0.5002530217170715,[],,
+mélange,préparation,nmod,NOUN,0.6207090616226196,"[{""id"": 12288644, ""node1"": 14800, ""node2"": 33634, ""type"": 0, ""w"": 24.0}, {""id"": 595101, ""node1"": 14800, ""node2"": 33634, ""type"": 5, ""w"": 83.0}]",r_syn,83.0
+réagir,acidité,nsubj,NOUN,0.4825670421123504,[],,
+acidité,lime,nmod,NOUN,0.5073680877685547,[],,

@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+pâte,aubergine,nmod,NOUN,0.6691972017288208,[],,
+pâte,sucre,nmod,NOUN,0.7055894136428833,"[{""id"": 96931421, ""node1"": 34069, ""node2"": 139481, ""type"": 50, ""w"": 30.0}]",r_object>mater,30.0
+sucre,vinaigre,nmod,NOUN,0.6951253414154053,[],,
+vinaigre,sel,nmod,NOUN,0.683134913444519,"[{""id"": 2147403, ""node1"": 145443, ""node2"": 13260, ""type"": 0, ""w"": 80.0}]",r_associated,80.0
+sucre,tomate,nmod,NOUN,0.734734058380127,"[{""id"": 920115188, ""node1"": 139481, ""node2"": 22138, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+sucre,aubergine,nmod,ADJ,0.7446004748344421,[],,
+sucre,concentrer,acl,VERB,0.638980507850647,[],,
+tomate,ail,nmod,ADP,0.603027880191803,"[{""id"": 421761038, ""node1"": 22138, ""node2"": 26979, ""type"": 0, ""w"": 3.0}]",r_associated,3.0
+tomate,échalote,amod,NOUN,0.6337923407554626,[],,
+tomate,huile,amod,NOUN,0.6595464944839478,"[{""id"": 421761130, ""node1"": 22138, ""node2"": 141971, ""type"": 0, ""w"": 4.0}]",r_associated,4.0
+pâte,top,nmod,NOUN,0.5758959650993347,[],,
+bol,saladier,nmod,NOUN,0.5367903709411621,"[{""id"": 796872211, ""node1"": 145405, ""node2"": 45455, ""type"": 0, ""w"": 28.0}, {""id"": 1029292999, ""node1"": 145405, ""node2"": 45455, ""type"": 67, ""w"": 34.0}]",r_similar,34.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+pâte,étape,nmod,NOUN,0.5984682440757751,[],,
+pâte,couper,acl,VERB,0.6448031663894653,[],,
+aubergine,cube,nmod,NOUN,0.5456670522689819,[],,
+pâte,préférence,nmod,NOUN,0.6332101821899414,[],,
+pâte,faire,acl,VERB,0.662661075592041,"[{""id"": 96931375, ""node1"": 34069, ""node2"": 87528, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+bol,sel,nmod,NOUN,0.6924905776977539,"[{""id"": 72783911, ""node1"": 145405, ""node2"": 13260, ""type"": 28, ""w"": 36.0}]",r_lieu-1,36.0
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+ajouter,tomate,obj,NOUN,0.6318210363388062,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 30.0}]",r_agent,30.0
+tomate,couper,acl,VERB,0.6290057301521301,"[{""id"": 920912564, ""node1"": 22138, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 628044041, ""node1"": 22138, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+tomate,concentré,appos,NOUN,0.6039107441902161,"[{""id"": 421761058, ""node1"": 22138, ""node2"": 120287, ""type"": 0, ""w"": 17.0}, {""id"": 3868761, ""node1"": 22138, ""node2"": 120287, ""type"": 777, ""w"": 7.0}]",r_associated,17.0
+concentré,tomate,nmod,NOUN,0.6039107441902161,[],,
+ajouter,fin,nsubj,NOUN,0.4294197261333465,[],,
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+ajouter,vinaigre,obj,NOUN,0.6182233095169067,[],,
+basilic,couper,acl,VERB,0.5829850435256958,[],,
+fondre,mozzarella,nsubj,NOUN,0.5912922024726868,[],,
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+pâte,dent,amod,ADJ,0.6100888848304749,[],,
+mélanger,pâte,obj,NOUN,0.6584569811820984,"[{""id"": 150093, ""node1"": 37151, ""node2"": 34069, ""type"": 14, ""w"": 140.0}]",r_patient,140.0
+pâte,légume,nmod,NOUN,0.7379322648048401,[],,
+feuille,basilic,nmod,NOUN,0.5825510621070862,"[{""id"": 98620683, ""node1"": 37993, ""node2"": 112671, ""type"": 0, ""w"": 18.0}, {""id"": 97419090, ""node1"": 37993, ""node2"": 112671, ""type"": 10, ""w"": 27.0}]",r_holo,27.0

@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+pâte,papillon,amod,PROPN,0.627041757106781,[],,
+pâte,courgette,nmod,NOUN,0.6634702086448669,[],,
+pâte,ingrédient,nmod,NOUN,0.6811284422874451,"[{""id"": 24920568, ""node1"": 34069, ""node2"": 123418, ""type"": 6, ""w"": 17.0}]",r_isa,17.0
+pâte,Bouillon,nmod,PROPN,0.6399513483047485,[],,
+pâte,crème,amod,NOUN,0.6638638377189636,"[{""id"": 975998, ""node1"": 34069, ""node2"": 44001, ""type"": 0, ""w"": 24.0}, {""id"": 96931482, ""node1"": 34069, ""node2"": 44001, ""type"": 50, ""w"": 28.0}]",r_object>mater,28.0
+crème,liquide,amod,ADJ,0.6173139810562134,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]",r_carac,52.0
+pâte,huile,amod,NOUN,0.6796421408653259,"[{""id"": 96931420, ""node1"": 34069, ""node2"": 141971, ""type"": 50, ""w"": 28.0}, {""id"": 650992495, ""node1"": 34069, ""node2"": 141971, ""type"": 666, ""w"": 3.0}]",r_object>mater,28.0
+pâte,étape,nmod,NOUN,0.5984682440757751,[],,
+pâte,casserole,nmod,NOUN,0.6972867250442505,[],,
+casserole,remplir,acl,VERB,0.5616362690925598,"[{""id"": 96920370, ""node1"": 57253, ""node2"": 95980, ""type"": 26, ""w"": 31.0}, {""id"": 473646402, ""node1"": 57253, ""node2"": 95980, ""type"": 30, ""w"": 26.0}]",r_patient-1,31.0
+cuire,le,obj,DET,0.4500194191932678,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+temps,mentionner,acl,VERB,0.4047049880027771,[],,
+prendre,soin,obj,NOUN,0.4055182933807373,[],,
+conserver,louche,obj,NOUN,0.5399740934371948,[],,
+louche,eau,nmod,NOUN,0.5861531496047974,"[{""id"": 96723681, ""node1"": 124144, ""node2"": 65012, ""type"": 28, ""w"": 31.0}, {""id"": 7644778, ""node1"": 124144, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]",r_lieu-1,31.0
+eau,cuisson,nmod,NOUN,0.6715990304946899,"[{""id"": 489016047, ""node1"": 65012, ""node2"": 60056, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+sauteuse,faire,acl,VERB,0.5152523517608643,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+minute,feu,nmod,NOUN,0.5576279163360596,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+laisser,ajouter,advcl,VERB,0.4014033377170563,[],,
+ajouter,courgette,obj,NOUN,0.6024848818778992,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+poursuivre,cuisson,obj,NOUN,0.6843500733375549,[],,
+cuisson,minute,nmod,NOUN,0.6456773281097412,[],,
+ajouter,pâte,obj,NOUN,0.6482475399971008,[],,
+minute,mélanger,acl,VERB,0.5259966850280762,[],,

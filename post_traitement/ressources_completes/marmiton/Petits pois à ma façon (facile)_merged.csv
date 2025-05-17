@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+pois,petit,amod,ADJ,0.5441179871559143,"[{""id"": 1743094, ""node1"": 97846, ""node2"": 55222, ""type"": 0, ""w"": 105.0}, {""id"": 1525554, ""node1"": 97846, ""node2"": 55222, ""type"": 666, ""w"": 2.0}]",r_associated,105.0
+titre,pois,nmod,NOUN,0.5032194256782532,[],,
+pois,façon,nmod,NOUN,0.5571663975715637,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,carotte,appos,NOUN,0.6786724925041199,[],,
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+ingrédient,pois,appos,NOUN,0.5750998258590698,[],,
+ingrédient,cube,nmod,NOUN,0.5473321080207825,[],,
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+titre,casserole,nmod,NOUN,0.5580013990402222,[],,
+eau,chauffer,acl,VERB,0.593856930732727,"[{""id"": 913483848, ""node1"": 65012, ""node2"": 90994, ""type"": 0, ""w"": 20.0}, {""id"": 426780851, ""node1"": 65012, ""node2"": 90994, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+chauffer,cube,obj,NOUN,0.5552459359169006,[],,
+bouillon,boeuf,nmod,NOUN,0.6349595785140991,[],,
+ébullition,eau,nsubj,NOUN,0.5533320903778076,"[{""id"": 984351079, ""node1"": 83252, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]",r_aki,3.0
+plonger,ébullition,advcl,NOUN,0.4841866791248321,[],,
+plonger,pois,obj,NOUN,0.5456884503364563,[],,
+plonger,couper,advcl,VERB,0.4591342806816101,[],,
+rondelle,fin,amod,ADJ,0.4580791592597961,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+plonger,faire,advcl,VERB,0.4675095379352569,[],,
+réserver,verre,obj,NOUN,0.5513036847114563,[],,
+verre,moutarde,nmod,NOUN,0.6036860942840576,[],,
+moutarde,jus,nmod,NOUN,0.6183433532714844,[],,
+jus,cuisson,nmod,NOUN,0.6731067299842834,[],,
+cuisson,pois,nmod,NOUN,0.6687490344047546,[],,
+verser,pois,obj,NOUN,0.5537862777709961,[],,
+pois,préparation,nmod,NOUN,0.5531330704689026,[],,
+préparation,oignon,nmod,NOUN,0.6636663675308228,[],,
+rajouter,gousse,obj,NOUN,0.5051958560943604,[],,
+gousse,ail,nmod,NOUN,0.5501744151115417,"[{""id"": 1841967, ""node1"": 3889, ""node2"": 26979, ""type"": 0, ""w"": 58.0}, {""id"": 665112731, ""node1"": 3889, ""node2"": 26979, ""type"": 174, ""w"": 40.0}, {""id"": 714921743, ""node1"": 3889, ""node2"": 26979, ""type"": 666, ""w"": 3.0}]",r_associated,58.0
+gousse,entier,amod,ADJ,0.4850094616413116,[],,
+cuillère,café,nmod,NOUN,0.592677116394043,"[{""id"": 163839, ""node1"": 51905, ""node2"": 66324, ""type"": 0, ""w"": 180.0}, {""id"": 11354840, ""node1"": 51905, ""node2"": 66324, ""type"": 15, ""w"": 39.0}, {""id"": 720818158, ""node1"": 51905, ""node2"": 66324, ""type"": 174, ""w"": 25.0}]",r_associated,180.0
+café,persil,nmod,NOUN,0.6382266879081726,[],,
+saler,poivrer,advcl,VERB,0.5285379886627197,"[{""id"": 796710265, ""node1"": 15671, ""node2"": 70211, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+verser,verre,obj,NOUN,0.5500485897064209,"[{""id"": 384991, ""node1"": 104506, ""node2"": 144497, ""type"": 0, ""w"": 70.0}, {""id"": 220538, ""node1"": 104506, ""node2"": 144497, ""type"": 14, ""w"": 60.0}, {""id"": 154209, ""node1"": 104506, ""node2"": 144497, ""type"": 16, ""w"": 80.0}, {""id"": 391688, ""node1"": 104506, ""node2"": 144497, ""type"": 31, ""w"": 110.0}]",r_action_lieu,110.0
+verre,bouillon,nmod,NOUN,0.6181686520576477,"[{""id"": 914309730, ""node1"": 144497, ""node2"": 146582, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+feu,petit,amod,ADJ,0.5734477639198303,"[{""id"": 2278793, ""node1"": 143703, ""node2"": 55222, ""type"": 17, ""w"": 30.0}]",r_carac,30.0

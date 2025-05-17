@@ -1,0 +1,36 @@
+node1,node2,relations
+titre,ingrédient,[]
+ingrédient,beurre,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]"
+ingrédient,sucre,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]"
+sucre,Saint,[]
+Saint,oeuf,[]
+grille,pâtisserie,[]
+pâtisserie,four,"[{""id"": 942271912, ""node1"": 25966, ""node2"": 9190, ""type"": 0, ""w"": 24.0}, {""id"": 15790548, ""node1"": 25966, ""node2"": 9190, ""type"": 15, ""w"": 58.0}, {""id"": 1789859, ""node1"": 25966, ""node2"": 9190, ""type"": 666, ""w"": 1.0}]"
+four,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,mixeur,[]
+mixeur,moule,[]
+moule,gâteau,"[{""id"": 201625, ""node1"": 143723, ""node2"": 2149, ""type"": 0, ""w"": 233.0}]"
+gâteau,saladier,[]
+saladier,balance,[]
+balance,cuisine,[]
+cuisine,frigo,"[{""id"": 118986, ""node1"": 16033, ""node2"": 45624, ""type"": 0, ""w"": 303.0}, {""id"": 9973132, ""node1"": 16033, ""node2"": 45624, ""type"": 9, ""w"": 10.0}, {""id"": 15222678, ""node1"": 16033, ""node2"": 45624, ""type"": 27, ""w"": 27.0}, {""id"": 151638, ""node1"": 16033, ""node2"": 45624, ""type"": 28, ""w"": 868.0}]"
+frigo,étape,[]
+four,180,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,[]
+mixer,obtenir,[]
+obtenir,poudre,[]
+beurre,fondre,"[{""id"": 652231036, ""node1"": 140377, ""node2"": 16480, ""type"": 0, ""w"": 21.0}, {""id"": 24771033, ""node1"": 140377, ""node2"": 16480, ""type"": 24, ""w"": 137.0}, {""id"": 1886772, ""node1"": 140377, ""node2"": 16480, ""type"": 26, ""w"": 33.0}]"
+fond,moule,"[{""id"": 796741908, ""node1"": 119272, ""node2"": 143723, ""type"": 0, ""w"": 30.0}, {""id"": 961890616, ""node1"": 119272, ""node2"": 143723, ""type"": 10, ""w"": 25.0}]"
+cuire,min,[]
+mélanger,mixer,"[{""id"": 1798139, ""node1"": 37151, ""node2"": 12170, ""type"": 0, ""w"": 201.0}, {""id"": 192187, ""node1"": 37151, ""node2"": 12170, ""type"": 5, ""w"": 65.0}, {""id"": 188374, ""node1"": 37151, ""node2"": 12170, ""type"": 16, ""w"": 109.0}, {""id"": 2073044, ""node1"": 37151, ""node2"": 12170, ""type"": 35, ""w"": 60.0}]"
+obtenir,préparation,[]
+préparation,liquide,[]
+verser,mélange,[]
+fond,cuire,[]
+four,min,[]
+puissance,four,[]
+mettre,cuit,[]
+réfrigérateur,heure,[]
+réfrigérateur,minimum,[]

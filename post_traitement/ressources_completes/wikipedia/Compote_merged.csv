@@ -1,0 +1,86 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,compote,nmod,NOUN,0.5438727736473083,[],,
+concerner,cuisine,obj,NOUN,0.6019042730331421,[],,
+sorte,compote,nsubj,NOUN,0.6032904982566833,[],,
+sorte,faire,acl,VERB,0.5100119709968567,[],,
+fruit,cuire,acl,VERB,0.7549319267272949,"[{""id"": 1045732362, ""node1"": 87286, ""node2"": 5115, ""type"": 24, ""w"": 36.0}]",r_agent-1,36.0
+retrouver,référence,obj,NOUN,0.4189747869968414,[],,
+référence,compote,nmod,NOUN,0.6036556363105774,[],,
+compote,pomme,nmod,NOUN,0.5899955630302429,"[{""id"": 1986749, ""node1"": 5295, ""node2"": 37201, ""type"": 0, ""w"": 147.0}, {""id"": 373000107, ""node1"": 5295, ""node2"": 37201, ""type"": 17, ""w"": 26.0}, {""id"": 377010654, ""node1"": 5295, ""node2"": 37201, ""type"": 20, ""w"": 29.0}, {""id"": 11346927, ""node1"": 5295, ""node2"": 37201, ""type"": 28, ""w"": 38.0}, {""id"": 14672084, ""node1"": 5295, ""node2"": 37201, ""type"": 42, ""w"": 30.0}, {""id"": 2046466, ""node1"": 5295, ""node2"": 37201, ""type"": 50, ""w"": 37.0}, {""id"": 1688878, ""node1"": 5295, ""node2"": 37201, ""type"": 666, ""w"": 6.0}]",r_associated,147.0
+compote,poème,nmod,NOUN,0.4792642593383789,[],,
+dorer,buste,obj,NOUN,0.4827724695205688,[],,
+cacher,qui,nsubj,PRON,0.4055042564868927,[],,
+pomme,cacher,acl:relcl,VERB,0.5865635275840759,[],,
+pomme,écraser,acl,VERB,0.5793675184249878,[],,
+maître,cuisinier,appos,NOUN,0.4373806416988373,[],,
+décrire,recette,obj,NOUN,0.586610734462738,[],,
+livre,fait,nmod,NOUN,0.4917598962783813,[],,
+fait,cuisine,nmod,NOUN,0.6284273862838745,[],,
+livre,écrire,acl,VERB,0.4148654639720917,"[{""id"": 149056, ""node1"": 142787, ""node2"": 91801, ""type"": 0, ""w"": 240.0}, {""id"": 1019097998, ""node1"": 142787, ""node2"": 91801, ""type"": 24, ""w"": -25.0}, {""id"": 2361187, ""node1"": 142787, ""node2"": 91801, ""type"": 25, ""w"": 72.0}, {""id"": 2515757, ""node1"": 142787, ""node2"": 91801, ""type"": 26, ""w"": 100.0}, {""id"": 224082, ""node1"": 142787, ""node2"": 91801, ""type"": 30, ""w"": 190.0}, {""id"": 290197557, ""node1"": 142787, ""node2"": 91801, ""type"": 37, ""w"": 51.0}, {""id"": 1626546, ""node1"": 142787, ""node2"": 91801, ""type"": 38, ""w"": 180.0}, {""id"": 766162164, ""node1"": 142787, ""node2"": 91801, ""type"": 63, ""w"": 45.0}, {""id"": 1794198, ""node1"": 142787, ""node2"": 91801, ""type"": 666, ""w"": 1.0}]",r_associated,240.0
+usage,servir,acl,VERB,0.4785893857479095,[],,
+servir,fruit,obj,NOUN,0.5613347887992859,"[{""id"": 1047029609, ""node1"": 7888, ""node2"": 87286, ""type"": 13, ""w"": 30.0}, {""id"": 376194383, ""node1"": 7888, ""node2"": 87286, ""type"": 16, ""w"": 32.0}]",r_instr,32.0
+fruit,purée,nmod,NOUN,0.648581326007843,"[{""id"": 914773419, ""node1"": 87286, ""node2"": 16444, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+compote,enfant,nmod,NOUN,0.5432655811309814,[],,
+compote,avoir,acl:relcl,VERB,0.5453177094459534,[],,
+avoir,goût,obj,NOUN,0.5262750387191772,[],,
+goût,inné,amod,ADJ,0.4521651268005371,[],,
+produit,corps,appos,NOUN,0.4237937033176422,"[{""id"": 56844121, ""node1"": 32667, ""node2"": 74846, ""type"": 9, ""w"": 41.0}, {""id"": 588179611, ""node1"": 32667, ""node2"": 74846, ""type"": 777, ""w"": 10.0}]",r_has_part,41.0
+corps,gras,amod,ADJ,0.5076565146446228,"[{""id"": 909483174, ""node1"": 74846, ""node2"": 56362, ""type"": 0, ""w"": 20.0}, {""id"": 217945247, ""node1"": 74846, ""node2"": 56362, ""type"": 10, ""w"": -25.0}, {""id"": 108320, ""node1"": 74846, ""node2"": 56362, ""type"": 17, ""w"": 59.0}]",r_carac,59.0
+texture,mou,amod,ADJ,0.4385752975940704,[],,
+aversion,aliment,nmod,NOUN,0.5311936736106873,[],,
+aliment,goût,nmod,NOUN,0.628821611404419,"[{""id"": 352111362, ""node1"": 114637, ""node2"": 119233, ""type"": 0, ""w"": 29.0}, {""id"": 671666434, ""node1"": 114637, ""node2"": 119233, ""type"": 153, ""w"": 26.0}, {""id"": 1072992222, ""node1"": 114637, ""node2"": 119233, ""type"": 666, ""w"": 2.0}]",r_associated,29.0
+aliment,prononcer,acl,VERB,0.5644956231117249,[],,
+odeur,fort,amod,ADJ,0.466495931148529,"[{""id"": 97869227, ""node1"": 73427, ""node2"": 54186, ""type"": 17, ""w"": 116.0}]",r_carac,116.0
+fruit,acide,amod,NOUN,0.5176662802696228,"[{""id"": 2171500, ""node1"": 87286, ""node2"": 41368, ""type"": 17, ""w"": 39.0}]",r_carac,39.0
+fruit,amer,amod,ADJ,0.478961706161499,[],,
+légume,manifeste,acl:relcl,VERB,0.6185912489891052,[],,
+transformation,fruit,nmod,NOUN,0.4730929136276245,[],,
+transformation,raison,nmod,NOUN,0.4361164271831512,[],,
+raison,richesse,nmod,NOUN,0.4209758341312408,[],,
+défense,chimique,amod,ADJ,0.4541642665863037,[],,
+chimique,fruit,nmod,NOUN,0.5333846807479858,[],,
+défense,préparation,nmod,NOUN,0.4557984173297882,[],,
+préparation,culinaire,amod,ADJ,0.6475791931152344,"[{""id"": 601611802, ""node1"": 33634, ""node2"": 347, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+cellule,végétal,amod,ADJ,0.4860391914844513,"[{""id"": 9971113, ""node1"": 103057, ""node2"": 136507, ""type"": 0, ""w"": 10.0}, {""id"": 130723, ""node1"": 103057, ""node2"": 136507, ""type"": 10, ""w"": 58.0}]",r_holo,58.0
+combiner,qui,nsubj,PRON,0.4104539155960083,[],,
+protéine,végétal,amod,ADJ,0.5251197814941406,[],,
+récepteur,amer,nmod,NOUN,0.4061339199542999,[],,
+amer,situer,acl,VERB,0.4308783411979675,[],,
+terme,compote,nmod,NOUN,0.5818514823913574,[],,
+conserver,forme,obj,NOUN,0.4724680185317993,[],,
+donner,salade,obj,NOUN,0.6544883251190186,[],,
+avoir,recette,obj,NOUN,0.5731593370437622,[],,
+recette,compote,nmod,NOUN,0.6690104603767395,"[{""id"": 608584963, ""node1"": 120188, ""node2"": 5295, ""type"": 0, ""w"": 35.0}]",r_associated,35.0
+amande,vert,amod,ADJ,0.5284362435340881,"[{""id"": 97327773, ""node1"": 28557, ""node2"": 26976, ""type"": 0, ""w"": 15.0}]",r_associated,15.0
+désigner,cuisson,obj,NOUN,0.697463870048523,[],,
+cuisson,aliment,nmod,NOUN,0.778869092464447,"[{""id"": 423545108, ""node1"": 60056, ""node2"": 114637, ""type"": 0, ""w"": 16.0}, {""id"": 1042170467, ""node1"": 60056, ""node2"": 114637, ""type"": 82, ""w"": 29.0}, {""id"": 3576987, ""node1"": 60056, ""node2"": 114637, ""type"": 777, ""w"": 10.0}]",r_interact_with,29.0
+aliment,entier,nmod,NOUN,0.5498504042625427,"[{""id"": 539972147, ""node1"": 114637, ""node2"": 49309, ""type"": 17, ""w"": -25.0}]",r_carac,-25.0
+aliment,type,nmod,NOUN,0.5585227608680725,[],,
+aliment,compote,appos,NOUN,0.6925761103630066,"[{""id"": 244984890, ""node1"": 114637, ""node2"": 5295, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+compote,gibier,nmod,NOUN,0.6423545479774475,[],,
+désigner,compote,nsubj,NOUN,0.5592371821403503,[],,
+désigner,sorte,obj,NOUN,0.4337102472782135,"[{""id"": 729422759, ""node1"": 95874, ""node2"": 37467, ""type"": 9, ""w"": -5.0}]",r_has_part,-5.0
+sorte,confiture,nmod,NOUN,0.6063029766082764,[],,
+confiture,fruit,nmod,NOUN,0.5596624612808228,"[{""id"": 226011, ""node1"": 70793, ""node2"": 87286, ""type"": 0, ""w"": 266.0}, {""id"": 1525774, ""node1"": 70793, ""node2"": 87286, ""type"": 666, ""w"": 6.0}]",r_associated,266.0
+fruit,frais,amod,ADJ,0.4749932289123535,[],,
+sorte,soucier,acl:relcl,VERB,0.4387272894382477,[],,
+fruit,forme,nmod,NOUN,0.5122196674346924,[],,
+forme,morceau,nmod,NOUN,0.552617609500885,[],,
+écraser,fruit,nsubj:pass,NOUN,0.5192476511001587,"[{""id"": 1047029629, ""node1"": 52004, ""node2"": 87286, ""type"": 13, ""w"": 30.0}, {""id"": 308081511, ""node1"": 52004, ""node2"": 87286, ""type"": 14, ""w"": 30.0}, {""id"": 376194374, ""node1"": 52004, ""node2"": 87286, ""type"": 16, ""w"": 30.0}]",r_instr,30.0
+poussée,cuisson,nsubj:pass,NOUN,0.6700894832611084,[],,
+obtenir,consistance,obj,NOUN,0.406040757894516,[],,
+consistance,purée,nmod,NOUN,0.6450978517532349,[],,
+conserve,fruit,nmod,NOUN,0.497346431016922,"[{""id"": 949577335, ""node1"": 144639, ""node2"": 87286, ""type"": 0, ""w"": 40.0}]",r_associated,40.0
+manière,certain,amod,ADJ,0.417035698890686,[],,
+manière,accommoder,acl,VERB,0.4528049826622009,[],,
+accommoder,pigeon,obj,NOUN,0.5051469802856445,[],,
+voire,canard,nmod,NOUN,0.5339354276657104,[],,
+dessert,compote,nsubj,NOUN,0.6324785947799683,"[{""id"": 9902637, ""node1"": 38557, ""node2"": 5295, ""type"": 0, ""w"": 22.0}, {""id"": 401374, ""node1"": 38557, ""node2"": 5295, ""type"": 8, ""w"": 114.0}]",r_hypo,114.0
+accompagner,compote,nsubj,NOUN,0.5826418995857239,[],,
+accompagner,viande,obj,NOUN,0.7059446573257446,[],,
+trouver,compote,obj,NOUN,0.5980085134506226,[],,
+compote,faire,acl,VERB,0.626425564289093,"[{""id"": 561207801, ""node1"": 5295, ""node2"": 87528, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+fruit,nombreux,amod,ADJ,0.4528329074382782,[],,
+fruit,autre,amod,ADJ,0.5194652080535889,[],,
+fruit,tel,amod,ADJ,0.4780599772930145,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,

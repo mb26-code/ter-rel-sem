@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,alimentation,obj,NOUN,0.410456508398056,[],,
+gâteau,grec,amod,ADJ,0.431253433227539,[],,
+gâteau,typique,amod,ADJ,0.6240507960319519,[],,
+ingrédient,dont,nmod,PRON,0.493603378534317,[],,
+orange,ingrédient,nsubj,NOUN,0.5929214358329773,"[{""id"": 569052591, ""node1"": 145382, ""node2"": 123418, ""type"": 6, ""w"": 29.0}]",r_isa,29.0
+ingrédient,principal,amod,ADJ,0.5312119126319885,[],,
+gâteau,orange,acl:relcl,NOUN,0.6130695939064026,"[{""id"": 613869999, ""node1"": 2149, ""node2"": 145382, ""type"": 9, ""w"": 26.0}, {""id"": 3168986, ""node1"": 2149, ""node2"": 145382, ""type"": 106, ""w"": 7.0}]",r_has_part,26.0
+orange,doux,amod,ADJ,0.4895178079605102,[],,
+famille,gâteau,nmod,NOUN,0.5920104384422302,[],,
+gâteau,appeler,acl,VERB,0.5641917586326599,[],,
+baigner,qui,nsubj,PRON,0.412804514169693,[],,
+gâteau,baigner,acl:relcl,VERB,0.5947103500366211,[],,
+fait,pâte,nsubj,NOUN,0.6664324402809143,[],,
+fait,composer,acl,VERB,0.430514246225357,"[{""id"": 53601474, ""node1"": 104957, ""node2"": 54882, ""type"": 5, ""w"": -50.0}]",r_syn,-50.0
+fait,ajouter,acl:relcl,VERB,0.4704493582248688,[],,
+ajouter,mélange,obj,NOUN,0.5439569354057312,[],,
+mélange,yaourt,nmod,NOUN,0.6069738268852234,[],,
+mélange,œuf,nmod,NOUN,0.5602554082870483,[],,
+jus,orange,nmod,NOUN,0.5519834756851196,"[{""id"": 237499, ""node1"": 53310, ""node2"": 145382, ""type"": 0, ""w"": 204.0}, {""id"": 10003691, ""node1"": 53310, ""node2"": 145382, ""type"": 10, ""w"": 28.0}, {""id"": 3171890, ""node1"": 53310, ""node2"": 145382, ""type"": 106, ""w"": 5.0}, {""id"": 1771771, ""node1"": 53310, ""node2"": 145382, ""type"": 666, ""w"": 6.0}]",r_associated,204.0
+dessus,sirop,nmod,NOUN,0.6129356622695923,[],,
+sirop,sucre,appos,NOUN,0.6353851556777954,"[{""id"": 217497, ""node1"": 91109, ""node2"": 139481, ""type"": 0, ""w"": 407.0}, {""id"": 415329, ""node1"": 91109, ""node2"": 139481, ""type"": 9, ""w"": 70.0}, {""id"": 1035329517, ""node1"": 91109, ""node2"": 139481, ""type"": 50, ""w"": 31.0}, {""id"": 984864968, ""node1"": 91109, ""node2"": 139481, ""type"": 666, ""w"": 3.0}]",r_associated,407.0
+sucre,liquide,amod,ADJ,0.6533104181289673,"[{""id"": 558788617, ""node1"": 139481, ""node2"": 140315, ""type"": 0, ""w"": 49.0}]",r_associated,49.0
+cuire,qui,nsubj:pass,PRON,0.6562127470970154,[],,
+sirop,cuire,acl:relcl,VERB,0.7545831799507141,[],,
+absorber,sirop,nsubj:pass,NOUN,0.604828953742981,[],,
+consommer,absorber,advcl,VERB,0.4744470119476318,"[{""id"": 12279053, ""node1"": 97571, ""node2"": 119570, ""type"": 0, ""w"": 382.0}, {""id"": 641746, ""node1"": 97571, ""node2"": 119570, ""type"": 5, ""w"": 140.0}, {""id"": 26670414, ""node1"": 97571, ""node2"": 119570, ""type"": 35, ""w"": 126.0}, {""id"": 1767102, ""node1"": 97571, ""node2"": 119570, ""type"": 666, ""w"": 1.0}]",r_associated,382.0
+saveur,tout,amod,ADJ,0.6305437088012695,[],,
+être,saveur,nsubj,NOUN,0.5330255031585693,[],,
+saveur,gâteau,nmod,NOUN,0.6935887336730957,[],,
+devoir,sensation,nsubj,NOUN,0.4028090536594391,[],,
+sensation,bouche,nmod,NOUN,0.4851242303848266,"[{""id"": 914291433, ""node1"": 127640, ""node2"": 16110, ""type"": 0, ""w"": 20.0}, {""id"": 370367025, ""node1"": 127640, ""node2"": 16110, ""type"": 9, ""w"": 29.0}]",r_has_part,29.0
+ingrédient,orange,nsubj,NOUN,0.5929214358329773,"[{""id"": 569052735, ""node1"": 123418, ""node2"": 145382, ""type"": 8, ""w"": 39.0}, {""id"": 3191912, ""node1"": 123418, ""node2"": 145382, ""type"": 106, ""w"": 1.0}]",r_hypo,39.0
+empêcher,ingrédient,nmod,NOUN,0.5371850728988647,[],,
+ingrédient,base,nmod,NOUN,0.5895823240280151,"[{""id"": 12352698, ""node1"": 123418, ""node2"": 72257, ""type"": 0, ""w"": 30.0}, {""id"": 12197414, ""node1"": 123418, ""node2"": 72257, ""type"": 5, ""w"": 35.0}]",r_syn,35.0
+base,cuisine,nmod,NOUN,0.6276524066925049,[],,
+cuisine,grec,amod,ADJ,0.4040005803108215,"[{""id"": 920914285, ""node1"": 16033, ""node2"": 126963, ""type"": 0, ""w"": 20.0}, {""id"": 597861610, ""node1"": 16033, ""node2"": 126963, ""type"": 27, ""w"": 29.0}]",r_domain-1,29.0

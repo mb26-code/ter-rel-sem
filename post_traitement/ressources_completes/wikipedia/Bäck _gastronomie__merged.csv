@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+genre,vin,nmod,NOUN,0.5985230803489685,[],,
+genre,région,nmod,NOUN,0.4485871493816376,[],,
+boulanger,français,nmod,ADJ,0.4268602728843689,[],,
+travailler,certain,nsubj,PRON,0.4021891951560974,[],,
+vignoble,temps,nmod,NOUN,0.473436564207077,[],,
+droit,servir,acl,VERB,0.4510532319545746,[],,
+vin,propre,amod,ADJ,0.6142351031303406,[],,
+servir,vin,obj,NOUN,0.6310115456581116,"[{""id"": 388855380, ""node1"": 7888, ""node2"": 35798, ""type"": 0, ""w"": 26.0}, {""id"": 388855379, ""node1"": 7888, ""node2"": 35798, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+proposer,boulanger,nsubj,NOUN,0.4525708258152008,[],,
+nourriture,boisson,nmod,NOUN,0.5945334434509277,"[{""id"": 84718, ""node1"": 20965, ""node2"": 113547, ""type"": 0, ""w"": 85.0}, {""id"": 727658083, ""node1"": 20965, ""node2"": 113547, ""type"": 27, ""w"": 43.0}]",r_associated,85.0
+apporter,que,obj,PRON,0.4326859414577484,[],,
+nourriture,apporter,acl:relcl,VERB,0.5461459755897522,"[{""id"": 900099032, ""node1"": 20965, ""node2"": 49739, ""type"": 0, ""w"": 20.0}, {""id"": 428890249, ""node1"": 20965, ""node2"": 49739, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+fournir,couvert,obj,NOUN,0.4244652986526489,[],,
+connaître,boulangerie,nsubj:pass,NOUN,0.4971025288105011,[],,
+boulangerie,local,amod,ADJ,0.4398598372936249,[],,
+tradition,vieux,amod,ADJ,0.4107513427734375,[],,
+tradition,siècle,nmod,NOUN,0.4300669729709625,[],,
+mettre,système,nsubj:pass,NOUN,0.4442083239555359,[],,
+acheter,boisson,nsubj:pass,NOUN,0.5600162148475647,"[{""id"": 478483201, ""node1"": 29926, ""node2"": 113547, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+collation,propre,amod,ADJ,0.5103764533996582,[],,
+préparer,collation,obj,NOUN,0.531887412071228,[],,
+cuisine,propre,amod,ADJ,0.6037127375602722,"[{""id"": 199628, ""node1"": 16033, ""node2"": 118316, ""type"": 17, ""w"": 61.0}]",r_carac,61.0
+collation,cuisine,nmod,NOUN,0.6542648077011108,"[{""id"": 370311023, ""node1"": 42106, ""node2"": 16033, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+consommer,faire,advcl,VERB,0.5381555557250977,"[{""id"": 186926001, ""node1"": 97571, ""node2"": 87528, ""type"": 0, ""w"": 56.0}, {""id"": 184134247, ""node1"": 97571, ""node2"": 87528, ""type"": 5, ""w"": 27.0}]",r_associated,56.0
+faire,course,obj,NOUN,0.5122395157814026,[],,
+fait,terminer,acl,VERB,0.4633639454841614,[],,
+avoir,cuisine,obj,NOUN,0.5794652700424194,[],,
+nourriture,propre,amod,ADJ,0.5476705431938171,[],,
+apporter,nourriture,obj,NOUN,0.5461459755897522,"[{""id"": 428890235, ""node1"": 49739, ""node2"": 20965, ""type"": 0, ""w"": 36.0}, {""id"": 428890234, ""node1"": 49739, ""node2"": 20965, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+sandwich,boucherie,nmod,NOUN,0.5719963312149048,[],,
+boucherie,voisin,amod,ADJ,0.4070004522800445,[],,
+saucisse,grillé,amod,ADJ,0.6326060891151428,"[{""id"": 93777836, ""node1"": 77807, ""node2"": 141899, ""type"": 17, ""w"": 30.0}, {""id"": 1054486101, ""node1"": 77807, ""node2"": 141899, ""type"": 666, ""w"": 2.0}]",r_carac,30.0
+frais,fourniture,nmod,NOUN,0.415507435798645,[],,
+fourniture,plat,nmod,NOUN,0.6195356845855713,[],,

@@ -1,0 +1,86 @@
+node1,node2,relations
+titre,gâteau,[]
+gâteau,roi,[]
+gâteau,ingrédient,[]
+gâteau,fleur,[]
+fleur,oranger,"[{""id"": 421883126, ""node1"": 28985, ""node2"": 33024, ""type"": 0, ""w"": 11.0}]"
+gâteau,extrait,[]
+extrait,orange,[]
+orange,sucre,[]
+sucre,poudre,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]"
+poudre,levure,"[{""id"": 799241746, ""node1"": 139470, ""node2"": 53450, ""type"": 0, ""w"": 21.0}]"
+levure,boulanger,"[{""id"": 1769594, ""node1"": 53450, ""node2"": 145285, ""type"": 0, ""w"": 90.0}, {""id"": 376186762, ""node1"": 53450, ""node2"": 145285, ""type"": 25, ""w"": 26.0}]"
+boulanger,sel,"[{""id"": 203696, ""node1"": 145285, ""node2"": 13260, ""type"": 16, ""w"": 70.0}]"
+sel,beurre,"[{""id"": 29328492, ""node1"": 13260, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 9986817, ""node1"": 13260, ""node2"": 140377, ""type"": 10, ""w"": 35.0}]"
+poudre,oeuf,[]
+oeuf,lait,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]"
+lait,citron,[]
+titre,confiture,[]
+confiture,abricot,"[{""id"": 411049, ""node1"": 70793, ""node2"": 118502, ""type"": 0, ""w"": 141.0}, {""id"": 11340043, ""node1"": 70793, ""node2"": 118502, ""type"": 28, ""w"": 38.0}]"
+abricot,grille,[]
+grille,pâtisserie,[]
+pâtisserie,moule,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]"
+grille,manquer,[]
+manquer,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,saladier,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]"
+saladier,four,[]
+four,top,"[{""id"": 509203905, ""node1"": 9190, ""node2"": 61057, ""type"": 17, ""w"": 27.0}]"
+papier,meilleur,[]
+top,papier,[]
+pinceau,fouet,[]
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 306.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 266.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+fouet,bol,[]
+bol,casserole,[]
+casserole,couvercle,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]"
+couvercle,balance,[]
+balance,cuisine,[]
+balance,réfrigérateur,[]
+table,induction,[]
+préparer,veille,[]
+mélanger,farine,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]"
+fondre,beurre,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]"
+mélanger,fondre,"[{""id"": 937512, ""node1"": 37151, ""node2"": 16480, ""type"": 0, ""w"": 32.0}, {""id"": 54439653, ""node1"": 37151, ""node2"": 16480, ""type"": 5, ""w"": 93.0}]"
+extrait,levure,[]
+levure,fond,[]
+fond,eau,"[{""id"": 96691076, ""node1"": 119272, ""node2"": 65012, ""type"": 0, ""w"": 37.0}, {""id"": 98303780, ""node1"": 119272, ""node2"": 65012, ""type"": 9, ""w"": 30.0}]"
+eau,tiède,"[{""id"": 796965917, ""node1"": 65012, ""node2"": 13843, ""type"": 0, ""w"": 29.0}, {""id"": 128780, ""node1"": 65012, ""node2"": 13843, ""type"": 17, ""w"": 73.0}, {""id"": 600063832, ""node1"": 65012, ""node2"": 13843, ""type"": 27, ""w"": 32.0}]"
+extrait,zeste,[]
+placer,pâte,[]
+pâte,emballer,[]
+saladier,couvrir,[]
+travailler,pâte,"[{""id"": 243714, ""node1"": 69550, ""node2"": 34069, ""type"": 14, ""w"": 61.0}]"
+rouleau,faire,[]
+faire,carré,[]
+faire,trou,[]
+trou,milieu,[]
+verre,tremper,"[{""id"": 3180964, ""node1"": 144497, ""node2"": 119858, ""type"": 30, ""w"": 61.0}]"
+verre,farine,[]
+faire,façonner,"[{""id"": 863095, ""node1"": 87528, ""node2"": 3554, ""type"": 0, ""w"": 35.0}, {""id"": 53773335, ""node1"": 87528, ""node2"": 3554, ""type"": 5, ""w"": 931.28}, {""id"": 656900317, ""node1"": 87528, ""node2"": 3554, ""type"": 8, ""w"": -32.0}]"
+poser,papier,[]
+papier,plaque,[]
+plaque,four,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]"
+placer,galette,[]
+extrémité,galette,[]
+galette,place,[]
+refermer,découpe,[]
+casser,oeuf,"[{""id"": 796687958, ""node1"": 63509, ""node2"": 116175, ""type"": 0, ""w"": 28.0}, {""id"": 213740960, ""node1"": 63509, ""node2"": 116175, ""type"": 14, ""w"": 100.0}]"
+pinceau,dorer,[]
+dorer,galette,[]
+four,250,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,[]
+baisser,enfourner,[]
+prendre,bol,[]
+bol,eau,"[{""id"": 561293661, ""node1"": 145405, ""node2"": 65012, ""type"": 0, ""w"": 42.0}]"
+eau,froid,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]"
+casserole,diluer,[]
+diluer,gramme,[]
+gramme,confiture,[]
+gramme,cuillère,[]
+cuillère,eau,"[{""id"": 662508617, ""node1"": 51905, ""node2"": 65012, ""type"": 0, ""w"": 24.0}]"
+casserole,retirer,[]
+mettre,gélatine,[]
+prendre,pinceau,[]
+couvrir,gâteau,"[{""id"": 723788504, ""node1"": 119824, ""node2"": 2149, ""type"": 0, ""w"": 26.0}, {""id"": 723788503, ""node1"": 119824, ""node2"": 2149, ""type"": 14, ""w"": 100.0}]"
+pépite,chocolat,"[{""id"": 365455, ""node1"": 25082, ""node2"": 34157, ""type"": 0, ""w"": 152.0}, {""id"": 376056261, ""node1"": 25082, ""node2"": 34157, ""type"": 50, ""w"": 35.0}, {""id"": 930408960, ""node1"": 25082, ""node2"": 34157, ""type"": 666, ""w"": 2.0}]"

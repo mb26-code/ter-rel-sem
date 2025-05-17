@@ -1,0 +1,20 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+terrine,légume,nmod,NOUN,0.7330811619758606,[],,
+légume,ingrédient,nmod,NOUN,0.6797090172767639,[],,
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,persil,nmod,NOUN,0.6879991888999939,[],,
+sel,gruyère,nmod,NOUN,0.6763667464256287,[],,
+crème,oeuf,nmod,NOUN,0.6166951060295105,"[{""id"": 96714533, ""node1"": 44001, ""node2"": 116175, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+saladier,réfrigérateur,nmod,NOUN,0.5889169573783875,[],,
+réfrigérateur,plat,nmod,ADJ,0.6221921443939209,"[{""id"": 399515136, ""node1"": 128721, ""node2"": 36327, ""type"": 0, ""w"": 100.0}, {""id"": 13501043, ""node1"": 128721, ""node2"": 36327, ""type"": 28, ""w"": 60.0}]",r_associated,100.0
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[],,
+cuire,légume,obj,NOUN,0.8064759373664856,"[{""id"": 796715114, ""node1"": 5115, ""node2"": 120603, ""type"": 0, ""w"": 26.0}, {""id"": 148033, ""node1"": 5115, ""node2"": 120603, ""type"": 13, ""w"": 53.0}, {""id"": 234259, ""node1"": 5115, ""node2"": 120603, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+légume,min,nmod,NOUN,0.470615804195404,[],,
+légume,eau,nmod,NOUN,0.6659417748451233,"[{""id"": 81657, ""node1"": 120603, ""node2"": 65012, ""type"": 9, ""w"": 225.0}, {""id"": 3861840, ""node1"": 120603, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]",r_has_part,225.0
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+crème,persil,nmod,NOUN,0.6723319292068481,[],,
+mélanger,légume,nsubj,NOUN,0.7151956558227539,[],,
+silicone,cuire,acl,VERB,0.7292163968086243,[],,
+cuire,c,obj,NOUN,0.4126093685626983,[],,
+plat,service,nmod,NOUN,0.5934174060821533,"[{""id"": 465259, ""node1"": 36327, ""node2"": 24247, ""type"": 0, ""w"": 81.0}, {""id"": 1726713, ""node1"": 36327, ""node2"": 24247, ""type"": 5, ""w"": 92.0}]",r_syn,92.0
+sauce,mayonnaise,amod,ADJ,0.6725079417228699,"[{""id"": 1918815, ""node1"": 141110, ""node2"": 111055, ""type"": 0, ""w"": 167.0}, {""id"": 1545596, ""node1"": 141110, ""node2"": 111055, ""type"": 8, ""w"": 68.0}, {""id"": 1029365528, ""node1"": 141110, ""node2"": 111055, ""type"": 67, ""w"": 29.0}, {""id"": 651212509, ""node1"": 141110, ""node2"": 111055, ""type"": 666, ""w"": 3.0}]",r_associated,167.0

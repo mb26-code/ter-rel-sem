@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+légume,ingrédient,nmod,NOUN,0.6797090172767639,[],,
+légume,poivre,acl,NOUN,0.7373378872871399,"[{""id"": 341241835, ""node1"": 120603, ""node2"": 139597, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+crème,courgette,nmod,NOUN,0.6472225785255432,[],,
+crème,carotte,amod,NOUN,0.6351861953735352,[],,
+carotte,beurre,acl,NOUN,0.7147682905197144,[],,
+poivre,bouillon,acl:relcl,NOUN,0.7096828818321228,[],,
+bouillon,huile,amod,NOUN,0.6829477548599243,"[{""id"": 558647559, ""node1"": 146582, ""node2"": 141971, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+louche,bol,nmod,NOUN,0.5387833118438721,[],,
+bol,casserole,nmod,NOUN,0.5670263171195984,[],,
+casserole,couteau,nmod,NOUN,0.6493775248527527,[],,
+couteau,économe,appos,NOUN,0.5018488168716431,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]",r_hypo,76.0
+économe,balance,nmod,NOUN,0.4593970775604248,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+mettre,bouillon,obj,NOUN,0.6238762140274048,[],,
+mettre,cube,obj,NOUN,0.5085934996604919,[],,
+litre,eau,nmod,NOUN,0.5440258383750916,"[{""id"": 2458362, ""node1"": 57416, ""node2"": 65012, ""type"": 0, ""w"": 84.0}, {""id"": 15759326, ""node1"": 57416, ""node2"": 65012, ""type"": 28, ""w"": 10.0}, {""id"": 720818422, ""node1"": 57416, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 980526881, ""node1"": 57416, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]",r_associated,84.0
+porter,prélever,advcl,VERB,0.4151131510734558,[],,
+prélever,louche,obj,NOUN,0.5036179423332214,[],,
+louche,bouillon,nmod,NOUN,0.6199405789375305,"[{""id"": 720819546, ""node1"": 124144, ""node2"": 146582, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+porter,bol,obj,NOUN,0.5415940880775452,[],,
+éplucher,légume,obj,NOUN,0.6224160194396973,"[{""id"": 365327, ""node1"": 59879, ""node2"": 120603, ""type"": 0, ""w"": 134.0}, {""id"": 1639137, ""node1"": 59879, ""node2"": 120603, ""type"": 14, ""w"": 100.0}]",r_associated,134.0
+ajouter,champignon,obj,NOUN,0.5464464426040649,[],,
+ajouter,poivrer,amod,ADJ,0.4842216670513153,[],,
+reste,bouillon,nmod,NOUN,0.6053631901741028,[],,
+louche,autre,amod,ADJ,0.4900591373443603,[],,
+Ajoutez,louche,obj,NOUN,0.4228988885879516,[],,
+louche,légume,nmod,NOUN,0.6914332509040833,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,

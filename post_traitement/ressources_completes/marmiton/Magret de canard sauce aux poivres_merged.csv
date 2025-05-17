@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,fond,appos,NOUN,0.5759280323982239,[],,
+fond,veau,nmod,NOUN,0.573129415512085,"[{""id"": 98303715, ""node1"": 119272, ""node2"": 91311, ""type"": 0, ""w"": 27.0}, {""id"": 98303791, ""node1"": 119272, ""node2"": 91311, ""type"": 9, ""w"": 30.0}]",r_has_part,30.0
+fond,poivre,amod,NOUN,0.6344062685966492,"[{""id"": 98303737, ""node1"": 119272, ""node2"": 139597, ""type"": 0, ""w"": 30.0}, {""id"": 98303796, ""node1"": 119272, ""node2"": 139597, ""type"": 9, ""w"": 30.0}]",r_has_part,30.0
+poivre,Canard,nmod,PROPN,0.5392066240310669,[],,
+ingrédient,crème,amod,NOUN,0.6610228419303894,"[{""id"": 24923429, ""node1"": 123418, ""node2"": 44001, ""type"": 0, ""w"": 15.0}, {""id"": 24850724, ""node1"": 123418, ""node2"": 44001, ""type"": 8, ""w"": 36.0}]",r_hypo,36.0
+crème,liquide,amod,ADJ,0.6173139810562134,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]",r_carac,52.0
+couteau,rouleau,nmod,NOUN,0.4964012205600738,[],,
+rouleau,pâtisserie,nmod,NOUN,0.510869026184082,"[{""id"": 34655902, ""node1"": 59019, ""node2"": 25966, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+pâtisserie,cuillère,nmod,NOUN,0.624411404132843,"[{""id"": 922009701, ""node1"": 25966, ""node2"": 51905, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,set,nmod,NOUN,0.4149639010429382,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+côté,chair,amod,ADJ,0.5375959873199463,[],,
+côté,gras,amod,ADJ,0.5297512412071228,[],,
+feu,vif,amod,ADJ,0.5094798803329468,"[{""id"": 418102926, ""node1"": 143703, ""node2"": 80204, ""type"": 0, ""w"": 13.0}, {""id"": 221184, ""node1"": 143703, ""node2"": 80204, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
+feu,minute,nmod,NOUN,0.5576279163360596,[],,
+fois,gras,amod,NOUN,0.5237638354301453,"[{""id"": 539977914, ""node1"": 38021, ""node2"": 56362, ""type"": 17, ""w"": -25.0}]",r_carac,-25.0
+gras,fondre,acl,VERB,0.5689229369163513,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+remuer,enlever,advcl,VERB,0.4930307865142822,[],,
+enlever,gras,obj,NOUN,0.5262616276741028,[],,
+mettre,poivre,obj,NOUN,0.6508959531784058,"[{""id"": 513445455, ""node1"": 132366, ""node2"": 139597, ""type"": 0, ""w"": 26.0}, {""id"": 513445454, ""node1"": 132366, ""node2"": 139597, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+pomme,petit,amod,ADJ,0.6212930083274841,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,gras,appos,NOUN,0.6168035864830017,[],,

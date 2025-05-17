@@ -1,0 +1,42 @@
+node1,node2,relations
+titre,biscuit,[]
+biscuit,chien,[]
+titre,ingrédient,[]
+titre,farine,[]
+titre,lait,[]
+titre,poudre,[]
+poudre,farine,"[{""id"": 2206156, ""node1"": 139470, ""node2"": 127629, ""type"": 0, ""w"": 142.0}, {""id"": 362954, ""node1"": 139470, ""node2"": 127629, ""type"": 8, ""w"": 151.0}, {""id"": 9976810, ""node1"": 139470, ""node2"": 127629, ""type"": 10, ""w"": 4.0}, {""id"": 9065573, ""node1"": 139470, ""node2"": 127629, ""type"": 20, ""w"": 51.0}, {""id"": 1590401, ""node1"": 139470, ""node2"": 127629, ""type"": 35, ""w"": 58.0}, {""id"": 1782941, ""node1"": 139470, ""node2"": 127629, ""type"": 666, ""w"": 11.0}]"
+titre,cube,[]
+cube,bouillon,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]"
+bouillon,eau,"[{""id"": 32063698, ""node1"": 146582, ""node2"": 65012, ""type"": 0, ""w"": 33.0}, {""id"": 418498335, ""node1"": 146582, ""node2"": 65012, ""type"": 3, ""w"": 31.0}, {""id"": 32061929, ""node1"": 146582, ""node2"": 65012, ""type"": 9, ""w"": 53.0}]"
+cube,oeuf,"[{""id"": 376079627, ""node1"": 6041, ""node2"": 116175, ""type"": 23, ""w"": 26.0}]"
+oeuf,grille,[]
+grille,pâtisserie,[]
+pièce,saladier,[]
+saladier,rouleau,[]
+pièce,pâtisserie,[]
+pâtisserie,four,"[{""id"": 942271912, ""node1"": 25966, ""node2"": 9190, ""type"": 0, ""w"": 24.0}, {""id"": 15790548, ""node1"": 25966, ""node2"": 9190, ""type"": 15, ""w"": 58.0}, {""id"": 1789859, ""node1"": 25966, ""node2"": 9190, ""type"": 666, ""w"": 1.0}]"
+four,couteau,[]
+couteau,planche,"[{""id"": 799042318, ""node1"": 32610, ""node2"": 120728, ""type"": 0, ""w"": 23.0}]"
+pièce,découper,"[{""id"": 560945400, ""node1"": 96851, ""node2"": 45686, ""type"": 0, ""w"": 34.0}]"
+découper,étape,[]
+pièce,combiner,[]
+ingrédient,premier,[]
+ensemble,ingrédient,[]
+dissoudre,cube,[]
+bouillon,poulet,"[{""id"": 558647557, ""node1"": 146582, ""node2"": 146261, ""type"": 0, ""w"": 27.0}]"
+poudre,ail,"[{""id"": 799195357, ""node1"": 139470, ""node2"": 26979, ""type"": 0, ""w"": 26.0}]"
+laisser,ajouter,[]
+ajouter,oeuf,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]"
+oeuf,battre,"[{""id"": 15064344, ""node1"": 116175, ""node2"": 119162, ""type"": 26, ""w"": 34.0}]"
+mélange,farine,[]
+verser,tasse,"[{""id"": 370794515, ""node1"": 104506, ""node2"": 146144, ""type"": 0, ""w"": 34.0}, {""id"": 376200752, ""node1"": 104506, ""node2"": 146144, ""type"": 16, ""w"": 32.0}, {""id"": 370794514, ""node1"": 104506, ""node2"": 146144, ""type"": 31, ""w"": 26.0}]"
+verser,mélanger,"[{""id"": 72653249, ""node1"": 104506, ""node2"": 37151, ""type"": 0, ""w"": 35.0}]"
+diviser,pâte,[]
+rouleau,pâte,"[{""id"": 418313606, ""node1"": 59019, ""node2"": 34069, ""type"": 0, ""w"": 12.0}, {""id"": 720819456, ""node1"": 59019, ""node2"": 34069, ""type"": 174, ""w"": 25.0}, {""id"": 1051404234, ""node1"": 59019, ""node2"": 34069, ""type"": 666, ""w"": 2.0}]"
+pièce,forme,"[{""id"": 514253046, ""node1"": 96851, ""node2"": 142000, ""type"": 23, ""w"": 2.0}, {""id"": 3820159, ""node1"": 96851, ""node2"": 142000, ""type"": 777, ""w"": 10.0}]"
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+tôle,biscuit,[]
+biscuit,recouvrir,[]
+papier,parchemin,"[{""id"": 558861549, ""node1"": 103389, ""node2"": 105754, ""type"": 0, ""w"": 36.0}, {""id"": 615311974, ""node1"": 103389, ""node2"": 105754, ""type"": 5, ""w"": 31.0}, {""id"": 3298494, ""node1"": 103389, ""node2"": 105754, ""type"": 777, ""w"": 10.0}]"
+température,pièce,[]

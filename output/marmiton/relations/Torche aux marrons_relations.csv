@@ -1,0 +1,52 @@
+node1,node2,relations
+torche,marron,[]
+marron,ingrédient,[]
+torche,sucre,[]
+sucre,fin,"[{""id"": 277257, ""node1"": 139481, ""node2"": 144718, ""type"": 17, ""w"": 107.0}]"
+sucre,lait,[]
+lait,sucre,[]
+sucre,vanillé,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]"
+sucre,crème,"[{""id"": 915278756, ""node1"": 139481, ""node2"": 44001, ""type"": 0, ""w"": 22.0}]"
+crème,frais,[]
+sucre,liquide,"[{""id"": 558788617, ""node1"": 139481, ""node2"": 140315, ""type"": 0, ""w"": 49.0}]"
+liquide,meringue,[]
+meringue,crème,[]
+économe,four,[]
+four,fouet,"[{""id"": 879245167, ""node1"": 9190, ""node2"": 73888, ""type"": 0, ""w"": 20.0}]"
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+économe,balance,[]
+balance,cuisine,[]
+balance,plat,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]"
+économe,étape,[]
+plonger,faire,[]
+éplucher,plonger,[]
+quantité,petit,"[{""id"": 892024045, ""node1"": 78869, ""node2"": 55222, ""type"": 0, ""w"": 20.0}]"
+enlever,écorce,"[{""id"": 914518899, ""node1"": 82345, ""node2"": 44427, ""type"": 0, ""w"": 20.0}]"
+remettre,éplucher,[]
+disposer,potentiel,[]
+ouvrir,boîte,"[{""id"": 796956032, ""node1"": 54271, ""node2"": 7575, ""type"": 0, ""w"": 34.0}, {""id"": 129189, ""node1"": 54271, ""node2"": 7575, ""type"": 14, ""w"": 100.0}]"
+boîte,conserve,"[{""id"": 2457653, ""node1"": 7575, ""node2"": 144639, ""type"": 0, ""w"": 87.0}, {""id"": 97318713, ""node1"": 7575, ""node2"": 144639, ""type"": 5, ""w"": 29.0}, {""id"": 400272, ""node1"": 7575, ""node2"": 144639, ""type"": 28, ""w"": 79.0}, {""id"": 1710631, ""node1"": 7575, ""node2"": 144639, ""type"": 35, ""w"": 86.0}, {""id"": 1814184, ""node1"": 7575, ""node2"": 144639, ""type"": 42, ""w"": 70.0}, {""id"": 726552696, ""node1"": 7575, ""node2"": 144639, ""type"": 666, ""w"": 2.0}]"
+conserve,marron,[]
+cuire,marron,[]
+marron,éplucher,"[{""id"": 15047013, ""node1"": 132479, ""node2"": 59879, ""type"": 26, ""w"": 31.0}]"
+lait,bouillir,"[{""id"": 14379701, ""node1"": 86296, ""node2"": 42401, ""type"": 0, ""w"": 73.0}, {""id"": 608004717, ""node1"": 86296, ""node2"": 42401, ""type"": 9, ""w"": -5.0}, {""id"": 15074480, ""node1"": 86296, ""node2"": 42401, ""type"": 26, ""w"": 30.0}, {""id"": 380404032, ""node1"": 86296, ""node2"": 42401, ""type"": 30, ""w"": 26.0}]"
+plat,creux,"[{""id"": 85364791, ""node1"": 36327, ""node2"": 53673, ""type"": 7, ""w"": 36.0}, {""id"": 248860, ""node1"": 36327, ""node2"": 53673, ""type"": 17, ""w"": 80.0}]"
+aide,fourchette,[]
+ajouter,sucre,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]"
+crème,moitié,"[{""id"": 1040756685, ""node1"": 44001, ""node2"": 89030, ""type"": 17, ""w"": -5.0}]"
+obtention,pâte,[]
+pâte,mou,[]
+plat,service,"[{""id"": 465259, ""node1"": 36327, ""node2"": 24247, ""type"": 0, ""w"": 81.0}, {""id"": 1726713, ""node1"": 36327, ""node2"": 24247, ""type"": 5, ""w"": 92.0}]"
+disposer,couche,[]
+meringue,petit,[]
+couche,meringue,[]
+passer,crème,[]
+crème,marron,"[{""id"": 899181995, ""node1"": 44001, ""node2"": 132479, ""type"": 0, ""w"": 21.0}]"
+tournant,plat,[]
+laisser,creux,[]
+crème,fouetter,"[{""id"": 2219421, ""node1"": 44001, ""node2"": 45711, ""type"": 0, ""w"": 52.0}, {""id"": 15066415, ""node1"": 44001, ""node2"": 45711, ""type"": 26, ""w"": 30.0}, {""id"": 2311449, ""node1"": 44001, ""node2"": 45711, ""type"": 42, ""w"": 51.0}]"
+moment,servir,[]
+préparer,coupe,[]
+coupe,individuel,[]
+procédé,même,[]
+procédé,meringue,[]

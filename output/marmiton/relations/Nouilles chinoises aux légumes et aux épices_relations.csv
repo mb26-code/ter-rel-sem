@@ -1,0 +1,23 @@
+node1,node2,relations
+poireau,champignon,[]
+épice,sauce,"[{""id"": 10575657, ""node1"": 146056, ""node2"": 141110, ""type"": 0, ""w"": 45.0}, {""id"": 9623450, ""node1"": 146056, ""node2"": 141110, ""type"": 8, ""w"": -13.0}, {""id"": 97415115, ""node1"": 146056, ""node2"": 141110, ""type"": 10, ""w"": 31.0}, {""id"": 376037998, ""node1"": 146056, ""node2"": 141110, ""type"": 51, ""w"": 34.0}]"
+chinois,couteau,[]
+casserole,couvercle,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]"
+légume,tout,[]
+détailler,légume,"[{""id"": 213741190, ""node1"": 47845, ""node2"": 120603, ""type"": 14, ""w"": 31.0}]"
+légume,fin,[]
+casserole,grand,[]
+bouillir,casserole,"[{""id"": 796851865, ""node1"": 42401, ""node2"": 57253, ""type"": 0, ""w"": 29.0}, {""id"": 372836, ""node1"": 42401, ""node2"": 57253, ""type"": 14, ""w"": 60.0}, {""id"": 979642036, ""node1"": 42401, ""node2"": 57253, ""type"": 666, ""w"": 3.0}]"
+casserole,eau,"[{""id"": 96542705, ""node1"": 57253, ""node2"": 65012, ""type"": 0, ""w"": 19.0}, {""id"": 22760525, ""node1"": 57253, ""node2"": 65012, ""type"": 28, ""w"": 34.0}, {""id"": 96542704, ""node1"": 57253, ""node2"": 65012, ""type"": 666, ""w"": 1.0}]"
+eau,saler,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]"
+bouillir,jeter,[]
+éteindre,ébullition,[]
+ébullition,reprendre,[]
+ébullition,couvrir,[]
+jeter,éteindre,[]
+éteindre,feu,"[{""id"": 2069969, ""node1"": 107734, ""node2"": 143703, ""type"": 0, ""w"": 129.0}, {""id"": 1375587, ""node1"": 107734, ""node2"": 143703, ""type"": 14, ""w"": 100.0}, {""id"": 376200967, ""node1"": 107734, ""node2"": 143703, ""type"": 16, ""w"": 26.0}, {""id"": 9121021, ""node1"": 107734, ""node2"": 143703, ""type"": 35, ""w"": 105.0}, {""id"": 1057899598, ""node1"": 107734, ""node2"": 143703, ""type"": 666, ""w"": 2.0}]"
+revenir,légume,[]
+feu,vif,"[{""id"": 418102926, ""node1"": 143703, ""node2"": 80204, ""type"": 0, ""w"": 13.0}, {""id"": 221184, ""node1"": 143703, ""node2"": 80204, ""type"": 17, ""w"": 52.0}]"
+bouillir,ajouter,[]
+ajouter,épice,[]
+rectifier,assaisonnement,"[{""id"": 15080476, ""node1"": 36001, ""node2"": 15763, ""type"": 14, ""w"": 30.0}]"

@@ -1,0 +1,46 @@
+head,lemma,dep,pos,sim,relation
+chou,fleur,nmod,NOUN,0.5524246692657471,"[{""id"": 1604014, ""node1"": 67203, ""node2"": 28985, ""type"": 0, ""w"": 65.0}, {""id"": 1579489, ""node1"": 67203, ""node2"": 28985, ""type"": 9, ""w"": 70.0}]"
+chou,fumer,acl,VERB,0.5834255218505859,[]
+chou,ingrédient,nmod,NOUN,0.6174046993255615,[]
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]"
+sel,beurre,amod,NOUN,0.7119027376174927,"[{""id"": 29328492, ""node1"": 13260, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 9986817, ""node1"": 13260, ""node2"": 140377, ""type"": 10, ""w"": 35.0}]"
+sel,chou-fleur,nmod,NOUN,0.7044985294342041,[]
+chou-fleur,céleri,amod,PROPN,0.6218536496162415,[]
+crème,cube,nmod,NOUN,0.6208846569061279,[]
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]"
+bouillon,eau,appos,NOUN,0.6091527938842773,"[{""id"": 32063698, ""node1"": 146582, ""node2"": 65012, ""type"": 0, ""w"": 33.0}, {""id"": 418498335, ""node1"": 146582, ""node2"": 65012, ""type"": 3, ""w"": 31.0}, {""id"": 32061929, ""node1"": 146582, ""node2"": 65012, ""type"": 9, ""w"": 53.0}]"
+eau,bacon,nmod,NOUN,0.6768313050270081,[]
+eau,lait,nmod,NOUN,0.6201539039611816,"[{""id"": 561286960, ""node1"": 65012, ""node2"": 86296, ""type"": 0, ""w"": 56.0}, {""id"": 385497928, ""node1"": 65012, ""node2"": 86296, ""type"": 8, ""w"": -25.0}, {""id"": 9977474, ""node1"": 65012, ""node2"": 86296, ""type"": 10, ""w"": 4.0}, {""id"": 376055737, ""node1"": 65012, ""node2"": 86296, ""type"": 51, ""w"": 40.0}]"
+lait,épice,nmod,NOUN,0.7057909965515137,[]
+épice,marocain,amod,ADJ,0.6215081810951233,[]
+lait,amande,nmod,NOUN,0.5926035642623901,[]
+amande,poudre,nmod,NOUN,0.5705900192260742,[]
+set,poêle,nmod,NOUN,0.5301709771156311,[]
+set,casserole,obj,NOUN,0.4378535151481628,[]
+casserole,couvercle,obj,NOUN,0.6508210897445679,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]"
+couvercle,mixeur,nmod,NOUN,0.585760772228241,[]
+mixeur,bol,nmod,NOUN,0.5581084489822388,"[{""id"": 539977939, ""node1"": 78314, ""node2"": 145405, ""type"": 58, ""w"": -25.0}]"
+bol,balance,nmod,NOUN,0.5318400859832764,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+crème,étape,nmod,NOUN,0.5531765222549438,[]
+crème,fait,nmod,NOUN,0.6195011734962463,[]
+revenir,échalote,obj,NOUN,0.5848109126091003,[]
+échalote,finement,amod,ADV,0.5389939546585083,[]
+beurre,fondre,acl,VERB,0.643409252166748,"[{""id"": 652231036, ""node1"": 140377, ""node2"": 16480, ""type"": 0, ""w"": 21.0}, {""id"": 24771033, ""node1"": 140377, ""node2"": 16480, ""type"": 24, ""w"": 137.0}, {""id"": 1886772, ""node1"": 140377, ""node2"": 16480, ""type"": 26, ""w"": 33.0}]"
+ajouter,chou,obj,NOUN,0.5754867196083069,[]
+ajouter,bouillon,obj,NOUN,0.597090482711792,[]
+feu,doux,amod,ADJ,0.5496628284454346,[]
+ajouter,céleri,obj,PROPN,0.6184970140457153,[]
+ajouter,couper,advcl,VERB,0.4516488313674927,"[{""id"": 55053058, ""node1"": 25099, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 55011750, ""node1"": 25099, ""node2"": 128828, ""type"": 5, ""w"": 57.0}, {""id"": 85362404, ""node1"": 25099, ""node2"": 128828, ""type"": 7, ""w"": 31.0}]"
+cuire,chou,nsubj:pass,NOUN,0.7346104979515076,[]
+ajouter,lait,obj,NOUN,0.5957752466201782,"[{""id"": 373014760, ""node1"": 25099, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]"
+mixer,obtenir,acl,VERB,0.4837474822998047,[]
+obtenir,crème,obj,NOUN,0.5813416838645935,[]
+crème,homogène,amod,ADJ,0.573154091835022,"[{""id"": 31726402, ""node1"": 44001, ""node2"": 124759, ""type"": 17, ""w"": 26.0}]"
+revenir,servir,advcl,VERB,0.4964856803417206,[]
+bacon,fumer,acl,VERB,0.5710330009460449,[]
+poudre,amande,nmod,NOUN,0.5705900192260742,[]
+servir,crème,obj,NOUN,0.651321530342102,[]
+crème,chou,nmod,NOUN,0.6455972790718079,"[{""id"": 601796009, ""node1"": 44001, ""node2"": 67203, ""type"": 0, ""w"": 30.0}]"
+crème,bol,nmod,NOUN,0.6165731549263,"[{""id"": 31873554, ""node1"": 44001, ""node2"": 145405, ""type"": 15, ""w"": 28.0}]"
+ajouter,bacon,obj,NOUN,0.6055299043655396,[]

@@ -1,0 +1,59 @@
+node1,node2,relations
+titre,gâteau,[]
+gâteau,cerveau,[]
+gâteau,Halloween,[]
+gâteau,ingrédient,[]
+gâteau,levure,"[{""id"": 1887020, ""node1"": 2149, ""node2"": 53450, ""type"": 0, ""w"": 29.0}, {""id"": 267603, ""node1"": 2149, ""node2"": 53450, ""type"": 28, ""w"": 99.0}]"
+levure,chimique,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]"
+levure,huile,[]
+cacao,amer,"[{""id"": 914305448, ""node1"": 68363, ""node2"": 97910, ""type"": 0, ""w"": 21.0}, {""id"": 76024991, ""node1"": 68363, ""node2"": 97910, ""type"": 17, ""w"": 31.0}, {""id"": 1787117, ""node1"": 68363, ""node2"": 97910, ""type"": 666, ""w"": 1.0}]"
+levure,sucre,[]
+sucre,poudre,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]"
+gâteau,nature,[]
+nature,oeuf,[]
+gâteau,pâte,"[{""id"": 390332, ""node1"": 2149, ""node2"": 34069, ""type"": 0, ""w"": 59.0}, {""id"": 10532130, ""node1"": 2149, ""node2"": 34069, ""type"": 9, ""w"": 29.0}, {""id"": 97978610, ""node1"": 2149, ""node2"": 34069, ""type"": 42, ""w"": 34.0}, {""id"": 1821769, ""node1"": 2149, ""node2"": 34069, ""type"": 666, ""w"": 1.0}]"
+gâteau,amande,"[{""id"": 99088803, ""node1"": 2149, ""node2"": 28557, ""type"": 0, ""w"": 26.0}, {""id"": 99071063, ""node1"": 2149, ""node2"": 28557, ""type"": 9, ""w"": 38.0}, {""id"": 4972099, ""node1"": 2149, ""node2"": 28557, ""type"": 28, ""w"": -5.0}, {""id"": 376056674, ""node1"": 2149, ""node2"": 28557, ""type"": 50, ""w"": 29.0}]"
+amande,confiture,[]
+confiture,fruit,"[{""id"": 226011, ""node1"": 70793, ""node2"": 87286, ""type"": 0, ""w"": 266.0}, {""id"": 1525774, ""node1"": 70793, ""node2"": 87286, ""type"": 666, ""w"": 6.0}]"
+fruit,sirop,"[{""id"": 796701800, ""node1"": 87286, ""node2"": 91109, ""type"": 0, ""w"": 26.0}, {""id"": 9985699, ""node1"": 87286, ""node2"": 91109, ""type"": 10, ""w"": 4.0}]"
+fruit,couteau,[]
+couteau,pinceau,"[{""id"": 914434066, ""node1"": 32610, ""node2"": 79400, ""type"": 0, ""w"": 20.0}]"
+pinceau,saladier,[]
+saladier,tamis,[]
+pinceau,balance,[]
+balance,cuisine,[]
+fruit,étape,[]
+amande,vider,[]
+vider,pot,"[{""id"": 2424456, ""node1"": 68460, ""node2"": 142367, ""type"": 0, ""w"": 54.0}, {""id"": 376066582, ""node1"": 68460, ""node2"": 142367, ""type"": 31, ""w"": 26.0}]"
+pot,yaourt,"[{""id"": 238073, ""node1"": 142367, ""node2"": 82320, ""type"": 0, ""w"": 63.0}, {""id"": 308206346, ""node1"": 142367, ""node2"": 82320, ""type"": 28, ""w"": 2.0}, {""id"": 720818525, ""node1"": 142367, ""node2"": 82320, ""type"": 174, ""w"": 25.0}]"
+ajouter,sucre,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]"
+ajouter,oeuf,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]"
+ajouter,farine,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]"
+ajouter,huile,[]
+moule,papier,[]
+hauteur,gâteau,[]
+devoir,pointe,[]
+pointe,couteau,"[{""id"": 8856589, ""node1"": 141611, ""node2"": 32610, ""type"": 0, ""w"": 16.0}, {""id"": 251482, ""node1"": 141611, ""node2"": 32610, ""type"": 10, ""w"": 53.0}]"
+fois,gâteau,[]
+gâteau,refroidir,"[{""id"": 99071073, ""node1"": 2149, ""node2"": 126973, ""type"": 24, ""w"": 40.0}]"
+tailler,donner,[]
+donner,forme,[]
+forme,souhaiter,[]
+chauffer,confiture,[]
+mélanger,reste,[]
+reste,refroidir,[]
+chauffer,aide,[]
+pinceau,alimentaire,[]
+aide,recouvrir,[]
+recouvrir,surface,[]
+surface,gâteau,[]
+gâteau,mélange,[]
+recouvrir,confiture,[]
+couper,pâte,[]
+pâte,amande,"[{""id"": 796691772, ""node1"": 34069, ""node2"": 28557, ""type"": 0, ""w"": 22.0}]"
+party,petit,[]
+amande,party,[]
+réaliser,boudin,[]
+boudin,épaisseur,[]
+tout,préparation,[]
+préparation,confiture,[]

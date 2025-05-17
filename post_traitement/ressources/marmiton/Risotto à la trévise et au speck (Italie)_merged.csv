@@ -1,0 +1,44 @@
+head,lemma,dep,pos,sim,relation
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[]
+ingrédient,vin,appos,NOUN,0.6430637836456299,"[{""id"": 578506260, ""node1"": 123418, ""node2"": 35798, ""type"": 8, ""w"": 26.0}]"
+vin,rouge,amod,ADJ,0.599454402923584,"[{""id"": 61835, ""node1"": 35798, ""node2"": 86356, ""type"": 0, ""w"": 517.0}, {""id"": 556239, ""node1"": 35798, ""node2"": 86356, ""type"": 5, ""w"": 122.0}, {""id"": 9857786, ""node1"": 35798, ""node2"": 86356, ""type"": 8, ""w"": 139.0}, {""id"": 14806149, ""node1"": 35798, ""node2"": 86356, ""type"": 17, ""w"": 71.0}, {""id"": 31149018, ""node1"": 35798, ""node2"": 86356, ""type"": 27, ""w"": 22.0}, {""id"": 3154292, ""node1"": 35798, ""node2"": 86356, ""type"": 106, ""w"": 12.0}, {""id"": 1526706, ""node1"": 35798, ""node2"": 86356, ""type"": 666, ""w"": 8.0}]"
+poivre,sel,appos,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]"
+sel,bouillon,nmod,NOUN,0.7153661251068115,"[{""id"": 914309716, ""node1"": 13260, ""node2"": 146582, ""type"": 0, ""w"": 20.0}]"
+bouillon,légume,nmod,NOUN,0.7116243243217468,"[{""id"": 152250, ""node1"": 146582, ""node2"": 120603, ""type"": 0, ""w"": 55.0}]"
+échalote,parmesan,amod,NOUN,0.6453374624252319,[]
+casserole,pinceau,appos,NOUN,0.5712795853614807,[]
+pinceau,couteau,nmod,NOUN,0.4793228805065155,"[{""id"": 558826967, ""node1"": 79400, ""node2"": 32610, ""type"": 0, ""w"": 34.0}]"
+plaque,meilleur,amod,ADJ,0.5153307318687439,[]
+top,plaque,nmod,NOUN,0.4243907332420349,[]
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]"
+louche,cuillère,nmod,NOUN,0.5505713820457458,"[{""id"": 920708, ""node1"": 124144, ""node2"": 51905, ""type"": 0, ""w"": 73.0}, {""id"": 434932740, ""node1"": 124144, ""node2"": 51905, ""type"": 5, ""w"": 70.0}, {""id"": 9904012, ""node1"": 124144, ""node2"": 51905, ""type"": 6, ""w"": 77.0}, {""id"": 1046575885, ""node1"": 124144, ""node2"": 51905, ""type"": 8, ""w"": 20.0}, {""id"": 376998624, ""node1"": 124144, ""node2"": 51905, ""type"": 21, ""w"": 27.0}]"
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,couvercle,nmod,NOUN,0.6197326183319092,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+cuillère,étape,nmod,NOUN,0.4685819745063782,[]
+ingrédient,fondre,acl,VERB,0.628924548625946,[]
+revenir,échalote,obj,NOUN,0.5848109126091003,[]
+échalote,finement,amod,ADV,0.5389939546585083,[]
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]"
+fondre,lui,nsubj,PRON,0.4386463165283203,[]
+ajouter,riz,obj,NOUN,0.6766205430030823,[]
+ajouter,vin,obj,NOUN,0.6198925375938416,[]
+ajouter,bouillon,obj,NOUN,0.597090482711792,[]
+bouillon,chaud,amod,ADJ,0.6419912576675415,"[{""id"": 152253, ""node1"": 146582, ""node2"": 19150, ""type"": 0, ""w"": 71.0}, {""id"": 8793877, ""node1"": 146582, ""node2"": 19150, ""type"": 17, ""w"": 45.0}]"
+bouillon,louche,amod,ADJ,0.6199405789375305,"[{""id"": 98284062, ""node1"": 146582, ""node2"": 124144, ""type"": 58, ""w"": 21.0}]"
+ajouter,laisser,advcl,VERB,0.4014033377170563,[]
+ajout,bouillon,nmod,NOUN,0.5196587443351746,[]
+cuire,risotto,nsubj:pass,NOUN,0.7687938213348389,[]
+tendre,riz,nsubj,NOUN,0.6736453175544739,[]
+cuire,tendre,advcl,ADJ,0.6985766291618347,[]
+devenir,liquide,nsubj,NOUN,0.5042059421539307,[]
+liquide,cuisson,nmod,NOUN,0.7266628742218018,[]
+devenir,crémeux,obj,ADJ,0.5000762939453125,[]
+arrêter,cuisson,obj,NOUN,0.6741373538970947,"[{""id"": 372620649, ""node1"": 28778, ""node2"": 60056, ""type"": 14, ""w"": 31.0}]"
+arrêter,saler,advcl,VERB,0.5297033190727234,[]
+saler,poivrer,advcl,VERB,0.5285379886627197,"[{""id"": 796710265, ""node1"": 15671, ""node2"": 70211, ""type"": 0, ""w"": 22.0}]"
+ajouter,reste,obj,NOUN,0.454963743686676,[]
+reste,beurre,nmod,NOUN,0.6629992127418518,[]
+reposer,minute,obj,NOUN,0.4512225389480591,[]
+reposer,servir,advcl,VERB,0.4678449928760528,[]
+peu,parmesan,nmod,ADJ,0.5461373329162598,[]

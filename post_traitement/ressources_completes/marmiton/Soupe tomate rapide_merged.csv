@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+soupe,tomate,amod,ADV,0.6996164321899414,"[{""id"": 250968, ""node1"": 117152, ""node2"": 22138, ""type"": 0, ""w"": 94.0}, {""id"": 730365738, ""node1"": 117152, ""node2"": 22138, ""type"": 666, ""w"": 2.0}]",r_associated,94.0
+soupe,rapide,amod,ADJ,0.6199396848678589,[],,
+ingrédient,sucre,appos,NOUN,0.7083083987236023,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]",r_associated,70.0
+sucre,sel,nmod,NOUN,0.6925632357597351,"[{""id"": 83941, ""node1"": 139481, ""node2"": 13260, ""type"": 0, ""w"": 401.0}, {""id"": 1046576271, ""node1"": 139481, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 1895756, ""node1"": 139481, ""node2"": 13260, ""type"": 20, ""w"": 51.0}, {""id"": 1376354, ""node1"": 139481, ""node2"": 13260, ""type"": 21, ""w"": 60.0}]",r_associated,401.0
+sucre,tomate,nmod,NOUN,0.734734058380127,"[{""id"": 920115188, ""node1"": 139481, ""node2"": 22138, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+sucre,louche,nmod,NOUN,0.6945332884788513,[],,
+louche,mixeur,nmod,NOUN,0.5896725058555603,[],,
+mixeur,plonger,acl,VERB,0.5584041476249695,[],,
+mixeur,chauffer,acl,VERB,0.6226776838302612,[],,
+chauffer,cocotte,obj,NOUN,0.6815155148506165,[],,
+sucre,marmite,nmod,NOUN,0.7697291970252991,[],,
+marmite,couvercle,nmod,NOUN,0.6582636833190918,"[{""id"": 10530071, ""node1"": 146096, ""node2"": 89523, ""type"": 9, ""w"": 9.0}, {""id"": 1001369524, ""node1"": 146096, ""node2"": 89523, ""type"": 666, ""w"": 3.0}]",r_has_part,9.0
+couvercle,cuillère,nmod,NOUN,0.6197326183319092,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,couteau,nmod,NOUN,0.5726497173309326,"[{""id"": 139564, ""node1"": 51905, ""node2"": 32610, ""type"": 0, ""w"": 212.0}, {""id"": 87319445, ""node1"": 51905, ""node2"": 32610, ""type"": 666, ""w"": 1.0}]",r_associated,212.0
+cuillère,mixeur,nmod,NOUN,0.5916650295257568,[],,
+couvercle,étape,nmod,NOUN,0.4822983145713806,[],,
+minute,cocotte,amod,NOUN,0.5547523498535156,"[{""id"": 418389, ""node1"": 31491, ""node2"": 120952, ""type"": 0, ""w"": 60.0}, {""id"": 539971619, ""node1"": 31491, ""node2"": 120952, ""type"": 21, ""w"": -25.0}]",r_associated,60.0
+marmite,minute,nmod,NOUN,0.6095858216285706,[],,
+ingrédient,verser,acl,VERB,0.5961355566978455,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+ingrédient,couper,acl,VERB,0.5982704758644104,[],,
+légume,tout,amod,ADJ,0.6585912108421326,[],,
+couper,légume,obj,NOUN,0.6484079957008362,"[{""id"": 435065646, ""node1"": 128828, ""node2"": 120603, ""type"": 0, ""w"": 26.0}, {""id"": 15079599, ""node1"": 128828, ""node2"": 120603, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+huile,chaud,amod,ADJ,0.6474975347518921,"[{""id"": 669874570, ""node1"": 141971, ""node2"": 19150, ""type"": 0, ""w"": 21.0}, {""id"": 24929996, ""node1"": 141971, ""node2"": 19150, ""type"": 17, ""w"": 76.0}]",r_carac,76.0
+remuer,minute,obj,NOUN,0.5255264639854431,[],,
+fermer,cocotte,obj,NOUN,0.5414252877235413,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+ouvrir,cocotte,obj,NOUN,0.5602885484695435,[],,
+ouvrir,mixer,advcl,VERB,0.4837614893913269,[],,
+mixer,tout,obj,NOUN,0.5551751852035522,[],,
+bras,mixeur,acl,NOUN,0.4468737542629242,"[{""id"": 82748081, ""node1"": 26363, ""node2"": 78314, ""type"": 0, ""w"": -23.0}, {""id"": 82521632, ""node1"": 26363, ""node2"": 78314, ""type"": 10, ""w"": 27.0}]",r_holo,27.0
+vérifier,assaisonnement,obj,NOUN,0.4943651258945465,[],,
+bouillir,minute,obj,NOUN,0.5767919421195984,[],,

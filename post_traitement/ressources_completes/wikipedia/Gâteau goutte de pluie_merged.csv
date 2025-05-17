@@ -1,0 +1,49 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,gâteau,nmod,NOUN,0.546883761882782,[],,
+gâteau,goutte,amod,NOUN,0.6348092555999756,[],,
+gâteau,pluie,nmod,NOUN,0.5661693811416626,[],,
+gâteau,article,nmod,NOUN,0.5430371165275574,[],,
+gâteau,voir,acl,VERB,0.5303747653961182,[],,
+voir,goutte,obj,NOUN,0.4502658545970917,[],,
+goutte,eau,nmod,NOUN,0.546616792678833,"[{""id"": 141623, ""node1"": 93944, ""node2"": 65012, ""type"": 0, ""w"": 292.0}, {""id"": 31128947, ""node1"": 93944, ""node2"": 65012, ""type"": 3, ""w"": 37.0}, {""id"": 377011769, ""node1"": 93944, ""node2"": 65012, ""type"": 20, ""w"": 28.0}, {""id"": 1556010, ""node1"": 93944, ""node2"": 65012, ""type"": 666, ""w"": 4.0}]",r_associated,292.0
+dessert,gâteau,nsubj,NOUN,0.6211395263671875,"[{""id"": 126688, ""node1"": 38557, ""node2"": 2149, ""type"": 0, ""w"": 486.0}, {""id"": 100327, ""node1"": 38557, ""node2"": 2149, ""type"": 8, ""w"": 85.0}, {""id"": 14657800, ""node1"": 38557, ""node2"": 2149, ""type"": 41, ""w"": 35.0}, {""id"": 14675566, ""node1"": 38557, ""node2"": 2149, ""type"": 42, ""w"": 28.0}, {""id"": 1764662, ""node1"": 38557, ""node2"": 2149, ""type"": 666, ""w"": 6.0}]",r_associated,486.0
+dessert,faire,acl,VERB,0.6187311410903931,[],,
+goutte,pluie,nmod,NOUN,0.4374152421951294,"[{""id"": 1530496, ""node1"": 93944, ""node2"": 91046, ""type"": 0, ""w"": 164.0}, {""id"": 553437, ""node1"": 93944, ""node2"": 91046, ""type"": 5, ""w"": 109.0}, {""id"": 9993064, ""node1"": 93944, ""node2"": 91046, ""type"": 10, ""w"": 4.0}, {""id"": 1556011, ""node1"": 93944, ""node2"": 91046, ""type"": 666, ""w"": 3.0}]",r_associated,164.0
+origine,dessert,nmod,NOUN,0.5641068816184998,[],,
+dessert,japonais,amod,ADJ,0.5334939956665039,[],,
+dessert,connaître,acl,VERB,0.5788459777832031,[],,
+dire,eau,obj,NOUN,0.6021344065666199,[],,
+type,gâteau,nmod,NOUN,0.5852004289627075,[],,
+gâteau,riz,nmod,ADV,0.6984783411026001,"[{""id"": 99071052, ""node1"": 2149, ""node2"": 24372, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+type,créer,acl,VERB,0.4099042415618896,[],,
+créateur,goutte,nmod,NOUN,0.4583398103713989,[],,
+explorer,idée,obj,NOUN,0.4034739434719085,[],,
+idée,rendre,acl,VERB,0.4239955544471741,"[{""id"": 1054536224, ""node1"": 27373, ""node2"": 65447, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+rendre,eau,obj,NOUN,0.5567705631256104,"[{""id"": 31838005, ""node1"": 65447, ""node2"": 65012, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+eau,solide,amod,ADJ,0.5651009678840637,"[{""id"": 561201567, ""node1"": 65012, ""node2"": 95404, ""type"": 0, ""w"": 39.0}, {""id"": 3253606, ""node1"": 65012, ""node2"": 95404, ""type"": 777, ""w"": 7.0}]",r_associated,39.0
+connaître,goutte,nsubj,NOUN,0.5156964659690857,[],,
+découvrir,dessert,obj,NOUN,0.5570635795593262,[],,
+dessert,nouveau,amod,ADJ,0.5819941163063049,[],,
+présenter,dessert,obj,NOUN,0.5479868054389954,[],,
+dessert,États-Unis,nmod,PROPN,0.4883828461170196,[],,
+foire,alimentaire,amod,ADJ,0.4297437369823456,[],,
+travailler,restaurant,nsubj,NOUN,0.4903021156787872,"[{""id"": 392056368, ""node1"": 69550, ""node2"": 79954, ""type"": 0, ""w"": 39.0}, {""id"": 383876, ""node1"": 69550, ""node2"": 79954, ""type"": 31, ""w"": 74.0}]",r_action_lieu,74.0
+version,nouveau,amod,ADJ,0.439534455537796,[],,
+élaboration,version,nmod,NOUN,0.4144920706748962,[],,
+version,dessert,nmod,NOUN,0.5646262168884277,[],,
+faire,dessert,nsubj:pass,NOUN,0.6187311410903931,[],,
+base,eau,nmod,NOUN,0.6018747091293335,"[{""id"": 3838803, ""node1"": 72257, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+eau,minéral,amod,ADJ,0.5557092428207397,"[{""id"": 796683143, ""node1"": 65012, ""node2"": 86490, ""type"": 0, ""w"": 24.0}, {""id"": 72244414, ""node1"": 65012, ""node2"": 86490, ""type"": 777, ""w"": 8.0}]",r_associated,24.0
+eau,utiliser,acl,VERB,0.5587178468704224,"[{""id"": 906223377, ""node1"": 65012, ""node2"": 62611, ""type"": 0, ""w"": 21.0}, {""id"": 376183463, ""node1"": 65012, ""node2"": 62611, ""type"": 25, ""w"": 35.0}, {""id"": 479929320, ""node1"": 65012, ""node2"": 62611, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+substitut,végétal,amod,ADJ,0.517711877822876,[],,
+substitut,gélatine,nmod,NOUN,0.5557970404624939,[],,
+gélatine,habituel,amod,ADJ,0.5780807733535767,[],,
+substitut,fabriquer,acl,VERB,0.4722561240196228,[],,
+farine,soja,acl,NOUN,0.644258975982666,"[{""id"": 423997344, ""node1"": 127629, ""node2"": 78291, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+ressembler,dessert,nsubj,NOUN,0.5731261372566223,[],,
+eau,transparent,amod,ADJ,0.5414298176765442,"[{""id"": 796680593, ""node1"": 65012, ""node2"": 41224, ""type"": 0, ""w"": 27.0}, {""id"": 124207, ""node1"": 65012, ""node2"": 41224, ""type"": 17, ""w"": 80.0}, {""id"": 11345852, ""node1"": 65012, ""node2"": 41224, ""type"": 28, ""w"": 38.0}, {""id"": 3166024, ""node1"": 65012, ""node2"": 41224, ""type"": 106, ""w"": 12.0}, {""id"": 1627688, ""node1"": 65012, ""node2"": 41224, ""type"": 666, ""w"": 6.0}]",r_carac,80.0
+mettre,fond,obj,NOUN,0.5088111758232117,[],,
+fond,bouche,nmod,NOUN,0.5362508893013,[],,
+mettre,nécessaire,amod,ADJ,0.4599728882312774,[],,
+trouver,préparation,obj,NOUN,0.5191417336463928,[],,
+trouver,faire,advcl,VERB,0.4552056789398193,[],,

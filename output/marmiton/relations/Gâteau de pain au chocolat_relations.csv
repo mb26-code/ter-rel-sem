@@ -1,0 +1,40 @@
+node1,node2,relations
+titre,gâteau,[]
+gâteau,pain,"[{""id"": 1046575970, ""node1"": 2149, ""node2"": 61283, ""type"": 8, ""w"": 20.0}]"
+pain,chocolat,"[{""id"": 1570477, ""node1"": 61283, ""node2"": 34157, ""type"": 0, ""w"": 60.0}]"
+gâteau,ingrédient,[]
+gâteau,extraire,[]
+extraire,liquide,[]
+levure,beurre,[]
+extraire,sucre,[]
+sucre,chocolat,"[{""id"": 104775, ""node1"": 139481, ""node2"": 34157, ""type"": 0, ""w"": 209.0}, {""id"": 106441, ""node1"": 139481, ""node2"": 34157, ""type"": 6, ""w"": -99.0}, {""id"": 9984686, ""node1"": 139481, ""node2"": 34157, ""type"": 10, ""w"": 4.0}, {""id"": 153629, ""node1"": 139481, ""node2"": 34157, ""type"": 15, ""w"": 78.0}, {""id"": 376048866, ""node1"": 139481, ""node2"": 34157, ""type"": 51, ""w"": 28.0}, {""id"": 646152036, ""node1"": 139481, ""node2"": 34157, ""type"": 666, ""w"": 6.0}]"
+sucre,oeuf,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]"
+oeuf,pain,"[{""id"": 96638699, ""node1"": 116175, ""node2"": 61283, ""type"": 0, ""w"": 42.0}]"
+titre,couteau,[]
+couteau,four,[]
+four,moule,"[{""id"": 914324367, ""node1"": 9190, ""node2"": 143723, ""type"": 0, ""w"": 20.0}, {""id"": 149292258, ""node1"": 9190, ""node2"": 143723, ""type"": 28, ""w"": 71.0}]"
+balance,cake,[]
+balance,cuisine,[]
+balance,étape,[]
+four,180,[]
+titre,thermostat,[]
+travailler,beurre,[]
+ajouter,oeuf,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]"
+blanchir,mélange,[]
+mélange,mousse,[]
+ajouter,farine,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]"
+extrait,levure,[]
+ajouter,extrait,[]
+extrait,vanille,[]
+obtention,pâte,[]
+pâte,homogène,"[{""id"": 796702467, ""node1"": 34069, ""node2"": 124759, ""type"": 0, ""w"": 28.0}, {""id"": 372565004, ""node1"": 34069, ""node2"": 124759, ""type"": 17, ""w"": 26.0}]"
+ajouter,chocolat,[]
+moule,cake,"[{""id"": 272916, ""node1"": 143723, ""node2"": 28945, ""type"": 0, ""w"": 60.0}, {""id"": 583219247, ""node1"": 143723, ""node2"": 28945, ""type"": 28, ""w"": 27.0}]"
+disposer,pain,[]
+pain,debout,[]
+préparation,gâteau,"[{""id"": 799223186, ""node1"": 33634, ""node2"": 2149, ""type"": 0, ""w"": 29.0}, {""id"": 246502004, ""node1"": 33634, ""node2"": 2149, ""type"": 8, ""w"": 35.0}]"
+enfourner,minute,[]
+devoir,pointe,[]
+pointe,couteau,"[{""id"": 8856589, ""node1"": 141611, ""node2"": 32610, ""type"": 0, ""w"": 16.0}, {""id"": 251482, ""node1"": 141611, ""node2"": 32610, ""type"": 10, ""w"": 53.0}]"
+ressortir,propre,[]
+plante,gâteau,[]

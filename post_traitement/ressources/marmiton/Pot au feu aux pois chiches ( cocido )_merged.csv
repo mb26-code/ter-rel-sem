@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relation
+titre,pot,nmod,NOUN,0.4878831207752228,[]
+pot,feu,nmod,NOUN,0.5809311270713806,"[{""id"": 415003512, ""node1"": 142367, ""node2"": 143703, ""type"": 0, ""w"": 26.0}]"
+titre,pois,nmod,NOUN,0.5032194256782532,[]
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[]
+ingrédient,pois,nmod,NOUN,0.5750998258590698,[]
+ingrédient,pomme,nmod,NOUN,0.6517195105552673,[]
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+pomme,boeuf,nmod,NOUN,0.6338664889335632,[]
+boeuf,lard,nmod,NOUN,0.5965599417686462,[]
+travers,porc,nmod,NOUN,0.5924713611602783,"[{""id"": 796712023, ""node1"": 3113, ""node2"": 71135, ""type"": 0, ""w"": 23.0}]"
+ingrédient,casserole,nmod,NOUN,0.7348343133926392,[]
+casserole,couvercle,obj,NOUN,0.6508210897445679,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]"
+couvercle,étape,nmod,NOUN,0.4822983145713806,[]
+cuisson,différent,amod,ADJ,0.7268055081367493,[]
+heure,cocotte,nmod,NOUN,0.5574561357498169,[]
+cocotte,normal,amod,ADJ,0.5931488275527954,[]
+tremper,pois,obj,NOUN,0.5701028108596802,[]
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]"
+tremper,heure,obj,NOUN,0.4903646111488342,[]
+casserole,porter,acl,VERB,0.5768375992774963,[]
+eau,ébullition,nmod,NOUN,0.5533320903778076,"[{""id"": 1030680817, ""node1"": 65012, ""node2"": 83252, ""type"": 0, ""w"": 22.0}, {""id"": 3253715, ""node1"": 65012, ""node2"": 83252, ""type"": 777, ""w"": 7.0}]"
+mettre,chorizo,obj,ADV,0.6135597825050354,[]
+mettre,pois,obj,NOUN,0.5397490859031677,[]
+pomme,carotte,appos,NOUN,0.5858273506164551,[]
+carotte,couper,acl,VERB,0.5670887231826782,"[{""id"": 93434679, ""node1"": 76234, ""node2"": 128828, ""type"": 26, ""w"": 34.0}]"
+carotte,oignon,nmod,NOUN,0.6226851344108582,[]
+lard,couper,acl,VERB,0.583524227142334,[]
+ajouter,sel,obj,NOUN,0.6747812032699585,"[{""id"": 914306223, ""node1"": 25099, ""node2"": 13260, ""type"": 0, ""w"": 20.0}, {""id"": 220261, ""node1"": 25099, ""node2"": 13260, ""type"": 14, ""w"": 70.0}]"
+attention,sel,nmod,NOUN,0.6677394509315491,[]
+saler,lard,nsubj,NOUN,0.6296637654304504,[]
+saler,travers,nsubj,NOUN,0.6001206636428833,[]
+cuire,heure,obj,NOUN,0.6720207929611206,[]
+manger,légume,nsubj:pass,NOUN,0.7006264328956604,"[{""id"": 80809, ""node1"": 130164, ""node2"": 120603, ""type"": 0, ""w"": 57.0}, {""id"": 615222600, ""node1"": 130164, ""node2"": 120603, ""type"": 13, ""w"": 11.0}, {""id"": 112302, ""node1"": 130164, ""node2"": 120603, ""type"": 14, ""w"": 100.0}]"
+possible,manger,advcl,VERB,0.5641049146652222,[]
+récupérer,bouillon,obj,NOUN,0.6143738031387329,[]
+possible,gras,advcl,ADJ,0.5139521360397339,[]

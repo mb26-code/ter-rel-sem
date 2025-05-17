@@ -1,0 +1,64 @@
+head,lemma,dep,pos,sim,relations
+dessert,typique,amod,ADJ,0.5765982866287231,[]
+dessert,province,nmod,NOUN,0.493053138256073,[]
+dessert,gâteau,obj,NOUN,0.6211395263671875,"[{""id"": 126688, ""node1"": 38557, ""node2"": 2149, ""type"": 0, ""w"": 486.0}, {""id"": 100327, ""node1"": 38557, ""node2"": 2149, ""type"": 8, ""w"": 85.0}, {""id"": 14657800, ""node1"": 38557, ""node2"": 2149, ""type"": 41, ""w"": 35.0}, {""id"": 14675566, ""node1"": 38557, ""node2"": 2149, ""type"": 42, ""w"": 28.0}, {""id"": 1764662, ""node1"": 38557, ""node2"": 2149, ""type"": 666, ""w"": 6.0}]"
+gâteau,pâte,nmod,NOUN,0.6782779693603516,"[{""id"": 390332, ""node1"": 2149, ""node2"": 34069, ""type"": 0, ""w"": 59.0}, {""id"": 10532130, ""node1"": 2149, ""node2"": 34069, ""type"": 9, ""w"": 29.0}, {""id"": 97978610, ""node1"": 2149, ""node2"": 34069, ""type"": 42, ""w"": 34.0}, {""id"": 1821769, ""node1"": 2149, ""node2"": 34069, ""type"": 666, ""w"": 1.0}]"
+gâteau,briser,acl,VERB,0.5966885685920715,[]
+mélange,riz,nmod,NOUN,0.6796241402626038,[]
+mélange,appeler,acl,VERB,0.4791692793369293,[]
+tarte,vert,amod,ADJ,0.6332077980041504,[]
+tarte,salé,amod,ADJ,0.6849774122238159,"[{""id"": 588369297, ""node1"": 575, ""node2"": 47377, ""type"": 0, ""w"": 51.0}, {""id"": 76378011, ""node1"": 575, ""node2"": 47377, ""type"": 17, ""w"": 35.0}]"
+tarte,appeler,acl,VERB,0.5810732245445251,[]
+réaliser,gâteau,nsubj:pass,NOUN,0.6011326909065247,[]
+réaliser,recouvrir,advcl,VERB,0.4608709216117859,[]
+recouvrir,surface,obj,NOUN,0.4793091714382171,[]
+surface,moule,nmod,NOUN,0.5335202813148499,[]
+moule,circulaire,amod,ADJ,0.4948210716247558,[]
+moule,couche,nmod,NOUN,0.5400899648666382,[]
+couche,pâte,nmod,NOUN,0.6256560683250427,"[{""id"": 720819467, ""node1"": 19152, ""node2"": 34069, ""type"": 174, ""w"": 25.0}]"
+couche,briser,acl,VERB,0.4835227131843567,[]
+garni,tout,nsubj,NOUN,0.5168479084968567,[]
+base,riz,nmod,NOUN,0.6841659545898438,[]
+base,chocolat,nmod,NOUN,0.6185567378997803,[]
+pignon,fruit,nmod,NOUN,0.4740880131721496,"[{""id"": 6632394, ""node1"": 145454, ""node2"": 87286, ""type"": 777, ""w"": 10.0}]"
+noix,muscade,nmod,NOUN,0.5651988983154297,"[{""id"": 796773628, ""node1"": 30910, ""node2"": 115297, ""type"": 0, ""w"": 29.0}]"
+liqueur,rhum,appos,NOUN,0.5229470133781433,"[{""id"": 560987823, ""node1"": 66643, ""node2"": 129154, ""type"": 0, ""w"": 51.0}]"
+replier,pâte,nsubj:pass,NOUN,0.5913524031639099,"[{""id"": 31834916, ""node1"": 42514, ""node2"": 34069, ""type"": 14, ""w"": 56.0}]"
+déborder,qui,nsubj,PRON,0.4028106927871704,[]
+pâte,déborder,acl:relcl,VERB,0.6336163282394409,[]
+bord,pâte,nmod,NOUN,0.6425550580024719,[]
+rabat,forme,nmod,NOUN,0.4116957783699035,[]
+forme,typique,amod,ADJ,0.4925758838653564,"[{""id"": 99444194, ""node1"": 142000, ""node2"": 133589, ""type"": 17, ""w"": 28.0}]"
+forme,bec,nmod,NOUN,0.4434088468551636,[]
+bec,appeler,acl,VERB,0.4088375270366668,[]
+gâteau,dont,nmod,PRON,0.565431535243988,[]
+tire,gâteau,nsubj,NOUN,0.527321994304657,[]
+pli,pâte,nmod,NOUN,0.5025445818901062,[]
+bord,extérieur,amod,ADJ,0.4046806395053863,"[{""id"": 1280867, ""node1"": 63985, ""node2"": 106608, ""type"": 0, ""w"": 31.0}, {""id"": 33197385, ""node1"": 63985, ""node2"": 106608, ""type"": 17, ""w"": 102.0}]"
+bord,gâteau,nmod,NOUN,0.5502292513847351,[]
+utiliser,terme,nsubj:pass,NOUN,0.417352944612503,"[{""id"": 476541381, ""node1"": 62611, ""node2"": 144149, ""type"": 14, ""w"": 30.0}]"
+tirer,quoi,obj,PRON,0.4090917408466339,[]
+quoi,être,acl:relcl,VERB,0.4087252616882324,[]
+signification,autre,amod,ADJ,0.4131291508674621,[]
+signification,faire,acl,VERB,0.4904967844486236,[]
+faire,allusion,obj,NOUN,0.4810535609722137,[]
+servir,qui,nsubj,PRON,0.4501188993453979,[]
+faire,servir,acl:relcl,VERB,0.5072461366653442,"[{""id"": 54319751, ""node1"": 87528, ""node2"": 7888, ""type"": 0, ""w"": 24.0}, {""id"": 53718753, ""node1"": 87528, ""node2"": 7888, ""type"": 5, ""w"": 19.0}]"
+élément,présence,nsubj,NOUN,0.4510546922683716,[]
+présence,bec,nmod,NOUN,0.4221425950527191,[]
+élément,commun,amod,ADJ,0.4545946419239044,"[{""id"": 396186518, ""node1"": 42490, ""node2"": 55834, ""type"": 17, ""w"": 31.0}]"
+galette,région,nmod,NOUN,0.5466868877410889,[]
+galette,différent,acl:relcl,ADJ,0.577260434627533,[]
+fête,ascension,nmod,NOUN,0.4049433171749115,[]
+dessert,alentours,nmod,NOUN,0.4839065372943878,[]
+dessert,fête,obj,NOUN,0.5276604294776917,[]
+fête,remonter,acl:relcl,VERB,0.4517943263053894,[]
+intégrité,recette,nmod,NOUN,0.5589454770088196,[]
+chambre,commerce,nmod,NOUN,0.4543765783309936,[]
+marque,déposer,acl,VERB,0.4290319681167602,"[{""id"": 15048807, ""node1"": 143180, ""node2"": 35714, ""type"": 26, ""w"": 30.0}]"
+spécification,propre,amod,ADJ,0.410376489162445,[]
+salon,goût,nmod,NOUN,0.5599998831748962,[]
+recevoir,excellent,obj,ADJ,0.4059886336326599,[]
+excellent,part,nmod,NOUN,0.4418019950389862,[]
+réaliser,documentaire,obj,NOUN,0.430799275636673,"[{""id"": 880489954, ""node1"": 4528, ""node2"": 16152, ""type"": 14, ""w"": 30.0}]"
+documentaire,histoire,nmod,NOUN,0.4093632102012634,"[{""id"": 750423904, ""node1"": 16152, ""node2"": 146367, ""type"": 666, ""w"": 3.0}]"

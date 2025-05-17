@@ -1,0 +1,45 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,feuille,nmod,NOUN,0.4326170086860657,"[{""id"": 1022997, ""node1"": 7970, ""node2"": 37993, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+feuille,vigne,nmod,NOUN,0.4471348524093628,"[{""id"": 9902057, ""node1"": 37993, ""node2"": 83635, ""type"": 0, ""w"": 14.0}, {""id"": 373296, ""node1"": 37993, ""node2"": 83635, ""type"": 8, ""w"": 101.0}, {""id"": 10001630, ""node1"": 37993, ""node2"": 83635, ""type"": 10, ""w"": 4.0}, {""id"": 11358695, ""node1"": 37993, ""node2"": 83635, ""type"": 15, ""w"": 38.0}]",r_hypo,101.0
+feuille,ingrédient,nmod,NOUN,0.6031374335289001,[],,
+feuille,piment,nmod,NOUN,0.6423009037971497,"[{""id"": 403056341, ""node1"": 37993, ""node2"": 128791, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+feuille,oignon,nmod,NOUN,0.6162885427474976,"[{""id"": 403056437, ""node1"": 37993, ""node2"": 123307, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+oignon,feuille,acl,NOUN,0.6162885427474976,[],,
+oignon,boeuf,nmod,NOUN,0.6415389776229858,[],,
+feuille,concentrer,acl,VERB,0.4647108316421509,[],,
+concentrer,tomate,obj,NOUN,0.6202633380889893,[],,
+feuille,tomate,amod,NOUN,0.6085702776908875,[],,
+feuille,rond,amod,ADJ,0.5000497102737427,[],,
+feuille,citron,nmod,NOUN,0.6288616061210632,[],,
+feuille,saladier,nmod,NOUN,0.5951168537139893,[],,
+feuille,couvercle,nmod,NOUN,0.5691774487495422,[],,
+couvercle,plat,nmod,ADJ,0.6402535438537598,"[{""id"": 961890557, ""node1"": 89523, ""node2"": 36327, ""type"": 10, ""w"": 24.0}, {""id"": 372856875, ""node1"": 89523, ""node2"": 36327, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+feuille,étape,nmod,NOUN,0.4149852991104126,[],,
+linge,propre,amod,ADJ,0.4980876743793487,"[{""id"": 400912, ""node1"": 92471, ""node2"": 118316, ""type"": 0, ""w"": 54.0}, {""id"": 156265, ""node1"": 92471, ""node2"": 118316, ""type"": 17, ""w"": 190.0}]",r_carac,190.0
+disposer,sécher,advcl,VERB,0.5055238008499146,[],,
+dizaine,côté,nmod,NOUN,0.4164676070213318,[],,
+mélanger,viande,obj,NOUN,0.756519615650177,[],,
+viande,oignon,nmod,NOUN,0.7457414865493774,[],,
+tomate,couper,acl,VERB,0.6290057301521301,"[{""id"": 920912564, ""node1"": 22138, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 628044041, ""node1"": 22138, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+herbe,haché,amod,ADJ,0.5466343760490417,[],,
+herbe,concentré,appos,NOUN,0.4770844876766205,[],,
+concentré,tomate,nmod,NOUN,0.6039107441902161,[],,
+concentré,piment,appos,NOUN,0.619540810585022,[],,
+boudin,petit,amod,ADJ,0.5885978937149048,[],,
+placer,boudin,obj,NOUN,0.5845405459403992,[],,
+boudin,farce,nmod,NOUN,0.599909245967865,[],,
+boudin,centre,nmod,NOUN,0.5394047498703003,[],,
+centre,feuille,nmod,NOUN,0.4625463783740997,[],,
+dessus,tige,nmod,NOUN,0.4388603568077087,[],,
+serrer,feuille,nsubj:pass,NOUN,0.4410406351089477,[],,
+disposer,feuille,obj,NOUN,0.4872424602508545,[],,
+feuille,récipient,nmod,NOUN,0.5949923992156982,[],,
+récipient,fond,nmod,NOUN,0.547243058681488,"[{""id"": 77540270, ""node1"": 89628, ""node2"": 119272, ""type"": 0, ""w"": 23.0}, {""id"": 77536625, ""node1"": 89628, ""node2"": 119272, ""type"": 9, ""w"": 39.0}]",r_has_part,39.0
+récipient,épais,amod,ADJ,0.5199493765830994,[],,
+récipient,type,appos,NOUN,0.5205115079879761,[],,
+type,cocotte,amod,NOUN,0.608902096748352,[],,
+recouvrir,feuille,obj,NOUN,0.5133447647094727,[],,
+chauffer,heure,obj,NOUN,0.504925549030304,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+chauffer,couvrir,advcl,VERB,0.5364360809326172,[],,

@@ -1,0 +1,37 @@
+node1,node2,relations
+titre,pot,[]
+pot,feu,"[{""id"": 415003512, ""node1"": 142367, ""node2"": 143703, ""type"": 0, ""w"": 26.0}]"
+titre,pois,[]
+titre,ingrédient,[]
+ingrédient,pois,[]
+ingrédient,pomme,[]
+pomme,terre,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+pomme,boeuf,[]
+boeuf,lard,[]
+travers,porc,"[{""id"": 796712023, ""node1"": 3113, ""node2"": 71135, ""type"": 0, ""w"": 23.0}]"
+ingrédient,casserole,[]
+casserole,couvercle,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]"
+couvercle,étape,[]
+cuisson,différent,[]
+heure,cocotte,[]
+cocotte,normal,[]
+tremper,pois,[]
+eau,froid,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]"
+tremper,heure,[]
+casserole,porter,[]
+eau,ébullition,"[{""id"": 1030680817, ""node1"": 65012, ""node2"": 83252, ""type"": 0, ""w"": 22.0}, {""id"": 3253715, ""node1"": 65012, ""node2"": 83252, ""type"": 777, ""w"": 7.0}]"
+mettre,chorizo,[]
+mettre,pois,[]
+pomme,carotte,[]
+carotte,couper,"[{""id"": 93434679, ""node1"": 76234, ""node2"": 128828, ""type"": 26, ""w"": 34.0}]"
+carotte,oignon,[]
+lard,couper,[]
+ajouter,sel,"[{""id"": 914306223, ""node1"": 25099, ""node2"": 13260, ""type"": 0, ""w"": 20.0}, {""id"": 220261, ""node1"": 25099, ""node2"": 13260, ""type"": 14, ""w"": 70.0}]"
+attention,sel,[]
+saler,lard,[]
+saler,travers,[]
+cuire,heure,[]
+manger,légume,"[{""id"": 80809, ""node1"": 130164, ""node2"": 120603, ""type"": 0, ""w"": 57.0}, {""id"": 615222600, ""node1"": 130164, ""node2"": 120603, ""type"": 13, ""w"": 11.0}, {""id"": 112302, ""node1"": 130164, ""node2"": 120603, ""type"": 14, ""w"": 100.0}]"
+possible,manger,[]
+récupérer,bouillon,[]
+possible,gras,[]

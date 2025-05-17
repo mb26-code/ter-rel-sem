@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+huile,poivre,nmod,NOUN,0.6777899265289307,"[{""id"": 569059225, ""node1"": 141971, ""node2"": 139597, ""type"": 0, ""w"": 46.0}]",r_associated,46.0
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,crème,nmod,NOUN,0.7389078736305237,[],,
+titre,pomme,nmod,NOUN,0.5443057417869568,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,fromage,acl,NOUN,0.6496772170066833,"[{""id"": 1022767551, ""node1"": 37201, ""node2"": 141687, ""type"": 75, ""w"": 35.0}]",r_accomp,35.0
+casserole,four,nmod,NOUN,0.7147663235664368,[],,
+titre,table,nmod,NOUN,0.485977828502655,[],,
+table,induction,amod,NOUN,0.5181390047073364,[],,
+four,200,nmod,NUM,0.5053980350494385,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+éplucher,pomme,obj,NOUN,0.5793353319168091,"[{""id"": 399665, ""node1"": 59879, ""node2"": 37201, ""type"": 0, ""w"": 54.0}, {""id"": 423699, ""node1"": 59879, ""node2"": 37201, ""type"": 14, ""w"": 100.0}, {""id"": 980640573, ""node1"": 59879, ""node2"": 37201, ""type"": 666, ""w"": 2.0}]",r_patient,100.0
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+cuire,saler,advcl,VERB,0.7053472995758057,[],,
+cuire,le,obj,PRON,0.4500194191932678,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+découper,steak,obj,NOUN,0.6075621247291565,"[{""id"": 937834023, ""node1"": 45686, ""node2"": 55572, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+disposer,chauffer,advcl,VERB,0.5422176122665405,[],,
+ajouter,gramme,obj,NOUN,0.4576520025730133,[],,
+gramme,fromage,nmod,NOUN,0.5742160677909851,[],,
+cuire,tout,nsubj,PRON,0.7203893661499023,[],,
+prêt,sauce,nsubj,NOUN,0.6315041184425354,[],,
+répartir,viande,obj,NOUN,0.6893191933631897,[],,
+recouvrir,cuillère,obj,NOUN,0.5800919532775879,[],,
+cuillère,sauce,nmod,NOUN,0.7047527432441711,"[{""id"": 662514136, ""node1"": 51905, ""node2"": 141110, ""type"": 0, ""w"": 24.0}, {""id"": 720818667, ""node1"": 51905, ""node2"": 141110, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+placer,tout,obj,NOUN,0.480036199092865,[],,
+tout,grill,nmod,NOUN,0.6317431330680847,[],,
+grill,chaud,amod,ADJ,0.611642062664032,[],,

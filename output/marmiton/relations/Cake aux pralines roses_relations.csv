@@ -1,0 +1,28 @@
+node1,node2,relations
+Cake,rose,[]
+rose,ingrédient,[]
+Cake,levure,[]
+levure,chimique,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]"
+levure,sucre,[]
+sucre,farine,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]"
+sucre,oeuf,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]"
+oeuf,beurre,"[{""id"": 96638701, ""node1"": 116175, ""node2"": 140377, ""type"": 0, ""w"": 31.0}]"
+grille,pâtisserie,[]
+pâtisserie,four,"[{""id"": 942271912, ""node1"": 25966, ""node2"": 9190, ""type"": 0, ""w"": 24.0}, {""id"": 15790548, ""node1"": 25966, ""node2"": 9190, ""type"": 15, ""w"": 58.0}, {""id"": 1789859, ""node1"": 25966, ""node2"": 9190, ""type"": 666, ""w"": 1.0}]"
+four,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,moule,[]
+grille,cake,[]
+balance,cuisine,[]
+balance,étape,[]
+four,240,[]
+mélanger,sucre,[]
+ajouter,oeuf,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]"
+ajouter,farine,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]"
+reposer,préparation,"[{""id"": 12983122, ""node1"": 106663, ""node2"": 33634, ""type"": 13, ""w"": 51.0}]"
+cuire,thermostat,[]
+baisser,four,[]
+four,180,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,[]
+sortie,four,[]

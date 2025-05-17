@@ -1,0 +1,13 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+safran,jambon,nmod,NOUN,0.6489419341087341,[],,
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+cuire,spaghetti,obj,NOUN,0.7421337962150574,"[{""id"": 34438893, ""node1"": 5115, ""node2"": 48529, ""type"": 14, ""w"": 52.0}]",r_patient,52.0
+revenir,échalote,obj,NOUN,0.5848109126091003,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+ajouter,champignon,obj,NOUN,0.5464464426040649,[],,
+cuire,il,nsubj,PRON,0.4034532904624939,[],,
+cuire,jambon,obj,NOUN,0.7715701460838318,"[{""id"": 93422044, ""node1"": 5115, ""node2"": 57980, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+jambon,couper,acl,VERB,0.6028013229370117,"[{""id"": 31770896, ""node1"": 57980, ""node2"": 128828, ""type"": 26, ""w"": 35.0}]",r_patient-1,35.0
+mélanger,sauce,obj,NOUN,0.7105662822723389,"[{""id"": 343034831, ""node1"": 37151, ""node2"": 141110, ""type"": 14, ""w"": 31.0}]",r_patient,31.0

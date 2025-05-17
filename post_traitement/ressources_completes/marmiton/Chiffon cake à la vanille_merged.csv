@@ -1,0 +1,54 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+ingrédient,vanille,amod,NOUN,0.6582015156745911,[],,
+chiffon,ingrédient,nmod,NOUN,0.5655252933502197,[],,
+chiffon,extraire,nmod,VERB,0.4421090185642242,[],,
+extraire,vanille,nmod,NOUN,0.565494954586029,[],,
+extraire,liquide,amod,ADJ,0.5078067183494568,[],,
+liquide,sel,nmod,NOUN,0.6827431321144104,"[{""id"": 941870640, ""node1"": 140315, ""node2"": 13260, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+chiffon,levure,nmod,NOUN,0.5691709518432617,[],,
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+chiffon,farine,nmod,NOUN,0.6300035715103149,[],,
+chiffon,sucre,nmod,NOUN,0.6526299118995667,[],,
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+oeuf,huile,amod,NOUN,0.6085584163665771,[],,
+huile,végétal,amod,ADJ,0.625397801399231,"[{""id"": 669880751, ""node1"": 141971, ""node2"": 136507, ""type"": 0, ""w"": 25.0}]",r_associated,25.0
+sucre,lait,nmod,NOUN,0.6437966823577881,[],,
+chiffon,balance,nmod,NOUN,0.4780437648296356,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,couteau,appos,NOUN,0.5317514538764954,[],,
+couteau,four,nmod,NOUN,0.6828393340110779,[],,
+four,saladier,nmod,NOUN,0.6991847157478333,[],,
+saladier,Spatule,nmod,PROPN,0.4745384156703949,[],,
+Spatule,bol,nmod,NOUN,0.5239806175231934,[],,
+bol,étape,nmod,NOUN,0.5393725633621216,[],,
+four,160,nmod,NUM,0.4906061589717865,[],,
+chiffon,degré,nmod,NOUN,0.4161945879459381,[],,
+bol,autre,amod,ADJ,0.53180330991745,[],,
+bol,grand,amod,ADJ,0.516040563583374,[],,
+battre,jaune,obj,NOUN,0.5006049275398254,[],,
+jaune,œuf,nmod,NOUN,0.524957537651062,"[{""id"": 558764775, ""node1"": 86711, ""node2"": 174124, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+jaune,gramme,nmod,NOUN,0.4975632131099701,[],,
+gramme,sucre,nmod,NOUN,0.6024630069732666,"[{""id"": 720818120, ""node1"": 140383, ""node2"": 139481, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+devenir,mélange,nsubj,NOUN,0.515579104423523,[],,
+ajouter,huile,obj,NOUN,0.5838896036148071,[],,
+extrait,vanille,nmod,NOUN,0.5278633236885071,[],,
+ingrédient,sec,acl,ADJ,0.5127678513526917,[],,
+obtenir,pâte,obj,NOUN,0.6173189282417297,[],,
+pâte,lisse,amod,ADJ,0.6106547713279724,"[{""id"": 532329951, ""node1"": 34069, ""node2"": 140074, ""type"": 17, ""w"": 32.0}]",r_carac,32.0
+battre,blanc,obj,NOUN,0.5040183067321777,[],,
+blanc,œuf,nmod,NOUN,0.5352868437767029,"[{""id"": 796769193, ""node1"": 15196, ""node2"": 174124, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+ajouter,gramme,obj,NOUN,0.4576520025730133,[],,
+sucre,restant,amod,ADJ,0.6474398374557495,[],,
+tiers,blanc,nmod,NOUN,0.4403588473796844,[],,
+blanc,neige,nmod,NOUN,0.4736866652965545,"[{""id"": 116991, ""node1"": 15196, ""node2"": 3699, ""type"": 0, ""w"": 509.77}, {""id"": 117866, ""node1"": 15196, ""node2"": 3699, ""type"": 23, ""w"": 320.0}, {""id"": 1622496, ""node1"": 15196, ""node2"": 3699, ""type"": 666, ""w"": 12.0}]",r_associated,509.77
+tiers,pâte,nmod,NOUN,0.6118307709693909,[],,
+ajouter,reste,obj,NOUN,0.454963743686676,[],,
+reste,blanc,nmod,NOUN,0.5097660422325134,[],,
+reste,remuer,advcl,VERB,0.5307702422142029,[],,
+aide,spatule,nmod,NOUN,0.4394362568855285,[],,
+verser,pâte,obj,NOUN,0.6542285084724426,"[{""id"": 373014722, ""node1"": 104506, ""node2"": 34069, ""type"": 14, ""w"": 36.0}]",r_patient,36.0
+moule,rond,amod,ADJ,0.5201452374458313,[],,
+vérifier,cuisson,obj,NOUN,0.6534045934677124,"[{""id"": 31862099, ""node1"": 76431, ""node2"": 60056, ""type"": 14, ""w"": 64.0}]",r_patient,64.0
+lame,couteau,nmod,NOUN,0.4591053426265716,"[{""id"": 118596, ""node1"": 139377, ""node2"": 32610, ""type"": 0, ""w"": 366.0}, {""id"": 54676570, ""node1"": 139377, ""node2"": 32610, ""type"": 5, ""w"": 101.0}, {""id"": 1743084, ""node1"": 139377, ""node2"": 32610, ""type"": 10, ""w"": 94.0}, {""id"": 120811, ""node1"": 139377, ""node2"": 32610, ""type"": 15, ""w"": 88.0}, {""id"": 155181, ""node1"": 139377, ""node2"": 32610, ""type"": 21, ""w"": 250.0}, {""id"": 76658787, ""node1"": 139377, ""node2"": 32610, ""type"": 35, ""w"": 27.0}, {""id"": 1613397, ""node1"": 139377, ""node2"": 32610, ""type"": 41, ""w"": 70.0}, {""id"": 13176988, ""node1"": 139377, ""node2"": 32610, ""type"": 73, ""w"": 19.0}, {""id"": 993559795, ""node1"": 139377, ""node2"": 32610, ""type"": 666, ""w"": 3.0}]",r_associated,366.0
+sortir,four,obj,NOUN,0.6499167084693909,[],,
+refroidir,déguster,advcl,VERB,0.5801787376403809,[],,

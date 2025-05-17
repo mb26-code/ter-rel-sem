@@ -1,0 +1,26 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+confiture,fruit,nmod,NOUN,0.5557554960250854,"[{""id"": 226011, ""node1"": 70793, ""node2"": 87286, ""type"": 0, ""w"": 266.0}, {""id"": 1525774, ""node1"": 70793, ""node2"": 87286, ""type"": 666, ""w"": 6.0}]",r_associated,266.0
+fruit,rouge,amod,ADJ,0.5084561109542847,"[{""id"": 640137316, ""node1"": 87286, ""node2"": 86356, ""type"": 0, ""w"": 96.0}, {""id"": 2171760, ""node1"": 87286, ""node2"": 86356, ""type"": 17, ""w"": 26.0}, {""id"": 3160627, ""node1"": 87286, ""node2"": 86356, ""type"": 106, ""w"": 22.0}]",r_associated,96.0
+fruit,grain,nmod,NOUN,0.5520342588424683,"[{""id"": 11041547, ""node1"": 87286, ""node2"": 57895, ""type"": 0, ""w"": 22.0}, {""id"": 561907, ""node1"": 87286, ""node2"": 57895, ""type"": 5, ""w"": 98.0}, {""id"": 377957996, ""node1"": 87286, ""node2"": 57895, ""type"": 8, ""w"": 35.0}, {""id"": 3065160, ""node1"": 87286, ""node2"": 57895, ""type"": 9, ""w"": 62.0}]",r_syn,98.0
+grain,ingrédient,nmod,NOUN,0.6150079965591431,[],,
+fruit,sucre,nmod,NOUN,0.6387148499488831,"[{""id"": 415317, ""node1"": 87286, ""node2"": 139481, ""type"": 0, ""w"": 93.0}, {""id"": 2150566, ""node1"": 87286, ""node2"": 139481, ""type"": 9, ""w"": 26.0}]",r_associated,93.0
+sucre,mûr,nmod,ADJ,0.5278850793838501,[],,
+sucre,framboise,amod,ADJ,0.6532086133956909,[],,
+sucre,top,nmod,NOUN,0.5400970578193665,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+rincer,fruit,obj,NOUN,0.5555684566497803,"[{""id"": 1047029607, ""node1"": 117283, ""node2"": 87286, ""type"": 13, ""w"": 30.0}, {""id"": 376193976, ""node1"": 117283, ""node2"": 87286, ""type"": 16, ""w"": 43.0}]",r_instr,43.0
+ébullition,casserole,nmod,NOUN,0.5843204855918884,"[{""id"": 984351084, ""node1"": 83252, ""node2"": 57253, ""type"": 666, ""w"": 3.0}]",r_aki,3.0
+défaut,moulin,nmod,NOUN,0.4882634580135345,[],,
+moulin,légume,nmod,NOUN,0.6528252363204956,[],,
+légume,grille,amod,NOUN,0.6764751672744751,[],,
+grille,fin,amod,ADJ,0.4580258429050445,[],,
+passer,reste,advcl,VERB,0.4480604529380798,[],,
+reste,pulpe,obj,NOUN,0.5590335130691528,[],,
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+cuire,heure,obj,NOUN,0.6720207929611206,[],,
+cuire,suivre,acl,VERB,0.6444080471992493,[],,
+consistance,désirer,acl,ADJ,0.4109030365943908,[],,

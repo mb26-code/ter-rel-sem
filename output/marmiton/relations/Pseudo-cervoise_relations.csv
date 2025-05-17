@@ -1,0 +1,21 @@
+node1,node2,relations
+ingrédient,bière,[]
+bière,blond,[]
+ingrédient,vin,"[{""id"": 578506260, ""node1"": 123418, ""node2"": 35798, ""type"": 8, ""w"": 26.0}]"
+vin,blanc,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]"
+ingrédient,jus,[]
+jus,citron,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]"
+jus,saladier,[]
+saladier,réfrigérateur,[]
+réfrigérateur,étape,[]
+saladier,grand,"[{""id"": 1077330492, ""node1"": 45455, ""node2"": 23178, ""type"": 0, ""w"": 50.0}, {""id"": 31838076, ""node1"": 45455, ""node2"": 23178, ""type"": 17, ""w"": 60.0}, {""id"": 1668931, ""node1"": 45455, ""node2"": 23178, ""type"": 666, ""w"": 2.0}]"
+ingrédient,verser,[]
+ingrédient,tout,[]
+verser,ingrédient,[]
+heure,réfrigérateur,[]
+préparer,ancêtre,[]
+correspondre,goût,[]
+goût,particulier,"[{""id"": 472676719, ""node1"": 119233, ""node2"": 85169, ""type"": 17, ""w"": 36.0}]"
+goût,boisson,"[{""id"": 653277935, ""node1"": 119233, ""node2"": 113547, ""type"": 666, ""w"": 2.0}]"
+apprécier,faire,[]
+détester,bière,[]

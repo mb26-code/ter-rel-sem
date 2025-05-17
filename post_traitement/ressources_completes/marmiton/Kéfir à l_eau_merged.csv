@@ -1,0 +1,26 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+eau,ingrédient,nmod,NOUN,0.6008535623550415,"[{""id"": 75029767, ""node1"": 65012, ""node2"": 123418, ""type"": 6, ""w"": 90.0}]",r_isa,90.0
+eau,figue,appos,NOUN,0.6139004826545715,"[{""id"": 10014236, ""node1"": 65012, ""node2"": 13842, ""type"": 10, ""w"": 4.0}]",r_holo,4.0
+figue,sucre,appos,NOUN,0.6641230583190918,[],,
+casserole,top,nmod,NOUN,0.4402943253517151,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,réfrigérateur,appos,NOUN,0.5236407518386841,[],,
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[],,
+titre,mettre,acl,VERB,0.4057502150535583,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+mettre,ingrédient,obj,NOUN,0.5923328399658203,[],,
+fondre,sucre,obj,NOUN,0.6667196750640869,"[{""id"": 588310975, ""node1"": 16480, ""node2"": 139481, ""type"": 0, ""w"": 36.0}, {""id"": 24768884, ""node1"": 16480, ""node2"": 139481, ""type"": 13, ""w"": 35.0}]",r_associated,36.0
+sucre,avant,nmod,ADP,0.6617963910102844,[],,
+eau,quantité,nmod,NOUN,0.5596113204956055,"[{""id"": 1030694969, ""node1"": 65012, ""node2"": 78869, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+eau,désirer,acl,VERB,0.5484440326690674,[],,
+remonter,figue,nsubj,NOUN,0.5280495882034302,[],,
+prêt,remonter,advcl,VERB,0.411996990442276,[],,
+prêt,boisson,nsubj,NOUN,0.5226345658302307,[],,
+jeter,figue,obj,NOUN,0.5539208650588989,[],,
+bouteille,capsule,nmod,NOUN,0.4353798925876617,"[{""id"": 9986069, ""node1"": 117423, ""node2"": 101650, ""type"": 0, ""w"": 22.0}, {""id"": 426037, ""node1"": 117423, ""node2"": 101650, ""type"": 9, ""w"": 67.0}, {""id"": 1069334861, ""node1"": 117423, ""node2"": 101650, ""type"": 666, ""w"": 2.0}, {""id"": 3624521, ""node1"": 117423, ""node2"": 101650, ""type"": 777, ""w"": 5.0}]",r_has_part,67.0
+capsule,hermétique,amod,ADJ,0.414238691329956,[],,
+bouteille,bouteille,nmod,NOUN,0.468371033668518,"[{""id"": 285133, ""node1"": 117423, ""node2"": 117423, ""type"": 19, ""w"": 52.0}]",r_lemma,52.0
+bouteille,bière,nmod,NOUN,0.5235447883605957,"[{""id"": 189160, ""node1"": 117423, ""node2"": 106797, ""type"": 0, ""w"": 90.0}, {""id"": 10527352, ""node1"": 117423, ""node2"": 106797, ""type"": 9, ""w"": 26.0}, {""id"": 173217, ""node1"": 117423, ""node2"": 106797, ""type"": 28, ""w"": 231.0}, {""id"": 646144447, ""node1"": 117423, ""node2"": 106797, ""type"": 666, ""w"": 8.0}]",r_lieu-1,231.0
+bouteille,placer,acl:relcl,VERB,0.5206329226493835,[],,
+faire,quantité,obj,NOUN,0.5537004470825195,[],,
+quantité,consommer,acl:relcl,VERB,0.5534069538116455,[],,

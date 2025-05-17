@@ -1,0 +1,40 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+macaron,cassis,nmod,NOUN,0.4884894788265228,[],,
+macaron,ingrédient,nmod,NOUN,0.5916562080383301,[],,
+macaron,sucre,nmod,NOUN,0.6518505811691284,"[{""id"": 97124827, ""node1"": 104390, ""node2"": 139481, ""type"": 0, ""w"": 34.0}, {""id"": 97124824, ""node1"": 104390, ""node2"": 139481, ""type"": 3, ""w"": 15.0}]",r_associated,34.0
+sucre,semoule,amod,NOUN,0.6967501044273376,"[{""id"": 277256, ""node1"": 139481, ""node2"": 64778, ""type"": 17, ""w"": -94.0}, {""id"": 639101518, ""node1"": 139481, ""node2"": 64778, ""type"": 141, ""w"": 25.0}]",r_carac_nominale,25.0
+sucre,sucre,nmod,NOUN,0.6199788451194763,"[{""id"": 335264, ""node1"": 139481, ""node2"": 139481, ""type"": 19, ""w"": 142.0}, {""id"": 93901596, ""node1"": 139481, ""node2"": 139481, ""type"": 50, ""w"": -27.0}, {""id"": 376041081, ""node1"": 139481, ""node2"": 139481, ""type"": 51, ""w"": 28.0}]",r_lemma,142.0
+sucre,glace,nmod,NOUN,0.651667594909668,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -126.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]",r_associated,111.0
+sucre,amande,nmod,NOUN,0.6539533138275146,[],,
+amande,poudre,nmod,NOUN,0.5705900192260742,[],,
+poudre,blanc,amod,ADJ,0.5775071382522583,"[{""id"": 797000183, ""node1"": 139470, ""node2"": 15196, ""type"": 0, ""w"": 24.0}, {""id"": 3186318, ""node1"": 139470, ""node2"": 15196, ""type"": 106, ""w"": 3.0}]",r_associated,24.0
+blanc,oeuf,nmod,NOUN,0.5395181179046631,"[{""id"": 215721, ""node1"": 15196, ""node2"": 116175, ""type"": 0, ""w"": 84.0}, {""id"": 31299415, ""node1"": 15196, ""node2"": 116175, ""type"": 3, ""w"": 32.0}, {""id"": 76136326, ""node1"": 15196, ""node2"": 116175, ""type"": 10, ""w"": 26.0}, {""id"": 373603, ""node1"": 15196, ""node2"": 116175, ""type"": 23, ""w"": 110.0}, {""id"": 91492401, ""node1"": 15196, ""node2"": 116175, ""type"": 35, ""w"": 54.0}]",r_carac-1,110.0
+sucre,colorant,nmod,NOUN,0.6472268104553223,[],,
+confiture,cassis,nmod,NOUN,0.5263454914093018,"[{""id"": 12436355, ""node1"": 70793, ""node2"": 40727, ""type"": 0, ""w"": 61.0}, {""id"": 4960028, ""node1"": 70793, ""node2"": 40727, ""type"": 777, ""w"": 10.0}]",r_associated,61.0
+confiture,four,nmod,NOUN,0.7232145667076111,[],,
+four,tamis,nmod,NOUN,0.6446834206581116,[],,
+tamis,saladier,nmod,NOUN,0.5371009111404419,[],,
+saladier,top,nmod,NOUN,0.4330350756645202,[],,
+papier,meilleur,amod,ADJ,0.4798659384250641,[],,
+top,papier,nmod,NOUN,0.4000419974327087,[],,
+poche,balance,nmod,NOUN,0.4087292850017547,"[{""id"": 54692522, ""node1"": 139906, ""node2"": 145190, ""type"": 0, ""w"": 22.0}, {""id"": 54673051, ""node1"": 139906, ""node2"": 145190, ""type"": 5, ""w"": 75.0}]",r_syn,75.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+table,induction,amod,NOUN,0.5181390047073364,[],,
+poudre,amande,nmod,NOUN,0.5705900192260742,[],,
+blanc,œuf,nmod,NOUN,0.5352868437767029,"[{""id"": 796769193, ""node1"": 15196, ""node2"": 174124, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+œuf,neige,nmod,NOUN,0.5430272221565247,[],,
+blanc,ajouter,acl,VERB,0.5225849747657776,[],,
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+verser,colorant,obj,NOUN,0.5566819906234741,[],,
+colorant,préparation,nmod,NOUN,0.6035884618759155,[],,
+incorporer,blanc,obj,NOUN,0.5217159390449524,[],,
+travailler,mélange,obj,NOUN,0.5418144464492798,[],,
+macaron,petit,amod,ADJ,0.542982280254364,[],,
+dresser,macaron,obj,NOUN,0.4936483800411224,[],,
+macaron,plaque,nmod,NOUN,0.5344577431678772,[],,
+refroidir,macaron,obj,NOUN,0.5874940156936646,[],,
+refroidir,détacher,advcl,VERB,0.4862480163574219,[],,
+détacher,papier,nmod,NOUN,0.4917422831058502,[],,
+moitié,macaron,nmod,NOUN,0.5441891551017761,[],,
+macaron,confiture,nmod,NOUN,0.5929285883903503,[],,
+macaron,autre,amod,ADJ,0.5170007944107056,[],,

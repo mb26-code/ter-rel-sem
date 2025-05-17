@@ -1,0 +1,90 @@
+node1,node2,relations
+titre,agneau,[]
+agneau,ingrédient,[]
+agneau,sel,"[{""id"": 572711232, ""node1"": 128646, ""node2"": 13260, ""type"": 0, ""w"": 38.0}]"
+sel,poivre,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]"
+poivre,huile,"[{""id"": 917898979, ""node1"": 139597, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]"
+agneau,cube,[]
+cube,bouillon,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]"
+bouillon,poisson,"[{""id"": 558647540, ""node1"": 146582, ""node2"": 68467, ""type"": 0, ""w"": 27.0}, {""id"": 4238170, ""node1"": 146582, ""node2"": 68467, ""type"": 777, ""w"": 10.0}]"
+agneau,crevette,[]
+crevette,huile,[]
+huile,palme,"[{""id"": 398743, ""node1"": 141971, ""node2"": 14658, ""type"": 0, ""w"": 65.0}, {""id"": 580649, ""node1"": 141971, ""node2"": 14658, ""type"": 5, ""w"": 34.0}, {""id"": 1793669, ""node1"": 141971, ""node2"": 14658, ""type"": 666, ""w"": 1.0}]"
+couteau,mixeur,[]
+casserole,couvercle,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]"
+couvercle,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,plat,"[{""id"": 662507898, ""node1"": 51905, ""node2"": 36327, ""type"": 0, ""w"": 44.0}]"
+couper,viande,"[{""id"": 241180, ""node1"": 128828, ""node2"": 140100, ""type"": 0, ""w"": 74.0}, {""id"": 15084106, ""node1"": 128828, ""node2"": 140100, ""type"": 14, ""w"": 100.0}]"
+viande,morceau,"[{""id"": 796691557, ""node1"": 140100, ""node2"": 65364, ""type"": 0, ""w"": 29.0}]"
+couper,oignon,"[{""id"": 435065584, ""node1"": 128828, ""node2"": 123307, ""type"": 0, ""w"": 29.0}, {""id"": 31770866, ""node1"": 128828, ""node2"": 123307, ""type"": 14, ""w"": 100.0}]"
+cube,petit,[]
+oignon,cube,[]
+passer,tomate,[]
+jus,mixeur,[]
+mixeur,avoir,[]
+préalable,couper,[]
+couper,party,[]
+party,dur,[]
+party,tomate,[]
+enlever,pied,"[{""id"": 97862930, ""node1"": 82345, ""node2"": 34898, ""type"": 14, ""w"": 30.0}, {""id"": 148794, ""node1"": 82345, ""node2"": 34898, ""type"": 16, ""w"": 90.0}]"
+aide,couteau,[]
+couper,passer,"[{""id"": 54846271, ""node1"": 128828, ""node2"": 28108, ""type"": 0, ""w"": 23.0}, {""id"": 54754521, ""node1"": 128828, ""node2"": 28108, ""type"": 5, ""w"": 73.0}]"
+niveau,cuisson,[]
+valoir,cuisine,[]
+cuisine,mise,[]
+marmite,verser,[]
+verser,cuillère,"[{""id"": 922009833, ""node1"": 104506, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 154215, ""node1"": 104506, ""node2"": 51905, ""type"": 16, ""w"": 60.0}]"
+cuillère,huile,"[{""id"": 775213351, ""node1"": 51905, ""node2"": 141971, ""type"": 174, ""w"": 25.0}]"
+revenir,viande,[]
+saler,vous,[]
+viande,saler,"[{""id"": 72771515, ""node1"": 140100, ""node2"": 15671, ""type"": 26, ""w"": 31.0}]"
+cuire,viande,"[{""id"": 2182411, ""node1"": 5115, ""node2"": 140100, ""type"": 0, ""w"": 73.0}, {""id"": 148035, ""node1"": 5115, ""node2"": 140100, ""type"": 13, ""w"": 100.0}, {""id"": 206249, ""node1"": 5115, ""node2"": 140100, ""type"": 14, ""w"": 100.0}, {""id"": 722712577, ""node1"": 5115, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]"
+ajouter,cuire,[]
+marmite,ajouter,[]
+ajouter,oignon,[]
+oignon,couper,"[{""id"": 900892185, ""node1"": 123307, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 31770901, ""node1"": 123307, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 1767208, ""node1"": 123307, ""node2"": 128828, ""type"": 666, ""w"": 2.0}]"
+ajouter,jus,[]
+jus,tomate,"[{""id"": 899180270, ""node1"": 53310, ""node2"": 22138, ""type"": 0, ""w"": 23.0}, {""id"": 980320657, ""node1"": 53310, ""node2"": 22138, ""type"": 666, ""w"": 3.0}]"
+jus,mettre,[]
+remuer,tout,[]
+attendre,temps,"[{""id"": 141767, ""node1"": 100813, ""node2"": 13861, ""type"": 0, ""w"": 72.0}, {""id"": 987495436, ""node1"": 100813, ""node2"": 13861, ""type"": 666, ""w"": 3.0}]"
+arriver,sauce,[]
+temps,arriver,"[{""id"": 798732771, ""node1"": 13861, ""node2"": 10322, ""type"": 0, ""w"": 21.0}]"
+prêt,sauce,[]
+mettre,équivalent,[]
+prêt,poivrer,[]
+ajouter,cube,[]
+cube,convenance,[]
+remuer,couvrir,[]
+laisser,mijoter,[]
+couper,piment,[]
+avoir,estomac,[]
+estomac,solide,[]
+ajouter,cuillère,[]
+cuillère,soupe,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]"
+soupe,poudre,[]
+poudre,poisson,[]
+poudre,crevette,[]
+couvrir,minute,[]
+prêt,tout,[]
+sauce,remuer,[]
+incorporer,sauce,[]
+remuer,incorporer,[]
+minute,tout,[]
+attache,cela,[]
+aller,sauce,[]
+soupe,exemple,[]
+minute,bon,[]
+nécessaire,minute,[]
+incorporer,huile,[]
+huile,hauteur,[]
+hauteur,cuillère,[]
+minute,remuer,[]
+remuer,temps,[]
+colle,cela,[]
+cuire,colle,[]
+rectifier,assaisonnement,"[{""id"": 15080476, ""node1"": 36001, ""node2"": 15763, ""type"": 14, ""w"": 30.0}]"
+servir,cuire,[]
+servir,volume,[]
+volume,eau,"[{""id"": 30986586, ""node1"": 130885, ""node2"": 65012, ""type"": 0, ""w"": 35.0}, {""id"": 30984090, ""node1"": 130885, ""node2"": 65012, ""type"": 3, ""w"": 30.0}]"

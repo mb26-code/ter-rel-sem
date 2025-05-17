@@ -1,0 +1,94 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+spécialité,culinaire,amod,ADJ,0.5888378620147705,"[{""id"": 477435, ""node1"": 49537, ""node2"": 347, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+spécialité,sud-ouest,nmod,NOUN,0.4528830647468567,[],,
+parent,faire,acl,VERB,0.4437060058116913,[],,
+semoule,maïs,nmod,ADV,0.6175868511199951,[],,
+quantité,grand,amod,ADJ,0.5105735659599304,"[{""id"": 1717406, ""node1"": 78869, ""node2"": 23178, ""type"": 17, ""w"": 10.0}]",r_carac,10.0
+quantité,terme,nmod,NOUN,0.4908452928066253,[],,
+quantité,fonction,acl:relcl,NOUN,0.4884405136108398,[],,
+fois,recette,nmod,NOUN,0.5455856323242188,[],,
+succéder,maïs,obj,NOUN,0.5293471813201904,[],,
+prendre,maïs,nsubj,NOUN,0.5859857201576233,[],,
+bouillie,farine,nmod,NOUN,0.6831669807434082,"[{""id"": 59699752, ""node1"": 113977, ""node2"": 127629, ""type"": 0, ""w"": 29.0}, {""id"": 53775595, ""node1"": 113977, ""node2"": 127629, ""type"": 5, ""w"": 43.0}]",r_syn,43.0
+farine,maïs,nmod,ADV,0.6313681602478027,"[{""id"": 114506, ""node1"": 127629, ""node2"": 139790, ""type"": 0, ""w"": 61.0}]",r_associated,61.0
+gâteau,maïs,nmod,ADP,0.6456142663955688,[],,
+passer,tranche,nsubj,NOUN,0.5093803405761719,[],,
+bouillie,maïs,nmod,AUX,0.6070592403411865,"[{""id"": 4635334, ""node1"": 113977, ""node2"": 139790, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+bouillie,passer,acl:relcl,VERB,0.6183645725250244,[],,
+connaître,terme,nsubj:pass,NOUN,0.4147811830043793,[],,
+désigner,dessert,obj,NOUN,0.5173328518867493,[],,
+dessert,préparer,acl,VERB,0.60911625623703,"[{""id"": 2481460, ""node1"": 38557, ""node2"": 36246, ""type"": 26, ""w"": 30.0}, {""id"": 348324112, ""node1"": 38557, ""node2"": 36246, ""type"": 38, ""w"": 28.0}]",r_patient-1,30.0
+récipient,individuel,amod,ADJ,0.5649632811546326,[],,
+consistance,flan,nmod,NOUN,0.5115421414375305,[],,
+feuille,laurier,nmod,NOUN,0.4919538497924804,"[{""id"": 15624759, ""node1"": 37993, ""node2"": 114548, ""type"": 0, ""w"": 29.0}, {""id"": 14620301, ""node1"": 37993, ""node2"": 114548, ""type"": 10, ""w"": 36.0}]",r_holo,36.0
+spécialité,Bresse,nmod,PROPN,0.4132356941699981,[],,
+arriver,maïs,nsubj,NOUN,0.5785875916481018,[],,
+Bresse,arriver,acl:relcl,VERB,0.4218950569629669,[],,
+nom,blé,nmod,NOUN,0.5072340965270996,[],,
+blé,Turquie,nmod,PROPN,0.4985450804233551,[],,
+arriver,donner,advcl,VERB,0.4061465859413147,[],,
+faire,farine,nsubj:pass,NOUN,0.6897327303886414,[],,
+farine,utiliser,acl,VERB,0.6612628102302551,"[{""id"": 906164171, ""node1"": 127629, ""node2"": 62611, ""type"": 0, ""w"": 20.0}, {""id"": 478897437, ""node1"": 127629, ""node2"": 62611, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+couleur,jaune,amod,ADJ,0.4742509126663208,"[{""id"": 70620, ""node1"": 40056, ""node2"": 86711, ""type"": 0, ""w"": 509.95}, {""id"": 232491, ""node1"": 40056, ""node2"": 86711, ""type"": 8, ""w"": 158.0}, {""id"": 1038921079, ""node1"": 40056, ""node2"": 86711, ""type"": 9, ""w"": 26.0}, {""id"": 199365, ""node1"": 40056, ""node2"": 86711, ""type"": 17, ""w"": 249.0}, {""id"": 11348203, ""node1"": 40056, ""node2"": 86711, ""type"": 28, ""w"": 38.0}, {""id"": 53246445, ""node1"": 40056, ""node2"": 86711, ""type"": 35, ""w"": 51.0}, {""id"": 3159743, ""node1"": 40056, ""node2"": 86711, ""type"": 106, ""w"": 29.0}, {""id"": 1522478, ""node1"": 40056, ""node2"": 86711, ""type"": 666, ""w"": 15.0}]",r_associated,509.95
+couleur,caractéristique,amod,ADJ,0.4496590793132782,"[{""id"": 372503751, ""node1"": 40056, ""node2"": 87150, ""type"": 17, ""w"": 31.0}]",r_carac,31.0
+couleur,valoir,acl:relcl,VERB,0.4544666707515716,[],,
+mettre,analyse,nsubj,NOUN,0.4346280694007873,[],,
+analyse,récipient,nmod,NOUN,0.55857253074646,[],,
+récipient,trouver,acl,VERB,0.5677140355110168,[],,
+mettre,existence,obj,NOUN,0.4390184879302978,[],,
+existence,reste,nmod,NOUN,0.4494500458240509,[],,
+reste,bouillie,nmod,NOUN,0.6047918200492859,[],,
+existence,base,nmod,NOUN,0.4882149994373321,[],,
+moyen,bouillie,nsubj,NOUN,0.608169436454773,[],,
+existence,moyen,nmod,NOUN,0.4353033602237701,[],,
+préparer,donner,advcl,VERB,0.4570632576942444,[],,
+chien,chasse,nmod,NOUN,0.4417807459831238,"[{""id"": 177382, ""node1"": 4455, ""node2"": 140429, ""type"": 0, ""w"": 76.0}, {""id"": 1789516, ""node1"": 4455, ""node2"": 140429, ""type"": 666, ""w"": 4.0}]",r_associated,76.0
+donner,introduction,obj,NOUN,0.4169207811355591,[],,
+introduction,maïs,nmod,NOUN,0.5494034290313721,[],,
+farine,cuire,acl,VERB,0.7788220047950745,"[{""id"": 423997471, ""node1"": 127629, ""node2"": 5115, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+eau,bouillie,nmod,NOUN,0.5968411564826965,"[{""id"": 477581283, ""node1"": 65012, ""node2"": 113977, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+bouillie,épais,amod,ADJ,0.5363152623176575,[],,
+bouillie,obtenir,acl,VERB,0.5603294372558594,[],,
+étaler,mise,advcl,NOUN,0.4414837062358856,[],,
+mise,carré,nmod,NOUN,0.4643815457820892,[],,
+sorte,galette,nmod,NOUN,0.5937029123306274,[],,
+crêpe,épais,amod,ADJ,0.5629989504814148,"[{""id"": 926855942, ""node1"": 17186, ""node2"": 55342, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+courant,fabrication,nsubj,NOUN,0.4472551941871643,[],,
+fabrication,spécialité,nmod,NOUN,0.4891359806060791,[],,
+spécialité,local,amod,ADJ,0.4508866369724273,[],,
+fabrication,tenter,acl,VERB,0.4395503103733063,[],,
+zone,tout,amod,ADJ,0.4449855089187622,[],,
+production,traditionnel,amod,ADJ,0.5271143913269043,[],,
+production,maïs,nmod,ADP,0.5505881309509277,[],,
+courant,variété,obj,NOUN,0.4704607427120209,[],,
+variété,maïs,nmod,NOUN,0.5621063709259033,[],,
+maïs,doux,amod,ADJ,0.5638954639434814,[],,
+variété,propre,amod,ADJ,0.4856306314468384,[],,
+alimentation,humain,amod,ADJ,0.4304551184177398,[],,
+variété,employer,acl,VERB,0.459576278924942,[],,
+variété,réserver,acl,VERB,0.4997458755970001,[],,
+alimentation,bétail,nmod,NOUN,0.4741288423538208,[],,
+usage,industriel,amod,ADJ,0.4072727859020233,[],,
+servir,tuer,advcl,VERB,0.4473075866699219,"[{""id"": 53718825, ""node1"": 7888, ""node2"": 7943, ""type"": 0, ""w"": 26.0}, {""id"": 53681399, ""node1"": 7888, ""node2"": 7943, ""type"": 5, ""w"": 57.0}]",r_syn,57.0
+tuer,cochon,obj,NOUN,0.4933292269706726,"[{""id"": 478236875, ""node1"": 7943, ""node2"": 92847, ""type"": 0, ""w"": 26.0}, {""id"": 91997584, ""node1"": 7943, ""node2"": 92847, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+réserve,pain,nmod,NOUN,0.6506009697914124,[],,
+manière,élaboré,amod,ADJ,0.4028888940811157,[],,
+préparer,ajouter,advcl,VERB,0.4932378828525543,[],,
+ingrédient,autre,amod,ADJ,0.5639666318893433,[],,
+ajouter,ingrédient,obj,NOUN,0.5776577591896057,"[{""id"": 9084112, ""node1"": 25099, ""node2"": 123418, ""type"": 0, ""w"": 56.0}, {""id"": 428901945, ""node1"": 25099, ""node2"": 123418, ""type"": 14, ""w"": 100.0}, {""id"": 9084083, ""node1"": 25099, ""node2"": 123418, ""type"": 35, ""w"": 48.0}]",r_patient,100.0
+ingrédient,lait,appos,NOUN,0.6170777082443237,"[{""id"": 15303738, ""node1"": 123418, ""node2"": 86296, ""type"": 0, ""w"": 28.0}, {""id"": 15173662, ""node1"": 123418, ""node2"": 86296, ""type"": 27, ""w"": -24.0}]",r_associated,28.0
+parfum,varier,amod,ADJ,0.5114268660545349,[],,
+version,dessert,nmod,NOUN,0.5646262168884277,[],,
+version,pratiquer,acl:relcl,VERB,0.4286293387413025,[],,
+base,préparation,nmod,NOUN,0.5450719594955444,[],,
+variété,grand,amod,ADJ,0.468901664018631,[],,
+pouvoir,variété,obj,NOUN,0.4570213556289673,[],,
+variété,nature,appos,NOUN,0.458242803812027,"[{""id"": 1033946, ""node1"": 17138, ""node2"": 143607, ""type"": 0, ""w"": 25.0}]",r_associated,25.0
+nature,graisse,nmod,NOUN,0.5851954817771912,[],,
+constituer,pâtisserie,obj,NOUN,0.5906456708908081,[],,
+pâtisserie,raffiné,amod,ADJ,0.5984411835670471,[],,
+pouvoir,consistance,nsubj,NOUN,0.4125083386898041,[],,
+avoir,fond,obj,NOUN,0.482099175453186,[],,
+fond,consistant,acl,ADJ,0.4987771809101105,[],,
+garniture,cerise,nmod,NOUN,0.5644446611404419,[],,
+fruit,autre,amod,ADJ,0.5194652080535889,[],,

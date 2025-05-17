@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,cuisine,obj,NOUN,0.6019042730331421,[],,
+cuisine,japonais,amod,ADJ,0.5706702470779419,[],,
+désigner,type,obj,NOUN,0.4152324497699737,[],,
+type,cuisson,nmod,NOUN,0.671923041343689,[],,
+type,griller,amod,VERB,0.5931661128997803,[],,
+cuisiner,qui,nsubj,PRON,0.5115061402320862,[],,
+plat,cuisiner,acl:relcl,VERB,0.6808789372444153,"[{""id"": 12374746, ""node1"": 36327, ""node2"": 80199, ""type"": 0, ""w"": 52.0}, {""id"": 252359, ""node1"": 36327, ""node2"": 80199, ""type"": 25, ""w"": 180.0}, {""id"": 15070402, ""node1"": 36327, ""node2"": 80199, ""type"": 26, ""w"": 100.0}]",r_instr-1,180.0
+manière,cuisine,nmod,NOUN,0.6153805255889893,[],,
+plat,nombreux,amod,ADJ,0.5937381982803345,[],,
+plat,typique,amod,ADJ,0.6110854148864746,"[{""id"": 93507384, ""node1"": 36327, ""node2"": 133589, ""type"": 17, ""w"": 36.0}]",r_carac,36.0
+plat,japonais,amod,ADJ,0.5805410146713257,"[{""id"": 93508125, ""node1"": 36327, ""node2"": 34713, ""type"": 17, ""w"": 35.0}]",r_carac,35.0
+grillé,qui,nsubj,PRON,0.4986922740936279,[],,
+plat,grillé,acl:relcl,ADJ,0.6617305874824524,"[{""id"": 914823470, ""node1"": 36327, ""node2"": 141899, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+instrument,réaliser,acl,VERB,0.4435508847236633,"[{""id"": 1015325668, ""node1"": 6605, ""node2"": 4528, ""type"": 24, ""w"": 30.0}, {""id"": 376187184, ""node1"": 6605, ""node2"": 4528, ""type"": 25, ""w"": 27.0}]",r_agent-1,30.0
+réaliser,plat,obj,NOUN,0.6176847815513611,[],,
+planche,cuisson,nmod,NOUN,0.7162798643112183,[],,
+cuisson,japonais,amod,ADJ,0.6912457346916199,[],,
+poêle,rectangulaire,amod,ADJ,0.6446970105171204,[],,
+signifier,faire,advcl,VERB,0.441016286611557,"[{""id"": 12228016, ""node1"": 92455, ""node2"": 87528, ""type"": 0, ""w"": 24.0}, {""id"": 712864, ""node1"": 92455, ""node2"": 87528, ""type"": 5, ""w"": 32.0}]",r_syn,32.0
+faire,omelette,obj,NOUN,0.6328802704811096,"[{""id"": 437233150, ""node1"": 87528, ""node2"": 45481, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+omelette,japonais,amod,ADJ,0.5535408854484558,"[{""id"": 435892111, ""node1"": 45481, ""node2"": 34713, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+omelette,rouleau,nmod,NOUN,0.5818389058113098,[],,

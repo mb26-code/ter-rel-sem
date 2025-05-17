@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+galette,lait,nmod,NOUN,0.6456567049026489,"[{""id"": 502113057, ""node1"": 28590, ""node2"": 86296, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+lait,ingrédient,nmod,NOUN,0.6221581101417542,"[{""id"": 15370374, ""node1"": 86296, ""node2"": 123418, ""type"": 0, ""w"": 37.0}, {""id"": 506059, ""node1"": 86296, ""node2"": 123418, ""type"": 3, ""w"": 56.0}]",r_domain,56.0
+lait,levure,nmod,NOUN,0.6250109076499939,[],,
+levure,sucre,nmod,NOUN,0.6511401534080505,[],,
+sucre,huile,nmod,NOUN,0.7004923224449158,[],,
+sucre,beurre,nmod,NOUN,0.6973879933357239,[],,
+sucre,lait,nmod,NOUN,0.6437966823577881,[],,
+lait,feuille,nmod,NOUN,0.6273990273475647,[],,
+galette,four,nmod,NOUN,0.7018557786941528,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+galette,verser,acl,VERB,0.5979472398757935,[],,
+centre,farine,nmod,NOUN,0.6488954424858093,[],,
+farine,disposer,acl,VERB,0.6607016921043396,[],,
+fondre,plante,nsubj,NOUN,0.5543201565742493,[],,
+plante,aromatique,amod,ADJ,0.5024021863937378,[],,
+plante,poudre,nmod,NOUN,0.5614047050476074,[],,
+galette,fondre,acl,VERB,0.627277672290802,[],,
+lait,fondre,acl:relcl,VERB,0.6172964572906494,[],,
+fondre,sucre,obj,NOUN,0.6667196750640869,"[{""id"": 588310975, ""node1"": 16480, ""node2"": 139481, ""type"": 0, ""w"": 36.0}, {""id"": 24768884, ""node1"": 16480, ""node2"": 139481, ""type"": 13, ""w"": 35.0}]",r_associated,36.0
+verser,lait,obj,NOUN,0.5939220190048218,"[{""id"": 2147735, ""node1"": 104506, ""node2"": 86296, ""type"": 14, ""w"": 30.0}, {""id"": 645787359, ""node1"": 104506, ""node2"": 86296, ""type"": 666, ""w"": 2.0}]",r_patient,30.0
+garder,consistance,obj,NOUN,0.4551068544387817,[],,
+consistance,ferme,amod,ADJ,0.4332925081253052,"[{""id"": 97120608, ""node1"": 29223, ""node2"": 29786, ""type"": 0, ""w"": 23.0}, {""id"": 97120604, ""node1"": 29223, ""node2"": 29786, ""type"": 17, ""w"": 24.0}, {""id"": 652227831, ""node1"": 29223, ""node2"": 29786, ""type"": 666, ""w"": 6.0}]",r_carac,24.0
+travailler,pâte,obj,NOUN,0.6185374855995178,"[{""id"": 243714, ""node1"": 69550, ""node2"": 34069, ""type"": 14, ""w"": 61.0}]",r_patient,61.0
+bout,doigt,nmod,NOUN,0.4017129242420196,"[{""id"": 899132502, ""node1"": 56924, ""node2"": 62706, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+pâte,pain,nmod,NOUN,0.7144107818603516,"[{""id"": 366173, ""node1"": 34069, ""node2"": 61283, ""type"": 0, ""w"": 168.0}, {""id"": 246260103, ""node1"": 34069, ""node2"": 61283, ""type"": 8, ""w"": 35.0}, {""id"": 1024760244, ""node1"": 34069, ""node2"": 61283, ""type"": 9, ""w"": -5.0}, {""id"": 2350874, ""node1"": 34069, ""node2"": 61283, ""type"": 10, ""w"": 61.0}, {""id"": 96931339, ""node1"": 34069, ""node2"": 61283, ""type"": 41, ""w"": 27.0}]",r_associated,168.0
+utiliser,moule,obj,NOUN,0.5251543521881104,[],,
+moule,décorer,acl,VERB,0.5335307121276855,[],,
+bois,moule,nsubj,NOUN,0.5906022191047668,"[{""id"": 15287437, ""node1"": 96256, ""node2"": 143723, ""type"": 0, ""w"": 27.0}, {""id"": 15154486, ""node1"": 96256, ""node2"": 143723, ""type"": 27, ""w"": 28.0}]",r_domain-1,28.0
+permettre,moule,nsubj,NOUN,0.502794086933136,[],,
+façon,tout,amod,DET,0.4599321484565735,[],,
+bon,galette,nsubj,NOUN,0.5350199937820435,[],,
+mettre,minute,obj,NOUN,0.4575984179973602,[],,
+servir,tiède,obj,NOUN,0.5895378589630127,"[{""id"": 373014727, ""node1"": 7888, ""node2"": 13843, ""type"": 34, ""w"": 26.0}]",r_manner,26.0
+galette,conserver,acl:relcl,VERB,0.5848647952079773,[],,

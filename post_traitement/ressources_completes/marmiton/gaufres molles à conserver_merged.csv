@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+conserver,ingrédient,obj,NOUN,0.5956857800483704,[],,
+conserver,sel,obj,NOUN,0.6763992309570312,[],,
+sel,sucre,nmod,NOUN,0.6925632357597351,"[{""id"": 183179, ""node1"": 13260, ""node2"": 139481, ""type"": 0, ""w"": 182.0}, {""id"": 377013894, ""node1"": 13260, ""node2"": 139481, ""type"": 20, ""w"": 30.0}, {""id"": 377000348, ""node1"": 13260, ""node2"": 139481, ""type"": 21, ""w"": 28.0}, {""id"": 1032957125, ""node1"": 13260, ""node2"": 139481, ""type"": 78, ""w"": 32.0}]",r_associated,182.0
+sucre,fin,amod,NOUN,0.6024554371833801,"[{""id"": 277257, ""node1"": 139481, ""node2"": 144718, ""type"": 17, ""w"": 107.0}]",r_carac,107.0
+sucre,beurre,nmod,NOUN,0.6973879933357239,[],,
+conserver,farine,obj,NOUN,0.6698045134544373,"[{""id"": 766163884, ""node1"": 42089, ""node2"": 127629, ""type"": 14, ""w"": 32.0}]",r_patient,32.0
+sucre,vanillé,amod,ADJ,0.6220211982727051,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]",r_associated,13.0
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+oeuf,eau,nmod,NOUN,0.6093990802764893,"[{""id"": 386067341, ""node1"": 116175, ""node2"": 65012, ""type"": 15, ""w"": 30.0}, {""id"": 76133634, ""node1"": 116175, ""node2"": 65012, ""type"": 50, ""w"": 35.0}, {""id"": 109918850, ""node1"": 116175, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]",r_object>mater,35.0
+conserver,casserole,obj,NOUN,0.6393320560455322,[],,
+casserole,saladier,nmod,NOUN,0.6254573464393616,[],,
+saladier,balance,appos,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+oeuf,battre,acl,VERB,0.5256416201591492,"[{""id"": 15064344, ""node1"": 116175, ""node2"": 119162, ""type"": 26, ""w"": 34.0}]",r_patient-1,34.0
+ajouter,eau,obj,NOUN,0.5629687905311584,[],,
+eau,farine,nmod,NOUN,0.6416931748390198,"[{""id"": 480295457, ""node1"": 65012, ""node2"": 127629, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+eau,obtenir,acl,VERB,0.5427676439285278,[],,
+mélange,beau,amod,ADJ,0.4812701046466827,[],,
+obtenir,mélange,obj,NOUN,0.4783641993999481,[],,
+mélange,lisse,amod,ADJ,0.5162454843521118,[],,

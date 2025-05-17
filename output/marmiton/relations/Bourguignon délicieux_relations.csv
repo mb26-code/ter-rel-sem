@@ -1,0 +1,37 @@
+node1,node2,relations
+Bourguignon,délicieux,[]
+Bourguignon,ingrédient,[]
+Bourguignon,sel,[]
+Bourguignon,poivre,[]
+poivre,farine,[]
+farine,beurre,"[{""id"": 423997331, ""node1"": 127629, ""node2"": 140377, ""type"": 0, ""w"": 3.0}]"
+beurre,oignon,"[{""id"": 500926013, ""node1"": 140377, ""node2"": 123307, ""type"": 0, ""w"": 1.0}]"
+oignon,carotte,[]
+Bourguignon,boeuf,"[{""id"": 715935447, ""node1"": 144409, ""node2"": 47417, ""type"": 666, ""w"": 2.0}]"
+Bourguignon,bouquet,[]
+Bourguignon,couteau,[]
+couteau,cocotte,[]
+Bourguignon,poêle,[]
+balance,cuisine,[]
+balance,étape,[]
+balance,couper,[]
+couper,viande,"[{""id"": 241180, ""node1"": 128828, ""node2"": 140100, ""type"": 0, ""w"": 74.0}, {""id"": 15084106, ""node1"": 128828, ""node2"": 140100, ""type"": 14, ""w"": 100.0}]"
+cube,gros,[]
+viande,cube,"[{""id"": 799190728, ""node1"": 140100, ""node2"": 6041, ""type"": 0, ""w"": 23.0}]"
+cube,gramme,[]
+minute,cocotte,"[{""id"": 418389, ""node1"": 31491, ""node2"": 120952, ""type"": 0, ""w"": 60.0}, {""id"": 539971619, ""node1"": 31491, ""node2"": 120952, ""type"": 21, ""w"": -25.0}]"
+minute,revenir,[]
+mettre,viande,[]
+ajouter,oignon,[]
+revenir,couper,[]
+couper,carotte,"[{""id"": 93436614, ""node1"": 128828, ""node2"": 76234, ""type"": 14, ""w"": 32.0}]"
+carotte,rondelle,"[{""id"": 915206997, ""node1"": 76234, ""node2"": 71106, ""type"": 0, ""w"": 20.0}, {""id"": 31838017, ""node1"": 76234, ""node2"": 71106, ""type"": 58, ""w"": 66.0}]"
+rondelle,fin,[]
+fin,quartier,[]
+ajouter,farine,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]"
+revenir,bouquet,[]
+bouquet,garni,[]
+fermer,cocotte,[]
+cuire,min,[]
+mijoter,doux,[]
+couvert,heure,[]

@@ -1,0 +1,59 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,gâteau,nmod,NOUN,0.5333040952682495,[],,
+gâteau,cerveau,amod,ADJ,0.5896078944206238,[],,
+gâteau,Halloween,nmod,PROPN,0.5400068759918213,[],,
+gâteau,ingrédient,nmod,NOUN,0.676111102104187,[],,
+gâteau,levure,nmod,NOUN,0.6559968590736389,"[{""id"": 1887020, ""node1"": 2149, ""node2"": 53450, ""type"": 0, ""w"": 29.0}, {""id"": 267603, ""node1"": 2149, ""node2"": 53450, ""type"": 28, ""w"": 99.0}]",r_lieu-1,99.0
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+levure,huile,amod,NOUN,0.6309573650360107,[],,
+cacao,amer,amod,ADJ,0.5085153579711914,"[{""id"": 914305448, ""node1"": 68363, ""node2"": 97910, ""type"": 0, ""w"": 21.0}, {""id"": 76024991, ""node1"": 68363, ""node2"": 97910, ""type"": 17, ""w"": 31.0}, {""id"": 1787117, ""node1"": 68363, ""node2"": 97910, ""type"": 666, ""w"": 1.0}]",r_carac,31.0
+levure,sucre,acl,NOUN,0.6511401534080505,[],,
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+gâteau,nature,nmod,NOUN,0.6269380450248718,[],,
+nature,oeuf,nmod,NOUN,0.5514223575592041,[],,
+gâteau,pâte,amod,NOUN,0.6750689744949341,"[{""id"": 390332, ""node1"": 2149, ""node2"": 34069, ""type"": 0, ""w"": 59.0}, {""id"": 10532130, ""node1"": 2149, ""node2"": 34069, ""type"": 9, ""w"": 29.0}, {""id"": 97978610, ""node1"": 2149, ""node2"": 34069, ""type"": 42, ""w"": 34.0}, {""id"": 1821769, ""node1"": 2149, ""node2"": 34069, ""type"": 666, ""w"": 1.0}]",r_associated,59.0
+gâteau,amande,nmod,NOUN,0.6209388971328735,"[{""id"": 99088803, ""node1"": 2149, ""node2"": 28557, ""type"": 0, ""w"": 26.0}, {""id"": 99071063, ""node1"": 2149, ""node2"": 28557, ""type"": 9, ""w"": 38.0}, {""id"": 4972099, ""node1"": 2149, ""node2"": 28557, ""type"": 28, ""w"": -5.0}, {""id"": 376056674, ""node1"": 2149, ""node2"": 28557, ""type"": 50, ""w"": 29.0}]",r_has_part,38.0
+amande,confiture,amod,NOUN,0.5916533470153809,[],,
+confiture,fruit,nmod,NOUN,0.5557554960250854,"[{""id"": 226011, ""node1"": 70793, ""node2"": 87286, ""type"": 0, ""w"": 266.0}, {""id"": 1525774, ""node1"": 70793, ""node2"": 87286, ""type"": 666, ""w"": 6.0}]",r_associated,266.0
+fruit,sirop,nmod,NOUN,0.6000692248344421,"[{""id"": 796701800, ""node1"": 87286, ""node2"": 91109, ""type"": 0, ""w"": 26.0}, {""id"": 9985699, ""node1"": 87286, ""node2"": 91109, ""type"": 10, ""w"": 4.0}]",r_associated,26.0
+fruit,couteau,appos,NOUN,0.5580039024353027,[],,
+couteau,pinceau,appos,NOUN,0.4793228805065155,"[{""id"": 914434066, ""node1"": 32610, ""node2"": 79400, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+pinceau,saladier,nmod,NOUN,0.5370374321937561,[],,
+saladier,tamis,nmod,NOUN,0.5371009111404419,[],,
+pinceau,balance,nmod,NOUN,0.4696744382381439,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+fruit,étape,nmod,NOUN,0.4727157354354858,[],,
+amande,vider,acl,VERB,0.5538412928581238,[],,
+vider,pot,obj,NOUN,0.5117670893669128,"[{""id"": 2424456, ""node1"": 68460, ""node2"": 142367, ""type"": 0, ""w"": 54.0}, {""id"": 376066582, ""node1"": 68460, ""node2"": 142367, ""type"": 31, ""w"": 26.0}]",r_associated,54.0
+pot,yaourt,nmod,NOUN,0.5379484295845032,"[{""id"": 238073, ""node1"": 142367, ""node2"": 82320, ""type"": 0, ""w"": 63.0}, {""id"": 308206346, ""node1"": 142367, ""node2"": 82320, ""type"": 28, ""w"": 2.0}, {""id"": 720818525, ""node1"": 142367, ""node2"": 82320, ""type"": 174, ""w"": 25.0}]",r_associated,63.0
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ajouter,oeuf,obj,NOUN,0.5327831506729126,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ajouter,farine,obj,NOUN,0.6640971302986145,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ajouter,huile,obj,NOUN,0.5838896036148071,[],,
+moule,papier,nmod,NOUN,0.5388137698173523,[],,
+hauteur,gâteau,nmod,NOUN,0.5818118453025818,[],,
+devoir,pointe,nsubj,NOUN,0.4053996503353119,[],,
+pointe,couteau,nmod,NOUN,0.4962367117404938,"[{""id"": 8856589, ""node1"": 141611, ""node2"": 32610, ""type"": 0, ""w"": 16.0}, {""id"": 251482, ""node1"": 141611, ""node2"": 32610, ""type"": 10, ""w"": 53.0}]",r_holo,53.0
+fois,gâteau,nmod,NOUN,0.5464162826538086,[],,
+gâteau,refroidir,acl,VERB,0.6427270770072937,"[{""id"": 99071073, ""node1"": 2149, ""node2"": 126973, ""type"": 24, ""w"": 40.0}]",r_agent-1,40.0
+tailler,donner,advcl,VERB,0.4086596965789795,[],,
+donner,forme,obj,NOUN,0.4219751060009002,[],,
+forme,souhaiter,amod,ADJ,0.4079372882843017,[],,
+chauffer,confiture,obj,NOUN,0.693437397480011,[],,
+mélanger,reste,advcl,VERB,0.5285565853118896,[],,
+reste,refroidir,advcl,VERB,0.5242387652397156,[],,
+chauffer,aide,obj,NOUN,0.4763544797897339,[],,
+pinceau,alimentaire,amod,ADJ,0.4899396300315857,[],,
+aide,recouvrir,acl,VERB,0.4153084754943847,[],,
+recouvrir,surface,obj,NOUN,0.4653688073158264,[],,
+surface,gâteau,nmod,NOUN,0.6155325770378113,[],,
+gâteau,mélange,nmod,NOUN,0.6550625562667847,[],,
+recouvrir,confiture,obj,NOUN,0.6256978511810303,[],,
+couper,pâte,obj,NOUN,0.6448031663894653,[],,
+pâte,amande,nmod,NOUN,0.6341812610626221,"[{""id"": 796691772, ""node1"": 34069, ""node2"": 28557, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+party,petit,amod,ADJ,0.4627091586589813,[],,
+amande,party,nmod,NOUN,0.512207567691803,[],,
+réaliser,boudin,obj,NOUN,0.5787904858589172,[],,
+boudin,épaisseur,nmod,NOUN,0.5494466423988342,[],,
+tout,préparation,nmod,NOUN,0.5226712822914124,[],,
+préparation,confiture,nmod,NOUN,0.6423472762107849,[],,

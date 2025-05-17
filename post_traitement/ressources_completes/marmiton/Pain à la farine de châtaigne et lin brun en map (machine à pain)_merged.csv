@@ -1,0 +1,24 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,pain,nmod,NOUN,0.6112104654312134,[],,
+pain,farine,nmod,NOUN,0.7084017992019653,"[{""id"": 66458, ""node1"": 61283, ""node2"": 127629, ""type"": 0, ""w"": 744.0}, {""id"": 2350628, ""node1"": 61283, ""node2"": 127629, ""type"": 9, ""w"": 6.0}, {""id"": 238495, ""node1"": 61283, ""node2"": 127629, ""type"": 28, ""w"": 168.0}, {""id"": 25778956, ""node1"": 61283, ""node2"": 127629, ""type"": 50, ""w"": 82.0}, {""id"": 274329408, ""node1"": 61283, ""node2"": 127629, ""type"": 129, ""w"": 80.0}, {""id"": 1793535, ""node1"": 61283, ""node2"": 127629, ""type"": 666, ""w"": 9.0}]",r_associated,744.0
+farine,châtaigne,nmod,NOUN,0.6653285622596741,"[{""id"": 3065659, ""node1"": 127629, ""node2"": 120225, ""type"": 0, ""w"": 51.0}]",r_associated,51.0
+machine,pain,nmod,NOUN,0.6531229019165039,[],,
+machine,ingrédient,nmod,NOUN,0.6308227777481079,[],,
+machine,sel,appos,NOUN,0.6941953301429749,[],,
+sel,miel,amod,ADJ,0.6926586031913757,[],,
+miel,farine,nmod,NOUN,0.6815508008003235,[],,
+sel,levure,nmod,NOUN,0.6924784183502197,[],,
+levure,boulanger,nmod,NOUN,0.5430918335914612,"[{""id"": 1769594, ""node1"": 53450, ""node2"": 145285, ""type"": 0, ""w"": 90.0}, {""id"": 376186762, ""node1"": 53450, ""node2"": 145285, ""type"": 25, ""w"": 26.0}]",r_associated,90.0
+boulanger,eau,appos,NOUN,0.5853683948516846,"[{""id"": 180860, ""node1"": 145285, ""node2"": 65012, ""type"": 16, ""w"": 80.0}]",r_instr,80.0
+eau,graine,nmod,NOUN,0.5944392681121826,"[{""id"": 1030663598, ""node1"": 65012, ""node2"": 14469, ""type"": 0, ""w"": 20.0}, {""id"": 480295435, ""node1"": 65012, ""node2"": 14469, ""type"": 777, ""w"": 10.0}]",r_associated,20.0
+eau,farine,nmod,NOUN,0.6416931748390198,"[{""id"": 480295457, ""node1"": 65012, ""node2"": 127629, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+eau,châtaigne,nmod,NOUN,0.5896368026733398,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+balance,mettre,acl,VERB,0.4504947364330292,[],,
+mettre,ingrédient,obj,NOUN,0.5923328399658203,[],,
+programme,pain,nmod,NOUN,0.6412081122398376,[],,
+pain,complet,amod,ADJ,0.6268042922019958,"[{""id"": 396662, ""node1"": 61283, ""node2"": 42645, ""type"": 0, ""w"": 60.0}, {""id"": 376767, ""node1"": 61283, ""node2"": 42645, ""type"": 17, ""w"": 80.0}]",r_carac,80.0
+minute,four,nmod,NOUN,0.6574273109436035,[],,
+four,position,nmod,NOUN,0.6451268792152405,[],,

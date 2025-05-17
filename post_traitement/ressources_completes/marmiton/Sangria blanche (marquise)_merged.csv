@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+ingrédient,orange,nmod,NOUN,0.5918294787406921,"[{""id"": 569052735, ""node1"": 123418, ""node2"": 145382, ""type"": 8, ""w"": 39.0}, {""id"": 3191912, ""node1"": 123418, ""node2"": 145382, ""type"": 106, ""w"": 1.0}]",r_hypo,39.0
+orange,sucre,nmod,NOUN,0.6487499475479126,[],,
+sucre,canne,nmod,NOUN,0.6069387793540955,"[{""id"": 107598, ""node1"": 139481, ""node2"": 144267, ""type"": 0, ""w"": 241.0}, {""id"": 160436, ""node1"": 139481, ""node2"": 144267, ""type"": 15, ""w"": 78.0}, {""id"": 1763995, ""node1"": 139481, ""node2"": 144267, ""type"": 666, ""w"": 1.0}]",r_associated,241.0
+sucre,vin,nmod,NOUN,0.681702196598053,[],,
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+blanc,pêche,obj,NOUN,0.5333621501922607,[],,
+pêche,cannelle,amod,ADJ,0.5856874585151672,[],,
+casserole,saladier,nmod,NOUN,0.6254573464393616,[],,
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,frigo,nmod,NOUN,0.5736064314842224,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+porter,litre,obj,NOUN,0.4794597625732422,[],,
+litre,vin,nmod,NOUN,0.5949437022209167,"[{""id"": 15759327, ""node1"": 57416, ""node2"": 35798, ""type"": 0, ""w"": 23.0}, {""id"": 53608835, ""node1"": 57416, ""node2"": 35798, ""type"": 5, ""w"": 64.0}, {""id"": 4788012, ""node1"": 57416, ""node2"": 35798, ""type"": 777, ""w"": 10.0}]",r_syn,64.0
+litre,moitié,nmod,NOUN,0.4764396250247955,[],,
+moitié,sucre,nmod,NOUN,0.6619113087654114,[],,
+gousse,vanille,nmod,NOUN,0.5133623480796814,"[{""id"": 723347912, ""node1"": 3889, ""node2"": 140463, ""type"": 0, ""w"": 27.0}, {""id"": 671656975, ""node1"": 3889, ""node2"": 140463, ""type"": 58, ""w"": 25.0}, {""id"": 714921745, ""node1"": 3889, ""node2"": 140463, ""type"": 666, ""w"": 3.0}]",r_associated,27.0
+saladier,mélanger,acl,VERB,0.5846896171569824,"[{""id"": 17857328, ""node1"": 45455, ""node2"": 37151, ""type"": 0, ""w"": 2.0}, {""id"": 72596974, ""node1"": 45455, ""node2"": 37151, ""type"": 24, ""w"": -25.0}, {""id"": 380394138, ""node1"": 45455, ""node2"": 37151, ""type"": 30, ""w"": 26.0}]",r_lieu_action,26.0
+mélanger,reste,obj,NOUN,0.5285565853118896,[],,
+reste,vin,nmod,NOUN,0.6144329309463501,[],,
+fruit,découper,acl,VERB,0.53910231590271,"[{""id"": 1045718974, ""node1"": 87286, ""node2"": 45686, ""type"": 24, ""w"": 79.0}, {""id"": 10744511, ""node1"": 87286, ""node2"": 45686, ""type"": 25, ""w"": 51.0}]",r_agent-1,79.0
+reposer,heure,obj,NOUN,0.4106099009513855,[],,
+froid,vin,nsubj,NOUN,0.6241199970245361,"[{""id"": 96925225, ""node1"": 49803, ""node2"": 35798, ""type"": 23, ""w"": 15.0}]",r_carac-1,15.0
+vin,cuit,amod,ADJ,0.7269900441169739,"[{""id"": 8997816, ""node1"": 35798, ""node2"": 28105, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+mélanger,préparation,obj,NOUN,0.5913197994232178,"[{""id"": 610299416, ""node1"": 37151, ""node2"": 33634, ""type"": 0, ""w"": 41.0}]",r_associated,41.0
+moment,servir,acl,VERB,0.4804177582263946,[],,

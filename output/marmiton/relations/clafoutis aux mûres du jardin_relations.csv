@@ -1,0 +1,29 @@
+node1,node2,relations
+mûr,jardin,[]
+jardin,ingrédient,[]
+extraire,miel,[]
+miel,liquide,"[{""id"": 62362311, ""node1"": 136055, ""node2"": 140315, ""type"": 0, ""w"": 97.0}, {""id"": 2045771, ""node1"": 136055, ""node2"": 140315, ""type"": 17, ""w"": 35.0}, {""id"": 1939698, ""node1"": 136055, ""node2"": 140315, ""type"": 666, ""w"": 6.0}]"
+miel,sucre,"[{""id"": 273615, ""node1"": 136055, ""node2"": 139481, ""type"": 0, ""w"": 135.0}, {""id"": 1046576041, ""node1"": 136055, ""node2"": 139481, ""type"": 8, ""w"": 20.0}, {""id"": 473701581, ""node1"": 136055, ""node2"": 139481, ""type"": 50, ""w"": 26.0}, {""id"": 1885993, ""node1"": 136055, ""node2"": 139481, ""type"": 666, ""w"": 4.0}]"
+sucre,farine,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]"
+sucre,oeuf,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]"
+oeuf,lait,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]"
+lait,amande,[]
+amande,poudre,[]
+poudre,amande,[]
+lait,saladier,[]
+saladier,cuillère,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 32.0}]"
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,four,[]
+four,balance,[]
+balance,cuisine,[]
+balance,étape,[]
+étaler,mûre,[]
+titre,saladier,[]
+saladier,mélanger,"[{""id"": 17857328, ""node1"": 45455, ""node2"": 37151, ""type"": 0, ""w"": 2.0}, {""id"": 72596974, ""node1"": 45455, ""node2"": 37151, ""type"": 24, ""w"": -25.0}, {""id"": 380394138, ""node1"": 45455, ""node2"": 37151, ""type"": 30, ""w"": 26.0}]"
+mélanger,farine,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]"
+mélanger,sucre,[]
+poudre,obtention,[]
+obtention,pâte,[]
+pâte,homogène,"[{""id"": 796702467, ""node1"": 34069, ""node2"": 124759, ""type"": 0, ""w"": 28.0}, {""id"": 372565004, ""node1"": 34069, ""node2"": 124759, ""type"": 17, ""w"": 26.0}]"
+titre,verser,[]
+verser,mélange,[]

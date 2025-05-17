@@ -1,0 +1,45 @@
+head,lemma,dep,pos,sim,relations
+titre,gâteau,nmod,NOUN,0.546883761882782,[]
+gâteau,yaourt,nmod,NOUN,0.6120531558990479,[]
+dessert,gâteau,nsubj,NOUN,0.6211395263671875,"[{""id"": 126688, ""node1"": 38557, ""node2"": 2149, ""type"": 0, ""w"": 486.0}, {""id"": 100327, ""node1"": 38557, ""node2"": 2149, ""type"": 8, ""w"": 85.0}, {""id"": 14657800, ""node1"": 38557, ""node2"": 2149, ""type"": 41, ""w"": 35.0}, {""id"": 14675566, ""node1"": 38557, ""node2"": 2149, ""type"": 42, ""w"": 28.0}, {""id"": 1764662, ""node1"": 38557, ""node2"": 2149, ""type"": 666, ""w"": 6.0}]"
+base,dont,nmod,PRON,0.4795981049537658,[]
+yaourt,base,nsubj,NOUN,0.6123276352882385,[]
+yaourt,nature,amod,ADJ,0.5514003038406372,"[{""id"": 10638425, ""node1"": 82320, ""node2"": 143607, ""type"": 0, ""w"": 92.0}, {""id"": 1691067, ""node1"": 82320, ""node2"": 143607, ""type"": 17, ""w"": 97.0}, {""id"": 1065206415, ""node1"": 82320, ""node2"": 143607, ""type"": 666, ""w"": 2.0}]"
+servir,pot,nsubj,NOUN,0.5485261678695679,[]
+pot,yaourt,nmod,NOUN,0.535942792892456,"[{""id"": 238073, ""node1"": 142367, ""node2"": 82320, ""type"": 0, ""w"": 63.0}, {""id"": 308206346, ""node1"": 142367, ""node2"": 82320, ""type"": 28, ""w"": 2.0}, {""id"": 720818525, ""node1"": 142367, ""node2"": 82320, ""type"": 174, ""w"": 25.0}]"
+yaourt,utiliser,acl,VERB,0.5693710446357727,[]
+apparaître,servir,advcl,VERB,0.4689063429832458,[]
+ingrédient,autre,amod,ADJ,0.5639666318893433,[]
+recette,premier,amod,ADJ,0.617908239364624,[]
+rendre,recette,obj,NOUN,0.5880109667778015,[]
+recette,gâteau,nmod,NOUN,0.6844109296798706,"[{""id"": 366354, ""node1"": 120188, ""node2"": 2149, ""type"": 0, ""w"": 52.0}]"
+généralisation,consommation,nmod,NOUN,0.4447574615478515,[]
+consommation,yaourt,nmod,NOUN,0.5778675675392151,[]
+généralisation,fin,nmod,NOUN,0.4185188412666321,"[{""id"": 297336418, ""node1"": 28588, ""node2"": 144718, ""type"": 8, ""w"": 42.0}]"
+fin,guerre,nmod,NOUN,0.4283709824085235,[]
+basique,ingrédient,nsubj,NOUN,0.5968940258026123,[]
+sucre,basique,amod,ADJ,0.6757604479789734,[]
+généralisation,sucre,appos,NOUN,0.6419683694839478,[]
+sucre,huile,amod,NOUN,0.6912736892700195,[]
+recette,autre,amod,ADJ,0.6219144463539124,[]
+sucre,recette,nmod,NOUN,0.753599226474762,"[{""id"": 589196997, ""node1"": 139481, ""node2"": 120188, ""type"": 0, ""w"": 42.0}, {""id"": 474006723, ""node1"": 139481, ""node2"": 120188, ""type"": 51, ""w"": 15.0}]"
+remplacer,huile,obj,NOUN,0.580142080783844,[]
+pouvoir,gâteau,nsubj,NOUN,0.5602577328681946,[]
+servir,ajouter,advcl,VERB,0.4853428602218628,[]
+ajouter,fruit,obj,NOUN,0.534120500087738,[]
+fruit,morceau,nmod,NOUN,0.5499975085258484,[]
+sucre,vanillé,amod,ADJ,0.6060760617256165,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]"
+ingrédient,différent,amod,ADJ,0.5678439140319824,[]
+ingrédient,saladier,nmod,NOUN,0.6481003761291504,[]
+yaourt,entier,amod,ADJ,0.5287060737609863,"[{""id"": 425009399, ""node1"": 82320, ""node2"": 49309, ""type"": 17, ""w"": 26.0}]"
+utiliser,pot,obj,NOUN,0.5082467198371887,[]
+quantifier,huile,obj,NOUN,0.5706775188446045,[]
+sucre,mesure,nmod,NOUN,0.641681969165802,[]
+sachet,levure,nmod,NOUN,0.5701833367347717,[]
+levure,chimique,amod,ADJ,0.5392369031906128,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]"
+sachet,sucre,nmod,NOUN,0.6483384370803833,"[{""id"": 720818405, ""node1"": 112386, ""node2"": 139481, ""type"": 174, ""w"": 25.0}, {""id"": 723812101, ""node1"": 112386, ""node2"": 139481, ""type"": 666, ""w"": 2.0}]"
+jus,citron,nmod,NOUN,0.5810989141464233,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]"
+verser,mélange,obj,NOUN,0.5485506653785706,[]
+four,degré,nmod,NOUN,0.6222909688949585,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,nmod,NOUN,0.4229496419429779,[]
+projet,autre,amod,ADJ,0.4316383004188537,[]

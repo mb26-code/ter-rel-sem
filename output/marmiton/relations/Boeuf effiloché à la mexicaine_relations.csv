@@ -1,0 +1,51 @@
+node1,node2,relations
+titre,boeuf,[]
+boeuf,mexicain,[]
+titre,ingrédient,[]
+poivre,bouillon,[]
+bouillon,boeuf,[]
+boeuf,purée,[]
+boeuf,oignon,[]
+oignon,boeuf,[]
+boeuf,huile,"[{""id"": 941866985, ""node1"": 47417, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]"
+boeuf,citron,[]
+ingrédient,eau,"[{""id"": 245157298, ""node1"": 123418, ""node2"": 65012, ""type"": 8, ""w"": 36.0}]"
+eau,poivre,[]
+poivre,sel,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]"
+ingrédient,coriandre,[]
+coriandre,piment,"[{""id"": 922162957, ""node1"": 61977, ""node2"": 128791, ""type"": 0, ""w"": 20.0}]"
+casserole,couvercle,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]"
+couvercle,bol,[]
+bol,saladier,"[{""id"": 796872211, ""node1"": 145405, ""node2"": 45455, ""type"": 0, ""w"": 28.0}, {""id"": 1029292999, ""node1"": 145405, ""node2"": 45455, ""type"": 67, ""w"": 34.0}]"
+bol,set,[]
+bol,poêle,[]
+épice,tout,[]
+ajouter,épice,[]
+diluer,bouillon,[]
+bouillon,bœuf,[]
+feu,vif,"[{""id"": 418102926, ""node1"": 143703, ""node2"": 80204, ""type"": 0, ""w"": 13.0}, {""id"": 221184, ""node1"": 143703, ""node2"": 80204, ""type"": 17, ""w"": 52.0}]"
+ajouter,bœuf,[]
+bœuf,épicé,[]
+baisser,feu,[]
+feu,feu,"[{""id"": 302588, ""node1"": 143703, ""node2"": 143703, ""type"": 19, ""w"": 59.0}]"
+feu,moyen,[]
+ajouter,ail,[]
+verser,jus,"[{""id"": 560983474, ""node1"": 104506, ""node2"": 53310, ""type"": 0, ""w"": 34.0}]"
+jus,citron,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]"
+citron,vert,"[{""id"": 1559582, ""node1"": 15386, ""node2"": 26976, ""type"": 0, ""w"": 61.0}, {""id"": 1773945, ""node1"": 15386, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3160941, ""node1"": 15386, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]"
+verser,tomate,[]
+bœuf,diluer,[]
+heure,feu,[]
+feu,doux,[]
+couvrir,retourner,[]
+retourner,bœuf,[]
+bœuf,temps,[]
+retirer,couvercle,[]
+poursuivre,cuisson,[]
+retirer,viande,[]
+viande,sauce,"[{""id"": 477334468, ""node1"": 140100, ""node2"": 141110, ""type"": 75, ""w"": 41.0}]"
+aide,fourchette,[]
+replacer,viande,[]
+poivre,goût,"[{""id"": 584573796, ""node1"": 139597, ""node2"": 119233, ""type"": 0, ""w"": 16.0}]"
+déguster,quel,[]
+garniture,inspiration,[]

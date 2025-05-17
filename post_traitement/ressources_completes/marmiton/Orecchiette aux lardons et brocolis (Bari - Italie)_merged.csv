@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+ingrédient,casserole,appos,NOUN,0.7348343133926392,[],,
+casserole,top,nmod,NOUN,0.4402943253517151,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+four,set,nmod,NOUN,0.553033173084259,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+set,cuillère,nmod,NOUN,0.4149639010429382,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+top,assiette,nmod,NOUN,0.4259602129459381,[],,
+assiette,étape,nmod,NOUN,0.483820229768753,[],,
+ingrédient,porter,acl,VERB,0.567588746547699,[],,
+volume,grand,amod,ADJ,0.4097053706645965,"[{""id"": 2183077, ""node1"": 130885, ""node2"": 23178, ""type"": 0, ""w"": 61.0}]",r_associated,61.0
+ébullition,volume,nmod,NOUN,0.4539916813373565,[],,
+volume,eau,nmod,NOUN,0.5477495789527893,"[{""id"": 30986586, ""node1"": 130885, ""node2"": 65012, ""type"": 0, ""w"": 35.0}, {""id"": 30984090, ""node1"": 130885, ""node2"": 65012, ""type"": 3, ""w"": 30.0}]",r_associated,35.0
+volume,litre,nmod,NOUN,0.4375644326210022,"[{""id"": 1865779, ""node1"": 130885, ""node2"": 57416, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+litre,gramme,nmod,NOUN,0.420352965593338,[],,
+gramme,pâte,nmod,NOUN,0.6295323371887207,[],,
+cuire,temps,obj,NOUN,0.698011040687561,"[{""id"": 1011357542, ""node1"": 5115, ""node2"": 13861, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+cuisson,pâte,nmod,NOUN,0.7189537286758423,"[{""id"": 915053269, ""node1"": 60056, ""node2"": 34069, ""type"": 0, ""w"": 20.0}, {""id"": 376106703, ""node1"": 60056, ""node2"": 34069, ""type"": 109, ""w"": 29.0}]",r_has_predecesseur-time,29.0
+plonger,ajouter,advcl,VERB,0.4466482698917389,[],,
+matière,gras,amod,ADJ,0.5428515672683716,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+égoutter,cuire,advcl,VERB,0.6595414876937866,[],,
+pâte,dent,amod,ADJ,0.6100888848304749,[],,
+mélanger,tout,obj,NOUN,0.528428852558136,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]",r_patient,110.0
+servir,saupoudrer,advcl,VERB,0.5305911898612976,[],,
+saupoudrer,assiette,obj,NOUN,0.652882993221283,[],,
+assiette,poignée,nmod,NOUN,0.5894976854324341,[],,
+poignée,parmesan,nmod,NOUN,0.6079062223434448,[],,

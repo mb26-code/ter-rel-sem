@@ -1,0 +1,26 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,salade,appos,NOUN,0.5926524996757507,[],,
+salade,fruit,nmod,NOUN,0.619463324546814,"[{""id"": 129520, ""node1"": 118908, ""node2"": 87286, ""type"": 0, ""w"": 95.0}, {""id"": 97758196, ""node1"": 118908, ""node2"": 87286, ""type"": 9, ""w"": 37.0}, {""id"": 408602, ""node1"": 118908, ""node2"": 87286, ""type"": 28, ""w"": 98.0}]",r_lieu-1,98.0
+fruit,exotique,amod,ADJ,0.5086069703102112,[],,
+fruit,dragon,nmod,NOUN,0.4709364473819732,[],,
+salade,mangue,nmod,NOUN,0.6457743048667908,[],,
+ingrédient,fraise,appos,NOUN,0.6214956045150757,[],,
+fraise,fruit,nmod,NOUN,0.5243480801582336,"[{""id"": 139293, ""node1"": 16242, ""node2"": 87286, ""type"": 0, ""w"": 486.0}, {""id"": 469168, ""node1"": 16242, ""node2"": 87286, ""type"": 3, ""w"": 32.0}, {""id"": 116476, ""node1"": 16242, ""node2"": 87286, ""type"": 6, ""w"": 472.0}, {""id"": 265163, ""node1"": 16242, ""node2"": 87286, ""type"": 8, ""w"": -55.0}, {""id"": 96737450, ""node1"": 16242, ""node2"": 87286, ""type"": 14, ""w"": -30.0}, {""id"": 145660, ""node1"": 16242, ""node2"": 87286, ""type"": 17, ""w"": -87.0}, {""id"": 11941349, ""node1"": 16242, ""node2"": 87286, ""type"": 35, ""w"": 145.0}, {""id"": 1662774, ""node1"": 16242, ""node2"": 87286, ""type"": 666, ""w"": 6.0}]",r_isa,472.0
+fraise,mangue,nmod,NOUN,0.5556765198707581,[],,
+mangue,ananas,nmod,ADV,0.5415670275688171,"[{""id"": 1046576055, ""node1"": 54862, ""node2"": 115827, ""type"": 8, ""w"": 20.0}]",r_hypo,20.0
+mangue,kiwi,nmod,NOUN,0.481765478849411,"[{""id"": 235758574, ""node1"": 54862, ""node2"": 31864, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+ingrédient,tamis,nmod,NOUN,0.5500231981277466,[],,
+ingrédient,étape,nmod,NOUN,0.4697338342666626,[],,
+couper,ananas,obj,NOUN,0.5440250635147095,"[{""id"": 32053065, ""node1"": 128828, ""node2"": 115827, ""type"": 14, ""w"": 57.0}]",r_patient,57.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+ananas,morceau,nmod,NOUN,0.5826804637908936,[],,
+mangue,cube,nmod,NOUN,0.5805458426475525,[],,
+kiwi,cube,nmod,NOUN,0.4981116056442261,[],,
+mixer,moitié,obj,NOUN,0.5571369528770447,[],,
+moitié,mangue,nmod,NOUN,0.5773180723190308,[],,
+moitié,ananas,nmod,NOUN,0.5539582967758179,[],,
+mixer,obtenir,advcl,VERB,0.4837474822998047,[],,
+obtenir,coulis,obj,NOUN,0.5450688004493713,[],,
+tamis,besoin,nmod,NOUN,0.4773062467575073,[],,
+fruit,tout,amod,ADJ,0.5248923301696777,[],,
+mélanger,fruit,obj,NOUN,0.5633441805839539,"[{""id"": 1047029595, ""node1"": 37151, ""node2"": 87286, ""type"": 13, ""w"": 30.0}, {""id"": 376193989, ""node1"": 37151, ""node2"": 87286, ""type"": 16, ""w"": 26.0}]",r_agent,30.0

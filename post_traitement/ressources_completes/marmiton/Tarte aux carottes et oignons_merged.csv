@@ -1,0 +1,21 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+tarte,carotte,nmod,NOUN,0.6514837145805359,[],,
+carotte,ingrédient,nmod,NOUN,0.6786724925041199,[],,
+poivre,sel,appos,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+carotte,crème,nmod,NOUN,0.6351861953735352,[],,
+crème,oignon,nmod,NOUN,0.682665228843689,[],,
+oignon,carotte,acl,NOUN,0.6226851344108582,[],,
+carotte,briser,acl,VERB,0.5510978698730469,[],,
+moule,tarte,nmod,NOUN,0.598731517791748,"[{""id"": 201624, ""node1"": 143723, ""node2"": 575, ""type"": 0, ""w"": 130.0}]",r_associated,130.0
+carotte,casserole,nmod,NOUN,0.6783412098884583,[],,
+casserole,couteau,nmod,NOUN,0.6493775248527527,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 307.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 267.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,307.0
+fouet,cuillère,nmod,NOUN,0.5491861701011658,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,four,nmod,NOUN,0.7153509855270386,[],,
+four,saladier,nmod,NOUN,0.6991847157478333,[],,
+battre,crème,obj,NOUN,0.5909678936004639,"[{""id"": 368213575, ""node1"": 119162, ""node2"": 44001, ""type"": 0, ""w"": 32.0}, {""id"": 368213574, ""node1"": 119162, ""node2"": 44001, ""type"": 14, ""w"": 100.0}, {""id"": 14654430, ""node1"": 119162, ""node2"": 44001, ""type"": 41, ""w"": 27.0}]",r_patient,100.0
+rajouter,œuf,obj,NOUN,0.5338131785392761,[],,
+verser,oignon,obj,NOUN,0.6221634149551392,[],,
+oignon,cuire,acl,VERB,0.7573981881141663,"[{""id"": 8526807, ""node1"": 123307, ""node2"": 5115, ""type"": 26, ""w"": 35.0}]",r_patient-1,35.0
+mélange,carotte,amod,NOUN,0.6689735651016235,[],,

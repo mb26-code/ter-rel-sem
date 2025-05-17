@@ -1,0 +1,81 @@
+node1,node2,relations
+titre,fondue,[]
+fondue,chinois,[]
+fondue,vrai,[]
+fondue,ingrédient,[]
+fondue,poivre,[]
+fondue,clou,[]
+clou,girofle,"[{""id"": 9902807, ""node1"": 11651, ""node2"": 43873, ""type"": 0, ""w"": 55.0}, {""id"": 413873, ""node1"": 11651, ""node2"": 43873, ""type"": 8, ""w"": 111.0}]"
+clou,eau,[]
+eau,anis,[]
+jus,moutarde,[]
+jus,citron,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]"
+fondue,sucre,[]
+sucre,citron,"[{""id"": 292123774, ""node1"": 139481, ""node2"": 15386, ""type"": 777, ""w"": 10.0}]"
+eau,ail,[]
+eau,gingembre,[]
+gingembre,vinaigre,"[{""id"": 3573431, ""node1"": 77020, ""node2"": 145443, ""type"": 777, ""w"": 10.0}]"
+vinaigre,vinaigre,"[{""id"": 341194, ""node1"": 145443, ""node2"": 145443, ""type"": 19, ""w"": 54.0}, {""id"": 93913784, ""node1"": 145443, ""node2"": 145443, ""type"": 50, ""w"": 32.0}, {""id"": 376038282, ""node1"": 145443, ""node2"": 145443, ""type"": 51, ""w"": 26.0}]"
+poulet,boeuf,[]
+boeuf,crevette,[]
+boeuf,noix,"[{""id"": 13099337, ""node1"": 47417, ""node2"": 30910, ""type"": 28, ""w"": 29.0}]"
+boeuf,thon,[]
+citron,eau,[]
+eau,chinois,[]
+chinois,appareil,[]
+appareil,fondre,[]
+eau,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,top,[]
+plaque,meilleur,[]
+top,plaque,[]
+plaque,four,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]"
+top,casserole,[]
+casserole,set,[]
+set,poêle,[]
+balance,cuisine,[]
+citron,étape,[]
+préparer,viande,"[{""id"": 369574992, ""node1"": 36246, ""node2"": 140100, ""type"": 0, ""w"": 31.0}, {""id"": 122111141, ""node1"": 36246, ""node2"": 140100, ""type"": 14, ""w"": 100.0}]"
+préparer,détaillant,[]
+excédant,gras,[]
+déchet,tout,[]
+réserver,déchet,[]
+déchet,bouillon,[]
+réserver,préparer,"[{""id"": 54314806, ""node1"": 7006, ""node2"": 36246, ""type"": 0, ""w"": 24.0}, {""id"": 53730216, ""node1"": 7006, ""node2"": 36246, ""type"": 5, ""w"": 108.0}]"
+déchet,fois,[]
+préparation,bouillon,"[{""id"": 601611737, ""node1"": 33634, ""node2"": 146582, ""type"": 0, ""w"": 23.0}]"
+casserole,grand,[]
+volume,grand,"[{""id"": 2183077, ""node1"": 130885, ""node2"": 23178, ""type"": 0, ""w"": 61.0}]"
+porter,volume,[]
+volume,eau,"[{""id"": 30986586, ""node1"": 130885, ""node2"": 65012, ""type"": 0, ""w"": 35.0}, {""id"": 30984090, ""node1"": 130885, ""node2"": 65012, ""type"": 3, ""w"": 30.0}]"
+eau,ébullition,"[{""id"": 1030680817, ""node1"": 65012, ""node2"": 83252, ""type"": 0, ""w"": 22.0}, {""id"": 3253715, ""node1"": 65012, ""node2"": 83252, ""type"": 777, ""w"": 7.0}]"
+ingrédient,tout,[]
+volume,ingrédient,[]
+déchet,viande,[]
+laisser,mijoter,[]
+laisser,fin,[]
+fin,cuisson,[]
+filtrer,préparation,[]
+préparation,sauce,"[{""id"": 9903071, ""node1"": 33634, ""node2"": 141110, ""type"": 0, ""w"": 54.0}, {""id"": 422811, ""node1"": 33634, ""node2"": 141110, ""type"": 8, ""w"": 63.0}]"
+rectifier,assaisonnement,"[{""id"": 15080476, ""node1"": 36001, ""node2"": 15763, ""type"": 14, ""w"": 30.0}]"
+assaisonnement,besoin,[]
+poêle,chaud,"[{""id"": 278998504, ""node1"": 119686, ""node2"": 19150, ""type"": 0, ""w"": 26.0}, {""id"": 3078839, ""node1"": 119686, ""node2"": 19150, ""type"": 17, ""w"": 27.0}]"
+griller,ajouter,[]
+matière,gras,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]"
+eau,nécessaire,[]
+mélanger,ingrédient,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]"
+ingrédient,dissolution,[]
+dissolution,morceau,[]
+morceau,sucre,"[{""id"": 1675143, ""node1"": 65364, ""node2"": 139481, ""type"": 0, ""w"": 62.0}, {""id"": 349614082, ""node1"": 65364, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 720817978, ""node1"": 65364, ""node2"": 139481, ""type"": 174, ""w"": 25.0}]"
+préparation,gingembre,[]
+mélanger,vinaigre,"[{""id"": 15085301, ""node1"": 37151, ""node2"": 145443, ""type"": 14, ""w"": 30.0}]"
+maintenir,bouillon,[]
+bouillon,chaud,"[{""id"": 152253, ""node1"": 146582, ""node2"": 19150, ""type"": 0, ""w"": 71.0}, {""id"": 8793877, ""node1"": 146582, ""node2"": 19150, ""type"": 17, ""w"": 45.0}]"
+repas,tout,[]
+maintenir,tremper,[]
+tremper,morceau,[]
+morceau,viande,"[{""id"": 179412, ""node1"": 65364, ""node2"": 140100, ""type"": 0, ""w"": 83.0}, {""id"": 1007988744, ""node1"": 65364, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]"
+morceau,dedans,[]
+dedans,aller,[]
+servir,accompagner,[]
+sauce,tout,[]

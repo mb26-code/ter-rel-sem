@@ -1,0 +1,50 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,risotto,appos,NOUN,0.5742913484573364,[],,
+risotto,fumé,amod,ADJ,0.594490647315979,[],,
+fumé,ingrédient,obj,NOUN,0.5650264620780945,[],,
+poivre,blanc,amod,ADJ,0.6191187500953674,"[{""id"": 3192371, ""node1"": 139597, ""node2"": 15196, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+blanc,curcuma,obj,NOUN,0.6119415163993835,"[{""id"": 403162240, ""node1"": 15196, ""node2"": 133098, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+curcuma,beurre,amod,NOUN,0.7161863446235657,[],,
+blanc,poireau,obj,NOUN,0.576774001121521,"[{""id"": 796740403, ""node1"": 15196, ""node2"": 130303, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+poireau,fumé,amod,ADJ,0.5607478022575378,[],,
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+blanc,bouillon,obj,NOUN,0.6178013682365417,[],,
+bouillon,volaille,nmod,NOUN,0.6946349143981934,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+bouillon,riz,amod,NOUN,0.688472330570221,"[{""id"": 558647551, ""node1"": 146582, ""node2"": 24372, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+set,poêle,obj,NOUN,0.5301709771156311,[],,
+casserole,cuillère,nmod,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,louche,appos,NOUN,0.5505713820457458,"[{""id"": 393785, ""node1"": 51905, ""node2"": 124144, ""type"": 0, ""w"": 89.0}, {""id"": 434932737, ""node1"": 51905, ""node2"": 124144, ""type"": 5, ""w"": 87.0}, {""id"": 1551586, ""node1"": 51905, ""node2"": 124144, ""type"": 8, ""w"": 77.0}, {""id"": 422916, ""node1"": 51905, ""node2"": 124144, ""type"": 20, ""w"": 111.0}, {""id"": 1029212527, ""node1"": 51905, ""node2"": 124144, ""type"": 67, ""w"": 38.0}, {""id"": 1032954976, ""node1"": 51905, ""node2"": 124144, ""type"": 78, ""w"": 27.0}]",r_has_magn,111.0
+louche,balance,nmod,NOUN,0.4827500581741333,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+balance,préparer,acl,VERB,0.5021607875823975,[],,
+préparer,bouillon,obj,NOUN,0.6509688496589661,[],,
+revenir,poireau,obj,NOUN,0.620061993598938,[],,
+poireau,laver,acl,VERB,0.5945600867271423,[],,
+gramme,beurre,nmod,NOUN,0.6074452996253967,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+commencer,poireau,nsubj,NOUN,0.6025148630142212,[],,
+utiliser,casserole,obj,NOUN,0.6322333812713623,"[{""id"": 98425070, ""node1"": 62611, ""node2"": 57253, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+wok,accroche,acl:relcl,VERB,0.6088889241218567,[],,
+ajouter,riz,obj,NOUN,0.6766205430030823,[],,
+devenir,grain,nsubj,NOUN,0.5401948690414429,[],,
+ajouter,vin,obj,NOUN,0.6198925375938416,[],,
+louche,bouillon,nmod,NOUN,0.6199405789375305,"[{""id"": 720819546, ""node1"": 124144, ""node2"": 146582, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+verser,reste,obj,NOUN,0.494085282087326,[],,
+reste,remuer,advcl,VERB,0.5307702422142029,[],,
+cuire,riz,nsubj,NOUN,0.7637909054756165,"[{""id"": 426022657, ""node1"": 5115, ""node2"": 24372, ""type"": 0, ""w"": 36.0}, {""id"": 31820394, ""node1"": 5115, ""node2"": 24372, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+ce,cuire,acl,VERB,0.456451803445816,[],,
+devoir,riz,nsubj,NOUN,0.6619561314582825,[],,
+cours,cuisson,nmod,NOUN,0.6082334518432617,[],,
+cuisson,nécessaire,amod,ADJ,0.7165746688842773,[],,
+nécessaire,bouillon,appos,NOUN,0.6424033045768738,[],,
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+rajouter,crème,obj,NOUN,0.6139695644378662,[],,
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+beurre,froid,amod,ADJ,0.6354353427886963,"[{""id"": 652232362, ""node1"": 140377, ""node2"": 49803, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+devoir,servir,advcl,VERB,0.4158041477203369,[],,
+rajouter,poivre,obj,NOUN,0.6557477712631226,"[{""id"": 457463168, ""node1"": 87561, ""node2"": 139597, ""type"": 0, ""w"": 34.0}, {""id"": 2204050, ""node1"": 87561, ""node2"": 139597, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+zeste,citron,nmod,NOUN,0.5487085580825806,"[{""id"": 615058522, ""node1"": 98173, ""node2"": 15386, ""type"": 0, ""w"": 22.0}, {""id"": 9991099, ""node1"": 98173, ""node2"": 15386, ""type"": 10, ""w"": 4.0}, {""id"": 377014851, ""node1"": 98173, ""node2"": 15386, ""type"": 20, ""w"": 34.0}, {""id"": 986046177, ""node1"": 98173, ""node2"": 15386, ""type"": 666, ""w"": 2.0}]",r_has_magn,34.0
+devoir,saumon,nsubj,NOUN,0.5741589069366455,[],,
+bon,risotto,nsubj,NOUN,0.564407467842102,"[{""id"": 14749722, ""node1"": 144229, ""node2"": 16039, ""type"": 23, ""w"": 35.0}]",r_carac-1,35.0

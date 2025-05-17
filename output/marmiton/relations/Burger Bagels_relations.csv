@@ -1,0 +1,77 @@
+node1,node2,relations
+Burger,sucre,[]
+sucre,sel,"[{""id"": 83941, ""node1"": 139481, ""node2"": 13260, ""type"": 0, ""w"": 401.0}, {""id"": 1046576271, ""node1"": 139481, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 1895756, ""node1"": 139481, ""node2"": 13260, ""type"": 20, ""w"": 51.0}, {""id"": 1376354, ""node1"": 139481, ""node2"": 13260, ""type"": 21, ""w"": 60.0}]"
+sel,levure,[]
+sucre,lait,[]
+lait,eau,"[{""id"": 423451320, ""node1"": 86296, ""node2"": 65012, ""type"": 0, ""w"": 57.0}, {""id"": 386065416, ""node1"": 86296, ""node2"": 65012, ""type"": 6, ""w"": -25.0}, {""id"": 123522, ""node1"": 86296, ""node2"": 65012, ""type"": 9, ""w"": 170.0}, {""id"": 1745868, ""node1"": 86296, ""node2"": 65012, ""type"": 50, ""w"": 32.0}, {""id"": 97056207, ""node1"": 86296, ""node2"": 65012, ""type"": 78, ""w"": 30.0}, {""id"": 3262481, ""node1"": 86296, ""node2"": 65012, ""type"": 777, ""w"": 5.0}]"
+eau,oeuf,"[{""id"": 386183819, ""node1"": 65012, ""node2"": 116175, ""type"": 28, ""w"": 27.0}, {""id"": 376049523, ""node1"": 65012, ""node2"": 116175, ""type"": 51, ""w"": 26.0}]"
+oeuf,tomate,[]
+titre,saladier,[]
+saladier,fouet,[]
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+fouet,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,couvercle,[]
+couvercle,four,[]
+titre,casserole,[]
+casserole,pinceau,[]
+plaque,meilleur,[]
+top,plaque,[]
+plaque,four,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]"
+four,couteau,[]
+couteau,planche,"[{""id"": 799042318, ""node1"": 32610, ""node2"": 120728, ""type"": 0, ""w"": 23.0}]"
+casserole,découper,[]
+découper,balance,[]
+balance,cuisine,[]
+table,induction,[]
+laisser,levure,[]
+eau,tiède,"[{""id"": 796965917, ""node1"": 65012, ""node2"": 13843, ""type"": 0, ""w"": 29.0}, {""id"": 128780, ""node1"": 65012, ""node2"": 13843, ""type"": 17, ""w"": 73.0}, {""id"": 600063832, ""node1"": 65012, ""node2"": 13843, ""type"": 27, ""w"": 32.0}]"
+saladier,grand,"[{""id"": 1077330492, ""node1"": 45455, ""node2"": 23178, ""type"": 0, ""w"": 50.0}, {""id"": 31838076, ""node1"": 45455, ""node2"": 23178, ""type"": 17, ""w"": 60.0}, {""id"": 1668931, ""node1"": 45455, ""node2"": 23178, ""type"": 666, ""w"": 2.0}]"
+saladier,mélanger,"[{""id"": 17857328, ""node1"": 45455, ""node2"": 37151, ""type"": 0, ""w"": 2.0}, {""id"": 72596974, ""node1"": 45455, ""node2"": 37151, ""type"": 24, ""w"": -25.0}, {""id"": 380394138, ""node1"": 45455, ""node2"": 37151, ""type"": 30, ""w"": 26.0}]"
+mélanger,farine,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]"
+mélanger,sel,[]
+incorporer,sucre,[]
+incorporer,levure,"[{""id"": 799241726, ""node1"": 3845, ""node2"": 53450, ""type"": 0, ""w"": 29.0}]"
+levure,dissoudre,[]
+séparer,blanc,[]
+blanc,jaune,"[{""id"": 246331, ""node1"": 15196, ""node2"": 86711, ""type"": 0, ""w"": 56.0}]"
+mettre,conserver,[]
+conserver,jaune,[]
+jaune,frais,[]
+battre,blanc,[]
+faire,boule,[]
+période,passer,[]
+replier,pâte,"[{""id"": 31834916, ""node1"": 42514, ""node2"": 34069, ""type"": 14, ""w"": 56.0}]"
+diamètre,même,[]
+faire,trou,[]
+trou,milieu,[]
+reposer,minute,[]
+four,210,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,[]
+casserole,eau,"[{""id"": 96542705, ""node1"": 57253, ""node2"": 65012, ""type"": 0, ""w"": 19.0}, {""id"": 22760525, ""node1"": 57253, ""node2"": 65012, ""type"": 28, ""w"": 34.0}, {""id"": 96542704, ""node1"": 57253, ""node2"": 65012, ""type"": 666, ""w"": 1.0}]"
+jaune,oeuf,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]"
+oeuf,conserver,[]
+aller,cela,[]
+cuire,le,[]
+cuire,minute,[]
+préparation,accompagnement,[]
+préparation,cuire,"[{""id"": 601611718, ""node1"": 33634, ""node2"": 5115, ""type"": 0, ""w"": 27.0}]"
+cuire,steak,"[{""id"": 796846082, ""node1"": 5115, ""node2"": 55572, ""type"": 0, ""w"": 28.0}, {""id"": 15025387, ""node1"": 5115, ""node2"": 55572, ""type"": 13, ""w"": 40.0}, {""id"": 15082745, ""node1"": 5115, ""node2"": 55572, ""type"": 14, ""w"": 35.0}]"
+déposer,tranche,[]
+cuire,bacon,"[{""id"": 915336589, ""node1"": 5115, ""node2"": 25901, ""type"": 0, ""w"": 20.0}]"
+découper,tomate,[]
+tomate,tranche,"[{""id"": 421761138, ""node1"": 22138, ""node2"": 143123, ""type"": 0, ""w"": 1.0}]"
+tranche,fin,[]
+découper,salade,[]
+morceau,petit,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]"
+salade,morceau,[]
+déposer,découper,[]
+morceau,mettre,[]
+sauce,burger,"[{""id"": 899806097, ""node1"": 141110, ""node2"": 138357, ""type"": 0, ""w"": 20.0}]"
+tranche,tomate,[]
+tranche,bacon,"[{""id"": 915336570, ""node1"": 143123, ""node2"": 25901, ""type"": 0, ""w"": 20.0}]"
+chaud,tout,[]
+mettre,chaud,[]
+mettre,minute,[]
+minute,four,[]

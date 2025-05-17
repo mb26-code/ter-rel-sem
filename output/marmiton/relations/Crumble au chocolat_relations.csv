@@ -1,0 +1,48 @@
+node1,node2,relations
+titre,ingrédient,[]
+ingrédient,farine,"[{""id"": 561306446, ""node1"": 123418, ""node2"": 127629, ""type"": 0, ""w"": 39.0}, {""id"": 243153377, ""node1"": 123418, ""node2"": 127629, ""type"": 8, ""w"": 42.0}]"
+farine,beurre,"[{""id"": 423997331, ""node1"": 127629, ""node2"": 140377, ""type"": 0, ""w"": 3.0}]"
+ingrédient,sucre,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]"
+sucre,poudre,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]"
+poudre,chocolat,"[{""id"": 796691093, ""node1"": 139470, ""node2"": 34157, ""type"": 0, ""w"": 22.0}]"
+poudre,amer,[]
+amer,crème,[]
+crème,lait,"[{""id"": 405907, ""node1"": 44001, ""node2"": 86296, ""type"": 0, ""w"": 138.0}, {""id"": 96714537, ""node1"": 44001, ""node2"": 86296, ""type"": 3, ""w"": 28.0}, {""id"": 96714538, ""node1"": 44001, ""node2"": 86296, ""type"": 6, ""w"": 45.0}, {""id"": 373392830, ""node1"": 44001, ""node2"": 86296, ""type"": 8, ""w"": -25.0}, {""id"": 589351631, ""node1"": 44001, ""node2"": 86296, ""type"": 9, ""w"": -5.0}, {""id"": 9980417, ""node1"": 44001, ""node2"": 86296, ""type"": 10, ""w"": 4.0}, {""id"": 12987054, ""node1"": 44001, ""node2"": 86296, ""type"": 15, ""w"": 59.0}, {""id"": 1577895, ""node1"": 44001, ""node2"": 86296, ""type"": 21, ""w"": 80.0}, {""id"": 1869736, ""node1"": 44001, ""node2"": 86296, ""type"": 42, ""w"": 60.0}, {""id"": 376037426, ""node1"": 44001, ""node2"": 86296, ""type"": 51, ""w"": 34.0}, {""id"": 1764138, ""node1"": 44001, ""node2"": 86296, ""type"": 666, ""w"": 7.0}]"
+lait,oeuf,"[{""id"": 920038083, ""node1"": 86296, ""node2"": 116175, ""type"": 0, ""w"": 21.0}, {""id"": 385498014, ""node1"": 86296, ""node2"": 116175, ""type"": 8, ""w"": -25.0}]"
+oeuf,noisette,[]
+ingrédient,casserole,[]
+casserole,saladier,[]
+saladier,four,[]
+plaque,meilleur,[]
+top,plaque,[]
+plaque,four,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]"
+pinceau,balance,[]
+balance,cuisine,[]
+balance,plat,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]"
+pinceau,étape,[]
+casserole,petit,[]
+mettre,noisette,[]
+noisette,sucre,"[{""id"": 982331790, ""node1"": 67819, ""node2"": 139481, ""type"": 666, ""w"": 2.0}]"
+ôter,commencer,[]
+ajouter,farine,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]"
+ajouter,travailler,[]
+travailler,pâte,"[{""id"": 243714, ""node1"": 69550, ""node2"": 34069, ""type"": 14, ""w"": 61.0}]"
+bouillir,crème,"[{""id"": 352516456, ""node1"": 42401, ""node2"": 44001, ""type"": 31, ""w"": 38.0}]"
+ajouter,chocolat,[]
+chocolat,couper,[]
+morceau,petit,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]"
+reposer,minute,[]
+mélanger,préparation,"[{""id"": 610299416, ""node1"": 37151, ""node2"": 33634, ""type"": 0, ""w"": 41.0}]"
+four,120,[]
+glisser,grille,[]
+grille,supérieur,[]
+supérieur,four,[]
+préparation,chocolat,[]
+préparation,devoir,[]
+four,minute,[]
+allumer,grill,"[{""id"": 31871227, ""node1"": 82772, ""node2"": 80591, ""type"": 14, ""w"": 30.0}]"
+allumer,laisser,[]
+laisser,grille,[]
+dorer,dessus,[]
+dorer,laisser,[]
+servir,tiède,"[{""id"": 373014727, ""node1"": 7888, ""node2"": 13843, ""type"": 34, ""w"": 26.0}]"

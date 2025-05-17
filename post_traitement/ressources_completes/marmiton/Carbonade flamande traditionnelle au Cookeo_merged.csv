@@ -1,0 +1,50 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+beurre,moutarde,amod,NOUN,0.7050542831420898,[],,
+oignon,pain,nmod,NOUN,0.7100216746330261,[],,
+pain,épice,nmod,NOUN,0.7047860026359558,[],,
+lard,fumé,amod,ADJ,0.5547491908073425,"[{""id"": 365516, ""node1"": 59430, ""node2"": 23335, ""type"": 0, ""w"": 55.0}, {""id"": 372425196, ""node1"": 59430, ""node2"": 23335, ""type"": 17, ""w"": 41.0}, {""id"": 980614507, ""node1"": 59430, ""node2"": 23335, ""type"": 666, ""w"": 2.0}]",r_associated,55.0
+boeuf,bière,nmod,NOUN,0.6150346994400024,[],,
+boeuf,brune,amod,NOUN,0.5780519843101501,[],,
+bouquet,cassonade,nmod,NOUN,0.5913289189338684,[],,
+cassonade,sel,nmod,NOUN,0.6887902617454529,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+balance,couper,acl,VERB,0.478335976600647,[],,
+couper,viande,obj,NOUN,0.6744567155838013,"[{""id"": 241180, ""node1"": 128828, ""node2"": 140100, ""type"": 0, ""w"": 74.0}, {""id"": 15084106, ""node1"": 128828, ""node2"": 140100, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+morceau,gros,amod,ADJ,0.4822109341621399,[],,
+découper,oignon,obj,NOUN,0.6217344403266907,[],,
+détailler,lard,obj,NOUN,0.5627575516700745,[],,
+déposer,beurre,obj,NOUN,0.640740692615509,[],,
+lard,mode,nmod,NOUN,0.5805060267448425,[],,
+dorer,remuer,advcl,VERB,0.5522658824920654,[],,
+réserver,viande,obj,NOUN,0.7084556221961975,[],,
+viande,retirer,acl,VERB,0.6854143142700195,[],,
+conserver,jus,obj,NOUN,0.5655150413513184,"[{""id"": 519932527, ""node1"": 42089, ""node2"": 53310, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+ajouter,cassonade,obj,NOUN,0.5719919800758362,[],,
+lancer,cuisson,obj,NOUN,0.6590927243232727,[],,
+cuisson,réduire,acl,VERB,0.6840787529945374,"[{""id"": 213740124, ""node1"": 60056, ""node2"": 120230, ""type"": 63, ""w"": 29.0}]",r_agentive_implication,29.0
+réduire,jus,obj,NOUN,0.5740057229995728,[],,
+jus,mode,nmod,NOUN,0.5873765349388123,[],,
+cuisson,pression,nmod,NOUN,0.6660934090614319,[],,
+épice,moutarde,nmod,NOUN,0.6721841096878052,"[{""id"": 736558021, ""node1"": 146056, ""node2"": 28335, ""type"": 0, ""w"": 48.0}, {""id"": 3906439, ""node1"": 146056, ""node2"": 28335, ""type"": 777, ""w"": 10.0}]",r_associated,48.0
+replacer,oignon,obj,NOUN,0.5745104551315308,[],,
+saler,recouvrir,advcl,VERB,0.5669824481010437,[],,
+recouvrir,bière,nmod,NOUN,0.5785389542579651,[],,
+saupoudrer,bouquet,nmod,NOUN,0.5395514369010925,[],,
+bouquet,garni,amod,ADJ,0.4469667077064514,[],,
+ajouter,pain,obj,NOUN,0.679526150226593,[],,
+pain,au-dessus,nmod,ADV,0.6430488228797913,[],,
+reste,préparation,nmod,NOUN,0.5082931518554688,[],,
+cuisson,mode,nmod,NOUN,0.5969096422195435,[],,
+mode,cuisson,appos,NOUN,0.5969096422195435,[],,
+refroidir,plat,obj,NOUN,0.6538263559341431,"[{""id"": 165671, ""node1"": 126973, ""node2"": 36327, ""type"": 13, ""w"": 65.0}, {""id"": 192530, ""node1"": 126973, ""node2"": 36327, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+cuisson,même,amod,ADJ,0.6772822141647339,[],,
+relancer,cuisson,obj,NOUN,0.6788813471794128,[],,
+devoir,sauce,nsubj,NOUN,0.6463649272918701,[],,
+devoir,miel,advcl,NOUN,0.5903027057647705,[],,
+miel,liquide,amod,ADJ,0.6094732880592346,"[{""id"": 62362311, ""node1"": 136055, ""node2"": 140315, ""type"": 0, ""w"": 97.0}, {""id"": 2045771, ""node1"": 136055, ""node2"": 140315, ""type"": 17, ""w"": 35.0}, {""id"": 1939698, ""node1"": 136055, ""node2"": 140315, ""type"": 666, ""w"": 6.0}]",r_associated,97.0
+poursuivre,cuisson,obj,NOUN,0.6843500733375549,[],,
+tranche,minute,nmod,NOUN,0.4428673982620239,[],,
+tranche,puissance,nmod,NOUN,0.4476161897182464,[],,
+servir,accompagner,acl,VERB,0.4404352605342865,[],,

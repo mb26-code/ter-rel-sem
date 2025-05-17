@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+banane,ingrédient,nmod,NOUN,0.647196352481842,"[{""id"": 578773660, ""node1"": 34046, ""node2"": 123418, ""type"": 6, ""w"": 29.0}]",r_isa,29.0
+banane,sucre,nmod,NOUN,0.6657387614250183,[],,
+sucre,glace,nmod,NOUN,0.651667594909668,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -126.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]",r_associated,111.0
+sucre,crème,amod,NOUN,0.7060490250587463,"[{""id"": 915278756, ""node1"": 139481, ""node2"": 44001, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+crème,chocolat,nmod,NOUN,0.6359425187110901,"[{""id"": 920607472, ""node1"": 44001, ""node2"": 34157, ""type"": 0, ""w"": 23.0}, {""id"": 987926577, ""node1"": 44001, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]",r_associated,23.0
+pinceau,casserole,nmod,NOUN,0.5712795853614807,[],,
+casserole,congélateur,nmod,NOUN,0.6718193888664246,[],,
+congélateur,couteau,nmod,NOUN,0.5786213278770447,[],,
+congélateur,balance,nmod,NOUN,0.5224598050117493,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,réfrigérateur,nmod,NOUN,0.5236407518386841,[],,
+réfrigérateur,siphon,nmod,NOUN,0.4763060212135315,[],,
+siphon,étape,nmod,NOUN,0.441175252199173,[],,
+fondre,marier,advcl,VERB,0.4712020754814148,"[{""id"": 871026, ""node1"": 16480, ""node2"": 14320, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+marier,chocolat,obj,NOUN,0.5362342596054077,[],,
+faire,coque,obj,NOUN,0.5044203400611877,[],,
+coque,chocolat,nmod,NOUN,0.5147387981414795,[],,
+durcir,chocolat,obj,NOUN,0.5393397212028503,[],,
+dur,coque,nsubj,NOUN,0.44264817237854,"[{""id"": 991466066, ""node1"": 72731, ""node2"": 6910, ""type"": 0, ""w"": 20.0}, {""id"": 310252851, ""node1"": 72731, ""node2"": 6910, ""type"": 21, ""w"": 10.0}]",r_associated,20.0
+répéter,dur,advcl,ADJ,0.4023918509483337,[],,
+chantilly,siphon,nmod,NOUN,0.457501471042633,[],,
+chantilly,mettre,acl,VERB,0.5063902139663696,[],,
+soupe,sucre,nmod,NOUN,0.7634108662605286,[],,
+goutte,vanille,nmod,NOUN,0.589188277721405,[],,
+goutte,liquide,amod,ADJ,0.5324659943580627,"[{""id"": 437581, ""node1"": 93944, ""node2"": 140315, ""type"": 0, ""w"": 58.0}, {""id"": 2137379, ""node1"": 93944, ""node2"": 140315, ""type"": 666, ""w"": 1.0}]",r_associated,58.0
+coque,couper,acl,VERB,0.4828457236289978,[],,
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+couper,morceau,obj,NOUN,0.5354392528533936,"[{""id"": 914859385, ""node1"": 128828, ""node2"": 65364, ""type"": 0, ""w"": 22.0}, {""id"": 8801222, ""node1"": 128828, ""node2"": 65364, ""type"": 14, ""w"": 5.0}, {""id"": 1066576858, ""node1"": 128828, ""node2"": 65364, ""type"": 666, ""w"": 2.0}]",r_associated,22.0
+morceau,banane,nmod,NOUN,0.6162192225456238,[],,
+dessus,biscuit,nmod,NOUN,0.5735636949539185,[],,
+ajouter,dessus,iobj,ADV,0.465249627828598,[],,
+mettre,ajouter,advcl,VERB,0.4179443120956421,"[{""id"": 930338, ""node1"": 132366, ""node2"": 25099, ""type"": 0, ""w"": 33.0}, {""id"": 432805151, ""node1"": 132366, ""node2"": 25099, ""type"": 5, ""w"": 31.0}, {""id"": 9094398, ""node1"": 132366, ""node2"": 25099, ""type"": 35, ""w"": 30.0}, {""id"": 1008795590, ""node1"": 132366, ""node2"": 25099, ""type"": 666, ""w"": 3.0}]",r_associated,33.0
+ajouter,peu,obj,ADV,0.4455879032611847,[],,
+finir,chantilly,obj,NOUN,0.490435242652893,[],,
+préparer,que,obj,PRON,0.4336976408958435,[],,
+chantilly,préparer,acl:relcl,VERB,0.5363634824752808,[],,

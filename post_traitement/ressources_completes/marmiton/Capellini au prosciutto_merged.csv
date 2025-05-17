@@ -1,0 +1,40 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+sel,poivre,nmod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,beurre,amod,NOUN,0.71866774559021,"[{""id"": 584573840, ""node1"": 139597, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+sel,oeuf,nmod,NOUN,0.6938258409500122,[],,
+oeuf,Jambon,nmod,PROPN,0.5014907717704773,[],,
+sel,parmesan,nmod,NOUN,0.6908350586891174,[],,
+casserole,cuillère,nmod,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,four,nmod,NOUN,0.7153509855270386,[],,
+four,Plat,nmod,PROPN,0.6130218505859375,[],,
+four,gratin,nmod,NOUN,0.6803157329559326,"[{""id"": 391931, ""node1"": 9190, ""node2"": 12942, ""type"": 0, ""w"": 54.0}, {""id"": 98289672, ""node1"": 9190, ""node2"": 12942, ""type"": 28, ""w"": 41.0}, {""id"": 1918539, ""node1"": 9190, ""node2"": 12942, ""type"": 41, ""w"": 70.0}]",r_has_conseq,70.0
+four,couvercle,nmod,NOUN,0.6759926676750183,[],,
+couvercle,saladier,nmod,NOUN,0.6053080558776855,[],,
+saladier,fouet,nmod,NOUN,0.5588916540145874,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 307.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 267.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,307.0
+couvercle,balance,nmod,NOUN,0.5437039136886597,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+terme,cuisson,nmod,NOUN,0.6462588310241699,[],,
+cuisson,pâte,nmod,NOUN,0.7189537286758423,"[{""id"": 915053269, ""node1"": 60056, ""node2"": 34069, ""type"": 0, ""w"": 20.0}, {""id"": 376106703, ""node1"": 60056, ""node2"": 34069, ""type"": 109, ""w"": 29.0}]",r_has_predecesseur-time,29.0
+égoutter,remettre,advcl,VERB,0.4655192792415619,[],,
+allumer,four,obj,NOUN,0.6448209285736084,"[{""id"": 375341199, ""node1"": 82772, ""node2"": 9190, ""type"": 0, ""w"": 27.0}, {""id"": 96637759, ""node1"": 82772, ""node2"": 9190, ""type"": 14, ""w"": 100.0}, {""id"": 271782, ""node1"": 82772, ""node2"": 9190, ""type"": 31, ""w"": 52.0}]",r_patient,100.0
+four,température,nmod,NOUN,0.6657106280326843,"[{""id"": 107015146, ""node1"": 9190, ""node2"": 40531, ""type"": 0, ""w"": 41.0}]",r_associated,41.0
+température,chaud,amod,ADJ,0.5131595730781555,"[{""id"": 64263, ""node1"": 40531, ""node2"": 19150, ""type"": 0, ""w"": 353.0}, {""id"": 9898248, ""node1"": 40531, ""node2"": 19150, ""type"": 6, ""w"": -37.0}, {""id"": 646157901, ""node1"": 40531, ""node2"": 19150, ""type"": 666, ""w"": 3.0}]",r_associated,353.0
+faire,couche,obj,NOUN,0.5221765637397766,[],,
+couche,moitié,nmod,NOUN,0.4677639007568359,[],,
+moitié,pâte,nmod,NOUN,0.6312713027000427,[],,
+faire,couvrir,acl,VERB,0.4734631478786468,"[{""id"": 54304408, ""node1"": 87528, ""node2"": 119824, ""type"": 0, ""w"": 28.0}, {""id"": 53757485, ""node1"": 87528, ""node2"": 119824, ""type"": 5, ""w"": 103.0}]",r_syn,103.0
+mozzarella,répartir,acl,VERB,0.4976798295974731,[],,
+reste,parmesan,nmod,NOUN,0.6141477227210999,[],,
+reste,saler,acl,VERB,0.5973368287086487,[],,
+verser,mélange,obj,NOUN,0.5440542697906494,[],,
+mélange,jambon,nmod,NOUN,0.6817612051963806,[],,
+jambon,mozzarella,nmod,ADJ,0.5849487781524658,[],,
+verser,couvrir,acl,VERB,0.4560008347034454,[],,
+reste,pâte,nmod,NOUN,0.6521061062812805,[],,
+plat,tout,amod,ADJ,0.6215036511421204,[],,
+four,min,nmod,NOUN,0.5254760980606079,[],,

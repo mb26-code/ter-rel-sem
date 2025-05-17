@@ -1,0 +1,32 @@
+node1,node2,relations
+nid,ingrédient,[]
+nid,beurre,[]
+beurre,sucre,"[{""id"": 500926020, ""node1"": 140377, ""node2"": 139481, ""type"": 0, ""w"": 2.0}]"
+sucre,miel,"[{""id"": 101425, ""node1"": 139481, ""node2"": 136055, ""type"": 0, ""w"": 86.0}, {""id"": 514429712, ""node1"": 139481, ""node2"": 136055, ""type"": 51, ""w"": 27.0}, {""id"": 1029365120, ""node1"": 139481, ""node2"": 136055, ""type"": 67, ""w"": 35.0}, {""id"": 1032956771, ""node1"": 139481, ""node2"": 136055, ""type"": 78, ""w"": 29.0}, {""id"": 646152034, ""node1"": 139481, ""node2"": 136055, ""type"": 666, ""w"": 7.0}]"
+nid,pâte,[]
+brioche,amande,"[{""id"": 580539431, ""node1"": 140188, ""node2"": 28557, ""type"": 0, ""w"": 35.0}]"
+amande,crème,[]
+crème,pâtissier,"[{""id"": 561269853, ""node1"": 44001, ""node2"": 31618, ""type"": 0, ""w"": 41.0}]"
+brioche,moule,"[{""id"": 580539438, ""node1"": 140188, ""node2"": 143723, ""type"": 0, ""w"": 39.0}]"
+moule,tarte,"[{""id"": 201624, ""node1"": 143723, ""node2"": 575, ""type"": 0, ""w"": 130.0}]"
+brioche,rouleau,[]
+rouleau,pâtisserie,"[{""id"": 34655902, ""node1"": 59019, ""node2"": 25966, ""type"": 0, ""w"": 31.0}]"
+pâtisserie,casserole,[]
+casserole,four,[]
+four,couvercle,[]
+couvercle,couteau,[]
+couvercle,balance,[]
+balance,cuisine,[]
+rouleau,étape,[]
+abaisser,pâte,"[{""id"": 273961073, ""node1"": 108664, ""node2"": 34069, ""type"": 0, ""w"": 51.0}, {""id"": 216670777, ""node1"": 108664, ""node2"": 34069, ""type"": 14, ""w"": 100.0}]"
+pâte,brioche,"[{""id"": 799190678, ""node1"": 34069, ""node2"": 140188, ""type"": 0, ""w"": 21.0}, {""id"": 8151869, ""node1"": 34069, ""node2"": 140188, ""type"": 777, ""w"": 10.0}]"
+pâte,moule,"[{""id"": 31821230, ""node1"": 34069, ""node2"": 143723, ""type"": 15, ""w"": 52.0}]"
+casserole,gramme,[]
+gramme,beurre,[]
+gramme,sucre,"[{""id"": 720818120, ""node1"": 140383, ""node2"": 139481, ""type"": 174, ""w"": 25.0}]"
+gramme,miel,[]
+gramme,amande,[]
+four,moyen,[]
+garnir,crème,[]
+garnir,surface,[]
+surface,couper,[]

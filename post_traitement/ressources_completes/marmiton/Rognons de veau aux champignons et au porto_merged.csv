@@ -1,0 +1,17 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+casserole,titre,nsubj,NOUN,0.5697358846664429,[],,
+poivre,sel,nmod,NOUN,0.6562960147857666,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,farine,nmod,NOUN,0.7043456435203552,[],,
+Paris,échalote,amod,NOUN,0.4502066373825073,[],,
+titre,couteau,nmod,NOUN,0.4934189915657043,[],,
+casserole,couvercle,obj,NOUN,0.6444979906082153,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]",r_has_part,100.0
+couvercle,cuillère,nmod,NOUN,0.6151049137115479,[],,
+cuillère,bois,nmod,NOUN,0.5890449285507202,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5349035263061523,[],,
+balance,cuisine,nmod,NOUN,0.6009083986282349,[],,
+balance,étape,nmod,NOUN,0.4731250703334808,[],,
+morceau,petit,amod,ADJ,0.5585225224494934,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+fondre,beurre,obj,NOUN,0.6409372687339783,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+tout,farine,nmod,NOUN,0.6994197368621826,[],,
+mélanger,crème,obj,NOUN,0.6364578604698181,"[{""id"": 31849058, ""node1"": 37151, ""node2"": 44001, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+crème,moutarde,nmod,NOUN,0.6286353468894958,[],,

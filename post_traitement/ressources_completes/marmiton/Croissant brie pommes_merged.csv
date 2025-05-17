@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+croissant,pomme,appos,NOUN,0.5575275421142578,[],,
+croissant,ingrédient,nmod,NOUN,0.5351102948188782,[],,
+croissant,poivre,amod,NOUN,0.6221790313720703,[],,
+poivre,croissant,amod,ADJ,0.6221790313720703,[],,
+poivre,pomme,nmod,NOUN,0.6958288550376892,[],,
+pomme,compote,nmod,NOUN,0.5912173986434937,"[{""id"": 111891, ""node1"": 37201, ""node2"": 5295, ""type"": 0, ""w"": 215.0}, {""id"": 184862, ""node1"": 37201, ""node2"": 5295, ""type"": 15, ""w"": 98.0}, {""id"": 169127, ""node1"": 37201, ""node2"": 5295, ""type"": 21, ""w"": 101.0}, {""id"": 376085274, ""node1"": 37201, ""node2"": 5295, ""type"": 23, ""w"": 26.0}, {""id"": 2227676, ""node1"": 37201, ""node2"": 5295, ""type"": 41, ""w"": 60.0}, {""id"": 376054329, ""node1"": 37201, ""node2"": 5295, ""type"": 51, ""w"": 32.0}, {""id"": 675187665, ""node1"": 37201, ""node2"": 5295, ""type"": 666, ""w"": 5.0}]",r_associated,215.0
+compote,pomme,nmod,NOUN,0.5912173986434937,"[{""id"": 1986749, ""node1"": 5295, ""node2"": 37201, ""type"": 0, ""w"": 147.0}, {""id"": 373000107, ""node1"": 5295, ""node2"": 37201, ""type"": 17, ""w"": 26.0}, {""id"": 377010654, ""node1"": 5295, ""node2"": 37201, ""type"": 20, ""w"": 29.0}, {""id"": 11346927, ""node1"": 5295, ""node2"": 37201, ""type"": 28, ""w"": 38.0}, {""id"": 14672084, ""node1"": 5295, ""node2"": 37201, ""type"": 42, ""w"": 30.0}, {""id"": 2046466, ""node1"": 5295, ""node2"": 37201, ""type"": 50, ""w"": 37.0}, {""id"": 1688878, ""node1"": 5295, ""node2"": 37201, ""type"": 666, ""w"": 6.0}]",r_associated,147.0
+compote,citron,nmod,NOUN,0.6600298881530762,[],,
+citron,moutarde,amod,NOUN,0.6415777206420898,[],,
+moutarde,doux,amod,ADJ,0.5384992361068726,[],,
+titre,four,nmod,NOUN,0.6455731391906738,[],,
+four,étape,nmod,NOUN,0.6555838584899902,[],,
+four,couper,acl,VERB,0.6794336438179016,[],,
+couper,croissant,obj,NOUN,0.4601281285285949,"[{""id"": 796838042, ""node1"": 128828, ""node2"": 38234, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+dessus,moutarde,amod,NOUN,0.5766980648040771,[],,
+pomme,laver,acl,VERB,0.604200541973114,"[{""id"": 96711553, ""node1"": 37201, ""node2"": 143876, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+tranche,fin,amod,ADJ,0.4211523532867431,[],,
+garder,peau,obj,NOUN,0.4934368133544922,[],,
+peau,rouge,amod,ADJ,0.5180487632751465,"[{""id"": 111417, ""node1"": 109785, ""node2"": 86356, ""type"": 0, ""w"": 60.0}, {""id"": 97947921, ""node1"": 109785, ""node2"": 86356, ""type"": 10, ""w"": 30.0}, {""id"": 3166604, ""node1"": 109785, ""node2"": 86356, ""type"": 106, ""w"": 29.0}]",r_associated,60.0
+couper,éviter,advcl,VERB,0.4106421172618866,"[{""id"": 817344, ""node1"": 128828, ""node2"": 102610, ""type"": 0, ""w"": 55.0}, {""id"": 54914207, ""node1"": 128828, ""node2"": 102610, ""type"": 5, ""w"": 48.0}, {""id"": 91492819, ""node1"": 128828, ""node2"": 102610, ""type"": 35, ""w"": 53.0}]",r_associated,55.0
+pomme,éventail,nmod,NOUN,0.5577512383460999,[],,
+four,180,nmod,NUM,0.4979606568813324,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,

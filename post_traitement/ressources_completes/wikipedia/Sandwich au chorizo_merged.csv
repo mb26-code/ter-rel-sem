@@ -1,0 +1,54 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+type,sandwich,nsubj,NOUN,0.5163658857345581,[],,
+sandwich,chorizo,nmod,ADV,0.6163492202758789,"[{""id"": 737423515, ""node1"": 1447, ""node2"": 51767, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+chorizo,espagnol,appos,ADJ,0.5071746706962585,"[{""id"": 391609, ""node1"": 51767, ""node2"": 65586, ""type"": 0, ""w"": 61.0}, {""id"": 1721965, ""node1"": 51767, ""node2"": 65586, ""type"": 666, ""w"": 3.0}]",r_associated,61.0
+sandwich,espagnol,amod,ADJ,0.4798441529273987,[],,
+type,coupe,nmod,NOUN,0.4813512861728668,[],,
+coupe,chorizo,nmod,ADV,0.6006411910057068,[],,
+coupe,intérieur,nmod,NOUN,0.4552924633026123,[],,
+type,forme,nmod,NOUN,0.4636218845844269,"[{""id"": 1030751, ""node1"": 15235, ""node2"": 142000, ""type"": 0, ""w"": 39.0}, {""id"": 53748928, ""node1"": 15235, ""node2"": 142000, ""type"": 5, ""w"": 225.0}, {""id"": 749018961, ""node1"": 15235, ""node2"": 142000, ""type"": 666, ""w"": 4.0}]",r_syn,225.0
+servir,qui,nsubj:pass,PRON,0.4501188993453979,[],,
+sandwich,servir,acl:relcl,VERB,0.6012663245201111,[],,
+sécher,chorizo,nsubj:pass,ADV,0.6380398869514465,[],,
+aliment,combine,acl:relcl,VERB,0.576284646987915,[],,
+combine,ingrédient,obj,NOUN,0.5468695759773254,[],,
+ingrédient,coûteux,amod,ADJ,0.5108605027198792,[],,
+ingrédient,pain,appos,NOUN,0.6966626644134521,"[{""id"": 15303725, ""node1"": 123418, ""node2"": 61283, ""type"": 0, ""w"": 26.0}, {""id"": 15173649, ""node1"": 123418, ""node2"": 61283, ""type"": 27, ""w"": -30.0}]",r_associated,26.0
+faire,simplicité,nsubj,NOUN,0.512633740901947,[],,
+simplicité,préparation,nmod,NOUN,0.5232031941413879,[],,
+pays,pain,acl:relcl,NOUN,0.607877790927887,[],,
+faire,chorizo,nsubj,ADV,0.6591393947601318,[],,
+faire,partie,obj,NOUN,0.4993119537830353,[],,
+cuisine,typique,amod,ADJ,0.6250854134559631,"[{""id"": 99444043, ""node1"": 16033, ""node2"": 133589, ""type"": 17, ""w"": 31.0}]",r_carac,31.0
+cuisine,pays,nmod,NOUN,0.5023202896118164,"[{""id"": 957316638, ""node1"": 16033, ""node2"": 22243, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+varier,préparation,nsubj,NOUN,0.5055865049362183,[],,
+préparation,existant,amod,ADJ,0.4742413163185119,[],,
+préparation,sandwich,nmod,NOUN,0.6393612623214722,[],,
+préparation,chorizo,nmod,ADV,0.655577540397644,[],,
+fonction,type,nmod,NOUN,0.437258630990982,"[{""id"": 370402988, ""node1"": 97706, ""node2"": 15235, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+type,pain,nmod,NOUN,0.63983154296875,[],,
+pain,utiliser,acl,VERB,0.6530843377113342,[],,
+type,chorizo,nmod,ADV,0.5959329605102539,"[{""id"": 941628192, ""node1"": 15235, ""node2"": 51767, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+frais,type,nsubj,NOUN,0.4731324017047882,[],,
+type,utiliser,acl,VERB,0.4480940997600555,[],,
+étaler,frais,advcl,NOUN,0.4595328271389007,[],,
+couper,sécher,advcl,VERB,0.516682505607605,[],,
+pain,pain,nsubj,NOUN,0.6071630120277405,"[{""id"": 320910, ""node1"": 61283, ""node2"": 61283, ""type"": 19, ""w"": 53.0}, {""id"": 76567430, ""node1"": 61283, ""node2"": 61283, ""type"": 75, ""w"": 43.0}]",r_lemma,53.0
+pain,français,amod,ADJ,0.6284040212631226,[],,
+pain,variante,nmod,NOUN,0.6577990055084229,[],,
+varier,taille,nsubj,NOUN,0.4459302723407745,[],,
+taille,sandwich,nmod,NOUN,0.5403239727020264,[],,
+pain,forme,nmod,NOUN,0.6652709245681763,"[{""id"": 417695750, ""node1"": 61283, ""node2"": 142000, ""type"": 0, ""w"": 14.0}]",r_associated,14.0
+cuisine,espagnol,amod,ADJ,0.5692596435546875,[],,
+variante,sandwich,nmod,NOUN,0.5389419198036194,[],,
+utiliser,variété,obj,NOUN,0.4691680371761322,[],,
+variété,tel,amod,ADJ,0.4557264447212219,[],,
+variante,populaire,amod,ADJ,0.4038642644882202,[],,
+pain,préparer,acl,VERB,0.6772135496139526,"[{""id"": 905989722, ""node1"": 61283, ""node2"": 36246, ""type"": 0, ""w"": 20.0}, {""id"": 477614091, ""node1"": 61283, ""node2"": 36246, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+saucisse,chorizo,nmod,NOUN,0.6135372519493103,"[{""id"": 413060, ""node1"": 77807, ""node2"": 51767, ""type"": 0, ""w"": 59.0}, {""id"": 243436215, ""node1"": 77807, ""node2"": 51767, ""type"": 8, ""w"": 32.0}]",r_associated,59.0
+saucisse,ajouter,acl,VERB,0.61320960521698,[],,
+intérieur,pâte,nmod,NOUN,0.6489397287368774,[],,
+chorizo,Pampelune,nmod,PROPN,0.4439059793949127,[],,
+usage,faire,acl,VERB,0.4983208775520324,[],,
+faire,sandwich,obj,NOUN,0.5961892008781433,[],,
+pouvoir,pain,nsubj,NOUN,0.6202273368835449,[],,

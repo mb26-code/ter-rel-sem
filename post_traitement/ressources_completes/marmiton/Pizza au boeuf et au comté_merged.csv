@@ -1,0 +1,13 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+comté,ingrédient,nmod,NOUN,0.4570420980453491,[],,
+comté,oignon,nmod,ADP,0.489447683095932,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+poêle,four,nmod,NOUN,0.7086914777755737,"[{""id"": 605500247, ""node1"": 119686, ""node2"": 9190, ""type"": 0, ""w"": 23.0}, {""id"": 1061038832, ""node1"": 119686, ""node2"": 9190, ""type"": 666, ""w"": 2.0}]",r_associated,23.0
+Prenez,pâte,obj,NOUN,0.5912566781044006,[],,
+étaler,sauce,obj,NOUN,0.6618550419807434,"[{""id"": 31735797, ""node1"": 98214, ""node2"": 141110, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+sauce,tomate,amod,ADV,0.7022931575775146,"[{""id"": 2221325, ""node1"": 141110, ""node2"": 22138, ""type"": 0, ""w"": 74.0}, {""id"": 10528848, ""node1"": 141110, ""node2"": 22138, ""type"": 9, ""w"": 26.0}, {""id"": 11333947, ""node1"": 141110, ""node2"": 22138, ""type"": 28, ""w"": 38.0}, {""id"": 96715050, ""node1"": 141110, ""node2"": 22138, ""type"": 50, ""w"": 16.0}, {""id"": 651031294, ""node1"": 141110, ""node2"": 22138, ""type"": 666, ""w"": 4.0}]",r_associated,74.0
+sauce,pâte,nmod,NOUN,0.7205467820167542,[],,
+oignon,ensemble,amod,NOUN,0.5596711039543152,[],,
+cuire,fois,nsubj,NOUN,0.6635112762451172,"[{""id"": 72773965, ""node1"": 5115, ""node2"": 38021, ""type"": 34, ""w"": -25.0}]",r_manner,-25.0
+oignon,cuire,acl,VERB,0.7573981881141663,"[{""id"": 8526807, ""node1"": 123307, ""node2"": 5115, ""type"": 26, ""w"": 35.0}]",r_patient-1,35.0
+mettre,pizza,obj,NOUN,0.6233128905296326,[],,

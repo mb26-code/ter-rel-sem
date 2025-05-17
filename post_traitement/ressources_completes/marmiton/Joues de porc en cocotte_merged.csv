@@ -1,0 +1,52 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+joue,porc,nmod,NOUN,0.5603591799736023,[],,
+joue,cocotte,nmod,NOUN,0.522767186164856,[],,
+joue,ingrédient,nsubj,NOUN,0.4520725309848785,[],,
+ingrédient,persil,appos,NOUN,0.6571645736694336,[],,
+oignon,carotte,amod,ADJ,0.6131729483604431,[],,
+ingrédient,crème,amod,NOUN,0.6614693999290466,"[{""id"": 24923429, ""node1"": 123418, ""node2"": 44001, ""type"": 0, ""w"": 15.0}, {""id"": 24850724, ""node1"": 123418, ""node2"": 44001, ""type"": 8, ""w"": 36.0}]",r_hypo,36.0
+crème,huile,nmod,NOUN,0.637527346611023,"[{""id"": 821193, ""node1"": 44001, ""node2"": 141971, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+crème,bouillon,nmod,NOUN,0.6957421898841858,[],,
+joue,champignon,obj,NOUN,0.4275297522544861,[],,
+bouquet,garni,amod,ADJ,0.4467621445655823,[],,
+joue,couteau,obj,NOUN,0.4564563333988189,[],,
+couteau,pinceau,appos,NOUN,0.4823434352874756,"[{""id"": 914434066, ""node1"": 32610, ""node2"": 79400, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+pinceau,poêle,nmod,NOUN,0.6253292560577393,[],,
+pinceau,cuillère,nmod,NOUN,0.5115469694137573,[],,
+cuillère,bois,nmod,NOUN,0.5890449285507202,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,four,nmod,NOUN,0.7080159187316895,[],,
+four,casserole,nmod,NOUN,0.7066811323165894,[],,
+joue,étape,obj,NOUN,0.4182400107383728,[],,
+joue,fonte,nmod,NOUN,0.4827255606651306,[],,
+terre,cuit,amod,ADJ,0.7158535718917847,[],,
+revenir,oignon,obj,NOUN,0.612179696559906,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+huile,olive,nmod,NOUN,0.573360800743103,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+dorer,joue,obj,NOUN,0.5158284306526184,[],,
+joue,minute,nmod,NOUN,0.4223452806472778,[],,
+dorer,retourner,advcl,VERB,0.4983100295066833,[],,
+Réserver,couper,acl,VERB,0.4394152164459228,[],,
+couper,carotte,obj,NOUN,0.5709592700004578,"[{""id"": 93436614, ""node1"": 128828, ""node2"": 76234, ""type"": 14, ""w"": 32.0}]",r_patient,32.0
+carotte,morceau,nmod,NOUN,0.6467876434326172,[],,
+revenir,instant,obj,NOUN,0.4359330832958221,[],,
+ajouter,champignon,obj,NOUN,0.5543444156646729,[],,
+joue,préparation,nmod,NOUN,0.4074832797050476,[],,
+préparation,tout,appos,NOUN,0.5633119344711304,[],,
+mouiller,ensemble,obj,NOUN,0.4980381727218628,[],,
+ensemble,bouillon,nmod,NOUN,0.6182631254196167,[],,
+devoir,viande,nsubj,NOUN,0.6715576648712158,[],,
+ajouter,ail,obj,NOUN,0.559426486492157,[],,
+cuire,minute,obj,NOUN,0.7055090665817261,[],,
+mettre,cocotte,obj,NOUN,0.6290179491043091,"[{""id"": 372621177, ""node1"": 132366, ""node2"": 120952, ""type"": 0, ""w"": 35.0}, {""id"": 372621176, ""node1"": 132366, ""node2"": 120952, ""type"": 31, ""w"": 32.0}]",r_associated,35.0
+cuire,plat,nsubj,NOUN,0.7650924324989319,"[{""id"": 477379951, ""node1"": 5115, ""node2"": 36327, ""type"": 0, ""w"": 28.0}, {""id"": 334180844, ""node1"": 5115, ""node2"": 36327, ""type"": 13, ""w"": 31.0}, {""id"": 206248, ""node1"": 5115, ""node2"": 36327, ""type"": 14, ""w"": 100.0}, {""id"": 376200771, ""node1"": 5115, ""node2"": 36327, ""type"": 16, ""w"": 27.0}, {""id"": 477428828, ""node1"": 5115, ""node2"": 36327, ""type"": 31, ""w"": 26.0}, {""id"": 1011357538, ""node1"": 5115, ""node2"": 36327, ""type"": 666, ""w"": 3.0}]",r_patient,100.0
+prélever,cuire,advcl,VERB,0.6791921257972717,[],,
+laisser,prélever,acl,VERB,0.4132631123065948,[],,
+prélever,cuillère,obj,NOUN,0.5382545590400696,[],,
+cuillère,jus,nmod,NOUN,0.6069360971450806,[],,
+jus,cuisson,nmod,NOUN,0.6704092025756836,[],,
+prélever,faire,advcl,VERB,0.4782731533050537,[],,
+ajouter,crème,obj,NOUN,0.6165028810501099,[],,
+crème,frais,amod,ADJ,0.5870347619056702,[],,
+plat,grand,amod,ADJ,0.5886306762695312,[],,
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,riz,nmod,NOUN,0.6932366490364075,[],,
+délicat,fondant,advcl,ADJ,0.5066804885864258,[],,

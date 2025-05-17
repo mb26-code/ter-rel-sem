@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,pain,appos,NOUN,0.6112104654312134,[],,
+pain,perdre,acl,VERB,0.6487723588943481,[],,
+perdre,ingrédient,obj,NOUN,0.5602003335952759,[],,
+perdre,sucre,obj,NOUN,0.6473856568336487,[],,
+sucre,canne,nmod,NOUN,0.6069387793540955,"[{""id"": 107598, ""node1"": 139481, ""node2"": 144267, ""type"": 0, ""w"": 241.0}, {""id"": 160436, ""node1"": 139481, ""node2"": 144267, ""type"": 15, ""w"": 78.0}, {""id"": 1763995, ""node1"": 139481, ""node2"": 144267, ""type"": 666, ""w"": 1.0}]",r_associated,241.0
+sucre,lait,nmod,NOUN,0.6437966823577881,[],,
+lait,oeuf,nmod,NOUN,0.590930700302124,"[{""id"": 920038083, ""node1"": 86296, ""node2"": 116175, ""type"": 0, ""w"": 21.0}, {""id"": 385498014, ""node1"": 86296, ""node2"": 116175, ""type"": 8, ""w"": -25.0}]",r_associated,21.0
+lait,pain,nmod,NOUN,0.6678959727287292,"[{""id"": 386065405, ""node1"": 86296, ""node2"": 61283, ""type"": 6, ""w"": -25.0}, {""id"": 97056196, ""node1"": 86296, ""node2"": 61283, ""type"": 78, ""w"": 35.0}]",r_cohypo,35.0
+sucre,fouet,nmod,NOUN,0.6268562078475952,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+fouet,set,nmod,NOUN,0.4301668703556061,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+pinceau,four,nmod,NOUN,0.6441405415534973,[],,
+four,saladier,nmod,NOUN,0.6991847157478333,[],,
+saladier,balance,nmod,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+fouet,étape,nmod,NOUN,0.4946097731590271,[],,
+fouet,fouetter,acl,VERB,0.4513833224773407,"[{""id"": 261972, ""node1"": 73888, ""node2"": 45711, ""type"": 0, ""w"": 127.0}, {""id"": 14844358, ""node1"": 73888, ""node2"": 45711, ""type"": 24, ""w"": 30.0}, {""id"": 376732, ""node1"": 73888, ""node2"": 45711, ""type"": 25, ""w"": 270.0}, {""id"": 1058913995, ""node1"": 73888, ""node2"": 45711, ""type"": 37, ""w"": 27.0}, {""id"": 648837886, ""node1"": 73888, ""node2"": 45711, ""type"": 99, ""w"": 34.0}]",r_instr-1,270.0
+fouet,oeuf,nmod,NOUN,0.5590640902519226,[],,
+fouet,sucre,nmod,NOUN,0.6268562078475952,[],,
+tremper,tranche,obj,NOUN,0.5667445063591003,[],,
+tranche,pain,nmod,NOUN,0.6442368030548096,"[{""id"": 240074, ""node1"": 143123, ""node2"": 61283, ""type"": 0, ""w"": 221.0}, {""id"": 97833247, ""node1"": 143123, ""node2"": 61283, ""type"": 3, ""w"": 10.0}, {""id"": 9992595, ""node1"": 143123, ""node2"": 61283, ""type"": 10, ""w"": 4.0}, {""id"": 97327248, ""node1"": 143123, ""node2"": 61283, ""type"": 35, ""w"": 30.0}, {""id"": 775213283, ""node1"": 143123, ""node2"": 61283, ""type"": 174, ""w"": 25.0}]",r_associated,221.0
+laisser,solution,nsubj,NOUN,0.4086668491363525,[],,
+solution,cuisson,nmod,NOUN,0.6870164275169373,[],,
+cuire,le,obj,DET,0.4500194191932678,[],,
+solution,cuire,acl,VERB,0.7297137975692749,[],,
+cuire,dorer,advcl,VERB,0.6477397680282593,"[{""id"": 96739726, ""node1"": 5115, ""node2"": 67147, ""type"": 0, ""w"": 24.0}, {""id"": 96739731, ""node1"": 5115, ""node2"": 67147, ""type"": 5, ""w"": 28.0}, {""id"": 394240, ""node1"": 5115, ""node2"": 67147, ""type"": 21, ""w"": 58.0}]",r_has_antimagn,58.0
+plat,gratin,nmod,NOUN,0.6157448291778564,"[{""id"": 415003453, ""node1"": 36327, ""node2"": 12942, ""type"": 0, ""w"": 28.0}, {""id"": 246264043, ""node1"": 36327, ""node2"": 12942, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+répartir,tranche,obj,NOUN,0.4340031743049621,[],,
+verser,reste,obj,NOUN,0.494085282087326,[],,
+reste,mélange,nmod,NOUN,0.5449991226196289,[],,
+sucre,envie,nmod,NOUN,0.656880795955658,"[{""id"": 13818256, ""node1"": 139481, ""node2"": 146357, ""type"": 32, ""w"": 51.0}]",r_sentiment,51.0
+cuire,c,obj,NOUN,0.4126093685626983,[],,
+dorer,tranche,nsubj:pass,NOUN,0.5334594249725342,[],,
+laisser,dorer,advcl,VERB,0.4993822574615478,[],,

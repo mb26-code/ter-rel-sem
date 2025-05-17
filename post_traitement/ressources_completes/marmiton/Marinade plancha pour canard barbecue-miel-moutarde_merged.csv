@@ -1,0 +1,43 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,marinade,nmod,NOUN,0.5910806655883789,[],,
+marinade,plancha,amod,ADJ,0.6703513860702515,[],,
+marinade,canard,nmod,NOUN,0.6754081845283508,[],,
+canard,miel,nmod,NOUN,0.6249151229858398,[],,
+marinade,ingrédient,nmod,NOUN,0.72576904296875,[],,
+marinade,piment,appos,ADV,0.718460202217102,"[{""id"": 922163066, ""node1"": 55044, ""node2"": 128791, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+piment,romarin,amod,ADJ,0.6552769541740417,[],,
+marinade,curry,nmod,NOUN,0.7137614488601685,[],,
+curry,vinaigre,nmod,NOUN,0.7117711901664734,"[{""id"": 112976497, ""node1"": 82813, ""node2"": 145443, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+vinaigre,balsamique,amod,ADJ,0.5980404615402222,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]",r_associated,166.0
+marinade,moutarde,amod,NOUN,0.6792546510696411,[],,
+marinade,miel,amod,NOUN,0.6874116063117981,[],,
+miel,liquide,amod,ADJ,0.6094732880592346,"[{""id"": 62362311, ""node1"": 136055, ""node2"": 140315, ""type"": 0, ""w"": 97.0}, {""id"": 2045771, ""node1"": 136055, ""node2"": 140315, ""type"": 17, ""w"": 35.0}, {""id"": 1939698, ""node1"": 136055, ""node2"": 140315, ""type"": 666, ""w"": 6.0}]",r_associated,97.0
+miel,huile,amod,NOUN,0.6502832770347595,[],,
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,couteau,nmod,NOUN,0.5726497173309326,"[{""id"": 139564, ""node1"": 51905, ""node2"": 32610, ""type"": 0, ""w"": 212.0}, {""id"": 87319445, ""node1"": 51905, ""node2"": 32610, ""type"": 666, ""w"": 1.0}]",r_associated,212.0
+cuillère,film,nmod,NOUN,0.5128580331802368,[],,
+film,alimentaire,amod,ADJ,0.4283865392208099,[],,
+film,couvercle,nmod,NOUN,0.4738414883613586,[],,
+couvercle,planche,amod,NOUN,0.5579204559326172,[],,
+couvercle,découper,acl,VERB,0.5700661540031433,[],,
+découper,Barbecue,obj,PROPN,0.5042600035667419,[],,
+découper,plancher,obj,ADV,0.4874644577503204,[],,
+découper,étape,obj,NOUN,0.4244579374790191,[],,
+prendre,saladier,obj,NOUN,0.5747559070587158,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+verser,ingrédient,obj,NOUN,0.5961355566978455,[],,
+ingrédient,marinade,nmod,NOUN,0.72576904296875,[],,
+prendre,mélanger,acl,VERB,0.4902891516685486,[],,
+morceau,obtenir,acl:relcl,VERB,0.4987834393978119,[],,
+obtenir,découper,advcl,VERB,0.4194468855857849,[],,
+mélanger,canard,obj,NOUN,0.6255875825881958,[],,
+canard,marinade,nmod,NOUN,0.6754081845283508,[],,
+marinade,couvrir,acl,VERB,0.6408652067184448,[],,
+couvrir,saladier,obj,NOUN,0.5768696069717407,[],,
+saladier,film,nmod,NOUN,0.4984114468097687,[],,
+frais,nuit,nmod,NOUN,0.428159236907959,[],,
+sortir,viande,obj,NOUN,0.6884735822677612,[],,
+viande,min,nmod,NOUN,0.4894743263721466,[],,
+cuire,le,obj,DET,0.4500194191932678,[],,
+sortir,cuire,advcl,VERB,0.6743283271789551,[],,

@@ -1,0 +1,51 @@
+node1,node2,relations
+fumé,ingrédient,[]
+sésame,huile,"[{""id"": 12258573, ""node1"": 18404, ""node2"": 141971, ""type"": 0, ""w"": 32.0}, {""id"": 678049, ""node1"": 18404, ""node2"": 141971, ""type"": 5, ""w"": 41.0}, {""id"": 97343670, ""node1"": 18404, ""node2"": 141971, ""type"": 53, ""w"": 29.0}, {""id"": 1786371, ""node1"": 18404, ""node2"": 141971, ""type"": 666, ""w"": 1.0}]"
+sésame,sésame,"[{""id"": 333013, ""node1"": 18404, ""node2"": 18404, ""type"": 19, ""w"": 56.0}]"
+sésame,sel,[]
+sésame,sucre,[]
+sucre,poudre,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]"
+poudre,vinaigre,[]
+vinaigre,riz,"[{""id"": 1023005499, ""node1"": 145443, ""node2"": 24372, ""type"": 0, ""w"": 26.0}, {""id"": 3355970, ""node1"": 145443, ""node2"": 24372, ""type"": 777, ""w"": 10.0}]"
+vinaigre,fumé,[]
+fumé,feuille,[]
+set,poêle,[]
+poêle,bol,[]
+bol,saladier,"[{""id"": 796872211, ""node1"": 145405, ""node2"": 45455, ""type"": 0, ""w"": 28.0}, {""id"": 1029292999, ""node1"": 145405, ""node2"": 45455, ""type"": 67, ""w"": 34.0}]"
+saladier,couteau,[]
+bol,balance,[]
+balance,cuisine,[]
+préparer,riz,"[{""id"": 372620650, ""node1"": 36246, ""node2"": 24372, ""type"": 14, ""w"": 31.0}]"
+riz,collant,"[{""id"": 1041930552, ""node1"": 24372, ""node2"": 50437, ""type"": 17, ""w"": 31.0}]"
+riz,thaï,"[{""id"": 2241114, ""node1"": 24372, ""node2"": 113084, ""type"": 0, ""w"": 54.0}, {""id"": 3140016, ""node1"": 24372, ""node2"": 113084, ""type"": 8, ""w"": 132.0}, {""id"": 2207442, ""node1"": 24372, ""node2"": 113084, ""type"": 17, ""w"": 29.0}]"
+riz,idéal,[]
+riz,Rice,[]
+tasse,eau,"[{""id"": 560383007, ""node1"": 146144, ""node2"": 65012, ""type"": 0, ""w"": 44.0}, {""id"": 2315977, ""node1"": 146144, ""node2"": 65012, ""type"": 28, ""w"": 79.0}, {""id"": 1071497645, ""node1"": 146144, ""node2"": 65012, ""type"": 666, ""w"": 2.0}]"
+tasse,tasse,"[{""id"": 336600, ""node1"": 146144, ""node2"": 146144, ""type"": 19, ""w"": 55.0}]"
+tasse,riz,"[{""id"": 775213361, ""node1"": 146144, ""node2"": 24372, ""type"": 174, ""w"": 25.0}]"
+temps,préparer,[]
+préparer,assaisonnement,[]
+assaisonnement,riz,[]
+bol,vinaigre,[]
+dissoudre,sel,"[{""id"": 1377942, ""node1"": 90446, ""node2"": 13260, ""type"": 0, ""w"": 43.0}, {""id"": 1053467444, ""node1"": 90446, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]"
+préparer,omelette,"[{""id"": 273961890, ""node1"": 36246, ""node2"": 45481, ""type"": 14, ""w"": 30.0}]"
+battre,oeuf,"[{""id"": 2120026, ""node1"": 119162, ""node2"": 116175, ""type"": 14, ""w"": 30.0}]"
+façon,classique,"[{""id"": 549426529, ""node1"": 81363, ""node2"": 131914, ""type"": 17, ""w"": 31.0}]"
+goût,petit,[]
+donner,goût,"[{""id"": 1295451, ""node1"": 12941, ""node2"": 119233, ""type"": 0, ""w"": 30.0}, {""id"": 374011510, ""node1"": 12941, ""node2"": 119233, ""type"": 14, ""w"": 100.0}]"
+goût,asiatique,[]
+cuire,omelette,"[{""id"": 478063300, ""node1"": 5115, ""node2"": 45481, ""type"": 0, ""w"": 27.0}, {""id"": 478063299, ""node1"": 5115, ""node2"": 45481, ""type"": 13, ""w"": 100.0}, {""id"": 557715125, ""node1"": 5115, ""node2"": 45481, ""type"": 14, ""w"": 100.0}]"
+huile,sésame,"[{""id"": 12295235, ""node1"": 141971, ""node2"": 18404, ""type"": 0, ""w"": 43.0}, {""id"": 580644, ""node1"": 141971, ""node2"": 18404, ""type"": 5, ""w"": 32.0}, {""id"": 88080850, ""node1"": 141971, ""node2"": 18404, ""type"": 35, ""w"": 32.0}, {""id"": 380316783, ""node1"": 141971, ""node2"": 18404, ""type"": 54, ""w"": 34.0}]"
+grand,poêle,[]
+épaisse,omelette,[]
+prêt,riz,[]
+poignée,sésame,[]
+set,table,"[{""id"": 158925, ""node1"": 106249, ""node2"": 89591, ""type"": 0, ""w"": 60.0}]"
+set,bambou,[]
+trouver,feuille,[]
+former,couche,[]
+couche,compact,[]
+tiers,feuille,[]
+feuille,autre,[]
+opération,feuille,[]
+devoir,couteau,[]

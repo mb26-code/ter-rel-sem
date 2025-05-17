@@ -1,0 +1,13 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,cuisine,obj,NOUN,0.6019042730331421,[],,
+glace,viande,nmod,NOUN,0.6969918012619019,[],,
+sauce,ajouter,acl:relcl,VERB,0.6782227158546448,[],,
+devoir,sauce,nsubj,NOUN,0.6570888757705688,[],,
+tenir,que,obj,SCONJ,0.4252510368824005,[],,
+partie,second,amod,ADJ,0.426112949848175,[],,
+obtenir,sauce,nsubj:pass,NOUN,0.6787638068199158,"[{""id"": 373013766, ""node1"": 102671, ""node2"": 141110, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+émulsion,sauce,nmod,NOUN,0.670460045337677,"[{""id"": 984668218, ""node1"": 88339, ""node2"": 141110, ""type"": 666, ""w"": 3.0}]",r_aki,3.0
+accompagner,sauce,nsubj,NOUN,0.6814391016960144,"[{""id"": 796713057, ""node1"": 85830, ""node2"": 141110, ""type"": 0, ""w"": 25.0}]",r_associated,25.0
+émulsion,accompagner,acl:relcl,VERB,0.5116133093833923,[],,
+accompagner,viande,obj,NOUN,0.7059446573257446,[],,
+viande,grillé,amod,ADJ,0.719925582408905,"[{""id"": 2164311, ""node1"": 140100, ""node2"": 141899, ""type"": 17, ""w"": 30.0}]",r_carac,30.0

@@ -1,0 +1,43 @@
+head,lemma,dep,pos,sim,relation
+glace,bonbon,nmod,NOUN,0.5677184462547302,[]
+préparer,ingrédient,nsubj,NOUN,0.6240276098251343,[]
+ingrédient,sucre,appos,NOUN,0.7083083987236023,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]"
+sucre,lait,nmod,NOUN,0.6437966823577881,[]
+lait,bonbon,nmod,NOUN,0.5996405482292175,[]
+bonbon,jaune,nmod,NOUN,0.5153875946998596,"[{""id"": 3183843, ""node1"": 120500, ""node2"": 86711, ""type"": 106, ""w"": 1.0}]"
+bonbon,oeuf,nmod,NOUN,0.5651260018348694,[]
+sucre,casserole,nmod,NOUN,0.7403047680854797,[]
+casserole,saladier,nmod,NOUN,0.6254573464393616,[]
+saladier,couteau,nmod,NOUN,0.6030980348587036,[]
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]"
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,congélateur,nmod,NOUN,0.6287068128585815,[]
+congélateur,balance,nmod,NOUN,0.5224598050117493,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+balance,étape,nmod,NOUN,0.4149083495140075,[]
+préparer,casserole,obj,NOUN,0.6656357645988464,"[{""id"": 477633583, ""node1"": 36246, ""node2"": 57253, ""type"": 0, ""w"": 26.0}, {""id"": 477633582, ""node1"": 36246, ""node2"": 57253, ""type"": 31, ""w"": 26.0}]"
+fond,eau,nmod,NOUN,0.581144392490387,"[{""id"": 96691076, ""node1"": 119272, ""node2"": 65012, ""type"": 0, ""w"": 37.0}, {""id"": 98303780, ""node1"": 119272, ""node2"": 65012, ""type"": 9, ""w"": 30.0}]"
+eau,fondre,acl,VERB,0.59840327501297,"[{""id"": 75028675, ""node1"": 65012, ""node2"": 16480, ""type"": 24, ""w"": 52.0}, {""id"": 600063643, ""node1"": 65012, ""node2"": 16480, ""type"": 27, ""w"": 26.0}]"
+fondre,mélanger,advcl,VERB,0.5295987725257874,"[{""id"": 871025, ""node1"": 16480, ""node2"": 37151, ""type"": 0, ""w"": 170.0}, {""id"": 54398946, ""node1"": 16480, ""node2"": 37151, ""type"": 5, ""w"": 103.0}, {""id"": 1578626, ""node1"": 16480, ""node2"": 37151, ""type"": 35, ""w"": 170.0}]"
+casserole,mettre,acl,VERB,0.6041960716247559,[]
+mettre,lait,obj,NOUN,0.6112686395645142,[]
+couper,feu,obj,NOUN,0.5596455335617065,[]
+saladier,mettre,acl,VERB,0.5705810785293579,[]
+mettre,sucre,obj,NOUN,0.6608524322509766,"[{""id"": 374875286, ""node1"": 132366, ""node2"": 139481, ""type"": 0, ""w"": 40.0}, {""id"": 374875285, ""node1"": 132366, ""node2"": 139481, ""type"": 14, ""w"": 100.0}]"
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]"
+incorporer,mélange,obj,NOUN,0.5238626003265381,"[{""id"": 1313256, ""node1"": 3845, ""node2"": 14800, ""type"": 0, ""w"": 31.0}]"
+mélange,sucre,amod,NOUN,0.6809773445129395,[]
+mélange,oeuf,nmod,NOUN,0.5729450583457947,[]
+cuire,jaune,nsubj,NOUN,0.7354980707168579,[]
+cuire,crème,obj,NOUN,0.7758277654647827,"[{""id"": 352516503, ""node1"": 5115, ""node2"": 44001, ""type"": 31, ""w"": 26.0}]"
+crème,feu,nmod,NOUN,0.6510555744171143,[]
+feu,doux,amod,ADJ,0.5496628284454346,[]
+cuire,couper,advcl,VERB,0.6827289462089539,[]
+principe,crème,nmod,NOUN,0.6035681366920471,[]
+crème,anglais,amod,ADJ,0.570907711982727,[]
+ceci,tout,amod,ADV,0.4382637739181518,[]
+pouvoir,ceci,nsubj,PRON,0.4129445850849151,[]
+ceci,préparer,acl,VERB,0.4884348213672638,[]
+mettre,bonbon,obj,NOUN,0.5396356582641602,[]
+mettre,tout,obj,NOUN,0.4651019871234894,[]
+fonction,appareil,nmod,NOUN,0.4290104806423187,[]

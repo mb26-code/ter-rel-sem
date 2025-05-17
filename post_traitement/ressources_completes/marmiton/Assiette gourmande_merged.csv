@@ -1,0 +1,44 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+cerise,titre,nsubj,NOUN,0.448016345500946,[],,
+titre,assiette,nmod,NOUN,0.5100160241127014,[],,
+assiette,gourmand,amod,ADJ,0.6271194815635681,[],,
+assiette,ingrédient,nmod,NOUN,0.6937029361724854,[],,
+assiette,sel,appos,NOUN,0.7196466326713562,"[{""id"": 588329870, ""node1"": 62735, ""node2"": 13260, ""type"": 28, ""w"": 33.0}]",r_lieu-1,33.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,moutarde,amod,ADJ,0.6478980779647827,"[{""id"": 584573808, ""node1"": 139597, ""node2"": 28335, ""type"": 0, ""w"": 17.0}, {""id"": 993686855, ""node1"": 139597, ""node2"": 28335, ""type"": 666, ""w"": 2.0}]",r_associated,17.0
+poivre,vinaigre,acl,NOUN,0.6644958257675171,"[{""id"": 584573829, ""node1"": 139597, ""node2"": 145443, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+assiette,tomate,amod,NOUN,0.6897181272506714,"[{""id"": 11333959, ""node1"": 62735, ""node2"": 22138, ""type"": 28, ""w"": 38.0}]",r_lieu-1,38.0
+dinde,salade,nmod,NOUN,0.6887523531913757,[],,
+dinde,oeuf,nmod,NOUN,0.6287729740142822,[],,
+oeuf,pignon,nmod,NOUN,0.5276380777359009,[],,
+pignon,pomme,nmod,NOUN,0.5491123199462891,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+cerise,top,obj,NOUN,0.4044185876846313,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+four,set,nmod,NOUN,0.553033173084259,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+poêle,saladier,nmod,NOUN,0.6812556385993958,[],,
+set,assiette,appos,NOUN,0.4206205308437347,[],,
+assiette,étape,nmod,NOUN,0.483820229768753,[],,
+top,chapelure,nmod,NOUN,0.4568787813186645,[],,
+cuire,le,obj,PRON,0.4500194191932678,[],,
+griller,graine,obj,NOUN,0.6328197717666626,[],,
+griller,remuer,advcl,VERB,0.6192041039466858,[],,
+dorer,lui,nsubj:pass,PRON,0.5067495107650757,[],,
+remuer,dorer,advcl,VERB,0.5522658824920654,[],,
+préparer,assiette,obj,NOUN,0.6424431800842285,"[{""id"": 441020304, ""node1"": 36246, ""node2"": 62735, ""type"": 0, ""w"": 31.0}, {""id"": 441020303, ""node1"": 36246, ""node2"": 62735, ""type"": 14, ""w"": 100.0}, {""id"": 376201123, ""node1"": 36246, ""node2"": 62735, ""type"": 16, ""w"": 26.0}]",r_patient,100.0
+disposer,salade,obj,NOUN,0.6496737003326416,[],,
+salade,mélanger,acl,VERB,0.7004945874214172,"[{""id"": 1898840, ""node1"": 118908, ""node2"": 37151, ""type"": 42, ""w"": 150.0}]",r_has_causatif,150.0
+ajouter,graine,obj,NOUN,0.5452349185943604,[],,
+disposer,tomate,obj,NOUN,0.6404638290405273,[],,
+tomate,couper,acl,VERB,0.6290057301521301,"[{""id"": 920912564, ""node1"": 22138, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 628044041, ""node1"": 22138, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+tomate,oeuf,nmod,NOUN,0.6164442896842957,[],,
+oeuf,dur,amod,ADJ,0.5033280849456787,"[{""id"": 238844, ""node1"": 116175, ""node2"": 72731, ""type"": 0, ""w"": 73.0}, {""id"": 1911997, ""node1"": 116175, ""node2"": 72731, ""type"": 17, ""w"": 85.0}, {""id"": 1012355283, ""node1"": 116175, ""node2"": 72731, ""type"": 666, ""w"": 2.0}]",r_carac,85.0
+oeuf,couper,acl,VERB,0.574720561504364,[],,
+pomme,tranche,nmod,NOUN,0.5647336840629578,[],,
+viande,chaud,amod,ADJ,0.7223507165908813,[],,
+préparer,vinaigrette,obj,NOUN,0.6360166668891907,"[{""id"": 438786344, ""node1"": 36246, ""node2"": 47740, ""type"": 0, ""w"": 28.0}, {""id"": 15084894, ""node1"": 36246, ""node2"": 47740, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+verser,servir,advcl,VERB,0.5017194747924805,"[{""id"": 383587, ""node1"": 104506, ""node2"": 7888, ""type"": 0, ""w"": 70.0}, {""id"": 582614, ""node1"": 104506, ""node2"": 7888, ""type"": 5, ""w"": 87.0}]",r_syn,87.0
+servir,assiette,obj,NOUN,0.6207365393638611,"[{""id"": 1610967, ""node1"": 7888, ""node2"": 62735, ""type"": 0, ""w"": 80.0}, {""id"": 15085526, ""node1"": 7888, ""node2"": 62735, ""type"": 14, ""w"": 30.0}, {""id"": 376201319, ""node1"": 7888, ""node2"": 62735, ""type"": 16, ""w"": 26.0}, {""id"": 376064809, ""node1"": 7888, ""node2"": 62735, ""type"": 31, ""w"": 26.0}, {""id"": 14658825, ""node1"": 7888, ""node2"": 62735, ""type"": 41, ""w"": 31.0}]",r_associated,80.0

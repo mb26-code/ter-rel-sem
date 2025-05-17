@@ -1,0 +1,43 @@
+node1,node2,relations
+velouté,carotte,[]
+velouté,ingrédient,[]
+velouté,beurre,"[{""id"": 442259975, ""node1"": 83664, ""node2"": 140377, ""type"": 777, ""w"": 10.0}]"
+beurre,sel,"[{""id"": 9986816, ""node1"": 140377, ""node2"": 13260, ""type"": 0, ""w"": 43.0}, {""id"": 649508, ""node1"": 140377, ""node2"": 13260, ""type"": 9, ""w"": 56.0}, {""id"": 3979381, ""node1"": 140377, ""node2"": 13260, ""type"": 777, ""w"": 10.0}]"
+sel,poivre,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]"
+poivre,curry,"[{""id"": 796941044, ""node1"": 139597, ""node2"": 82813, ""type"": 0, ""w"": 28.0}]"
+curry,carotte,[]
+curry,bouillon,"[{""id"": 914309702, ""node1"": 82813, ""node2"": 146582, ""type"": 0, ""w"": 20.0}]"
+bouillon,volaille,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]"
+velouté,louche,[]
+louche,mixeur,[]
+mixeur,casserole,[]
+casserole,pinceau,[]
+pinceau,couteau,"[{""id"": 558826967, ""node1"": 79400, ""node2"": 32610, ""type"": 0, ""w"": 34.0}]"
+couteau,couvercle,[]
+couvercle,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,mixeur,[]
+mixeur,blender,"[{""id"": 918274140, ""node1"": 78314, ""node2"": 1979239, ""type"": 0, ""w"": 21.0}, {""id"": 1029360733, ""node1"": 78314, ""node2"": 1979239, ""type"": 67, ""w"": 31.0}, {""id"": 1032954527, ""node1"": 78314, ""node2"": 1979239, ""type"": 78, ""w"": 26.0}]"
+balance,cuisine,[]
+balance,étape,[]
+velouté,fondre,[]
+fondre,beurre,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]"
+casserole,grand,[]
+ajouter,oignon,[]
+morceau,gros,[]
+couper,morceau,"[{""id"": 914859385, ""node1"": 128828, ""node2"": 65364, ""type"": 0, ""w"": 22.0}, {""id"": 8801222, ""node1"": 128828, ""node2"": 65364, ""type"": 14, ""w"": 5.0}, {""id"": 1066576858, ""node1"": 128828, ""node2"": 65364, ""type"": 666, ""w"": 2.0}]"
+opération,carotte,[]
+cube,volaille,[]
+dorer,mélanger,[]
+cuire,min,[]
+ajouter,eau,[]
+eau,recouvrir,"[{""id"": 1030660857, ""node1"": 65012, ""node2"": 26206, ""type"": 0, ""w"": 20.0}]"
+recouvrir,légume,[]
+ajouter,curry,"[{""id"": 31845118, ""node1"": 25099, ""node2"": 82813, ""type"": 14, ""w"": 30.0}]"
+feu,moyen,[]
+vérifier,cuisson,"[{""id"": 31862099, ""node1"": 76431, ""node2"": 60056, ""type"": 14, ""w"": 64.0}]"
+légume,pointe,[]
+pointe,couteau,"[{""id"": 8856589, ""node1"": 141611, ""node2"": 32610, ""type"": 0, ""w"": 16.0}, {""id"": 251482, ""node1"": 141611, ""node2"": 32610, ""type"": 10, ""w"": 53.0}]"
+passer,préparation,[]
+préparation,blender,[]
+appétit,bon,[]

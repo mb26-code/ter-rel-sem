@@ -1,0 +1,52 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+recette,base,nmod,NOUN,0.6212873458862305,[],,
+base,vinaigre,nmod,NOUN,0.6405686140060425,"[{""id"": 77916504, ""node1"": 72257, ""node2"": 145443, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+recette,composer,acl,VERB,0.5859721899032593,[],,
+légume,couper,acl,VERB,0.6505833268165588,"[{""id"": 900892207, ""node1"": 120603, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 8555448, ""node1"": 120603, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+légume,appartenir,acl:relcl,VERB,0.5925102233886719,[],,
+prendre,recette,nsubj,NOUN,0.645927906036377,[],,
+prendre,source,obj,NOUN,0.4374672174453735,"[{""id"": 422877310, ""node1"": 86306, ""node2"": 99014, ""type"": 14, ""w"": 41.0}]",r_patient,41.0
+tradition,culinaire,amod,ADJ,0.5760958790779114,[],,
+tradition,indien,amod,ADJ,0.4345638751983642,[],,
+pouvoir,ingrédient,nsubj,NOUN,0.547187864780426,[],,
+chou-fleur,tomate,appos,NOUN,0.6430220007896423,[],,
+tomate,vert,amod,ADJ,0.5797052383422852,"[{""id"": 1967747, ""node1"": 22138, ""node2"": 26976, ""type"": 17, ""w"": 27.0}, {""id"": 3164033, ""node1"": 22138, ""node2"": 26976, ""type"": 106, ""w"": 13.0}]",r_carac,27.0
+nombre,légume,nmod,NOUN,0.5886127352714539,[],,
+découper,légume,nsubj:pass,NOUN,0.6661897301673889,[],,
+morceau,petit,amod,ADJ,0.5585225224494934,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+mélange,moutarde,nmod,NOUN,0.6386436223983765,"[{""id"": 919955210, ""node1"": 14800, ""node2"": 28335, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+mélange,vinaigre,nmod,NOUN,0.6573982834815979,[],,
+blanchir,tel,amod,ADJ,0.4697493612766266,[],,
+blanchir,épice,obj,NOUN,0.6925239562988281,[],,
+origine,couleur,nmod,NOUN,0.4452805817127228,[],,
+couleur,jaune,amod,ADJ,0.4742509126663208,"[{""id"": 70620, ""node1"": 40056, ""node2"": 86711, ""type"": 0, ""w"": 509.95}, {""id"": 232491, ""node1"": 40056, ""node2"": 86711, ""type"": 8, ""w"": 158.0}, {""id"": 1038921079, ""node1"": 40056, ""node2"": 86711, ""type"": 9, ""w"": 26.0}, {""id"": 199365, ""node1"": 40056, ""node2"": 86711, ""type"": 17, ""w"": 249.0}, {""id"": 11348203, ""node1"": 40056, ""node2"": 86711, ""type"": 28, ""w"": 38.0}, {""id"": 53246445, ""node1"": 40056, ""node2"": 86711, ""type"": 35, ""w"": 51.0}, {""id"": 3159743, ""node1"": 40056, ""node2"": 86711, ""type"": 106, ""w"": 29.0}, {""id"": 1522478, ""node1"": 40056, ""node2"": 86711, ""type"": 666, ""w"": 15.0}]",r_associated,509.95
+couleur,beaucoup,nmod,ADV,0.4913969039916992,[],,
+milieu,siècle,nmod,NOUN,0.40152508020401,[],,
+contenir,légume,obj,NOUN,0.64974045753479,[],,
+vinaigre,malt,nmod,NOUN,0.5051373243331909,"[{""id"": 3355971, ""node1"": 145443, ""node2"": 33040, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+malt,type,nmod,NOUN,0.4741526246070862,[],,
+couleur,vif,amod,ADJ,0.4412577152252197,"[{""id"": 21115775, ""node1"": 40056, ""node2"": 80204, ""type"": 0, ""w"": 64.0}, {""id"": 246268787, ""node1"": 40056, ""node2"": 80204, ""type"": 8, ""w"": 26.0}]",r_associated,64.0
+utilisation,safran,nmod,NOUN,0.5554702877998352,[],,
+grand,morceau,nsubj,NOUN,0.5333898067474365,"[{""id"": 1019695567, ""node1"": 23178, ""node2"": 65364, ""type"": 17, ""w"": -5.0}, {""id"": 1021944743, ""node1"": 23178, ""node2"": 65364, ""type"": 23, ""w"": 21.0}]",r_carac-1,21.0
+accompagnement,plat,nmod,NOUN,0.6072615385055542,"[{""id"": 97341293, ""node1"": 22605, ""node2"": 36327, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+employer,étaler,advcl,VERB,0.4213197231292724,[],,
+consommation,grand,amod,ADJ,0.4867260158061981,[],,
+produit,consommation,nmod,NOUN,0.4592465758323669,"[{""id"": 998427731, ""node1"": 32667, ""node2"": 57470, ""type"": 134, ""w"": 28.0}, {""id"": 998427706, ""node1"": 32667, ""node2"": 57470, ""type"": 137, ""w"": 28.0}, {""id"": 653384509, ""node1"": 32667, ""node2"": 57470, ""type"": 666, ""w"": 21.0}]",r_promote,28.0
+composition,lunch,nmod,NOUN,0.4582140445709228,[],,
+être,couleur,obj,NOUN,0.4285704493522644,[],,
+couleur,vert,amod,ADJ,0.4706926643848419,"[{""id"": 70619, ""node1"": 40056, ""node2"": 26976, ""type"": 0, ""w"": 497.0}, {""id"": 232490, ""node1"": 40056, ""node2"": 26976, ""type"": 8, ""w"": 123.0}, {""id"": 199363, ""node1"": 40056, ""node2"": 26976, ""type"": 17, ""w"": 91.0}, {""id"": 3160154, ""node1"": 40056, ""node2"": 26976, ""type"": 106, ""w"": 24.0}, {""id"": 1794528, ""node1"": 40056, ""node2"": 26976, ""type"": 666, ""w"": 16.0}]",r_associated,497.0
+couleur,clair,amod,ADJ,0.4231612384319305,"[{""id"": 21115738, ""node1"": 40056, ""node2"": 4215, ""type"": 0, ""w"": 47.0}, {""id"": 13199548, ""node1"": 40056, ""node2"": 4215, ""type"": 17, ""w"": 30.0}, {""id"": 3174412, ""node1"": 40056, ""node2"": 4215, ""type"": 106, ""w"": 34.0}]",r_associated,47.0
+avoir,saveur,obj,NOUN,0.5560638904571533,[],,
+crème,frais,amod,ADJ,0.5870347619056702,[],,
+recette,autre,amod,ADJ,0.6219144463539124,[],,
+contenir,recette,nsubj,NOUN,0.636847972869873,[],,
+contenir,tomate,obj,NOUN,0.619605541229248,"[{""id"": 374396469, ""node1"": 34519, ""node2"": 22138, ""type"": 0, ""w"": 32.0}, {""id"": 374396468, ""node1"": 34519, ""node2"": 22138, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+poivron,vert,amod,ADJ,0.5607750415802002,"[{""id"": 273172, ""node1"": 38257, ""node2"": 26976, ""type"": 0, ""w"": 151.0}, {""id"": 1944117, ""node1"": 38257, ""node2"": 26976, ""type"": 17, ""w"": 36.0}, {""id"": 3154905, ""node1"": 38257, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]",r_associated,151.0
+sauce,base,nmod,NOUN,0.6639491319656372,"[{""id"": 651253426, ""node1"": 141110, ""node2"": 72257, ""type"": 0, ""w"": 25.0}]",r_associated,25.0
+base,légume,nmod,NOUN,0.6855320930480957,[],,
+sauce,vinaigre,nmod,NOUN,0.7331048846244812,"[{""id"": 601189762, ""node1"": 141110, ""node2"": 145443, ""type"": 0, ""w"": 52.0}, {""id"": 96715056, ""node1"": 141110, ""node2"": 145443, ""type"": 50, ""w"": 16.0}, {""id"": 27597824, ""node1"": 141110, ""node2"": 145443, ""type"": 777, ""w"": 10.0}]",r_associated,52.0
+oignon,légume,nsubj,NOUN,0.6643749475479126,"[{""id"": 389614, ""node1"": 123307, ""node2"": 120603, ""type"": 0, ""w"": 145.0}, {""id"": 475941, ""node1"": 123307, ""node2"": 120603, ""type"": 3, ""w"": 26.0}, {""id"": 9905181, ""node1"": 123307, ""node2"": 120603, ""type"": 6, ""w"": 142.0}, {""id"": 1767181, ""node1"": 123307, ""node2"": 120603, ""type"": 666, ""w"": 7.0}, {""id"": 10717774, ""node1"": 123307, ""node2"": 120603, ""type"": 777, ""w"": 1.0}]",r_isa,142.0
+légume,utiliser,acl,VERB,0.6606505513191223,[],,
+oignon,petit,amod,ADJ,0.6169144511222839,"[{""id"": 96738917, ""node1"": 123307, ""node2"": 55222, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+accompagner,côte,obj,NOUN,0.4109169840812683,[],,
+côte,porc,nmod,NOUN,0.5495603680610657,"[{""id"": 7156687, ""node1"": 141949, ""node2"": 71135, ""type"": 0, ""w"": 51.0}]",r_associated,51.0

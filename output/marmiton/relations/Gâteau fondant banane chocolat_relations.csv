@@ -1,0 +1,53 @@
+node1,node2,relations
+gâteau,fondre,[]
+fondre,banane,[]
+banane,chocolat,[]
+fondre,ingrédient,[]
+ingrédient,chocolat,[]
+chocolat,beurre,"[{""id"": 615064017, ""node1"": 34157, ""node2"": 140377, ""type"": 0, ""w"": 27.0}]"
+ingrédient,sucre,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]"
+sucre,farine,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]"
+sucre,oeuf,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]"
+gâteau,grille,[]
+grille,pâtisserie,[]
+pâtisserie,moule,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]"
+grille,manquer,[]
+manquer,bol,[]
+bol,casserole,[]
+casserole,fouet,[]
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 307.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 267.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+fouet,four,"[{""id"": 288507172, ""node1"": 73888, ""node2"": 9190, ""type"": 0, ""w"": 55.0}]"
+four,balance,[]
+balance,cuisine,[]
+balance,étape,[]
+moule,grand,[]
+moule,rond,[]
+laisser,bol,[]
+fondre,beurre,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]"
+feu,doux,[]
+fondre,blanc,[]
+blanc,jaune,"[{""id"": 246331, ""node1"": 15196, ""node2"": 86711, ""type"": 0, ""w"": 56.0}]"
+jaune,oeuf,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]"
+mettre,jaune,[]
+jaune,sucre,[]
+fouet,électrique,[]
+blanchir,que,[]
+ajouter,beurre,"[{""id"": 373014956, ""node1"": 25099, ""node2"": 140377, ""type"": 14, ""w"": 31.0}]"
+beurre,fondre,"[{""id"": 652231036, ""node1"": 140377, ""node2"": 16480, ""type"": 0, ""w"": 21.0}, {""id"": 24771033, ""node1"": 140377, ""node2"": 16480, ""type"": 24, ""w"": 137.0}, {""id"": 1886772, ""node1"": 140377, ""node2"": 16480, ""type"": 26, ""w"": 33.0}]"
+fondre,verser,[]
+verser,dépôt,[]
+dépôt,blanc,[]
+dépôt,fond,"[{""id"": 417892245, ""node1"": 63865, ""node2"": 119272, ""type"": 0, ""w"": 15.0}, {""id"": 24654460, ""node1"": 63865, ""node2"": 119272, ""type"": 35, ""w"": -5.0}]"
+dépôt,casserole,[]
+blanc,neige,"[{""id"": 116991, ""node1"": 15196, ""node2"": 3699, ""type"": 0, ""w"": 509.77}, {""id"": 117866, ""node1"": 15196, ""node2"": 3699, ""type"": 23, ""w"": 320.0}, {""id"": 1622496, ""node1"": 15196, ""node2"": 3699, ""type"": 666, ""w"": 12.0}]"
+neige,ferme,[]
+pincée,sel,"[{""id"": 665112730, ""node1"": 122023, ""node2"": 13260, ""type"": 174, ""w"": 40.0}, {""id"": 990072491, ""node1"": 122023, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]"
+petit,petit,"[{""id"": 323078, ""node1"": 55222, ""node2"": 55222, ""type"": 19, ""w"": 58.0}]"
+incorporer,petit,[]
+moule,alterner,[]
+pépite,chocolat,"[{""id"": 365455, ""node1"": 25082, ""node2"": 34157, ""type"": 0, ""w"": 152.0}, {""id"": 376056261, ""node1"": 25082, ""node2"": 34157, ""type"": 50, ""w"": 35.0}, {""id"": 930408960, ""node1"": 25082, ""node2"": 34157, ""type"": 666, ""w"": 2.0}]"
+pépite,quantité,[]
+quantité,variable,"[{""id"": 31833915, ""node1"": 78869, ""node2"": 6651, ""type"": 17, ""w"": 69.0}]"
+quantité,goût,[]
+cuire,minute,[]
+déguster,froid,"[{""id"": 405871111, ""node1"": 80710, ""node2"": 49803, ""type"": 34, ""w"": 26.0}]"

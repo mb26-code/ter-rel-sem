@@ -1,0 +1,27 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+verser,ingrédient,nsubj,NOUN,0.5961355566978455,[],,
+ingrédient,piment,appos,NOUN,0.667888879776001,"[{""id"": 920040264, ""node1"": 123418, ""node2"": 128791, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+tofu,porc,appos,VERB,0.6584206223487854,[],,
+ingrédient,marmite,appos,NOUN,0.7438843250274658,[],,
+marmite,top,nmod,NOUN,0.4777369797229767,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+four,bol,nmod,NOUN,0.6603272557258606,[],,
+bol,couvercle,nmod,NOUN,0.541790783405304,[],,
+couvercle,étape,nmod,NOUN,0.4822983145713806,[],,
+top,couper,acl,VERB,0.4023889005184173,[],,
+couper,porc,nmod,NOUN,0.6351144313812256,[],,
+verser,huile,obj,NOUN,0.6115446090698242,"[{""id"": 227659, ""node1"": 104506, ""node2"": 141971, ""type"": 14, ""w"": 57.0}, {""id"": 645787360, ""node1"": 104506, ""node2"": 141971, ""type"": 666, ""w"": 2.0}]",r_patient,57.0
+échalote,gingembre,nmod,NOUN,0.6310042142868042,[],,
+prêt,fois,nsubj,NOUN,0.4199467301368713,[],,
+verser,morceau,obj,NOUN,0.5751097798347473,[],,
+devoir,eau,nsubj,NOUN,0.5510714650154114,[],,
+recouvrir,tofu,obj,NOUN,0.6283369064331055,[],,
+cuire,tofu,nsubj,NOUN,0.7492766380310059,[],,
+ajouter,cuire,advcl,VERB,0.695756196975708,[],,
+bout,minute,nmod,NOUN,0.430193156003952,[],,
+ajouter,sauce,obj,NOUN,0.6714595556259155,[],,
+morceau,tout,amod,ADJ,0.5527627468109131,"[{""id"": 797358822, ""node1"": 65364, ""node2"": 136232, ""type"": 0, ""w"": 22.0}, {""id"": 1724842, ""node1"": 65364, ""node2"": 136232, ""type"": 7, ""w"": 42.0}, {""id"": 377017279, ""node1"": 65364, ""node2"": 136232, ""type"": 20, ""w"": 31.0}]",r_anto,42.0
+morceau,avoir,acl:relcl,VERB,0.4641084671020508,[],,
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]",r_carac-1,5.0

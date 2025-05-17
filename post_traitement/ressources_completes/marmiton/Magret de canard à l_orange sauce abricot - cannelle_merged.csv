@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+ingrédient,cannelle,amod,ADJ,0.7036176919937134,[],,
+ingrédient,sel,nmod,NOUN,0.6997572183609009,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+sel,poivre,nmod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,curry,nmod,NOUN,0.6854056119918823,"[{""id"": 796941044, ""node1"": 139597, ""node2"": 82813, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+curry,orange,nmod,NOUN,0.6473998427391052,"[{""id"": 3190196, ""node1"": 82813, ""node2"": 145382, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+orange,vinaigre,nmod,NOUN,0.603207528591156,[],,
+vinaigre,balsamique,amod,ADJ,0.5980404615402222,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]",r_associated,166.0
+vinaigre,miel,amod,NOUN,0.6219134330749512,"[{""id"": 921832676, ""node1"": 145443, ""node2"": 136055, ""type"": 0, ""w"": 20.0}, {""id"": 3355994, ""node1"": 145443, ""node2"": 136055, ""type"": 777, ""w"": 10.0}]",r_associated,20.0
+miel,liquide,amod,ADJ,0.6094732880592346,"[{""id"": 62362311, ""node1"": 136055, ""node2"": 140315, ""type"": 0, ""w"": 97.0}, {""id"": 2045771, ""node1"": 136055, ""node2"": 140315, ""type"": 17, ""w"": 35.0}, {""id"": 1939698, ""node1"": 136055, ""node2"": 140315, ""type"": 666, ""w"": 6.0}]",r_associated,97.0
+sel,Canard,nmod,PROPN,0.6515446305274963,[],,
+sel,jus,nmod,NOUN,0.7010449171066284,[],,
+ingrédient,abricot,acl,NOUN,0.5764672756195068,[],,
+abricot,cannelle,amod,ADJ,0.574161171913147,"[{""id"": 601188123, ""node1"": 118502, ""node2"": 112959, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+mettre,vinaigre,obj,NOUN,0.6119012236595154,[],,
+commencer,vinaigre,nsubj,NOUN,0.6239471435546875,[],,
+ajouter,jus,obj,NOUN,0.5800648331642151,[],,
+jus,abricot,nmod,NOUN,0.567959725856781,"[{""id"": 1804427, ""node1"": 53310, ""node2"": 118502, ""type"": 0, ""w"": 57.0}, {""id"": 9979850, ""node1"": 53310, ""node2"": 118502, ""type"": 10, ""w"": 4.0}]",r_associated,57.0
+ajouter,épice,obj,NOUN,0.6555647850036621,[],,
+ajouter,poivrer,advcl,VERB,0.4842216670513153,[],,
+mélanger,éviter,advcl,VERB,0.4410018622875213,[],,
+ajouter,orange,obj,NOUN,0.5024644732475281,[],,
+orange,séparer,acl,VERB,0.4840374886989593,[],,
+orange,enlever,acl,VERB,0.4920540452003479,[],,
+enlever,peau,obj,NOUN,0.4885257482528686,"[{""id"": 15076500, ""node1"": 82345, ""node2"": 109785, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+peau,quartier,nmod,NOUN,0.4748843014240265,[],,
+face,gras,amod,ADJ,0.5118205547332764,[],,
+face,maigre,amod,ADJ,0.4115781486034393,[],,
+cuisson,meilleur,amod,ADJ,0.7078227400779724,[],,
+permettre,cuisson,obj,NOUN,0.6865873336791992,[],,
+laisser,remuer,advcl,VERB,0.476580411195755,[],,
+remuer,temps,obj,NOUN,0.5274296998977661,[],,
+cuisson,viande,nmod,NOUN,0.7976993322372437,"[{""id"": 568820873, ""node1"": 60056, ""node2"": 140100, ""type"": 0, ""w"": 44.0}]",r_associated,44.0

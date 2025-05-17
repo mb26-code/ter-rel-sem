@@ -1,0 +1,30 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,gâteau,nmod,NOUN,0.5333040952682495,[],,
+gâteau,famille,nmod,NOUN,0.5803079009056091,[],,
+famille,petit,nmod,ADJ,0.4630897641181946,[],,
+lire,ingrédient,nmod,NOUN,0.433155357837677,[],,
+lire,chocolat,nmod,NOUN,0.4473916888236999,[],,
+lire,petit,amod,ADJ,0.4110519587993622,[],,
+lire,café,nmod,NOUN,0.4858525395393371,"[{""id"": 437513907, ""node1"": 131240, ""node2"": 66324, ""type"": 0, ""w"": 26.0}, {""id"": 1035575816, ""node1"": 131240, ""node2"": 66324, ""type"": 13, ""w"": 30.0}, {""id"": 409632, ""node1"": 131240, ""node2"": 66324, ""type"": 31, ""w"": 55.0}]",r_action_lieu,55.0
+lire,grille,nmod,NOUN,0.4107583463191986,[],,
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+pâtisserie,moule,nmod,NOUN,0.56337571144104,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]",r_associated,24.0
+grille,manquer,acl,VERB,0.4866251647472381,[],,
+casserole,couvercle,obj,NOUN,0.6508210897445679,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]",r_has_part,100.0
+couvercle,plat,nmod,ADJ,0.6402535438537598,"[{""id"": 961890557, ""node1"": 89523, ""node2"": 36327, ""type"": 10, ""w"": 24.0}, {""id"": 372856875, ""node1"": 89523, ""node2"": 36327, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+couvercle,étape,nmod,NOUN,0.4822983145713806,[],,
+lire,fondre,acl,VERB,0.410992830991745,[],,
+fondre,chocolat,obj,NOUN,0.5867562890052795,"[{""id"": 28589116, ""node1"": 16480, ""node2"": 34157, ""type"": 0, ""w"": 63.0}, {""id"": 24768886, ""node1"": 16480, ""node2"": 34157, ""type"": 13, ""w"": 30.0}, {""id"": 1011304980, ""node1"": 16480, ""node2"": 34157, ""type"": 14, ""w"": 30.0}, {""id"": 1009801551, ""node1"": 16480, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]",r_associated,63.0
+préparer,café,obj,NOUN,0.570490837097168,"[{""id"": 456248881, ""node1"": 36246, ""node2"": 66324, ""type"": 0, ""w"": 26.0}, {""id"": 1035575822, ""node1"": 36246, ""node2"": 66324, ""type"": 13, ""w"": 30.0}, {""id"": 456248880, ""node1"": 36246, ""node2"": 66324, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+plat,cake,nmod,NOUN,0.6441904902458191,[],,
+plat,recouvrir,acl,VERB,0.6233996152877808,[],,
+recouvrir,fond,obj,NOUN,0.4873187243938446,[],,
+café,attention,appos,NOUN,0.5494309663772583,[],,
+devoir,café,nsubj,NOUN,0.5284547209739685,[],,
+café,devoir,acl:relcl,VERB,0.5284547209739685,[],,
+tremper,biscuit,obj,NOUN,0.6192773580551147,"[{""id"": 1652067, ""node1"": 119858, ""node2"": 62524, ""type"": 0, ""w"": 71.0}, {""id"": 477351197, ""node1"": 119858, ""node2"": 62524, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+alterner,biscuit,obj,NOUN,0.5964532494544983,[],,
+alterner,café,nmod,NOUN,0.5546298027038574,[],,
+remplir,moitié,obj,NOUN,0.4294357299804687,[],,
+moitié,plat,nmod,NOUN,0.6229119896888733,[],,
+délicieux,gâteau,nsubj,NOUN,0.6188614964485168,"[{""id"": 613066929, ""node1"": 145464, ""node2"": 2149, ""type"": 0, ""w"": 30.0}, {""id"": 33803781, ""node1"": 145464, ""node2"": 2149, ""type"": 23, ""w"": 56.0}]",r_carac-1,56.0

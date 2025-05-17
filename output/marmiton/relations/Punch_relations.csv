@@ -1,0 +1,24 @@
+node1,node2,relations
+Punch,ingrédient,[]
+Punch,sucre,[]
+sucre,canne,"[{""id"": 107598, ""node1"": 139481, ""node2"": 144267, ""type"": 0, ""w"": 241.0}, {""id"": 160436, ""node1"": 139481, ""node2"": 144267, ""type"": 15, ""w"": 78.0}, {""id"": 1763995, ""node1"": 139481, ""node2"": 144267, ""type"": 666, ""w"": 1.0}]"
+sucre,jus,[]
+jus,orange,"[{""id"": 237499, ""node1"": 53310, ""node2"": 145382, ""type"": 0, ""w"": 204.0}, {""id"": 10003691, ""node1"": 53310, ""node2"": 145382, ""type"": 10, ""w"": 28.0}, {""id"": 3171890, ""node1"": 53310, ""node2"": 145382, ""type"": 106, ""w"": 5.0}, {""id"": 1771771, ""node1"": 53310, ""node2"": 145382, ""type"": 666, ""w"": 6.0}]"
+jus,jus,"[{""id"": 311916, ""node1"": 53310, ""node2"": 53310, ""type"": 19, ""w"": 55.0}, {""id"": 475864937, ""node1"": 53310, ""node2"": 53310, ""type"": 170, ""w"": 35.0}]"
+jus,mangue,"[{""id"": 91195875, ""node1"": 53310, ""node2"": 54862, ""type"": 0, ""w"": 53.0}]"
+mangue,jus,"[{""id"": 1619052, ""node1"": 54862, ""node2"": 53310, ""type"": 0, ""w"": 66.0}, {""id"": 1582526, ""node1"": 54862, ""node2"": 53310, ""type"": 666, ""w"": 1.0}]"
+jus,abricot,"[{""id"": 1804427, ""node1"": 53310, ""node2"": 118502, ""type"": 0, ""w"": 57.0}, {""id"": 9979850, ""node1"": 53310, ""node2"": 118502, ""type"": 10, ""w"": 4.0}]"
+jus,marmite,[]
+marmite,saladier,[]
+saladier,réfrigérateur,[]
+réfrigérateur,étape,[]
+saladier,grand,"[{""id"": 1077330492, ""node1"": 45455, ""node2"": 23178, ""type"": 0, ""w"": 50.0}, {""id"": 31838076, ""node1"": 45455, ""node2"": 23178, ""type"": 17, ""w"": 60.0}, {""id"": 1668931, ""node1"": 45455, ""node2"": 23178, ""type"": 666, ""w"": 2.0}]"
+titre,saladier,[]
+saladier,pouvoir,[]
+contenir,litre,[]
+contenir,marmite,[]
+ingrédient,tout,[]
+verser,ingrédient,[]
+ingrédient,banane,"[{""id"": 578773781, ""node1"": 123418, ""node2"": 34046, ""type"": 8, ""w"": 26.0}]"
+banane,couper,[]
+réserver,heure,[]

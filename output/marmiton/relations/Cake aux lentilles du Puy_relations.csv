@@ -1,0 +1,35 @@
+node1,node2,relations
+Cake,lentille,[]
+Cake,levure,[]
+oeuf,huile,[]
+huile,noix,"[{""id"": 374335, ""node1"": 141971, ""node2"": 30910, ""type"": 0, ""w"": 81.0}, {""id"": 2319254, ""node1"": 141971, ""node2"": 30910, ""type"": 42, ""w"": 70.0}]"
+Cake,grille,[]
+grille,pâtisserie,[]
+pâtisserie,four,"[{""id"": 942271912, ""node1"": 25966, ""node2"": 9190, ""type"": 0, ""w"": 24.0}, {""id"": 15790548, ""node1"": 25966, ""node2"": 9190, ""type"": 15, ""w"": 58.0}, {""id"": 1789859, ""node1"": 25966, ""node2"": 9190, ""type"": 666, ""w"": 1.0}]"
+four,saladier,[]
+grille,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,aluminium,"[{""id"": 662512817, ""node1"": 51905, ""node2"": 95561, ""type"": 0, ""w"": 23.0}, {""id"": 1051888785, ""node1"": 51905, ""node2"": 95561, ""type"": 666, ""w"": 2.0}]"
+aluminium,balance,[]
+balance,cuisine,[]
+balance,plat,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]"
+mélanger,farine,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]"
+mélanger,obtenir,[]
+obtenir,mélange,[]
+mélange,homogène,"[{""id"": 914526136, ""node1"": 14800, ""node2"": 124759, ""type"": 0, ""w"": 21.0}, {""id"": 33170626, ""node1"": 14800, ""node2"": 124759, ""type"": 17, ""w"": 27.0}]"
+ajouter,huile,[]
+crue,lentille,[]
+ajouter,crue,[]
+ajouter,sachet,[]
+sachet,levure,[]
+base,ajouter,[]
+ajouter,oignon,[]
+verser,préparation,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]"
+préparation,plat,"[{""id"": 601611406, ""node1"": 33634, ""node2"": 36327, ""type"": 0, ""w"": 16.0}, {""id"": 1016257135, ""node1"": 33634, ""node2"": 36327, ""type"": 8, ""w"": 20.0}, {""id"": 104958347, ""node1"": 33634, ""node2"": 36327, ""type"": 15, ""w"": 7.0}]"
+enfourner,cake,[]
+enfourner,degré,[]
+couvrir,cake,[]
+cake,papier,[]
+papier,aluminium,"[{""id"": 796957362, ""node1"": 103389, ""node2"": 95561, ""type"": 0, ""w"": 26.0}]"
+prendre,teinte,[]
+teinte,doré,[]

@@ -1,0 +1,18 @@
+node1,node2,relations
+ingrédient,baguette,[]
+baguette,jambon,[]
+jambon,tome,[]
+tome,confiture,[]
+ingrédient,étape,[]
+étape,couper,[]
+couper,baguette,"[{""id"": 8911600, ""node1"": 128828, ""node2"": 128482, ""type"": 14, ""w"": 30.0}, {""id"": 376201015, ""node1"": 128828, ""node2"": 128482, ""type"": 16, ""w"": 37.0}]"
+tartiner,tranche,"[{""id"": 273643, ""node1"": 131654, ""node2"": 143123, ""type"": 14, ""w"": 100.0}]"
+tranche,confiture,"[{""id"": 623096771, ""node1"": 143123, ""node2"": 70793, ""type"": 0, ""w"": 11.0}]"
+confiture,poivron,[]
+couper,tranche,"[{""id"": 425448, ""node1"": 128828, ""node2"": 143123, ""type"": 0, ""w"": 51.0}, {""id"": 8900685, ""node1"": 128828, ""node2"": 143123, ""type"": 14, ""w"": -2.0}, {""id"": 539957273, ""node1"": 128828, ""node2"": 143123, ""type"": 31, ""w"": -25.0}]"
+tranche,fromage,"[{""id"": 720818623, ""node1"": 143123, ""node2"": 141687, ""type"": 174, ""w"": 25.0}]"
+fromage,brebis,"[{""id"": 107577, ""node1"": 141687, ""node2"": 114015, ""type"": 0, ""w"": 462.0}, {""id"": 12993243, ""node1"": 141687, ""node2"": 114015, ""type"": 8, ""w"": 91.0}, {""id"": 2192797, ""node1"": 141687, ""node2"": 114015, ""type"": 42, ""w"": 52.0}, {""id"": 997314115, ""node1"": 141687, ""node2"": 114015, ""type"": 666, ""w"": 2.0}]"
+jambon,croire,[]
+ajouter,pincée,[]
+pincée,fleur,[]
+fleur,sel,"[{""id"": 796703205, ""node1"": 28985, ""node2"": 13260, ""type"": 0, ""w"": 28.0}]"

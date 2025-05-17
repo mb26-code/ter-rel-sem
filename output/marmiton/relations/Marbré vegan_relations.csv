@@ -1,0 +1,49 @@
+node1,node2,relations
+titre,ingrédient,[]
+titre,levure,[]
+levure,chimique,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]"
+levure,huile,[]
+levure,cacao,[]
+cacao,amer,"[{""id"": 914305448, ""node1"": 68363, ""node2"": 97910, ""type"": 0, ""w"": 21.0}, {""id"": 76024991, ""node1"": 68363, ""node2"": 97910, ""type"": 17, ""w"": 31.0}, {""id"": 1787117, ""node1"": 68363, ""node2"": 97910, ""type"": 666, ""w"": 1.0}]"
+levure,yaourt,[]
+yaourt,jus,[]
+jus,citron,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]"
+extraire,levure,[]
+levure,farine,"[{""id"": 1788186, ""node1"": 53450, ""node2"": 127629, ""type"": 0, ""w"": 60.0}, {""id"": 1046576042, ""node1"": 53450, ""node2"": 127629, ""type"": 8, ""w"": 20.0}]"
+titre,four,[]
+four,saladier,[]
+saladier,couteau,[]
+four,top,"[{""id"": 509203905, ""node1"": 9190, ""node2"": 61057, ""type"": 17, ""w"": 27.0}]"
+plaque,meilleur,[]
+top,plaque,[]
+plaque,four,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]"
+four,moule,"[{""id"": 914324367, ""node1"": 9190, ""node2"": 143723, ""type"": 0, ""w"": 20.0}, {""id"": 149292258, ""node1"": 9190, ""node2"": 143723, ""type"": 28, ""w"": 71.0}]"
+top,cake,[]
+balance,cuisine,[]
+balance,étape,[]
+titre,verser,[]
+verser,yaourt,"[{""id"": 310228441, ""node1"": 104506, ""node2"": 82320, ""type"": 14, ""w"": 31.0}]"
+yaourt,soja,"[{""id"": 10638514, ""node1"": 82320, ""node2"": 78291, ""type"": 50, ""w"": 29.0}]"
+ajouter,gramme,[]
+gramme,farine,"[{""id"": 775213298, ""node1"": 140383, ""node2"": 127629, ""type"": 174, ""w"": 25.0}]"
+titre,paquet,[]
+paquet,levure,[]
+levure,amer,[]
+soupe,huile,"[{""id"": 3346889, ""node1"": 117152, ""node2"": 141971, ""type"": 777, ""w"": 9.0}]"
+trait,jus,[]
+saladier,nouveau,[]
+ajouter,yaourt,"[{""id"": 310228470, ""node1"": 25099, ""node2"": 82320, ""type"": 14, ""w"": 30.0}]"
+yaourt,vanille,"[{""id"": 606527218, ""node1"": 82320, ""node2"": 140463, ""type"": 0, ""w"": 38.0}, {""id"": 1065206416, ""node1"": 82320, ""node2"": 140463, ""type"": 666, ""w"": 2.0}]"
+yaourt,gramme,[]
+gramme,paquet,[]
+huile,tournesol,"[{""id"": 143576, ""node1"": 141971, ""node2"": 26026, ""type"": 0, ""w"": 386.0}, {""id"": 580650, ""node1"": 141971, ""node2"": 26026, ""type"": 5, ""w"": 35.0}, {""id"": 272527, ""node1"": 141971, ""node2"": 26026, ""type"": 8, ""w"": 101.0}, {""id"": 99020760, ""node1"": 141971, ""node2"": 26026, ""type"": 27, ""w"": 27.0}, {""id"": 88080846, ""node1"": 141971, ""node2"": 26026, ""type"": 35, ""w"": 28.0}, {""id"": 1808071, ""node1"": 141971, ""node2"": 26026, ""type"": 42, ""w"": 101.0}]"
+extrait,vanille,[]
+extrait,liquide,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+verser,préparation,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]"
+préparation,alternance,[]
+alternance,moule,[]
+enfourner,minute,[]
+pointe,couteau,"[{""id"": 8856589, ""node1"": 141611, ""node2"": 32610, ""type"": 0, ""w"": 16.0}, {""id"": 251482, ""node1"": 141611, ""node2"": 32610, ""type"": 10, ""w"": 53.0}]"
+pointe,faire,[]
+faire,trait,[]

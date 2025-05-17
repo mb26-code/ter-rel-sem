@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+boeuf,ingrédient,nmod,NOUN,0.6519651412963867,"[{""id"": 24929879, ""node1"": 47417, ""node2"": 123418, ""type"": 6, ""w"": 2.0}]",r_isa,2.0
+boeuf,sel,appos,NOUN,0.7255796790122986,[],,
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+boeuf,piment,nmod,NOUN,0.6628843545913696,[],,
+piment,boeuf,appos,NOUN,0.6628843545913696,"[{""id"": 673297612, ""node1"": 128791, ""node2"": 47417, ""type"": 0, ""w"": 24.0}, {""id"": 474067244, ""node1"": 128791, ""node2"": 47417, ""type"": 777, ""w"": 10.0}]",r_associated,24.0
+boeuf,beurre,amod,NOUN,0.6866825819015503,[],,
+boeuf,eau,nmod,NOUN,0.6600559949874878,[],,
+eau,couteau,appos,NOUN,0.6052229404449463,"[{""id"": 104939775, ""node1"": 65012, ""node2"": 32610, ""type"": 28, ""w"": 3.0}]",r_lieu-1,3.0
+couteau,saladier,nmod,NOUN,0.6030980348587036,[],,
+saladier,mixeur,nmod,NOUN,0.581632137298584,[],,
+mixeur,balance,nmod,NOUN,0.5409628748893738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+eau,étape,nmod,NOUN,0.5415300130844116,[],,
+boeuf,cube,nmod,NOUN,0.5714843273162842,[],,
+cube,boeuf,nmod,NOUN,0.5714843273162842,[],,
+beurre,arachide,nmod,NOUN,0.6477295160293579,[],,
+tomate,entier,amod,ADJ,0.6028351187705994,[],,
+ajouter,poser,advcl,VERB,0.4105103611946106,[],,
+cuire,tout,obj,NOUN,0.7203893661499023,[],,
+tout,couvert,acl,NOUN,0.4978058934211731,[],,
+sortir,tomate,obj,NOUN,0.6107390522956848,[],,
+verser,mélange,obj,NOUN,0.5440542697906494,[],,
+piment,deuxième,amod,ADJ,0.6204458475112915,[],,
+piment,entier,amod,ADJ,0.5942241549491882,[],,
+ajouter,percer,advcl,VERB,0.423554390668869,[],,
+bouillir,tout,obj,NOUN,0.6160879731178284,[],,
+bouillon,gros,amod,ADJ,0.5442451238632202,[],,
+apparaître,huile,obj,NOUN,0.5738210082054138,[],,
+huile,beurre,nmod,NOUN,0.6866295337677002,"[{""id"": 2581168, ""node1"": 141971, ""node2"": 140377, ""type"": 0, ""w"": 81.0}, {""id"": 1046576039, ""node1"": 141971, ""node2"": 140377, ""type"": 8, ""w"": 20.0}, {""id"": 225610, ""node1"": 141971, ""node2"": 140377, ""type"": 20, ""w"": 70.0}]",r_associated,81.0
+rond,petit,amod,ADJ,0.493569552898407,[],,
+assaisonnement,sel,appos,NOUN,0.6856924891471863,"[{""id"": 1883231, ""node1"": 15763, ""node2"": 13260, ""type"": 0, ""w"": 63.0}, {""id"": 657816, ""node1"": 15763, ""node2"": 13260, ""type"": 5, ""w"": 91.0}, {""id"": 749699867, ""node1"": 15763, ""node2"": 13260, ""type"": 666, ""w"": 4.0}]",r_syn,91.0
+bouillir,min,obj,NOUN,0.4103961288928985,[],,

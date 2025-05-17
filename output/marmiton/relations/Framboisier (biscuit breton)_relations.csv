@@ -1,0 +1,78 @@
+node1,node2,relations
+biscuit,breton,[]
+titre,ingrédient,[]
+ingrédient,gélatine,[]
+ingrédient,levure,[]
+ingrédient,sucre,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]"
+sucre,beurre,[]
+sucre,framboise,[]
+oeuf,mascarpone,[]
+sucre,coulis,"[{""id"": 796694969, ""node1"": 139481, ""node2"": 10401, ""type"": 0, ""w"": 26.0}]"
+coulis,framboise,[]
+ingrédient,biscuit,[]
+titre,four,[]
+four,fouet,"[{""id"": 879245167, ""node1"": 9190, ""node2"": 73888, ""type"": 0, ""w"": 20.0}]"
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 307.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 267.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+fouet,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,mixeur,[]
+mixeur,top,[]
+saladier,congélateur,[]
+congélateur,moule,[]
+fouet,manquer,[]
+fouet,balance,[]
+balance,cuisine,[]
+fouet,réfrigérateur,[]
+réfrigérateur,étape,[]
+moule,manquer,[]
+réalisation,recette,[]
+préparer,gâteau,"[{""id"": 417685336, ""node1"": 36246, ""node2"": 2149, ""type"": 0, ""w"": 35.0}, {""id"": 99077306, ""node1"": 36246, ""node2"": 2149, ""type"": 14, ""w"": 100.0}]"
+gâteau,veille,[]
+préparation,génoise,[]
+four,180,[]
+préparation,thermostat,[]
+préparation,blanc,"[{""id"": 11721227, ""node1"": 33634, ""node2"": 15196, ""type"": 106, ""w"": 1.0}]"
+blanc,oeuf,"[{""id"": 215721, ""node1"": 15196, ""node2"": 116175, ""type"": 0, ""w"": 84.0}, {""id"": 31299415, ""node1"": 15196, ""node2"": 116175, ""type"": 3, ""w"": 32.0}, {""id"": 76136326, ""node1"": 15196, ""node2"": 116175, ""type"": 10, ""w"": 26.0}, {""id"": 373603, ""node1"": 15196, ""node2"": 116175, ""type"": 23, ""w"": 110.0}, {""id"": 91492401, ""node1"": 15196, ""node2"": 116175, ""type"": 35, ""w"": 54.0}]"
+oeuf,neige,"[{""id"": 57931432, ""node1"": 116175, ""node2"": 3699, ""type"": 0, ""w"": 1.0}]"
+mélanger,jaune,[]
+jaune,gramme,[]
+gramme,sucre,"[{""id"": 720818120, ""node1"": 140383, ""node2"": 139481, ""type"": 174, ""w"": 25.0}]"
+mélanger,obtenir,[]
+obtenir,texture,[]
+texture,blanchâtre,[]
+incorporer,beurre,"[{""id"": 423151029, ""node1"": 3845, ""node2"": 140377, ""type"": 0, ""w"": 1.0}, {""id"": 470589786, ""node1"": 3845, ""node2"": 140377, ""type"": 14, ""w"": 76.0}]"
+mettre,blanc,[]
+obtenir,pâte,[]
+pâte,homogène,"[{""id"": 796702467, ""node1"": 34069, ""node2"": 124759, ""type"": 0, ""w"": 28.0}, {""id"": 372565004, ""node1"": 34069, ""node2"": 124759, ""type"": 17, ""w"": 26.0}]"
+mettre,préparation,[]
+mixer,biscuit,[]
+enfourner,minute,[]
+prêt,fois,[]
+prêt,génoise,[]
+refroidir,minute,[]
+mousse,framboise,"[{""id"": 559135173, ""node1"": 134158, ""node2"": 12402, ""type"": 0, ""w"": 33.0}]"
+mettre,feuille,[]
+feuille,gélatine,[]
+eau,froid,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]"
+eau,minute,[]
+monter,blanc,[]
+blanc,neige,"[{""id"": 116991, ""node1"": 15196, ""node2"": 3699, ""type"": 0, ""w"": 509.77}, {""id"": 117866, ""node1"": 15196, ""node2"": 3699, ""type"": 23, ""w"": 320.0}, {""id"": 1622496, ""node1"": 15196, ""node2"": 3699, ""type"": 666, ""w"": 12.0}]"
+chauffer,framboise,[]
+framboise,peu,[]
+framboise,eau,"[{""id"": 97590394, ""node1"": 12402, ""node2"": 65012, ""type"": 9, ""w"": 3.0}]"
+eau,chaud,"[{""id"": 915041142, ""node1"": 65012, ""node2"": 19150, ""type"": 0, ""w"": 20.0}, {""id"": 432164, ""node1"": 65012, ""node2"": 19150, ""type"": 17, ""w"": 131.0}]"
+incorporer,gélatine,[]
+passer,liquide,"[{""id"": 1328675, ""node1"": 28108, ""node2"": 140315, ""type"": 0, ""w"": 397.0}, {""id"": 495045017, ""node1"": 28108, ""node2"": 140315, ""type"": 35, ""w"": 349.0}]"
+jaune,oeuf,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]"
+mélange,framboise,[]
+incorporer,blanc,[]
+remuer,garder,[]
+garder,mélange,[]
+mélange,aéré,[]
+tout,congélateur,[]
+préparer,coulis,[]
+chauffer,coulis,[]
+gélatine,remuer,[]
+tiède,mélange,[]
+réserver,gâteau,[]
+réfrigérateur,heure,[]

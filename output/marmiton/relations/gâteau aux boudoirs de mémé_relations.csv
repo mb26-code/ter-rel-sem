@@ -1,0 +1,47 @@
+node1,node2,relations
+titre,gâteau,[]
+titre,ingrédient,[]
+ingrédient,rhum,[]
+rhum,eau,"[{""id"": 3719425, ""node1"": 129154, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]"
+eau,sucre,[]
+sucre,farine,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]"
+sucre,lait,[]
+lait,oeuf,"[{""id"": 920038083, ""node1"": 86296, ""node2"": 116175, ""type"": 0, ""w"": 21.0}, {""id"": 385498014, ""node1"": 86296, ""node2"": 116175, ""type"": 8, ""w"": -25.0}]"
+titre,grille,[]
+grille,pâtisserie,[]
+pâtisserie,moule,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]"
+grille,manquer,[]
+manquer,fouet,[]
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 307.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 267.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+fouet,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,saladier,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]"
+fouet,casserole,[]
+fouet,balance,[]
+balance,cuisine,[]
+balance,plat,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]"
+fouet,étape,[]
+fouet,tout,[]
+titre,préparer,[]
+préparer,crème,[]
+bouillir,lait,"[{""id"": 797436792, ""node1"": 42401, ""node2"": 86296, ""type"": 0, ""w"": 28.0}, {""id"": 153576, ""node1"": 42401, ""node2"": 86296, ""type"": 14, ""w"": 160.0}, {""id"": 352516472, ""node1"": 42401, ""node2"": 86296, ""type"": 31, ""w"": 29.0}]"
+parfum,choisir,[]
+parfum,vanille,"[{""id"": 388319, ""node1"": 55249, ""node2"": 140463, ""type"": 0, ""w"": 131.0}, {""id"": 227528, ""node1"": 55249, ""node2"": 140463, ""type"": 8, ""w"": 101.0}]"
+ajouter,farine,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]"
+verser,lait,"[{""id"": 2147735, ""node1"": 104506, ""node2"": 86296, ""type"": 14, ""w"": 30.0}, {""id"": 645787359, ""node1"": 104506, ""node2"": 86296, ""type"": 666, ""w"": 2.0}]"
+lait,chaud,"[{""id"": 276798, ""node1"": 86296, ""node2"": 19150, ""type"": 17, ""w"": 141.0}]"
+feu,doux,[]
+remettre,faire,[]
+faire,remuer,[]
+tasse,rhum,[]
+reste,eau,[]
+plat,large,"[{""id"": 32026717, ""node1"": 36327, ""node2"": 16612, ""type"": 17, ""w"": 27.0}]"
+étaler,rangée,[]
+mélange,rhum,[]
+mettre,couche,[]
+couche,crème,[]
+remettre,couche,[]
+crème,pâtissier,"[{""id"": 561269853, ""node1"": 44001, ""node2"": 31618, ""type"": 0, ""w"": 41.0}]"
+crème,suite,[]
+fondre,chocolat,"[{""id"": 28589116, ""node1"": 16480, ""node2"": 34157, ""type"": 0, ""w"": 63.0}, {""id"": 24768886, ""node1"": 16480, ""node2"": 34157, ""type"": 13, ""w"": 30.0}, {""id"": 1011304980, ""node1"": 16480, ""node2"": 34157, ""type"": 14, ""w"": 30.0}, {""id"": 1009801551, ""node1"": 16480, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]"
+chocolat,pâtissier,"[{""id"": 822321508, ""node1"": 34157, ""node2"": 31618, ""type"": 0, ""w"": 30.0}, {""id"": 599365095, ""node1"": 34157, ""node2"": 31618, ""type"": 17, ""w"": 12.0}]"

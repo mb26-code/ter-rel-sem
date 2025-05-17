@@ -1,0 +1,59 @@
+head,lemma,dep,pos,sim,relations
+titre,vin,appos,NOUN,0.5867623090744019,[]
+vin,cerise,nmod,NOUN,0.6084760427474976,[]
+concerner,boisson,obj,NOUN,0.5278740525245667,[]
+boisson,vin,nsubj,NOUN,0.6171143054962158,"[{""id"": 98273, ""node1"": 113547, ""node2"": 35798, ""type"": 0, ""w"": 738.0}, {""id"": 31351058, ""node1"": 113547, ""node2"": 35798, ""type"": 3, ""w"": 29.0}, {""id"": 54684591, ""node1"": 113547, ""node2"": 35798, ""type"": 5, ""w"": 68.0}, {""id"": 421474, ""node1"": 113547, ""node2"": 35798, ""type"": 8, ""w"": 95.0}, {""id"": 10527064, ""node1"": 113547, ""node2"": 35798, ""type"": 9, ""w"": 9.0}, {""id"": 15189722, ""node1"": 113547, ""node2"": 35798, ""type"": 27, ""w"": -23.0}, {""id"": 653260797, ""node1"": 113547, ""node2"": 35798, ""type"": 666, ""w"": 8.0}]"
+boisson,similaire,amod,ADJ,0.5368267893791199,[]
+fermentation,contrôler,acl,VERB,0.4610711336135864,[]
+forme,populaire,amod,ADJ,0.4480088055133819,[]
+forme,vin,nmod,NOUN,0.6318472623825073,[]
+vin,fruit,nmod,NOUN,0.6004573106765747,"[{""id"": 31363219, ""node1"": 35798, ""node2"": 87286, ""type"": 0, ""w"": 27.0}, {""id"": 31363218, ""node1"": 35798, ""node2"": 87286, ""type"": 27, ""w"": 26.0}]"
+vin,Pologne,nmod,PROPN,0.569341778755188,"[{""id"": 665837324, ""node1"": 35798, ""node2"": 75785, ""type"": 0, ""w"": 24.0}]"
+forme,type,nmod,NOUN,0.4636218845844269,"[{""id"": 871636, ""node1"": 142000, ""node2"": 15235, ""type"": 0, ""w"": 28.0}, {""id"": 53603182, ""node1"": 142000, ""node2"": 15235, ""type"": 5, ""w"": 220.0}]"
+type,cerise,nmod,NOUN,0.5157233476638794,[]
+cerise,acide,amod,NOUN,0.5147255659103394,"[{""id"": 229635, ""node1"": 49073, ""node2"": 41368, ""type"": 17, ""w"": 52.0}]"
+cerise,apte,acl:relcl,ADJ,0.4051331579685211,[]
+apte,cerise,nsubj,NOUN,0.4051331579685211,[]
+cerise,doux,amod,ADJ,0.508108913898468,[]
+cerise,contraire,nmod,NOUN,0.4699524343013763,[]
+ajout,acide,nmod,NOUN,0.4492225348949432,[]
+devoir,cerise,nsubj,NOUN,0.4694212675094604,[]
+toxique,qui,nsubj,PRON,0.4252134263515472,[]
+acide,toxique,acl:relcl,ADJ,0.4512166678905487,"[{""id"": 991984097, ""node1"": 41368, ""node2"": 113005, ""type"": 666, ""w"": 3.0}]"
+obtenir,vin,nsubj:pass,NOUN,0.6023988127708435,[]
+fermentation,jus,nmod,NOUN,0.564165472984314,[]
+fermentation,purée,nmod,NOUN,0.6674931645393372,[]
+variante,premier,amod,ADJ,0.4283053278923034,[]
+écraser,cerise,nsubj,NOUN,0.4962566494941711,[]
+extraire,jus,nsubj,NOUN,0.5476620197296143,"[{""id"": 599215017, ""node1"": 103148, ""node2"": 53310, ""type"": 14, ""w"": 31.0}]"
+ajouter,sucre,obj,NOUN,0.6502617597579956,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]"
+levure,jus,nmod,NOUN,0.6253395676612854,[]
+jus,cerise,nmod,NOUN,0.5742040276527405,"[{""id"": 919862100, ""node1"": 53310, ""node2"": 49073, ""type"": 0, ""w"": 21.0}]"
+ajouter,augmenter,advcl,VERB,0.4142680466175079,"[{""id"": 753737, ""node1"": 25099, ""node2"": 40479, ""type"": 0, ""w"": 82.0}, {""id"": 12324113, ""node1"": 25099, ""node2"": 40479, ""type"": 5, ""w"": 418.0}, {""id"": 9084089, ""node1"": 25099, ""node2"": 40479, ""type"": 35, ""w"": 45.0}, {""id"": 1017993424, ""node1"": 25099, ""node2"": 40479, ""type"": 666, ""w"": 2.0}]"
+augmenter,acidité,obj,NOUN,0.4914386868476867,[]
+pouvoir,jus,nsubj,NOUN,0.5495136976242065,[]
+écraser,fruit,nsubj:pass,NOUN,0.5192476511001587,"[{""id"": 1047029629, ""node1"": 52004, ""node2"": 87286, ""type"": 13, ""w"": 30.0}, {""id"": 308081511, ""node1"": 52004, ""node2"": 87286, ""type"": 14, ""w"": 30.0}, {""id"": 376194374, ""node1"": 52004, ""node2"": 87286, ""type"": 16, ""w"": 30.0}]"
+purée,résulter,acl:relcl,VERB,0.6038730144500732,[]
+jour,extraire,acl:relcl,VERB,0.4282033443450928,[]
+faire,qui,nsubj,PRON,0.4499227106571197,"[{""id"": 729891679, ""node1"": 87528, ""node2"": 114890, ""type"": 9, ""w"": -5.0}]"
+teneur,alcool,nmod,NOUN,0.5137119889259338,[]
+général,vin,nsubj,NOUN,0.5810718536376953,[]
+vin,raisin,nmod,NOUN,0.5845483541488647,"[{""id"": 84505, ""node1"": 35798, ""node2"": 93528, ""type"": 0, ""w"": 701.0}, {""id"": 9623005, ""node1"": 35798, ""node2"": 93528, ""type"": 8, ""w"": -16.0}, {""id"": 9971662, ""node1"": 35798, ""node2"": 93528, ""type"": 9, ""w"": 13.0}, {""id"": 374299, ""node1"": 35798, ""node2"": 93528, ""type"": 20, ""w"": -55.0}, {""id"": 376998117, ""node1"": 35798, ""node2"": 93528, ""type"": 21, ""w"": 26.0}, {""id"": 11346703, ""node1"": 35798, ""node2"": 93528, ""type"": 28, ""w"": 38.0}, {""id"": 392161803, ""node1"": 35798, ""node2"": 93528, ""type"": 35, ""w"": 110.0}, {""id"": 11608025, ""node1"": 35798, ""node2"": 93528, ""type"": 50, ""w"": 64.0}, {""id"": 1627693, ""node1"": 35798, ""node2"": 93528, ""type"": 666, ""w"": 13.0}]"
+trier,matière,obj,NOUN,0.4011886119842529,[]
+matière,premier,amod,ADJ,0.4695882201194763,[]
+écarter,fruit,obj,NOUN,0.4806611537933349,[]
+fruit,abîmer,amod,VERB,0.4777635335922241,[]
+pouvoir,faire,advcl,VERB,0.4381212294101715,[]
+faire,attention,obj,NOUN,0.4886297583580017,"[{""id"": 1051672226, ""node1"": 87528, ""node2"": 44007, ""type"": 0, ""w"": 21.0}]"
+obtenir,boisson,obj,NOUN,0.5470861792564392,[]
+boisson,certaine,nmod,NOUN,0.5574349164962769,[]
+producteur,souvent,amod,ADV,0.4588136076927185,[]
+producteur,petit,amod,ADJ,0.4981030225753784,[]
+ajouter,producteur,nsubj,NOUN,0.4515744149684906,[]
+alcool,rectifier,amod,ADJ,0.5193732976913452,[]
+côté,vin,nmod,NOUN,0.6187499165534973,[]
+exister,pétillant,obj,NOUN,0.414230078458786,[]
+fermentation,second,amod,ADJ,0.4390122890472412,[]
+fermentation,bouteille,nmod,NOUN,0.5218495726585388,[]
+vinaigre,cerise,nmod,NOUN,0.5811505913734436,[]
+vinaigre,apéritif,nmod,NOUN,0.6554762125015259,[]

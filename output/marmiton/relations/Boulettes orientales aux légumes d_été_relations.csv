@@ -1,0 +1,46 @@
+node1,node2,relations
+titre,boulette,[]
+boulette,oriental,[]
+boulette,légume,[]
+légume,ingrédient,[]
+ingrédient,tomate,"[{""id"": 24923444, ""node1"": 123418, ""node2"": 22138, ""type"": 0, ""w"": 15.0}, {""id"": 24850720, ""node1"": 123418, ""node2"": 22138, ""type"": 8, ""w"": 30.0}]"
+ingrédient,aubergine,[]
+aubergine,boulette,[]
+boulette,viande,"[{""id"": 158031, ""node1"": 112360, ""node2"": 140100, ""type"": 0, ""w"": 82.0}, {""id"": 1013983190, ""node1"": 112360, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]"
+boulette,herbe,"[{""id"": 591037377, ""node1"": 112360, ""node2"": 138874, ""type"": 0, ""w"": 30.0}]"
+herbe,aromatique,"[{""id"": 374762, ""node1"": 138874, ""node2"": 67664, ""type"": 17, ""w"": 83.0}, {""id"": 653275255, ""node1"": 138874, ""node2"": 67664, ""type"": 666, ""w"": 9.0}]"
+aromatique,huile,[]
+ingrédient,set,[]
+set,poêle,[]
+poêle,couteau,[]
+couteau,saladier,[]
+ingrédient,étape,[]
+titre,couper,[]
+revenir,oignon,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]"
+huile,olive,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]"
+rajouter,aubergine,[]
+aubergine,couper,"[{""id"": 32054202, ""node1"": 14731, ""node2"": 128828, ""type"": 26, ""w"": 30.0}]"
+ajouter,tomate,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 30.0}]"
+tomate,couper,"[{""id"": 920912564, ""node1"": 22138, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 628044041, ""node1"": 22138, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]"
+ail,couper,"[{""id"": 31770903, ""node1"": 26979, ""node2"": 128828, ""type"": 26, ""w"": 35.0}]"
+couper,menu,"[{""id"": 2156404, ""node1"": 128828, ""node2"": 38188, ""type"": 34, ""w"": 28.0}]"
+ajouter,thym,[]
+ajouter,pincée,[]
+pincée,mélange,[]
+mélange,herbe,[]
+utiliser,herbe,[]
+herbe,ramener,[]
+moulin,légume,[]
+moitié,préparation,[]
+obtenir,sauce,"[{""id"": 373013766, ""node1"": 102671, ""node2"": 141110, ""type"": 14, ""w"": 31.0}]"
+sauce,épais,[]
+réserver,reste,[]
+reste,légume,[]
+légume,chaud,[]
+cuire,boulette,[]
+peu,huile,[]
+fin,cuisson,[]
+rajouter,sauce,[]
+sauce,obtenir,"[{""id"": 373070118, ""node1"": 141110, ""node2"": 102671, ""type"": 26, ""w"": 30.0}]"
+plat,accompagner,[]
+légume,mixer,"[{""id"": 15067032, ""node1"": 120603, ""node2"": 12170, ""type"": 26, ""w"": 30.0}]"

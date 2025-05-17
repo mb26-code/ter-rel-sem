@@ -1,0 +1,18 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+mettre,lait,nsubj,NOUN,0.6112686395645142,[],,
+lait,curcuma,nmod,NOUN,0.638045608997345,[],,
+curcuma,gingembre,appos,NOUN,0.6034985184669495,[],,
+gingembre,poivre,amod,NOUN,0.6446689367294312,[],,
+poivre,cannelle,amod,ADJ,0.6695592403411865,"[{""id"": 584573842, ""node1"": 139597, ""node2"": 112959, ""type"": 0, ""w"": 21.0}, {""id"": 1032957126, ""node1"": 139597, ""node2"": 112959, ""type"": 78, ""w"": 32.0}, {""id"": 509560562, ""node1"": 139597, ""node2"": 112959, ""type"": 777, ""w"": 10.0}]",r_cohypo,32.0
+poivre,huile,amod,NOUN,0.6777899265289307,"[{""id"": 917898979, ""node1"": 139597, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+lait,coco,amod,ADV,0.5941302180290222,"[{""id"": 796793155, ""node1"": 86296, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+poivre,lait,nmod,NOUN,0.6704593300819397,[],,
+casserole,fouet,nmod,NOUN,0.5830783247947693,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+fouet,étape,nmod,NOUN,0.4946097731590271,[],,
+chauffer,lait,obj,NOUN,0.6334350109100342,"[{""id"": 31845126, ""node1"": 90994, ""node2"": 86296, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+ajouter,curcuma,obj,NOUN,0.6066364645957947,[],,
+mettre,cannelle,obj,NOUN,0.6152310967445374,[],,
+huile,coco,amod,ADV,0.6010280847549438,"[{""id"": 669863245, ""node1"": 141971, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+éteindre,feu,obj,NOUN,0.5080100297927856,"[{""id"": 2069969, ""node1"": 107734, ""node2"": 143703, ""type"": 0, ""w"": 129.0}, {""id"": 1375587, ""node1"": 107734, ""node2"": 143703, ""type"": 14, ""w"": 100.0}, {""id"": 376200967, ""node1"": 107734, ""node2"": 143703, ""type"": 16, ""w"": 26.0}, {""id"": 9121021, ""node1"": 107734, ""node2"": 143703, ""type"": 35, ""w"": 105.0}, {""id"": 1057899598, ""node1"": 107734, ""node2"": 143703, ""type"": 666, ""w"": 2.0}]",r_associated,129.0
+mettre,mélanger,advcl,VERB,0.4965955317020416,"[{""id"": 12296615, ""node1"": 132366, ""node2"": 37151, ""type"": 0, ""w"": 21.0}, {""id"": 578730, ""node1"": 132366, ""node2"": 37151, ""type"": 5, ""w"": 92.0}]",r_syn,92.0

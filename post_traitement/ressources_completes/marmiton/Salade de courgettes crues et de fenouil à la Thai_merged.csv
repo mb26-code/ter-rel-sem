@@ -1,0 +1,49 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+mettre,titre,nsubj,NOUN,0.4057502150535583,[],,
+titre,salade,appos,NOUN,0.5926524996757507,[],,
+salade,courgette,nmod,NOUN,0.6481412649154663,[],,
+salade,crue,amod,NOUN,0.580901026725769,[],,
+salade,Thai,nmod,PROPN,0.4227652847766876,[],,
+salade,ingrédient,nmod,NOUN,0.7127874493598938,[],,
+salade,huile,amod,NOUN,0.6778484582901001,"[{""id"": 385547, ""node1"": 118908, ""node2"": 141971, ""type"": 0, ""w"": 57.0}, {""id"": 97758237, ""node1"": 118908, ""node2"": 141971, ""type"": 9, ""w"": 27.0}]",r_associated,57.0
+huile,sésame,nmod,NOUN,0.6178574562072754,"[{""id"": 12295235, ""node1"": 141971, ""node2"": 18404, ""type"": 0, ""w"": 43.0}, {""id"": 580644, ""node1"": 141971, ""node2"": 18404, ""type"": 5, ""w"": 32.0}, {""id"": 88080850, ""node1"": 141971, ""node2"": 18404, ""type"": 35, ""w"": 32.0}, {""id"": 380316783, ""node1"": 141971, ""node2"": 18404, ""type"": 54, ""w"": 34.0}]",r_associated,43.0
+sésame,coriandre,nmod,NOUN,0.6046914458274841,[],,
+coriandre,gingembre,nmod,NOUN,0.6166588068008423,[],,
+gingembre,sésame,appos,NOUN,0.6100141406059265,[],,
+sésame,piment,nmod,ADV,0.6391745805740356,"[{""id"": 941908119, ""node1"": 18404, ""node2"": 128791, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+sésame,fenouil,nmod,VERB,0.628878116607666,[],,
+fenouil,poisson,appos,NOUN,0.688228964805603,[],,
+sésame,basilic,amod,NOUN,0.6025170683860779,[],,
+sésame,vert,amod,ADJ,0.5346518754959106,[],,
+salade,top,nmod,NOUN,0.4977631270885467,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+saladier,blender,nmod,NOUN,0.5630751252174377,[],,
+saladier,chauffer,acl,VERB,0.6512923836708069,[],,
+titre,couper,nmod,VERB,0.4430274069309234,[],,
+morceau,fin,amod,ADJ,0.4833599328994751,[],,
+gingembre,morceau,nmod,NOUN,0.6458985209465027,[],,
+prendre,soin,obj,NOUN,0.4055182933807373,[],,
+évacuer,graine,obj,NOUN,0.5128160119056702,[],,
+basilic,thaï,amod,ADJ,0.4759163856506347,[],,
+couper,courgette,nmod,NOUN,0.5805845856666565,[],,
+bulbe,fenouil,nmod,NOUN,0.5122512578964233,[],,
+bulbe,morceau,nmod,NOUN,0.4941881000995636,[],,
+griller,graine,obj,NOUN,0.6328197717666626,[],,
+graine,sésame,nmod,NOUN,0.5720810890197754,"[{""id"": 797533486, ""node1"": 14469, ""node2"": 18404, ""type"": 0, ""w"": 29.0}, {""id"": 246270686, ""node1"": 14469, ""node2"": 18404, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+poêle,chaud,amod,ADJ,0.6645733714103699,"[{""id"": 278998504, ""node1"": 119686, ""node2"": 19150, ""type"": 0, ""w"": 26.0}, {""id"": 3078839, ""node1"": 119686, ""node2"": 19150, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+matière,gras,amod,ADJ,0.5428515672683716,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+piment,piller,acl,VERB,0.5543684959411621,[],,
+piment,frais,amod,ADJ,0.5717477202415466,"[{""id"": 32025863, ""node1"": 128791, ""node2"": 53495, ""type"": 17, ""w"": 63.0}, {""id"": 723379917, ""node1"": 128791, ""node2"": 53495, ""type"": 666, ""w"": 2.0}]",r_carac,63.0
+poisson,sauce,amod,NOUN,0.757826030254364,"[{""id"": 423999116, ""node1"": 68467, ""node2"": 141110, ""type"": 0, ""w"": 4.0}]",r_associated,4.0
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+citron,vert,amod,ADJ,0.5348256230354309,"[{""id"": 1559582, ""node1"": 15386, ""node2"": 26976, ""type"": 0, ""w"": 61.0}, {""id"": 1773945, ""node1"": 15386, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3160941, ""node1"": 15386, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]",r_associated,61.0
+jus,nécessaire,advcl,ADJ,0.5657995343208313,[],,
+jus,vert,amod,ADJ,0.5731567144393921,"[{""id"": 3195893, ""node1"": 53310, ""node2"": 26976, ""type"": 17, ""w"": 30.0}, {""id"": 3182850, ""node1"": 53310, ""node2"": 26976, ""type"": 106, ""w"": 14.0}, {""id"": 1793333, ""node1"": 53310, ""node2"": 26976, ""type"": 666, ""w"": 2.0}]",r_carac,30.0
+heure,petit,amod,ADJ,0.4691776931285858,[],,
+heure,frigo,nmod,NOUN,0.5361418128013611,[],,
+faire,cela,obj,PRON,0.4639137387275696,[],,
+cela,boulette,nmod,NOUN,0.522260308265686,[],,
+boulette,poisson,nmod,NOUN,0.6491662859916687,"[{""id"": 651184336, ""node1"": 112360, ""node2"": 68467, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+diététique,délicieux,advcl,ADJ,0.6109957695007324,[],,

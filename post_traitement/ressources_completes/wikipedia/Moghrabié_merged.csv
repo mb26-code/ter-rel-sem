@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+mets,culinaire,amod,ADJ,0.5784627795219421,"[{""id"": 977157239, ""node1"": 114839, ""node2"": 347, ""type"": 0, ""w"": 1.0}, {""id"": 372241733, ""node1"": 114839, ""node2"": 347, ""type"": 17, ""w"": -89.0}]",r_associated,1.0
+mets,proche,amod,ADJ,0.4750128984451294,[],,
+mets,oriental,amod,ADJ,0.4916853904724121,[],,
+mets,issu,amod,VERB,0.4660497605800628,[],,
+variante,couscous,nmod,NOUN,0.6158919930458069,"[{""id"": 941629246, ""node1"": 109297, ""node2"": 35814, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+couscous,cuisiner,acl,VERB,0.7011654376983643,"[{""id"": 98284186, ""node1"": 35814, ""node2"": 80199, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+cuisiner,Levant,advcl,PROPN,0.4882215559482574,[],,
+rapprocher,couscous,nsubj,NOUN,0.5833883285522461,[],,
+couscous,pays,nmod,NOUN,0.4707123041152954,[],,
+origine,mets,nmod,NOUN,0.4991871118545532,[],,
+faire,couscous,nsubj:pass,NOUN,0.6473820209503174,[],,
+reste,grain,nsubj,NOUN,0.5758463144302368,"[{""id"": 560374028, ""node1"": 21110, ""node2"": 57895, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+nom,plat,nmod,NOUN,0.5238007307052612,[],,
+plat,finir,acl,VERB,0.6307719945907593,[],,
+perle,semoule,nmod,NOUN,0.6047482490539551,[],,
+perle,blé,nmod,NOUN,0.5621901154518127,[],,
+blé,dur,amod,ADJ,0.5279406905174255,"[{""id"": 115326577, ""node1"": 32071, ""node2"": 72731, ""type"": 17, ""w"": 28.0}]",r_carac,28.0
+blé,rouler,amod,ADJ,0.5492647886276245,[],,
+nom,couscous,nmod,NOUN,0.4418468475341797,[],,
+couscous,libanais,amod,ADJ,0.4765246212482452,[],,
+gastronomie,libanais,amod,ADJ,0.422038584947586,[],,
+préparation,libanais,amod,ADJ,0.4492252469062805,[],,
+appeler,plat,nsubj:pass,NOUN,0.5979531407356262,[],,
+plat,préparer,acl:relcl,VERB,0.6393706202507019,"[{""id"": 892208256, ""node1"": 36327, ""node2"": 36246, ""type"": 0, ""w"": 21.0}, {""id"": 207663, ""node1"": 36327, ""node2"": 36246, ""type"": 25, ""w"": 110.0}, {""id"": 93507415, ""node1"": 36327, ""node2"": 36246, ""type"": 26, ""w"": 100.0}, {""id"": 369486484, ""node1"": 36327, ""node2"": 36246, ""type"": 30, ""w"": 26.0}, {""id"": 348326099, ""node1"": 36327, ""node2"": 36246, ""type"": 38, ""w"": 32.0}]",r_instr-1,110.0
+plat,clef,amod,ADJ,0.590947151184082,[],,
+cuisine,palestinien,amod,ADJ,0.5599598288536072,[],,
+pièce,maître,amod,ADJ,0.4377844929695129,[],,
+pièce,repas,nmod,NOUN,0.5820654630661011,"[{""id"": 1330821, ""node1"": 96851, ""node2"": 74736, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+pièce,arriver,advcl,VERB,0.4714269340038299,[],,
+repas,simple,amod,ADJ,0.5863794684410095,[],,
+repas,famille,nmod,NOUN,0.5228574275970459,"[{""id"": 192835, ""node1"": 74736, ""node2"": 98300, ""type"": 0, ""w"": 95.0}, {""id"": 5443936, ""node1"": 74736, ""node2"": 98300, ""type"": 3, ""w"": 51.0}, {""id"": 8783866, ""node1"": 74736, ""node2"": 98300, ""type"": 42, ""w"": 51.0}, {""id"": 1011191691, ""node1"": 74736, ""node2"": 98300, ""type"": 75, ""w"": 28.0}, {""id"": 983657746, ""node1"": 74736, ""node2"": 98300, ""type"": 666, ""w"": 2.0}]",r_associated,95.0
+couscous,Maghreb,nmod,PROPN,0.4800122082233429,"[{""id"": 98284214, ""node1"": 35814, ""node2"": 143278, ""type"": 0, ""w"": 44.0}, {""id"": 93431738, ""node1"": 35814, ""node2"": 143278, ""type"": 15, ""w"": 101.0}, {""id"": 766158137, ""node1"": 35814, ""node2"": 143278, ""type"": 171, ""w"": 33.0}, {""id"": 1527077, ""node1"": 35814, ""node2"": 143278, ""type"": 666, ""w"": 3.0}]",r_lieu,101.0
+gros,grain,nsubj,NOUN,0.5149896144866943,"[{""id"": 14797234, ""node1"": 88096, ""node2"": 57895, ""type"": 23, ""w"": 23.0}]",r_carac-1,23.0
+grain,couscous,nmod,NOUN,0.6078692674636841,"[{""id"": 31593372, ""node1"": 57895, ""node2"": 35814, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+celui,couscous,nmod,NOUN,0.5362266898155212,[],,
+grain,gros,amod,ADJ,0.5149896144866943,"[{""id"": 248972, ""node1"": 57895, ""node2"": 88096, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+projet,autre,amod,ADJ,0.4316383004188537,[],,

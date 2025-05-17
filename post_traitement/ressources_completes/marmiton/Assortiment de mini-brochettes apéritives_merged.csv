@@ -1,0 +1,81 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+cerise,assortiment,nsubj,NOUN,0.4773124158382416,[],,
+assortiment,ingrédient,nmod,NOUN,0.5499492287635803,[],,
+assortiment,curry,appos,NOUN,0.6517587900161743,[],,
+curry,poivre,amod,NOUN,0.6854056119918823,"[{""id"": 3116767, ""node1"": 82813, ""node2"": 139597, ""type"": 0, ""w"": 75.0}]",r_associated,75.0
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,beurre,nmod,NOUN,0.7119027376174927,"[{""id"": 29328492, ""node1"": 13260, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 9986817, ""node1"": 13260, ""node2"": 140377, ""type"": 10, ""w"": 35.0}]",r_holo,35.0
+curry,tomate,nmod,NOUN,0.7037389278411865,[],,
+cerise,chair,obj,NOUN,0.5293848514556885,"[{""id"": 97415483, ""node1"": 49073, ""node2"": 61835, ""type"": 0, ""w"": 30.0}, {""id"": 96737463, ""node1"": 49073, ""node2"": 61835, ""type"": 9, ""w"": 27.0}]",r_associated,30.0
+saucisse,huile,amod,NOUN,0.6597029566764832,[],,
+boeuf,olive,amod,ADJ,0.6448468565940857,[],,
+saucisse,boeuf,nmod,NOUN,0.6087058782577515,"[{""id"": 588759314, ""node1"": 77807, ""node2"": 47417, ""type"": 0, ""w"": 50.0}]",r_associated,50.0
+boeuf,oeuf,nmod,NOUN,0.6008726954460144,[],,
+oeuf,pain,nmod,NOUN,0.6695903539657593,"[{""id"": 96638699, ""node1"": 116175, ""node2"": 61283, ""type"": 0, ""w"": 42.0}]",r_associated,42.0
+pain,mie,nmod,NOUN,0.5814495086669922,"[{""id"": 96115, ""node1"": 61283, ""node2"": 37905, ""type"": 0, ""w"": 547.0}, {""id"": 246259884, ""node1"": 61283, ""node2"": 37905, ""type"": 8, ""w"": 28.0}, {""id"": 416745, ""node1"": 61283, ""node2"": 37905, ""type"": 9, ""w"": 157.0}, {""id"": 98667958, ""node1"": 61283, ""node2"": 37905, ""type"": 27, ""w"": 24.0}, {""id"": 238490, ""node1"": 61283, ""node2"": 37905, ""type"": 28, ""w"": 159.0}, {""id"": 25778962, ""node1"": 61283, ""node2"": 37905, ""type"": 50, ""w"": 51.0}, {""id"": 1832942, ""node1"": 61283, ""node2"": 37905, ""type"": 666, ""w"": 2.0}]",r_associated,547.0
+abricot,tome,appos,NOUN,0.400674045085907,[],,
+tome,jambon,nmod,NOUN,0.4774376153945923,[],,
+jambon,croire,acl,VERB,0.581739604473114,[],,
+abricot,couteau,appos,NOUN,0.5647157430648804,[],,
+couteau,set,nmod,NOUN,0.4064985811710357,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+abricot,pinceau,appos,NOUN,0.4684298038482666,[],,
+pinceau,four,nmod,NOUN,0.6441405415534973,[],,
+four,saladier,nmod,NOUN,0.6991847157478333,[],,
+saladier,fourchette,appos,NOUN,0.5964536666870117,[],,
+saladier,blender,nmod,NOUN,0.5630751252174377,[],,
+saladier,chauffer,acl,VERB,0.6512923836708069,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+chauffer,plat,obj,ADJ,0.6805668473243713,"[{""id"": 97862749, ""node1"": 90994, ""node2"": 36327, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+pinceau,étape,nmod,NOUN,0.4064047634601593,[],,
+pinceau,brochette,nmod,NOUN,0.4899539649486542,[],,
+brochette,crevette,amod,NOUN,0.5573824048042297,[],,
+commencer,couper,advcl,VERB,0.4359960258007049,[],,
+couper,tranche,obj,NOUN,0.4768869876861572,"[{""id"": 425448, ""node1"": 128828, ""node2"": 143123, ""type"": 0, ""w"": 51.0}, {""id"": 8900685, ""node1"": 128828, ""node2"": 143123, ""type"": 14, ""w"": -2.0}, {""id"": 539957273, ""node1"": 128828, ""node2"": 143123, ""type"": 31, ""w"": -25.0}]",r_associated,51.0
+tranche,ananas,nmod,NOUN,0.5421468615531921,[],,
+laisser,queue,obj,NOUN,0.481530100107193,[],,
+faire,cela,nsubj,PRON,0.4639137387275696,[],,
+queue,faire,acl:relcl,VERB,0.5096153020858765,[],,
+morceau,ananas,nmod,NOUN,0.5826804637908936,[],,
+dorer,brochette,obj,NOUN,0.5580973029136658,[],,
+noisette,beurre,nmod,NOUN,0.6675335168838501,"[{""id"": 120202, ""node1"": 67819, ""node2"": 140377, ""type"": 0, ""w"": 70.0}, {""id"": 775213357, ""node1"": 67819, ""node2"": 140377, ""type"": 174, ""w"": 25.0}]",r_associated,70.0
+ajouter,peu,obj,ADV,0.4455879032611847,[],,
+peu,curry,nmod,NOUN,0.626441240310669,[],,
+brochette,champignon,nmod,NOUN,0.574458658695221,[],,
+cerise,commencer,acl,VERB,0.4642527103424072,[],,
+ôter,queue,obj,NOUN,0.5050649046897888,[],,
+queue,champignon,nmod,NOUN,0.5162584781646729,[],,
+chapeau,chair,nmod,NOUN,0.5432175993919373,[],,
+chair,saucisse,nmod,NOUN,0.5549935698509216,"[{""id"": 10009740, ""node1"": 61835, ""node2"": 77807, ""type"": 10, ""w"": 4.0}]",r_holo,4.0
+filet,huile,nmod,NOUN,0.6150403022766113,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+four,180,nmod,NUM,0.4979606568813324,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+four,servir,acl,VERB,0.6957545280456543,[],,
+brochette,boulette,nmod,NOUN,0.5365703701972961,[],,
+boulette,bœuf,nmod,NOUN,0.6084173917770386,[],,
+brochette,couper,acl,VERB,0.5146300792694092,[],,
+couper,courgette,obj,NOUN,0.5805845856666565,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+eau,manière,nmod,NOUN,0.5488376617431641,[],,
+eau,ce,nmod,PRON,0.4319391548633575,[],,
+rester,morceau,nsubj,NOUN,0.5114468336105347,[],,
+saladier,écraser,acl,VERB,0.5619206428527832,[],,
+fourchette,bœuf,nmod,NOUN,0.605591356754303,[],,
+mie,pain,nmod,NOUN,0.5814495086669922,"[{""id"": 377332, ""node1"": 37905, ""node2"": 61283, ""type"": 0, ""w"": 145.0}, {""id"": 96639071, ""node1"": 37905, ""node2"": 61283, ""type"": 3, ""w"": 26.0}, {""id"": 96639075, ""node1"": 37905, ""node2"": 61283, ""type"": 6, ""w"": 48.0}, {""id"": 9985753, ""node1"": 37905, ""node2"": 61283, ""type"": 10, ""w"": 48.0}, {""id"": 11358396, ""node1"": 37905, ""node2"": 61283, ""type"": 15, ""w"": 38.0}, {""id"": 25183388, ""node1"": 37905, ""node2"": 61283, ""type"": 35, ""w"": 52.0}, {""id"": 376051245, ""node1"": 37905, ""node2"": 61283, ""type"": 51, ""w"": 29.0}, {""id"": 979307703, ""node1"": 37905, ""node2"": 61283, ""type"": 666, ""w"": 2.0}]",r_associated,145.0
+faire,boulette,obj,NOUN,0.5644155740737915,[],,
+boulette,gros,amod,ADJ,0.4717309772968292,[],,
+boulette,manière,nmod,NOUN,0.5100972056388855,[],,
+cuire,possible,advcl,ADJ,0.7120634317398071,[],,
+cuire,le,obj,PRON,0.4500194191932678,[],,
+cube,courgette,nmod,NOUN,0.5523523688316345,[],,
+brochette,basque,amod,ADJ,0.4394310414791107,[],,
+brochette,commencer,acl,VERB,0.4963228106498718,[],,
+couper,cube,obj,NOUN,0.5157412886619568,[],,
+cube,fromage,nmod,NOUN,0.5750498175621033,[],,
+fromage,brebis,nmod,NUM,0.48219695687294,"[{""id"": 107577, ""node1"": 141687, ""node2"": 114015, ""type"": 0, ""w"": 462.0}, {""id"": 12993243, ""node1"": 141687, ""node2"": 114015, ""type"": 8, ""w"": 91.0}, {""id"": 2192797, ""node1"": 141687, ""node2"": 114015, ""type"": 42, ""w"": 52.0}, {""id"": 997314115, ""node1"": 141687, ""node2"": 114015, ""type"": 666, ""w"": 2.0}]",r_associated,462.0
+couper,abricot,obj,NOUN,0.5425969362258911,[],,
+rondelle,chorizo,nmod,ADV,0.60137540102005,"[{""id"": 943602788, ""node1"": 71106, ""node2"": 51767, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+servir,brochette,nsubj:pass,NOUN,0.5550900101661682,[],,
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]",r_carac-1,5.0

@@ -1,0 +1,32 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+sel,vinaigre,acl,NOUN,0.683134913444519,"[{""id"": 796849792, ""node1"": 13260, ""node2"": 145443, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+safran,moutarde,appos,NOUN,0.6041011214256287,[],,
+safran,gingembre,appos,NOUN,0.6005738973617554,"[{""id"": 765583826, ""node1"": 84746, ""node2"": 77020, ""type"": 0, ""w"": 51.0}]",r_associated,51.0
+gingembre,courgette,nmod,NOUN,0.6667488217353821,[],,
+fleur,piment,nmod,NOUN,0.6256572008132935,[],,
+fleur,couteau,nmod,NOUN,0.5516536235809326,[],,
+couteau,set,nmod,NOUN,0.4064985811710357,[],,
+fleur,poêle,nmod,NOUN,0.6974369287490845,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+fleur,couper,acl,VERB,0.5247657895088196,"[{""id"": 2500717, ""node1"": 28985, ""node2"": 128828, ""type"": 26, ""w"": 35.0}, {""id"": 3222438, ""node1"": 28985, ""node2"": 128828, ""type"": 30, ""w"": 56.0}]",r_lieu_action,56.0
+fleur,vider,acl,VERB,0.5124858617782593,[],,
+vider,piment,obj,NOUN,0.5843150019645691,[],,
+piment,graine,nmod,NOUN,0.6298114061355591,"[{""id"": 9989185, ""node1"": 128791, ""node2"": 14469, ""type"": 0, ""w"": 4.0}, {""id"": 1713165, ""node1"": 128791, ""node2"": 14469, ""type"": 9, ""w"": 12.0}]",r_has_part,12.0
+poêle,petit,amod,ADJ,0.6650837063789368,[],,
+chauffer,huile,obj,NOUN,0.64256751537323,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+ajouter,ail,obj,NOUN,0.5651978254318237,[],,
+graine,moutarde,nmod,NOUN,0.5775238871574402,"[{""id"": 798731304, ""node1"": 14469, ""node2"": 28335, ""type"": 0, ""w"": 22.0}, {""id"": 403056380, ""node1"": 14469, ""node2"": 28335, ""type"": 777, ""w"": 10.0}]",r_associated,22.0
+verser,légume,obj,NOUN,0.6834107637405396,[],,
+légume,poêle,nmod,NOUN,0.772315502166748,[],,
+devoir,mélanger,advcl,VERB,0.4508056640625,[],,
+sauter,ajouter,advcl,VERB,0.4542523622512817,[],,
+ajouter,cuillère,obj,NOUN,0.5465437173843384,[],,
+soupe,eau,nmod,NOUN,0.6488855481147766,"[{""id"": 215674, ""node1"": 117152, ""node2"": 65012, ""type"": 0, ""w"": 112.0}, {""id"": 214799398, ""node1"": 117152, ""node2"": 65012, ""type"": 9, ""w"": 73.0}, {""id"": 216637792, ""node1"": 117152, ""node2"": 65012, ""type"": 50, ""w"": 34.0}, {""id"": 1530290, ""node1"": 117152, ""node2"": 65012, ""type"": 666, ""w"": 1.0}]",r_associated,112.0
+eau,nécessaire,amod,ADJ,0.5489293336868286,[],,
+devoir,légume,nsubj,NOUN,0.6016450524330139,[],,
+ajouter,vinaigre,obj,NOUN,0.6182233095169067,[],,
+entrée,pain,nmod,NOUN,0.6576882600784302,[],,
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+soupe,vinaigre,nmod,NOUN,0.7203998565673828,"[{""id"": 729556147, ""node1"": 117152, ""node2"": 145443, ""type"": 0, ""w"": 30.0}]",r_associated,30.0

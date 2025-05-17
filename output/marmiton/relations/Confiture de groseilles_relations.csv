@@ -1,0 +1,30 @@
+node1,node2,relations
+confiture,ingrédient,"[{""id"": 15370391, ""node1"": 70793, ""node2"": 123418, ""type"": 0, ""w"": 39.0}, {""id"": 506041, ""node1"": 70793, ""node2"": 123418, ""type"": 3, ""w"": 52.0}]"
+confiture,sucre,"[{""id"": 138286, ""node1"": 70793, ""node2"": 139481, ""type"": 0, ""w"": 278.0}, {""id"": 376999837, ""node1"": 70793, ""node2"": 139481, ""type"": 21, ""w"": 26.0}, {""id"": 1525776, ""node1"": 70793, ""node2"": 139481, ""type"": 666, ""w"": 5.0}]"
+sucre,casserole,[]
+casserole,top,[]
+plaque,meilleur,[]
+top,plaque,[]
+plaque,four,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]"
+four,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,couvercle,[]
+couvercle,balance,[]
+balance,cuisine,[]
+cuillère,étape,[]
+verre,petit,"[{""id"": 1523983, ""node1"": 144497, ""node2"": 55222, ""type"": 666, ""w"": 1.0}]"
+verre,eau,"[{""id"": 70610, ""node1"": 144497, ""node2"": 65012, ""type"": 0, ""w"": 314.0}, {""id"": 31129047, ""node1"": 144497, ""node2"": 65012, ""type"": 3, ""w"": 35.0}, {""id"": 10528262, ""node1"": 144497, ""node2"": 65012, ""type"": 9, ""w"": 9.0}, {""id"": 393483, ""node1"": 144497, ""node2"": 65012, ""type"": 28, ""w"": 194.0}, {""id"": 720818421, ""node1"": 144497, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 1523981, ""node1"": 144497, ""node2"": 65012, ""type"": 666, ""w"": 5.0}]"
+retirer,casserole,[]
+casserole,feu,"[{""id"": 252156, ""node1"": 57253, ""node2"": 143703, ""type"": 0, ""w"": 57.0}, {""id"": 96920401, ""node1"": 57253, ""node2"": 143703, ""type"": 15, ""w"": 30.0}, {""id"": 1762446, ""node1"": 57253, ""node2"": 143703, ""type"": 666, ""w"": 2.0}]"
+moulin,légume,[]
+moulin,pépin,[]
+passer,jus,[]
+jus,obtenir,[]
+jus,remettre,[]
+ajouter,sucre,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]"
+sucre,raison,[]
+sucre,gramme,"[{""id"": 1913810, ""node1"": 139481, ""node2"": 140383, ""type"": 58, ""w"": 35.0}]"
+gramme,sucre,"[{""id"": 720818120, ""node1"": 140383, ""node2"": 139481, ""type"": 174, ""w"": 25.0}]"
+mousse,surface,"[{""id"": 110078532, ""node1"": 134158, ""node2"": 45989, ""type"": 777, ""w"": 10.0}]"
+durcir,confiture,[]
+durcir,refroidir,[]

@@ -1,0 +1,51 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+saucisse,consommer,acl,VERB,0.6470814943313599,"[{""id"": 642807688, ""node1"": 77807, ""node2"": 97571, ""type"": 0, ""w"": 1.0}, {""id"": 29343691, ""node1"": 77807, ""node2"": 97571, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+saucisse,Allemagne,nmod,PROPN,0.4596207439899444,"[{""id"": 642809830, ""node1"": 77807, ""node2"": 89142, ""type"": 0, ""w"": 15.0}, {""id"": 4502344, ""node1"": 77807, ""node2"": 89142, ""type"": 777, ""w"": 7.0}]",r_associated,15.0
+saucisse,Alsace,nmod,PROPN,0.4562529921531677,[],,
+charcuterie,faire,acl,VERB,0.607404351234436,[],,
+nom,porc,nmod,NOUN,0.5409784317016602,[],,
+donner,recette,nsubj:pass,NOUN,0.6031222939491272,"[{""id"": 372872712, ""node1"": 12941, ""node2"": 120188, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+recette,faire,acl,VERB,0.6588188409805298,[],,
+viande,porc,nmod,NOUN,0.6425091028213501,"[{""id"": 163100, ""node1"": 140100, ""node2"": 71135, ""type"": 0, ""w"": 719.0}, {""id"": 9926333, ""node1"": 140100, ""node2"": 71135, ""type"": 6, ""w"": -20.0}, {""id"": 159577, ""node1"": 140100, ""node2"": 71135, ""type"": 8, ""w"": 174.0}, {""id"": 390246, ""node1"": 140100, ""node2"": 71135, ""type"": 10, ""w"": 70.0}, {""id"": 15173549, ""node1"": 140100, ""node2"": 71135, ""type"": 27, ""w"": 23.0}, {""id"": 376040808, ""node1"": 140100, ""node2"": 71135, ""type"": 51, ""w"": 35.0}, {""id"": 99763096, ""node1"": 140100, ""node2"": 71135, ""type"": 666, ""w"": 6.0}]",r_associated,719.0
+veau,jeune,amod,ADJ,0.52262282371521,"[{""id"": 11717781, ""node1"": 91311, ""node2"": 28466, ""type"": 0, ""w"": 43.0}, {""id"": 9922307, ""node1"": 91311, ""node2"": 28466, ""type"": 6, ""w"": 425.0}, {""id"": 766542679, ""node1"": 91311, ""node2"": 28466, ""type"": 17, ""w"": 41.0}]",r_isa,425.0
+fin,siècle,nmod,NOUN,0.429499864578247,[],,
+composition,risotto,nmod,NOUN,0.6514649987220764,[],,
+forme,particulier,amod,ADJ,0.4466863870620727,"[{""id"": 418108529, ""node1"": 142000, ""node2"": 85169, ""type"": 0, ""w"": 12.0}, {""id"": 598110451, ""node1"": 142000, ""node2"": 85169, ""type"": 17, ""w"": 36.0}]",r_carac,36.0
+foie,cochon,nmod,NOUN,0.581430196762085,"[{""id"": 15586343, ""node1"": 115155, ""node2"": 92847, ""type"": 0, ""w"": 34.0}, {""id"": 13104037, ""node1"": 115155, ""node2"": 92847, ""type"": 10, ""w"": 28.0}]",r_associated,34.0
+peser,gramme,obj,NOUN,0.4050478935241699,"[{""id"": 473577808, ""node1"": 34122, ""node2"": 140383, ""type"": 0, ""w"": 16.0}]",r_associated,16.0
+production,saucisse,nmod,NOUN,0.597698986530304,[],,
+saucisse,helvétique,amod,ADJ,0.5161828398704529,[],,
+comprendre,composition,nsubj,NOUN,0.4303029179573059,[],,
+composition,base,nmod,NOUN,0.4954732358455658,"[{""id"": 549637682, ""node1"": 26584, ""node2"": 72257, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+pourcent,viande,nmod,NOUN,0.5837695002555847,[],,
+peu,bœuf,nmod,NOUN,0.6029486656188965,[],,
+pourcent,veau,nmod,NOUN,0.4915351271629333,[],,
+pourcent,lard,nmod,NOUN,0.4919723272323608,[],,
+jus,citron,nmod,NOUN,0.5810989141464233,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+utilisation,sel,nmod,NOUN,0.6565831899642944,[],,
+sel,simple,amod,ADJ,0.6876967549324036,[],,
+sel,alimentaire,amod,ADJ,0.6702591776847839,[],,
+assurer,coloration,obj,NOUN,0.4582894444465637,[],,
+coloration,inscrire,acl:relcl,VERB,0.4057600200176239,[],,
+patrimoine,culinaire,amod,ADJ,0.5134579539299011,[],,
+cervelle,bœuf,nmod,NOUN,0.5848244428634644,[],,
+temps,difficile,amod,ADJ,0.4453181624412536,[],,
+avoir,moyen,obj,NOUN,0.4290836453437805,[],,
+office,santé,nmod,NOUN,0.4254177510738373,[],,
+santé,suisse,amod,ADJ,0.4064290225505829,[],,
+adjonction,cervelle,nmod,NOUN,0.5179705619812012,[],,
+adjonction,bœuf,nmod,NOUN,0.569367527961731,[],,
+goût,saucisse,nmod,NOUN,0.6598896980285645,[],,
+saucisse,national,amod,ADJ,0.5239391922950745,[],,
+saucisse,suisse,amod,ADJ,0.4937122762203216,[],,
+fabriquer,peau,nsubj:pass,NOUN,0.5034916400909424,[],,
+crainte,maladie,nmod,NOUN,0.4033918082714081,"[{""id"": 660618860, ""node1"": 49337, ""node2"": 130400, ""type"": 42, ""w"": 32.0}, {""id"": 28355949, ""node1"": 49337, ""node2"": 130400, ""type"": 115, ""w"": 92.0}]",r_sentiment-1,92.0
+faire,décision,nsubj,NOUN,0.4596230089664459,[],,
+faire,objet,obj,NOUN,0.4383790194988251,[],,
+forme,salade,nmod,NOUN,0.6227853894233704,[],,
+salade,mélange,appos,NOUN,0.6996720433235168,"[{""id"": 1341419, ""node1"": 118908, ""node2"": 14800, ""type"": 0, ""w"": 85.0}, {""id"": 53629936, ""node1"": 118908, ""node2"": 14800, ""type"": 5, ""w"": 91.0}, {""id"": 242323, ""node1"": 118908, ""node2"": 14800, ""type"": 6, ""w"": 168.0}, {""id"": 496566392, ""node1"": 118908, ""node2"": 14800, ""type"": 35, ""w"": 44.0}, {""id"": 8524028, ""node1"": 118908, ""node2"": 14800, ""type"": 42, ""w"": 111.0}, {""id"": 102048755, ""node1"": 118908, ""node2"": 14800, ""type"": 666, ""w"": 5.0}]",r_isa,168.0
+mélange,vinaigrette,nmod,NOUN,0.6678792238235474,[],,
+fromage,lard,nmod,NOUN,0.600302517414093,[],,
+consommer,vendre,advcl,VERB,0.4294477701187134,[],,
+base,viande,nmod,NOUN,0.6828669309616089,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,

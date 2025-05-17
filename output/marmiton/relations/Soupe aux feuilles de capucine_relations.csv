@@ -1,0 +1,21 @@
+node1,node2,relations
+soupe,feuille,[]
+feuille,ingrédient,[]
+ingrédient,huile,"[{""id"": 561306445, ""node1"": 123418, ""node2"": 141971, ""type"": 0, ""w"": 44.0}]"
+pomme,terre,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+ingrédient,cube,[]
+cube,bouillon,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]"
+bouillon,eau,"[{""id"": 32063698, ""node1"": 146582, ""node2"": 65012, ""type"": 0, ""w"": 33.0}, {""id"": 418498335, ""node1"": 146582, ""node2"": 65012, ""type"": 3, ""w"": 31.0}, {""id"": 32061929, ""node1"": 146582, ""node2"": 65012, ""type"": 9, ""w"": 53.0}]"
+eau,crème,"[{""id"": 561287034, ""node1"": 65012, ""node2"": 44001, ""type"": 0, ""w"": 45.0}]"
+cube,louche,[]
+louche,mixeur,[]
+mixeur,plonger,[]
+mixeur,chauffer,[]
+chauffer,mixeur,[]
+ingrédient,étape,[]
+huile,olive,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]"
+ajouter,pomme,[]
+cuire,min,[]
+ajouter,feuille,[]
+ajouter,crème,[]
+crème,alléger,[]

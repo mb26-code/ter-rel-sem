@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+sucre,lait,nmod,NOUN,0.6437966823577881,[],,
+titre,saladier,nmod,NOUN,0.5138511061668396,[],,
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,réfrigérateur,nmod,NOUN,0.5236407518386841,[],,
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[],,
+titre,faire,nmod,VERB,0.4374700486660003,[],,
+faire,lait,obj,NOUN,0.6273744702339172,[],,
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+laisser,lait,obj,NOUN,0.584782600402832,[],,
+environnement,chaud,amod,ADJ,0.4908737540245056,"[{""id"": 570226744, ""node1"": 117325, ""node2"": 19150, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+environnement,température,appos,NOUN,0.4316271245479584,[],,
+placer,saladier,obj,NOUN,0.5614159107208252,[],,
+déguster,découper,advcl,VERB,0.5501198172569275,[],,
+découper,part,obj,NOUN,0.4675110280513763,[],,
+découper,sortir,advcl,VERB,0.4331866800785064,[],,
+lait,petit,amod,ADJ,0.603304922580719,"[{""id"": 1794036, ""node1"": 86296, ""node2"": 55222, ""type"": 666, ""w"": 1.0}]",r_aki,1.0
+sortir,lait,obj,NOUN,0.5937103033065796,[],,
+servir,arroser,nsubj,VERB,0.4941637516021728,"[{""id"": 1005645, ""node1"": 7888, ""node2"": 67803, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+arroser,café,nmod,NOUN,0.5697460174560547,"[{""id"": 96358433, ""node1"": 67803, ""node2"": 66324, ""type"": 31, ""w"": 55.0}]",r_action_lieu,55.0

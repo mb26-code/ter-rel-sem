@@ -1,0 +1,39 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,oignon,appos,NOUN,0.6626235842704773,"[{""id"": 24923430, ""node1"": 123418, ""node2"": 123307, ""type"": 0, ""w"": 15.0}, {""id"": 24850729, ""node1"": 123418, ""node2"": 123307, ""type"": 8, ""w"": 28.0}]",r_hypo,28.0
+ingrédient,sucre,appos,NOUN,0.7083083987236023,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]",r_associated,70.0
+sucre,vinaigre,nmod,NOUN,0.6951253414154053,[],,
+vinaigre,sel,nmod,NOUN,0.683134913444519,"[{""id"": 2147403, ""node1"": 145443, ""node2"": 13260, ""type"": 0, ""w"": 80.0}]",r_associated,80.0
+sel,pâte,nmod,NOUN,0.7470165491104126,"[{""id"": 796704071, ""node1"": 13260, ""node2"": 34069, ""type"": 0, ""w"": 25.0}]",r_associated,25.0
+sel,basilic,flat:name,NOUN,0.6894136667251587,[],,
+sucre,paprika,acl,ADJ,0.6957341432571411,[],,
+oeuf,ail,nmod,ADP,0.6018499135971069,[],,
+menthe,soja,amod,ADV,0.6182003021240234,[],,
+germe,menthe,nmod,VERB,0.5544686317443848,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+chauffer,wok,obj,NOUN,0.635486900806427,[],,
+poêle,gros,amod,ADJ,0.6245489716529846,[],,
+ajouter,cuillère,obj,NOUN,0.5465437173843384,[],,
+cuillère,huile,nmod,NOUN,0.612982988357544,"[{""id"": 775213351, ""node1"": 51905, ""node2"": 141971, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+ajouter,basilic,obj,NOUN,0.5756345987319946,[],,
+cuillère,autre,amod,ADJ,0.5415813326835632,[],,
+cuillère,poêle,nmod,NOUN,0.66766756772995,[],,
+revenir,poulet,obj,NOUN,0.6672897338867188,[],,
+ajouter,sel,obj,NOUN,0.6747812032699585,"[{""id"": 914306223, ""node1"": 25099, ""node2"": 13260, ""type"": 0, ""w"": 20.0}, {""id"": 220261, ""node1"": 25099, ""node2"": 13260, ""type"": 14, ""w"": 70.0}]",r_patient,70.0
+ajouter,œuf,obj,NOUN,0.5268428325653076,[],,
+œuf,brouiller,amod,VERB,0.5089831352233887,[],,
+enlever,tout,obj,NOUN,0.4735166430473327,[],,
+cuillère,dernier,amod,ADJ,0.5407758355140686,[],,
+mettre,ail,obj,NOUN,0.5832958817481995,[],,
+cuire,vinaigre,nsubj,NOUN,0.7938286066055298,[],,
+ajouter,pâte,obj,NOUN,0.6482475399971008,[],,
+mettre,piment,obj,NOUN,0.603797972202301,"[{""id"": 513445745, ""node1"": 132366, ""node2"": 128791, ""type"": 0, ""w"": 26.0}, {""id"": 513445744, ""node1"": 132366, ""node2"": 128791, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+rajouter,poulet,obj,NOUN,0.6765226721763611,[],,
+légume,tout,nmod,NOUN,0.6585912108421326,[],,
+mettre,tout,obj,NOUN,0.4651019871234894,[],,
+mettre,décorer,advcl,VERB,0.4522710740566253,[],,
+tranche,citron,nmod,NOUN,0.6237561106681824,"[{""id"": 560952309, ""node1"": 143123, ""node2"": 15386, ""type"": 0, ""w"": 37.0}, {""id"": 720817951, ""node1"": 143123, ""node2"": 15386, ""type"": 174, ""w"": 25.0}]",r_associated,37.0

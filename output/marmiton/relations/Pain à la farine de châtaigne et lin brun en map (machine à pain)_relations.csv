@@ -1,0 +1,24 @@
+node1,node2,relations
+titre,pain,[]
+pain,farine,"[{""id"": 66458, ""node1"": 61283, ""node2"": 127629, ""type"": 0, ""w"": 744.0}, {""id"": 2350628, ""node1"": 61283, ""node2"": 127629, ""type"": 9, ""w"": 6.0}, {""id"": 238495, ""node1"": 61283, ""node2"": 127629, ""type"": 28, ""w"": 168.0}, {""id"": 25778956, ""node1"": 61283, ""node2"": 127629, ""type"": 50, ""w"": 82.0}, {""id"": 274329408, ""node1"": 61283, ""node2"": 127629, ""type"": 129, ""w"": 80.0}, {""id"": 1793535, ""node1"": 61283, ""node2"": 127629, ""type"": 666, ""w"": 9.0}]"
+farine,châtaigne,"[{""id"": 3065659, ""node1"": 127629, ""node2"": 120225, ""type"": 0, ""w"": 51.0}]"
+machine,pain,[]
+machine,ingrédient,[]
+machine,sel,[]
+sel,miel,[]
+miel,farine,[]
+sel,levure,[]
+levure,boulanger,"[{""id"": 1769594, ""node1"": 53450, ""node2"": 145285, ""type"": 0, ""w"": 90.0}, {""id"": 376186762, ""node1"": 53450, ""node2"": 145285, ""type"": 25, ""w"": 26.0}]"
+boulanger,eau,"[{""id"": 180860, ""node1"": 145285, ""node2"": 65012, ""type"": 16, ""w"": 80.0}]"
+eau,graine,"[{""id"": 1030663598, ""node1"": 65012, ""node2"": 14469, ""type"": 0, ""w"": 20.0}, {""id"": 480295435, ""node1"": 65012, ""node2"": 14469, ""type"": 777, ""w"": 10.0}]"
+eau,farine,"[{""id"": 480295457, ""node1"": 65012, ""node2"": 127629, ""type"": 777, ""w"": 10.0}]"
+eau,châtaigne,[]
+four,balance,[]
+balance,cuisine,[]
+balance,étape,[]
+balance,mettre,[]
+mettre,ingrédient,[]
+programme,pain,[]
+pain,complet,"[{""id"": 396662, ""node1"": 61283, ""node2"": 42645, ""type"": 0, ""w"": 60.0}, {""id"": 376767, ""node1"": 61283, ""node2"": 42645, ""type"": 17, ""w"": 80.0}]"
+minute,four,[]
+four,position,[]

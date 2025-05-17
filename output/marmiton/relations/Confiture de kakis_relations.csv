@@ -1,0 +1,37 @@
+node1,node2,relations
+confiture,kaki,[]
+confiture,ingrédient,"[{""id"": 15370391, ""node1"": 70793, ""node2"": 123418, ""type"": 0, ""w"": 39.0}, {""id"": 506041, ""node1"": 70793, ""node2"": 123418, ""type"": 3, ""w"": 52.0}]"
+ingrédient,sucre,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]"
+sucre,kaki,[]
+sucre,jus,[]
+jus,citron,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]"
+jus,saladier,[]
+saladier,cuillère,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]"
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+jus,casserole,[]
+casserole,couvercle,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]"
+récipient,grand,[]
+jus,récipient,[]
+récipient,balance,[]
+balance,cuisine,[]
+jus,étape,[]
+jus,prélever,"[{""id"": 31881932, ""node1"": 53310, ""node2"": 27502, ""type"": 26, ""w"": 30.0}]"
+prélever,pulpe,"[{""id"": 31881024, ""node1"": 27502, ""node2"": 85081, ""type"": 14, ""w"": 53.0}]"
+pulpe,kaki,[]
+paraître,confiture,[]
+mélanger,pulpe,[]
+pulpe,saladier,[]
+pulpe,jus,"[{""id"": 796830044, ""node1"": 85081, ""node2"": 53310, ""type"": 0, ""w"": 24.0}, {""id"": 211623, ""node1"": 85081, ""node2"": 53310, ""type"": 9, ""w"": -80.0}, {""id"": 9981245, ""node1"": 85081, ""node2"": 53310, ""type"": 10, ""w"": 4.0}, {""id"": 984470809, ""node1"": 85081, ""node2"": 53310, ""type"": 666, ""w"": 2.0}]"
+verser,sucre,[]
+ajouter,mélanger,[]
+ajouter,gousse,[]
+gousse,vanille,"[{""id"": 723347912, ""node1"": 3889, ""node2"": 140463, ""type"": 0, ""w"": 27.0}, {""id"": 671656975, ""node1"": 3889, ""node2"": 140463, ""type"": 58, ""w"": 25.0}, {""id"": 714921745, ""node1"": 3889, ""node2"": 140463, ""type"": 666, ""w"": 3.0}]"
+récipient,inox,[]
+bouillon,gros,[]
+cuire,cesser,[]
+pot,couvercle,"[{""id"": 558853390, ""node1"": 142367, ""node2"": 89523, ""type"": 0, ""w"": 40.0}]"
+pot,vis,[]
+verser,retourner,"[{""id"": 59515440, ""node1"": 104506, ""node2"": 103323, ""type"": 0, ""w"": 23.0}, {""id"": 54733922, ""node1"": 104506, ""node2"": 103323, ""type"": 5, ""w"": 59.0}]"
+torchon,propre,"[{""id"": 14801365, ""node1"": 87841, ""node2"": 118316, ""type"": 17, ""w"": 30.0}]"
+fermer,pot,"[{""id"": 558644745, ""node1"": 24346, ""node2"": 142367, ""type"": 0, ""w"": 27.0}, {""id"": 376066443, ""node1"": 24346, ""node2"": 142367, ""type"": 31, ""w"": 34.0}]"
+risque,brûlure,[]

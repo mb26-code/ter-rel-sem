@@ -1,0 +1,32 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,crumble,amod,NOUN,0.5308472514152527,[],,
+fruit,ingrédient,nmod,NOUN,0.562045156955719,[],,
+crumble,sucre,acl,NOUN,0.7158805727958679,"[{""id"": 1017966635, ""node1"": 219751, ""node2"": 139481, ""type"": 9, ""w"": 29.0}, {""id"": 7793834, ""node1"": 219751, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]",r_has_part,29.0
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,beurre,acl,NOUN,0.6949014067649841,[],,
+beurre,fruit,obj,NOUN,0.6500765085220337,"[{""id"": 607214936, ""node1"": 140377, ""node2"": 87286, ""type"": 0, ""w"": 48.0}]",r_associated,48.0
+fruit,rouge,amod,ADJ,0.5084561109542847,"[{""id"": 640137316, ""node1"": 87286, ""node2"": 86356, ""type"": 0, ""w"": 96.0}, {""id"": 2171760, ""node1"": 87286, ""node2"": 86356, ""type"": 17, ""w"": 26.0}, {""id"": 3160627, ""node1"": 87286, ""node2"": 86356, ""type"": 106, ""w"": 22.0}]",r_associated,96.0
+sucre,cuillère,nmod,NOUN,0.6920893788337708,"[{""id"": 922009699, ""node1"": 139481, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 765218019, ""node1"": 139481, ""node2"": 51905, ""type"": 58, ""w"": 38.0}, {""id"": 1025057955, ""node1"": 139481, ""node2"": 51905, ""type"": 155, ""w"": 27.0}]",r_quantificateur,38.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,four,nmod,NOUN,0.7153509855270386,[],,
+four,couteau,nmod,NOUN,0.6828393340110779,[],,
+couteau,couvercle,nmod,NOUN,0.5890913009643555,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+four,étape,nmod,NOUN,0.6555838584899902,[],,
+titre,verser,acl,VERB,0.4395780265331268,[],,
+verser,farine,obj,NOUN,0.6472393274307251,"[{""id"": 25676320, ""node1"": 104506, ""node2"": 127629, ""type"": 14, ""w"": 40.0}]",r_patient,40.0
+ajouter,beurre,obj,NOUN,0.658586859703064,"[{""id"": 373014956, ""node1"": 25099, ""node2"": 140377, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+mélanger,tout,obj,NOUN,0.528428852558136,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]",r_patient,110.0
+ressembler,pâte,nsubj,NOUN,0.6291940212249756,[],,
+four,210,nmod,NUM,0.4737946689128876,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+laver,fruit,obj,NOUN,0.5700708627700806,"[{""id"": 213741328, ""node1"": 143876, ""node2"": 87286, ""type"": 14, ""w"": 30.0}, {""id"": 376193977, ""node1"": 143876, ""node2"": 87286, ""type"": 16, ""w"": -25.0}]",r_patient,30.0
+couper,gros,obj,ADJ,0.4553809463977813,[],,
+plat,aller,acl,VERB,0.5960066914558411,[],,
+recouvrir,saupoudrer,advcl,VERB,0.5004895329475403,[],,
+four,minute,nmod,NOUN,0.6574273109436035,[],,
+zeste,citron,nmod,NOUN,0.5487085580825806,"[{""id"": 615058522, ""node1"": 98173, ""node2"": 15386, ""type"": 0, ""w"": 22.0}, {""id"": 9991099, ""node1"": 98173, ""node2"": 15386, ""type"": 10, ""w"": 4.0}, {""id"": 377014851, ""node1"": 98173, ""node2"": 15386, ""type"": 20, ""w"": 34.0}, {""id"": 986046177, ""node1"": 98173, ""node2"": 15386, ""type"": 666, ""w"": 2.0}]",r_has_magn,34.0
+zeste,râpé,acl,ADV,0.5270615816116333,[],,

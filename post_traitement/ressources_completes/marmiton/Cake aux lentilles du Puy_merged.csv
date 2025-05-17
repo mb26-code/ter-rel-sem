@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+Cake,lentille,nmod,NOUN,0.4114180505275726,[],,
+Cake,levure,nmod,NOUN,0.4711513221263885,[],,
+oeuf,huile,amod,NOUN,0.6085584163665771,[],,
+huile,noix,nmod,NOUN,0.6024021506309509,"[{""id"": 374335, ""node1"": 141971, ""node2"": 30910, ""type"": 0, ""w"": 81.0}, {""id"": 2319254, ""node1"": 141971, ""node2"": 30910, ""type"": 42, ""w"": 70.0}]",r_associated,81.0
+Cake,grille,appos,NOUN,0.4264800548553467,[],,
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+pâtisserie,four,nmod,NOUN,0.6954796314239502,"[{""id"": 942271912, ""node1"": 25966, ""node2"": 9190, ""type"": 0, ""w"": 24.0}, {""id"": 15790548, ""node1"": 25966, ""node2"": 9190, ""type"": 15, ""w"": 58.0}, {""id"": 1789859, ""node1"": 25966, ""node2"": 9190, ""type"": 666, ""w"": 1.0}]",r_lieu,58.0
+four,saladier,nmod,NOUN,0.6991847157478333,[],,
+grille,cuillère,nmod,NOUN,0.574907660484314,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,aluminium,nmod,NOUN,0.5869276523590088,"[{""id"": 662512817, ""node1"": 51905, ""node2"": 95561, ""type"": 0, ""w"": 23.0}, {""id"": 1051888785, ""node1"": 51905, ""node2"": 95561, ""type"": 666, ""w"": 2.0}]",r_associated,23.0
+aluminium,balance,nmod,NOUN,0.4969750940799713,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,appos,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+mélanger,obtenir,advcl,VERB,0.4532898962497711,[],,
+obtenir,mélange,obj,NOUN,0.4783641993999481,[],,
+mélange,homogène,amod,ADJ,0.4782799482345581,"[{""id"": 914526136, ""node1"": 14800, ""node2"": 124759, ""type"": 0, ""w"": 21.0}, {""id"": 33170626, ""node1"": 14800, ""node2"": 124759, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+ajouter,huile,obj,NOUN,0.5838896036148071,[],,
+crue,lentille,amod,NOUN,0.5017772912979126,[],,
+ajouter,crue,obj,NOUN,0.5044121742248535,[],,
+ajouter,sachet,obj,NOUN,0.5306626558303833,[],,
+sachet,levure,nmod,NOUN,0.5773553848266602,[],,
+base,ajouter,acl,VERB,0.5060073733329773,[],,
+ajouter,oignon,obj,NOUN,0.585871696472168,[],,
+verser,préparation,obj,NOUN,0.5208573341369629,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparation,plat,nmod,NOUN,0.6394128799438477,"[{""id"": 601611406, ""node1"": 33634, ""node2"": 36327, ""type"": 0, ""w"": 16.0}, {""id"": 1016257135, ""node1"": 33634, ""node2"": 36327, ""type"": 8, ""w"": 20.0}, {""id"": 104958347, ""node1"": 33634, ""node2"": 36327, ""type"": 15, ""w"": 7.0}]",r_hypo,20.0
+enfourner,cake,obj,NOUN,0.570549488067627,[],,
+enfourner,degré,nmod,NOUN,0.4610618650913238,[],,
+couvrir,cake,obj,NOUN,0.5655285120010376,[],,
+cake,papier,nmod,NOUN,0.5567407608032227,[],,
+papier,aluminium,amod,ADJ,0.4892482459545135,"[{""id"": 796957362, ""node1"": 103389, ""node2"": 95561, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+prendre,teinte,obj,NOUN,0.4472603499889374,[],,
+teinte,doré,amod,ADJ,0.493917167186737,[],,

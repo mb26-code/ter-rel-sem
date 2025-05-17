@@ -1,0 +1,36 @@
+node1,node2,relations
+titre,soupe,[]
+soupe,fraise,[]
+fraise,violette,[]
+soupe,glace,[]
+amande,ingrédient,"[{""id"": 559137438, ""node1"": 28557, ""node2"": 123418, ""type"": 0, ""w"": 32.0}]"
+soupe,liqueur,[]
+liqueur,sucre,"[{""id"": 423451177, ""node1"": 66643, ""node2"": 139481, ""type"": 0, ""w"": 26.0}, {""id"": 980975051, ""node1"": 66643, ""node2"": 139481, ""type"": 666, ""w"": 3.0}, {""id"": 3573576, ""node1"": 66643, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]"
+sucre,fraise,"[{""id"": 561132474, ""node1"": 139481, ""node2"": 16242, ""type"": 0, ""w"": 52.0}]"
+fraise,sirop,"[{""id"": 358329, ""node1"": 16242, ""node2"": 91109, ""type"": 0, ""w"": 121.0}, {""id"": 9916980, ""node1"": 16242, ""node2"": 91109, ""type"": 6, ""w"": 117.0}]"
+sirop,violette,"[{""id"": 799222496, ""node1"": 91109, ""node2"": 118763, ""type"": 0, ""w"": 22.0}]"
+violette,glace,[]
+sucre,bonbon,"[{""id"": 98372, ""node1"": 139481, ""node2"": 120500, ""type"": 0, ""w"": 522.0}, {""id"": 82594, ""node1"": 139481, ""node2"": 120500, ""type"": 6, ""w"": -10.0}, {""id"": 2257958, ""node1"": 139481, ""node2"": 120500, ""type"": 8, ""w"": -51.0}, {""id"": 9986085, ""node1"": 139481, ""node2"": 120500, ""type"": 10, ""w"": 4.0}, {""id"": 1906975, ""node1"": 139481, ""node2"": 120500, ""type"": 15, ""w"": 88.0}, {""id"": 2270922, ""node1"": 139481, ""node2"": 120500, ""type"": 41, ""w"": 51.0}, {""id"": 34297359, ""node1"": 139481, ""node2"": 120500, ""type"": 51, ""w"": 76.0}, {""id"": 1577544, ""node1"": 139481, ""node2"": 120500, ""type"": 666, ""w"": 6.0}]"
+bonbon,violette,"[{""id"": 97349002, ""node1"": 120500, ""node2"": 118763, ""type"": 0, ""w"": 17.0}, {""id"": 97349023, ""node1"": 120500, ""node2"": 118763, ""type"": 8, ""w"": 41.0}]"
+violette,louche,[]
+louche,mixeur,[]
+mixeur,plonger,[]
+mixeur,chauffer,[]
+violette,étape,[]
+obtenir,soupe,[]
+aide,robot,[]
+aide,casser,[]
+casser,bonbon,[]
+morceau,petit,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]"
+bonbon,morceau,[]
+incorporer,sirop,[]
+liqueur,éclat,[]
+éclat,bonbon,[]
+liqueur,soupe,[]
+temps,repas,[]
+servir,soupe,"[{""id"": 369969186, ""node1"": 7888, ""node2"": 117152, ""type"": 0, ""w"": 27.0}, {""id"": 369969185, ""node1"": 7888, ""node2"": 117152, ""type"": 14, ""w"": 100.0}, {""id"": 1046684358, ""node1"": 7888, ""node2"": 117152, ""type"": 31, ""w"": 20.0}]"
+soupe,boule,[]
+boule,glace,"[{""id"": 243451, ""node1"": 141883, ""node2"": 141964, ""type"": 0, ""w"": 101.0}, {""id"": 9903174, ""node1"": 141883, ""node2"": 141964, ""type"": 6, ""w"": 13.0}, {""id"": 4985394, ""node1"": 141883, ""node2"": 141964, ""type"": 9, ""w"": 5.0}, {""id"": 720819380, ""node1"": 141883, ""node2"": 141964, ""type"": 174, ""w"": 25.0}]"
+boule,amande,[]
+amande,pincée,[]
+pincée,éclat,[]

@@ -1,0 +1,50 @@
+head,lemma,dep,pos,sim,relations
+soupe,bière,nmod,NOUN,0.6451860070228577,[]
+projet,autre,amod,ADJ,0.4316383004188537,[]
+spécialité,projet,nsubj,NOUN,0.4531592130661011,[]
+projet,soupe,appos,NOUN,0.6421407461166382,[]
+soupe,spécialité,acl:relcl,NOUN,0.6608579158782959,[]
+spécialité,régional,amod,ADJ,0.4149852991104126,[]
+spécialité,connaître,acl,VERB,0.4747391045093536,[]
+plat,lui,nsubj,PRON,0.5604100823402405,[]
+plat,pauvre,nmod,NOUN,0.6022005081176758,"[{""id"": 12304792, ""node1"": 36327, ""node2"": 71348, ""type"": 0, ""w"": 27.0}, {""id"": 566549, ""node1"": 36327, ""node2"": 71348, ""type"": 5, ""w"": 118.0}]"
+plat,plat,nmod,NOUN,0.5766818523406982,"[{""id"": 475263, ""node1"": 36327, ""node2"": 36327, ""type"": 17, ""w"": 60.0}, {""id"": 324264, ""node1"": 36327, ""node2"": 36327, ""type"": 19, ""w"": 55.0}, {""id"": 376396975, ""node1"": 36327, ""node2"": 36327, ""type"": 23, ""w"": 31.0}]"
+plat,servir,acl,VERB,0.6370052695274353,"[{""id"": 97052875, ""node1"": 36327, ""node2"": 7888, ""type"": 0, ""w"": 23.0}, {""id"": 207664, ""node1"": 36327, ""node2"": 7888, ""type"": 25, ""w"": 310.0}, {""id"": 97758642, ""node1"": 36327, ""node2"": 7888, ""type"": 26, ""w"": 100.0}, {""id"": 1907912, ""node1"": 36327, ""node2"": 7888, ""type"": 30, ""w"": 59.0}, {""id"": 1819972, ""node1"": 36327, ""node2"": 7888, ""type"": 37, ""w"": 60.0}]"
+saison,froid,amod,ADJ,0.517099142074585,"[{""id"": 374615, ""node1"": 30886, ""node2"": 49803, ""type"": 0, ""w"": 64.0}, {""id"": 14658793, ""node1"": 30886, ""node2"": 49803, ""type"": 41, ""w"": 29.0}, {""id"": 653743604, ""node1"": 30886, ""node2"": 49803, ""type"": 666, ""w"": 2.0}]"
+servir,bière,nsubj:pass,NOUN,0.5880210995674133,"[{""id"": 477262446, ""node1"": 7888, ""node2"": 106797, ""type"": 0, ""w"": 26.0}, {""id"": 477262445, ""node1"": 7888, ""node2"": 106797, ""type"": 14, ""w"": 100.0}]"
+servir,éviter,acl,VERB,0.4476493000984192,[]
+éviter,consommation,obj,NOUN,0.4330746233463287,[]
+consommation,eau,nmod,NOUN,0.5537509918212891,[]
+mention,cuisinier,nmod,NOUN,0.5046008229255676,[]
+cuisinier,moderne,amod,ADJ,0.5510305762290955,[]
+donne,recette,obj,NOUN,0.5504437685012817,[]
+base,pain,nmod,NOUN,0.6845396757125854,[]
+pain,râpé,amod,ADV,0.6635067462921143,[]
+bière,ajouter,acl:relcl,VERB,0.5716506838798523,[]
+sucre,cannelle,nmod,NOUN,0.6697208285331726,"[{""id"": 1011319152, ""node1"": 139481, ""node2"": 112959, ""type"": 0, ""w"": 12.0}]"
+zeste,citron,nmod,NOUN,0.5438535213470459,"[{""id"": 615058522, ""node1"": 98173, ""node2"": 15386, ""type"": 0, ""w"": 22.0}, {""id"": 9991099, ""node1"": 98173, ""node2"": 15386, ""type"": 10, ""w"": 4.0}, {""id"": 377014851, ""node1"": 98173, ""node2"": 15386, ""type"": 20, ""w"": 34.0}, {""id"": 986046177, ""node1"": 98173, ""node2"": 15386, ""type"": 666, ""w"": 2.0}]"
+citron,vert,amod,ADJ,0.53326815366745,"[{""id"": 1559582, ""node1"": 15386, ""node2"": 26976, ""type"": 0, ""w"": 61.0}, {""id"": 1773945, ""node1"": 15386, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3160941, ""node1"": 15386, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]"
+vin,Rhin,nmod,PROPN,0.5134037137031555,[]
+cuire,le,obj,DET,0.4550628960132599,[]
+ajouter,cuire,advcl,VERB,0.6986612677574158,[]
+lier,autre,obj,ADJ,0.4255977272987366,"[{""id"": 584917978, ""node1"": 15392, ""node2"": 7574, ""type"": 9, ""w"": -5.0}]"
+ajouter,faire,advcl,VERB,0.4849966764450073,[]
+soupe,dire,acl,VERB,0.6295821070671082,[]
+appeler,soupe,nsubj,NOUN,0.5913391709327698,[]
+ajouter,raisin,obj,NOUN,0.5856242775917053,[]
+retrouver,soupe,obj,NOUN,0.6428002119064331,[]
+type,soupe,nmod,NOUN,0.6394335627555847,[]
+retrouver,faire,advcl,VERB,0.4492119252681732,[]
+famille,bière,amod,NOUN,0.5212368965148926,[]
+bière,doux,amod,ADJ,0.5752809643745422,"[{""id"": 669150039, ""node1"": 106797, ""node2"": 74183, ""type"": 0, ""w"": 21.0}]"
+préparer,saler,advcl,ADJ,0.5969257354736328,[]
+saler,autre,obj,ADJ,0.6044324636459351,[]
+recommander,préparer,advcl,VERB,0.4280374646186828,[]
+bouillon,volaille,nmod,NOUN,0.688870370388031,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]"
+bouillon,bière,nmod,NOUN,0.6406559944152832,[]
+recette,soupe,nsubj,NOUN,0.7075814604759216,"[{""id"": 920490924, ""node1"": 120188, ""node2"": 117152, ""type"": 0, ""w"": 20.0}]"
+recette,seul,amod,ADJ,0.6059883236885071,[]
+soigner,recette,obj,NOUN,0.6056252717971802,[]
+recette,connaître,acl,VERB,0.6189429759979248,"[{""id"": 15071488, ""node1"": 120188, ""node2"": 77428, ""type"": 26, ""w"": 30.0}]"
+recette,danois,nmod,NOUN,0.5193963050842285,[]
+recette,festin,nmod,NOUN,0.6486427783966064,[]

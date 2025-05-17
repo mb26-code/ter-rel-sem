@@ -1,0 +1,22 @@
+node1,node2,relations
+titre,pain,[]
+pain,semoule,[]
+pain,map,[]
+pain,machine,[]
+machine,pain,[]
+ingrédient,sel,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]"
+sel,farine,[]
+sel,levure,[]
+levure,boulanger,"[{""id"": 1769594, ""node1"": 53450, ""node2"": 145285, ""type"": 0, ""w"": 90.0}, {""id"": 376186762, ""node1"": 53450, ""node2"": 145285, ""type"": 25, ""w"": 26.0}]"
+boulanger,sec,[]
+boulanger,eau,"[{""id"": 180860, ""node1"": 145285, ""node2"": 65012, ""type"": 16, ""w"": 80.0}]"
+eau,semoule,[]
+ingrédient,étape,[]
+introduire,ingrédient,[]
+programme,pain,[]
+bout,minute,[]
+boule,bel,[]
+devenir,boule,[]
+boule,tel,[]
+rajouter,peu,[]
+peu,farine,[]

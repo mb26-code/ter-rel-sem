@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+cidre,Lapin,nsubj,PROPN,0.5081599950790405,[],,
+Lapin,cidre,nmod,NOUN,0.5081599950790405,[],,
+cidre,ingrédient,nmod,NOUN,0.621827244758606,[],,
+cidre,sel,nmod,NOUN,0.6977293491363525,[],,
+sel,poivre,nmod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,beurre,appos,NOUN,0.71866774559021,"[{""id"": 584573840, ""node1"": 139597, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+cidre,lapin,nmod,NOUN,0.6028925776481628,[],,
+lapin,céleri,amod,PROPN,0.6248440146446228,[],,
+lapin,échalote,amod,NOUN,0.5985004901885986,[],,
+cidre,huile,obj,NOUN,0.6507650017738342,[],,
+bouquet,garni,amod,ADJ,0.4469667077064514,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+set,casserole,appos,NOUN,0.4378535151481628,[],,
+casserole,couvercle,obj,NOUN,0.6508210897445679,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]",r_has_part,100.0
+couvercle,cuillère,nmod,NOUN,0.6197326183319092,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+cidre,carotte,obj,NOUN,0.6167734265327454,[],,
+chauffer,huile,obj,NOUN,0.64256751537323,[],,
+mettre,morceau,obj,NOUN,0.5564393401145935,[],,
+morceau,lapin,nmod,NOUN,0.5762332677841187,"[{""id"": 720818863, ""node1"": 65364, ""node2"": 20164, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+ajouter,doré,advcl,ADJ,0.5194652080535889,[],,
+ajouter,légume,obj,NOUN,0.6689792275428772,[],,
+verser,cidre,obj,NOUN,0.588206946849823,[],,
+mettre,bouquet,obj,NOUN,0.4964542090892792,"[{""id"": 478070894, ""node1"": 132366, ""node2"": 34381, ""type"": 0, ""w"": 31.0}, {""id"": 478070893, ""node1"": 132366, ""node2"": 34381, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+réduire,minute,obj,NOUN,0.4435298442840576,[],,
+lier,sauce,nsubj:pass,NOUN,0.5866479277610779,"[{""id"": 580637729, ""node1"": 15392, ""node2"": 141110, ""type"": 0, ""w"": 32.0}, {""id"": 373014654, ""node1"": 15392, ""node2"": 141110, ""type"": 14, ""w"": 31.0}]",r_associated,32.0
+rectifier,assaisonnement,obj,NOUN,0.5303710103034973,"[{""id"": 15080476, ""node1"": 36001, ""node2"": 15763, ""type"": 14, ""w"": 30.0}]",r_patient,30.0

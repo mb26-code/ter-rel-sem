@@ -1,0 +1,37 @@
+node1,node2,relations
+cloche,chocolat,[]
+cloche,pâtissier,[]
+pâtissier,sucre,"[{""id"": 926504815, ""node1"": 31618, ""node2"": 139481, ""type"": 0, ""w"": 24.0}, {""id"": 453662646, ""node1"": 31618, ""node2"": 139481, ""type"": 155, ""w"": 29.0}, {""id"": 972443193, ""node1"": 31618, ""node2"": 139481, ""type"": 666, ""w"": 4.0}]"
+sucre,semoule,"[{""id"": 277256, ""node1"": 139481, ""node2"": 64778, ""type"": 17, ""w"": -94.0}, {""id"": 639101518, ""node1"": 139481, ""node2"": 64778, ""type"": 141, ""w"": 25.0}]"
+sucre,beurre,[]
+biscuit,rose,"[{""id"": 3184440, ""node1"": 62524, ""node2"": 145583, ""type"": 106, ""w"": 1.0}]"
+biscuit,jaune,"[{""id"": 3173658, ""node1"": 62524, ""node2"": 86711, ""type"": 106, ""w"": 1.0}]"
+jaune,oeuf,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]"
+oeuf,lait,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]"
+saladier,planche,[]
+saladier,découper,[]
+découper,rouleau,[]
+rouleau,pâtisserie,"[{""id"": 34655902, ""node1"": 59019, ""node2"": 25966, ""type"": 0, ""w"": 31.0}]"
+pâtisserie,cuillère,"[{""id"": 922009701, ""node1"": 25966, ""node2"": 51905, ""type"": 0, ""w"": 20.0}]"
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,frigo,[]
+frigo,balance,[]
+balance,cuisine,[]
+balance,étape,[]
+cuillère,sortir,[]
+cuillère,beurre,"[{""id"": 720818738, ""node1"": 51905, ""node2"": 140377, ""type"": 174, ""w"": 25.0}]"
+cuillère,réfrigérateur,[]
+réfrigérateur,heure,[]
+réfrigérateur,avance,[]
+aide,cuillère,[]
+ajouter,sucre,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]"
+devoir,mélange,[]
+biscuit,main,[]
+poudre,fin,[]
+poudre,aide,[]
+aide,rouleau,[]
+ajouter,poudre,[]
+poudre,biscuit,[]
+poudre,crème,"[{""id"": 602100050, ""node1"": 139470, ""node2"": 44001, ""type"": 0, ""w"": 15.0}]"
+crème,beurre,"[{""id"": 405906, ""node1"": 44001, ""node2"": 140377, ""type"": 0, ""w"": 73.0}, {""id"": 9980280, ""node1"": 44001, ""node2"": 140377, ""type"": 10, ""w"": 4.0}, {""id"": 1836384, ""node1"": 44001, ""node2"": 140377, ""type"": 21, ""w"": 60.0}, {""id"": 306776452, ""node1"": 44001, ""node2"": 140377, ""type"": 666, ""w"": 2.0}]"
+crème,préparer,[]

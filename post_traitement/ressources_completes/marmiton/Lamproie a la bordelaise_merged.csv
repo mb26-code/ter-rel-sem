@@ -1,0 +1,51 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+bordelais,ingrédient,nmod,NOUN,0.5404905676841736,[],,
+ingrédient,farine,appos,NOUN,0.7189153432846069,"[{""id"": 561306446, ""node1"": 123418, ""node2"": 127629, ""type"": 0, ""w"": 39.0}, {""id"": 243153377, ""node1"": 123418, ""node2"": 127629, ""type"": 8, ""w"": 42.0}]",r_hypo,42.0
+farine,sel,appos,NOUN,0.7164311408996582,"[{""id"": 423997381, ""node1"": 127629, ""node2"": 13260, ""type"": 0, ""w"": 4.0}]",r_associated,4.0
+ingrédient,sucre,amod,NOUN,0.7083083987236023,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]",r_associated,70.0
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,chocolat,nmod,NOUN,0.6219146251678467,"[{""id"": 796691093, ""node1"": 139470, ""node2"": 34157, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+poudre,cognac,amod,ADJ,0.6060971617698669,[],,
+vin,clou,nmod,NOUN,0.5909616947174072,[],,
+clou,jambon,nmod,NOUN,0.5229777097702026,[],,
+clou,oignon,appos,NOUN,0.5263824462890625,[],,
+oignon,poireau,nmod,NOUN,0.6085773706436157,"[{""id"": 3935515, ""node1"": 123307, ""node2"": 130303, ""type"": 777, ""w"": 1.0}]",r_wiki,1.0
+avoir,bouquet,obj,NOUN,0.4247750639915466,[],,
+bouquet,garni,amod,ADJ,0.4469667077064514,[],,
+bouquet,couteau,appos,NOUN,0.5367045998573303,[],,
+couteau,saladier,nmod,NOUN,0.6030980348587036,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,pinceau,appos,NOUN,0.5075318813323975,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+pinceau,étape,nmod,NOUN,0.4064047634601593,[],,
+bouquet,tête,nmod,NOUN,0.4690374732017517,"[{""id"": 2651579, ""node1"": 34381, ""node2"": 144846, ""type"": 9, ""w"": 29.0}]",r_has_part,29.0
+recueillir,sang,obj,NOUN,0.4198296070098877,[],,
+retirer,cordon,obj,NOUN,0.4553484618663788,[],,
+cordon,central,amod,ADJ,0.4248300492763519,[],,
+couper,tête,obj,NOUN,0.4592490792274475,"[{""id"": 364828933, ""node1"": 128828, ""node2"": 144846, ""type"": 0, ""w"": 29.0}, {""id"": 2107473, ""node1"": 128828, ""node2"": 144846, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+vin,cuit,amod,ADJ,0.7269900441169739,"[{""id"": 8997816, ""node1"": 35798, ""node2"": 28105, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+mélange,huile,nmod,NOUN,0.6350008249282837,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+mélange,arachide,nmod,NOUN,0.6152809858322144,[],,
+huile,arachide,nmod,NOUN,0.569028913974762,"[{""id"": 398742, ""node1"": 141971, ""node2"": 28530, ""type"": 0, ""w"": 110.0}, {""id"": 580636, ""node1"": 141971, ""node2"": 28530, ""type"": 5, ""w"": 32.0}, {""id"": 88080847, ""node1"": 141971, ""node2"": 28530, ""type"": 35, ""w"": 29.0}, {""id"": 2110417, ""node1"": 141971, ""node2"": 28530, ""type"": 42, ""w"": 70.0}]",r_associated,110.0
+cocotte,fond,nmod,NOUN,0.6193427443504333,[],,
+fond,épais,amod,ADJ,0.4744300842285156,[],,
+oignon,petit,amod,ADJ,0.612844705581665,"[{""id"": 96738917, ""node1"": 123307, ""node2"": 55222, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+échalote,couper,acl,VERB,0.5763925313949585,"[{""id"": 130817, ""node1"": 41642, ""node2"": 128828, ""type"": 0, ""w"": 59.0}]",r_associated,59.0
+ajouter,point,advcl,NOUN,0.4245311021804809,[],,
+ajouter,ail,obj,NOUN,0.5651978254318237,[],,
+ail,écraser,acl,VERB,0.5606361031532288,"[{""id"": 906193744, ""node1"": 26979, ""node2"": 52004, ""type"": 0, ""w"": 20.0}, {""id"": 98571281, ""node1"": 26979, ""node2"": 52004, ""type"": 26, ""w"": 40.0}]",r_patient-1,40.0
+ajouter,remuer,advcl,VERB,0.4985744059085846,[],,
+vin,marinade,nmod,NOUN,0.6753827929496765,"[{""id"": 796754939, ""node1"": 35798, ""node2"": 55044, ""type"": 0, ""w"": 23.0}, {""id"": 546329733, ""node1"": 35798, ""node2"": 55044, ""type"": 10, ""w"": 10.0}]",r_associated,23.0
+déposer,bouquet,obj,NOUN,0.4717539250850677,[],,
+laisser,mijoter,obj,VERB,0.5789923667907715,[],,
+poireau,parer,acl,VERB,0.5173035264015198,[],,
+dorer,morceau,obj,NOUN,0.5937086343765259,[],,
+alcool,choisir,acl,VERB,0.4929081201553345,[],,
+prolonger,cuisson,obj,NOUN,0.6956652998924255,"[{""id"": 31821339, ""node1"": 36589, ""node2"": 60056, ""type"": 14, ""w"": 52.0}]",r_patient,52.0
+cuisson,feu,nmod,NOUN,0.6483181118965149,"[{""id"": 53757049, ""node1"": 60056, ""node2"": 143703, ""type"": 0, ""w"": 22.0}, {""id"": 53594904, ""node1"": 60056, ""node2"": 143703, ""type"": 5, ""w"": 65.0}, {""id"": 14675290, ""node1"": 60056, ""node2"": 143703, ""type"": 42, ""w"": 35.0}, {""id"": 1066090857, ""node1"": 60056, ""node2"": 143703, ""type"": 129, ""w"": 28.0}]",r_syn,65.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+prolonger,sauce,obj,NOUN,0.6901860237121582,[],,
+sauce,sang,nmod,NOUN,0.6254095435142517,[],,
+sauce,chocolat,nmod,NOUN,0.7437312602996826,[],,
+mijoter,min,obj,NOUN,0.4553591310977936,[],,

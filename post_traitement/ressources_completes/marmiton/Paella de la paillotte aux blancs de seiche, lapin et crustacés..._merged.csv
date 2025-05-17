@@ -1,0 +1,56 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+safran,oignon,nmod,NOUN,0.6308284997940063,"[{""id"": 765583827, ""node1"": 84746, ""node2"": 123307, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+oignon,poivron,nmod,NOUN,0.6262408494949341,[],,
+poivron,lapin,nmod,NOUN,0.6199645400047302,[],,
+pois,petit,amod,ADJ,0.5441179871559143,"[{""id"": 1743094, ""node1"": 97846, ""node2"": 55222, ""type"": 0, ""w"": 105.0}, {""id"": 1525554, ""node1"": 97846, ""node2"": 55222, ""type"": 666, ""w"": 2.0}]",r_associated,105.0
+ingrédient,pois,appos,NOUN,0.5750998258590698,[],,
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+bouillon,couteau,appos,NOUN,0.6639910340309143,[],,
+couteau,huile,amod,NOUN,0.6259496212005615,[],,
+citron,olive,amod,ADJ,0.6189252734184265,[],,
+huile,citron,nmod,NOUN,0.6506204605102539,[],,
+citron,eau,nmod,NOUN,0.626600980758667,[],,
+eau,Presse,nmod,PROPN,0.5118709206581116,[],,
+eau,set,nmod,NOUN,0.5272417068481445,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+fourchette,cuillère,nmod,NOUN,0.5424613356590271,"[{""id"": 121000, ""node1"": 134670, ""node2"": 51905, ""type"": 0, ""w"": 605.0}, {""id"": 1046575779, ""node1"": 134670, ""node2"": 51905, ""type"": 8, ""w"": 20.0}, {""id"": 1796484, ""node1"": 134670, ""node2"": 51905, ""type"": 666, ""w"": 2.0}]",r_associated,605.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+ingrédient,sauter,acl,VERB,0.5922936201095581,[],,
+demi-heure,bon,amod,ADJ,0.434575468301773,[],,
+sauter,demi-heure,obj,NOUN,0.4611497521400451,[],,
+demi-heure,lapin,nmod,NOUN,0.5396072268486023,[],,
+poêle,grand,amod,ADJ,0.628409743309021,[],,
+poêle,centimètre,nmod,NOUN,0.6205018162727356,[],,
+mettre,huile,obj,NOUN,0.6046144962310791,"[{""id"": 392082685, ""node1"": 132366, ""node2"": 141971, ""type"": 0, ""w"": 27.0}, {""id"": 392082684, ""node1"": 132366, ""node2"": 141971, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+revenir,morceau,obj,NOUN,0.5735010504722595,[],,
+morceau,oignon,nmod,NOUN,0.6422560214996338,[],,
+haricot,vert,amod,ADJ,0.499526172876358,"[{""id"": 369652, ""node1"": 114886, ""node2"": 26976, ""type"": 0, ""w"": 294.0}, {""id"": 1774168, ""node1"": 114886, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3163694, ""node1"": 114886, ""node2"": 26976, ""type"": 106, ""w"": 18.0}, {""id"": 1764962, ""node1"": 114886, ""node2"": 26976, ""type"": 666, ""w"": 3.0}]",r_associated,294.0
+bout,minute,nmod,NOUN,0.430193156003952,[],,
+bout,ajouter,acl,VERB,0.4439656436443329,[],,
+ajouter,lapin,obj,NOUN,0.5542404055595398,[],,
+lapin,sauter,amod,VERB,0.5492858290672302,"[{""id"": 222347451, ""node1"": 20164, ""node2"": 79364, ""type"": 0, ""w"": 2.0}, {""id"": 96710384, ""node1"": 20164, ""node2"": 79364, ""type"": 24, ""w"": 40.0}, {""id"": 222347450, ""node1"": 20164, ""node2"": 79364, ""type"": 666, ""w"": 1.0}]",r_agent-1,40.0
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+bouillon,grand,amod,ADJ,0.5798681974411011,[],,
+minute,bouillon,nmod,NOUN,0.5919758081436157,[],,
+goûter,jus,nmod,NOUN,0.6142727732658386,"[{""id"": 957783645, ""node1"": 26201, ""node2"": 53310, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+rectifier,assaisonnement,obj,NOUN,0.5303710103034973,"[{""id"": 15080476, ""node1"": 36001, ""node2"": 15763, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+ajouter,riz,obj,NOUN,0.6766205430030823,[],,
+bout,piquer,acl,VERB,0.4670254290103912,[],,
+piquer,moule,obj,NOUN,0.5446907877922058,[],,
+moule,crue,acl,NOUN,0.5625101923942566,[],,
+remuer,riz,obj,NOUN,0.7044711709022522,[],,
+début,cuisson,nmod,NOUN,0.6100133061408997,[],,
+total,cuisson,nmod,NOUN,0.5675893425941467,[],,
+minute,riz,nmod,NOUN,0.688068151473999,[],,
+riz,traditionnel,amod,ADJ,0.6581432819366455,[],,
+riz,égal,amod,ADJ,0.6428242325782776,[],,
+minute,pile,amod,NOUN,0.4202792346477508,[],,
+cuire,ôter,obj,NOUN,0.6290376782417297,[],,
+ôter,feu,nmod,NOUN,0.5736316442489624,[],,
+attendre,servir,advcl,VERB,0.4553308188915252,[],,
+servir,disposer,advcl,VERB,0.4512165486812591,[],,
+disposer,tranche,obj,NOUN,0.4626000821590423,[],,
+tranche,citron,nmod,NOUN,0.6237561106681824,"[{""id"": 560952309, ""node1"": 143123, ""node2"": 15386, ""type"": 0, ""w"": 37.0}, {""id"": 720817951, ""node1"": 143123, ""node2"": 15386, ""type"": 174, ""w"": 25.0}]",r_associated,37.0
+tranche,garniture,nmod,NOUN,0.5699111223220825,[],,

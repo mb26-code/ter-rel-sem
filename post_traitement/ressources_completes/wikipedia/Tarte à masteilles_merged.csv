@@ -1,0 +1,21 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,gastronomie,obj,NOUN,0.4582444131374359,[],,
+spécialité,tarte,nsubj,NOUN,0.6276132464408875,"[{""id"": 782066995, ""node1"": 49537, ""node2"": 575, ""type"": 8, ""w"": 25.0}]",r_hypo,25.0
+spécialité,ville,nmod,NOUN,0.4215305745601654,[],,
+ingrédient,principal,amod,ADJ,0.5312119126319885,[],,
+pain,petit,amod,ADJ,0.6582068800926208,"[{""id"": 12987089, ""node1"": 61283, ""node2"": 55222, ""type"": 17, ""w"": 61.0}]",r_carac,61.0
+sorte,pain,nmod,NOUN,0.6791645288467407,[],,
+pain,sec,amod,ADJ,0.6067743301391602,"[{""id"": 558756448, ""node1"": 61283, ""node2"": 63619, ""type"": 0, ""w"": 35.0}, {""id"": 147653, ""node1"": 61283, ""node2"": 63619, ""type"": 17, ""w"": 80.0}]",r_carac,80.0
+amande,doux,amod,ADJ,0.5218886137008667,[],,
+ajouter,certain,nsubj,PRON,0.4185027480125427,[],,
+raisin,petit,amod,ADJ,0.5903274416923523,[],,
+ajouter,raisin,obj,NOUN,0.5856242775917053,[],,
+raisin,sec,amod,ADJ,0.5050904750823975,"[{""id"": 105224, ""node1"": 93528, ""node2"": 63619, ""type"": 0, ""w"": 62.0}, {""id"": 114116, ""node1"": 93528, ""node2"": 63619, ""type"": 17, ""w"": 60.0}, {""id"": 985028970, ""node1"": 93528, ""node2"": 63619, ""type"": 666, ""w"": 2.0}]",r_carac,60.0
+recette,propre,amod,ADJ,0.6302428841590881,"[{""id"": 372564968, ""node1"": 120188, ""node2"": 118316, ""type"": 17, ""w"": 471.0}]",r_carac,471.0
+avoir,recette,obj,NOUN,0.5731593370437622,[],,
+varier,proportion,nsubj,NOUN,0.4403840601444244,[],,
+attester,tarte,nsubj:pass,NOUN,0.5864110589027405,[],,
+mention,tarte,nmod,NOUN,0.5878002643585205,[],,
+consommer,tarte,nsubj:pass,NOUN,0.6745190024375916,"[{""id"": 29346948, ""node1"": 97571, ""node2"": 575, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+verre,vin,nmod,NOUN,0.5898168087005615,"[{""id"": 108748, ""node1"": 144497, ""node2"": 35798, ""type"": 0, ""w"": 134.0}, {""id"": 123509, ""node1"": 144497, ""node2"": 35798, ""type"": 8, ""w"": -50.0}, {""id"": 10527320, ""node1"": 144497, ""node2"": 35798, ""type"": 9, ""w"": 9.0}, {""id"": 393479, ""node1"": 144497, ""node2"": 35798, ""type"": 28, ""w"": 183.0}, {""id"": 720818008, ""node1"": 144497, ""node2"": 35798, ""type"": 174, ""w"": 25.0}, {""id"": 1921306, ""node1"": 144497, ""node2"": 35798, ""type"": 666, ""w"": 3.0}]",r_lieu-1,183.0
+vin,Bourgogne,nmod,PROPN,0.5460232496261597,"[{""id"": 3170080, ""node1"": 35798, ""node2"": 138828, ""type"": 0, ""w"": 67.0}, {""id"": 539620461, ""node1"": 35798, ""node2"": 138828, ""type"": 8, ""w"": 34.0}, {""id"": 9023474, ""node1"": 35798, ""node2"": 138828, ""type"": 64, ""w"": 508.0}, {""id"": 102048650, ""node1"": 35798, ""node2"": 138828, ""type"": 666, ""w"": 1.0}]",r_has_instance,508.0

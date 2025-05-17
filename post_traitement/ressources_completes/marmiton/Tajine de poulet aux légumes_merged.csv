@@ -1,0 +1,44 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+tajine,poulet,nmod,NOUN,0.6720640063285828,"[{""id"": 558752678, ""node1"": 68090, ""node2"": 146261, ""type"": 0, ""w"": 40.0}, {""id"": 1017994569, ""node1"": 68090, ""node2"": 146261, ""type"": 50, ""w"": 27.0}, {""id"": 4843248, ""node1"": 68090, ""node2"": 146261, ""type"": 777, ""w"": 10.0}]",r_associated,40.0
+tajine,légume,nmod,NOUN,0.701939046382904,"[{""id"": 417888781, ""node1"": 68090, ""node2"": 120603, ""type"": 0, ""w"": 13.0}]",r_associated,13.0
+légume,ingrédient,nmod,NOUN,0.6797090172767639,[],,
+tajine,coriandre,appos,NOUN,0.6537615060806274,"[{""id"": 796829890, ""node1"": 68090, ""node2"": 61977, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+coriandre,courgette,nmod,NOUN,0.6374951601028442,[],,
+coriandre,safran,nmod,NOUN,0.6147308349609375,"[{""id"": 926450705, ""node1"": 61977, ""node2"": 84746, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+cuisse,poulet,nmod,NOUN,0.571326494216919,"[{""id"": 152157, ""node1"": 58876, ""node2"": 146261, ""type"": 0, ""w"": 242.0}, {""id"": 225653, ""node1"": 58876, ""node2"": 146261, ""type"": 10, ""w"": 74.0}, {""id"": 164787, ""node1"": 58876, ""node2"": 146261, ""type"": 17, ""w"": -104.0}, {""id"": 14668832, ""node1"": 58876, ""node2"": 146261, ""type"": 42, ""w"": 35.0}, {""id"": 8558818, ""node1"": 58876, ""node2"": 146261, ""type"": 666, ""w"": 3.0}]",r_associated,242.0
+poulet,bouillon,nmod,NOUN,0.6923155188560486,"[{""id"": 914309720, ""node1"": 146261, ""node2"": 146582, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+bouillon,poule,nmod,NOUN,0.5475077629089355,[],,
+bouillon,épice,nmod,NOUN,0.7274739146232605,"[{""id"": 925020684, ""node1"": 146582, ""node2"": 146056, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+épice,couscous,nmod,NOUN,0.7074871063232422,"[{""id"": 98637373, ""node1"": 146056, ""node2"": 35814, ""type"": 0, ""w"": 33.0}, {""id"": 98312721, ""node1"": 146056, ""node2"": 35814, ""type"": 10, ""w"": 28.0}]",r_associated,33.0
+bouillon,pomme,nmod,NOUN,0.675999104976654,"[{""id"": 558647545, ""node1"": 146582, ""node2"": 37201, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,haricot,nmod,NOUN,0.5896492600440979,[],,
+casserole,couvercle,obj,NOUN,0.6508210897445679,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]",r_has_part,100.0
+préparer,bouillon,obj,NOUN,0.6509688496589661,[],,
+dose,safran,nmod,NOUN,0.536736786365509,"[{""id"": 720818640, ""node1"": 145419, ""node2"": 84746, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+peu,épice,nmod,NOUN,0.6153920888900757,[],,
+plonger,cuisse,obj,NOUN,0.4919466078281402,[],,
+cuisse,bouillon,nmod,NOUN,0.5791200995445251,[],,
+cuire,cuisse,nsubj:pass,NOUN,0.7004440426826477,[],,
+préparer,cuire,advcl,VERB,0.705791711807251,"[{""id"": 53730145, ""node1"": 36246, ""node2"": 5115, ""type"": 0, ""w"": 24.0}, {""id"": 53623646, ""node1"": 36246, ""node2"": 5115, ""type"": 5, ""w"": 101.0}]",r_syn,101.0
+casserole,grand,amod,ADJ,0.5876413583755493,[],,
+préparer,casserole,obj,NOUN,0.6656357645988464,"[{""id"": 477633583, ""node1"": 36246, ""node2"": 57253, ""type"": 0, ""w"": 26.0}, {""id"": 477633582, ""node1"": 36246, ""node2"": 57253, ""type"": 31, ""w"": 26.0}]",r_associated,26.0
+déposer,cuisse,obj,NOUN,0.47905433177948,[],,
+ordre,cuisson,nmod,NOUN,0.5748552083969116,[],,
+déposer,légume,obj,NOUN,0.6693096160888672,[],,
+légume,demander,acl:relcl,VERB,0.6421837210655212,[],,
+cuisson,dessous,nmod,NOUN,0.6848680973052979,[],,
+demander,carotte,obj,NOUN,0.5565759539604187,[],,
+carotte,oignon,appos,NOUN,0.6226851344108582,[],,
+carotte,pomme,appos,NOUN,0.5858273506164551,[],,
+carotte,courgette,amod,NOUN,0.6023526191711426,[],,
+arroser,tout,obj,NOUN,0.516660749912262,[],,
+tout,bouillon,nmod,NOUN,0.6207096576690674,[],,
+bouillon,cuisson,nmod,NOUN,0.7680062055587769,"[{""id"": 8798118, ""node1"": 146582, ""node2"": 60056, ""type"": 0, ""w"": 6.0}]",r_associated,6.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+couvercle,fermer,acl,VERB,0.4392575919628143,"[{""id"": 1746798, ""node1"": 89523, ""node2"": 24346, ""type"": 0, ""w"": 150.0}, {""id"": 276744, ""node1"": 89523, ""node2"": 24346, ""type"": 25, ""w"": 133.0}]",r_associated,150.0
+bouillon,fond,nmod,NOUN,0.5968900918960571,"[{""id"": 98635098, ""node1"": 146582, ""node2"": 119272, ""type"": 0, ""w"": 21.0}, {""id"": 98389637, ""node1"": 146582, ""node2"": 119272, ""type"": 10, ""w"": 26.0}, {""id"": 4238179, ""node1"": 146582, ""node2"": 119272, ""type"": 777, ""w"": 10.0}]",r_holo,26.0
+bouillon,casserole,nmod,NOUN,0.7002641558647156,"[{""id"": 602112558, ""node1"": 146582, ""node2"": 57253, ""type"": 0, ""w"": 17.0}, {""id"": 104950027, ""node1"": 146582, ""node2"": 57253, ""type"": 15, ""w"": 7.0}]",r_associated,17.0
+légume,tout,amod,ADJ,0.6585912108421326,[],,
+cuire,légume,nsubj:pass,NOUN,0.8064759373664856,"[{""id"": 796715114, ""node1"": 5115, ""node2"": 120603, ""type"": 0, ""w"": 26.0}, {""id"": 148033, ""node1"": 5115, ""node2"": 120603, ""type"": 13, ""w"": 53.0}, {""id"": 234259, ""node1"": 5115, ""node2"": 120603, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]",r_carac-1,5.0

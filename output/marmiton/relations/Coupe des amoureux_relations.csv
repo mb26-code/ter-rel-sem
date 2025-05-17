@@ -1,0 +1,47 @@
+node1,node2,relations
+coupe,amoureux,[]
+amoureux,ingrédient,[]
+coupe,sucre,[]
+sucre,mascarpone,[]
+mascarpone,crème,"[{""id"": 2111687, ""node1"": 115657, ""node2"": 44001, ""type"": 0, ""w"": 56.0}, {""id"": 1046576052, ""node1"": 115657, ""node2"": 44001, ""type"": 8, ""w"": 20.0}, {""id"": 989054280, ""node1"": 115657, ""node2"": 44001, ""type"": 666, ""w"": 2.0}]"
+crème,frais,[]
+pomme,épais,[]
+mascarpone,pomme,[]
+pomme,sauce,[]
+mascarpone,caramel,[]
+sucre,casserole,[]
+casserole,cuillère,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]"
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,couvercle,[]
+couvercle,balance,[]
+balance,cuisine,[]
+balance,réfrigérateur,[]
+réfrigérateur,plat,"[{""id"": 399515136, ""node1"": 128721, ""node2"": 36327, ""type"": 0, ""w"": 100.0}, {""id"": 13501043, ""node1"": 128721, ""node2"": 36327, ""type"": 28, ""w"": 60.0}]"
+réfrigérateur,étape,[]
+sucre,réfrigérateur,[]
+préparation,sauce,"[{""id"": 9903071, ""node1"": 33634, ""node2"": 141110, ""type"": 0, ""w"": 54.0}, {""id"": 422811, ""node1"": 33634, ""node2"": 141110, ""type"": 8, ""w"": 63.0}]"
+préparation,caramel,"[{""id"": 15855991, ""node1"": 33634, ""node2"": 67525, ""type"": 0, ""w"": 51.0}, {""id"": 15817288, ""node1"": 33634, ""node2"": 67525, ""type"": 8, ""w"": 31.0}]"
+préparation,casserole,"[{""id"": 601611407, ""node1"": 33634, ""node2"": 57253, ""type"": 0, ""w"": 16.0}]"
+cuire,gramme,[]
+gramme,sucre,"[{""id"": 720818120, ""node1"": 140383, ""node2"": 139481, ""type"": 174, ""w"": 25.0}]"
+doré,bord,[]
+ajouter,gramme,[]
+gramme,beurre,[]
+ajouter,remuer,[]
+obtenir,pâte,[]
+pâte,homogène,"[{""id"": 796702467, ""node1"": 34069, ""node2"": 124759, ""type"": 0, ""w"": 28.0}, {""id"": 372565004, ""node1"": 34069, ""node2"": 124759, ""type"": 17, ""w"": 26.0}]"
+ajouter,cuillère,[]
+soupe,crème,"[{""id"": 729556086, ""node1"": 117152, ""node2"": 44001, ""type"": 0, ""w"": 36.0}, {""id"": 216637777, ""node1"": 117152, ""node2"": 44001, ""type"": 50, ""w"": 32.0}, {""id"": 663289934, ""node1"": 117152, ""node2"": 44001, ""type"": 666, ""w"": 4.0}]"
+recouvrir,fond,[]
+fond,verre,"[{""id"": 9988078, ""node1"": 119272, ""node2"": 144497, ""type"": 10, ""w"": 4.0}]"
+morceau,écraser,[]
+sauce,caramel,"[{""id"": 651259318, ""node1"": 141110, ""node2"": 67525, ""type"": 0, ""w"": 22.0}]"
+recouvrir,morceau,[]
+morceau,pomme,[]
+mélanger,mascarpone,[]
+ajouter,préparation,[]
+préparation,verre,[]
+mélanger,moitié,[]
+moitié,verre,[]
+remettre,couche,[]
+reposer,heure,[]

@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+titre,moutarde,appos,NOUN,0.534222424030304,[],,
+gingembre,persil,nmod,NOUN,0.6132636666297913,[],,
+moutarde,coriandre,obj,NOUN,0.6212619543075562,"[{""id"": 113266874, ""node1"": 28335, ""node2"": 61977, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+coriandre,poivre,nmod,NOUN,0.6449258923530579,"[{""id"": 16178724, ""node1"": 61977, ""node2"": 139597, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,côte,nmod,NOUN,0.6496201157569885,"[{""id"": 670030608, ""node1"": 13260, ""node2"": 141949, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+sel,agneau,nmod,ADJ,0.7114691138267517,"[{""id"": 918725510, ""node1"": 13260, ""node2"": 128646, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+paprika,olive,amod,ADP,0.6284357309341431,[],,
+agneau,paprika,nmod,ADJ,0.6037486791610718,[],,
+paprika,échalote,nmod,NOUN,0.6309776306152344,[],,
+four,cuillère,nmod,NOUN,0.7153509855270386,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,saladier,nmod,NOUN,0.6106023788452148,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+saladier,set,nmod,NOUN,0.4222391545772552,[],,
+cuillère,poêle,nmod,NOUN,0.66766756772995,[],,
+poêle,Barbecue,nmod,PROPN,0.60857754945755,"[{""id"": 116391110, ""node1"": 119686, ""node2"": 5628973, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+Barbecue,plat,nmod,ADJ,0.6079644560813904,[],,
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+verser,huile,obj,NOUN,0.6115446090698242,"[{""id"": 227659, ""node1"": 104506, ""node2"": 141971, ""type"": 14, ""w"": 57.0}, {""id"": 645787360, ""node1"": 104506, ""node2"": 141971, ""type"": 666, ""w"": 2.0}]",r_patient,57.0
+plat,aller,acl,VERB,0.5960066914558411,[],,
+verser,ajouter,advcl,VERB,0.4542763829231262,"[{""id"": 12293758, ""node1"": 104506, ""node2"": 25099, ""type"": 0, ""w"": 67.0}, {""id"": 582612, ""node1"": 104506, ""node2"": 25099, ""type"": 5, ""w"": 86.0}, {""id"": 495005859, ""node1"": 104506, ""node2"": 25099, ""type"": 35, ""w"": 62.0}, {""id"": 213486817, ""node1"": 104506, ""node2"": 25099, ""type"": 57, ""w"": 31.0}]",r_syn,86.0
+ajouter,moutarde,obj,NOUN,0.585381031036377,[],,
+moutarde,paprika,appos,NOUN,0.6161142587661743,[],,
+ajouter,ail,obj,NOUN,0.5651978254318237,[],,
+échalote,persil,appos,NOUN,0.6098047494888306,[],,
+échalote,sel,nmod,NOUN,0.7090686559677124,[],,
+retourner,temps,nmod,NOUN,0.4129794836044311,[],,
+bout,heure,nmod,NOUN,0.4116244316101074,[],,
+cuire,le,obj,DET,0.4500194191932678,[],,
+préparation,base,nmod,NOUN,0.5162226557731628,[],,
+plat,ce,nsubj,PRON,0.4072688817977905,[],,
+plat,délicieux,amod,ADJ,0.6289995312690735,"[{""id"": 33806535, ""node1"": 36327, ""node2"": 145464, ""type"": 17, ""w"": 42.0}, {""id"": 1036897270, ""node1"": 36327, ""node2"": 145464, ""type"": 666, ""w"": 2.0}]",r_carac,42.0
+préparer,veille,obj,NOUN,0.4476141929626465,[],,
+truc,bon,amod,ADJ,0.4584875404834747,[],,
+préparer,truc,obj,NOUN,0.504234254360199,[],,

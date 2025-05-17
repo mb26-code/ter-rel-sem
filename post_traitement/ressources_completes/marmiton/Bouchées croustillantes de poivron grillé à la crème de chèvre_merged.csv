@@ -1,0 +1,46 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,bouchée,nmod,NOUN,0.4595783650875091,[],,
+bouchée,croustillant,amod,ADJ,0.5672799944877625,[],,
+bouchée,poivron,nmod,NOUN,0.6644546389579773,[],,
+poivron,griller,acl,VERB,0.7178133130073547,"[{""id"": 906027336, ""node1"": 38257, ""node2"": 46367, ""type"": 0, ""w"": 20.0}, {""id"": 1944121, ""node1"": 38257, ""node2"": 46367, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+crème,ingrédient,nmod,NOUN,0.6610228419303894,"[{""id"": 24850723, ""node1"": 44001, ""node2"": 123418, ""type"": 0, ""w"": 30.0}, {""id"": 24842105, ""node1"": 44001, ""node2"": 123418, ""type"": 6, ""w"": 143.0}]",r_isa,143.0
+crème,poivron,nmod,NOUN,0.6865507960319519,[],,
+poivron,rouge,amod,ADJ,0.5854978561401367,"[{""id"": 273173, ""node1"": 38257, ""node2"": 86356, ""type"": 0, ""w"": 151.0}, {""id"": 1944118, ""node1"": 38257, ""node2"": 86356, ""type"": 17, ""w"": 36.0}, {""id"": 3160591, ""node1"": 38257, ""node2"": 86356, ""type"": 106, ""w"": 11.0}]",r_associated,151.0
+poivron,frais,amod,NOUN,0.5772538781166077,[],,
+frais,bûche,nmod,NOUN,0.552901029586792,[],,
+crème,liquide,amod,ADJ,0.6173139810562134,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]",r_carac,52.0
+biscuit,apéritif,amod,ADJ,0.6018952131271362,"[{""id"": 796704161, ""node1"": 62524, ""node2"": 135068, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+four,four,nmod,NOUN,0.6326162219047546,"[{""id"": 303738, ""node1"": 9190, ""node2"": 9190, ""type"": 19, ""w"": 53.0}]",r_lemma,53.0
+four,top,nmod,NOUN,0.5501777529716492,"[{""id"": 509203905, ""node1"": 9190, ""node2"": 61057, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+papier,meilleur,amod,ADJ,0.4798659384250641,[],,
+top,papier,nmod,NOUN,0.4000419974327087,[],,
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,couvercle,nmod,NOUN,0.6197326183319092,[],,
+couvercle,couteau,nmod,NOUN,0.5890913009643555,[],,
+couvercle,étape,nmod,NOUN,0.4822983145713806,[],,
+four,chaud,amod,ADJ,0.6748667359352112,"[{""id"": 363192, ""node1"": 9190, ""node2"": 19150, ""type"": 0, ""w"": 123.0}, {""id"": 376860, ""node1"": 9190, ""node2"": 19150, ""type"": 17, ""w"": 130.0}, {""id"": 11348785, ""node1"": 9190, ""node2"": 19150, ""type"": 28, ""w"": 38.0}, {""id"": 2221131, ""node1"": 9190, ""node2"": 19150, ""type"": 666, ""w"": 1.0}]",r_carac,130.0
+papier,côté,nmod,NOUN,0.4884529113769531,[],,
+côté,couper,acl,VERB,0.4801142811775207,[],,
+cuire,il,nsubj,PRON,0.4034532904624939,[],,
+préparer,cuire,advcl,VERB,0.705791711807251,"[{""id"": 53730145, ""node1"": 36246, ""node2"": 5115, ""type"": 0, ""w"": 24.0}, {""id"": 53623646, ""node1"": 36246, ""node2"": 5115, ""type"": 5, ""w"": 101.0}]",r_syn,101.0
+préparer,fourrage,obj,NOUN,0.5433586835861206,[],,
+mélanger,chèvre,obj,NOUN,0.619148850440979,[],,
+chèvre,frais,amod,ADJ,0.4924013614654541,"[{""id"": 98110044, ""node1"": 93872, ""node2"": 53495, ""type"": 17, ""w"": 54.0}]",r_carac,54.0
+herbe,choisir,acl,VERB,0.4622272849082947,[],,
+crème,faciliter,acl,VERB,0.579241931438446,[],,
+faciliter,mélange,obj,NOUN,0.4905378818511963,"[{""id"": 374219189, ""node1"": 38181, ""node2"": 14800, ""type"": 14, ""w"": 71.0}]",r_patient,71.0
+rendre,liquide,obj,ADJ,0.481810599565506,[],,
+réserver,frais,nmod,NOUN,0.4315350949764251,"[{""id"": 373014550, ""node1"": 7006, ""node2"": 53495, ""type"": 31, ""w"": 26.0}]",r_action_lieu,26.0
+biscuit,choisir,acl,VERB,0.5652598142623901,[],,
+fond,biscuit,nmod,NOUN,0.5748405456542969,[],,
+couche,crème,nmod,NOUN,0.5708410739898682,[],,
+crème,chèvre,nmod,NOUN,0.6141840219497681,"[{""id"": 561069853, ""node1"": 44001, ""node2"": 93872, ""type"": 0, ""w"": 47.0}]",r_associated,47.0
+frais,attendre,acl,VERB,0.4098766446113586,[],,
+moment,servir,acl,VERB,0.4804177582263946,[],,
+couper,poivron,obj,NOUN,0.6246095895767212,"[{""id"": 15085692, ""node1"": 128828, ""node2"": 38257, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+poivron,bouchée,nmod,NOUN,0.6644546389579773,[],,
+servir,frais,amod,ADJ,0.4840525686740875,"[{""id"": 560379713, ""node1"": 7888, ""node2"": 53495, ""type"": 0, ""w"": 31.0}]",r_associated,31.0

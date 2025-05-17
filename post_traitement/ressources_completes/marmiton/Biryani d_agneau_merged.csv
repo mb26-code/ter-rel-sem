@@ -1,0 +1,44 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+oignon,gingembre,nmod,NOUN,0.6462072134017944,[],,
+gingembre,beurre,appos,NOUN,0.7061477899551392,[],,
+oignon,curcuma,acl,NOUN,0.656171977519989,[],,
+curcuma,cumin,amod,VERB,0.6040022373199463,[],,
+oignon,poudre,nmod,NOUN,0.6705887317657471,[],,
+poudre,clou,nmod,NOUN,0.5100152492523193,[],,
+clou,girofle,nmod,ADP,0.4290643036365509,"[{""id"": 9902807, ""node1"": 11651, ""node2"": 43873, ""type"": 0, ""w"": 55.0}, {""id"": 413873, ""node1"": 11651, ""node2"": 43873, ""type"": 8, ""w"": 111.0}]",r_hypo,111.0
+clou,anis,appos,PROPN,0.4856846332550049,[],,
+safran,épaule,nmod,NOUN,0.5167946219444275,[],,
+épaule,agneau,nmod,NOUN,0.4496283233165741,"[{""id"": 652404, ""node1"": 3723, ""node2"": 128646, ""type"": 0, ""w"": 44.0}, {""id"": 423473, ""node1"": 3723, ""node2"": 128646, ""type"": 6, ""w"": 111.0}, {""id"": 98312112, ""node1"": 3723, ""node2"": 128646, ""type"": 10, ""w"": 32.0}]",r_isa,111.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,pinceau,appos,NOUN,0.5075318813323975,[],,
+pinceau,four,nmod,NOUN,0.6441405415534973,[],,
+four,couvercle,nmod,NOUN,0.6759926676750183,[],,
+couvercle,saladier,nmod,NOUN,0.6053080558776855,[],,
+saladier,balance,nmod,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+mettre,safran,obj,NOUN,0.5767919421195984,[],,
+cocotte,fonte,nmod,NOUN,0.5734525322914124,"[{""id"": 432184651, ""node1"": 120952, ""node2"": 111654, ""type"": 0, ""w"": 3.0}, {""id"": 98282817, ""node1"": 120952, ""node2"": 111654, ""type"": 50, ""w"": 47.0}, {""id"": 1764373, ""node1"": 120952, ""node2"": 111654, ""type"": 666, ""w"": 2.0}]",r_object>mater,47.0
+mettre,gramme,obj,NOUN,0.4705629348754883,[],,
+gramme,beurre,nmod,NOUN,0.6074452996253967,[],,
+dorer,oignon,obj,NOUN,0.6056223511695862,"[{""id"": 1021986507, ""node1"": 67147, ""node2"": 123307, ""type"": 0, ""w"": 40.0}, {""id"": 93571698, ""node1"": 67147, ""node2"": 123307, ""type"": 13, ""w"": 30.0}, {""id"": 93547211, ""node1"": 67147, ""node2"": 123307, ""type"": 14, ""w"": 30.0}]",r_associated,40.0
+oignon,couper,acl,VERB,0.596168577671051,"[{""id"": 900892185, ""node1"": 123307, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 31770901, ""node1"": 123307, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 1767208, ""node1"": 123307, ""node2"": 128828, ""type"": 666, ""w"": 2.0}]",r_patient-1,100.0
+dorer,ajouter,advcl,VERB,0.521462619304657,[],,
+ajouter,gingembre,obj,NOUN,0.59299236536026,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+ajouter,viande,obj,NOUN,0.7162638902664185,[],,
+ajouter,cuire,advcl,VERB,0.695756196975708,[],,
+feu,vif,amod,ADJ,0.5094798803329468,"[{""id"": 418102926, ""node1"": 143703, ""node2"": 80204, ""type"": 0, ""w"": 13.0}, {""id"": 221184, ""node1"": 143703, ""node2"": 80204, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
+cuire,remuer,advcl,VERB,0.6866573691368103,[],,
+gramme,cannelle,nmod,NOUN,0.5706069469451904,[],,
+cannelle,clou,nmod,NOUN,0.5090433955192566,[],,
+clou,étoilé,amod,ADJ,0.4384202361106872,[],,
+ajouter,riz,obj,NOUN,0.6766205430030823,[],,
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+verser,mélange,obj,NOUN,0.5440542697906494,[],,
+rajouter,eau,obj,NOUN,0.5663455128669739,"[{""id"": 2193819, ""node1"": 87561, ""node2"": 65012, ""type"": 14, ""w"": 80.0}]",r_patient,80.0
+éteindre,couvrir,advcl,VERB,0.4155739545822143,"[{""id"": 53711759, ""node1"": 107734, ""node2"": 119824, ""type"": 0, ""w"": 28.0}, {""id"": 53696591, ""node1"": 107734, ""node2"": 119824, ""type"": 5, ""w"": 76.0}]",r_syn,76.0
+couvrir,cocotte,obj,NOUN,0.6373355388641357,[],,
+servir,chaud,amod,ADJ,0.5655732154846191,[],,
+servir,accompagner,acl,VERB,0.4404352605342865,[],,
+yaourt,battre,acl,VERB,0.5680559277534485,[],,
+coriandre,frais,amod,ADJ,0.5248878598213196,"[{""id"": 1060772429, ""node1"": 61977, ""node2"": 53495, ""type"": 666, ""w"": 2.0}]",r_aki,2.0

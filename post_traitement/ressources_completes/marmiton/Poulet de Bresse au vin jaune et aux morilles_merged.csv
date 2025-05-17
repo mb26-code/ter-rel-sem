@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,poulet,nmod,NOUN,0.5709884762763977,[],,
+poulet,vin,nmod,NOUN,0.6713268160820007,[],,
+vin,jaune,amod,ADJ,0.615984320640564,"[{""id"": 8997814, ""node1"": 35798, ""node2"": 86711, ""type"": 17, ""w"": 27.0}, {""id"": 3160067, ""node1"": 35798, ""node2"": 86711, ""type"": 106, ""w"": 4.0}]",r_carac,27.0
+poulet,sel,nmod,NOUN,0.7450879812240601,"[{""id"": 8795280, ""node1"": 146261, ""node2"": 13260, ""type"": 28, ""w"": -5.0}]",r_lieu-1,-5.0
+sel,beurre,acl,NOUN,0.7119027376174927,"[{""id"": 29328492, ""node1"": 13260, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 9986817, ""node1"": 13260, ""node2"": 140377, ""type"": 10, ""w"": 35.0}]",r_holo,35.0
+poulet,crème,amod,NOUN,0.7029401659965515,[],,
+vin,poulet,nmod,NOUN,0.6713268160820007,[],,
+couteau,couvercle,nmod,NOUN,0.5890913009643555,[],,
+couvercle,planche,nmod,NOUN,0.5579204559326172,[],,
+découper,balance,obj,NOUN,0.4950466752052307,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,appos,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+choisir,poulet,nmod,NOUN,0.6292710304260254,[],,
+choisir,découper,acl,VERB,0.4190790057182312,[],,
+mettre,morceau,nsubj,NOUN,0.5564393401145935,[],,
+morceau,sel,nmod,NOUN,0.6993329524993896,[],,
+sel,fin,nmod,NOUN,0.656173050403595,"[{""id"": 188163, ""node1"": 13260, ""node2"": 144718, ""type"": 0, ""w"": 62.0}, {""id"": 645837, ""node1"": 13260, ""node2"": 144718, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+coloré,morceau,nsubj,NOUN,0.5405401587486267,[],,
+couvercle,minute,nmod,NOUN,0.5509920120239258,[],,
+mettre,crème,obj,NOUN,0.6161975264549255,[],,
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+rectifier,assaisonnement,obj,NOUN,0.5303710103034973,"[{""id"": 15080476, ""node1"": 36001, ""node2"": 15763, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+cuire,fois,nsubj,NOUN,0.6635112762451172,"[{""id"": 72773965, ""node1"": 5115, ""node2"": 38021, ""type"": 34, ""w"": -25.0}]",r_manner,-25.0
+rectifier,cuire,advcl,VERB,0.6995007395744324,[],,
+retirer,morceau,obj,NOUN,0.5349395871162415,[],,
+coin,feu,nmod,NOUN,0.5290006995201111,"[{""id"": 422246618, ""node1"": 75170, ""node2"": 143703, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+terminer,cuisson,obj,NOUN,0.7031697034835815,[],,
+mettre,goutte,obj,NOUN,0.5034139156341553,[],,
+goutte,vin,nmod,NOUN,0.621307909488678,[],,
+goutte,morceau,nmod,NOUN,0.5627961754798889,[],,
+morceau,poulet,nmod,NOUN,0.6684615612030029,"[{""id"": 775213395, ""node1"": 65364, ""node2"": 146261, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+moment,servir,acl,VERB,0.4804177582263946,[],,

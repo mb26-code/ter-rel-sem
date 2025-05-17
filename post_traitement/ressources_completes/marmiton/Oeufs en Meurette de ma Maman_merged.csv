@@ -1,0 +1,46 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,oeuf,nmod,NOUN,0.5048717856407166,[],,
+Maman,ingrédient,nmod,NOUN,0.4501209259033203,[],,
+oeuf,poivre,appos,NOUN,0.646331787109375,"[{""id"": 96638704, ""node1"": 116175, ""node2"": 139597, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+poivre,beurre,amod,NOUN,0.71866774559021,"[{""id"": 584573840, ""node1"": 139597, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+poivre,sucre,acl,NOUN,0.7045173048973083,"[{""id"": 584573844, ""node1"": 139597, ""node2"": 139481, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+sucre,vin,nmod,NOUN,0.681702196598053,[],,
+sucre,rouge,amod,ADJ,0.6558119058609009,[],,
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+oeuf,champignon,nmod,NOUN,0.5477402210235596,[],,
+titre,bouquet,nmod,NOUN,0.4125308692455292,[],,
+bouquet,garni,amod,ADJ,0.4469667077064514,[],,
+bouquet,mixeur,appos,NOUN,0.5617767572402954,[],,
+mixeur,couteau,nmod,NOUN,0.573357105255127,[],,
+pinceau,cuillère,nmod,NOUN,0.5075318813323975,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,four,nmod,NOUN,0.7153509855270386,[],,
+four,top,nmod,NOUN,0.5501777529716492,"[{""id"": 509203905, ""node1"": 9190, ""node2"": 61057, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+casserole,balance,obj,NOUN,0.5916885137557983,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,assiette,appos,NOUN,0.5656145215034485,[],,
+assiette,étape,nmod,NOUN,0.483820229768753,[],,
+bouquet,couper,acl,VERB,0.4958871304988861,[],,
+couper,lard,obj,NOUN,0.583524227142334,[],,
+dorer,champignon,obj,NOUN,0.5794478058815002,[],,
+peu,beurre,nmod,NOUN,0.5877829194068909,[],,
+poêle,autre,amod,ADJ,0.6494198441505432,[],,
+revenir,lard,obj,NOUN,0.5750259160995483,[],,
+revenir,nécessaire,amod,ADJ,0.469633013010025,[],,
+saupoudrer,oignon,obj,NOUN,0.646569550037384,[],,
+oignon,farine,nmod,NOUN,0.7257387042045593,[],,
+bouquet,ajouter,advcl,VERB,0.4769440293312073,[],,
+ajouter,vin,obj,NOUN,0.6198925375938416,[],,
+réduire,doux,amod,ADJ,0.4626096785068512,[],,
+devoir,sauce,nsubj,NOUN,0.6463649272918701,[],,
+peu,huile,nmod,NOUN,0.5692240595817566,[],,
+version,light,amod,ADJ,0.4096128344535827,[],,
+revenir,griller,advcl,VERB,0.5754455327987671,[],,
+gratter,ail,nmod,NOUN,0.5688474178314209,[],,
+casserole,grand,amod,ADJ,0.5876413583755493,[],,
+casserole,eau,nmod,NOUN,0.6077002882957458,"[{""id"": 96542705, ""node1"": 57253, ""node2"": 65012, ""type"": 0, ""w"": 19.0}, {""id"": 22760525, ""node1"": 57253, ""node2"": 65012, ""type"": 28, ""w"": 34.0}, {""id"": 96542704, ""node1"": 57253, ""node2"": 65012, ""type"": 666, ""w"": 1.0}]",r_lieu-1,34.0
+appétit,bon,amod,ADJ,0.4575223624706268,[],,
+devoir,appétit,obj,NOUN,0.4392449259757995,[],,

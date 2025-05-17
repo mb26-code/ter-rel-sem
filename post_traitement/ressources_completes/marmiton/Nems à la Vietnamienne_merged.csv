@@ -1,0 +1,59 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+vietnamien,ingrédient,nmod,NOUN,0.5616439580917358,[],,
+vietnamien,huile,amod,NOUN,0.5917481184005737,[],,
+vietnamien,sel,nmod,NOUN,0.6722738146781921,[],,
+sel,carotte,nmod,NOUN,0.703865647315979,[],,
+champignon,noir,amod,ADJ,0.4971755743026733,"[{""id"": 560976590, ""node1"": 25484, ""node2"": 64238, ""type"": 0, ""w"": 48.0}, {""id"": 3165939, ""node1"": 25484, ""node2"": 64238, ""type"": 106, ""w"": 1.0}]",r_associated,48.0
+crabe,porc,amod,NOUN,0.6224905848503113,[],,
+saladier,couteau,nmod,NOUN,0.6030980348587036,[],,
+couteau,économe,appos,NOUN,0.5018488168716431,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]",r_hypo,76.0
+économe,cuillère,nmod,NOUN,0.534529447555542,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+saladier,mixeur,nmod,NOUN,0.581632137298584,[],,
+casserole,couvercle,obj,NOUN,0.6508210897445679,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]",r_has_part,100.0
+couvercle,pinceau,nmod,NOUN,0.4981644749641418,[],,
+pinceau,balance,appos,NOUN,0.4696744382381439,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+tremper,champignon,obj,NOUN,0.6264656186103821,[],,
+champignon,eau,nmod,NOUN,0.5842656493186951,[],,
+eau,tiède,amod,PROPN,0.5831737518310547,"[{""id"": 796965917, ""node1"": 65012, ""node2"": 13843, ""type"": 0, ""w"": 29.0}, {""id"": 128780, ""node1"": 65012, ""node2"": 13843, ""type"": 17, ""w"": 73.0}, {""id"": 600063832, ""node1"": 65012, ""node2"": 13843, ""type"": 27, ""w"": 32.0}]",r_carac,73.0
+éplucher,oignon,nmod,NOUN,0.5758936405181885,"[{""id"": 477310612, ""node1"": 59879, ""node2"": 123307, ""type"": 0, ""w"": 34.0}, {""id"": 13064461, ""node1"": 59879, ""node2"": 123307, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+éplucher,couper,acl,VERB,0.4567814469337463,"[{""id"": 1048568, ""node1"": 59879, ""node2"": 128828, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+passer,affiner,advcl,VERB,0.4110681712627411,[],,
+affiner,mélange,obj,NOUN,0.5209723114967346,[],,
+récipient,grand,amod,ADJ,0.5309901833534241,[],,
+récipient,mélanger,acl,VERB,0.6088926792144775,[],,
+mélanger,porc,obj,NOUN,0.6670339703559875,[],,
+crabe,égoutter,amod,ADV,0.5905651450157166,[],,
+ajouter,oignon,obj,NOUN,0.585871696472168,[],,
+humidité,viande,nmod,NOUN,0.6816580891609192,[],,
+avoir,mélange,obj,NOUN,0.4644262790679931,[],,
+mélange,régulier,amod,ADJ,0.504155158996582,[],,
+gouter,assaisonnement,obj,NOUN,0.6358461976051331,[],,
+pouvoir,farce,obj,NOUN,0.5343348979949951,[],,
+farce,crue,acl,NOUN,0.5505738258361816,[],,
+cuire,préparer,obj,NOUN,0.705791711807251,"[{""id"": 54314785, ""node1"": 5115, ""node2"": 36246, ""type"": 0, ""w"": 28.0}, {""id"": 53730146, ""node1"": 5115, ""node2"": 36246, ""type"": 5, ""w"": 113.0}]",r_syn,113.0
+cuire,feuille,obj,NOUN,0.7423757910728455,[],,
+feuille,riz,nmod,NOUN,0.6777033805847168,[],,
+tremper,faire,iobj,AUX,0.538215160369873,[],,
+peu,sucre,nmod,NOUN,0.6061926484107971,[],,
+casserole,large,amod,ADJ,0.4973792135715484,[],,
+préparer,torchon,obj,NOUN,0.5803734660148621,[],,
+torchon,coton,nmod,NOUN,0.502707302570343,"[{""id"": 770916605, ""node1"": 87841, ""node2"": 84939, ""type"": 50, ""w"": 50.0}, {""id"": 4876969, ""node1"": 87841, ""node2"": 84939, ""type"": 777, ""w"": 10.0}]",r_object>mater,50.0
+préparer,poser,advcl,VERB,0.4259003400802612,[],,
+poser,feuille,obj,NOUN,0.4619184136390686,[],,
+tremper,feuille,obj,NOUN,0.5642679929733276,[],,
+feuille,eau,nmod,NOUN,0.5719302296638489,"[{""id"": 80153345, ""node1"": 37993, ""node2"": 65012, ""type"": 15, ""w"": 35.0}]",r_lieu,35.0
+prendre,galette,obj,NOUN,0.5727108716964722,[],,
+déposer,peu,obj,ADV,0.4566705226898193,[],,
+côté,galette,nmod,NOUN,0.5530927777290344,[],,
+faire,recouvrir,advcl,VERB,0.4903155565261841,[],,
+recouvrir,farce,obj,NOUN,0.5753230452537537,[],,
+rouler,côté,nsubj,NOUN,0.4761951565742492,[],,
+rouler,reste,nsubj,NOUN,0.4833956360816955,[],,
+reste,surface,nmod,NOUN,0.4715307056903839,[],,
+rouler,défaire,advcl,VERB,0.425046294927597,[],,
+garde,forme,obj,NOUN,0.421466588973999,"[{""id"": 925964088, ""node1"": 44547, ""node2"": 142000, ""type"": 17, ""w"": -5.0}]",r_carac,-5.0
+forme,régulier,amod,ADJ,0.4183309078216553,[],,
+huile,température,nmod,NOUN,0.586568295955658,"[{""id"": 669862708, ""node1"": 141971, ""node2"": 40531, ""type"": 0, ""w"": 26.0}, {""id"": 3513950, ""node1"": 141971, ""node2"": 40531, ""type"": 777, ""w"": 10.0}]",r_associated,26.0
+température,modérer,amod,ADJ,0.4397655725479126,[],,

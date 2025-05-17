@@ -1,0 +1,49 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+filet,boeuf,nmod,NOUN,0.5904082655906677,"[{""id"": 31388824, ""node1"": 42188, ""node2"": 47417, ""type"": 0, ""w"": 286.0}, {""id"": 31388740, ""node1"": 42188, ""node2"": 47417, ""type"": 3, ""w"": 309.0}, {""id"": 72784222, ""node1"": 42188, ""node2"": 47417, ""type"": 6, ""w"": 26.0}]",r_domain,309.0
+boeuf,croûte,nmod,NOUN,0.6296864748001099,[],,
+boeuf,ingrédient,nmod,NOUN,0.6519651412963867,"[{""id"": 24929879, ""node1"": 47417, ""node2"": 123418, ""type"": 6, ""w"": 2.0}]",r_isa,2.0
+filet,sel,nmod,NOUN,0.6935603022575378,[],,
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+sel,beurre,acl,NOUN,0.7119027376174927,"[{""id"": 29328492, ""node1"": 13260, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 9986817, ""node1"": 13260, ""node2"": 140377, ""type"": 10, ""w"": 35.0}]",r_holo,35.0
+boeuf,pâte,acl,NOUN,0.713433027267456,[],,
+boeuf,brioche,nmod,NOUN,0.6826289296150208,[],,
+brioche,jaune,amod,ADJ,0.6197063326835632,"[{""id"": 3161925, ""node1"": 140188, ""node2"": 86711, ""type"": 106, ""w"": 19.0}]",r_has_color,19.0
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]",r_associated,598.0
+brioche,pinceau,appos,NOUN,0.5779520869255066,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+four,four,nmod,NOUN,0.6326162219047546,"[{""id"": 303738, ""node1"": 9190, ""node2"": 9190, ""type"": 19, ""w"": 53.0}]",r_lemma,53.0
+four,bol,nmod,NOUN,0.6603272557258606,[],,
+bol,saladier,nmod,NOUN,0.5367903709411621,"[{""id"": 796872211, ""node1"": 145405, ""node2"": 45455, ""type"": 0, ""w"": 28.0}, {""id"": 1029292999, ""node1"": 145405, ""node2"": 45455, ""type"": 67, ""w"": 34.0}]",r_similar,34.0
+saladier,balance,appos,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+boeuf,dorer,acl,VERB,0.6367547512054443,[],,
+dorer,filet,obj,NOUN,0.6001845598220825,[],,
+minute,chacun,nmod,PRON,0.4273588061332702,[],,
+poser,filet,obj,NOUN,0.5296496152877808,[],,
+filet,grille,nmod,NOUN,0.5585300326347351,[],,
+retirer,ficelle,obj,NOUN,0.4959696233272552,[],,
+ficelle,besoin,nmod,NOUN,0.4776648283004761,[],,
+four,240,nmod,NUM,0.4864433705806732,[],,
+mélanger,jaune,obj,NOUN,0.5585520267486572,[],,
+surface,jaune,nmod,NOUN,0.5111753940582275,[],,
+filet,milieu,nmod,NOUN,0.502932608127594,[],,
+rabattre,bord,obj,NOUN,0.4037059545516968,"[{""id"": 31870483, ""node1"": 52968, ""node2"": 63985, ""type"": 14, ""w"": 52.0}]",r_patient,52.0
+bord,manière,nmod,NOUN,0.4200954139232635,[],,
+bord,faire,acl,VERB,0.4752708375453949,[],,
+paquet,beau,amod,ADJ,0.4465871155261993,[],,
+faire,paquet,obj,NOUN,0.5205428004264832,"[{""id"": 97740148, ""node1"": 87528, ""node2"": 18403, ""type"": 14, ""w"": 34.0}]",r_patient,34.0
+oublier,enfourner,advcl,VERB,0.5279613733291626,[],,
+pratiquer,cheminée,obj,NOUN,0.5173420906066895,[],,
+cheminée,milieu,nmod,NOUN,0.514411211013794,[],,
+cuire,le,obj,PRON,0.4500194191932678,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+doré,croûte,nsubj,NOUN,0.587907612323761,"[{""id"": 98295866, ""node1"": 47964, ""node2"": 41851, ""type"": 23, ""w"": 23.0}]",r_carac-1,23.0
+éteindre,doré,advcl,ADJ,0.5065961480140686,[],,
+éteindre,four,obj,NOUN,0.6389097571372986,[],,
+reposer,filet,obj,NOUN,0.555120587348938,[],,
+reposer,minute,obj,NOUN,0.4512225389480591,[],,
+porte,four,nmod,NOUN,0.6304441094398499,"[{""id"": 9977242, ""node1"": 143613, ""node2"": 9190, ""type"": 10, ""w"": 21.0}]",r_holo,21.0
+four,ouvrir,amod,VERB,0.6398211121559143,[],,

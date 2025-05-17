@@ -1,0 +1,98 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+voir,chips,obj,NOUN,0.5068952441215515,[],,
+français,poisson,nmod,NOUN,0.5874781012535095,[],,
+plat,restauration,nmod,NOUN,0.6094250082969666,"[{""id"": 15341944, ""node1"": 36327, ""node2"": 11575, ""type"": 0, ""w"": 56.0}, {""id"": 2478862, ""node1"": 36327, ""node2"": 11575, ""type"": 3, ""w"": 51.0}]",r_associated,56.0
+plat,emporter,acl,VERB,0.5991138815879822,[],,
+emballage,papier,nmod,NOUN,0.4647338688373565,"[{""id"": 369964, ""node1"": 134263, ""node2"": 103389, ""type"": 0, ""w"": 93.0}, {""id"": 98010960, ""node1"": 134263, ""node2"": 103389, ""type"": 27, ""w"": 24.0}, {""id"": 376056177, ""node1"": 134263, ""node2"": 103389, ""type"": 50, ""w"": 27.0}, {""id"": 992449901, ""node1"": 134263, ""node2"": 103389, ""type"": 666, ""w"": 3.0}]",r_associated,93.0
+papier,blanc,amod,ADJ,0.5072207450866699,"[{""id"": 158377, ""node1"": 103389, ""node2"": 15196, ""type"": 0, ""w"": 91.0}, {""id"": 82968, ""node1"": 103389, ""node2"": 15196, ""type"": 17, ""w"": 441.0}, {""id"": 3161681, ""node1"": 103389, ""node2"": 15196, ""type"": 106, ""w"": 76.0}, {""id"": 1929254, ""node1"": 103389, ""node2"": 15196, ""type"": 666, ""w"": 2.0}]",r_carac,441.0
+emballage,façon,nmod,NOUN,0.4868097901344299,[],,
+emballage,absorber,acl,VERB,0.4557970464229584,[],,
+excès,huile,nmod,NOUN,0.5456555485725403,"[{""id"": 941869976, ""node1"": 36124, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+emballer,lui-même,nsubj,DET,0.4277661442756653,[],,
+pouvoir,emballer,advcl,VERB,0.4129673838615417,[],,
+emballer,conserver,advcl,VERB,0.4322361052036285,[],,
+conserver,chaleur,obj,NOUN,0.501623272895813,"[{""id"": 587968186, ""node1"": 42089, ""node2"": 110910, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+restaurant,vendre,acl:relcl,VERB,0.441969096660614,"[{""id"": 1014006228, ""node1"": 79954, ""node2"": 54438, ""type"": 24, ""w"": 30.0}]",r_agent-1,30.0
+associer,plat,nsubj:pass,NOUN,0.6080800294876099,[],,
+restaurant,associer,acl,VERB,0.4722440838813782,[],,
+cuisine,anglais,amod,ADJ,0.5654205083847046,[],,
+plat,fish,nsubj,NOUN,0.5399215221405029,[],,
+gagner,mets,nsubj,NOUN,0.4816683828830719,[],,
+région,pacifique,amod,ADJ,0.4118821620941162,[],,
+servir,établissement,nsubj,NOUN,0.4825920164585113,[],,
+servir,filet,obj,NOUN,0.5897708535194397,[],,
+filet,poisson,nmod,NOUN,0.592593252658844,"[{""id"": 151084, ""node1"": 42188, ""node2"": 68467, ""type"": 0, ""w"": 207.0}, {""id"": 24392267, ""node1"": 42188, ""node2"": 68467, ""type"": 10, ""w"": 26.0}, {""id"": 1372339, ""node1"": 42188, ""node2"": 68467, ""type"": 15, ""w"": 78.0}, {""id"": 11339589, ""node1"": 42188, ""node2"": 68467, ""type"": 28, ""w"": 38.0}, {""id"": 775213302, ""node1"": 42188, ""node2"": 68467, ""type"": 174, ""w"": 25.0}, {""id"": 1764605, ""node1"": 42188, ""node2"": 68467, ""type"": 666, ""w"": 5.0}]",r_associated,207.0
+filet,appeler,acl,VERB,0.5051819086074829,[],,
+introduire,servir,advcl,VERB,0.4642533361911773,[],,
+version,primitif,amod,ADJ,0.4097133874893188,[],,
+introduire,mets,nsubj:pass,NOUN,0.47968190908432,[],,
+commerce,vieux,amod,ADJ,0.4112606644630432,[],,
+ouvrir,commerce,nsubj,NOUN,0.4222239255905151,"[{""id"": 9365563, ""node1"": 54271, ""node2"": 49615, ""type"": 0, ""w"": 27.0}, {""id"": 9107309, ""node1"": 54271, ""node2"": 49615, ""type"": 35, ""w"": 26.0}]",r_associated,27.0
+chips,référencer,acl,VERB,0.5138140916824341,[],,
+anglais,chips,amod,SCONJ,0.4853909313678741,[],,
+servir,britannique,nsubj,NOUN,0.4972718358039856,[],,
+chaîne,grand,amod,ADJ,0.4431073367595672,[],,
+servir,plupart,nsubj,NOUN,0.4791817665100097,[],,
+plupart,restaurant,nmod,NOUN,0.4613363444805145,[],,
+restaurant,américain,amod,ADJ,0.4294383525848388,"[{""id"": 940913041, ""node1"": 79954, ""node2"": 11467, ""type"": 17, ""w"": 33.0}]",r_carac,33.0
+servir,servir,advcl,VERB,0.4595994651317596,"[{""id"": 333001, ""node1"": 7888, ""node2"": 7888, ""type"": 19, ""w"": 57.0}]",r_lemma,57.0
+servir,plat,obj,NOUN,0.6370052695274353,"[{""id"": 1610963, ""node1"": 7888, ""node2"": 36327, ""type"": 0, ""w"": 122.0}, {""id"": 97862196, ""node1"": 7888, ""node2"": 36327, ""type"": 14, ""w"": 100.0}, {""id"": 134589, ""node1"": 7888, ""node2"": 36327, ""type"": 16, ""w"": 110.0}, {""id"": 376065693, ""node1"": 7888, ""node2"": 36327, ""type"": 31, ""w"": 26.0}, {""id"": 466842766, ""node1"": 7888, ""node2"": 36327, ""type"": 666, ""w"": 2.0}]",r_associated,122.0
+nom,chips,amod,NOUN,0.4703334271907806,[],,
+restaurant,offrir,acl,VERB,0.4272712767124176,"[{""id"": 380396309, ""node1"": 79954, ""node2"": 89749, ""type"": 30, ""w"": 26.0}]",r_lieu_action,26.0
+répandre,préparation,nsubj:pass,NOUN,0.5205345749855042,[],,
+préparation,suivant,amod,ADJ,0.4583005309104919,[],,
+pouvoir,chapelure,nsubj,NOUN,0.6078900098800659,[],,
+pâte,traditionnel,amod,ADJ,0.6616690158843994,[],,
+remplacer,pâte,obj,NOUN,0.6440065503120422,[],,
+base,bière,nmod,NOUN,0.5763517618179321,[],,
+plonger,filet,nsubj:pass,NOUN,0.5540867447853088,[],,
+base,œuf,nmod,NOUN,0.5924127697944641,[],,
+bière,britannique,amod,ADJ,0.5048019886016846,[],,
+saupoudrer,plat,nsubj,NOUN,0.6547532677650452,"[{""id"": 31814157, ""node1"": 133415, ""node2"": 36327, ""type"": 31, ""w"": 27.0}]",r_action_lieu,27.0
+sel,vinaigre,nmod,NOUN,0.6717422008514404,"[{""id"": 796849792, ""node1"": 13260, ""node2"": 145443, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+vinaigre,malt,nmod,NOUN,0.5051373243331909,"[{""id"": 3355971, ""node1"": 145443, ""node2"": 33040, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+poisson,morue,nsubj,NOUN,0.6200116276741028,"[{""id"": 3185019, ""node1"": 68467, ""node2"": 67179, ""type"": 0, ""w"": 43.0}, {""id"": 214521, ""node1"": 68467, ""node2"": 67179, ""type"": 8, ""w"": 153.0}, {""id"": 15198431, ""node1"": 68467, ""node2"": 67179, ""type"": 27, ""w"": -21.0}]",r_hypo,153.0
+poisson,utiliser,acl,VERB,0.6516346335411072,[],,
+vendre,beaucoup,obj,ADV,0.400020956993103,"[{""id"": 2256450, ""node1"": 54438, ""node2"": 120123, ""type"": 34, ""w"": 81.0}]",r_manner,81.0
+poisson,autre,amod,ADJ,0.6230335235595703,[],,
+poisson,blanc,amod,ADJ,0.6056923866271973,"[{""id"": 558704597, ""node1"": 68467, ""node2"": 15196, ""type"": 0, ""w"": 27.0}, {""id"": 2479890, ""node1"": 68467, ""node2"": 15196, ""type"": 17, ""w"": 36.0}, {""id"": 3164663, ""node1"": 68467, ""node2"": 15196, ""type"": 106, ""w"": 18.0}]",r_carac,36.0
+poisson,tel,amod,ADJ,0.524071216583252,[],,
+lieu,noir,amod,ADJ,0.459001362323761,"[{""id"": 142345, ""node1"": 135190, ""node2"": 64238, ""type"": 0, ""w"": 89.0}, {""id"": 9641643, ""node1"": 135190, ""node2"": 64238, ""type"": 8, ""w"": 32.0}, {""id"": 229793, ""node1"": 135190, ""node2"": 64238, ""type"": 17, ""w"": 62.0}, {""id"": 3163455, ""node1"": 135190, ""node2"": 64238, ""type"": 106, ""w"": 19.0}]",r_associated,89.0
+lieu,jaune,amod,ADJ,0.4861782193183899,"[{""id"": 159960, ""node1"": 135190, ""node2"": 86711, ""type"": 0, ""w"": 60.0}, {""id"": 229794, ""node1"": 135190, ""node2"": 86711, ""type"": 17, ""w"": 51.0}, {""id"": 3163456, ""node1"": 135190, ""node2"": 86711, ""type"": 106, ""w"": 19.0}]",r_associated,60.0
+raie,utiliser,acl,VERB,0.4801889359951019,[],,
+chien,mer,nmod,PROPN,0.48769211769104,"[{""id"": 97360642, ""node1"": 4455, ""node2"": 146105, ""type"": 0, ""w"": 16.0}, {""id"": 97360696, ""node1"": 4455, ""node2"": 146105, ""type"": 10, ""w"": 16.0}, {""id"": 24357985, ""node1"": 4455, ""node2"": 146105, ""type"": 15, ""w"": 27.0}]",r_lieu,27.0
+produit,alimentaire,amod,ADJ,0.4828015565872192,[],,
+produit,accompagner,acl,VERB,0.4362179934978485,[],,
+lieu,substitut,nmod,NOUN,0.4123065173625946,[],,
+place,morceau,nmod,NOUN,0.5621991157531738,[],,
+morceau,poisson,nmod,NOUN,0.6589497923851013,[],,
+proposer,commerce,nsubj,NOUN,0.4473452866077423,[],,
+commerce,chips,amod,NOUN,0.5333150029182434,[],,
+boulette,petit,amod,ADJ,0.5748454332351685,[],,
+proposer,boulette,obj,NOUN,0.5195296406745911,[],,
+boulette,œuf,nmod,NOUN,0.5496903657913208,[],,
+œuf,morue,nmod,NOUN,0.6218408346176147,[],,
+morue,poisson,nsubj,NOUN,0.6200116276741028,"[{""id"": 362967, ""node1"": 67179, ""node2"": 68467, ""type"": 0, ""w"": 239.0}, {""id"": 467934, ""node1"": 67179, ""node2"": 68467, ""type"": 3, ""w"": 55.0}, {""id"": 1529591, ""node1"": 67179, ""node2"": 68467, ""type"": 6, ""w"": 160.0}, {""id"": 1683705, ""node1"": 67179, ""node2"": 68467, ""type"": 35, ""w"": 83.0}, {""id"": 981322413, ""node1"": 67179, ""node2"": 68467, ""type"": 666, ""w"": 3.0}]",r_associated,239.0
+proposer,morue,obj,NOUN,0.5948825478553772,[],,
+morue,récif,nmod,NOUN,0.5116950869560242,[],,
+morue,variété,amod,NOUN,0.5981695055961609,[],,
+variété,différent,amod,ADJ,0.4457030296325683,"[{""id"": 914493368, ""node1"": 17138, ""node2"": 82746, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+variété,celui,nmod,PRON,0.4337945580482483,[],,
+morue,utiliser,acl,VERB,0.612712562084198,[],,
+sorte,requin,nmod,NOUN,0.5013136863708496,[],,
+début,espèce,nmod,NOUN,0.4277245700359344,[],,
+début,filet,nmod,NOUN,0.5159647464752197,[],,
+filet,déclin,nmod,NOUN,0.4860088527202606,[],,
+remplacer,poisson,nsubj:pass,NOUN,0.6306647062301636,"[{""id"": 803567325, ""node1"": 52286, ""node2"": 68467, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+morue,bleu,amod,ADJ,0.5750007033348083,[],,
+rester,poisson,obj,NOUN,0.5824421644210815,[],,
+fish,île,nmod,NOUN,0.4078290462493896,[],,
+dépendre,type,nsubj,NOUN,0.4330859184265136,[],,
+type,poisson,nmod,NOUN,0.5779768228530884,[],,
+région,donner,acl,VERB,0.4499016404151916,[],,
+avoir,morue,obj,NOUN,0.5812059640884399,[],,
+morue,Atlantique,nmod,PROPN,0.5287190675735474,[],,
+utiliser,saumon,nsubj:pass,NOUN,0.63102787733078,[],,
+eau,doux,amod,ADJ,0.5891962051391602,[],,
+utiliser,qui,nsubj:pass,PRON,0.4023291170597076,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,

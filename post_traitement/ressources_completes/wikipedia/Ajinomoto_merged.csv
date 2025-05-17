@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+cuisine,japonais,amod,ADJ,0.5706702470779419,[],,
+industrie,agro-alimentaire,amod,ADJ,0.4045316874980926,"[{""id"": 1044749009, ""node1"": 118876, ""node2"": 57006, ""type"": 0, ""w"": 231.0}, {""id"": 385983033, ""node1"": 118876, ""node2"": 57006, ""type"": 27, ""w"": 28.0}]",r_associated,231.0
+répartir,activité,nsubj,NOUN,0.4220769107341766,[],,
+répartir,produit,advcl,NOUN,0.4307182431221008,[],,
+consommation,grand,amod,ADJ,0.4867260158061981,[],,
+produit,consommation,nmod,NOUN,0.4592465758323669,"[{""id"": 998427731, ""node1"": 32667, ""node2"": 57470, ""type"": 134, ""w"": 28.0}, {""id"": 998427706, ""node1"": 32667, ""node2"": 57470, ""type"": 137, ""w"": 28.0}, {""id"": 653384509, ""node1"": 32667, ""node2"": 57470, ""type"": 666, ""w"": 21.0}]",r_promote,28.0
+consommation,industrie,appos,NOUN,0.4408790469169616,"[{""id"": 923158588, ""node1"": 57470, ""node2"": 118876, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+industrie,agroalimentaire,amod,ADJ,0.4035780727863312,[],,
+origine,goût,nmod,NOUN,0.548554003238678,[],,
+marque,déposer,acl,VERB,0.4290319681167602,"[{""id"": 15048807, ""node1"": 143180, ""node2"": 35714, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+fondre,entreprise,obj,NOUN,0.4979562759399414,[],,
+déclinaison,produit,nmod,NOUN,0.4023973345756531,"[{""id"": 97332696, ""node1"": 93600, ""node2"": 32667, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+produit,traiteur,amod,ADJ,0.4592552185058594,[],,
+producteur,gros,amod,ADJ,0.4171786904335022,[],,
+dépense,producteur,appos,NOUN,0.4129155576229095,[],,
+acquérir,que,obj,PRON,0.4138065874576568,[],,
+marque,tel,amod,ADJ,0.4230120182037353,[],,
+posséder,quotidien,obj,NOUN,0.4069932401180267,[],,
+quotidien,révéler,acl:relcl,VERB,0.4025382399559021,[],,
+quotidien,produire,acl:relcl,VERB,0.4482700228691101,[],,
+produire,biomasse,obj,NOUN,0.4710662066936493,[],,
+biomasse,composer,acl,VERB,0.4792517125606537,[],,
+alimentation,animal,amod,ADJ,0.4523731768131256,"[{""id"": 720505952, ""node1"": 113902, ""node2"": 17559, ""type"": 173, ""w"": 45.0}]",r_has_prop-1,45.0
+sécurité,aliment,nmod,NOUN,0.5582967400550842,[],,
+mise,marché,nmod,NOUN,0.411296397447586,[],,
+raison,risque,nmod,NOUN,0.4127489924430847,[],,
+circuler,biomasse,obj,NOUN,0.4647045135498047,[],,
+biomasse,autoriser,acl,VERB,0.4562996923923492,[],,
+distribuer,produit,nsubj:pass,NOUN,0.4050759673118591,[],,
+produit,fabriquer,acl,VERB,0.4474628269672394,"[{""id"": 998427694, ""node1"": 32667, ""node2"": 34042, ""type"": 26, ""w"": 41.0}]",r_patient-1,41.0

@@ -1,0 +1,22 @@
+head,lemma,dep,pos,sim,relation
+titre,liqueur,nmod,NOUN,0.4889945387840271,[]
+liqueur,ingrédient,nmod,NOUN,0.6168590784072876,"[{""id"": 421308321, ""node1"": 66643, ""node2"": 123418, ""type"": 0, ""w"": 1.0}]"
+liqueur,sucre,nmod,NOUN,0.6587448120117188,"[{""id"": 423451177, ""node1"": 66643, ""node2"": 139481, ""type"": 0, ""w"": 26.0}, {""id"": 980975051, ""node1"": 66643, ""node2"": 139481, ""type"": 666, ""w"": 3.0}, {""id"": 3573576, ""node1"": 66643, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]"
+sucre,alcool,nmod,NOUN,0.6231129765510559,"[{""id"": 8792327, ""node1"": 139481, ""node2"": 47597, ""type"": 0, ""w"": 5.0}]"
+sucre,degré,nmod,NOUN,0.5845609307289124,[]
+liqueur,eau,appos,NOUN,0.5829334259033203,"[{""id"": 423451203, ""node1"": 66643, ""node2"": 65012, ""type"": 0, ""w"": 31.0}, {""id"": 4075848, ""node1"": 66643, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]"
+liqueur,casserole,nmod,NOUN,0.6523867845535278,[]
+casserole,cuillère,nmod,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]"
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,balance,appos,NOUN,0.5329062342643738,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+balance,étape,nmod,NOUN,0.4149083495140075,[]
+liqueur,mettre,acl,VERB,0.5578745007514954,[]
+mettre,feuille,obj,NOUN,0.4968929886817932,[]
+bocal,alcool,nmod,NOUN,0.5875508189201355,[]
+fondre,sucre,obj,NOUN,0.6667196750640869,"[{""id"": 588310975, ""node1"": 16480, ""node2"": 139481, ""type"": 0, ""w"": 36.0}, {""id"": 24768884, ""node1"": 16480, ""node2"": 139481, ""type"": 13, ""w"": 35.0}]"
+refroidir,sirop,obj,NOUN,0.6382132172584534,[]
+mélanger,alcool,obj,NOUN,0.5569069981575012,[]
+alcool,tremper,acl:relcl,VERB,0.5767010450363159,[]
+sirop,obtenir,acl,VERB,0.5909326672554016,[]
+laisser,quinzaine,obj,NOUN,0.412859171628952,[]

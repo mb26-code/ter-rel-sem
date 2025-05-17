@@ -1,0 +1,45 @@
+head,lemma,dep,pos,sim,relation
+couronne,riz,nmod,NOUN,0.6667040586471558,[]
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[]
+sel,purée,nmod,NOUN,0.7597805857658386,[]
+sel,tomate,nmod,NOUN,0.7264893651008606,[]
+tomate,farine,amod,NOUN,0.7277690768241882,"[{""id"": 421761165, ""node1"": 22138, ""node2"": 127629, ""type"": 0, ""w"": 2.0}]"
+ingrédient,oignon,appos,NOUN,0.6626235842704773,"[{""id"": 24923430, ""node1"": 123418, ""node2"": 123307, ""type"": 0, ""w"": 15.0}, {""id"": 24850729, ""node1"": 123418, ""node2"": 123307, ""type"": 8, ""w"": 28.0}]"
+oignon,boeuf,nmod,NOUN,0.6415389776229858,[]
+boeuf,champignon,nmod,NOUN,0.6061593294143677,"[{""id"": 914918430, ""node1"": 47417, ""node2"": 25484, ""type"": 0, ""w"": 20.0}]"
+boeuf,cube,nmod,NOUN,0.5714843273162842,[]
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]"
+pois,petit,amod,ADJ,0.5441179871559143,"[{""id"": 1743094, ""node1"": 97846, ""node2"": 55222, ""type"": 0, ""w"": 105.0}, {""id"": 1525554, ""node1"": 97846, ""node2"": 55222, ""type"": 666, ""w"": 2.0}]"
+bouillon,pois,appos,NOUN,0.5856470465660095,[]
+pois,eau,appos,NOUN,0.6137638092041016,[]
+eau,top,nmod,NOUN,0.5398015379905701,[]
+titre,marmite,nmod,NOUN,0.5938978791236877,[]
+marmite,moule,nmod,NOUN,0.6205579042434692,[]
+marmite,balance,nmod,NOUN,0.6134362816810608,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+balance,assiette,nmod,NOUN,0.5656145215034485,[]
+assiette,étape,nmod,NOUN,0.483820229768753,[]
+marmite,cuire,acl,VERB,0.7715032696723938,"[{""id"": 418198677, ""node1"": 146096, ""node2"": 5115, ""type"": 0, ""w"": 22.0}, {""id"": 365863709, ""node1"": 146096, ""node2"": 5115, ""type"": 30, ""w"": 26.0}]"
+cuire,riz,obj,NOUN,0.7637909054756165,"[{""id"": 426022657, ""node1"": 5115, ""node2"": 24372, ""type"": 0, ""w"": 36.0}, {""id"": 31820394, ""node1"": 5115, ""node2"": 24372, ""type"": 14, ""w"": 100.0}]"
+cuire,volume,obj,NOUN,0.7034350633621216,[]
+volume,eau,nmod,NOUN,0.5477495789527893,"[{""id"": 30986586, ""node1"": 130885, ""node2"": 65012, ""type"": 0, ""w"": 35.0}, {""id"": 30984090, ""node1"": 130885, ""node2"": 65012, ""type"": 3, ""w"": 30.0}]"
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]"
+casserole,gros,amod,ADJ,0.5524762868881226,[]
+mettre,viande,obj,NOUN,0.7075909972190857,[]
+viande,champignon,amod,NOUN,0.7421479225158691,[]
+viande,jambon,appos,NOUN,0.7005879282951355,"[{""id"": 9898469, ""node1"": 140100, ""node2"": 57980, ""type"": 0, ""w"": 28.0}, {""id"": 113695, ""node1"": 140100, ""node2"": 57980, ""type"": 8, ""w"": 113.0}]"
+jambon,saupoudrer,acl:relcl,VERB,0.6515172719955444,[]
+revenir,tout,obj,NOUN,0.4829182922840118,[]
+ajouter,vin,obj,NOUN,0.6198925375938416,[]
+purée,tomate,nmod,NOUN,0.6794106960296631,"[{""id"": 558807883, ""node1"": 16444, ""node2"": 22138, ""type"": 0, ""w"": 34.0}]"
+purée,verre,nmod,NOUN,0.6814628839492798,[]
+verre,eau,nmod,NOUN,0.5749212503433228,"[{""id"": 70610, ""node1"": 144497, ""node2"": 65012, ""type"": 0, ""w"": 314.0}, {""id"": 31129047, ""node1"": 144497, ""node2"": 65012, ""type"": 3, ""w"": 35.0}, {""id"": 10528262, ""node1"": 144497, ""node2"": 65012, ""type"": 9, ""w"": 9.0}, {""id"": 393483, ""node1"": 144497, ""node2"": 65012, ""type"": 28, ""w"": 194.0}, {""id"": 720818421, ""node1"": 144497, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 1523981, ""node1"": 144497, ""node2"": 65012, ""type"": 666, ""w"": 5.0}]"
+laisser,minute,obj,NOUN,0.4280168712139129,[]
+riz,cuire,amod,VERB,0.7637909054756165,"[{""id"": 561294219, ""node1"": 24372, ""node2"": 5115, ""type"": 0, ""w"": 39.0}, {""id"": 31823713, ""node1"": 24372, ""node2"": 5115, ""type"": 26, ""w"": 100.0}]"
+ajouter,pois,obj,NOUN,0.5312543511390686,[]
+pois,avoir,acl:relcl,VERB,0.5177581906318665,[]
+verser,riz,obj,NOUN,0.686630129814148,[]
+retourner,moule,obj,NOUN,0.5062108039855957,[]
+assiette,grand,amod,ADJ,0.5718359351158142,"[{""id"": 8793105, ""node1"": 62735, ""node2"": 23178, ""type"": 17, ""w"": 5.0}]"
+verser,préparation,obj,NOUN,0.5208573341369629,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]"
+préparation,viande,nmod,NOUN,0.7364691495895386,"[{""id"": 9903072, ""node1"": 33634, ""node2"": 140100, ""type"": 0, ""w"": 23.0}, {""id"": 422812, ""node1"": 33634, ""node2"": 140100, ""type"": 8, ""w"": 101.0}]"

@@ -1,0 +1,40 @@
+node1,node2,relations
+gâteau,rapide,[]
+gâteau,yaourt,[]
+gâteau,ingrédient,[]
+gâteau,chocolat,"[{""id"": 131041, ""node1"": 2149, ""node2"": 34157, ""type"": 0, ""w"": 264.0}, {""id"": 376998760, ""node1"": 2149, ""node2"": 34157, ""type"": 21, ""w"": 28.0}, {""id"": 264026, ""node1"": 2149, ""node2"": 34157, ""type"": 28, ""w"": 198.0}, {""id"": 14674477, ""node1"": 2149, ""node2"": 34157, ""type"": 42, ""w"": 29.0}, {""id"": 1762443, ""node1"": 2149, ""node2"": 34157, ""type"": 50, ""w"": 38.0}, {""id"": 1762442, ""node1"": 2149, ""node2"": 34157, ""type"": 666, ""w"": 4.0}]"
+gâteau,levure,"[{""id"": 1887020, ""node1"": 2149, ""node2"": 53450, ""type"": 0, ""w"": 29.0}, {""id"": 267603, ""node1"": 2149, ""node2"": 53450, ""type"": 28, ""w"": 99.0}]"
+levure,huile,[]
+gâteau,sucre,"[{""id"": 136472, ""node1"": 2149, ""node2"": 139481, ""type"": 0, ""w"": 79.0}, {""id"": 34660586, ""node1"": 2149, ""node2"": 139481, ""type"": 8, ""w"": -36.0}, {""id"": 1707132, ""node1"": 2149, ""node2"": 139481, ""type"": 9, ""w"": 34.0}, {""id"": 264027, ""node1"": 2149, ""node2"": 139481, ""type"": 28, ""w"": 128.0}, {""id"": 1609354, ""node1"": 2149, ""node2"": 139481, ""type"": 41, ""w"": -140.0}, {""id"": 2178054, ""node1"": 2149, ""node2"": 139481, ""type"": 50, ""w"": 72.0}, {""id"": 1035329576, ""node1"": 2149, ""node2"": 139481, ""type"": 129, ""w"": 30.0}, {""id"": 1821770, ""node1"": 2149, ""node2"": 139481, ""type"": 666, ""w"": 6.0}]"
+yaourt,oeuf,[]
+grille,pâtisserie,[]
+pâtisserie,moule,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]"
+grille,manquer,[]
+manquer,four,[]
+four,saladier,[]
+saladier,cuillère,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]"
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,balance,[]
+balance,cuisine,[]
+balance,étape,[]
+four,180,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,[]
+mélanger,mettre,"[{""id"": 12275937, ""node1"": 37151, ""node2"": 132366, ""type"": 0, ""w"": 22.0}, {""id"": 646351, ""node1"": 37151, ""node2"": 132366, ""type"": 5, ""w"": 99.0}]"
+mettre,chocolat,[]
+fondre,marier,"[{""id"": 871026, ""node1"": 16480, ""node2"": 14320, ""type"": 0, ""w"": 21.0}]"
+marier,beurre,[]
+rien,autre,[]
+ingrédient,tout,[]
+ingrédient,autre,[]
+mélanger,ingrédient,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]"
+ingrédient,mélanger,"[{""id"": 770758779, ""node1"": 123418, ""node2"": 37151, ""type"": 26, ""w"": 31.0}]"
+mélanger,levure,[]
+mélanger,lui,[]
+mélanger,mélanger,"[{""id"": 315784, ""node1"": 37151, ""node2"": 37151, ""type"": 19, ""w"": 52.0}, {""id"": 213486576, ""node1"": 37151, ""node2"": 37151, ""type"": 57, ""w"": 34.0}]"
+ajouter,chocolat,[]
+moule,manqué,"[{""id"": 799188855, ""node1"": 143723, ""node2"": 143990, ""type"": 0, ""w"": 24.0}]"
+verser,pâte,"[{""id"": 373014722, ""node1"": 104506, ""node2"": 34069, ""type"": 14, ""w"": 36.0}]"
+four,min,[]
+mettre,thermostat,[]
+vérifier,cuisson,"[{""id"": 31862099, ""node1"": 76431, ""node2"": 60056, ""type"": 14, ""w"": 64.0}]"

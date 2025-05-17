@@ -1,0 +1,50 @@
+head,lemma,dep,pos,sim,relation
+titre,filet,nmod,NOUN,0.4820869565010071,[]
+filet,champignon,nmod,NOUN,0.5739980340003967,[]
+crème,ingrédient,nmod,NOUN,0.6610228419303894,"[{""id"": 24850723, ""node1"": 44001, ""node2"": 123418, ""type"": 0, ""w"": 30.0}, {""id"": 24842105, ""node1"": 44001, ""node2"": 123418, ""type"": 6, ""w"": 143.0}]"
+crème,sel,nmod,NOUN,0.7389078736305237,[]
+sel,poivre,acl,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]"
+crème,crème,amod,NOUN,0.5604454278945923,"[{""id"": 96714571, ""node1"": 44001, ""node2"": 44001, ""type"": 17, ""w"": 11.0}, {""id"": 292050, ""node1"": 44001, ""node2"": 44001, ""type"": 19, ""w"": 56.0}, {""id"": 648885465, ""node1"": 44001, ""node2"": 44001, ""type"": 99, ""w"": 32.0}]"
+crème,frais,amod,ADJ,0.5796430110931396,[]
+crème,beurre,acl,NOUN,0.6757769584655762,"[{""id"": 405906, ""node1"": 44001, ""node2"": 140377, ""type"": 0, ""w"": 73.0}, {""id"": 9980280, ""node1"": 44001, ""node2"": 140377, ""type"": 10, ""w"": 4.0}, {""id"": 1836384, ""node1"": 44001, ""node2"": 140377, ""type"": 21, ""w"": 60.0}, {""id"": 306776452, ""node1"": 44001, ""node2"": 140377, ""type"": 666, ""w"": 2.0}]"
+beurre,oignon,nmod,NOUN,0.702610969543457,"[{""id"": 500926013, ""node1"": 140377, ""node2"": 123307, ""type"": 0, ""w"": 1.0}]"
+oignon,champignon,nmod,NOUN,0.6102637052536011,[]
+crème,vin,nmod,NOUN,0.687624990940094,[]
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]"
+filet,couteau,appos,NOUN,0.5587223172187805,[]
+filet,mixeur,nmod,NOUN,0.6035974621772766,[]
+mixeur,set,nmod,NOUN,0.4433817863464355,[]
+mixeur,poêle,nmod,NOUN,0.675652265548706,[]
+filet,casserole,nmod,NOUN,0.6304184198379517,[]
+casserole,Plat,nmod,PROPN,0.5223272442817688,[]
+Plat,gratin,nmod,NOUN,0.4779236614704132,[]
+Plat,saladier,nmod,NOUN,0.5039201378822327,[]
+saladier,four,nmod,NOUN,0.6991847157478333,[]
+four,pinceau,nmod,NOUN,0.6441405415534973,[]
+pinceau,couvercle,nmod,NOUN,0.4981644749641418,[]
+couvercle,balance,nmod,NOUN,0.5437039136886597,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+balance,plat,appos,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]"
+filet,étape,nmod,NOUN,0.5110912322998047,[]
+fondre,oignon,obj,NOUN,0.6370865702629089,[]
+ajouter,champignon,obj,NOUN,0.5464464426040649,[]
+revenir,vif,amod,ADJ,0.424948900938034,[]
+verser,mélange,obj,NOUN,0.5440542697906494,[]
+mélange,champignon,nmod,NOUN,0.6218036413192749,[]
+mélange,plat,nmod,NOUN,0.6584339141845703,[]
+mélange,gratin,nmod,NOUN,0.6028265953063965,[]
+four,180,nmod,NUM,0.4979606568813324,[]
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,nmod,NOUN,0.4225132167339325,[]
+saisir,filet,obj,NOUN,0.5048293471336365,[]
+filet,poêle,nmod,NOUN,0.6595602631568909,[]
+plat,gratin,nmod,NOUN,0.6157448291778564,"[{""id"": 415003453, ""node1"": 36327, ""node2"": 12942, ""type"": 0, ""w"": 28.0}, {""id"": 246264043, ""node1"": 36327, ""node2"": 12942, ""type"": 8, ""w"": 32.0}]"
+reste,champignon,nmod,NOUN,0.5549418926239014,[]
+mouiller,filet,obj,NOUN,0.5614811182022095,[]
+four,chaud,amod,ADJ,0.6748667359352112,"[{""id"": 363192, ""node1"": 9190, ""node2"": 19150, ""type"": 0, ""w"": 123.0}, {""id"": 376860, ""node1"": 9190, ""node2"": 19150, ""type"": 17, ""w"": 130.0}, {""id"": 11348785, ""node1"": 9190, ""node2"": 19150, ""type"": 28, ""w"": 38.0}, {""id"": 2221131, ""node1"": 9190, ""node2"": 19150, ""type"": 666, ""w"": 1.0}]"
+chauffer,crème,obj,NOUN,0.6699466705322266,[]
+casserole,petit,amod,ADJ,0.6468310356140137,[]
+casserole,sel,nmod,NOUN,0.733802855014801,[]
+sortir,filet,obj,NOUN,0.5293163061141968,[]
+crème,chaud,amod,ADJ,0.6546403169631958,"[{""id"": 915118661, ""node1"": 44001, ""node2"": 19150, ""type"": 0, ""w"": 20.0}, {""id"": 96714683, ""node1"": 44001, ""node2"": 19150, ""type"": 17, ""w"": 31.0}]"
+min,cuisson,nmod,NOUN,0.4561061859130859,[]

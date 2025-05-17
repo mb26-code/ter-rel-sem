@@ -1,0 +1,34 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,recette,nmod,NOUN,0.5284786224365234,[],,
+recette,facile,amod,ADJ,0.5651895999908447,"[{""id"": 561332937, ""node1"": 120188, ""node2"": 76826, ""type"": 0, ""w"": 34.0}, {""id"": 98281070, ""node1"": 120188, ""node2"": 76826, ""type"": 17, ""w"": 27.0}]",r_associated,34.0
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,sel,appos,NOUN,0.6997572183609009,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+sel,vinaigre,nmod,NOUN,0.683134913444519,"[{""id"": 796849792, ""node1"": 13260, ""node2"": 145443, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+vinaigre,balsamique,amod,ADJ,0.5980404615402222,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]",r_associated,166.0
+vinaigre,miel,amod,ADJ,0.6219134330749512,"[{""id"": 921832676, ""node1"": 145443, ""node2"": 136055, ""type"": 0, ""w"": 20.0}, {""id"": 3355994, ""node1"": 145443, ""node2"": 136055, ""type"": 777, ""w"": 10.0}]",r_associated,20.0
+titre,couteau,nmod,NOUN,0.4826497733592987,[],,
+couteau,cocotte,nmod,NOUN,0.6654592752456665,[],,
+titre,aluminium,nmod,NOUN,0.4250108301639557,[],,
+aluminium,four,nmod,NOUN,0.6745204925537109,[],,
+four,lot,nmod,NOUN,0.5432727932929993,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+couper,viande,obj,NOUN,0.6744567155838013,"[{""id"": 241180, ""node1"": 128828, ""node2"": 140100, ""type"": 0, ""w"": 74.0}, {""id"": 15084106, ""node1"": 128828, ""node2"": 140100, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+feu,vif,amod,ADJ,0.5094798803329468,"[{""id"": 418102926, ""node1"": 143703, ""node2"": 80204, ""type"": 0, ""w"": 13.0}, {""id"": 221184, ""node1"": 143703, ""node2"": 80204, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
+cocotte,fonte,nmod,NOUN,0.5734525322914124,"[{""id"": 432184651, ""node1"": 120952, ""node2"": 111654, ""type"": 0, ""w"": 3.0}, {""id"": 98282817, ""node1"": 120952, ""node2"": 111654, ""type"": 50, ""w"": 47.0}, {""id"": 1764373, ""node1"": 120952, ""node2"": 111654, ""type"": 666, ""w"": 2.0}]",r_object>mater,47.0
+cuire,commencer,advcl,VERB,0.7036314606666565,[],,
+coté,peau,amod,NOUN,0.4948912262916565,[],,
+dépendre,temps,nsubj,NOUN,0.4188081622123718,"[{""id"": 1067097312, ""node1"": 125218, ""node2"": 13861, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+temps,cuisson,nmod,NOUN,0.6630411744117737,[],,
+fait,aimer,acl:relcl,VERB,0.4103820323944092,[],,
+aimer,viande,obj,NOUN,0.6363219618797302,"[{""id"": 15084104, ""node1"": 64325, ""node2"": 140100, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+retirer,graisse,obj,NOUN,0.5665618777275085,[],,
+cours,cuisson,nmod,NOUN,0.6082334518432617,[],,
+feuille,aluminium,nmod,NOUN,0.5004525184631348,[],,
+tourner,faire,advcl,VERB,0.4431490004062652,[],,
+faire,bouillir,obj,VERB,0.5914729237556458,[],,
+tourner,préparation,nsubj,NOUN,0.5151613354682922,[],,
+suggérer,poivrer,advcl,VERB,0.4676318168640136,[],,
+mettre,accompagner,acl,VERB,0.401292622089386,[],,
+peu,sucre,nmod,NOUN,0.6061926484107971,[],,

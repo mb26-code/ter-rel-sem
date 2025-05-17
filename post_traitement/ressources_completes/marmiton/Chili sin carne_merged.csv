@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,poivre,appos,NOUN,0.7064663171768188,"[{""id"": 24923435, ""node1"": 123418, ""node2"": 139597, ""type"": 0, ""w"": 15.0}, {""id"": 24850733, ""node1"": 123418, ""node2"": 139597, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+ingrédient,coriandre,appos,NOUN,0.6872987747192383,[],,
+ingrédient,poivron,nmod,NOUN,0.6912822127342224,"[{""id"": 24923436, ""node1"": 123418, ""node2"": 38257, ""type"": 0, ""w"": 15.0}, {""id"": 24850722, ""node1"": 123418, ""node2"": 38257, ""type"": 8, ""w"": 34.0}]",r_hypo,34.0
+poivron,rouge,amod,ADJ,0.5854978561401367,"[{""id"": 273173, ""node1"": 38257, ""node2"": 86356, ""type"": 0, ""w"": 151.0}, {""id"": 1944118, ""node1"": 38257, ""node2"": 86356, ""type"": 17, ""w"": 36.0}, {""id"": 3160591, ""node1"": 38257, ""node2"": 86356, ""type"": 106, ""w"": 11.0}]",r_associated,151.0
+ingrédient,haricot,flat:name,NOUN,0.6129920482635498,[],,
+ingrédient,tomate,nmod,NOUN,0.6937788128852844,"[{""id"": 24923444, ""node1"": 123418, ""node2"": 22138, ""type"": 0, ""w"": 15.0}, {""id"": 24850720, ""node1"": 123418, ""node2"": 22138, ""type"": 8, ""w"": 30.0}]",r_hypo,30.0
+tomate,huile,acl,NOUN,0.6595464944839478,"[{""id"": 421761130, ""node1"": 22138, ""node2"": 141971, ""type"": 0, ""w"": 4.0}]",r_associated,4.0
+paprika,olive,amod,ADP,0.6284357309341431,[],,
+paprika,riz,amod,ADJ,0.692365288734436,[],,
+paprika,étape,nmod,NOUN,0.5664127469062805,[],,
+revenir,ail,obj,NOUN,0.5784251093864441,[],,
+peu,huile,nmod,NOUN,0.5692240595817566,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+devenir,oignon,nsubj,NOUN,0.581978440284729,[],,
+ajouter,haricot,obj,NOUN,0.551318883895874,[],,
+haricot,égoutter,acl,VERB,0.5630395412445068,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+ajouter,tomate,obj,NOUN,0.6318210363388062,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 29.0}]",r_agent,29.0
+laisser,minute,obj,NOUN,0.4280168712139129,[],,
+eau,besoin,nmod,NOUN,0.5439085960388184,"[{""id"": 1030694961, ""node1"": 65012, ""node2"": 33296, ""type"": 0, ""w"": 20.0}]",r_associated,20.0

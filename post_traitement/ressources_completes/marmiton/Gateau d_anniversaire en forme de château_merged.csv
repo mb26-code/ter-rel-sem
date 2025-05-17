@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+forme,château,nmod,NOUN,0.4457264542579651,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,fraise,appos,NOUN,0.6214956045150757,[],,
+fraise,fraise,nmod,NOUN,0.4661278128623962,"[{""id"": 303869, ""node1"": 16242, ""node2"": 16242, ""type"": 19, ""w"": 52.0}]",r_lemma,52.0
+tartiner,meringue,obj,NOUN,0.5687255859375,[],,
+tartiner,grille,obj,NOUN,0.5545013546943665,[],,
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+pâtisserie,moule,nmod,NOUN,0.56337571144104,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]",r_associated,24.0
+grille,manquer,acl,VERB,0.4866251647472381,[],,
+manquer,balance,obj,NOUN,0.4325729012489319,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+balance,préparer,acl,VERB,0.5021607875823975,[],,
+préparer,construire,advcl,VERB,0.4237021803855896,[],,
+faire,mur,obj,NOUN,0.4235877394676208,"[{""id"": 899180185, ""node1"": 87528, ""node2"": 144936, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+tour,central,amod,ADJ,0.4046018719673157,[],,
+enfiler,brochette,obj,NOUN,0.4563407003879547,[],,
+poser,meringue,obj,NOUN,0.5273445844650269,[],,
+meringue,au-dessus,nmod,ADV,0.5254170298576355,[],,
+meringue,meringue,nmod,NOUN,0.4916424453258514,"[{""id"": 316047, ""node1"": 142350, ""node2"": 142350, ""type"": 19, ""w"": 54.0}]",r_lemma,54.0
+meringue,tour,nmod,NOUN,0.5229166746139526,[],,
+utiliser,bonbon,obj,NOUN,0.5205121636390686,[],,
+jardin,framboise,amod,ADJ,0.5415782928466797,[],,
+jardin,demi,appos,NOUN,0.4564352333545685,[],,
+jardin,pêche,appos,NOUN,0.51191246509552,"[{""id"": 11345709, ""node1"": 139575, ""node2"": 145624, ""type"": 28, ""w"": 38.0}]",r_lieu-1,38.0
+dessus,tour,nmod,NOUN,0.4286299347877502,[],,
+dessus,meringue,nmod,NOUN,0.5487000942230225,[],,
+utiliser,décorer,advcl,VERB,0.4287507832050323,[],,
+décorer,fraise,obj,NOUN,0.5386605858802795,[],,
+fraise,rempart,nmod,NOUN,0.4981660544872284,[],,
+perle,petit,amod,ADJ,0.5190101861953735,[],,
+perle,rose,amod,NOUN,0.4690116643905639,"[{""id"": 3183085, ""node1"": 139228, ""node2"": 145583, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+perle,allée,nmod,NOUN,0.4104334712028503,[],,
+perle,sucre,nmod,NOUN,0.6498129367828369,[],,
+fraise,décorer,acl,VERB,0.5386605858802795,[],,
+décorer,château,obj,NOUN,0.4310264885425567,"[{""id"": 8801119, ""node1"": 44961, ""node2"": 30584, ""type"": 31, ""w"": 5.0}]",r_action_lieu,5.0

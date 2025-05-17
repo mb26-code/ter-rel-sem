@@ -1,0 +1,43 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+Colombe,ingrédient,nmod,NOUN,0.4946388006210327,[],,
+Colombe,sel,appos,NOUN,0.6494690775871277,[],,
+sel,levure,nmod,NOUN,0.6924784183502197,[],,
+Colombe,sucre,appos,NOUN,0.6061547994613647,[],,
+sucre,beurre,nmod,NOUN,0.6973879933357239,[],,
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+oeuf,amande,nmod,NOUN,0.5567412972450256,[],,
+amande,écorce,nmod,NOUN,0.5150928497314453,[],,
+écorce,orange,nmod,NOUN,0.4731665253639221,"[{""id"": 938828860, ""node1"": 44427, ""node2"": 145382, ""type"": 10, ""w"": 25.0}, {""id"": 2213174, ""node1"": 44427, ""node2"": 145382, ""type"": 15, ""w"": 98.0}]",r_lieu,98.0
+amande,lait,nmod,NOUN,0.5926035642623901,"[{""id"": 962115935, ""node1"": 28557, ""node2"": 86296, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+lait,sucre,acl,NOUN,0.6437966823577881,[],,
+sucre,grain,nmod,NOUN,0.6519775986671448,"[{""id"": 1655869, ""node1"": 139481, ""node2"": 57895, ""type"": 0, ""w"": 56.0}, {""id"": 98112976, ""node1"": 139481, ""node2"": 57895, ""type"": 58, ""w"": 26.0}]",r_associated,56.0
+titre,couvercle,nmod,NOUN,0.4697539210319519,[],,
+couvercle,casserole,nmod,NOUN,0.6508210897445679,"[{""id"": 2052952, ""node1"": 89523, ""node2"": 57253, ""type"": 0, ""w"": 118.0}, {""id"": 1602021, ""node1"": 89523, ""node2"": 57253, ""type"": 10, ""w"": 63.0}]",r_associated,118.0
+four,top,nmod,NOUN,0.5501777529716492,"[{""id"": 509203905, ""node1"": 9190, ""node2"": 61057, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+papier,meilleur,amod,ADJ,0.4798659384250641,[],,
+top,papier,nmod,NOUN,0.4000419974327087,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+titre,fondre,acl,VERB,0.4839583337306976,[],,
+fondre,levure,obj,NOUN,0.6163187026977539,[],,
+lait,tiède,amod,ADJ,0.6278550624847412,"[{""id"": 421005986, ""node1"": 86296, ""node2"": 13843, ""type"": 0, ""w"": 2.0}, {""id"": 14800536, ""node1"": 86296, ""node2"": 13843, ""type"": 17, ""w"": 24.0}]",r_carac,24.0
+ajouter,gramme,obj,NOUN,0.4576520025730133,[],,
+gramme,farine,nmod,NOUN,0.6095054149627686,"[{""id"": 775213298, ""node1"": 140383, ""node2"": 127629, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+obtenir,pâte,obj,NOUN,0.6173189282417297,[],,
+ajouter,reste,obj,NOUN,0.454963743686676,[],,
+reste,farine,nmod,NOUN,0.6895829439163208,[],,
+sucre,fin,nmod,NOUN,0.6024554371833801,"[{""id"": 277257, ""node1"": 139481, ""node2"": 144718, ""type"": 17, ""w"": 107.0}]",r_carac,107.0
+peu,lait,nmod,NOUN,0.5830830335617065,[],,
+travailler,pâte,obj,NOUN,0.6185374855995178,"[{""id"": 243714, ""node1"": 69550, ""node2"": 34069, ""type"": 14, ""w"": 61.0}]",r_patient,61.0
+faire,boule,obj,NOUN,0.5590701699256897,[],,
+endroit,tiède,amod,ADJ,0.5316962599754333,"[{""id"": 31865151, ""node1"": 134218, ""node2"": 13843, ""type"": 17, ""w"": 63.0}]",r_carac,63.0
+pâte,min,nmod,NOUN,0.5356557965278625,[],,
+monter,couvrir,advcl,VERB,0.430319607257843,"[{""id"": 54304411, ""node1"": 113767, ""node2"": 119824, ""type"": 0, ""w"": 22.0}, {""id"": 53757493, ""node1"": 113767, ""node2"": 119824, ""type"": 5, ""w"": 98.0}]",r_syn,98.0
+recouvrir,gonflé,advcl,ADJ,0.4233591854572296,[],,
+oeuf,battre,acl,VERB,0.5256416201591492,"[{""id"": 15064344, ""node1"": 116175, ""node2"": 119162, ""type"": 26, ""w"": 34.0}]",r_patient-1,34.0
+recouvrir,mettre,advcl,VERB,0.4560843110084533,[],,
+baisser,temperature,obj,NOUN,0.4114825427532196,[],,
+feuille,papier,nmod,NOUN,0.4767924547195434,"[{""id"": 99562, ""node1"": 37993, ""node2"": 103389, ""type"": 0, ""w"": 667.0}, {""id"": 157352, ""node1"": 37993, ""node2"": 103389, ""type"": 5, ""w"": 169.0}, {""id"": 186644, ""node1"": 37993, ""node2"": 103389, ""type"": 8, ""w"": 134.0}, {""id"": 377011482, ""node1"": 37993, ""node2"": 103389, ""type"": 20, ""w"": 35.0}, {""id"": 246389, ""node1"": 37993, ""node2"": 103389, ""type"": 21, ""w"": 85.0}, {""id"": 665112728, ""node1"": 37993, ""node2"": 103389, ""type"": 174, ""w"": 30.0}, {""id"": 1770446, ""node1"": 37993, ""node2"": 103389, ""type"": 666, ""w"": 7.0}]",r_associated,667.0
+continuer,cuisson,obj,NOUN,0.6962435841560364,"[{""id"": 373014731, ""node1"": 120659, ""node2"": 60056, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+cuisson,min,nmod,NOUN,0.4561061859130859,[],,
+refroidir,servir,advcl,VERB,0.526896059513092,[],,

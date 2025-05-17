@@ -1,0 +1,63 @@
+head,lemma,dep,pos,sim,relation
+gelée,maison,nmod,NOUN,0.5767056941986084,[]
+gelée,pâté,nmod,NOUN,0.6116114258766174,[]
+gelée,ingrédient,nmod,NOUN,0.6242483258247375,[]
+gelée,clou,nmod,NOUN,0.5185461044311523,[]
+clou,oignon,nmod,ADP,0.5263824462890625,[]
+clou,pied,nmod,NOUN,0.4136961996555328,[]
+pied,cochon,nmod,NOUN,0.5004952549934387,"[{""id"": 796854882, ""node1"": 34898, ""node2"": 92847, ""type"": 0, ""w"": 29.0}, {""id"": 9976116, ""node1"": 34898, ""node2"": 92847, ""type"": 10, ""w"": 4.0}]"
+clou,bouquet,nmod,NOUN,0.427130252122879,[]
+bouquet,garni,amod,ADJ,0.4469667077064514,[]
+gelée,marmite,nmod,NOUN,0.6450719237327576,"[{""id"": 370320102, ""node1"": 47620, ""node2"": 146096, ""type"": 777, ""w"": 10.0}]"
+marmite,casserole,nmod,NOUN,0.6540853977203369,"[{""id"": 452078, ""node1"": 146096, ""node2"": 57253, ""type"": 0, ""w"": 58.0}, {""id"": 65614, ""node1"": 146096, ""node2"": 57253, ""type"": 5, ""w"": 118.0}, {""id"": 795485835, ""node1"": 146096, ""node2"": 57253, ""type"": 21, ""w"": 31.0}]"
+casserole,chinois,nmod,ADJ,0.5875259041786194,[]
+chinois,congélateur,nmod,NOUN,0.4946616590023041,[]
+congélateur,réfrigérateur,nmod,NOUN,0.5079828500747681,"[{""id"": 9352994, ""node1"": 46141, ""node2"": 128721, ""type"": 0, ""w"": 71.0}, {""id"": 13623479, ""node1"": 46141, ""node2"": 128721, ""type"": 5, ""w"": 97.0}, {""id"": 1046575776, ""node1"": 46141, ""node2"": 128721, ""type"": 8, ""w"": 20.0}, {""id"": 768808095, ""node1"": 46141, ""node2"": 128721, ""type"": 10, ""w"": 17.0}, {""id"": 3184772, ""node1"": 46141, ""node2"": 128721, ""type"": 20, ""w"": 61.0}, {""id"": 377004769, ""node1"": 46141, ""node2"": 128721, ""type"": 21, ""w"": 31.0}, {""id"": 429506, ""node1"": 46141, ""node2"": 128721, ""type"": 35, ""w"": 70.0}, {""id"": 1879336, ""node1"": 46141, ""node2"": 128721, ""type"": 666, ""w"": 2.0}, {""id"": 3486696, ""node1"": 46141, ""node2"": 128721, ""type"": 777, ""w"": 9.0}]"
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[]
+gelée,nettoyer,acl,VERB,0.5663465261459351,[]
+nettoyer,pied,obj,NOUN,0.4333312213420868,"[{""id"": 376066990, ""node1"": 85286, ""node2"": 34898, ""type"": 31, ""w"": 27.0}]"
+Laver,eau,nmod,NOUN,0.4937404692173004,"[{""id"": 726982273, ""node1"": 7973, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]"
+eau,clair,amod,ADJ,0.5482907891273499,"[{""id"": 3126135, ""node1"": 65012, ""node2"": 4215, ""type"": 0, ""w"": 27.0}, {""id"": 3180293, ""node1"": 65012, ""node2"": 4215, ""type"": 106, ""w"": 1.0}]"
+laisser,viande,obj,NOUN,0.6937377452850342,[]
+viande,reste,acl:relcl,VERB,0.6967485547065735,[]
+piquer,clou,obj,NOUN,0.4359863996505737,"[{""id"": 24985609, ""node1"": 117557, ""node2"": 11651, ""type"": 13, ""w"": 4.0}, {""id"": 376192308, ""node1"": 117557, ""node2"": 11651, ""type"": 16, ""w"": 27.0}]"
+clou,girofle,nmod,NOUN,0.4290643036365509,"[{""id"": 9902807, ""node1"": 11651, ""node2"": 43873, ""type"": 0, ""w"": 55.0}, {""id"": 413873, ""node1"": 11651, ""node2"": 43873, ""type"": 8, ""w"": 111.0}]"
+oignon,éplucher,acl,VERB,0.5758936405181885,"[{""id"": 107838427, ""node1"": 123307, ""node2"": 59879, ""type"": 0, ""w"": 55.0}, {""id"": 15046764, ""node1"": 123307, ""node2"": 59879, ""type"": 26, ""w"": 100.0}, {""id"": 1767180, ""node1"": 123307, ""node2"": 59879, ""type"": 666, ""w"": 5.0}]"
+ingrédient,tout,amod,ADJ,0.580045223236084,[]
+mettre,ingrédient,obj,NOUN,0.5923328399658203,[]
+marmite,gros,amod,ADJ,0.5930060744285583,"[{""id"": 496818441, ""node1"": 146096, ""node2"": 88096, ""type"": 0, ""w"": 27.0}]"
+marmite,litre,nmod,NOUN,0.582723081111908,[]
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]"
+ébullition,réduire,acl,VERB,0.4827861785888672,[]
+feu,doux,amod,ADJ,0.5496628284454346,[]
+cuire,cela,nsubj,PRON,0.7006837725639343,[]
+réussir,gelée,nsubj,NOUN,0.5573757290840149,[]
+tenace,odeur,nsubj,NOUN,0.4365318715572357,"[{""id"": 493692976, ""node1"": 49945, ""node2"": 73427, ""type"": 0, ""w"": 40.0}, {""id"": 142194621, ""node1"": 49945, ""node2"": 73427, ""type"": 23, ""w"": 30.0}, {""id"": 496362209, ""node1"": 49945, ""node2"": 73427, ""type"": 35, ""w"": 31.0}]"
+refroidir,cuillère,obj,NOUN,0.6199912428855896,"[{""id"": 376200180, ""node1"": 126973, ""node2"": 51905, ""type"": 16, ""w"": 27.0}]"
+soupe,bouillon,nmod,NOUN,0.6917941570281982,"[{""id"": 190009, ""node1"": 117152, ""node2"": 146582, ""type"": 0, ""w"": 240.0}, {""id"": 575382, ""node1"": 117152, ""node2"": 146582, ""type"": 5, ""w"": 103.0}, {""id"": 3148407, ""node1"": 117152, ""node2"": 146582, ""type"": 8, ""w"": 76.0}, {""id"": 1018610613, ""node1"": 117152, ""node2"": 146582, ""type"": 9, ""w"": 29.0}, {""id"": 2481443, ""node1"": 117152, ""node2"": 146582, ""type"": 20, ""w"": -59.0}, {""id"": 1690226, ""node1"": 117152, ""node2"": 146582, ""type"": 35, ""w"": 190.0}, {""id"": 1530292, ""node1"": 117152, ""node2"": 146582, ""type"": 666, ""w"": 6.0}]"
+mettre,prélèvement,obj,NOUN,0.428024023771286,[]
+dur,gelée,nsubj,NOUN,0.5158226490020752,[]
+devoir,marmite,nsubj,NOUN,0.5957350730895996,[]
+dur,prélèvement,nsubj,NOUN,0.4014337062835693,[]
+prélèvement,réfrigérateur,nmod,NOUN,0.4870626926422119,[]
+remplir,dur,advcl,ADJ,0.4161566495895386,[]
+remplir,bouteille,obj,NOUN,0.4616363942623138,"[{""id"": 2588368, ""node1"": 95980, ""node2"": 117423, ""type"": 0, ""w"": 61.0}, {""id"": 1589702, ""node1"": 95980, ""node2"": 117423, ""type"": 14, ""w"": 270.0}, {""id"": 169080, ""node1"": 95980, ""node2"": 117423, ""type"": 16, ""w"": 160.0}, {""id"": 436225, ""node1"": 95980, ""node2"": 117423, ""type"": 31, ""w"": 79.0}, {""id"": 985928192, ""node1"": 95980, ""node2"": 117423, ""type"": 666, ""w"": 3.0}]"
+bouteille,gelée,nmod,NOUN,0.555229902267456,[]
+gelée,tiède,amod,ADJ,0.5917946100234985,[]
+gelée,filtrer,acl,VERB,0.5048030018806458,[]
+chinois,retenir,acl,VERB,0.403420627117157,[]
+retenir,morceau,obj,NOUN,0.5127797722816467,[]
+morceau,gras,nmod,NOUN,0.5708472728729248,[]
+froid,bouteille,nsubj,NOUN,0.5417798757553101,[]
+mettre,froid,advcl,ADJ,0.5086445212364197,[]
+mettre,servir,advcl,VERB,0.4629862010478973,[]
+avoir,bouteille,obj,NOUN,0.4394463896751404,[]
+vider,découper,advcl,VERB,0.4308944940567016,[]
+découper,fond,obj,NOUN,0.5139617919921875,[]
+reste,cela,nsubj,PRON,0.438603788614273,[]
+reste,gras,nsubj,NOUN,0.5429971218109131,[]
+vider,reste,advcl,VERB,0.4354871213436126,[]
+vider,aimer,advcl,VERB,0.4043273031711578,[]
+vider,gras,nsubj,NOUN,0.5361496210098267,[]
+vider,bouteille,obj,NOUN,0.4573037028312683,"[{""id"": 2176109, ""node1"": 68460, ""node2"": 117423, ""type"": 0, ""w"": 60.0}, {""id"": 1017675101, ""node1"": 68460, ""node2"": 117423, ""type"": 13, ""w"": 30.0}, {""id"": 207314, ""node1"": 68460, ""node2"": 117423, ""type"": 14, ""w"": 100.0}, {""id"": 376201051, ""node1"": 68460, ""node2"": 117423, ""type"": 16, ""w"": 35.0}, {""id"": 376067512, ""node1"": 68460, ""node2"": 117423, ""type"": 31, ""w"": 26.0}]"
+bouteille,normalement,amod,ADV,0.5134645700454712,[]

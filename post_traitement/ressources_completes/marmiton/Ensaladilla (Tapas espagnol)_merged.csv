@@ -1,0 +1,45 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+sel,poivre,acl,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,pomme,nmod,NOUN,0.6958288550376892,[],,
+poivre,terre,nmod,NOUN,0.6796647906303406,[],,
+terre,oeuf,nmod,NOUN,0.5886920690536499,[],,
+oeuf,thon,nmod,NOUN,0.6093491911888123,[],,
+thon,vinaigre,nmod,NOUN,0.6379120945930481,[],,
+vinaigre,olive,nmod,NOUN,0.6319341659545898,[],,
+olive,noir,amod,ADJ,0.5621392130851746,"[{""id"": 722424118, ""node1"": 238, ""node2"": 64238, ""type"": 0, ""w"": 28.0}, {""id"": 3175057, ""node1"": 238, ""node2"": 64238, ""type"": 106, ""w"": 3.0}, {""id"": 672025994, ""node1"": 238, ""node2"": 64238, ""type"": 666, ""w"": 4.0}]",r_associated,28.0
+vinaigre,mayonnaise,nmod,ADJ,0.6644861102104187,"[{""id"": 376034677, ""node1"": 145443, ""node2"": 111055, ""type"": 51, ""w"": 35.0}]",r_mater>object,35.0
+couteau,économe,nmod,NOUN,0.5018488168716431,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]",r_hypo,76.0
+économe,four,nmod,NOUN,0.6647013425827026,[],,
+four,fourchette,nmod,NOUN,0.6831614375114441,[],,
+économe,cuillère,nmod,NOUN,0.534529447555542,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,couvercle,nmod,NOUN,0.6197326183319092,[],,
+couvercle,saladier,nmod,NOUN,0.6053080558776855,[],,
+saladier,réfrigérateur,nmod,NOUN,0.5889169573783875,[],,
+réfrigérateur,assiette,nmod,NOUN,0.6654803156852722,[],,
+assiette,étape,nmod,NOUN,0.483820229768753,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,couper,acl,VERB,0.5794677734375,"[{""id"": 31839899, ""node1"": 37201, ""node2"": 128828, ""type"": 26, ""w"": 64.0}]",r_patient-1,64.0
+morceau,gros,amod,ADJ,0.4822109341621399,[],,
+morceau,cuire,acl,VERB,0.7618412971496582,[],,
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+oeuf,dur,amod,ADJ,0.5033280849456787,"[{""id"": 238844, ""node1"": 116175, ""node2"": 72731, ""type"": 0, ""w"": 73.0}, {""id"": 1911997, ""node1"": 116175, ""node2"": 72731, ""type"": 17, ""w"": 85.0}, {""id"": 1012355283, ""node1"": 116175, ""node2"": 72731, ""type"": 666, ""w"": 2.0}]",r_carac,85.0
+cube,petit,amod,ADJ,0.5087730884552002,[],,
+olive,cube,nmod,NOUN,0.5836482644081116,[],,
+cube,millimètre,nmod,NOUN,0.4120715260505676,[],,
+pomme,fourchette,nmod,NOUN,0.5937929749488831,[],,
+pomme,ajouter,acl,VERB,0.602749228477478,[],,
+ajouter,oeuf,obj,NOUN,0.5327831506729126,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+morceau,fin,amod,ADJ,0.4833599328994751,[],,
+oeuf,morceau,nmod,NOUN,0.5751516222953796,[],,
+pomme,garder,acl,VERB,0.5902416110038757,[],,
+garder,jaune,obj,NOUN,0.52236008644104,[],,
+cuillère,gros,amod,ADJ,0.5216516256332397,[],,
+ajouter,cuillère,obj,NOUN,0.5465437173843384,[],,
+cuillère,mayonnaise,nmod,NOUN,0.6172544360160828,[],,
+saler,poivrer,advcl,VERB,0.5285379886627197,"[{""id"": 796710265, ""node1"": 15671, ""node2"": 70211, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+disposer,mélange,obj,NOUN,0.5476040840148926,[],,
+assiette,étaler,acl,VERB,0.5539026856422424,[],,
+recouvrir,jaune,obj,NOUN,0.5278933048248291,[],,
+recouvrir,écraser,advcl,VERB,0.4416050612926483,[],,
+écraser,style,obj,NOUN,0.4667904675006866,[],,
