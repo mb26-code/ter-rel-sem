@@ -43,7 +43,7 @@ def select_best_relation(relations, relation_name_map):
     # Des valeurs plus élevées signifient une priorité plus haute
     # Vu que r_associated est souvent donné le poids le plus haut, on la garde 1.0 et augmente les autres
     relation_priority = {
-        # 0: 1.05,      # r_associated - Les concepts associés ont une priorité plus élevée
+        # 0: 1.05,    # r_associated - Les concepts associés ont une priorité plus élevée
         1: 1.05,      # r_raff_sem - Raffinement sémantique vers un usage particulier du terme source
         6: 1.05,      # r_isa - Les relations taxonomiques sont importantes
         8: 1.05,      # r_hypo - Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'
