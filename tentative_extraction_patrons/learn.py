@@ -86,7 +86,7 @@ try:
 
     #########################################################
 
-    chemin_dossier_corpus = os.path.join(".", "corpus")
+    chemin_dossier_corpus = os.path.join("../", "corpus")
     sous_dossiers_corpus = ["wikipedia", "marmiton"]
 
     nlp = spacy.load("fr_core_news_lg")
