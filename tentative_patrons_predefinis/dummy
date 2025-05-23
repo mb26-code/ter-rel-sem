@@ -1,0 +1,44 @@
+patterns = { }
+
+patterns['ingredient_de'] = [
+r"([\w\s\-']+?) est un ingrédient(?: principal)? de ([\w\s\-']+)",
+r"([\w\s\-']+?) entre dans la composition de ([\w\s\-']+)",
+r"([\w\s\-']+?) est utilisé(?:e)? dans ([\w\s\-']+)",
+r"([\w\s\-']+?) (?:entre|entrent) dans la préparation de ([\w\s\-']+)",
+r"([\w\s\-']+?) est nécessaire pour préparer ([\w\s\-']+)",
+r"([\w\s\-']+?) est ajouté(?:e)? à ([\w\s\-']+)",
+r"([\w\s\-']+?) est l'un des ingrédients de ([\w\s\-']+)",
+r"([lL]es [\w\s\-']+?) sont utilisés dans ([\w\s\-']+)",
+r"([lL]e [\w\s\-']+?) est présent dans ([\w\s\-']+)",
+r"([\w\s\-']+?) contient ([\w\s\-']+)",  # l'inverse
+]
+
+patterns['partie_de'] = [
+r"([\w\s\-']+?) fait partie de ([\w\s\-']+)",
+r"([\w\s\-']+?) est une étape de ([\w\s\-']+)",
+r"([\w\s\-']+?) constitue une partie de ([\w\s\-']+)",
+r"([\w\s\-']+?) est inclus(?:e)? dans ([\w\s\-']+)",
+r"([\w\s\-']+?) est l'une des étapes de ([\w\s\-']+)",
+r"([\w\s\-']+?) appartient à ([\w\s\-']+)",
+]
+
+patterns['type_de'] = [
+r"([\w\s\-']+?) est un type de ([\w\s\-']+)",
+r"([\w\s\-']+?) est une variété de ([\w\s\-']+)",
+r"([\w\s\-']+?) est un genre de ([\w\s\-']+)",
+r"([\w\s\-']+?) est une sorte de ([\w\s\-']+)",
+r"([\w\s\-']+?) est une spécialité de ([\w\s\-']+)",
+r"([\w\s\-']+?) est une forme de ([\w\s\-']+)",
+r"([\w\s\-']+?) est une déclinaison de ([\w\s\-']+)",
+r"([\w\s\-']+?) est une recette de ([\w\s\-']+)",
+]
+
+patterns['utilise_pour'] = [
+r"([\w\s\-']+?) est utilisé(?:e)? pour ([\w\s\-']+)",
+r"([\w\s\-']+?) sert à ([\w\s\-']+)",
+r"([\w\s\-']+?) permet de ([\w\s\-']+)",
+r"([\w\s\-']+?) est nécessaire pour ([\w\s\-']+)",
+r"([\w\s\-']+?) est employé(?:e)? pour ([\w\s\-']+)",
+r"([\w\s\-']+?) est utile pour ([\w\s\-']+)",
+r"([\w\s\-']+?) est destiné(?:e)? à ([\w\s\-']+)",
+]
