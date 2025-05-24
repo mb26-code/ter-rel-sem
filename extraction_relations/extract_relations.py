@@ -1,14 +1,25 @@
 #!/usr/bin/env python3
-# extract_from_string.py - Extract semantic relations from an input string
+# extract_from_string.py - Extrait les relations sémantiques d'une chaîne d'entrée
 
 import os
 import sys
-# Fix scipy/numpy compatibility issues at import time
+import warnings
+warnings.filterwarnings('ignore', module='urllib3')
+import os
+from supabase import create_client, Client
+
+url: str = os.environ.get("SUPABASE_URL")
+key: str = os.environ.get("SUPABASE_KEY")
+supabase: Client = create_client(url, key)
+
+print("\n===== EXTRACTION DES RELATIONS SÉMANTIQUES =====")
+
+# Corrige les problèmes de compatibilité scipy/numpy au moment de l'importation
 try:
     import scipy
     import numpy as np
     if not hasattr(scipy.linalg, 'triu'):
-        # Add triu implementation if it's missing
+        # Ajoute l'implémentation de triu si elle est manquante
         from scipy import sparse
         def triu(m, k=0):
             if sparse.issparse(m):
@@ -17,8 +28,8 @@ try:
                 return np.triu(m, k)
         scipy.linalg.triu = triu
 except ImportError as e:
-    print(f"Error importing scipy/numpy: {e}")
-    print("Try installing compatible versions: pip install scipy==1.10.1 numpy==1.24.3")
+    print(f"Erreur lors de l'importation de scipy/numpy : {e}")
+    print("Essayez d'installer des versions compatibles : pip install scipy==1.10.1 numpy==1.24.3")
     sys.exit(1)
 
 import spacy
@@ -36,101 +47,104 @@ import ast
 from tqdm import tqdm
 import logging
 
-# Constants and configuration
+# Constantes et configuration
 BASE_URL = "https://jdm-api.demo.lirmm.fr/v0/relations"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PATH_RELATIONS_TYPES = os.path.join(BASE_DIR, "../post_traitement/relations_types.json") # Liste des relations
 
-# Load relation types
+# Charger les types de relations
 def load_relation_types():
     """
-    Load relation types from JSON file
+    Charger les types de relations depuis un fichier JSON
     """
     try:
         with open(PATH_RELATIONS_TYPES, 'r', encoding='utf-8') as f:
             relation_types = json.load(f)
-            # Create a mapping from id to name
-            # The API response uses 'type' field for the relation type number
+            # Créer une correspondance de l'id vers le nom
+            # La réponse de l'API utilise le champ 'type' pour le numéro du type de relation
             relation_map = {r['id']: r['name'] for r in relation_types}
-            print(f"Successfully loaded {len(relation_map)} relation types")
+            print(f"Types de relations chargés avec succès : {len(relation_map)}")
             return relation_map
     except Exception as e:
-        logging.error(f"Error loading relation types: {e}")
+        logging.error(f"Erreur lors du chargement des types de relations : {e}")
         return {}
 
-# Setup logging
+# Configuration du logging
 logging.basicConfig(
     level=logging.ERROR,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[logging.StreamHandler(sys.stderr)]
 )
 
-# Load spaCy model
+# Charger le modèle spaCy
 try:
     nlp = spacy.load("fr_core_news_lg")
-    print("Successfully loaded the 'fr_core_news_lg' model")
+    print("Modèle 'fr_core_news_lg' chargé avec succès")
 except OSError:
-    print("Error: The 'fr_core_news_lg' model is not installed.")
-    print("Please install it with: python -m spacy download fr_core_news_lg")
+    print("Erreur : Le modèle 'fr_core_news_lg' n'est pas installé.")
+    print("Veuillez l'installer avec : python -m spacy download fr_core_news_lg")
     sys.exit(1)
 
-# List of relations that are capable of providing interesting entities
+# Liste des relations capables de fournir des entités intéressantes
 INTERESTING_DEPS = {
-    # verbal relations: subject → verb, verb → object
+    # relations verbales : sujet → verbe, verbe → objet
     "nsubj", "nsubj:pass", "obj", "iobj",
-    # noun modifiers: noun → noun (prep-headed), noun → adjective
-    "nmod", "obl", "amod",    # e.g. "recette de cuisine", "bouillon aromatique"
-    # multi-word names & appositions
+    # modificateurs de noms : nom → nom (dirigé par une préposition), nom → adjectif
+    "nmod", "obl", "amod",    # ex. "recette de cuisine", "bouillon aromatique"
+    # noms composés et appositions
     "compound", "flat:name", "appos",
-    # clausal modifiers (relative/participial clauses)
+    # modificateurs clausaux (propositions relatives/participiales)
     "acl", "acl:relcl", "advcl",
 }
 
-# Words to create a vector representing gastronomy (our domain of interest)
+# Mots pour créer un vecteur représentant la gastronomie (notre domaine d'intérêt)
 pivots = [
-    # domain & practice
+    # domaine et pratique
     "cuisine", "gastronomie", "cuisinier",
 
-    # recipe structure
+    # structure de recette
     "recette", "ingrédient",
 
-    # cooking techniques
+    # techniques de cuisson
     "cuisson", "mijoter", "bouillir", "rôtir", "griller",
     "sauter", "frire", "braiser", "cuire",
 
-    # utensils & containers
+    # ustensiles et contenants
     "marmite", "casserole", "poêle", "four", "ustensile",
 
-    # spices & seasonings
+    # épices et assaisonnements
     "épice", "condiment", "assaisonnement", "aromate", "bouquet_garni",
 
-    # food categories
+    # catégories d'aliments
     "viande", "poisson", "légume", "fruit", "fruit_de_mer",
     "produit_laitier", "farine", "sucre", "sel", "poivre",
 
-    # dish types
+    # types de plats
     "entrée", "plat_principal", "accompagnement", "dessert",
     "apéritif", "sauce",
 
-    # nutrition & dietetics
+    # nutrition et diététique
     "nutrition", "calorie", "diététique"
 ]
 
-# Similarity threshold with the "gastronomy" vector
+# Seuil de similarité avec le vecteur "gastronomie"
 THRESHOLD = 0.5
+
+# Limite de mots pour le modèle Word2Vec
+LIMIT_WORD2VEC = 50000  # Limite pour éviter de charger trop de mots
 
 @dataclass
 class TokenAnnotation:
-    text: str           # surface form
-    lemma: str          # canonical form
-    pos: str            # part-of-speech tag
-    dep: str            # dependency label
-    head: int           # index of the head token in its sentence
-    sent_id: Optional[int] = None  # optional: which sentence
+    text: str           # forme de surface
+    lemma: str          # forme canonique
+    pos: str            # étiquette morpho-syntaxique
+    dep: str            # étiquette de dépendance
+    head: int           # index du token tête dans sa phrase
+    sent_id: Optional[int] = None  # optionnel : quelle phrase
 
 def annotate(text: str) -> List[List[TokenAnnotation]]:
     """
-    Annotate text with spaCy for linguistic analysis
+    Annoter le texte avec spaCy pour l'analyse linguistique
     """
     doc = nlp(text)
 
@@ -143,7 +157,7 @@ def annotate(text: str) -> List[List[TokenAnnotation]]:
                 lemma=token.lemma_,
                 pos=token.pos_,
                 dep=token.dep_,
-                head=token.head.i - sent.start,  # index *within* this sentence
+                head=token.head.i - sent.start,  # index *dans* cette phrase
                 sent_id=sent_id
             ))
         all_sents.append(tokens)
@@ -151,7 +165,7 @@ def annotate(text: str) -> List[List[TokenAnnotation]]:
 
 def extract_pairs(tokens):
     """
-    Extract interesting pairs based on dependency relations
+    Extraire les paires intéressantes basées sur les relations de dépendance
     """
     pairs = []
     for idx, tok in enumerate(tokens):
@@ -162,31 +176,31 @@ def extract_pairs(tokens):
             pairs.append((head.lemma, tok.lemma, tok.dep, tok.pos))
     return pairs
 
-def load_word2vec_model(model_path='cc.fr.300.vec.gz', limit=100000):
+def load_word2vec_model(model_path='cc.fr.300.vec.gz', limit=LIMIT_WORD2VEC):
     """
-    Load the Word2Vec model
+    Charger le modèle Word2Vec
     """
     try:
         model_path = os.path.join(BASE_DIR, model_path)
         if not os.path.exists(model_path):
-            print(f"Error: Word2Vec model not found at {model_path}")
-            print("Please download it with: wget -c \"https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.fr.300.vec.gz\"")
+            print(f"Erreur : Modèle Word2Vec non trouvé à {model_path}")
+            print("Veuillez le télécharger avec : wget -c \"https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.fr.300.vec.gz\"")
             return None
             
-        print(f"Loading Word2Vec model from {model_path}...")
+        print(f"Chargement du modèle Word2Vec depuis {model_path}...")
         model = KeyedVectors.load_word2vec_format(model_path, binary=False, limit=limit)
-        print(f"Successfully loaded Word2Vec model with {len(model.key_to_index)} terms")
+        print(f"Modèle Word2Vec chargé avec succès avec {len(model.key_to_index)} termes")
         return model
     except Exception as e:
-        print(f"Error loading Word2Vec model: {e}")
+        print(f"Erreur lors du chargement du modèle Word2Vec : {e}")
         return None
 
 def pair_vector(model, h, lemma):
-    """Average the two word vectors."""
+    """Moyenne des deux vecteurs de mots."""
     return (model[h] + model[lemma]) / 2
 
 def cosine_sim(a: np.ndarray, b: np.ndarray) -> float:
-    """Compute cosine similarity between vectors."""
+    """Calculer la similarité cosinus entre vecteurs."""
     return float(a.dot(b) / (norm(a) * norm(b)))
 
 def select_best_relation(relations, relation_types):
@@ -257,54 +271,54 @@ def select_best_relation(relations, relation_types):
 
 def process_text(text, model=None, relation_types=None):
     """
-    Process input text and extract relations
+    Traiter le texte d'entrée et extraire les relations
     """
-    # Annotate the text
+    # Annoter le texte
     sents = annotate(text)
     
-    # Extract pairs from sentences
+    # Extraire les paires des phrases
     all_pairs = []
     for sent in sents:
         p = extract_pairs(sent)
         all_pairs.append(p)
 
-    # Flatten all_pairs for easier processing and printing
+    # Aplatir all_pairs pour un traitement et un affichage plus faciles
     flat_pairs = []
     for pairs in all_pairs:
         flat_pairs.extend(pairs)
     
-    print(f"Extracted {len(flat_pairs)} linguistic pairs")
+    print(f"Extrait {len(flat_pairs)} paires linguistiques")
     
-    # If model is available, filter pairs by similarity to domain
+    # Si le modèle est disponible, filtrer les paires par similarité au domaine
     filtered = []
     
     if model is not None:
-        # Compute domain centroid
+        # Calculer le centroïde du domaine
         pivot_vecs = [model[p] for p in pivots if p in model]
         if not pivot_vecs:
-            raise ValueError("None of your pivots were in the model!")
+            raise ValueError("Aucun de vos pivots n'était dans le modèle !")
         domain_centroid = np.mean(pivot_vecs, axis=0)
         
-        # Filter pairs based on similarity
+        # Filtrer les paires basées sur la similarité
         for h, lemma, dep, pos in flat_pairs:
             if h in model and lemma in model:
                 vec = pair_vector(model, h, lemma)
                 sim = cosine_sim(domain_centroid, vec)
                 filtered.append((h, lemma, dep, pos, sim))
         
-        print(f"Filtered to {len(filtered)} pairs with words in model")
+        print(f"Filtré à {len(filtered)} paires avec des mots dans le modèle")
     
-    # Query JDM API for relations
+    # Interroger l'API JDM pour les relations
     results = []
     
     if model is not None:
         pairs_to_query = [(h, lemma) for h, lemma, dep, pos, sim in filtered if sim >= THRESHOLD]
-        print(f"Querying JDM API for {len(pairs_to_query)} pairs (similarity ≥ {THRESHOLD})")
+        print(f"Interrogation de l'API JDM pour {len(pairs_to_query)} paires (similarité ≥ {THRESHOLD})")
     else:
         pairs_to_query = [(h, lemma) for h, lemma, _, _ in flat_pairs]
-        print(f"Querying JDM API for all {len(pairs_to_query)} pairs (no filtering)")
+        print(f"Interrogation de l'API JDM pour toutes les {len(pairs_to_query)} paires (pas de filtrage)")
     
-    # Remove duplicates before querying API
+    # Supprimer les doublons avant d'interroger l'API
     seen_pairs = set()
     unique_pairs = []
     for pair in pairs_to_query:
@@ -312,30 +326,30 @@ def process_text(text, model=None, relation_types=None):
             unique_pairs.append(pair)
             seen_pairs.add(pair)
     
-    # Query API for each unique pair
+    # Interroger l'API pour chaque paire unique
     pair_to_dep_pos_sim = {}
     if model is not None:
-        # Create a lookup dictionary for dependency, POS, and similarity
+        # Créer un dictionnaire de recherche pour la dépendance, POS et similarité
         for h, lemma, dep, pos, sim in filtered:
             pair_to_dep_pos_sim[(h, lemma)] = (dep, pos, sim)
     else:
-        # If no model, use just dependency and POS
+        # Si pas de modèle, utiliser seulement la dépendance et POS
         for h, lemma, dep, pos in flat_pairs:
             if (h, lemma) not in pair_to_dep_pos_sim:
                 pair_to_dep_pos_sim[(h, lemma)] = (dep, pos, 0.0)
     
     all_pairs_with_info = []
     
-    for h, lemma in tqdm(unique_pairs, desc="Querying JDM API"):
+    for h, lemma in tqdm(unique_pairs, desc="Interrogation de l'API JDM"):
         try:
             resp = requests.get(f"{BASE_URL}/from/{h}/to/{lemma}")
             resp.raise_for_status()
             rels = resp.json().get("relations", [])
             
-            # Get dependency, POS, and similarity
+            # Obtenir la dépendance, POS et similarité
             dep, pos, sim = pair_to_dep_pos_sim.get((h, lemma), ('', '', 0.0))
             
-            # Add to results regardless of whether there are relations or not
+            # Ajouter aux résultats qu'il y ait des relations ou non
             pair_info = {
                 "head": h,
                 "lemma": lemma,
@@ -346,7 +360,7 @@ def process_text(text, model=None, relation_types=None):
             }
             all_pairs_with_info.append(pair_info)
             
-            # Also add to the relations results if there are relations
+            # Ajouter aussi aux résultats des relations s'il y a des relations
             if rels:
                 results.append({
                     "node1": h,
@@ -354,24 +368,24 @@ def process_text(text, model=None, relation_types=None):
                     "relations": rels,
                 })
         except Exception as e:
-            logging.error(f"Error processing pair ({h}, {lemma}): {e}")
+            logging.error(f"Erreur lors du traitement de la paire ({h}, {lemma}) : {e}")
     
     return results, all_pairs_with_info
 
 def main():
     global THRESHOLD
     
-    parser = argparse.ArgumentParser(description='Extract semantic relations from an input text.')
-    parser.add_argument('--text', '-t', type=str, help='Text to process')
-    parser.add_argument('--file', '-f', type=str, help='File containing text to process')
-    parser.add_argument('--no-model', action='store_true', help='Skip Word2Vec filtering (faster but less accurate)')
-    parser.add_argument('--threshold', type=float, default=THRESHOLD, help=f'Similarity threshold (default: {THRESHOLD})')
-    parser.add_argument('--output', '-o', type=str, help='Output CSV file path')
-    parser.add_argument('--output-dir', '-d', default='output', type=str, help='Output directory for CSV files (filename derived from input file)')
+    parser = argparse.ArgumentParser(description='Extraire les relations sémantiques d\'un texte d\'entrée.')
+    parser.add_argument('--text', '-t', type=str, help='Texte à traiter')
+    parser.add_argument('--file', '-f', type=str, help='Fichier contenant le texte à traiter')
+    parser.add_argument('--no-model', action='store_true', help='Ignorer le filtrage Word2Vec (plus rapide mais moins précis)')
+    parser.add_argument('--threshold', type=float, default=THRESHOLD, help=f'Seuil de similarité (défaut : {THRESHOLD})')
+    parser.add_argument('--output', '-o', type=str, help='Chemin du fichier CSV de sortie')
+    parser.add_argument('--output-dir', '-d', default='output', type=str, help='Répertoire de sortie pour les fichiers CSV (nom de fichier dérivé du fichier d\'entrée)')
     
     args = parser.parse_args()
     
-    # Get input text
+    # Obtenir le texte d'entrée
     input_file_name = None
     if args.text:
         input_text = args.text
@@ -382,14 +396,14 @@ def main():
                 input_text = f.read()
             input_file_name = os.path.basename(args.file).replace('.txt', '')
         except Exception as e:
-            print(f"Error reading file: {e}")
+            print(f"Erreur lors de la lecture du fichier : {e}")
             return
     else:
-        print("Please provide input text with --text or --file")
+        print("Veuillez fournir un texte d'entrée avec --text ou --file")
         parser.print_help()
         return
     
-    # Determine output file path
+    # Déterminer le chemin du fichier de sortie
     output_file = None
     if args.output:
         output_file = args.output
@@ -398,39 +412,39 @@ def main():
             os.makedirs(args.output_dir)
         output_file = os.path.join(args.output_dir, f"{input_file_name}.csv")
     else:
-        print("No output specified. Results will only be printed to console.")
-        print("Use --output or --output-dir to save results to a CSV file.")
+        print("Aucune sortie spécifiée. Les résultats ne seront affichés que dans la console.")
+        print("Utilisez --output ou --output-dir pour sauvegarder les résultats dans un fichier CSV.")
 
-    # Load relation types
+    # Charger les types de relations
     relation_types = load_relation_types()
     
-    # Load model if needed
+    # Charger le modèle si nécessaire
     model = None
     if not args.no_model:
         model = load_word2vec_model()
         if model is None:
-            print("Warning: Running without Word2Vec filtering")
+            print("Avertissement : Exécution sans filtrage Word2Vec")
 
-    # Update threshold if specified
+    # Mettre à jour le seuil si spécifié
     if args.threshold != THRESHOLD:
         THRESHOLD = args.threshold
     
-    # Process text
+    # Traiter le texte
     results, all_pairs_with_info = process_text(input_text, model, relation_types)
     
-    # Apply the calcul_max_w logic to select the best relation for each pair
+    # Appliquer la logique calcul_max_w pour sélectionner la meilleure relation pour chaque paire
     for pair in all_pairs_with_info:
         relations = pair.get('relations', [])
         relation_name, weight = select_best_relation(relations, relation_types)
         pair['relation_name'] = relation_name
         pair['w'] = weight
     
-    # Write results to CSV file if output is specified
+    # Écrire les résultats dans un fichier CSV si la sortie est spécifiée
     if output_file:
         os.makedirs(os.path.dirname(os.path.abspath(output_file)), exist_ok=True)
         
         with open(output_file, 'w', encoding='utf-8', newline='') as csvfile:
-            # Write the CSV data
+            # Écrire les données CSV
             fieldnames = ['head', 'lemma', 'dep', 'pos', 'sim', 'relations', 'relation_name', 'w']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
@@ -447,29 +461,26 @@ def main():
                     'w': pair['w']
                 })
         
-        print(f"\nRelations saved to {output_file}")
+        print(f"\nRelations sauvegardées dans {output_file}")
     
-    # Print results
+    # Afficher les résultats
     if results:
-        print("\n===== SEMANTIC RELATIONS =====")
-        print(f"Found {len(results)} pairs with relations out of {len(all_pairs_with_info)} total pairs")
+        print("\n===== RELATIONS SÉMANTIQUES =====")
+        print(f"Trouvé {len(results)} paires avec relations sur {len(all_pairs_with_info)} paires totales")
         
-        # Print only the best relation for each pair (limited to 10 to avoid excessive output)
+        # Afficher seulement la meilleure relation pour chaque paire (limité à 10 pour éviter une sortie excessive)
         pairs_with_relations = [p for p in all_pairs_with_info if p.get('relations')]
-        for i, pair in enumerate(pairs_with_relations[:10]):
+        for i, pair in enumerate(pairs_with_relations):
             head = pair['head']
             lemma = pair['lemma']
             relation_name = pair['relation_name']
             weight = pair['w']
-            sim = pair['sim']
             
-            if relation_name:  # Only print if a relation was found
-                print(f"{i+1}. {head} → {lemma}: {relation_name} (weight: {weight}, sim: {sim:.4f})")
+            if relation_name:  # Afficher seulement si une relation a été trouvée
+                print(f"{i+1}. {head} → {relation_name} → {lemma}  (poids : {weight})")
         
-        if len(results) > 10:
-            print(f"\n... and {len(results) - 10} more pairs with relations")
     else:
-        print("\nNo semantic relations found.")
+        print("\nAucune relation sémantique trouvée.")
 
 if __name__ == "__main__":
     main()
