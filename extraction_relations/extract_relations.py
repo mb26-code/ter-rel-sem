@@ -1,56 +1,39 @@
-#!/usr/bin/env python3
-# extract_from_string.py - Extrait les relations sémantiques d'une chaîne d'entrée
+print("\n===== EXTRACTION DES RELATIONS SÉMANTIQUES =====")
+
+import warnings
+warnings.filterwarnings('ignore', module='urllib3')
 
 import os
 import sys
-import warnings
-warnings.filterwarnings('ignore', module='urllib3')
-import os
+from dotenv import load_dotenv
 from supabase import create_client, Client
-
-url: str = os.environ.get("SUPABASE_URL")
-key: str = os.environ.get("SUPABASE_KEY")
-supabase: Client = create_client(url, key)
-
-print("\n===== EXTRACTION DES RELATIONS SÉMANTIQUES =====")
-
-# Corrige les problèmes de compatibilité scipy/numpy au moment de l'importation
-try:
-    import scipy
-    import numpy as np
-    if not hasattr(scipy.linalg, 'triu'):
-        # Ajoute l'implémentation de triu si elle est manquante
-        from scipy import sparse
-        def triu(m, k=0):
-            if sparse.issparse(m):
-                return sparse.triu(m, k)
-            else:
-                return np.triu(m, k)
-        scipy.linalg.triu = triu
-except ImportError as e:
-    print(f"Erreur lors de l'importation de scipy/numpy : {e}")
-    print("Essayez d'installer des versions compatibles : pip install scipy==1.10.1 numpy==1.24.3")
-    sys.exit(1)
-
 import spacy
 import numpy as np
 from gensim.models import KeyedVectors
 from numpy.linalg import norm
 from dataclasses import dataclass
-from typing import List, Optional, Tuple, Dict, Any
-import requests
+from typing import List, Optional
 import json
 import string
 import argparse
 import csv
-import ast
 from tqdm import tqdm
 import logging
+import requests
 
-# Constantes et configuration
-BASE_URL = "https://jdm-api.demo.lirmm.fr/v0/relations"
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-PATH_RELATIONS_TYPES = os.path.join(BASE_DIR, "../post_traitement/relations_types.json") # Liste des relations
+# Import configurations
+from configs import (
+    BASE_JDM_URL, BASE_DIR, PATH_RELATIONS_TYPES, SPACY_MODEL,
+    WORD2VEC_MODEL_PATH, LIMIT_WORD2VEC, THRESHOLD, INTERESTING_DEPS, 
+    PIVOTS, RELATION_PRIORITY, DEFAULT_RELATION_PRIORITY, LOGGING_CONFIG, Colors
+)
+
+# Load environment variables from .env file
+load_dotenv()
+
+url: str = os.getenv("SUPABASE_URL")
+key: str = os.getenv("SUPABASE_KEY")
+supabase: Client = create_client(url, key)
 
 # Charger les types de relations
 def load_relation_types():
@@ -70,68 +53,16 @@ def load_relation_types():
         return {}
 
 # Configuration du logging
-logging.basicConfig(
-    level=logging.ERROR,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[logging.StreamHandler(sys.stderr)]
-)
+logging.basicConfig(**LOGGING_CONFIG)
 
 # Charger le modèle spaCy
 try:
-    nlp = spacy.load("fr_core_news_lg")
-    print("Modèle 'fr_core_news_lg' chargé avec succès")
+    nlp = spacy.load(SPACY_MODEL)
+    print(f"Modèle '{SPACY_MODEL}' chargé avec succès")
 except OSError:
-    print("Erreur : Le modèle 'fr_core_news_lg' n'est pas installé.")
-    print("Veuillez l'installer avec : python -m spacy download fr_core_news_lg")
+    print(f"Erreur : Le modèle '{SPACY_MODEL}' n'est pas installé.")
+    print(f"Veuillez l'installer avec : python -m spacy download {SPACY_MODEL}")
     sys.exit(1)
-
-# Liste des relations capables de fournir des entités intéressantes
-INTERESTING_DEPS = {
-    # relations verbales : sujet → verbe, verbe → objet
-    "nsubj", "nsubj:pass", "obj", "iobj",
-    # modificateurs de noms : nom → nom (dirigé par une préposition), nom → adjectif
-    "nmod", "obl", "amod",    # ex. "recette de cuisine", "bouillon aromatique"
-    # noms composés et appositions
-    "compound", "flat:name", "appos",
-    # modificateurs clausaux (propositions relatives/participiales)
-    "acl", "acl:relcl", "advcl",
-}
-
-# Mots pour créer un vecteur représentant la gastronomie (notre domaine d'intérêt)
-pivots = [
-    # domaine et pratique
-    "cuisine", "gastronomie", "cuisinier",
-
-    # structure de recette
-    "recette", "ingrédient",
-
-    # techniques de cuisson
-    "cuisson", "mijoter", "bouillir", "rôtir", "griller",
-    "sauter", "frire", "braiser", "cuire",
-
-    # ustensiles et contenants
-    "marmite", "casserole", "poêle", "four", "ustensile",
-
-    # épices et assaisonnements
-    "épice", "condiment", "assaisonnement", "aromate", "bouquet_garni",
-
-    # catégories d'aliments
-    "viande", "poisson", "légume", "fruit", "fruit_de_mer",
-    "produit_laitier", "farine", "sucre", "sel", "poivre",
-
-    # types de plats
-    "entrée", "plat_principal", "accompagnement", "dessert",
-    "apéritif", "sauce",
-
-    # nutrition et diététique
-    "nutrition", "calorie", "diététique"
-]
-
-# Seuil de similarité avec le vecteur "gastronomie"
-THRESHOLD = 0.5
-
-# Limite de mots pour le modèle Word2Vec
-LIMIT_WORD2VEC = 50000  # Limite pour éviter de charger trop de mots
 
 @dataclass
 class TokenAnnotation:
@@ -176,7 +107,7 @@ def extract_pairs(tokens):
             pairs.append((head.lemma, tok.lemma, tok.dep, tok.pos))
     return pairs
 
-def load_word2vec_model(model_path='cc.fr.300.vec.gz', limit=LIMIT_WORD2VEC):
+def load_word2vec_model(model_path=WORD2VEC_MODEL_PATH, limit=LIMIT_WORD2VEC):
     """
     Charger le modèle Word2Vec
     """
@@ -203,7 +134,57 @@ def cosine_sim(a: np.ndarray, b: np.ndarray) -> float:
     """Calculer la similarité cosinus entre vecteurs."""
     return float(a.dot(b) / (norm(a) * norm(b)))
 
-def select_best_relation(relations, relation_types):
+def batch_query_database(pairs):
+    """
+    Requête par lots pour optimiser les accès à la base de données (lecture seule)
+    """
+    results = {}
+    
+    # Créer une requête avec plusieurs conditions OR
+    if not pairs:
+        return results
+    
+    try:
+        # Pour l'instant, nous faisons des requêtes individuelles
+        # car Supabase ne supporte pas facilement les requêtes OR complexes avec des tuples
+        for node1, node2 in pairs:
+            response = supabase.table('semantic_relations').select('*')\
+                .eq('node1', node1)\
+                .eq('node2', node2)\
+                .limit(1)\
+                .execute()
+            
+            if response.data:
+                results[(node1, node2)] = response.data[0]
+    except Exception as e:
+        logging.error(f"Erreur lors de la requête par lot : {e}")
+    
+    return results
+
+def query_jdm_api(head, lemma):
+    """
+    Interroge l'API JdM pour récupérer les relations entre deux termes.
+    
+    Args:
+        head (str): Premier terme de la paire
+        lemma (str): Deuxième terme de la paire
+    
+    Returns:
+        list: Liste des relations ou liste vide en cas d'erreur
+    """
+    try:
+        resp = requests.get(f"{BASE_JDM_URL}/from/{head}/to/{lemma}")
+        resp.raise_for_status()
+        relations = resp.json().get("relations", [])
+        return relations
+    except requests.exceptions.RequestException as e:
+        logging.error(f"Erreur lors de l'appel API JdM pour {head} -> {lemma}: {e}")
+        return []
+    except Exception as e:
+        logging.error(f"Erreur inattendue lors de l'appel API JdM pour {head} -> {lemma}: {e}")
+        return []
+
+def select_best_jdm_relation(relations, relation_types):
     """
     Sélectionne la meilleure relation à partir d'une liste de relations.
     Adapted from calcul_max_w.py
@@ -227,22 +208,10 @@ def select_best_relation(relations, relation_types):
         return relation_name, str(weight)
     
     # Définit un multiplicateur de priorité pour différents types de relations
-    relation_priority = {
-        1: 1.05,      # r_raff_sem - Raffinement sémantique vers un usage particulier du terme source
-        6: 1.05,      # r_isa - Les relations taxonomiques sont importantes
-        8: 1.05,      # r_hypo - Hyponymes
-        9: 1.05,      # r_has_part - Relations partie-tout
-        10: 1.05,     # r_holo - Holonymes
-        16: 1.05,     # r_instr - Relation d'instrument
-        17: 1.05,     # r_carac - Relations caractéristiques
-        75: 1.05,     # r_accomp - Est souvent accompagné de
-        15: 1.05,     # r_lieu - Relations de lieu
-        53: 1.05,     # r_make - Productions
-        67: 1.05      # r_similar - Similarités
-    }
+    relation_priority = RELATION_PRIORITY
     
     # Priorité par défaut
-    default_priority = 1.0
+    default_priority = DEFAULT_RELATION_PRIORITY
     
     # Calcule un score pour chaque relation
     best_score = float('-inf')
@@ -269,9 +238,60 @@ def select_best_relation(relations, relation_types):
     
     return relation_name, str(best_weight)
 
+def select_best_relation(db_entry):
+    """
+    Sélectionne la meilleure relation entre best_relation et new_relation.
+    
+    Args:
+        db_entry (dict): Entrée de la base de données contenant best_relation, best_relation_w, 
+                        new_relation, new_relation_w
+    
+    Returns:
+        tuple: (relation_name, weight)
+    """
+    if not db_entry:
+        return '', ''
+    
+    # Récupérer les valeurs de la base de données
+    best_relation = db_entry.get('best_relation', '') or ''
+    best_relation_w = db_entry.get('best_relation_w')
+    new_relation = db_entry.get('new_relation', '') or ''
+    new_relation_w = db_entry.get('new_relation_w')
+    
+    # Convertir les poids en float si ils existent
+    best_w = float(best_relation_w) if best_relation_w is not None else None
+    new_w = float(new_relation_w) if new_relation_w is not None else None
+    
+    # Si aucune relation n'est disponible
+    if not best_relation and not new_relation:
+        return '', ''
+    
+    # Si seulement best_relation existe
+    if best_relation and not new_relation:
+        return best_relation, str(best_w) if best_w is not None else ''
+    
+    # Si seulement new_relation existe
+    if new_relation and not best_relation:
+        return new_relation, str(new_w) if new_w is not None else ''
+    
+    # Si les deux relations existent, prendre celle avec le poids le plus élevé
+    if best_relation and new_relation and best_w is not None and new_w is not None:
+        if new_w > best_w:
+            print(f"Choix de new_relation: {new_relation} (poids: {new_w}) > best_relation: {best_relation} (poids: {best_w})")
+            return new_relation, str(new_w)
+        else:
+            print(f"Choix de best_relation: {best_relation} (poids: {best_w}) >= new_relation: {new_relation} (poids: {new_w})")
+            return best_relation, str(best_w)
+    
+    # Fallback: retourner best_relation s'il existe
+    if best_relation:
+        return best_relation, str(best_w) if best_w is not None else ''
+    
+    return new_relation, str(new_w) if new_w is not None else ''
+
 def process_text(text, model=None, relation_types=None):
     """
-    Traiter le texte d'entrée et extraire les relations
+    Traiter le texte d'entrée et extraire les relations (lecture seule)
     """
     # Annoter le texte
     sents = annotate(text)
@@ -294,7 +314,7 @@ def process_text(text, model=None, relation_types=None):
     
     if model is not None:
         # Calculer le centroïde du domaine
-        pivot_vecs = [model[p] for p in pivots if p in model]
+        pivot_vecs = [model[p] for p in PIVOTS if p in model]
         if not pivot_vecs:
             raise ValueError("Aucun de vos pivots n'était dans le modèle !")
         domain_centroid = np.mean(pivot_vecs, axis=0)
@@ -308,17 +328,17 @@ def process_text(text, model=None, relation_types=None):
         
         print(f"Filtré à {len(filtered)} paires avec des mots dans le modèle")
     
-    # Interroger l'API JDM pour les relations
+    # Interroger la base de données Supabase pour les relations
     results = []
     
     if model is not None:
         pairs_to_query = [(h, lemma) for h, lemma, dep, pos, sim in filtered if sim >= THRESHOLD]
-        print(f"Interrogation de l'API JDM pour {len(pairs_to_query)} paires (similarité ≥ {THRESHOLD})")
+        print(f"Interrogation de la base de données pour {len(pairs_to_query)} paires (similarité ≥ {THRESHOLD})")
     else:
         pairs_to_query = [(h, lemma) for h, lemma, _, _ in flat_pairs]
-        print(f"Interrogation de l'API JDM pour toutes les {len(pairs_to_query)} paires (pas de filtrage)")
+        print(f"Interrogation de la base de données pour toutes les {len(pairs_to_query)} paires (pas de filtrage)")
     
-    # Supprimer les doublons avant d'interroger l'API
+    # Supprimer les doublons avant d'interroger la base
     seen_pairs = set()
     unique_pairs = []
     for pair in pairs_to_query:
@@ -326,10 +346,9 @@ def process_text(text, model=None, relation_types=None):
             unique_pairs.append(pair)
             seen_pairs.add(pair)
     
-    # Interroger l'API pour chaque paire unique
+    # Créer un dictionnaire de recherche pour la dépendance, POS et similarité
     pair_to_dep_pos_sim = {}
     if model is not None:
-        # Créer un dictionnaire de recherche pour la dépendance, POS et similarité
         for h, lemma, dep, pos, sim in filtered:
             pair_to_dep_pos_sim[(h, lemma)] = (dep, pos, sim)
     else:
@@ -340,14 +359,96 @@ def process_text(text, model=None, relation_types=None):
     
     all_pairs_with_info = []
     
-    for h, lemma in tqdm(unique_pairs, desc="Interrogation de l'API JDM"):
+    # Compteurs pour les statistiques
+    db_found_count = 0
+    jdm_found_count = 0
+    no_relation_count = 0
+    
+    # Listes pour tracker les paires par source
+    db_found_pairs = []
+    jdm_found_pairs = []
+    no_relation_pairs = []
+    
+    for h, lemma in tqdm(unique_pairs, desc="Interrogation de la base de données"):
         try:
-            resp = requests.get(f"{BASE_URL}/from/{h}/to/{lemma}")
-            resp.raise_for_status()
-            rels = resp.json().get("relations", [])
+            # Interroger Supabase pour cette paire
+            response = supabase.table('semantic_relations').select('*').eq('node1', h).eq('node2', lemma).execute()
             
             # Obtenir la dépendance, POS et similarité
             dep, pos, sim = pair_to_dep_pos_sim.get((h, lemma), ('', '', 0.0))
+            
+            # Traiter les résultats de la base de données
+            rels = []
+            best_relation = ""
+            best_relation_w = ""
+            new_relation = ""
+            new_relation_w = ""
+            source = ""  # Pour tracker la source de la relation
+            
+            if response.data:
+                # Si on trouve une entrée existante, récupérer les relations
+                db_entry = response.data[0]
+                if db_entry.get('relations'):
+                    rels = db_entry['relations'] if isinstance(db_entry['relations'], list) else []
+                
+                # Récupérer new_relation et new_relation_w depuis la base de données
+                new_relation = db_entry.get('new_relation', '') or ''
+                new_relation_w = db_entry.get('new_relation_w', '') or ''
+                
+                # Récupérer les valeurs originales de la base de données pour le CSV
+                original_best_relation = db_entry.get('best_relation', '') or ''
+                original_best_relation_w = db_entry.get('best_relation_w', '') or ''
+                
+                # Calculer la meilleure relation seulement pour l'affichage console
+                calculated_best_relation, calculated_best_relation_w = select_best_relation(db_entry)
+                
+                if calculated_best_relation:
+                    source = "database"
+                    db_found_count += 1
+                    db_found_pairs.append((h, lemma, calculated_best_relation, calculated_best_relation_w))
+                    print(f"✓ Base: {h} → {calculated_best_relation} → {lemma} (poids: {calculated_best_relation_w})")
+                    # Utiliser les valeurs calculées pour l'affichage
+                    best_relation = calculated_best_relation
+                    best_relation_w = calculated_best_relation_w
+                else:
+                    source = "database_no_relation"
+                    no_relation_count += 1
+                    no_relation_pairs.append((h, lemma, "database"))
+                    print(f"✗ Base: {h} → {lemma} (entrée trouvée mais aucune relation)")
+                    best_relation = ""
+                    best_relation_w = ""
+            else:
+                # Si la paire n'existe pas dans la base, interroger l'API JdM
+                print(f"? Paire non trouvée dans la base: {h} → {lemma}. Interrogation de l'API JdM...")
+                
+                # Initialiser new_relation et new_relation_w comme vides pour les données JdM
+                new_relation = ""
+                new_relation_w = ""
+                
+                # Pour JdM, pas de valeurs originales de base de données
+                original_best_relation = ""
+                original_best_relation_w = ""
+                
+                # Interroger l'API JdM pour cette paire
+                jdm_relations = query_jdm_api(h, lemma)
+                rels = jdm_relations
+                
+                # Sélectionner la meilleure relation JdM si des relations ont été trouvées
+                if jdm_relations and relation_types:
+                    best_relation, best_relation_w = select_best_jdm_relation(jdm_relations, relation_types)
+                    source = "jdm"
+                    jdm_found_count += 1
+                    jdm_found_pairs.append((h, lemma, best_relation, best_relation_w))
+                    print(f"✓ JdM: {h} → {best_relation} → {lemma} (poids: {best_relation_w})")
+                else:
+                    best_relation, best_relation_w = "", ""
+                    source = "no_relation"
+                    no_relation_count += 1
+                    no_relation_pairs.append((h, lemma, "jdm"))
+                    if not jdm_relations:
+                        print(f"✗ JdM: {h} → {lemma} (aucune relation trouvée)")
+                    else:
+                        print(f"✗ JdM: {h} → {lemma} (relations trouvées mais aucun type de relation valide)")
             
             # Ajouter aux résultats qu'il y ait des relations ou non
             pair_info = {
@@ -356,7 +457,14 @@ def process_text(text, model=None, relation_types=None):
                 "dep": dep,
                 "pos": pos,
                 "sim": sim,
-                "relations": rels
+                "relations": rels,
+                "relation_name": best_relation,  # Pour l'affichage console
+                "w": best_relation_w,  # Pour l'affichage console
+                "original_best_relation": original_best_relation,  # Pour le CSV
+                "original_best_relation_w": original_best_relation_w,  # Pour le CSV
+                "new_relation": new_relation,
+                "new_relation_w": new_relation_w,
+                "source": source  # Ajouter la source de la relation
             }
             all_pairs_with_info.append(pair_info)
             
@@ -369,6 +477,24 @@ def process_text(text, model=None, relation_types=None):
                 })
         except Exception as e:
             logging.error(f"Erreur lors du traitement de la paire ({h}, {lemma}) : {e}")
+    
+    # Afficher les statistiques de sourcing
+    print(f"\n===== STATISTIQUES DE SOURCING =====")
+    print(f"Total des paires traitées: {len(unique_pairs)}")
+    print(f"Relations trouvées dans la base de données: {db_found_count}")
+    print(f"Relations trouvées dans JdM: {jdm_found_count}")
+    print(f"Paires sans relation: {no_relation_count}")
+    print(f"Taux de succès global: {((db_found_count + jdm_found_count) / len(unique_pairs) * 100):.1f}%")
+    
+    # Affichage détaillé optionnel des paires sans relation (limité pour éviter le spam)
+    if no_relation_pairs and len(no_relation_pairs) <= 20:
+        print(f"\nPaires sans relation ({len(no_relation_pairs)}):")
+        for h, lemma, attempted_source in no_relation_pairs:
+            print(f"  - {h} → {lemma} (testé dans {attempted_source})")
+    elif len(no_relation_pairs) > 20:
+        print(f"\nPaires sans relation: {len(no_relation_pairs)} (trop nombreuses pour affichage détaillé)")
+    
+    print("=" * 50)
     
     return results, all_pairs_with_info
 
@@ -432,33 +558,32 @@ def main():
     # Traiter le texte
     results, all_pairs_with_info = process_text(input_text, model, relation_types)
     
-    # Appliquer la logique calcul_max_w pour sélectionner la meilleure relation pour chaque paire
-    for pair in all_pairs_with_info:
-        relations = pair.get('relations', [])
-        relation_name, weight = select_best_relation(relations, relation_types)
-        pair['relation_name'] = relation_name
-        pair['w'] = weight
+    # Les relations et poids sont déjà récupérés de la base de données
+    # Pas besoin d'appliquer select_best_relation car les données viennent de la base
     
     # Écrire les résultats dans un fichier CSV si la sortie est spécifiée
     if output_file:
         os.makedirs(os.path.dirname(os.path.abspath(output_file)), exist_ok=True)
         
         with open(output_file, 'w', encoding='utf-8', newline='') as csvfile:
-            # Écrire les données CSV
-            fieldnames = ['head', 'lemma', 'dep', 'pos', 'sim', 'relations', 'relation_name', 'w']
+            # Écrire les données CSV avec les noms de colonnes de la base de données
+            fieldnames = ['node1', 'node2', 'dep', 'pos', 'sim', 'relations', 'best_relation', 'best_relation_w', 'new_relation', 'new_relation_w', 'source']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
             
             for pair in all_pairs_with_info:
                 writer.writerow({
-                    'head': pair['head'],
-                    'lemma': pair['lemma'],
+                    'node1': pair['head'],
+                    'node2': pair['lemma'],
                     'dep': pair['dep'],
                     'pos': pair['pos'],
                     'sim': pair['sim'],
                     'relations': json.dumps(pair['relations']),
-                    'relation_name': pair['relation_name'],
-                    'w': pair['w']
+                    'best_relation': pair['original_best_relation'],  # Utiliser les valeurs originales de la base
+                    'best_relation_w': pair['original_best_relation_w'],  # Utiliser les valeurs originales de la base
+                    'new_relation': pair.get('new_relation', ''),
+                    'new_relation_w': pair.get('new_relation_w', ''),
+                    'source': pair.get('source', '')
                 })
         
         print(f"\nRelations sauvegardées dans {output_file}")
@@ -468,16 +593,28 @@ def main():
         print("\n===== RELATIONS SÉMANTIQUES =====")
         print(f"Trouvé {len(results)} paires avec relations sur {len(all_pairs_with_info)} paires totales")
         
-        # Afficher seulement la meilleure relation pour chaque paire (limité à 10 pour éviter une sortie excessive)
-        pairs_with_relations = [p for p in all_pairs_with_info if p.get('relations')]
+        # Calculer les statistiques de source pour l'affichage final
+        pairs_with_relations = [p for p in all_pairs_with_info if p.get('relation_name')]
+        db_relations = [p for p in pairs_with_relations if p.get('source') == 'database']
+        jdm_relations = [p for p in pairs_with_relations if p.get('source') == 'jdm']
+        
+        print(f"  - Relations de la base de données: {len(db_relations)}")
+        print(f"  - Relations de JdM: {len(jdm_relations)}")
+        
+        # Afficher seulement la meilleure relation pour chaque paire
         for i, pair in enumerate(pairs_with_relations):
             head = pair['head']
             lemma = pair['lemma']
             relation_name = pair['relation_name']
             weight = pair['w']
+            source = pair.get('source', 'unknown')
             
             if relation_name:  # Afficher seulement si une relation a été trouvée
-                print(f"{i+1}. {head} → {relation_name} → {lemma}  (poids : {weight})")
+                # Mettre la relation en couleur pour la rendre plus visible
+                colored_relation = f"{Colors.MAGENTA}{Colors.BOLD}{relation_name}{Colors.RESET}"
+                source_indicator = f"{Colors.CYAN}[{source}]{Colors.RESET}"
+                print(f"{i+1}. {head} → {colored_relation} → {lemma}  (poids : {weight}) {source_indicator}")
+        print("\n")
         
     else:
         print("\nAucune relation sémantique trouvée.")

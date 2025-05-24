@@ -1,18 +1,11 @@
-head,lemma,dep,pos,sim,relations,relation_name,w
-recette,cuisine,nmod,NOUN,0.6908309459686279,"[{""id"": 361077, ""node1"": 120188, ""node2"": 16033, ""type"": 0, ""w"": 425.0}, {""id"": 452909, ""node1"": 120188, ""node2"": 16033, ""type"": 3, ""w"": 267.0}, {""id"": 98281069, ""node1"": 120188, ""node2"": 16033, ""type"": 10, ""w"": 22.0}, {""id"": 539971129, ""node1"": 120188, ""node2"": 16033, ""type"": 15, ""w"": -24.0}, {""id"": 1576779, ""node1"": 120188, ""node2"": 16033, ""type"": 35, ""w"": 130.0}, {""id"": 752130352, ""node1"": 120188, ""node2"": 16033, ""type"": 666, ""w"": 4.0}]",r_associated,425.0
-cuisine,traditionnel,amod,ADJ,0.6673912405967712,"[{""id"": 601188829, ""node1"": 16033, ""node2"": 41139, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
-cuisine,emblématique,amod,ADJ,0.6532835960388184,[],,
-recette,historique,amod,NOUN,0.5846026539802551,[],,
-cuisine,français,amod,ADJ,0.5957276225090027,"[{""id"": 940911531, ""node1"": 16033, ""node2"": 144991, ""type"": 17, ""w"": 62.0}]",r_carac,62.0
-repas,gastronomique,amod,ADJ,0.5503942370414734,"[{""id"": 796712128, ""node1"": 74736, ""node2"": 34935, ""type"": 0, ""w"": 27.0}, {""id"": 427628, ""node1"": 74736, ""node2"": 34935, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
-recette,base,nmod,NOUN,0.6035606861114502,[],,
-base,viande,nmod,NOUN,0.6759606003761292,[],,
-viande,bœuf,nmod,NOUN,0.6462690830230713,"[{""id"": 10577328, ""node1"": 140100, ""node2"": 168216, ""type"": 0, ""w"": 59.0}, {""id"": 9627859, ""node1"": 140100, ""node2"": 168216, ""type"": 8, ""w"": 95.0}, {""id"": 15173562, ""node1"": 140100, ""node2"": 168216, ""type"": 27, ""w"": 30.0}, {""id"": 646611390, ""node1"": 140100, ""node2"": 168216, ""type"": 666, ""w"": 1.0}]",r_hypo,95.0
-base,cuire,acl,VERB,0.7431725859642029,[],,
-feu,doux,amod,ADJ,0.5496628880500793,[],,
-base,bouillon,nmod,NOUN,0.6302016973495483,[],,
-bouillon,légume,nmod,NOUN,0.7116242051124573,"[{""id"": 152250, ""node1"": 146582, ""node2"": 120603, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
-bouillon,poireau,appos,NOUN,0.6702055335044861,"[{""id"": 555790804, ""node1"": 146582, ""node2"": 130303, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
-présence,pomme,nmod,NOUN,0.5688477158546448,[],,
-pomme,terre,nmod,NOUN,0.5497230291366577,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
-recette,origine,nmod,NOUN,0.5750184059143066,[],,
+node1,node2,dep,pos,sim,relations,best_relation,best_relation_w,new_relation,new_relation_w,source
+pépite,chocolat,nmod,NOUN,0.5406539440155029,"[{""w"": 152, ""id"": 365455, ""type"": 0, ""node1"": 25082, ""node2"": 34157}, {""w"": 35, ""id"": 376056261, ""type"": 50, ""node1"": 25082, ""node2"": 34157}, {""w"": 2, ""id"": 930408960, ""type"": 666, ""node1"": 25082, ""node2"": 34157}]",r_associated,152,,,database
+pépite,fondre,acl:relcl,VERB,0.5097024440765381,[],,,,,no_relation
+cuit,gâteau,nsubj,NOUN,0.7382751107215881,"[{""w"": 21, ""id"": 924409005, ""type"": 0, ""node1"": 28105, ""node2"": 2149}, {""w"": 64, ""id"": 2046972, ""type"": 23, ""node1"": 28105, ""node2"": 2149}]",r_carac-1,64,,,database
+planter,cuit,advcl,ADJ,0.6998686194419861,[],,,,,no_relation
+mettre,huile,obj,NOUN,0.6046145558357239,"[{""w"": 27, ""id"": 392082685, ""type"": 0, ""node1"": 132366, ""node2"": 141971}, {""w"": 100, ""id"": 392082684, ""type"": 14, ""node1"": 132366, ""node2"": 141971}]",r_patient,100,,,database
+huile,olive,nmod,NOUN,0.5776744484901428,"[{""w"": 441, ""id"": 143577, ""type"": 0, ""node1"": 141971, ""node2"": 238}, {""w"": 35, ""id"": 580646, ""type"": 5, ""node1"": 141971, ""node2"": 238}, {""w"": 101, ""id"": 214590, ""type"": 8, ""node1"": 141971, ""node2"": 238}, {""w"": 10, ""id"": 9972834, ""type"": 9, ""node1"": 141971, ""node2"": 238}, {""w"": 34, ""id"": 96691611, ""type"": 35, ""node1"": 141971, ""node2"": 238}, {""w"": 92, ""id"": 1808072, ""type"": 42, ""node1"": 141971, ""node2"": 238}, {""w"": 5, ""id"": 653727906, ""type"": 666, ""node1"": 141971, ""node2"": 238}]",r_associated,441,r_ingredient_bundle,7,database
+huile,autre,amod,ADJ,0.5732219815254211,[],,,,,database_no_relation
+colza,huile,appos,NOUN,0.5320640802383423,"[{""id"": 412054, ""node1"": 102711, ""node2"": 141971, ""type"": 0, ""w"": 63.0}, {""id"": 14656037, ""node1"": 102711, ""node2"": 141971, ""type"": 41, ""w"": 42.0}, {""id"": 987721962, ""node1"": 102711, ""node2"": 141971, ""type"": 666, ""w"": 3.0}]",,,,,jdm
+colza,goût,nmod,NOUN,0.5842819213867188,[],,,,,no_relation
+goût,neutre,amod,ADJ,0.5292506814002991,"[{""w"": 20, ""id"": 915183248, ""type"": 0, ""node1"": 119233, ""node2"": 75933}]",r_associated,20,,,database

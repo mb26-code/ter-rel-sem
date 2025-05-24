@@ -1,0 +1,180 @@
+================================================================================
+RAPPORT COMPLET - ANALYSE DES RELATIONS SÉMANTIQUES
+================================================================================
+Date d'analyse: 2025-05-24 22:24:42
+
+RÉSUMÉ EXÉCUTIF
+----------------------------------------
+• Total des paires analysées: 221,131
+• Paires avec relations: 10,374 (4.7%)
+• Total des relations individuelles: 19,766
+• Types de relations uniques utilisés: 96
+• Nouvelles relations identifiées: 169,852 (76.8%)
+
+
+================================================================================
+SECTION 1: RELATIONS SÉMANTIQUES LES PLUS FRÉQUENTES
+================================================================================
+------------------------------------------------------------
+Type     Nom                  Label                     Count    %        Poids moy.
+------------------------------------------------------------------------------------------
+0        r_associated         idée associée             6732     34.06%    59.8
+666      r_aki                r_aki                     1555     7.87%    3.6
+777      r_wiki               r_wiki                    1081     5.47%    9.1
+17       r_carac              caractéristique           996      5.04%    44.2
+14       r_patient            action>patient            801      4.05%    57.8
+8        r_hypo               spécifique                688      3.48%    50.4
+10       r_holo               tout                      534      2.70%    35.7
+9        r_has_part           partie                    530      2.68%    39.2
+3        r_domain             domaine                   520      2.63%    79.6
+5        r_syn                synonyme                  497      2.51%    79.2
+26       r_patient-1          patient-1                 464      2.35%    54.7
+15       r_lieu               chose>lieu                457      2.31%    65.7
+6        r_isa                générique                 455      2.30%    65.4
+28       r_lieu-1             lieu>chose                425      2.15%    70.3
+106      r_has_color          couleur                   334      1.69%    13.2
+27       r_domain-1           domaine-1                 326      1.65%    14.9
+35       r_meaning/glose      glose/sens/signification  319      1.61%    84.7
+23       r_carac-1            caractéristique-1         304      1.54%    32.0
+50       r_object>mater       objet>matiere             277      1.40%    33.5
+16       r_instr              action>instrument         175      0.89%    37.4
+
+
+================================================================================
+SECTION 2: PAIRES DE MOTS LES PLUS FRÉQUENTES
+================================================================================
+--------------------------------------------------------------------------------
+Paire                                    Freq   Relation             Poids  Sim   
+--------------------------------------------------------------------------------
+soupe → crème                            1      r_associated         36.0   0.683 
+pomme → terre                            1      r_associated         39.0   0.550 
+beurre → chaud                           1      r_associated         21.0   0.673 
+eau → litre                              1      r_quantificateur     44.0   0.544 
+morceau → petit                          1      r_associated         27.0   0.542 
+cuire → pomme                            1      r_agent              30.0   0.771 
+cuillère → crème                         1      r_associated         26.0   0.628 
+ingrédient → sel                         1      r_hypo               27.0   0.700 
+sel → poivre                             1      r_associated         495.0  0.671 
+ingrédient → olive                       1      r_hypo               29.0   0.630 
+olive → noir                             1      r_associated         28.0   0.562 
+vider → poisson                          1      r_patient            100.0  0.554 
+huile → olive                            1      r_associated         441.0  0.578 
+feuille → basilic                        1      r_holo               27.0   0.583 
+basilic → haché                          1      r_carac              26.0   0.566 
+pain → complet                           1      r_carac              80.0   0.627 
+pain → fromage                           1      r_accomp             47.0   0.677 
+fromage → salade                         1      r_holo               25.0   0.703 
+salade → huile                           1      r_associated         57.0   0.678 
+pain → four                              1      r_lieu               118.0  0.710 
+mettre → plat                            1      r_patient            100.0  0.615 
+four → chaud                             1      r_carac              130.0  0.675 
+four → degré                             1      r_associated         38.0   0.615 
+four → thermostat                        1      r_has_part           165.0  0.637 
+couper → pain                            1      r_patient            100.0  0.654 
+tranche → fromage                        1      r_quantificateur-1   25.0   0.610 
+feuille → salade                         1      r_associated         30.0   0.616 
+vrai → sucre                             1      r_carac-1            30.0   0.648 
+sucre → roux                             1      r_carac              174.0  0.596 
+jus → orange                             1      r_associated         204.0  0.557 
+jus → jus                                1      r_lemma              55.0   0.530 
+jus → fruit                              1      r_associated         208.0  0.550 
+jus → citron                             1      r_associated         91.0   0.589 
+citron → vert                            1      r_associated         61.0   0.535 
+vert → cannelle                          1      r_wiki               10.0   0.560 
+cuillère → bois                          1      r_associated         41.0   0.591 
+zeste → citron                           1      r_has_magn           34.0   0.549 
+ajouter → sucre                          1      r_patient            31.0   0.656 
+sucre → canne                            1      r_associated         241.0  0.607 
+poireau → terre                          1      r_associated         58.0   0.606 
+peau → chorizo                           1      r_holo               65.0   0.582 
+sauce → fromage                          1      r_has_part           30.0   0.749 
+fromage → ingrédient                     1      r_isa                233.0  0.701 
+farine → beurre                          1      r_associated         3.0    0.718 
+crème → lait                             1      r_associated         138.0  0.625 
+saladier → cuillère                      1      r_associated         33.0   0.611 
+fondre → beurre                          1      r_agent              35.0   0.643 
+tout → mélanger                          1      r_patient-1          30.0   0.528 
+ajouter → lait                           1      r_patient            31.0   0.596 
+fleur → ingrédient                       1      r_isa                29.0   0.599 
+
+
+================================================================================
+SECTION 3: DISTRIBUTION ET STATISTIQUES GÉNÉRALES
+================================================================================
+--------------------------------------------------
+Total des paires analysées: 221,131
+Paires avec relations: 10,374 (4.69%)
+Paires sans relations: 210,757 (95.31%)
+
+TYPES DE RELATIONS:
+Relations existantes (JdM): 10,374
+Nouvelles relations: 169,852
+
+
+================================================================================
+SECTION 4: ANALYSE DES NOUVELLES RELATIONS
+================================================================================
+----------------------------------------------------------------------
+Total des nouvelles relations: 169,852
+Pourcentage du corpus: 76.81%
+
+STATISTIQUES DES POIDS:
+  Poids moyen: 5.271
+  Poids médian: 1.000
+  Écart-type: 40.410
+  Poids minimum: 1.000
+  Poids maximum: 3110.000
+
+Nouvelle Relation         Count    %        Poids Moy    Poids Max   
+---------------------------------------------------------------------------
+r_ingredient_bundle       160190   94.31%    3.276        2220.000    
+r_common_kit              5222     3.07%    36.434       1436.000    
+r_hypo                    2220     1.31%    40.596       3110.000    
+r_isa                     2220     1.31%    40.596       3110.000    
+
+
+================================================================================
+SECTION 5: ANALYSES DÉTAILLÉES
+================================================================================
+STATISTIQUES DES POIDS DES RELATIONS:
+  Poids moyen: 48.15
+  Poids médian: 29.00
+  Écart-type: 78.73
+  Poids minimum: -250.00
+  Poids maximum: 1006.00
+
+TOP 10 RELATIONS PAR POIDS MOYEN:
+Type     Nom                       Poids moy.   Occurrences 
+------------------------------------------------------------
+64       r_has_instance            418.1        6.0         
+25       r_instr-1                 96.7         151.0       
+152      r_domain_subst            85.0         3.0         
+35       r_meaning/glose           84.7         319.0       
+22       r_family                  83.6         25.0        
+3        r_domain                  79.6         520.0       
+5        r_syn                     79.2         497.0       
+55       r_against                 77.0         4.0         
+19       r_lemma                   76.2         106.0       
+37       r_telic_role              76.1         22.0        
+
+
+
+COMPARAISON: NOUVELLES VS EXISTANTES RELATIONS:
+  Relations existantes (JeuxDeMots):
+    - Nombre: 10,231
+    - Poids moyen: 62.02
+  Nouvelles relations:
+    - Nombre: 169,852
+    - Poids moyen: 5.27
+    - Ratio nouvelles/existantes: 16.6:1
+
+
+================================================================================
+CONCLUSION
+================================================================================
+Couverture des relations: 4.7% - Qualité: Moyenne
+Le corpus contient 96 types de relations différents.
+Relation dominante: r_associated (34.1% des relations)
+
+Analyse terminée le 2025-05-24 à 22:24:42
+================================================================================
