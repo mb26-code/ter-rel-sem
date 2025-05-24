@@ -1,0 +1,44 @@
+node1,node2,relations
+tajine,poulet,"[{""id"": 558752678, ""node1"": 68090, ""node2"": 146261, ""type"": 0, ""w"": 40.0}, {""id"": 1017994569, ""node1"": 68090, ""node2"": 146261, ""type"": 50, ""w"": 27.0}, {""id"": 4843248, ""node1"": 68090, ""node2"": 146261, ""type"": 777, ""w"": 10.0}]"
+tajine,légume,"[{""id"": 417888781, ""node1"": 68090, ""node2"": 120603, ""type"": 0, ""w"": 13.0}]"
+légume,ingrédient,[]
+tajine,coriandre,"[{""id"": 796829890, ""node1"": 68090, ""node2"": 61977, ""type"": 0, ""w"": 29.0}]"
+coriandre,courgette,[]
+coriandre,safran,"[{""id"": 926450705, ""node1"": 61977, ""node2"": 84746, ""type"": 0, ""w"": 20.0}]"
+cuisse,poulet,"[{""id"": 152157, ""node1"": 58876, ""node2"": 146261, ""type"": 0, ""w"": 242.0}, {""id"": 225653, ""node1"": 58876, ""node2"": 146261, ""type"": 10, ""w"": 74.0}, {""id"": 164787, ""node1"": 58876, ""node2"": 146261, ""type"": 17, ""w"": -104.0}, {""id"": 14668832, ""node1"": 58876, ""node2"": 146261, ""type"": 42, ""w"": 35.0}, {""id"": 8558818, ""node1"": 58876, ""node2"": 146261, ""type"": 666, ""w"": 3.0}]"
+poulet,bouillon,"[{""id"": 914309720, ""node1"": 146261, ""node2"": 146582, ""type"": 0, ""w"": 21.0}]"
+bouillon,poule,[]
+bouillon,épice,"[{""id"": 925020684, ""node1"": 146582, ""node2"": 146056, ""type"": 0, ""w"": 20.0}]"
+épice,couscous,"[{""id"": 98637373, ""node1"": 146056, ""node2"": 35814, ""type"": 0, ""w"": 33.0}, {""id"": 98312721, ""node1"": 146056, ""node2"": 35814, ""type"": 10, ""w"": 28.0}]"
+bouillon,pomme,"[{""id"": 558647545, ""node1"": 146582, ""node2"": 37201, ""type"": 0, ""w"": 27.0}]"
+pomme,terre,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+pomme,haricot,[]
+casserole,couvercle,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]"
+préparer,bouillon,[]
+dose,safran,"[{""id"": 720818640, ""node1"": 145419, ""node2"": 84746, ""type"": 174, ""w"": 25.0}]"
+peu,épice,[]
+plonger,cuisse,[]
+cuisse,bouillon,[]
+cuire,cuisse,[]
+préparer,cuire,"[{""id"": 53730145, ""node1"": 36246, ""node2"": 5115, ""type"": 0, ""w"": 24.0}, {""id"": 53623646, ""node1"": 36246, ""node2"": 5115, ""type"": 5, ""w"": 101.0}]"
+casserole,grand,[]
+préparer,casserole,"[{""id"": 477633583, ""node1"": 36246, ""node2"": 57253, ""type"": 0, ""w"": 26.0}, {""id"": 477633582, ""node1"": 36246, ""node2"": 57253, ""type"": 31, ""w"": 26.0}]"
+déposer,cuisse,[]
+ordre,cuisson,[]
+déposer,légume,[]
+légume,demander,[]
+cuisson,dessous,[]
+demander,carotte,[]
+carotte,oignon,[]
+carotte,pomme,[]
+carotte,courgette,[]
+arroser,tout,[]
+tout,bouillon,[]
+bouillon,cuisson,"[{""id"": 8798118, ""node1"": 146582, ""node2"": 60056, ""type"": 0, ""w"": 6.0}]"
+feu,doux,[]
+couvercle,fermer,"[{""id"": 1746798, ""node1"": 89523, ""node2"": 24346, ""type"": 0, ""w"": 150.0}, {""id"": 276744, ""node1"": 89523, ""node2"": 24346, ""type"": 25, ""w"": 133.0}]"
+bouillon,fond,"[{""id"": 98635098, ""node1"": 146582, ""node2"": 119272, ""type"": 0, ""w"": 21.0}, {""id"": 98389637, ""node1"": 146582, ""node2"": 119272, ""type"": 10, ""w"": 26.0}, {""id"": 4238179, ""node1"": 146582, ""node2"": 119272, ""type"": 777, ""w"": 10.0}]"
+bouillon,casserole,"[{""id"": 602112558, ""node1"": 146582, ""node2"": 57253, ""type"": 0, ""w"": 17.0}, {""id"": 104950027, ""node1"": 146582, ""node2"": 57253, ""type"": 15, ""w"": 7.0}]"
+légume,tout,[]
+cuire,légume,"[{""id"": 796715114, ""node1"": 5115, ""node2"": 120603, ""type"": 0, ""w"": 26.0}, {""id"": 148033, ""node1"": 5115, ""node2"": 120603, ""type"": 13, ""w"": 53.0}, {""id"": 234259, ""node1"": 5115, ""node2"": 120603, ""type"": 14, ""w"": 56.0}]"
+bon,appétit,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]"

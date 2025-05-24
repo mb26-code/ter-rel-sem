@@ -1,0 +1,40 @@
+head,lemma,dep,pos,sim,relation
+saumon,fumé,amod,ADJ,0.5537497997283936,"[{""id"": 156540, ""node1"": 3361, ""node2"": 23335, ""type"": 0, ""w"": 122.0}, {""id"": 14803107, ""node1"": 3361, ""node2"": 23335, ""type"": 17, ""w"": 22.0}, {""id"": 3189320, ""node1"": 3361, ""node2"": 23335, ""type"": 106, ""w"": -11.0}, {""id"": 502202500, ""node1"": 3361, ""node2"": 23335, ""type"": 666, ""w"": 9.0}]"
+oeuf,fumé,amod,ADJ,0.5788801312446594,[]
+citron,oeuf,nmod,NOUN,0.6038509607315063,"[{""id"": 54311704, ""node1"": 15386, ""node2"": 116175, ""type"": 0, ""w"": 31.0}, {""id"": 53737937, ""node1"": 15386, ""node2"": 116175, ""type"": 5, ""w"": 73.0}]"
+lot,mixeur,appos,NOUN,0.452340692281723,[]
+mixeur,four,nmod,NOUN,0.6762216091156006,[]
+four,fouet,nmod,NOUN,0.6685465574264526,"[{""id"": 879245167, ""node1"": 9190, ""node2"": 73888, ""type"": 0, ""w"": 20.0}]"
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+titre,casserole,nmod,NOUN,0.5580013990402222,[]
+casserole,balance,obj,NOUN,0.5916885137557983,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+balance,assiette,appos,NOUN,0.5656145215034485,[]
+assiette,étape,nmod,NOUN,0.483820229768753,[]
+gramme,beurre,nmod,NOUN,0.6074452996253967,[]
+couper,tranche,obj,NOUN,0.4768869876861572,"[{""id"": 425448, ""node1"": 128828, ""node2"": 143123, ""type"": 0, ""w"": 51.0}, {""id"": 8900685, ""node1"": 128828, ""node2"": 143123, ""type"": 14, ""w"": -2.0}, {""id"": 539957273, ""node1"": 128828, ""node2"": 143123, ""type"": 31, ""w"": -25.0}]"
+tranche,saumon,nmod,NOUN,0.5997541546821594,"[{""id"": 720818759, ""node1"": 143123, ""node2"": 3361, ""type"": 174, ""w"": 25.0}]"
+titre,couper,acl,VERB,0.4430274069309234,[]
+couper,reste,obj,NOUN,0.4821860790252685,[]
+reste,saumon,nmod,NOUN,0.6190572381019592,[]
+mixer,saler,acl,VERB,0.5958685874938965,[]
+ajouter,blanc,obj,NOUN,0.5225849747657776,[]
+blanc,oeuf,nmod,NOUN,0.5395181179046631,"[{""id"": 215721, ""node1"": 15196, ""node2"": 116175, ""type"": 0, ""w"": 84.0}, {""id"": 31299415, ""node1"": 15196, ""node2"": 116175, ""type"": 3, ""w"": 32.0}, {""id"": 76136326, ""node1"": 15196, ""node2"": 116175, ""type"": 10, ""w"": 26.0}, {""id"": 373603, ""node1"": 15196, ""node2"": 116175, ""type"": 23, ""w"": 110.0}, {""id"": 91492401, ""node1"": 15196, ""node2"": 116175, ""type"": 35, ""w"": 54.0}]"
+ajouter,mixer,advcl,VERB,0.5028379559516907,[]
+ajouter,crème,obj,NOUN,0.610580325126648,[]
+crème,frais,amod,ADJ,0.5796430110931396,[]
+ajouter,saumon,obj,NOUN,0.6255812644958496,[]
+four,200,nmod,NUM,0.5053980350494385,[]
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,nmod,NOUN,0.4225132167339325,[]
+sauce,fondre,acl,VERB,0.7076333165168762,[]
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]"
+fondre,ajouter,advcl,VERB,0.4958822429180145,[]
+ajouter,jus,obj,NOUN,0.5800648331642151,[]
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]"
+fondre,fouetter,advcl,VERB,0.4828303456306457,[]
+servir,pâté,obj,NOUN,0.6081157326698303,[]
+pâté,poisson,nmod,NOUN,0.6271177530288696,[]
+pâté,assiette,nmod,NOUN,0.621816098690033,[]
+arroser,citron,obj,NOUN,0.6194442510604858,[]
+décorer,oeuf,nmod,NOUN,0.5475937724113464,[]

@@ -1,0 +1,24 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+saucisse,ingrédient,nmod,NOUN,0.7062863111495972,"[{""id"": 15370355, ""node1"": 77807, ""node2"": 123418, ""type"": 0, ""w"": 30.0}, {""id"": 506079, ""node1"": 77807, ""node2"": 123418, ""type"": 3, ""w"": 32.0}, {""id"": 601493769, ""node1"": 77807, ""node2"": 123418, ""type"": 6, ""w"": 120.0}]",r_isa,120.0
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]",r_associated,598.0
+couteau,pinceau,appos,NOUN,0.4793228805065155,"[{""id"": 914434066, ""node1"": 32610, ""node2"": 79400, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+pinceau,four,nmod,NOUN,0.6441405415534973,[],,
+four,planche,nmod,NOUN,0.6710441708564758,[],,
+tronçon,petit,amod,ADJ,0.4870288372039795,[],,
+pâte,feuilleter,acl,VERB,0.6172106862068176,"[{""id"": 880403533, ""node1"": 34069, ""node2"": 13838, ""type"": 0, ""w"": 20.0}, {""id"": 288441883, ""node1"": 34069, ""node2"": 13838, ""type"": 26, ""w"": 31.0}]",r_patient-1,31.0
+pâte,triangle,nmod,NOUN,0.6281916499137878,[],,
+découper,taille,acl:relcl,NOUN,0.4521428048610687,[],,
+largeur,bout,nmod,NOUN,0.401921272277832,[],,
+rouler,bout,obj,NOUN,0.4549576640129089,[],,
+rouler,mouiller,advcl,VERB,0.4755548238754272,[],,
+mouiller,extrémité,obj,NOUN,0.462392508983612,[],,
+adhérer,pâte,nsubj,NOUN,0.601435124874115,[],,
+pinceau,cuisine,nmod,NOUN,0.600783109664917,"[{""id"": 1039906975, ""node1"": 79400, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_carac,-5.0
+pinceau,dorer,acl,VERB,0.524734616279602,[],,
+dorer,dessus,obj,NOUN,0.5314735174179077,[],,
+plaque,thermostat,appos,NOUN,0.5389834642410278,[],,
+plaque,degré,nmod,NOUN,0.4635538458824157,[],,
+surveiller,cuisson,obj,NOUN,0.6946427226066589,"[{""id"": 1007853514, ""node1"": 39170, ""node2"": 60056, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+façon,traiteur,amod,NOUN,0.5078664422035217,[],,
+rectangle,grand,amod,ADJ,0.4365730285644531,[],,
+rectangle,pâte,nmod,NOUN,0.6235933899879456,[],,

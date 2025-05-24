@@ -1,0 +1,56 @@
+head,lemma,dep,pos,sim,relations
+titre,plat,nmod,NOUN,0.5815905928611755,[]
+plat,cuisine,nmod,NOUN,0.6855981349945068,"[{""id"": 2142698, ""node1"": 36327, ""node2"": 16033, ""type"": 0, ""w"": 359.0}, {""id"": 505517, ""node1"": 36327, ""node2"": 16033, ""type"": 3, ""w"": 285.0}, {""id"": 128986, ""node1"": 36327, ""node2"": 16033, ""type"": 10, ""w"": 170.0}, {""id"": 145490, ""node1"": 36327, ""node2"": 16033, ""type"": 15, ""w"": 245.0}, {""id"": 376196655, ""node1"": 36327, ""node2"": 16033, ""type"": 16, ""w"": -26.0}, {""id"": 765133729, ""node1"": 36327, ""node2"": 16033, ""type"": 80, ""w"": 26.0}, {""id"": 652234278, ""node1"": 36327, ""node2"": 16033, ""type"": 666, ""w"": 6.0}]"
+cuisine,mongol,amod,ADJ,0.4833147227764129,[]
+cuire,morceau,obj,NOUN,0.7621479034423828,[]
+morceau,viande,nmod,NOUN,0.713297426700592,"[{""id"": 179412, ""node1"": 65364, ""node2"": 140100, ""type"": 0, ""w"": 83.0}, {""id"": 1007988744, ""node1"": 65364, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]"
+récipient,contenir,acl:relcl,VERB,0.5381168127059937,"[{""id"": 796996271, ""node1"": 89628, ""node2"": 34519, ""type"": 0, ""w"": 22.0}, {""id"": 1899498, ""node1"": 89628, ""node2"": 34519, ""type"": 25, ""w"": 70.0}, {""id"": 15047065, ""node1"": 89628, ""node2"": 34519, ""type"": 26, ""w"": 30.0}, {""id"": 514554643, ""node1"": 89628, ""node2"": 34519, ""type"": 30, ""w"": 26.0}, {""id"": 9312882, ""node1"": 89628, ""node2"": 34519, ""type"": 41, ""w"": 51.0}, {""id"": 1769571, ""node1"": 89628, ""node2"": 34519, ""type"": 666, ""w"": 1.0}]"
+contenir,pierre,obj,NOUN,0.5187685489654541,[]
+pierre,chaud,amod,ADJ,0.5934849977493286,[]
+viande,chèvre,nmod,NOUN,0.6639171242713928,"[{""id"": 798808030, ""node1"": 140100, ""node2"": 93872, ""type"": 0, ""w"": 21.0}]"
+morceau,taille,nmod,NOUN,0.5361483097076416,[]
+taille,approprié,amod,ADJ,0.4213527739048004,[]
+morceau,laisser,acl,VERB,0.5474314093589783,[]
+cuisinier,place,nmod,NOUN,0.5663355588912964,[]
+pierre,taille,nmod,NOUN,0.4723497331142425,[]
+taille,poing,nmod,NOUN,0.407353401184082,[]
+taille,feu,nmod,NOUN,0.5727866291999817,"[{""id"": 17175362, ""node1"": 142267, ""node2"": 143703, ""type"": 777, ""w"": 10.0}]"
+chaud,pierre,nsubj,NOUN,0.5934849977493286,[]
+mettre,chaud,advcl,ADJ,0.5476500391960144,[]
+mettre,lui,nsubj:pass,PRON,0.4069197177886963,[]
+récipient,cuisson,nmod,NOUN,0.7619553208351135,[]
+récipient,choisir,acl,VERB,0.5581884384155273,[]
+placer,aliment,nsubj:pass,NOUN,0.6148832440376282,[]
+couche,pierre,nmod,NOUN,0.5120446085929871,[]
+couche,viande,nmod,NOUN,0.6758694648742676,[]
+couche,couche,appos,NOUN,0.403334766626358,"[{""id"": 291639, ""node1"": 19152, ""node2"": 19152, ""type"": 19, ""w"": 51.0}]"
+couche,légume,nmod,NOUN,0.6773380041122437,[]
+choix,traditionnel,amod,ADJ,0.4020178318023681,[]
+pouvoir,récipient,nsubj,NOUN,0.5356900691986084,[]
+récipient,solide,amod,ADJ,0.5432023406028748,[]
+faire,affaire,obj,NOUN,0.494773268699646,[]
+récipient,ferme,amod,ADJ,0.5380815863609314,[]
+faire,chaleur,nsubj,NOUN,0.5712000727653503,[]
+chaleur,pierre,nmod,NOUN,0.5257846117019653,[]
+cuire,viande,obj,NOUN,0.7988991737365723,"[{""id"": 2182411, ""node1"": 5115, ""node2"": 140100, ""type"": 0, ""w"": 73.0}, {""id"": 148035, ""node1"": 5115, ""node2"": 140100, ""type"": 13, ""w"": 100.0}, {""id"": 206249, ""node1"": 5115, ""node2"": 140100, ""type"": 14, ""w"": 100.0}, {""id"": 722712577, ""node1"": 5115, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]"
+intérieur,récipient,nmod,NOUN,0.5708688497543335,[]
+pouvoir,cuisinier,nsubj,NOUN,0.5023781061172485,[]
+cuisinière,chaud,amod,ADJ,0.6373209953308105,[]
+devenir,pierre,nsubj,NOUN,0.4991810917854309,[]
+effet,chaleur,nmod,NOUN,0.4510723948478699,[]
+graisse,agneau,nmod,NOUN,0.6187048554420471,[]
+absorber,que,obj,PRON,0.4429896473884582,[]
+pouvoir,pierre,nsubj,NOUN,0.4833671450614929,[]
+prendre,cuire,advcl,VERB,0.6954252123832703,[]
+prêt,plat,nsubj,NOUN,0.5956587791442871,"[{""id"": 376084088, ""node1"": 120759, ""node2"": 36327, ""type"": 23, ""w"": 26.0}]"
+distribuer,prêt,advcl,ADJ,0.419884592294693,[]
+distribuer,cuisinier,nsubj,NOUN,0.5679855942726135,[]
+distribuer,portion,obj,NOUN,0.513144850730896,[]
+portion,viande,nmod,NOUN,0.7028568983078003,"[{""id"": 775213301, ""node1"": 110940, ""node2"": 140100, ""type"": 174, ""w"": 25.0}]"
+lancer,qui,nsubj:pass,PRON,0.4171253740787506,[]
+pierre,lancer,acl:relcl,VERB,0.495456725358963,"[{""id"": 796982693, ""node1"": 25008, ""node2"": 44755, ""type"": 0, ""w"": 28.0}, {""id"": 15074741, ""node1"": 25008, ""node2"": 44755, ""type"": 26, ""w"": 100.0}]"
+propriété,manger,acl:relcl,VERB,0.5608012676239014,[]
+pouvoir,couteau,nsubj,NOUN,0.5020368099212646,[]
+manger,pouvoir,advcl,VERB,0.5315022468566895,[]
+séparer,viande,obj,NOUN,0.6841058731079102,[]
+plat,populaire,amod,ADJ,0.5941116809844971,"[{""id"": 93507628, ""node1"": 36327, ""node2"": 19960, ""type"": 17, ""w"": 40.0}]"

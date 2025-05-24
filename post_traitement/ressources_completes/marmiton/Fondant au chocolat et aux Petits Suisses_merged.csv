@@ -1,0 +1,32 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+suisse,petit,amod,ADJ,0.4592638611793518,[],,
+suisse,ingrédient,nmod,NOUN,0.511258602142334,[],,
+farine,beurre,appos,NOUN,0.7180377840995789,"[{""id"": 423997331, ""node1"": 127629, ""node2"": 140377, ""type"": 0, ""w"": 3.0}]",r_associated,3.0
+beurre,chocolat,nmod,NOUN,0.6671400666236877,"[{""id"": 500926026, ""node1"": 140377, ""node2"": 34157, ""type"": 0, ""w"": 3.0}]",r_associated,3.0
+suisse,sucre,acl,NOUN,0.6096804738044739,[],,
+sucre,petit,amod,ADJ,0.6831177473068237,[],,
+petit,suisse,amod,ADJ,0.4592638611793518,[],,
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+saladier,micro-onde,nmod,NOUN,0.6247562766075134,[],,
+saladier,four,nmod,NOUN,0.6991847157478333,[],,
+four,moule,nmod,NOUN,0.6459261178970337,"[{""id"": 914324367, ""node1"": 9190, ""node2"": 143723, ""type"": 0, ""w"": 20.0}, {""id"": 149292258, ""node1"": 9190, ""node2"": 143723, ""type"": 28, ""w"": 71.0}]",r_lieu-1,71.0
+moule,gâteau,nmod,NOUN,0.5791363716125488,"[{""id"": 201625, ""node1"": 143723, ""node2"": 2149, ""type"": 0, ""w"": 233.0}]",r_associated,233.0
+moule,couteau,appos,NOUN,0.5594446659088135,[],,
+saladier,balance,nmod,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+saladier,récipient,nmod,NOUN,0.5938400626182556,"[{""id"": 2180228, ""node1"": 45455, ""node2"": 89628, ""type"": 0, ""w"": 132.0}, {""id"": 9900840, ""node1"": 45455, ""node2"": 89628, ""type"": 6, ""w"": 13.0}, {""id"": 43611491, ""node1"": 45455, ""node2"": 89628, ""type"": 35, ""w"": 55.0}, {""id"": 1668930, ""node1"": 45455, ""node2"": 89628, ""type"": 666, ""w"": 4.0}]",r_associated,132.0
+saladier,mélanger,acl,VERB,0.5846896171569824,"[{""id"": 17857328, ""node1"": 45455, ""node2"": 37151, ""type"": 0, ""w"": 2.0}, {""id"": 72596974, ""node1"": 45455, ""node2"": 37151, ""type"": 24, ""w"": -25.0}, {""id"": 380394138, ""node1"": 45455, ""node2"": 37151, ""type"": 30, ""w"": 26.0}]",r_lieu_action,26.0
+mélanger,petit,obj,ADJ,0.5849721431732178,[],,
+petit,Suisse,nmod,PROPN,0.4312393963336944,[],,
+obtenir,mélange,obj,NOUN,0.4783641993999481,[],,
+mélange,homogène,amod,ADJ,0.4782799482345581,"[{""id"": 914526136, ""node1"": 14800, ""node2"": 124759, ""type"": 0, ""w"": 21.0}, {""id"": 33170626, ""node1"": 14800, ""node2"": 124759, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+fondre,chocolat,obj,NOUN,0.5867562890052795,"[{""id"": 28589116, ""node1"": 16480, ""node2"": 34157, ""type"": 0, ""w"": 63.0}, {""id"": 24768886, ""node1"": 16480, ""node2"": 34157, ""type"": 13, ""w"": 30.0}, {""id"": 1011304980, ""node1"": 16480, ""node2"": 34157, ""type"": 14, ""w"": 30.0}, {""id"": 1009801551, ""node1"": 16480, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]",r_associated,63.0
+noix,beurre,nmod,NOUN,0.6414071917533875,"[{""id"": 96697959, ""node1"": 30910, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+noix,micro-onde,nmod,NOUN,0.6219237446784973,[],,
+four,chaud,amod,ADJ,0.6748667359352112,"[{""id"": 363192, ""node1"": 9190, ""node2"": 19150, ""type"": 0, ""w"": 123.0}, {""id"": 376860, ""node1"": 9190, ""node2"": 19150, ""type"": 17, ""w"": 130.0}, {""id"": 11348785, ""node1"": 9190, ""node2"": 19150, ""type"": 28, ""w"": 38.0}, {""id"": 2221131, ""node1"": 9190, ""node2"": 19150, ""type"": 666, ""w"": 1.0}]",r_carac,130.0
+enfourner,degré,obj,NOUN,0.4610618650913238,[],,
+cuire,gâteau,nsubj:pass,NOUN,0.7726040482521057,"[{""id"": 435038053, ""node1"": 5115, ""node2"": 2149, ""type"": 0, ""w"": 33.0}, {""id"": 99104749, ""node1"": 5115, ""node2"": 2149, ""type"": 13, ""w"": 100.0}, {""id"": 206247, ""node1"": 5115, ""node2"": 2149, ""type"": 14, ""w"": 100.0}, {""id"": 376067701, ""node1"": 5115, ""node2"": 2149, ""type"": 31, ""w"": 26.0}]",r_agent,100.0
+ressortir,lame,nsubj,NOUN,0.4512903392314911,[],,
+lame,couteau,nmod,NOUN,0.4591053426265716,"[{""id"": 118596, ""node1"": 139377, ""node2"": 32610, ""type"": 0, ""w"": 366.0}, {""id"": 54676570, ""node1"": 139377, ""node2"": 32610, ""type"": 5, ""w"": 101.0}, {""id"": 1743084, ""node1"": 139377, ""node2"": 32610, ""type"": 10, ""w"": 94.0}, {""id"": 120811, ""node1"": 139377, ""node2"": 32610, ""type"": 15, ""w"": 88.0}, {""id"": 155181, ""node1"": 139377, ""node2"": 32610, ""type"": 21, ""w"": 250.0}, {""id"": 76658787, ""node1"": 139377, ""node2"": 32610, ""type"": 35, ""w"": 27.0}, {""id"": 1613397, ""node1"": 139377, ""node2"": 32610, ""type"": 41, ""w"": 70.0}, {""id"": 13176988, ""node1"": 139377, ""node2"": 32610, ""type"": 73, ""w"": 19.0}, {""id"": 993559795, ""node1"": 139377, ""node2"": 32610, ""type"": 666, ""w"": 3.0}]",r_associated,366.0
+cuire,ressortir,advcl,VERB,0.6984614729881287,[],,

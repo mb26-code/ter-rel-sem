@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+donner,référence,obj,NOUN,0.4324645698070526,[],,
+concerner,culture,obj,NOUN,0.4306654930114746,[],,
+soupe,poisson,nmod,NOUN,0.7111983895301819,"[{""id"": 217748, ""node1"": 117152, ""node2"": 68467, ""type"": 0, ""w"": 73.0}, {""id"": 8332961, ""node1"": 117152, ""node2"": 68467, ""type"": 9, ""w"": 40.0}]",r_associated,73.0
+soupe,saumon,amod,ADV,0.7204458117485046,[],,
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,laurier,nmod,NOUN,0.5952819585800171,[],,
+persil,vert,amod,ADJ,0.5615147352218628,"[{""id"": 415003387, ""node1"": 135982, ""node2"": 26976, ""type"": 0, ""w"": 29.0}, {""id"": 3156031, ""node1"": 135982, ""node2"": 26976, ""type"": 106, ""w"": 2.0}, {""id"": 992420220, ""node1"": 135982, ""node2"": 26976, ""type"": 666, ""w"": 3.0}]",r_associated,29.0
+épice,poivre,nmod,NOUN,0.6821233630180359,"[{""id"": 399153, ""node1"": 146056, ""node2"": 139597, ""type"": 0, ""w"": 191.0}, {""id"": 12322791, ""node1"": 146056, ""node2"": 139597, ""type"": 5, ""w"": 29.0}, {""id"": 15026236, ""node1"": 146056, ""node2"": 139597, ""type"": 8, ""w"": 34.0}, {""id"": 1001218749, ""node1"": 146056, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,191.0
+poivre,noir,amod,ADJ,0.5682362914085388,"[{""id"": 104819942, ""node1"": 139597, ""node2"": 64238, ""type"": 0, ""w"": 3.0}, {""id"": 3162514, ""node1"": 139597, ""node2"": 64238, ""type"": 106, ""w"": 15.0}, {""id"": 104819941, ""node1"": 139597, ""node2"": 64238, ""type"": 666, ""w"": 1.0}]",r_has_color,15.0
+noix,muscade,nmod,NOUN,0.5651988983154297,"[{""id"": 796773628, ""node1"": 30910, ""node2"": 115297, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+graine,fenouil,nmod,NOUN,0.6100060343742371,"[{""id"": 403056623, ""node1"": 14469, ""node2"": 78032, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+bouillon,viande,nmod,NOUN,0.7526476979255676,"[{""id"": 558647534, ""node1"": 146582, ""node2"": 140100, ""type"": 0, ""w"": 28.0}, {""id"": 1033715516, ""node1"": 146582, ""node2"": 140100, ""type"": 28, ""w"": 26.0}, {""id"": 1071673578, ""node1"": 146582, ""node2"": 140100, ""type"": 666, ""w"": 2.0}, {""id"": 4238168, ""node1"": 146582, ""node2"": 140100, ""type"": 777, ""w"": 10.0}]",r_associated,28.0
+viande,épais,amod,ADJ,0.6578584909439087,[],,
+utiliser,poisson,nsubj:pass,NOUN,0.6516346335411072,[],,
+utiliser,préparer,advcl,VERB,0.4703598916530609,[],,
+préparer,donner,advcl,VERB,0.4570632576942444,[],,
+plat,avoir,acl:relcl,VERB,0.6034115552902222,[],,
+avoir,goût,obj,NOUN,0.5262750387191772,[],,
+goût,distinct,amod,ADJ,0.5386970043182373,"[{""id"": 416968057, ""node1"": 119233, ""node2"": 98143, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+recette,autre,amod,ADJ,0.6219144463539124,[],,
+goût,recette,nmod,NOUN,0.6735026240348816,"[{""id"": 775088652, ""node1"": 119233, ""node2"": 120188, ""type"": 0, ""w"": 58.0}]",r_associated,58.0
+commencer,mot,nsubj,NOUN,0.4011383056640625,[],,
+synonyme,bouillon,nmod,NOUN,0.5801249742507935,[],,
+bouillon,poisson,nmod,NOUN,0.703558623790741,"[{""id"": 558647540, ""node1"": 146582, ""node2"": 68467, ""type"": 0, ""w"": 27.0}, {""id"": 4238170, ""node1"": 146582, ""node2"": 68467, ""type"": 777, ""w"": 10.0}]",r_associated,27.0
+cuisine,russe,amod,ADJ,0.4885662496089935,"[{""id"": 15233373, ""node1"": 16033, ""node2"": 32403, ""type"": 0, ""w"": 27.0}, {""id"": 15097640, ""node1"": 16033, ""node2"": 32403, ""type"": 27, ""w"": 29.0}, {""id"": 289223970, ""node1"": 16033, ""node2"": 32403, ""type"": 28, ""w"": 2.0}]",r_domain-1,29.0
+cuisine,fin,nmod,NOUN,0.5683608651161194,"[{""id"": 96697924, ""node1"": 16033, ""node2"": 144718, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+fin,siècle,nmod,NOUN,0.429499864578247,[],,
+recette,original,amod,ADJ,0.5799373388290405,[],,
+bouillon,accompagner,acl:relcl,VERB,0.638094425201416,[],,
+accompagner,pain,obj,NOUN,0.6508470773696899,[],,
+pain,poisson,nmod,NOUN,0.6957916617393494,[],,
+utiliser,légume,obj,NOUN,0.6606505513191223,[],,
+rajouter,recette,nsubj,NOUN,0.6663119196891785,[],,
+recette,évoluer,acl,VERB,0.6046961545944214,[],,
+légume,différent,amod,ADJ,0.627467691898346,[],,
+rajouter,légume,obj,NOUN,0.6914075613021851,[],,

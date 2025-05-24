@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+ciboulette,Monsieur,nmod,NOUN,0.4424052238464355,[],,
+Monsieur,cuisine,nmod,NOUN,0.5626035332679749,[],,
+ingrédient,crabe,nmod,NOUN,0.6194857358932495,[],,
+crabe,oeuf,nmod,NOUN,0.5746510028839111,[],,
+ingrédient,crème,amod,NOUN,0.6610228419303894,"[{""id"": 24923429, ""node1"": 123418, ""node2"": 44001, ""type"": 0, ""w"": 15.0}, {""id"": 24850724, ""node1"": 123418, ""node2"": 44001, ""type"": 8, ""w"": 36.0}]",r_hypo,36.0
+crème,épais,amod,ADJ,0.5873329043388367,[],,
+ingrédient,jus,nmod,NOUN,0.6051733493804932,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+jus,arôme,nmod,NOUN,0.5919132232666016,[],,
+arôme,légume,nmod,NOUN,0.6470541954040527,[],,
+légume,sel,nmod,NOUN,0.7468553781509399,[],,
+jus,four,nmod,NOUN,0.704914391040802,[],,
+four,Monsieur,nmod,NOUN,0.6360695362091064,[],,
+four,plat,nmod,ADJ,0.711601734161377,"[{""id"": 218402, ""node1"": 9190, ""node2"": 36327, ""type"": 0, ""w"": 54.0}, {""id"": 1612283, ""node1"": 9190, ""node2"": 36327, ""type"": 28, ""w"": 125.0}, {""id"": 1013894208, ""node1"": 9190, ""node2"": 36327, ""type"": 666, ""w"": 2.0}]",r_lieu-1,125.0
+jus,étape,nmod,NOUN,0.5936597585678101,[],,
+cuve,Monsieur,nmod,NOUN,0.5087137222290039,[],,
+Monsieur,Cuisine,nmod,PROPN,0.4022991359233856,[],,
+verser,œuf,obj,NOUN,0.5614053606987,[],,
+moitié,bouquet,nmod,NOUN,0.4912875592708587,[],,
+bouquet,ciboulette,nmod,NOUN,0.5226904153823853,[],,
+moitié,soupe,nmod,NOUN,0.6443043351173401,[],,
+soupe,crème,nmod,NOUN,0.6830318570137024,"[{""id"": 729556086, ""node1"": 117152, ""node2"": 44001, ""type"": 0, ""w"": 36.0}, {""id"": 216637777, ""node1"": 117152, ""node2"": 44001, ""type"": 50, ""w"": 32.0}, {""id"": 663289934, ""node1"": 117152, ""node2"": 44001, ""type"": 666, ""w"": 4.0}]",r_associated,36.0
+crabe,égoutter,acl,ADV,0.5905651450157166,[],,
+préparer,déposer,advcl,VERB,0.4389718174934387,[],,
+plat,grand,amod,ADJ,0.5802130699157715,[],,
+plat,remplir,acl,VERB,0.5932102799415588,"[{""id"": 276039, ""node1"": 36327, ""node2"": 95980, ""type"": 25, ""w"": 80.0}]",r_instr-1,80.0
+préparer,sauce,obj,NOUN,0.6940045356750488,"[{""id"": 395781320, ""node1"": 36246, ""node2"": 141110, ""type"": 0, ""w"": 35.0}, {""id"": 373014451, ""node1"": 36246, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+rincer,cuve,obj,NOUN,0.5526509881019592,"[{""id"": 97862168, ""node1"": 117283, ""node2"": 115250, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+reste,crème,nmod,NOUN,0.6168608665466309,[],,
+reste,ciboulette,nmod,NOUN,0.5684303641319275,[],,
+moment,dressage,nmod,NOUN,0.4420994222164154,[],,
+moment,fond,nmod,NOUN,0.4693659842014313,[],,
+fond,assiette,nmod,NOUN,0.5784623026847839,"[{""id"": 53749231, ""node1"": 119272, ""node2"": 62735, ""type"": 0, ""w"": 22.0}, {""id"": 53602986, ""node1"": 119272, ""node2"": 62735, ""type"": 5, ""w"": 80.0}]",r_syn,80.0
+assiette,sauce,nmod,NOUN,0.7285140752792358,"[{""id"": 31849246, ""node1"": 62735, ""node2"": 141110, ""type"": 28, ""w"": 51.0}]",r_lieu-1,51.0

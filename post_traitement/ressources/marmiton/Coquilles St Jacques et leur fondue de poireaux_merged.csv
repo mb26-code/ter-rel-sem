@@ -1,0 +1,46 @@
+head,lemma,dep,pos,sim,relation
+fondue,poireau,nmod,NOUN,0.6159544587135315,[]
+poireau,ingrédient,nmod,NOUN,0.6791229248046875,[]
+coquille,poivre,appos,NOUN,0.6768427491188049,[]
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]"
+sel,beurre,nmod,NOUN,0.7119027376174927,"[{""id"": 29328492, ""node1"": 13260, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 9986817, ""node1"": 13260, ""node2"": 140377, ""type"": 10, ""w"": 35.0}]"
+coquille,crème,nmod,NOUN,0.5995364189147949,[]
+coquille,poireau,nmod,NOUN,0.5991888642311096,[]
+coquille,coquille,nmod,NOUN,0.4177375137805938,"[{""id"": 291338, ""node1"": 143246, ""node2"": 143246, ""type"": 19, ""w"": 57.0}]"
+coquille,appareil,nmod,NOUN,0.5111926198005676,[]
+appareil,fondre,nmod,VERB,0.5232203602790833,[]
+plaque,meilleur,amod,ADJ,0.5153307318687439,[]
+top,plaque,nmod,NOUN,0.4243907332420349,[]
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]"
+Spatule,couvercle,nmod,NOUN,0.4322113990783691,[]
+couvercle,balance,nmod,NOUN,0.5437039136886597,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+couvercle,étape,nmod,NOUN,0.4822983145713806,[]
+top,couper,acl,VERB,0.4023889005184173,[]
+couper,poireau,obj,NOUN,0.5762974619865417,"[{""id"": 32053050, ""node1"": 128828, ""node2"": 130303, ""type"": 14, ""w"": 56.0}]"
+revenir,moyen,obj,ADJ,0.4700459539890289,[]
+noisette,beurre,nmod,NOUN,0.6675335168838501,"[{""id"": 120202, ""node1"": 67819, ""node2"": 140377, ""type"": 0, ""w"": 70.0}, {""id"": 775213357, ""node1"": 67819, ""node2"": 140377, ""type"": 174, ""w"": 25.0}]"
+revenir,veiller,advcl,VERB,0.4208003878593445,[]
+poêle,remuer,acl,VERB,0.6752270460128784,[]
+remuer,temps,obj,NOUN,0.5274296998977661,[]
+spatule,bois,nmod,NOUN,0.5679187774658203,"[{""id"": 96703712, ""node1"": 141075, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 96703702, ""node1"": 141075, ""node2"": 96256, ""type"": 50, ""w"": 24.0}]"
+ajouter,eau,obj,NOUN,0.5629687905311584,[]
+eau,recouvrir,acl,VERB,0.5683361291885376,"[{""id"": 1030660857, ""node1"": 65012, ""node2"": 26206, ""type"": 0, ""w"": 20.0}]"
+évaporation,eau,nmod,NOUN,0.5283170342445374,"[{""id"": 367811, ""node1"": 26046, ""node2"": 65012, ""type"": 0, ""w"": 81.0}, {""id"": 31128996, ""node1"": 26046, ""node2"": 65012, ""type"": 3, ""w"": 53.0}, {""id"": 991806235, ""node1"": 26046, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]"
+mijoter,veiller,advcl,VERB,0.5880190134048462,[]
+accroche,poireau,nsubj,NOUN,0.5641049742698669,[]
+garantir,cuisson,obj,NOUN,0.6424887180328369,[]
+cuisson,poireau,nmod,NOUN,0.7757685780525208,[]
+poireau,devoir,acl:relcl,VERB,0.5326734781265259,[]
+revenir,coquille,obj,NOUN,0.542908251285553,[]
+ajouter,cuisson,nsubj,NOUN,0.7073457837104797,[]
+cuisson,coquille,nmod,NOUN,0.7178195118904114,"[{""id"": 423545124, ""node1"": 60056, ""node2"": 143246, ""type"": 0, ""w"": 7.0}, {""id"": 368179082, ""node1"": 60056, ""node2"": 143246, ""type"": 777, ""w"": 10.0}]"
+coquille,dur,amod,ADJ,0.4356005191802978,[]
+dur,minute,obj,NOUN,0.4377432763576507,[]
+commencer,coquille,nsubj,NOUN,0.4959810078144073,[]
+ajouter,fondue,obj,NOUN,0.544342041015625,[]
+fondue,préparer,acl,VERB,0.5663437247276306,"[{""id"": 348320334, ""node1"": 101081, ""node2"": 36246, ""type"": 38, ""w"": 34.0}]"
+soupe,crème,nmod,NOUN,0.6830318570137024,"[{""id"": 729556086, ""node1"": 117152, ""node2"": 44001, ""type"": 0, ""w"": 36.0}, {""id"": 216637777, ""node1"": 117152, ""node2"": 44001, ""type"": 50, ""w"": 32.0}, {""id"": 663289934, ""node1"": 117152, ""node2"": 44001, ""type"": 666, ""w"": 4.0}]"
+crème,frais,amod,ADJ,0.5796430110931396,[]
+laisser,crème,obj,NOUN,0.6033692955970764,[]
+crème,fondre,acl,VERB,0.6380372643470764,"[{""id"": 28708533, ""node1"": 44001, ""node2"": 16480, ""type"": 24, ""w"": 31.0}]"

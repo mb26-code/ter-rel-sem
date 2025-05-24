@@ -1,0 +1,40 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,gratin,nmod,NOUN,0.4893978536128998,[],,
+gratin,courge,nmod,NOUN,0.6369032859802246,"[{""id"": 914951545, ""node1"": 12942, ""node2"": 28560, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+gratin,facile,amod,ADJ,0.5231416821479797,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+muscade,sel,nmod,NOUN,0.6852055191993713,[],,
+sel,poivre,nmod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,courge,nmod,NOUN,0.7231526374816895,[],,
+courge,oeuf,nmod,NOUN,0.6355816721916199,[],,
+oeuf,crème,amod,NOUN,0.6166951060295105,"[{""id"": 798892970, ""node1"": 116175, ""node2"": 44001, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+ingrédient,Plat,nmod,PROPN,0.4784882664680481,[],,
+Plat,gratin,nmod,NOUN,0.4779236614704132,[],,
+ingrédient,cocotte,nmod,NOUN,0.73118656873703,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,four,nmod,NOUN,0.7153509855270386,[],,
+four,plat,nmod,ADJ,0.711601734161377,"[{""id"": 218402, ""node1"": 9190, ""node2"": 36327, ""type"": 0, ""w"": 54.0}, {""id"": 1612283, ""node1"": 9190, ""node2"": 36327, ""type"": 28, ""w"": 125.0}, {""id"": 1013894208, ""node1"": 9190, ""node2"": 36327, ""type"": 666, ""w"": 2.0}]",r_lieu-1,125.0
+ingrédient,cuire,acl,VERB,0.7966136336326599,[],,
+cuire,courge,obj,NOUN,0.7785418629646301,[],,
+temps,cuisson,nmod,NOUN,0.6630411744117737,[],,
+manuel,cocotte,nmod,NOUN,0.5884159207344055,[],,
+égoutter,courge,obj,NOUN,0.6332672834396362,[],,
+égoutter,rendre,advcl,VERB,0.454646497964859,[],,
+eau,tout,amod,ADJ,0.58939129114151,[],,
+rendre,eau,obj,NOUN,0.5431551933288574,"[{""id"": 31838005, ""node1"": 65447, ""node2"": 65012, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+mélanger,œuf,obj,NOUN,0.5465211272239685,[],,
+moitié,gruyère,nmod,NOUN,0.5415570139884949,[],,
+moitié,sel,appos,NOUN,0.6846120953559875,[],,
+pointe,noix,nmod,NOUN,0.5602089762687683,[],,
+noix,muscade,nmod,NOUN,0.5663605332374573,"[{""id"": 796773628, ""node1"": 30910, ""node2"": 115297, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+mélanger,préparation,obj,NOUN,0.5913197994232178,"[{""id"": 610299416, ""node1"": 37151, ""node2"": 33634, ""type"": 0, ""w"": 41.0}]",r_associated,41.0
+préparation,courge,nmod,NOUN,0.6621876358985901,"[{""id"": 601611700, ""node1"": 33634, ""node2"": 28560, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+mixer,tout,obj,NOUN,0.5551751852035522,[],,
+mixer,verser,acl,VERB,0.5348976850509644,[],,
+plat,gratin,nmod,NOUN,0.6157448291778564,"[{""id"": 415003453, ""node1"": 36327, ""node2"": 12942, ""type"": 0, ""w"": 28.0}, {""id"": 246264043, ""node1"": 36327, ""node2"": 12942, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+reste,gruyère,nmod,NOUN,0.5541186928749084,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+four,200,nmod,NUM,0.5053980350494385,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,

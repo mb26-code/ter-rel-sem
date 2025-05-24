@@ -1,0 +1,42 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+canard,trésor,nmod,NOUN,0.5045900344848633,[],,
+trésor,chinois,appos,ADJ,0.4154124855995178,[],,
+chinois,traditionnel,amod,ADJ,0.4231434166431427,[],,
+spécialité,base,nmod,NOUN,0.5275176167488098,[],,
+base,canard,nmod,NOUN,0.6139538884162903,[],,
+canard,cuisine,nmod,NOUN,0.6681150197982788,"[{""id"": 15348802, ""node1"": 7769, ""node2"": 16033, ""type"": 0, ""w"": 320.0}, {""id"": 1664555, ""node1"": 7769, ""node2"": 16033, ""type"": 3, ""w"": 320.0}, {""id"": 98282177, ""node1"": 7769, ""node2"": 16033, ""type"": 15, ""w"": 33.0}]",r_associated,320.0
+spécialité,servir,acl,VERB,0.5537639856338501,[],,
+nom,plat,nmod,NOUN,0.5238007307052612,[],,
+compter,assaisonnement,obj,NOUN,0.5754519104957581,[],,
+compter,sorte,appos,NOUN,0.470243901014328,[],,
+sorte,noix,nmod,NOUN,0.5980206727981567,[],,
+sorte,jambon,nmod,NOUN,0.6456889510154724,[],,
+jambon,fumé,amod,ADJ,0.554830014705658,"[{""id"": 415002836, ""node1"": 57980, ""node2"": 23335, ""type"": 0, ""w"": 27.0}, {""id"": 380717, ""node1"": 57980, ""node2"": 23335, ""type"": 17, ""w"": 59.0}, {""id"": 3187789, ""node1"": 57980, ""node2"": 23335, ""type"": 106, ""w"": 17.0}, {""id"": 1785220, ""node1"": 57980, ""node2"": 23335, ""type"": 666, ""w"": 2.0}]",r_carac,59.0
+porc,maigre,amod,ADJ,0.6018394827842712,"[{""id"": 560956563, ""node1"": 71135, ""node2"": 68727, ""type"": 0, ""w"": 60.0}]",r_associated,60.0
+présente,canard,obj,NOUN,0.5240886807441711,[],,
+ingrédient,sauter,acl,VERB,0.6039881110191345,[],,
+pousse,champignon,advcl,NOUN,0.4630893170833587,[],,
+champignon,couper,acl,VERB,0.5468558669090271,"[{""id"": 93546795, ""node1"": 25484, ""node2"": 128828, ""type"": 26, ""w"": 41.0}]",r_patient-1,41.0
+couper,graine,obj,NOUN,0.5578335523605347,[],,
+graine,lotus,nmod,PROPN,0.4029656052589416,[],,
+œuf,canard,nmod,NOUN,0.561617374420166,"[{""id"": 914909044, ""node1"": 174124, ""node2"": 7769, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+œuf,jambon,appos,NOUN,0.5819557905197144,"[{""id"": 1041434989, ""node1"": 174124, ""node2"": 57980, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+œuf,châtaigne,amod,NOUN,0.5597357749938965,[],,
+châtaigne,eau,nmod,NOUN,0.5936033129692078,"[{""id"": 218186789, ""node1"": 120225, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+eau,chinois,amod,ADJ,0.5693243145942688,[],,
+œuf,haricot,appos,NOUN,0.543701708316803,[],,
+élément,riz,nsubj,NOUN,0.6697241067886353,[],,
+élément,essentiel,amod,ADJ,0.4171394407749176,[],,
+élément,recette,nmod,NOUN,0.6574324369430542,[],,
+riz,rond,amod,ADJ,0.6471993923187256,"[{""id"": 3196069, ""node1"": 24372, ""node2"": 82147, ""type"": 0, ""w"": 26.0}, {""id"": 539963082, ""node1"": 24372, ""node2"": 82147, ""type"": 8, ""w"": -25.0}, {""id"": 239261, ""node1"": 24372, ""node2"": 82147, ""type"": 17, ""w"": 132.0}]",r_carac,132.0
+sauce,épice,nmod,NOUN,0.7651395201683044,"[{""id"": 468469, ""node1"": 141110, ""node2"": 146056, ""type"": 0, ""w"": 48.0}, {""id"": 195303, ""node1"": 141110, ""node2"": 146056, ""type"": 6, ""w"": -68.0}, {""id"": 96715002, ""node1"": 141110, ""node2"": 146056, ""type"": 9, ""w"": 31.0}, {""id"": 96715064, ""node1"": 141110, ""node2"": 146056, ""type"": 50, ""w"": 21.0}]",r_associated,48.0
+vin,riz,nmod,NOUN,0.6970666646957397,[],,
+cuire,canard,nsubj:pass,PROPN,0.7587916254997253,[],,
+bouillon,poulet,nmod,NOUN,0.680425763130188,"[{""id"": 558647557, ""node1"": 146582, ""node2"": 146261, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+donne,viande,obj,NOUN,0.657802939414978,[],,
+viande,tendre,amod,ADJ,0.6746423244476318,"[{""id"": 796698628, ""node1"": 140100, ""node2"": 71211, ""type"": 0, ""w"": 27.0}, {""id"": 409752, ""node1"": 140100, ""node2"": 71211, ""type"": 17, ""w"": 131.0}]",r_carac,131.0
+devenir,plat,nsubj:pass,NOUN,0.6096962094306946,[],,
+demande,préparation,nsubj,NOUN,0.494222491979599,[],,
+préparation,plat,nmod,NOUN,0.6514749526977539,"[{""id"": 601611406, ""node1"": 33634, ""node2"": 36327, ""type"": 0, ""w"": 16.0}, {""id"": 1016257135, ""node1"": 33634, ""node2"": 36327, ""type"": 8, ""w"": 20.0}, {""id"": 104958347, ""node1"": 33634, ""node2"": 36327, ""type"": 15, ""w"": 7.0}]",r_hypo,20.0
+demande,beaucoup,obj,ADV,0.4204984307289123,[],,
+commander,jour,obj,NOUN,0.4132522046566009,[],,

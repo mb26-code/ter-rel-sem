@@ -1,0 +1,16 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,brochette,nmod,NOUN,0.4412188827991485,[],,
+brochette,oeuf,nmod,NOUN,0.5579959750175476,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,sel,appos,NOUN,0.6997572183609009,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+ingrédient,tomate,amod,NOUN,0.6937788128852844,"[{""id"": 24923444, ""node1"": 123418, ""node2"": 22138, ""type"": 0, ""w"": 15.0}, {""id"": 24850720, ""node1"": 123418, ""node2"": 22138, ""type"": 8, ""w"": 30.0}]",r_hypo,30.0
+cerise,couteau,nmod,NOUN,0.5464543700218201,[],,
+couteau,saladier,nmod,NOUN,0.6030980348587036,[],,
+pique,bois,nmod,NOUN,0.5517823100090027,"[{""id"": 9977225, ""node1"": 146246, ""node2"": 96256, ""type"": 0, ""w"": 27.0}, {""id"": 115564, ""node1"": 146246, ""node2"": 96256, ""type"": 9, ""w"": 54.0}]",r_has_part,54.0
+pique,petit,amod,ADJ,0.5008566975593567,[],,
+pique,cuire,acl,VERB,0.7033016681671143,[],,
+cuire,oeuf,obj,NOUN,0.7018415927886963,"[{""id"": 477428805, ""node1"": 5115, ""node2"": 116175, ""type"": 0, ""w"": 35.0}, {""id"": 206246, ""node1"": 5115, ""node2"": 116175, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+tomate,cerise,amod,ADJ,0.5635725259780884,"[{""id"": 400423, ""node1"": 22138, ""node2"": 49073, ""type"": 0, ""w"": 84.0}, {""id"": 1029365094, ""node1"": 22138, ""node2"": 49073, ""type"": 67, ""w"": 34.0}]",r_associated,84.0
+gros,lui,nsubj,PRON,0.4053957462310791,[],,
+pique,commencer,acl,VERB,0.445410668849945,[],,
+mélanger,cumin,nsubj,NOUN,0.6243707537651062,[],,

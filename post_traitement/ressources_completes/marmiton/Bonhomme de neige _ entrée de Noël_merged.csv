@@ -1,0 +1,60 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+bonhomme,neige,nmod,NOUN,0.4400286376476288,"[{""id"": 1651352, ""node1"": 138875, ""node2"": 3699, ""type"": 0, ""w"": 61.0}, {""id"": 645788072, ""node1"": 138875, ""node2"": 3699, ""type"": 666, ""w"": 2.0}]",r_associated,61.0
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,persil,appos,NOUN,0.6674175262451172,[],,
+persil,vinaigre,acl,NOUN,0.6498264670372009,[],,
+oeuf,oeuf,nmod,NOUN,0.4745641350746155,"[{""id"": 319594, ""node1"": 116175, ""node2"": 116175, ""type"": 19, ""w"": 59.0}, {""id"": 93902125, ""node1"": 116175, ""node2"": 116175, ""type"": 50, ""w"": 28.0}, {""id"": 376040711, ""node1"": 116175, ""node2"": 116175, ""type"": 51, ""w"": 35.0}]",r_lemma,59.0
+ingrédient,fromage,acl,NOUN,0.7009125351905823,"[{""id"": 24923443, ""node1"": 123418, ""node2"": 141687, ""type"": 0, ""w"": 15.0}, {""id"": 24850718, ""node1"": 123418, ""node2"": 141687, ""type"": 8, ""w"": 43.0}]",r_hypo,43.0
+fromage,saladier,obj,NOUN,0.6735358834266663,"[{""id"": 47035368, ""node1"": 141687, ""node2"": 45455, ""type"": 15, ""w"": 26.0}]",r_lieu,26.0
+saladier,plat,nmod,ADJ,0.6500786542892456,"[{""id"": 2181154, ""node1"": 45455, ""node2"": 36327, ""type"": 0, ""w"": 62.0}, {""id"": 1668935, ""node1"": 45455, ""node2"": 36327, ""type"": 666, ""w"": 3.0}]",r_associated,62.0
+cuire,choisir,advcl,VERB,0.6775389909744263,[],,
+choisir,poulet,obj,NOUN,0.6292710304260254,[],,
+cuire,filet,obj,NOUN,0.7411284446716309,[],,
+filet,saler,amod,ADJ,0.6429911255836487,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+minute,couvert,nmod,NOUN,0.4901266098022461,[],,
+cuire,retourner,advcl,VERB,0.6831303834915161,[],,
+retourner,doré,advcl,ADJ,0.4957032203674316,[],,
+cuire,oeuf,obj,NOUN,0.7018415927886963,"[{""id"": 477428805, ""node1"": 5115, ""node2"": 116175, ""type"": 0, ""w"": 35.0}, {""id"": 206246, ""node1"": 5115, ""node2"": 116175, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+oeuf,dur,amod,ADJ,0.5033280849456787,"[{""id"": 238844, ""node1"": 116175, ""node2"": 72731, ""type"": 0, ""w"": 73.0}, {""id"": 1911997, ""node1"": 116175, ""node2"": 72731, ""type"": 17, ""w"": 85.0}, {""id"": 1012355283, ""node1"": 116175, ""node2"": 72731, ""type"": 666, ""w"": 2.0}]",r_carac,85.0
+laver,persil,nmod,NOUN,0.604353129863739,[],,
+prélever,dizaine,obj,NOUN,0.4062647521495819,[],,
+dizaine,feuille,nmod,NOUN,0.4426809847354889,[],,
+feuille,salade,nmod,NOUN,0.615514874458313,"[{""id"": 614208544, ""node1"": 37993, ""node2"": 118908, ""type"": 0, ""w"": 30.0}, {""id"": 775213406, ""node1"": 37993, ""node2"": 118908, ""type"": 174, ""w"": 25.0}]",r_associated,30.0
+retirer,bout,obj,NOUN,0.4299620389938354,[],,
+bout,dur,amod,ADJ,0.4435029029846191,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+mettre,ingrédient,obj,NOUN,0.5923328399658203,[],,
+récipient,différent,amod,ADJ,0.564743161201477,[],,
+remplacer,cuire,advcl,VERB,0.7018482685089111,[],,
+remplacer,eau,obj,NOUN,0.5557546615600586,[],,
+eau,chaud,amod,ADJ,0.6026924252510071,"[{""id"": 915041142, ""node1"": 65012, ""node2"": 19150, ""type"": 0, ""w"": 20.0}, {""id"": 432164, ""node1"": 65012, ""node2"": 19150, ""type"": 17, ""w"": 131.0}]",r_carac,131.0
+laisser,oeuf,obj,NOUN,0.5430832505226135,[],,
+laisser,refroidir,advcl,VERB,0.4572280645370483,[],,
+choisir,jambon,obj,NOUN,0.5831276774406433,[],,
+choisir,thon,obj,NOUN,0.5778464078903198,[],,
+oeuf,tout,amod,ADJ,0.5695684552192688,[],,
+côté,pointu,amod,ADJ,0.4306454062461853,[],,
+dent,deux,nmod,NUM,0.4032244384288788,[],,
+dresser,assiette,obj,NOUN,0.5431979298591614,[],,
+assiette,individuellement,amod,ADV,0.5904234647750854,[],,
+salade,fond,nmod,NOUN,0.6618233323097229,[],,
+placer,cuillère,obj,NOUN,0.5473253130912781,[],,
+soupe,mélange,nmod,NOUN,0.6937755942344666,"[{""id"": 8552796, ""node1"": 117152, ""node2"": 14800, ""type"": 0, ""w"": 58.0}, {""id"": 2018903, ""node1"": 117152, ""node2"": 14800, ""type"": 35, ""w"": 55.0}]",r_associated,58.0
+mélange,choisir,acl,VERB,0.5122895240783691,[],,
+entourer,carotte,obj,NOUN,0.5583125352859497,[],,
+placer,oeuf,obj,NOUN,0.552441418170929,[],,
+oeuf,poule,nmod,NOUN,0.5007504820823669,"[{""id"": 115201, ""node1"": 116175, ""node2"": 37194, ""type"": 0, ""w"": 351.0}, {""id"": 105916, ""node1"": 116175, ""node2"": 37194, ""type"": 10, ""w"": 130.0}, {""id"": 115026, ""node1"": 116175, ""node2"": 37194, ""type"": 15, ""w"": 108.0}, {""id"": 377015031, ""node1"": 116175, ""node2"": 37194, ""type"": 20, ""w"": 26.0}, {""id"": 31438619, ""node1"": 116175, ""node2"": 37194, ""type"": 35, ""w"": 45.0}, {""id"": 8998583, ""node1"": 116175, ""node2"": 37194, ""type"": 42, ""w"": 51.0}, {""id"": 76118824, ""node1"": 116175, ""node2"": 37194, ""type"": 54, ""w"": 29.0}, {""id"": 347214151, ""node1"": 116175, ""node2"": 37194, ""type"": 73, ""w"": 10.0}, {""id"": 1762218, ""node1"": 116175, ""node2"": 37194, ""type"": 666, ""w"": 2.0}]",r_associated,351.0
+oeuf,côté,nmod,NOUN,0.5521805286407471,[],,
+côté,rond,amod,ADJ,0.4605334103107452,[],,
+placer,cure,obj,NOUN,0.4651181399822235,[],,
+placer,dent,obj,NOUN,0.4647895395755768,[],,
+dent,côté,nmod,NOUN,0.471578299999237,[],,
+oeuf,faire,acl,VERB,0.5896216034889221,[],,
+faire,tête,obj,NOUN,0.4749400615692138,[],,
+laisser,cure,obj,NOUN,0.4495894908905029,[],,
+dent,dépasser,acl,VERB,0.4360042214393616,[],,
+planter,rondelle,obj,NOUN,0.4792201220989227,[],,
+balai,persil,nmod,NOUN,0.5530103445053101,[],,
+garniture,choisir,acl,VERB,0.5425349473953247,[],,
+faire,imagination,obj,NOUN,0.4758487641811371,[],,

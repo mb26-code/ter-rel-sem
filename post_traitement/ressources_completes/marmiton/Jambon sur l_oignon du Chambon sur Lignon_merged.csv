@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+Jambon,oignon,nmod,NOUN,0.5189791321754456,[],,
+oignon,Chambon,nmod,PROPN,0.4850448071956634,[],,
+Jambon,ingrédient,nmod,NOUN,0.4994657933712005,[],,
+Jambon,fond,appos,NOUN,0.5004735589027405,[],,
+fond,veau,nmod,NOUN,0.573129415512085,"[{""id"": 98303715, ""node1"": 119272, ""node2"": 91311, ""type"": 0, ""w"": 27.0}, {""id"": 98303791, ""node1"": 119272, ""node2"": 91311, ""type"": 9, ""w"": 30.0}]",r_has_part,30.0
+fond,oignon,acl,NOUN,0.6196684241294861,"[{""id"": 98303736, ""node1"": 119272, ""node2"": 123307, ""type"": 0, ""w"": 22.0}, {""id"": 98303794, ""node1"": 119272, ""node2"": 123307, ""type"": 9, ""w"": 30.0}]",r_has_part,30.0
+Jambon,four,nmod,NOUN,0.6393171548843384,[],,
+four,couteau,nmod,NOUN,0.6828393340110779,[],,
+couteau,couvercle,nmod,NOUN,0.5890913009643555,[],,
+couvercle,plat,nmod,ADJ,0.6402535438537598,"[{""id"": 961890557, ""node1"": 89523, ""node2"": 36327, ""type"": 10, ""w"": 24.0}, {""id"": 372856875, ""node1"": 89523, ""node2"": 36327, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+four,étape,nmod,NOUN,0.6555838584899902,[],,
+four,blanchir,acl,VERB,0.6945101022720337,[],,
+blanchir,oignon,obj,NOUN,0.6175302267074585,[],,
+oignon,eau,nmod,NOUN,0.6199138164520264,[],,
+cuire,lentille,obj,NOUN,0.7369478940963745,"[{""id"": 376201112, ""node1"": 5115, ""node2"": 44137, ""type"": 16, ""w"": 27.0}]",r_instr,27.0
+lentille,eau,nmod,NOUN,0.5650309324264526,"[{""id"": 6607573, ""node1"": 44137, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+eau,minute,nmod,NOUN,0.5597324967384338,[],,
+plat,terre,nmod,NOUN,0.6381796598434448,[],,
+terre,aller,acl,VERB,0.4802393913269043,[],,
+disposer,lentille,obj,NOUN,0.512562096118927,[],,
+lentille,cuire,amod,VERB,0.7369478940963745,"[{""id"": 180306, ""node1"": 44137, ""node2"": 5115, ""type"": 25, ""w"": 150.0}]",r_instr-1,150.0
+lentille,fond,nmod,NOUN,0.5240646600723267,[],,
+poser,oignon,obj,NOUN,0.5985984206199646,[],,
+surface,tout,amod,ADJ,0.5027230978012085,[],,
+couvrir,surface,obj,NOUN,0.4677788615226745,[],,
+couper,fromage,obj,NOUN,0.6230878829956055,"[{""id"": 365853942, ""node1"": 128828, ""node2"": 141687, ""type"": 0, ""w"": 29.0}, {""id"": 365853940, ""node1"": 128828, ""node2"": 141687, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+surface,plat,nmod,NOUN,0.6128045916557312,"[{""id"": 589346604, ""node1"": 45989, ""node2"": 36327, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+jus,veau,nmod,NOUN,0.6273616552352905,[],,
+jus,lier,acl,VERB,0.5747463703155518,[],,
+passer,plat,obj,NOUN,0.6260930299758911,[],,
+four,chaud,amod,ADJ,0.6748667359352112,"[{""id"": 363192, ""node1"": 9190, ""node2"": 19150, ""type"": 0, ""w"": 123.0}, {""id"": 376860, ""node1"": 9190, ""node2"": 19150, ""type"": 17, ""w"": 130.0}, {""id"": 11348785, ""node1"": 9190, ""node2"": 19150, ""type"": 28, ""w"": 38.0}, {""id"": 2221131, ""node1"": 9190, ""node2"": 19150, ""type"": 666, ""w"": 1.0}]",r_carac,130.0
+jus,thermostat,appos,NOUN,0.5882789492607117,[],,
+thermostat,degré,nmod,NOUN,0.407830536365509,[],,
+jus,minute,nmod,NOUN,0.5981476902961731,[],,

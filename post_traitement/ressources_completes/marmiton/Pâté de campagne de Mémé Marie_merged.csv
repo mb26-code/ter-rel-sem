@@ -1,0 +1,18 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+pâté,campagne,nmod,NOUN,0.5448259711265564,[],,
+pâté,ingrédient,nmod,NOUN,0.6209564208984375,[],,
+pâté,sel,nmod,NOUN,0.7305631041526794,[],,
+sel,farine,amod,NOUN,0.7164311408996582,[],,
+sel,porc,amod,VERB,0.730618953704834,[],,
+sel,foie,nmod,NOUN,0.7070582509040833,[],,
+foie,oeuf,nmod,NOUN,0.609285295009613,[],,
+oeuf,herbe,nmod,NOUN,0.5455087423324585,[],,
+oeuf,échalote,amod,ADP,0.5807203650474548,[],,
+pâté,cuillère,nmod,NOUN,0.6278260946273804,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,mixeur,nmod,NOUN,0.5916650295257568,[],,
+mixeur,étape,nmod,NOUN,0.5223461985588074,[],,
+pâté,viande,nmod,NOUN,0.6727394461631775,"[{""id"": 417707068, ""node1"": 145043, ""node2"": 140100, ""type"": 0, ""w"": 25.0}, {""id"": 961886961, ""node1"": 145043, ""node2"": 140100, ""type"": 9, ""w"": 33.0}, {""id"": 1028484707, ""node1"": 145043, ""node2"": 140100, ""type"": 666, ""w"": 2.0}, {""id"": 6548885, ""node1"": 145043, ""node2"": 140100, ""type"": 777, ""w"": 9.0}]",r_has_part,33.0
+mélanger,tout,obj,NOUN,0.528428852558136,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]",r_patient,110.0
+ingrédient,autre,amod,ADJ,0.5450181365013123,[],,
+ajouter,ingrédient,obj,NOUN,0.5645265579223633,"[{""id"": 9084112, ""node1"": 25099, ""node2"": 123418, ""type"": 0, ""w"": 56.0}, {""id"": 428901945, ""node1"": 25099, ""node2"": 123418, ""type"": 14, ""w"": 100.0}, {""id"": 9084083, ""node1"": 25099, ""node2"": 123418, ""type"": 35, ""w"": 48.0}]",r_patient,100.0

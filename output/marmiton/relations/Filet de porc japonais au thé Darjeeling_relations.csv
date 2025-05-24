@@ -1,0 +1,36 @@
+node1,node2,relations
+filet,porc,"[{""id"": 423999038, ""node1"": 42188, ""node2"": 71135, ""type"": 0, ""w"": 1.0}]"
+filet,japonais,"[{""id"": 337326785, ""node1"": 42188, ""node2"": 34713, ""type"": 777, ""w"": 10.0}]"
+filet,thé,[]
+filet,ingrédient,[]
+filet,sésame,[]
+sésame,filet,[]
+sésame,eau,[]
+eau,thé,"[{""id"": 796692978, ""node1"": 65012, ""node2"": 143378, ""type"": 0, ""w"": 26.0}, {""id"": 515361107, ""node1"": 65012, ""node2"": 143378, ""type"": 10, ""w"": 26.0}, {""id"": 377018707, ""node1"": 65012, ""node2"": 143378, ""type"": 20, ""w"": 31.0}, {""id"": 96700094, ""node1"": 65012, ""node2"": 143378, ""type"": 51, ""w"": 23.0}]"
+filet,casserole,[]
+casserole,couvercle,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]"
+couvercle,saladier,[]
+saladier,réfrigérateur,[]
+réfrigérateur,plat,"[{""id"": 399515136, ""node1"": 128721, ""node2"": 36327, ""type"": 0, ""w"": 100.0}, {""id"": 13501043, ""node1"": 128721, ""node2"": 36327, ""type"": 28, ""w"": 60.0}]"
+réfrigérateur,étape,[]
+filet,cocotte,[]
+cuire,rôti,"[{""id"": 435037612, ""node1"": 5115, ""node2"": 19636, ""type"": 0, ""w"": 26.0}, {""id"": 544784011, ""node1"": 5115, ""node2"": 19636, ""type"": 13, ""w"": 100.0}, {""id"": 435037611, ""node1"": 5115, ""node2"": 19636, ""type"": 14, ""w"": 100.0}]"
+rôti,porc,"[{""id"": 2339049, ""node1"": 19636, ""node2"": 71135, ""type"": 0, ""w"": 61.0}, {""id"": 1767079, ""node1"": 19636, ""node2"": 71135, ""type"": 666, ""w"": 1.0}]"
+eau,froid,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]"
+cuire,saler,[]
+sachet,thé,"[{""id"": 417731, ""node1"": 112386, ""node2"": 143378, ""type"": 0, ""w"": 92.0}, {""id"": 104939756, ""node1"": 112386, ""node2"": 143378, ""type"": 28, ""w"": 3.0}, {""id"": 720818220, ""node1"": 112386, ""node2"": 143378, ""type"": 174, ""w"": 25.0}, {""id"": 723812100, ""node1"": 112386, ""node2"": 143378, ""type"": 666, ""w"": 3.0}]"
+heure,feu,[]
+heure,doux,[]
+eau,recouvrir,"[{""id"": 1030660857, ""node1"": 65012, ""node2"": 26206, ""type"": 0, ""w"": 20.0}]"
+recouvrir,viande,[]
+réfrigérateur,nuit,[]
+trancher,viande,"[{""id"": 478236136, ""node1"": 32322, ""node2"": 140100, ""type"": 0, ""w"": 26.0}, {""id"": 1595268, ""node1"": 32322, ""node2"": 140100, ""type"": 14, ""w"": 100.0}]"
+plat,joli,[]
+plat,préférence,[]
+disposer,décorer,"[{""id"": 609464095, ""node1"": 116780, ""node2"": 44961, ""type"": 0, ""w"": 35.0}, {""id"": 609464088, ""node1"": 116780, ""node2"": 44961, ""type"": 5, ""w"": -5.0}]"
+cuire,servir,[]
+cuire,préparer,"[{""id"": 54314785, ""node1"": 5115, ""node2"": 36246, ""type"": 0, ""w"": 28.0}, {""id"": 53730146, ""node1"": 5115, ""node2"": 36246, ""type"": 5, ""w"": 113.0}]"
+préparer,sauce,"[{""id"": 395781320, ""node1"": 36246, ""node2"": 141110, ""type"": 0, ""w"": 35.0}, {""id"": 373014451, ""node1"": 36246, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]"
+préparer,mélanger,[]
+mélanger,ingrédient,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]"
+cuire,ajouter,[]

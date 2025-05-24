@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,thé,obj,NOUN,0.5465935468673706,[],,
+boisson,thé,nsubj,NOUN,0.5733025670051575,"[{""id"": 113597, ""node1"": 113547, ""node2"": 143378, ""type"": 0, ""w"": 401.0}, {""id"": 566607, ""node1"": 113547, ""node2"": 143378, ""type"": 5, ""w"": 91.0}, {""id"": 1887272, ""node1"": 113547, ""node2"": 143378, ""type"": 8, ""w"": 66.0}, {""id"": 15222000, ""node1"": 113547, ""node2"": 143378, ""type"": 27, ""w"": 30.0}, {""id"": 653260792, ""node1"": 113547, ""node2"": 143378, ""type"": 666, ""w"": 8.0}]",r_associated,401.0
+thé,orge,nmod,NOUN,0.5729385018348694,"[{""id"": 4977676, ""node1"": 143378, ""node2"": 54538, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+tisane,orge,nmod,NOUN,0.527714192867279,"[{""id"": 3684445, ""node1"": 99919, ""node2"": 54538, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+orge,grillé,amod,ADJ,0.5528905987739563,[],,
+boisson,base,nmod,NOUN,0.582430362701416,[],,
+base,grain,nmod,NOUN,0.6113793253898621,[],,
+grain,orge,nmod,NOUN,0.5185433030128479,"[{""id"": 258958, ""node1"": 57895, ""node2"": 54538, ""type"": 0, ""w"": 80.0}, {""id"": 2309198, ""node1"": 57895, ""node2"": 54538, ""type"": 6, ""w"": 1.0}, {""id"": 13094050, ""node1"": 57895, ""node2"": 54538, ""type"": 11, ""w"": 51.0}]",r_associated,80.0
+chinois,simplifier,amod,ADJ,0.4037397503852844,[],,
+chinois,traditionnel,amod,ADJ,0.4231434166431427,[],,
+chinois,contenir,acl,VERB,0.4392715692520141,[],,
+contenir,caféine,obj,NOUN,0.4191724061965942,[],,
+consommer,thé,nsubj:pass,NOUN,0.5756731033325195,"[{""id"": 29346763, ""node1"": 97571, ""node2"": 143378, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+consommer,remplacer,advcl,VERB,0.4844403564929962,[],,
+remplacer,eau,obj,NOUN,0.5622731447219849,[],,
+eau,potable,amod,ADJ,0.5076634287834167,"[{""id"": 200938, ""node1"": 65012, ""node2"": 122608, ""type"": 0, ""w"": 54.0}, {""id"": 124208, ""node1"": 65012, ""node2"": 122608, ""type"": 17, ""w"": 92.0}]",r_carac,92.0
+foyer,nombreux,amod,ADJ,0.4168128371238708,[],,
+eau,foyer,nmod,NOUN,0.5825843214988708,[],,
+rafraîchissement,populaire,amod,ADJ,0.4071608185768127,[],,
+disponible,thé,nsubj,NOUN,0.537987470626831,[],,
+bouteille,Chine,nmod,PROPN,0.4123120307922363,[],,
+sachet,Corée,nmod,PROPN,0.4207159280776977,[],,

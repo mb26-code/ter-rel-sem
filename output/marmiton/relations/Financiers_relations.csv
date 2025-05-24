@@ -1,0 +1,34 @@
+node1,node2,relations
+financier,ingrédient,[]
+financier,sel,[]
+beurre,sucre,"[{""id"": 500926020, ""node1"": 140377, ""node2"": 139481, ""type"": 0, ""w"": 2.0}]"
+sucre,farine,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]"
+sucre,amande,[]
+amande,poudre,[]
+poudre,blanc,"[{""id"": 797000183, ""node1"": 139470, ""node2"": 15196, ""type"": 0, ""w"": 24.0}, {""id"": 3186318, ""node1"": 139470, ""node2"": 15196, ""type"": 106, ""w"": 3.0}]"
+blanc,oeuf,"[{""id"": 215721, ""node1"": 15196, ""node2"": 116175, ""type"": 0, ""w"": 84.0}, {""id"": 31299415, ""node1"": 15196, ""node2"": 116175, ""type"": 3, ""w"": 32.0}, {""id"": 76136326, ""node1"": 15196, ""node2"": 116175, ""type"": 10, ""w"": 26.0}, {""id"": 373603, ""node1"": 15196, ""node2"": 116175, ""type"": 23, ""w"": 110.0}, {""id"": 91492401, ""node1"": 15196, ""node2"": 116175, ""type"": 35, ""w"": 54.0}]"
+oeuf,saladier,[]
+sucre,casserole,[]
+casserole,moule,[]
+moule,financier,[]
+moule,four,"[{""id"": 558702307, ""node1"": 143723, ""node2"": 9190, ""type"": 0, ""w"": 27.0}, {""id"": 253548963, ""node1"": 143723, ""node2"": 9190, ""type"": 15, ""w"": 4.0}]"
+four,balance,[]
+balance,cuisine,[]
+balance,étape,[]
+sucre,four,[]
+four,200,[]
+sucre,degré,[]
+extraire,thermostat,[]
+beurre,moule,[]
+avoir,moule,[]
+mélange,récipient,[]
+récipient,poudre,"[{""id"": 3612784, ""node1"": 89628, ""node2"": 139470, ""type"": 777, ""w"": 10.0}]"
+poudre,amande,[]
+farine,fluide,"[{""id"": 430812, ""node1"": 127629, ""node2"": 57625, ""type"": 17, ""w"": 51.0}]"
+blanc,neige,"[{""id"": 116991, ""node1"": 15196, ""node2"": 3699, ""type"": 0, ""w"": 509.77}, {""id"": 117866, ""node1"": 15196, ""node2"": 3699, ""type"": 23, ""w"": 320.0}, {""id"": 1622496, ""node1"": 15196, ""node2"": 3699, ""type"": 666, ""w"": 12.0}]"
+neige,ferme,[]
+pincée,sel,"[{""id"": 665112730, ""node1"": 122023, ""node2"": 13260, ""type"": 174, ""w"": 40.0}, {""id"": 990072491, ""node1"": 122023, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]"
+mélange,précédent,[]
+fondre,beurre,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]"
+sortie,four,[]
+bon,appétit,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]"

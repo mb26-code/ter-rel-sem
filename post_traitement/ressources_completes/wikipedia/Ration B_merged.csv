@@ -1,0 +1,34 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ration,nmod,NOUN,0.4548418223857879,[],,
+terme,ration,nsubj,NOUN,0.4811470508575439,[],,
+ration,type,nmod,NOUN,0.4896264672279358,[],,
+terme,utiliser,acl,VERB,0.417352944612503,"[{""id"": 476541382, ""node1"": 144149, ""node2"": 62611, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+désigner,repas,obj,NOUN,0.5291751623153687,[],,
+repas,fournir,acl,VERB,0.5329949855804443,"[{""id"": 15073214, ""node1"": 74736, ""node2"": 96775, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+préparer,qui,nsubj:pass,PRON,0.4379707872867584,[],,
+troupe,préparer,acl:relcl,VERB,0.4274460077285766,[],,
+préparer,utiliser,advcl,VERB,0.4703598916530609,[],,
+utiliser,ingrédient,obj,NOUN,0.578764796257019,[],,
+ingrédient,conserve,acl:relcl,VERB,0.6048109531402588,[],,
+pouvoir,ration,nsubj,NOUN,0.4513615071773529,[],,
+cuisine,campagne,nmod,NOUN,0.600553572177887,"[{""id"": 957337727, ""node1"": 16033, ""node2"": 79444, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+garnison,disposer,acl,VERB,0.4163288474082947,[],,
+différer,ration,nsubj,NOUN,0.4338577687740326,[],,
+sens,utiliser,acl,VERB,0.4148679673671722,[],,
+ingrédient,frais,amod,ADJ,0.5241696238517761,[],,
+distinguer,repas,nsubj,NOUN,0.5400535464286804,[],,
+distinguer,ration,obj,NOUN,0.448386549949646,[],,
+ration,campagne,nmod,NOUN,0.4630990326404571,[],,
+cuisine,lieu,nmod,NOUN,0.561823308467865,"[{""id"": 9639931, ""node1"": 16033, ""node2"": 135190, ""type"": 0, ""w"": 504.0}, {""id"": 629146, ""node1"": 16033, ""node2"": 135190, ""type"": 6, ""w"": 54.0}, {""id"": 15173610, ""node1"": 16033, ""node2"": 135190, ""type"": 27, ""w"": 28.0}, {""id"": 11320820, ""node1"": 16033, ""node2"": 135190, ""type"": 28, ""w"": 40.0}]",r_associated,504.0
+cuisine,distribuer,acl,VERB,0.6490744352340698,[],,
+niveau,consommation,nmod,NOUN,0.4388171434402466,[],,
+comprendre,ration,obj,NOUN,0.4595862030982971,[],,
+kit,repas,amod,NOUN,0.4465636909008026,[],,
+alimenter,groupe,obj,NOUN,0.4055474400520324,[],,
+groupe,repas,nmod,NOUN,0.5051271319389343,[],,
+comprendre,plateau,obj,NOUN,0.4753358662128448,[],,
+plateau,pouvoir,acl,VERB,0.430692195892334,[],,
+chauffer,servir,advcl,VERB,0.5686711668968201,[],,
+pouvoir,chauffage,nsubj,NOUN,0.4650631844997406,[],,
+eau,chaud,amod,ADJ,0.6119096279144287,"[{""id"": 915041142, ""node1"": 65012, ""node2"": 19150, ""type"": 0, ""w"": 20.0}, {""id"": 432164, ""node1"": 65012, ""node2"": 19150, ""type"": 17, ""w"": 131.0}]",r_carac,131.0
+eau,cuisine,nmod,NOUN,0.628260612487793,"[{""id"": 15309985, ""node1"": 65012, ""node2"": 16033, ""type"": 0, ""w"": 402.0}, {""id"": 14687282, ""node1"": 65012, ""node2"": 16033, ""type"": 3, ""w"": 975.75}, {""id"": 240071, ""node1"": 65012, ""node2"": 16033, ""type"": 15, ""w"": 98.0}, {""id"": 1786108, ""node1"": 65012, ""node2"": 16033, ""type"": 666, ""w"": 1.0}]",r_domain,975.75

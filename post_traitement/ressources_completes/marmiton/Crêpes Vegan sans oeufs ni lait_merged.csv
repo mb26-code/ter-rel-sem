@@ -1,0 +1,27 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+devoir,crêpe,advcl,NOUN,0.5668972134590149,[],,
+crêpe,oeuf,nmod,NOUN,0.6254936456680298,"[{""id"": 291369808, ""node1"": 17186, ""node2"": 116175, ""type"": 0, ""w"": 3.0}, {""id"": 1040445355, ""node1"": 17186, ""node2"": 116175, ""type"": 9, ""w"": 28.0}, {""id"": 98284697, ""node1"": 17186, ""node2"": 116175, ""type"": 28, ""w"": 30.0}, {""id"": 98284632, ""node1"": 17186, ""node2"": 116175, ""type"": 50, ""w"": 15.0}, {""id"": 291369807, ""node1"": 17186, ""node2"": 116175, ""type"": 666, ""w"": 2.0}]",r_lieu-1,30.0
+lait,ingrédient,nmod,NOUN,0.6221581101417542,"[{""id"": 15370374, ""node1"": 86296, ""node2"": 123418, ""type"": 0, ""w"": 37.0}, {""id"": 506059, ""node1"": 86296, ""node2"": 123418, ""type"": 3, ""w"": 56.0}]",r_domain,56.0
+lait,farine,amod,NOUN,0.655971109867096,[],,
+bière,lait,nmod,NOUN,0.6183676719665527,"[{""id"": 385497924, ""node1"": 106797, ""node2"": 86296, ""type"": 8, ""w"": -25.0}]",r_hypo,-25.0
+louche,saladier,nmod,NOUN,0.6017233729362488,[],,
+saladier,casserole,appos,NOUN,0.6254573464393616,[],,
+casserole,fouet,nmod,NOUN,0.5830783247947693,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+crêpe,poêle,obj,NOUN,0.6810430288314819,"[{""id"": 98284666, ""node1"": 17186, ""node2"": 119686, ""type"": 0, ""w"": 24.0}, {""id"": 98284690, ""node1"": 17186, ""node2"": 119686, ""type"": 15, ""w"": 43.0}]",r_lieu,43.0
+crêpe,crêpe,nmod,NOUN,0.5387868881225586,"[{""id"": 1077682175, ""node1"": 17186, ""node2"": 17186, ""type"": 0, ""w"": 30.0}, {""id"": 292067, ""node1"": 17186, ""node2"": 17186, ""type"": 19, ""w"": 60.0}]",r_lemma,60.0
+crêpe,balance,obj,NOUN,0.5917694568634033,"[{""id"": 347084028, ""node1"": 17186, ""node2"": 145190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+verser,farine,obj,NOUN,0.6472393274307251,"[{""id"": 25676320, ""node1"": 104506, ""node2"": 127629, ""type"": 14, ""w"": 40.0}]",r_patient,40.0
+crêpe,lait,obj,NOUN,0.6628351807594299,"[{""id"": 362158, ""node1"": 17186, ""node2"": 86296, ""type"": 0, ""w"": 72.0}, {""id"": 1040445354, ""node1"": 17186, ""node2"": 86296, ""type"": 9, ""w"": 28.0}, {""id"": 98284623, ""node1"": 17186, ""node2"": 86296, ""type"": 50, ""w"": 12.0}, {""id"": 291369809, ""node1"": 17186, ""node2"": 86296, ""type"": 666, ""w"": 2.0}]",r_associated,72.0
+crêpe,casserole,nmod,NOUN,0.6647050380706787,[],,
+casserole,attention,appos,NOUN,0.5869799256324768,[],,
+devoir,lait,nsubj,NOUN,0.564357578754425,[],,
+incorporer,lait,obj,NOUN,0.5882614850997925,[],,
+lait,petit,amod,ADJ,0.603304922580719,"[{""id"": 1794036, ""node1"": 86296, ""node2"": 55222, ""type"": 666, ""w"": 1.0}]",r_aki,1.0
+former,pâte,obj,NOUN,0.6060660481452942,"[{""id"": 97862150, ""node1"": 66314, ""node2"": 34069, ""type"": 14, ""w"": 39.0}]",r_patient,39.0
+ajouter,bière,obj,NOUN,0.5643824934959412,[],,
+bière,battre,amod,VERB,0.545354962348938,[],,
+ajouter,pâte,obj,NOUN,0.6482475399971008,[],,
+reposer,minute,obj,NOUN,0.4512225389480591,[],,

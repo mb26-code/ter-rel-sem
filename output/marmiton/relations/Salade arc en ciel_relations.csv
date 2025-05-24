@@ -1,0 +1,38 @@
+node1,node2,relations
+salade,arc,[]
+salade,ciel,[]
+ciel,ingrédient,[]
+salade,poivre,"[{""id"": 97758233, ""node1"": 118908, ""node2"": 139597, ""type"": 0, ""w"": 35.0}, {""id"": 97758234, ""node1"": 118908, ""node2"": 139597, ""type"": 9, ""w"": 40.0}]"
+poivre,huile,"[{""id"": 917898979, ""node1"": 139597, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]"
+poivre,vinaigre,"[{""id"": 584573829, ""node1"": 139597, ""node2"": 145443, ""type"": 0, ""w"": 22.0}]"
+vinaigre,balsamique,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]"
+vinaigre,vinaigre,"[{""id"": 341194, ""node1"": 145443, ""node2"": 145443, ""type"": 19, ""w"": 54.0}, {""id"": 93913784, ""node1"": 145443, ""node2"": 145443, ""type"": 50, ""w"": 32.0}, {""id"": 376038282, ""node1"": 145443, ""node2"": 145443, ""type"": 51, ""w"": 26.0}]"
+vinaigre,vin,"[{""id"": 260680, ""node1"": 145443, ""node2"": 35798, ""type"": 0, ""w"": 213.0}, {""id"": 82356060, ""node1"": 145443, ""node2"": 35798, ""type"": 6, ""w"": 36.0}, {""id"": 375688370, ""node1"": 145443, ""node2"": 35798, ""type"": 56, ""w"": 35.0}, {""id"": 1527098, ""node1"": 145443, ""node2"": 35798, ""type"": 666, ""w"": 2.0}]"
+vin,citron,[]
+salade,jus,[]
+jus,ananas,"[{""id"": 899180188, ""node1"": 53310, ""node2"": 115827, ""type"": 0, ""w"": 22.0}, {""id"": 1055429116, ""node1"": 53310, ""node2"": 115827, ""type"": 666, ""w"": 2.0}]"
+jus,ciboulette,[]
+jus,cocktail,"[{""id"": 918652772, ""node1"": 53310, ""node2"": 132548, ""type"": 0, ""w"": 24.0}, {""id"": 980320658, ""node1"": 53310, ""node2"": 132548, ""type"": 666, ""w"": 2.0}]"
+cocktail,pomme,"[{""id"": 797918057, ""node1"": 132548, ""node2"": 37201, ""type"": 0, ""w"": 28.0}]"
+pomme,terre,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+pomme,fumé,[]
+jus,saladier,[]
+saladier,assiette,[]
+assiette,étape,[]
+jus,assiette,[]
+salade,disposer,[]
+disposer,mélange,[]
+mélange,salade,"[{""id"": 937482, ""node1"": 14800, ""node2"": 118908, ""type"": 0, ""w"": 60.0}, {""id"": 53720361, ""node1"": 14800, ""node2"": 118908, ""type"": 5, ""w"": 89.0}, {""id"": 9624542, ""node1"": 14800, ""node2"": 118908, ""type"": 8, ""w"": 21.0}, {""id"": 14649422, ""node1"": 14800, ""node2"": 118908, ""type"": 41, ""w"": 42.0}]"
+ajouter,pomme,[]
+terre,couper,[]
+cube,ananas,[]
+ananas,couper,"[{""id"": 32052538, ""node1"": 115827, ""node2"": 128828, ""type"": 26, ""w"": 30.0}]"
+tranche,saumon,"[{""id"": 720818759, ""node1"": 143123, ""node2"": 3361, ""type"": 174, ""w"": 25.0}]"
+saumon,fumé,"[{""id"": 156540, ""node1"": 3361, ""node2"": 23335, ""type"": 0, ""w"": 122.0}, {""id"": 14803107, ""node1"": 3361, ""node2"": 23335, ""type"": 17, ""w"": 22.0}, {""id"": 3189320, ""node1"": 3361, ""node2"": 23335, ""type"": 106, ""w"": -11.0}, {""id"": 502202500, ""node1"": 3361, ""node2"": 23335, ""type"": 666, ""w"": 9.0}]"
+tranche,assiette,"[{""id"": 2124558, ""node1"": 143123, ""node2"": 62735, ""type"": 15, ""w"": 88.0}]"
+répartir,œuf,[]
+œuf,couper,[]
+récipient,petit,[]
+disposer,récipient,[]
+récipient,sauce,"[{""id"": 345611970, ""node1"": 89628, ""node2"": 141110, ""type"": 28, ""w"": 26.0}]"
+récipient,cocktail,[]

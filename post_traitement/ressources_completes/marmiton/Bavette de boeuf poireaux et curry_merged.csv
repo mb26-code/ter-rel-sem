@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+boeuf,poireau,nmod,NOUN,0.6372915506362915,[],,
+curry,ingrédient,nmod,NOUN,0.6966756582260132,[],,
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+curry,crème,nmod,NOUN,0.7014504671096802,[],,
+crème,beurre,nmod,NOUN,0.6757769584655762,"[{""id"": 405906, ""node1"": 44001, ""node2"": 140377, ""type"": 0, ""w"": 73.0}, {""id"": 9980280, ""node1"": 44001, ""node2"": 140377, ""type"": 10, ""w"": 4.0}, {""id"": 1836384, ""node1"": 44001, ""node2"": 140377, ""type"": 21, ""w"": 60.0}, {""id"": 306776452, ""node1"": 44001, ""node2"": 140377, ""type"": 666, ""w"": 2.0}]",r_associated,73.0
+beurre,poireau,nmod,NOUN,0.694847047328949,[],,
+curry,couteau,nmod,NOUN,0.6959154009819031,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+curry,étape,nmod,NOUN,0.6459842920303345,[],,
+curry,cuire,acl,VERB,0.8012837767601013,[],,
+cuire,poireau,obj,NOUN,0.7599535584449768,[],,
+quantité,grand,amod,ADJ,0.4879739582538605,"[{""id"": 1717406, ""node1"": 78869, ""node2"": 23178, ""type"": 17, ""w"": 10.0}]",r_carac,10.0
+quantité,eau,nmod,NOUN,0.5596113204956055,[],,
+sel,gros,amod,ADJ,0.6553788781166077,"[{""id"": 188164, ""node1"": 13260, ""node2"": 88096, ""type"": 0, ""w"": 60.0}, {""id"": 645838, ""node1"": 13260, ""node2"": 88096, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+quantité,sel,nmod,NOUN,0.6791085004806519,[],,
+sel,min,nmod,NOUN,0.5870269536972046,[],,
+mettre,beurre,obj,NOUN,0.663346529006958,"[{""id"": 371985740, ""node1"": 132366, ""node2"": 140377, ""type"": 0, ""w"": 32.0}, {""id"": 371985739, ""node1"": 132366, ""node2"": 140377, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+poêle,revenir,acl,VERB,0.6474907398223877,[],,
+revenir,poireau,obj,NOUN,0.620061993598938,[],,
+viande,feu,nmod,NOUN,0.6670684814453125,"[{""id"": 327814450, ""node1"": 140100, ""node2"": 143703, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+feu,vif,amod,ADJ,0.5094798803329468,"[{""id"": 418102926, ""node1"": 143703, ""node2"": 80204, ""type"": 0, ""w"": 13.0}, {""id"": 221184, ""node1"": 143703, ""node2"": 80204, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
+colorer,viande,nsubj,NOUN,0.7346773743629456,[],,
+ajouter,colorer,advcl,VERB,0.507414698600769,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+soupe,curry,nmod,NOUN,0.7249927520751953,[],,
+riz,thaï,amod,ADJ,0.6133593320846558,"[{""id"": 2241114, ""node1"": 24372, ""node2"": 113084, ""type"": 0, ""w"": 54.0}, {""id"": 3140016, ""node1"": 24372, ""node2"": 113084, ""type"": 8, ""w"": 132.0}, {""id"": 2207442, ""node1"": 24372, ""node2"": 113084, ""type"": 17, ""w"": 29.0}]",r_hypo,132.0

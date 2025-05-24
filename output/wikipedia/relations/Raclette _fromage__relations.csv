@@ -1,0 +1,56 @@
+node1,node2,relations
+titre,raclette,[]
+raclette,fromage,"[{""id"": 425191, ""node1"": 32204, ""node2"": 141687, ""type"": 0, ""w"": 626.5}, {""id"": 506320, ""node1"": 32204, ""node2"": 141687, ""type"": 3, ""w"": 56.0}, {""id"": 506299, ""node1"": 32204, ""node2"": 141687, ""type"": 6, ""w"": 110.0}, {""id"": 1773643, ""node1"": 32204, ""node2"": 141687, ""type"": 9, ""w"": 26.0}, {""id"": 24775138, ""node1"": 32204, ""node2"": 141687, ""type"": 35, ""w"": 74.0}, {""id"": 73864241, ""node1"": 32204, ""node2"": 141687, ""type"": 50, ""w"": 55.0}, {""id"": 1761947, ""node1"": 32204, ""node2"": 141687, ""type"": 666, ""w"": 11.0}]"
+voir,raclette,[]
+fromage,modifier,[]
+fromage,base,[]
+base,lait,[]
+lait,croire,[]
+fromage,pâte,"[{""id"": 83648051, ""node1"": 141687, ""node2"": 34069, ""type"": 0, ""w"": 33.0}, {""id"": 96698106, ""node1"": 141687, ""node2"": 34069, ""type"": 9, ""w"": 32.0}, {""id"": 1070020056, ""node1"": 141687, ""node2"": 34069, ""type"": 666, ""w"": 2.0}]"
+fromage,presser,"[{""id"": 96698035, ""node1"": 141687, ""node2"": 47617, ""type"": 38, ""w"": 15.0}]"
+préparation,raclette,"[{""id"": 246227507, ""node1"": 33634, ""node2"": 32204, ""type"": 8, ""w"": 31.0}]"
+fabriquer,fromage,[]
+fromage,raclette,"[{""id"": 436582, ""node1"": 141687, ""node2"": 32204, ""type"": 0, ""w"": 158.0}, {""id"": 3142823, ""node1"": 141687, ""node2"": 32204, ""type"": 8, ""w"": 41.0}, {""id"": 9990133, ""node1"": 141687, ""node2"": 32204, ""type"": 10, ""w"": 4.0}, {""id"": 15173529, ""node1"": 141687, ""node2"": 32204, ""type"": 27, ""w"": 32.0}, {""id"": 376049814, ""node1"": 141687, ""node2"": 32204, ""type"": 51, ""w"": 29.0}]"
+raclette,lait,"[{""id"": 417833585, ""node1"": 32204, ""node2"": 86296, ""type"": 0, ""w"": 36.0}, {""id"": 417833584, ""node1"": 32204, ""node2"": 86296, ""type"": 3, ""w"": 32.0}]"
+période,meilleur,[]
+étendre,période,[]
+période,consommation,[]
+fabriquer,étendre,[]
+obtenir,raclette,[]
+raclette,Valais,"[{""id"": 3935900, ""node1"": 32204, ""node2"": 44781, ""type"": 777, ""w"": 10.0}]"
+limiter,production,[]
+production,raclette,[]
+fabrication,lait,[]
+raclette,coupe,[]
+terme,attaquer,[]
+protection,quantité,[]
+quantité,important,"[{""id"": 899404385, ""node1"": 78869, ""node2"": 9518, ""type"": 0, ""w"": 20.0}]"
+quantité,fromage,[]
+quantité,raclette,[]
+protection,terme,[]
+raclette,seul,[]
+supprimer,raclette,[]
+désigner,raclette,[]
+désigner,préparation,[]
+préparation,culinaire,"[{""id"": 601611802, ""node1"": 33634, ""node2"": 347, ""type"": 0, ""w"": 30.0}]"
+rester,terme,[]
+terme,raclette,[]
+fabriquer,rester,[]
+étale,période,[]
+période,dégustation,[]
+dégustation,optimal,[]
+tome,poids,[]
+poids,moyen,"[{""id"": 12077592, ""node1"": 123836, ""node2"": 34933, ""type"": 0, ""w"": 61.0}, {""id"": 12074290, ""node1"": 123836, ""node2"": 34933, ""type"": 8, ""w"": 71.0}]"
+vin,blanc,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]"
+vin,fumé,[]
+opération,production,[]
+production,lait,"[{""id"": 941629926, ""node1"": 13444, ""node2"": 86296, ""type"": 0, ""w"": 20.0}]"
+comprendre,totalité,"[{""id"": 589130268, ""node1"": 131333, ""node2"": 59103, ""type"": 14, ""w"": 31.0}]"
+provenir,lait,[]
+alimentation,vache,"[{""id"": 15276710, ""node1"": 113902, ""node2"": 138501, ""type"": 0, ""w"": 26.0}, {""id"": 15142882, ""node1"": 113902, ""node2"": 138501, ""type"": 27, ""w"": 30.0}]"
+producteur,laitier,[]
+fabrique,fromage,[]
+fromage,lait,"[{""id"": 106089, ""node1"": 141687, ""node2"": 86296, ""type"": 0, ""w"": 420.0}, {""id"": 96698063, ""node1"": 141687, ""node2"": 86296, ""type"": 3, ""w"": 30.0}, {""id"": 96698122, ""node1"": 141687, ""node2"": 86296, ""type"": 6, ""w"": -54.0}, {""id"": 385497933, ""node1"": 141687, ""node2"": 86296, ""type"": 8, ""w"": -26.0}, {""id"": 24567307, ""node1"": 141687, ""node2"": 86296, ""type"": 9, ""w"": 52.0}, {""id"": 665159283, ""node1"": 141687, ""node2"": 86296, ""type"": 17, ""w"": -5.0}, {""id"": 207495, ""node1"": 141687, ""node2"": 86296, ""type"": 21, ""w"": -52.0}, {""id"": 1555514, ""node1"": 141687, ""node2"": 86296, ""type"": 42, ""w"": 173.0}, {""id"": 96698114, ""node1"": 141687, ""node2"": 86296, ""type"": 50, ""w"": 36.0}, {""id"": 1765263, ""node1"": 141687, ""node2"": 86296, ""type"": 666, ""w"": 10.0}]"
+pouvoir,fondre,[]
+projet,autre,[]
+raclette,projet,[]

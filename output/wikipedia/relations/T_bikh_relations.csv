@@ -1,0 +1,25 @@
+node1,node2,relations
+mets,originaire,[]
+mets,ville,"[{""id"": 109918587, ""node1"": 114839, ""node2"": 136786, ""type"": 777, ""w"": 10.0}]"
+gelée,base,[]
+base,miel,"[{""id"": 941746901, ""node1"": 72257, ""node2"": 136055, ""type"": 0, ""w"": 20.0}]"
+viande,bœuf,"[{""id"": 10577328, ""node1"": 140100, ""node2"": 168216, ""type"": 0, ""w"": 59.0}, {""id"": 9627859, ""node1"": 140100, ""node2"": 168216, ""type"": 8, ""w"": 95.0}, {""id"": 15173562, ""node1"": 140100, ""node2"": 168216, ""type"": 27, ""w"": 30.0}, {""id"": 646611390, ""node1"": 140100, ""node2"": 168216, ""type"": 666, ""w"": 1.0}]"
+servir,faire,"[{""id"": 53718752, ""node1"": 7888, ""node2"": 87528, ""type"": 0, ""w"": 21.0}, {""id"": 53681355, ""node1"": 7888, ""node2"": 87528, ""type"": 5, ""w"": 155.0}]"
+faire,partie,[]
+faire,servir,"[{""id"": 54319751, ""node1"": 87528, ""node2"": 7888, ""type"": 0, ""w"": 24.0}, {""id"": 53718753, ""node1"": 87528, ""node2"": 7888, ""type"": 5, ""w"": 19.0}]"
+filtrer,préparer,[]
+préparer,sauce,"[{""id"": 395781320, ""node1"": 36246, ""node2"": 141110, ""type"": 0, ""w"": 35.0}, {""id"": 373014451, ""node1"": 36246, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]"
+viande,oignon,[]
+servir,filtrer,[]
+forme,jus,[]
+faire,préparation,[]
+préparation,gelée,"[{""id"": 601611739, ""node1"": 33634, ""node2"": 47620, ""type"": 0, ""w"": 26.0}]"
+amidon,dissoudre,[]
+eau,rose,"[{""id"": 459007855, ""node1"": 65012, ""node2"": 145583, ""type"": 17, ""w"": 26.0}]"
+devenir,préparation,[]
+retirer,devenir,[]
+ajouter,verre,[]
+verre,amande,[]
+gelée,prêt,[]
+servir,lui,[]
+morceau,viande,"[{""id"": 179412, ""node1"": 65364, ""node2"": 140100, ""type"": 0, ""w"": 83.0}, {""id"": 1007988744, ""node1"": 65364, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]"

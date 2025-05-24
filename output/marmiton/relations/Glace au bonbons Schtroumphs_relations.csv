@@ -1,0 +1,43 @@
+node1,node2,relations
+glace,bonbon,[]
+préparer,ingrédient,[]
+ingrédient,sucre,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]"
+sucre,lait,[]
+lait,bonbon,[]
+bonbon,jaune,"[{""id"": 3183843, ""node1"": 120500, ""node2"": 86711, ""type"": 106, ""w"": 1.0}]"
+bonbon,oeuf,[]
+sucre,casserole,[]
+casserole,saladier,[]
+saladier,couteau,[]
+saladier,cuillère,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]"
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,congélateur,[]
+congélateur,balance,[]
+balance,cuisine,[]
+balance,étape,[]
+préparer,casserole,"[{""id"": 477633583, ""node1"": 36246, ""node2"": 57253, ""type"": 0, ""w"": 26.0}, {""id"": 477633582, ""node1"": 36246, ""node2"": 57253, ""type"": 31, ""w"": 26.0}]"
+fond,eau,"[{""id"": 96691076, ""node1"": 119272, ""node2"": 65012, ""type"": 0, ""w"": 37.0}, {""id"": 98303780, ""node1"": 119272, ""node2"": 65012, ""type"": 9, ""w"": 30.0}]"
+eau,fondre,"[{""id"": 75028675, ""node1"": 65012, ""node2"": 16480, ""type"": 24, ""w"": 52.0}, {""id"": 600063643, ""node1"": 65012, ""node2"": 16480, ""type"": 27, ""w"": 26.0}]"
+fondre,mélanger,"[{""id"": 871025, ""node1"": 16480, ""node2"": 37151, ""type"": 0, ""w"": 170.0}, {""id"": 54398946, ""node1"": 16480, ""node2"": 37151, ""type"": 5, ""w"": 103.0}, {""id"": 1578626, ""node1"": 16480, ""node2"": 37151, ""type"": 35, ""w"": 170.0}]"
+casserole,mettre,[]
+mettre,lait,[]
+couper,feu,[]
+saladier,mettre,[]
+mettre,sucre,"[{""id"": 374875286, ""node1"": 132366, ""node2"": 139481, ""type"": 0, ""w"": 40.0}, {""id"": 374875285, ""node1"": 132366, ""node2"": 139481, ""type"": 14, ""w"": 100.0}]"
+jaune,oeuf,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]"
+incorporer,mélange,"[{""id"": 1313256, ""node1"": 3845, ""node2"": 14800, ""type"": 0, ""w"": 31.0}]"
+mélange,sucre,[]
+mélange,oeuf,[]
+cuire,jaune,[]
+cuire,crème,"[{""id"": 352516503, ""node1"": 5115, ""node2"": 44001, ""type"": 31, ""w"": 26.0}]"
+crème,feu,[]
+feu,doux,[]
+cuire,couper,[]
+principe,crème,[]
+crème,anglais,[]
+ceci,tout,[]
+pouvoir,ceci,[]
+ceci,préparer,[]
+mettre,bonbon,[]
+mettre,tout,[]
+fonction,appareil,[]

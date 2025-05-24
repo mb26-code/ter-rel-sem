@@ -1,0 +1,32 @@
+node1,node2,relations
+mascarpone,ingrédient,[]
+mascarpone,cacao,[]
+cacao,amer,"[{""id"": 914305448, ""node1"": 68363, ""node2"": 97910, ""type"": 0, ""w"": 21.0}, {""id"": 76024991, ""node1"": 68363, ""node2"": 97910, ""type"": 17, ""w"": 31.0}, {""id"": 1787117, ""node1"": 68363, ""node2"": 97910, ""type"": 666, ""w"": 1.0}]"
+sel,gros,"[{""id"": 188164, ""node1"": 13260, ""node2"": 88096, ""type"": 0, ""w"": 60.0}, {""id"": 645838, ""node1"": 13260, ""node2"": 88096, ""type"": 17, ""w"": 60.0}]"
+amer,sel,[]
+sel,beurre,"[{""id"": 29328492, ""node1"": 13260, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 9986817, ""node1"": 13260, ""node2"": 140377, ""type"": 10, ""w"": 35.0}]"
+facile,sucre,[]
+sucre,confiture,"[{""id"": 244457, ""node1"": 139481, ""node2"": 70793, ""type"": 0, ""w"": 58.0}, {""id"": 1656503, ""node1"": 139481, ""node2"": 70793, ""type"": 20, ""w"": 59.0}, {""id"": 651011196, ""node1"": 139481, ""node2"": 70793, ""type"": 666, ""w"": 2.0}]"
+confiture,lait,"[{""id"": 585584618, ""node1"": 70793, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 765215486, ""node1"": 70793, ""node2"": 86296, ""type"": 17, ""w"": -5.0}]"
+lait,mascarpone,"[{""id"": 899321476, ""node1"": 86296, ""node2"": 115657, ""type"": 0, ""w"": 20.0}, {""id"": 428609720, ""node1"": 86296, ""node2"": 115657, ""type"": 8, ""w"": -2.0}, {""id"": 598510443, ""node1"": 86296, ""node2"": 115657, ""type"": 27, ""w"": 31.0}]"
+mascarpone,petit,[]
+mascarpone,lire,[]
+saladier,balance,[]
+balance,cuisine,[]
+cuisine,frigo,"[{""id"": 118986, ""node1"": 16033, ""node2"": 45624, ""type"": 0, ""w"": 304.0}, {""id"": 9973132, ""node1"": 16033, ""node2"": 45624, ""type"": 9, ""w"": 10.0}, {""id"": 15222678, ""node1"": 16033, ""node2"": 45624, ""type"": 27, ""w"": 27.0}, {""id"": 151638, ""node1"": 16033, ""node2"": 45624, ""type"": 28, ""w"": 868.0}]"
+frigo,plat,"[{""id"": 13500927, ""node1"": 45624, ""node2"": 36327, ""type"": 28, ""w"": 40.0}]"
+moitié,paquet,[]
+paquet,gâteau,[]
+morceau,beurre,[]
+fond,plat,"[{""id"": 961890508, ""node1"": 119272, ""node2"": 36327, ""type"": 10, ""w"": 25.0}]"
+constituer,fond,[]
+fond,gâteau,[]
+moitié,pot,[]
+pot,confiture,"[{""id"": 415003513, ""node1"": 142367, ""node2"": 70793, ""type"": 0, ""w"": 28.0}, {""id"": 775213335, ""node1"": 142367, ""node2"": 70793, ""type"": 174, ""w"": 25.0}, {""id"": 1769589, ""node1"": 142367, ""node2"": 70793, ""type"": 666, ""w"": 2.0}, {""id"": 7861094, ""node1"": 142367, ""node2"": 70793, ""type"": 777, ""w"": 10.0}]"
+pot,gâteau,"[{""id"": 602053254, ""node1"": 142367, ""node2"": 2149, ""type"": 0, ""w"": 24.0}]"
+couper,banane,[]
+mettre,confiture,[]
+mélanger,mascarpone,[]
+mascarpone,sucre,[]
+recouvrir,banane,[]
+mettre,veille,[]

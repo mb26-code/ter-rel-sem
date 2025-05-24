@@ -1,0 +1,19 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,salade,nmod,NOUN,0.6000369191169739,[],,
+salade,tunisien,amod,ADJ,0.5946435332298279,[],,
+concerner,cuisine,obj,NOUN,0.6019042730331421,[],,
+cuisine,tunisien,amod,ADJ,0.5652143359184265,[],,
+salade,salade,nsubj,NOUN,0.602109968662262,"[{""id"": 331573, ""node1"": 118908, ""node2"": 118908, ""type"": 19, ""w"": 57.0}]",r_lemma,57.0
+salade,originaire,amod,ADJ,0.6012061238288879,"[{""id"": 459375905, ""node1"": 118908, ""node2"": 38359, ""type"": 17, ""w"": 51.0}]",r_carac,51.0
+salade,Tunisie,nmod,PROPN,0.5575477480888367,[],,
+base,oignon,nmod,NOUN,0.644149124622345,[],,
+couper,légume,nsubj:pass,NOUN,0.6505833268165588,"[{""id"": 435065646, ""node1"": 128828, ""node2"": 120603, ""type"": 0, ""w"": 26.0}, {""id"": 15079599, ""node1"": 128828, ""node2"": 120603, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+huile,olive,nmod,NOUN,0.573360800743103,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+olive,citron,appos,NOUN,0.6083748936653137,[],,
+garnir,lui,nsubj:pass,PRON,0.4610372185707092,[],,
+couper,garnir,advcl,VERB,0.503680408000946,[],,
+œuf,dur,amod,ADJ,0.5370863080024719,"[{""id"": 560384151, ""node1"": 174124, ""node2"": 72731, ""type"": 0, ""w"": 67.0}]",r_associated,67.0
+manger,lui,nsubj,PRON,0.4788172543048858,[],,
+accompagner,poisson,obj,NOUN,0.6430233716964722,"[{""id"": 474084293, ""node1"": 85830, ""node2"": 68467, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+viande,grillé,amod,ADJ,0.719925582408905,"[{""id"": 2164311, ""node1"": 140100, ""node2"": 141899, ""type"": 17, ""w"": 30.0}]",r_carac,30.0
+projet,autre,amod,ADJ,0.4316383004188537,[],,

@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+Cake,chèvre,amod,X,0.4253566265106201,[],,
+Cake,ingrédient,nmod,NOUN,0.4129388630390167,[],,
+Cake,fromage,acl,NOUN,0.4447282254695892,[],,
+fromage,sel,nmod,NOUN,0.710525393486023,"[{""id"": 24569973, ""node1"": 141687, ""node2"": 13260, ""type"": 0, ""w"": 22.0}, {""id"": 24567308, ""node1"": 141687, ""node2"": 13260, ""type"": 9, ""w"": 51.0}, {""id"": 96698082, ""node1"": 141687, ""node2"": 13260, ""type"": 50, ""w"": 27.0}]",r_has_part,51.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,levure,nmod,NOUN,0.6640017628669739,[],,
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+fromage,farine,amod,NOUN,0.7243756055831909,[],,
+lait,olive,amod,ADP,0.6501455307006836,[],,
+lait,oeuf,nmod,NOUN,0.590930700302124,"[{""id"": 920038083, ""node1"": 86296, ""node2"": 116175, ""type"": 0, ""w"": 21.0}, {""id"": 385498014, ""node1"": 86296, ""node2"": 116175, ""type"": 8, ""w"": -25.0}]",r_associated,21.0
+oeuf,chèvre,amod,X,0.5703332424163818,[],,
+lait,frais,amod,NOUN,0.564607560634613,"[{""id"": 276952, ""node1"": 86296, ""node2"": 53495, ""type"": 17, ""w"": 73.0}]",r_carac,73.0
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+cuillère,top,nmod,NOUN,0.4335919320583343,[],,
+grille,cuillère,nmod,NOUN,0.574907660484314,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+saladier,four,nmod,NOUN,0.6991847157478333,[],,
+four,moule,nmod,NOUN,0.6459261178970337,"[{""id"": 914324367, ""node1"": 9190, ""node2"": 143723, ""type"": 0, ""w"": 20.0}, {""id"": 149292258, ""node1"": 9190, ""node2"": 143723, ""type"": 28, ""w"": 71.0}]",r_lieu-1,71.0
+cuillère,cake,nmod,ADV,0.5880404114723206,[],,
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+grille,mélanger,acl,VERB,0.5905152559280396,[],,
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+ajouter,huile,obj,NOUN,0.5838896036148071,[],,
+lait,tiède,amod,ADJ,0.6278550624847412,"[{""id"": 421005986, ""node1"": 86296, ""node2"": 13843, ""type"": 0, ""w"": 2.0}, {""id"": 14800536, ""node1"": 86296, ""node2"": 13843, ""type"": 17, ""w"": 24.0}]",r_carac,24.0
+ajouter,fromage,obj,NOUN,0.6372005939483643,[],,
+chorizo,couper,acl,VERB,0.5987475514411926,[],,
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+chèvre,frais,amod,NOUN,0.4924013614654541,"[{""id"": 98110044, ""node1"": 93872, ""node2"": 53495, ""type"": 17, ""w"": 54.0}]",r_carac,54.0
+chèvre,morceau,nmod,NOUN,0.6079019904136658,[],,
+mélanger,tout,obj,NOUN,0.528428852558136,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]",r_patient,110.0
+moule,cake,nmod,NOUN,0.5423397421836853,"[{""id"": 272916, ""node1"": 143723, ""node2"": 28945, ""type"": 0, ""w"": 60.0}, {""id"": 583219247, ""node1"": 143723, ""node2"": 28945, ""type"": 28, ""w"": 27.0}]",r_associated,60.0
+déguster,tiède,amod,PROPN,0.6078947186470032,"[{""id"": 31814602, ""node1"": 80710, ""node2"": 13843, ""type"": 34, ""w"": 60.0}]",r_manner,60.0

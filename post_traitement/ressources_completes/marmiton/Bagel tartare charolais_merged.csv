@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+sel,tomate,nmod,NOUN,0.7264893651008606,[],,
+rouge,haché,acl,ADJ,0.5384699106216431,[],,
+cercle,pâtisserie,nmod,NOUN,0.4923855662345886,[],,
+pâtisserie,four,appos,NOUN,0.6954796314239502,"[{""id"": 942271912, ""node1"": 25966, ""node2"": 9190, ""type"": 0, ""w"": 24.0}, {""id"": 15790548, ""node1"": 25966, ""node2"": 9190, ""type"": 15, ""w"": 58.0}, {""id"": 1789859, ""node1"": 25966, ""node2"": 9190, ""type"": 666, ""w"": 1.0}]",r_lieu,58.0
+oignon,rondelle,nmod,NOUN,0.5958291888237,[],,
+préparer,salade,obj,NOUN,0.659733772277832,"[{""id"": 97862166, ""node1"": 36246, ""node2"": 118908, ""type"": 14, ""w"": 30.0}, {""id"": 14652483, ""node1"": 36246, ""node2"": 118908, ""type"": 41, ""w"": 30.0}]",r_patient,30.0
+réserver,prêt,obj,ADJ,0.4307471215724945,[],,
+enfourner,minute,obj,NOUN,0.5091933012008667,[],,
+réserver,thermostat,obj,NOUN,0.5252946019172668,[],,
+thermostat,degré,nmod,NOUN,0.407830536365509,[],,
+démarrer,cuisson,obj,NOUN,0.6949150562286377,"[{""id"": 31865739, ""node1"": 122378, ""node2"": 60056, ""type"": 14, ""w"": 55.0}]",r_patient,55.0
+cuisson,steak,nmod,NOUN,0.7490622997283936,"[{""id"": 796846085, ""node1"": 60056, ""node2"": 55572, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+cuisson,huile,nmod,NOUN,0.7301664352416992,"[{""id"": 796958866, ""node1"": 60056, ""node2"": 141971, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+pain,chapeau,appos,NOUN,0.6379792094230652,[],,
+fromage,rondelle,nmod,NOUN,0.6232084035873413,[],,
+rondelle,oignon,nmod,NOUN,0.5958291888237,[],,
+fromage,tomate,nmod,NOUN,0.6880785226821899,[],,
+poivrer,steak,obj,NOUN,0.6381708383560181,[],,
+steak,chaud,amod,ADJ,0.6481342315673828,[],,
+tranche,dernier,amod,ADJ,0.4207646548748016,[],,
+déposer,tranche,obj,NOUN,0.461878627538681,[],,
+tranche,fromage,nmod,NOUN,0.6097967624664307,"[{""id"": 720818623, ""node1"": 143123, ""node2"": 141687, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+tranche,chaque,nmod,PRON,0.430102527141571,[],,
+ajouter,steak,obj,NOUN,0.6394214630126953,[],,
+steak,garniture,nmod,NOUN,0.6921277046203613,[],,
+bas,pain,nmod,NOUN,0.5604343414306641,[],,
+four,180,nmod,NUM,0.4979606568813324,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+retourner,thermostat,appos,NOUN,0.4920178055763244,[],,
+temps,préparation,nmod,NOUN,0.4767998456954956,[],,
+temps,minute,nmod,NOUN,0.4209576845169067,"[{""id"": 79404, ""node1"": 13861, ""node2"": 31491, ""type"": 0, ""w"": 574.22}, {""id"": 53685576, ""node1"": 13861, ""node2"": 31491, ""type"": 5, ""w"": 61.0}, {""id"": 127212, ""node1"": 13861, ""node2"": 31491, ""type"": 8, ""w"": 264.0}, {""id"": 377021691, ""node1"": 13861, ""node2"": 31491, ""type"": 20, ""w"": 28.0}, {""id"": 600059094, ""node1"": 13861, ""node2"": 31491, ""type"": 27, ""w"": 31.0}, {""id"": 11342664, ""node1"": 13861, ""node2"": 31491, ""type"": 28, ""w"": 38.0}, {""id"": 9155477, ""node1"": 13861, ""node2"": 31491, ""type"": 35, ""w"": 81.0}, {""id"": 1788574, ""node1"": 13861, ""node2"": 31491, ""type"": 666, ""w"": 10.0}]",r_associated,574.22
+minute,dégustation,nmod,NOUN,0.4918013215065002,[],,

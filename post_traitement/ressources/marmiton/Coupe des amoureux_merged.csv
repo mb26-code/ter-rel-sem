@@ -1,0 +1,47 @@
+head,lemma,dep,pos,sim,relation
+coupe,amoureux,nmod,NOUN,0.4095731377601623,[]
+amoureux,ingrédient,nmod,NOUN,0.5183875560760498,[]
+coupe,sucre,nmod,NOUN,0.6491355895996094,[]
+sucre,mascarpone,nmod,NOUN,0.6537553668022156,[]
+mascarpone,crème,amod,NOUN,0.5947254300117493,"[{""id"": 2111687, ""node1"": 115657, ""node2"": 44001, ""type"": 0, ""w"": 56.0}, {""id"": 1046576052, ""node1"": 115657, ""node2"": 44001, ""type"": 8, ""w"": 20.0}, {""id"": 989054280, ""node1"": 115657, ""node2"": 44001, ""type"": 666, ""w"": 2.0}]"
+crème,frais,amod,ADJ,0.5796430110931396,[]
+pomme,épais,amod,ADJ,0.5879738926887512,[]
+mascarpone,pomme,appos,NOUN,0.6253058314323425,[]
+pomme,sauce,amod,NOUN,0.7067611813545227,[]
+mascarpone,caramel,nmod,NOUN,0.6139005422592163,[]
+sucre,casserole,nmod,NOUN,0.7403047680854797,[]
+casserole,cuillère,nmod,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]"
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,couvercle,nmod,NOUN,0.6197326183319092,[]
+couvercle,balance,nmod,NOUN,0.5437039136886597,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+balance,réfrigérateur,nmod,NOUN,0.5236407518386841,[]
+réfrigérateur,plat,nmod,ADJ,0.6221921443939209,"[{""id"": 399515136, ""node1"": 128721, ""node2"": 36327, ""type"": 0, ""w"": 100.0}, {""id"": 13501043, ""node1"": 128721, ""node2"": 36327, ""type"": 28, ""w"": 60.0}]"
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[]
+sucre,réfrigérateur,nmod,NOUN,0.6818865537643433,[]
+préparation,sauce,nmod,NOUN,0.6986916661262512,"[{""id"": 9903071, ""node1"": 33634, ""node2"": 141110, ""type"": 0, ""w"": 54.0}, {""id"": 422811, ""node1"": 33634, ""node2"": 141110, ""type"": 8, ""w"": 63.0}]"
+préparation,caramel,amod,NOUN,0.6751255393028259,"[{""id"": 15855991, ""node1"": 33634, ""node2"": 67525, ""type"": 0, ""w"": 51.0}, {""id"": 15817288, ""node1"": 33634, ""node2"": 67525, ""type"": 8, ""w"": 31.0}]"
+préparation,casserole,nmod,NOUN,0.6797515153884888,"[{""id"": 601611407, ""node1"": 33634, ""node2"": 57253, ""type"": 0, ""w"": 16.0}]"
+cuire,gramme,obj,NOUN,0.7096439003944397,[]
+gramme,sucre,nmod,NOUN,0.6024630069732666,"[{""id"": 720818120, ""node1"": 140383, ""node2"": 139481, ""type"": 174, ""w"": 25.0}]"
+doré,bord,nsubj,NOUN,0.4898251891136169,[]
+ajouter,gramme,obj,NOUN,0.4576520025730133,[]
+gramme,beurre,nmod,NOUN,0.6074452996253967,[]
+ajouter,remuer,advcl,VERB,0.4985744059085846,[]
+obtenir,pâte,obj,NOUN,0.6173189282417297,[]
+pâte,homogène,amod,ADJ,0.6105889678001404,"[{""id"": 796702467, ""node1"": 34069, ""node2"": 124759, ""type"": 0, ""w"": 28.0}, {""id"": 372565004, ""node1"": 34069, ""node2"": 124759, ""type"": 17, ""w"": 26.0}]"
+ajouter,cuillère,obj,NOUN,0.5465437173843384,[]
+soupe,crème,nmod,NOUN,0.6830318570137024,"[{""id"": 729556086, ""node1"": 117152, ""node2"": 44001, ""type"": 0, ""w"": 36.0}, {""id"": 216637777, ""node1"": 117152, ""node2"": 44001, ""type"": 50, ""w"": 32.0}, {""id"": 663289934, ""node1"": 117152, ""node2"": 44001, ""type"": 666, ""w"": 4.0}]"
+recouvrir,fond,obj,NOUN,0.4873187243938446,[]
+fond,verre,nmod,NOUN,0.5332586169242859,"[{""id"": 9988078, ""node1"": 119272, ""node2"": 144497, ""type"": 10, ""w"": 4.0}]"
+morceau,écraser,acl,VERB,0.5331356525421143,[]
+sauce,caramel,amod,NOUN,0.7349261045455933,"[{""id"": 651259318, ""node1"": 141110, ""node2"": 67525, ""type"": 0, ""w"": 22.0}]"
+recouvrir,morceau,obj,NOUN,0.567528486251831,[]
+morceau,pomme,nmod,NOUN,0.6182215809822083,[]
+mélanger,mascarpone,obj,NOUN,0.5860960483551025,[]
+ajouter,préparation,obj,NOUN,0.5048086047172546,[]
+préparation,verre,nmod,NOUN,0.5689982175827026,[]
+mélanger,moitié,obj,NOUN,0.5402731895446777,[]
+moitié,verre,nmod,NOUN,0.5242013931274414,[]
+remettre,couche,obj,NOUN,0.4416791498661041,[]
+reposer,heure,obj,NOUN,0.4106099009513855,[]

@@ -1,0 +1,16 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+salade,melon,nmod,NOUN,0.6431654095649719,"[{""id"": 920010652, ""node1"": 118908, ""node2"": 31080, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+melon,ingrédient,nmod,NOUN,0.6152670383453369,[],,
+melon,melon,appos,NOUN,0.4940894842147827,"[{""id"": 315840, ""node1"": 31080, ""node2"": 31080, ""type"": 19, ""w"": 60.0}]",r_lemma,60.0
+melon,eau,nmod,NOUN,0.6131510734558105,"[{""id"": 283272119, ""node1"": 31080, ""node2"": 65012, ""type"": 50, ""w"": 31.0}, {""id"": 423447179, ""node1"": 31080, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]",r_object>mater,31.0
+eau,menthe,nmod,VERB,0.5923354625701904,[],,
+melon,couteau,nmod,NOUN,0.5900223255157471,[],,
+melon,étape,nmod,NOUN,0.5451475977897644,[],,
+salade,couper,acl,VERB,0.6429648995399475,[],,
+couper,melon,obj,NOUN,0.5786807537078857,"[{""id"": 330748663, ""node1"": 128828, ""node2"": 31080, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+salade,dès,nmod,ADP,0.5048993825912476,[],,
+trancher,mozzarella,obj,NOUN,0.5406006574630737,[],,
+tranche,fine,amod,NOUN,0.437188446521759,[],,
+mozzarella,tranche,acl,NOUN,0.5301165580749512,[],,
+trancher,tranche,obj,NOUN,0.4397356510162353,"[{""id"": 250845, ""node1"": 32322, ""node2"": 143123, ""type"": 0, ""w"": 63.0}, {""id"": 1740488, ""node1"": 32322, ""node2"": 143123, ""type"": 41, ""w"": 200.0}, {""id"": 648840967, ""node1"": 32322, ""node2"": 143123, ""type"": 99, ""w"": 29.0}]",r_has_conseq,200.0
+tranche,melon,nmod,NOUN,0.5610186457633972,[],,

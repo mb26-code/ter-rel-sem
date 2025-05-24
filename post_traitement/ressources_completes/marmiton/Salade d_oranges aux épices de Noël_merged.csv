@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,salade,nmod,NOUN,0.5926524996757507,[],,
+salade,orange,nmod,PROPN,0.6275500059127808,"[{""id"": 8282320, ""node1"": 118908, ""node2"": 145382, ""type"": 17, ""w"": -19.0}]",r_carac,-19.0
+salade,épice,nmod,NOUN,0.730638861656189,"[{""id"": 3200434, ""node1"": 118908, ""node2"": 146056, ""type"": 28, ""w"": 54.0}]",r_lieu-1,54.0
+épice,Noël,nmod,PROPN,0.5787636041641235,[],,
+salade,ingrédient,nmod,NOUN,0.7127874493598938,[],,
+salade,étoile,nmod,NOUN,0.576992392539978,[],,
+clou,girofle,nmod,ADP,0.4290643036365509,"[{""id"": 9902807, ""node1"": 11651, ""node2"": 43873, ""type"": 0, ""w"": 55.0}, {""id"": 413873, ""node1"": 11651, ""node2"": 43873, ""type"": 8, ""w"": 111.0}]",r_hypo,111.0
+clou,sucre,nmod,NOUN,0.5859211683273315,[],,
+sucre,orange,amod,PROPN,0.6487499475479126,[],,
+sucre,eau,nmod,NOUN,0.6594484448432922,[],,
+eau,cannelle,amod,ADJ,0.6255826354026794,[],,
+rose,baie,amod,NOUN,0.4161844551563263,"[{""id"": 344325782, ""node1"": 145583, ""node2"": 108952, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+rose,couteau,nmod,NOUN,0.5437483191490173,[],,
+couteau,saladier,nmod,NOUN,0.6030980348587036,[],,
+rose,vif,nmod,NOUN,0.4484063684940338,"[{""id"": 433320, ""node1"": 145583, ""node2"": 80204, ""type"": 17, ""w"": 53.0}]",r_carac,53.0
+tranche,fin,amod,ADJ,0.4211523532867431,[],,
+mettre,porter,advcl,VERB,0.4092203974723816,"[{""id"": 2239958, ""node1"": 132366, ""node2"": 43404, ""type"": 0, ""w"": 71.0}, {""id"": 53610570, ""node1"": 132366, ""node2"": 43404, ""type"": 5, ""w"": 216.0}, {""id"": 2568230, ""node1"": 132366, ""node2"": 43404, ""type"": 35, ""w"": 59.0}]",r_syn,216.0
+porter,eau,obj,NOUN,0.5626955032348633,[],,
+eau,ébullition,nmod,NOUN,0.5533320903778076,"[{""id"": 1030680817, ""node1"": 65012, ""node2"": 83252, ""type"": 0, ""w"": 22.0}, {""id"": 3253715, ""node1"": 65012, ""node2"": 83252, ""type"": 777, ""w"": 7.0}]",r_associated,22.0
+jeter,épice,obj,NOUN,0.6785970330238342,[],,
+bouillon,petit,amod,ADJ,0.6280714869499207,[],,
+laisser,temps,obj,NOUN,0.4151840806007385,[],,
+développer,épice,nsubj,NOUN,0.6424943804740906,[],,
+temps,développer,acl:relcl,VERB,0.416766345500946,[],,
+développer,arôme,obj,NOUN,0.519837498664856,[],,
+imprégner,sirop,obj,NOUN,0.6071246266365051,[],,
+verser,sirop,obj,NOUN,0.6112198829650879,[],,
+sirop,brûler,acl,VERB,0.6660811305046082,[],,

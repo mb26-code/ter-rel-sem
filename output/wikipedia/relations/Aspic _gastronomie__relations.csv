@@ -1,0 +1,72 @@
+node1,node2,relations
+plat,froid,"[{""id"": 54686761, ""node1"": 36327, ""node2"": 49803, ""type"": 0, ""w"": 25.0}, {""id"": 54684482, ""node1"": 36327, ""node2"": 49803, ""type"": 5, ""w"": 73.0}, {""id"": 371937, ""node1"": 36327, ""node2"": 49803, ""type"": 17, ""w"": 114.0}]"
+plat,comprendre,[]
+comprendre,ingrédient,[]
+ingrédient,viande,"[{""id"": 29393020, ""node1"": 123418, ""node2"": 140100, ""type"": 0, ""w"": 22.0}, {""id"": 29383224, ""node1"": 123418, ""node2"": 140100, ""type"": 8, ""w"": 35.0}]"
+ingrédient,prendre,[]
+gelée,fabriquer,[]
+bouillon,viande,"[{""id"": 558647534, ""node1"": 146582, ""node2"": 140100, ""type"": 0, ""w"": 28.0}, {""id"": 1033715516, ""node1"": 146582, ""node2"": 140100, ""type"": 28, ""w"": 26.0}, {""id"": 1071673578, ""node1"": 146582, ""node2"": 140100, ""type"": 666, ""w"": 2.0}, {""id"": 4238168, ""node1"": 146582, ""node2"": 140100, ""type"": 777, ""w"": 10.0}]"
+appeler,gelée,[]
+gelée,viande,"[{""id"": 417886370, ""node1"": 47620, ""node2"": 140100, ""type"": 0, ""w"": 14.0}]"
+gelée,comprendre,[]
+pouvoir,bouillon,[]
+blanc,œuf,"[{""id"": 796769193, ""node1"": 15196, ""node2"": 174124, ""type"": 0, ""w"": 28.0}]"
+cuire,fois,"[{""id"": 72773965, ""node1"": 5115, ""node2"": 38021, ""type"": 34, ""w"": -25.0}]"
+cause,gélatine,[]
+gélatine,naturel,[]
+type,tout,[]
+pouvoir,type,[]
+type,aliment,[]
+morceau,viande,"[{""id"": 179412, ""node1"": 65364, ""node2"": 140100, ""type"": 0, ""w"": 83.0}, {""id"": 1007988744, ""node1"": 65364, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]"
+morceau,fruit,"[{""id"": 1007988743, ""node1"": 65364, ""node2"": 87286, ""type"": 666, ""w"": 2.0}]"
+pouvoir,servir,[]
+assiette,froid,[]
+servir,éviter,[]
+fondre,gel,"[{""id"": 102294610, ""node1"": 16480, ""node2"": 41415, ""type"": 0, ""w"": 62.0}]"
+pouvoir,gelée,[]
+commencer,gelée,[]
+gelée,gelée,"[{""id"": 305099, ""node1"": 47620, ""node2"": 47620, ""type"": 19, ""w"": 56.0}]"
+gelée,fruit,"[{""id"": 14195055, ""node1"": 47620, ""node2"": 87286, ""type"": 0, ""w"": 59.0}, {""id"": 14141142, ""node1"": 47620, ""node2"": 87286, ""type"": 35, ""w"": 55.0}]"
+découvrir,cuisinier,[]
+recette,premier,[]
+exposer,recette,[]
+recette,connaître,"[{""id"": 15071488, ""node1"": 120188, ""node2"": 77428, ""type"": 26, ""w"": 30.0}]"
+recette,autre,[]
+faire,nom,[]
+servir,faire,"[{""id"": 53718752, ""node1"": 7888, ""node2"": 87528, ""type"": 0, ""w"": 21.0}, {""id"": 53681355, ""node1"": 7888, ""node2"": 87528, ""type"": 5, ""w"": 155.0}]"
+faire,référence,[]
+mode,préparation,[]
+mode,cuisiner,[]
+cuisiner,chaud,"[{""id"": 615034051, ""node1"": 80199, ""node2"": 19150, ""type"": 0, ""w"": 16.0}]"
+froid,chaud,"[{""id"": 81152, ""node1"": 49803, ""node2"": 19150, ""type"": 0, ""w"": 741.0}, {""id"": 8894723, ""node1"": 49803, ""node2"": 19150, ""type"": 5, ""w"": -31.0}, {""id"": 133438, ""node1"": 49803, ""node2"": 19150, ""type"": 7, ""w"": 97.0}, {""id"": 377013270, ""node1"": 49803, ""node2"": 19150, ""type"": 20, ""w"": 32.0}, {""id"": 1793796, ""node1"": 49803, ""node2"": 19150, ""type"": 666, ""w"": 2.0}]"
+préparation,base,[]
+base,poisson,[]
+poisson,froid,"[{""id"": 9610008, ""node1"": 68467, ""node2"": 49803, ""type"": 17, ""w"": 57.0}]"
+conserver,fraîcheur,[]
+fraîcheur,viande,[]
+viande,cuire,"[{""id"": 365344017, ""node1"": 140100, ""node2"": 5115, ""type"": 0, ""w"": 34.0}, {""id"": 14845361, ""node1"": 140100, ""node2"": 5115, ""type"": 24, ""w"": 100.0}, {""id"": 2194971, ""node1"": 140100, ""node2"": 5115, ""type"": 26, ""w"": 100.0}]"
+plat,base,[]
+base,gélatine,[]
+gelée,tomate,[]
+montrer,cuisinier,[]
+inventer,plat,[]
+plat,pouvoir,[]
+protéger,nourriture,"[{""id"": 1053734509, ""node1"": 114455, ""node2"": 20965, ""type"": 0, ""w"": 20.0}]"
+nourriture,exister,[]
+exister,type,[]
+type,texture,[]
+type,délicat,[]
+ferme,délicat,[]
+nourriture,ferme,"[{""id"": 102001065, ""node1"": 20965, ""node2"": 29786, ""type"": 42, ""w"": 61.0}]"
+terrine,gelée,[]
+servir,lui,[]
+briller,servir,[]
+aliment,compétition,[]
+compétition,cuisine,[]
+plat,populaire,"[{""id"": 93507628, ""node1"": 36327, ""node2"": 19960, ""type"": 17, ""w"": 40.0}]"
+plat,Noël,[]
+plat,majeur,[]
+plat,fête,[]
+fête,hivernal,[]
+poisson,sécher,"[{""id"": 423999230, ""node1"": 68467, ""node2"": 56038, ""type"": 0, ""w"": 1.0}, {""id"": 98430282, ""node1"": 68467, ""node2"": 56038, ""type"": 26, ""w"": 60.0}]"
+projet,autre,[]

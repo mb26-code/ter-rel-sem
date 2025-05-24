@@ -1,0 +1,77 @@
+node1,node2,relations
+croissant,ingrédient,[]
+croissant,sel,[]
+sel,sucre,"[{""id"": 183179, ""node1"": 13260, ""node2"": 139481, ""type"": 0, ""w"": 182.0}, {""id"": 377013894, ""node1"": 13260, ""node2"": 139481, ""type"": 20, ""w"": 30.0}, {""id"": 377000348, ""node1"": 13260, ""node2"": 139481, ""type"": 21, ""w"": 28.0}, {""id"": 1032957125, ""node1"": 13260, ""node2"": 139481, ""type"": 78, ""w"": 32.0}]"
+sucre,levure,[]
+levure,boulanger,"[{""id"": 1769594, ""node1"": 53450, ""node2"": 145285, ""type"": 0, ""w"": 90.0}, {""id"": 376186762, ""node1"": 53450, ""node2"": 145285, ""type"": 25, ""w"": 26.0}]"
+boulanger,beurre,"[{""id"": 587530407, ""node1"": 145285, ""node2"": 140377, ""type"": 0, ""w"": 35.0}]"
+boulanger,tendre,[]
+lait,eau,"[{""id"": 423451320, ""node1"": 86296, ""node2"": 65012, ""type"": 0, ""w"": 57.0}, {""id"": 386065416, ""node1"": 86296, ""node2"": 65012, ""type"": 6, ""w"": -25.0}, {""id"": 123522, ""node1"": 86296, ""node2"": 65012, ""type"": 9, ""w"": 170.0}, {""id"": 1745868, ""node1"": 86296, ""node2"": 65012, ""type"": 50, ""w"": 32.0}, {""id"": 97056207, ""node1"": 86296, ""node2"": 65012, ""type"": 78, ""w"": 30.0}, {""id"": 3262481, ""node1"": 86296, ""node2"": 65012, ""type"": 777, ""w"": 5.0}]"
+eau,oeuf,"[{""id"": 386183819, ""node1"": 65012, ""node2"": 116175, ""type"": 28, ""w"": 27.0}, {""id"": 376049523, ""node1"": 65012, ""node2"": 116175, ""type"": 51, ""w"": 26.0}]"
+oeuf,saladier,[]
+saladier,fouet,[]
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+cuisine,couvercle,"[{""id"": 15303653, ""node1"": 16033, ""node2"": 89523, ""type"": 0, ""w"": 243.0}, {""id"": 15173457, ""node1"": 16033, ""node2"": 89523, ""type"": 27, ""w"": 22.0}, {""id"": 98290054, ""node1"": 16033, ""node2"": 89523, ""type"": 28, ""w"": 26.0}]"
+couvercle,rouleau,[]
+oeuf,pâtisserie,"[{""id"": 9345211, ""node1"": 116175, ""node2"": 25966, ""type"": 3, ""w"": -5.0}, {""id"": 283880826, ""node1"": 116175, ""node2"": 25966, ""type"": 10, ""w"": 23.0}]"
+pâtisserie,couteau,[]
+pâtisserie,four,"[{""id"": 942271912, ""node1"": 25966, ""node2"": 9190, ""type"": 0, ""w"": 24.0}, {""id"": 15790548, ""node1"": 25966, ""node2"": 9190, ""type"": 15, ""w"": 58.0}, {""id"": 1789859, ""node1"": 25966, ""node2"": 9190, ""type"": 666, ""w"": 1.0}]"
+four,pinceau,[]
+pinceau,planche,[]
+pinceau,découper,[]
+découper,balance,[]
+balance,cuisine,[]
+balance,étape,[]
+titre,pâte,[]
+pâte,feuilleter,"[{""id"": 880403533, ""node1"": 34069, ""node2"": 13838, ""type"": 0, ""w"": 20.0}, {""id"": 288441883, ""node1"": 34069, ""node2"": 13838, ""type"": 26, ""w"": 31.0}]"
+pâte,lever,[]
+eau,tiède,"[{""id"": 796965917, ""node1"": 65012, ""node2"": 13843, ""type"": 0, ""w"": 29.0}, {""id"": 128780, ""node1"": 65012, ""node2"": 13843, ""type"": 17, ""w"": 73.0}, {""id"": 600063832, ""node1"": 65012, ""node2"": 13843, ""type"": 27, ""w"": 32.0}]"
+saladier,grand,"[{""id"": 1077330492, ""node1"": 45455, ""node2"": 23178, ""type"": 0, ""w"": 50.0}, {""id"": 31838076, ""node1"": 45455, ""node2"": 23178, ""type"": 17, ""w"": 60.0}, {""id"": 1668931, ""node1"": 45455, ""node2"": 23178, ""type"": 666, ""w"": 2.0}]"
+saladier,déposer,[]
+déposer,farine,[]
+déposer,sel,[]
+sucre,creuser,[]
+creuser,puits,"[{""id"": 433899975, ""node1"": 129264, ""node2"": 94602, ""type"": 0, ""w"": 33.0}, {""id"": 395319440, ""node1"": 129264, ""node2"": 94602, ""type"": 14, ""w"": 100.0}]"
+lait,petit,"[{""id"": 1794036, ""node1"": 86296, ""node2"": 55222, ""type"": 666, ""w"": 1.0}]"
+incorporer,lait,[]
+incorporer,ajouter,"[{""id"": 914413179, ""node1"": 3845, ""node2"": 25099, ""type"": 0, ""w"": 23.0}, {""id"": 213486515, ""node1"": 3845, ""node2"": 25099, ""type"": 57, ""w"": 29.0}, {""id"": 1009808141, ""node1"": 3845, ""node2"": 25099, ""type"": 666, ""w"": 3.0}]"
+ajouter,mélange,[]
+former,eau,[]
+eau,levure,"[{""id"": 480295788, ""node1"": 65012, ""node2"": 53450, ""type"": 777, ""w"": 10.0}]"
+minute,plan,[]
+former,boule,"[{""id"": 461428458, ""node1"": 66314, ""node2"": 141883, ""type"": 14, ""w"": 41.0}]"
+reposer,heure,[]
+bout,heure,[]
+étaler,pâte,"[{""id"": 364779096, ""node1"": 98214, ""node2"": 34069, ""type"": 0, ""w"": 38.0}, {""id"": 243248, ""node1"": 98214, ""node2"": 34069, ""type"": 14, ""w"": 100.0}]"
+plan,forme,"[{""id"": 915399135, ""node1"": 69665, ""node2"": 142000, ""type"": 0, ""w"": 21.0}]"
+forme,étoile,"[{""id"": 798968391, ""node1"": 142000, ""node2"": 36940, ""type"": 0, ""w"": 25.0}]"
+plan,branche,[]
+plan,garder,[]
+garder,centre,[]
+centre,épais,[]
+étaler,beurre,"[{""id"": 12052843, ""node1"": 98214, ""node2"": 140377, ""type"": 0, ""w"": 85.0}, {""id"": 212494, ""node1"": 98214, ""node2"": 140377, ""type"": 14, ""w"": 100.0}, {""id"": 376198923, ""node1"": 98214, ""node2"": 140377, ""type"": 16, ""w"": 28.0}]"
+beurre,centre,[]
+rectangle,quart,[]
+allonger,pâte,"[{""id"": 274012483, ""node1"": 122662, ""node2"": 34069, ""type"": 14, ""w"": 30.0}]"
+pâte,rectangle,[]
+prêt,pâte,[]
+prêt,croissant,[]
+pâte,levée,"[{""id"": 797242475, ""node1"": 34069, ""node2"": 7494, ""type"": 0, ""w"": 29.0}, {""id"": 8151866, ""node1"": 34069, ""node2"": 7494, ""type"": 777, ""w"": 10.0}]"
+découper,triangle,[]
+donner,rouler,[]
+rouler,triangle,[]
+rouler,partir,[]
+donner,forme,[]
+forme,croissant,"[{""id"": 797339087, ""node1"": 142000, ""node2"": 38234, ""type"": 0, ""w"": 23.0}, {""id"": 281826022, ""node1"": 142000, ""node2"": 38234, ""type"": 8, ""w"": 18.0}]"
+reposer,croissant,[]
+allumer,four,"[{""id"": 375341199, ""node1"": 82772, ""node2"": 9190, ""type"": 0, ""w"": 27.0}, {""id"": 96637759, ""node1"": 82772, ""node2"": 9190, ""type"": 14, ""w"": 100.0}, {""id"": 271782, ""node1"": 82772, ""node2"": 9190, ""type"": 31, ""w"": 52.0}]"
+four,thermostat,"[{""id"": 391935, ""node1"": 9190, ""node2"": 130331, ""type"": 0, ""w"": 54.0}, {""id"": 115475, ""node1"": 9190, ""node2"": 130331, ""type"": 9, ""w"": 165.0}, {""id"": 1026722506, ""node1"": 9190, ""node2"": 130331, ""type"": 82, ""w"": 30.0}]"
+four,240,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,[]
+croissant,oeuf,[]
+oeuf,battre,"[{""id"": 15064344, ""node1"": 116175, ""node2"": 119162, ""type"": 26, ""w"": 34.0}]"
+battre,prendre,[]
+prendre,soin,[]
+cuire,min,[]
+four,chaud,"[{""id"": 363192, ""node1"": 9190, ""node2"": 19150, ""type"": 0, ""w"": 123.0}, {""id"": 376860, ""node1"": 9190, ""node2"": 19150, ""type"": 17, ""w"": 130.0}, {""id"": 11348785, ""node1"": 9190, ""node2"": 19150, ""type"": 28, ""w"": 38.0}, {""id"": 2221131, ""node1"": 9190, ""node2"": 19150, ""type"": 666, ""w"": 1.0}]"

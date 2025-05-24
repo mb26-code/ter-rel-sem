@@ -1,0 +1,30 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+soupe,cocotte,nmod,NOUN,0.7229614853858948,[],,
+minute,ingrédient,nmod,NOUN,0.5584479570388794,[],,
+ingrédient,poivre,appos,NOUN,0.7064663171768188,"[{""id"": 24923435, ""node1"": 123418, ""node2"": 139597, ""type"": 0, ""w"": 15.0}, {""id"": 24850733, ""node1"": 123418, ""node2"": 139597, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+poivre,pomme,nmod,NOUN,0.6958288550376892,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+cocotte,louche,appos,NOUN,0.6289817094802856,[],,
+légume,mixeur,nmod,NOUN,0.6654809713363647,[],,
+mixeur,plonger,acl,VERB,0.5584041476249695,[],,
+légume,chauffer,acl,VERB,0.7558048367500305,[],,
+chauffer,économe,obj,NOUN,0.5165823698043823,[],,
+économe,couvercle,nmod,NOUN,0.5389436483383179,[],,
+économe,mixeur,nmod,NOUN,0.538520872592926,[],,
+légume,étape,nmod,NOUN,0.5877348780632019,[],,
+légume,éplucher,acl,VERB,0.6224160194396973,"[{""id"": 428115, ""node1"": 120603, ""node2"": 59879, ""type"": 0, ""w"": 35.0}, {""id"": 15067036, ""node1"": 120603, ""node2"": 59879, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+légume,ajouter,acl,VERB,0.6689792275428772,[],,
+sel,gros,amod,ADJ,0.6553788781166077,"[{""id"": 188164, ""node1"": 13260, ""node2"": 88096, ""type"": 0, ""w"": 60.0}, {""id"": 645838, ""node1"": 13260, ""node2"": 88096, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+soupe,sel,nmod,NOUN,0.7564824819564819,"[{""id"": 729556138, ""node1"": 117152, ""node2"": 13260, ""type"": 0, ""w"": 34.0}, {""id"": 214799430, ""node1"": 117152, ""node2"": 13260, ""type"": 9, ""w"": 27.0}, {""id"": 1014151153, ""node1"": 117152, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]",r_associated,34.0
+aimer,sel,obj,NOUN,0.6686217784881592,[],,
+légume,recouvrir,acl,VERB,0.6886382102966309,[],,
+fermer,cocotte,obj,NOUN,0.5414252877235413,[],,
+min,cuisson,nmod,NOUN,0.4561061859130859,[],,
+mixeur,plongeur,nmod,NOUN,0.5050099492073059,"[{""id"": 31815039, ""node1"": 78314, ""node2"": 54165, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
+eau,nécessaire,amod,ADJ,0.5489293336868286,[],,
+fonction,goût,nmod,NOUN,0.5442391037940979,[],,
+déguster,suite,obj,NOUN,0.4697203934192657,[],,
+frigo,jour,nmod,NOUN,0.5265529751777649,[],,
+boite,hermétique,amod,ADJ,0.4104339480400085,[],,

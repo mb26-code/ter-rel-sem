@@ -1,0 +1,13 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,cuisine,obj,NOUN,0.6019042730331421,[],,
+cuisine,japonais,amod,ADJ,0.5706702470779419,[],,
+espèce,algue,nmod,NOUN,0.4382602274417877,"[{""id"": 989374572, ""node1"": 38788, ""node2"": 124531, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+algue,rouge,amod,ADJ,0.500705361366272,"[{""id"": 558756480, ""node1"": 124531, ""node2"": 86356, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+préparer,plat,obj,NOUN,0.6393706202507019,"[{""id"": 364548852, ""node1"": 36246, ""node2"": 36327, ""type"": 0, ""w"": 34.0}, {""id"": 93534653, ""node1"": 36246, ""node2"": 36327, ""type"": 14, ""w"": 100.0}, {""id"": 376200958, ""node1"": 36246, ""node2"": 36327, ""type"": 16, ""w"": 31.0}, {""id"": 369486477, ""node1"": 36246, ""node2"": 36327, ""type"": 31, ""w"": 26.0}]",r_patient,100.0
+plat,appeler,acl,VERB,0.5979531407356262,[],,
+commercialiser,frais,amod,ADJ,0.404916375875473,[],,
+ressource,bon,amod,ADJ,0.4737952947616577,[],,
+constituer,ressource,obj,NOUN,0.4255202412605285,"[{""id"": 93436621, ""node1"": 105612, ""node2"": 49307, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+vendre,qui,nsubj,PRON,0.4002711176872253,[],,
+consommer,algue,nsubj:pass,NOUN,0.5253090262413025,"[{""id"": 34310443, ""node1"": 97571, ""node2"": 124531, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+algue,genre,nmod,NOUN,0.4862187802791595,[],,

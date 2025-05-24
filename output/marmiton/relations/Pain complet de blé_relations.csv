@@ -1,0 +1,49 @@
+node1,node2,relations
+titre,pain,[]
+pain,complet,"[{""id"": 396662, ""node1"": 61283, ""node2"": 42645, ""type"": 0, ""w"": 60.0}, {""id"": 376767, ""node1"": 61283, ""node2"": 42645, ""type"": 17, ""w"": 80.0}]"
+pain,blé,"[{""id"": 82408, ""node1"": 61283, ""node2"": 32071, ""type"": 0, ""w"": 250.0}, {""id"": 238487, ""node1"": 61283, ""node2"": 32071, ""type"": 28, ""w"": 158.0}, {""id"": 14674201, ""node1"": 61283, ""node2"": 32071, ""type"": 42, ""w"": 35.0}, {""id"": 25778957, ""node1"": 61283, ""node2"": 32071, ""type"": 50, ""w"": 51.0}, {""id"": 402912582, ""node1"": 61283, ""node2"": 32071, ""type"": 129, ""w"": 45.0}, {""id"": 1832939, ""node1"": 61283, ""node2"": 32071, ""type"": 666, ""w"": 1.0}]"
+pain,ingrédient,"[{""id"": 15370362, ""node1"": 61283, ""node2"": 123418, ""type"": 0, ""w"": 27.0}, {""id"": 506072, ""node1"": 61283, ""node2"": 123418, ""type"": 3, ""w"": 54.0}]"
+pain,farine,"[{""id"": 66458, ""node1"": 61283, ""node2"": 127629, ""type"": 0, ""w"": 744.0}, {""id"": 2350628, ""node1"": 61283, ""node2"": 127629, ""type"": 9, ""w"": 6.0}, {""id"": 238495, ""node1"": 61283, ""node2"": 127629, ""type"": 28, ""w"": 168.0}, {""id"": 25778956, ""node1"": 61283, ""node2"": 127629, ""type"": 50, ""w"": 82.0}, {""id"": 274329408, ""node1"": 61283, ""node2"": 127629, ""type"": 129, ""w"": 80.0}, {""id"": 1793535, ""node1"": 61283, ""node2"": 127629, ""type"": 666, ""w"": 9.0}]"
+pain,sucre,"[{""id"": 796692896, ""node1"": 61283, ""node2"": 139481, ""type"": 0, ""w"": 21.0}]"
+sucre,sel,"[{""id"": 83941, ""node1"": 139481, ""node2"": 13260, ""type"": 0, ""w"": 401.0}, {""id"": 1046576271, ""node1"": 139481, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 1895756, ""node1"": 139481, ""node2"": 13260, ""type"": 20, ""w"": 51.0}, {""id"": 1376354, ""node1"": 139481, ""node2"": 13260, ""type"": 21, ""w"": 60.0}]"
+sucre,levure,[]
+levure,boulanger,"[{""id"": 1769594, ""node1"": 53450, ""node2"": 145285, ""type"": 0, ""w"": 90.0}, {""id"": 376186762, ""node1"": 53450, ""node2"": 145285, ""type"": 25, ""w"": 26.0}]"
+boulanger,eau,"[{""id"": 180860, ""node1"": 145285, ""node2"": 65012, ""type"": 16, ""w"": 80.0}]"
+eau,graine,"[{""id"": 1030663598, ""node1"": 65012, ""node2"": 14469, ""type"": 0, ""w"": 20.0}, {""id"": 480295435, ""node1"": 65012, ""node2"": 14469, ""type"": 777, ""w"": 10.0}]"
+pain,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,couvercle,[]
+couvercle,four,[]
+four,moule,"[{""id"": 914324367, ""node1"": 9190, ""node2"": 143723, ""type"": 0, ""w"": 20.0}, {""id"": 149292258, ""node1"": 9190, ""node2"": 143723, ""type"": 28, ""w"": 71.0}]"
+pain,cake,[]
+pain,papier,[]
+balance,cuisine,[]
+balance,étape,[]
+dissoudre,utiliser,[]
+levure,frais,[]
+eau,préalable,[]
+mélanger,levure,[]
+farine,complet,"[{""id"": 14803061, ""node1"": 127629, ""node2"": 42645, ""type"": 17, ""w"": 21.0}]"
+eau,tiède,"[{""id"": 796965917, ""node1"": 65012, ""node2"": 13843, ""type"": 0, ""w"": 29.0}, {""id"": 128780, ""node1"": 65012, ""node2"": 13843, ""type"": 17, ""w"": 73.0}, {""id"": 600063832, ""node1"": 65012, ""node2"": 13843, ""type"": 27, ""w"": 32.0}]"
+mélanger,obtenir,[]
+obtenir,bouillie,[]
+moment,ajouter,[]
+ajouter,graine,[]
+graine,lin,"[{""id"": 920029946, ""node1"": 14469, ""node2"": 143379, ""type"": 0, ""w"": 20.0}]"
+ajouter,farine,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]"
+farine,blanc,"[{""id"": 116083, ""node1"": 127629, ""node2"": 15196, ""type"": 0, ""w"": 91.0}, {""id"": 24901422, ""node1"": 127629, ""node2"": 15196, ""type"": 17, ""w"": 3.0}, {""id"": 3161193, ""node1"": 127629, ""node2"": 15196, ""type"": 106, ""w"": 21.0}]"
+ajouter,peu,[]
+peu,farine,[]
+coller,peu,[]
+ajouter,couvrir,[]
+couvrir,plastique,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+couvrir,moule,[]
+cake,litre,[]
+papier,cuisson,[]
+placer,pâte,[]
+surface,tout,[]
+bas,four,[]
+baisser,température,"[{""id"": 24768151, ""node1"": 91711, ""node2"": 40531, ""type"": 13, ""w"": 133.0}, {""id"": 548298467, ""node1"": 91711, ""node2"": 40531, ""type"": 14, ""w"": 31.0}]"
+cuire,min,[]
+croûte,brune,[]

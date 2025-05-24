@@ -1,0 +1,50 @@
+head,lemma,dep,pos,sim,relations
+morceau,anglais,nsubj,NOUN,0.4945030212402344,[]
+anglais,bœuf,amod,NOUN,0.5478448271751404,[]
+rôti,bœuf,nmod,NOUN,0.640632152557373,"[{""id"": 797363299, ""node1"": 19636, ""node2"": 168216, ""type"": 0, ""w"": 22.0}]"
+morceau,viande,nmod,NOUN,0.713297426700592,"[{""id"": 179412, ""node1"": 65364, ""node2"": 140100, ""type"": 0, ""w"": 83.0}, {""id"": 1007988744, ""node1"": 65364, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]"
+viande,bœuf,nmod,NOUN,0.636695384979248,"[{""id"": 10577328, ""node1"": 140100, ""node2"": 168216, ""type"": 0, ""w"": 59.0}, {""id"": 9627859, ""node1"": 140100, ""node2"": 168216, ""type"": 8, ""w"": 95.0}, {""id"": 15173562, ""node1"": 140100, ""node2"": 168216, ""type"": 27, ""w"": 30.0}, {""id"": 646611390, ""node1"": 140100, ""node2"": 168216, ""type"": 666, ""w"": 1.0}]"
+viande,plat,appos,NOUN,0.7352131009101868,"[{""id"": 2166298, ""node1"": 140100, ""node2"": 36327, ""type"": 0, ""w"": 86.0}, {""id"": 9901809, ""node1"": 140100, ""node2"": 36327, ""type"": 6, ""w"": 227.0}, {""id"": 390248, ""node1"": 140100, ""node2"": 36327, ""type"": 10, ""w"": 103.0}, {""id"": 2501754, ""node1"": 140100, ""node2"": 36327, ""type"": 15, ""w"": 63.0}, {""id"": 376035518, ""node1"": 140100, ""node2"": 36327, ""type"": 51, ""w"": 35.0}]"
+plat,national,amod,ADJ,0.5658581852912903,[]
+plat,traditionnel,amod,ADJ,0.6021727323532104,"[{""id"": 93507621, ""node1"": 36327, ""node2"": 41139, ""type"": 17, ""w"": 35.0}]"
+traditionnel,emblématique,amod,ADJ,0.4618225395679474,[]
+plat,cuisine,nmod,NOUN,0.6855981349945068,"[{""id"": 2142698, ""node1"": 36327, ""node2"": 16033, ""type"": 0, ""w"": 359.0}, {""id"": 505517, ""node1"": 36327, ""node2"": 16033, ""type"": 3, ""w"": 285.0}, {""id"": 128986, ""node1"": 36327, ""node2"": 16033, ""type"": 10, ""w"": 170.0}, {""id"": 145490, ""node1"": 36327, ""node2"": 16033, ""type"": 15, ""w"": 245.0}, {""id"": 376196655, ""node1"": 36327, ""node2"": 16033, ""type"": 16, ""w"": -26.0}, {""id"": 765133729, ""node1"": 36327, ""node2"": 16033, ""type"": 80, ""w"": 26.0}, {""id"": 652234278, ""node1"": 36327, ""node2"": 16033, ""type"": 666, ""w"": 6.0}]"
+cuisine,britannique,amod,ADJ,0.6073547601699829,[]
+morceau,cuire,acl,VERB,0.7621479034423828,[]
+tranche,fin,amod,ADJ,0.4591284096240997,[]
+découper,servir,advcl,VERB,0.509752631187439,"[{""id"": 430111530, ""node1"": 45686, ""node2"": 7888, ""type"": 41, ""w"": 27.0}, {""id"": 34528834, ""node1"": 45686, ""node2"": 7888, ""type"": 52, ""w"": 35.0}]"
+légume,pomme,appos,NOUN,0.6447021961212158,[]
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+morceau,divers,amod,ADJ,0.4976189136505127,[]
+morceau,bœuf,nmod,NOUN,0.6055001020431519,[]
+bœuf,tendre,amod,ADJ,0.590263307094574,"[{""id"": 97358740, ""node1"": 168216, ""node2"": 71211, ""type"": 17, ""w"": 31.0}]"
+filet,bœuf,nmod,NOUN,0.5939050316810608,"[{""id"": 15355743, ""node1"": 42188, ""node2"": 168216, ""type"": 0, ""w"": 28.0}, {""id"": 729598, ""node1"": 42188, ""node2"": 168216, ""type"": 3, ""w"": 54.0}]"
+forme,cylindre,nmod,NOUN,0.4572425484657287,"[{""id"": 798733239, ""node1"": 142000, ""node2"": 144032, ""type"": 0, ""w"": 22.0}]"
+servir,plat,nsubj:pass,NOUN,0.6370052695274353,"[{""id"": 1610963, ""node1"": 7888, ""node2"": 36327, ""type"": 0, ""w"": 122.0}, {""id"": 97862196, ""node1"": 7888, ""node2"": 36327, ""type"": 14, ""w"": 100.0}, {""id"": 134589, ""node1"": 7888, ""node2"": 36327, ""type"": 16, ""w"": 110.0}, {""id"": 376065693, ""node1"": 7888, ""node2"": 36327, ""type"": 31, ""w"": 26.0}, {""id"": 466842766, ""node1"": 7888, ""node2"": 36327, ""type"": 666, ""w"": 2.0}]"
+plat,emblématique,amod,ADJ,0.6000866889953613,[]
+plat,issu,acl,VERB,0.5577749013900757,[]
+pouvoir,servir,advcl,VERB,0.4424028396606445,[]
+jus,Yorkshire,nmod,PROPN,0.5380302667617798,[]
+consommer,reste,nsubj:pass,NOUN,0.5541340708732605,[]
+froid,lendemain,obj,NOUN,0.4818470180034637,[]
+salade,composer,acl,VERB,0.6014893054962158,"[{""id"": 97758174, ""node1"": 118908, ""node2"": 54882, ""type"": 38, ""w"": 15.0}]"
+pièce,bœuf,nmod,NOUN,0.5895739197731018,[]
+insérer,morceau,obj,NOUN,0.4899573922157287,[]
+morceau,ail,nmod,NOUN,0.5969376564025879,[]
+four,min,nmod,NOUN,0.5295074582099915,[]
+four,degré,nmod,NOUN,0.6222909688949585,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,nmod,NOUN,0.4229496419429779,[]
+servir,anglais,obj,NOUN,0.4730450510978699,[]
+rapport,tradition,nmod,NOUN,0.4320845007896423,[]
+cuisine,français,amod,ADJ,0.6010087132453918,"[{""id"": 940911531, ""node1"": 16033, ""node2"": 144991, ""type"": 17, ""w"": 62.0}]"
+contradiction,base,nmod,NOUN,0.4827004671096802,[]
+base,bœuf,nmod,ADV,0.6424828171730042,[]
+base,bouillir,acl,VERB,0.6674009561538696,[]
+rapport,cuisse,nmod,NOUN,0.4358384609222412,[]
+cuisse,grenouille,nmod,NOUN,0.4523952901363373,"[{""id"": 192148, ""node1"": 58876, ""node2"": 66326, ""type"": 0, ""w"": 155.0}, {""id"": 258352, ""node1"": 58876, ""node2"": 66326, ""type"": 10, ""w"": 53.0}, {""id"": 9021673, ""node1"": 58876, ""node2"": 66326, ""type"": 15, ""w"": 79.0}]"
+cuisse,cuisine,nmod,NOUN,0.5846855640411377,"[{""id"": 966275945, ""node1"": 58876, ""node2"": 16033, ""type"": 666, ""w"": 3.0}]"
+jeu,mot,nmod,NOUN,0.4277989566326141,"[{""id"": 670019200, ""node1"": 53314, ""node2"": 32132, ""type"": 0, ""w"": 23.0}]"
+dire,cheval,obj,NOUN,0.4797003865242004,[]
+désigner,cheval,obj,NOUN,0.4155026972293854,[]
+cheval,force,nmod,NOUN,0.4508331418037414,[]
+projet,autre,amod,ADJ,0.4316383004188537,[]

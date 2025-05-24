@@ -1,0 +1,54 @@
+head,lemma,dep,pos,sim,relations
+concerner,cuisine,obj,NOUN,0.6019042730331421,[]
+plat,base,nmod,NOUN,0.6491852402687073,[]
+base,légume,nmod,NOUN,0.6855320930480957,[]
+plat,poivron,nmod,NOUN,0.6909435987472534,"[{""id"": 96713008, ""node1"": 36327, ""node2"": 38257, ""type"": 0, ""w"": 30.0}, {""id"": 96713036, ""node1"": 36327, ""node2"": 38257, ""type"": 9, ""w"": 32.0}]"
+poivron,principalement,amod,ADV,0.6258817911148071,[]
+plat,semblable,amod,ADJ,0.6020604372024536,[]
+nécessiter,mettre,nsubj,VERB,0.4099442958831787,[]
+nécessiter,kilo,obj,NOUN,0.4709574580192566,[]
+kilo,oignon,nmod,NOUN,0.569091260433197,[]
+oignon,fondre,acl,VERB,0.6344025731086731,[]
+feu,doux,amod,ADJ,0.5531697273254395,[]
+ajouter,kilo,obj,NOUN,0.5069496631622314,[]
+kilo,poivron,nmod,NOUN,0.5792831182479858,[]
+poivron,rouge,amod,ADJ,0.5815114378929138,"[{""id"": 273173, ""node1"": 38257, ""node2"": 86356, ""type"": 0, ""w"": 151.0}, {""id"": 1944118, ""node1"": 38257, ""node2"": 86356, ""type"": 17, ""w"": 36.0}, {""id"": 3160591, ""node1"": 38257, ""node2"": 86356, ""type"": 106, ""w"": 11.0}]"
+poivron,vert,amod,ADJ,0.5607750415802002,"[{""id"": 273172, ""node1"": 38257, ""node2"": 26976, ""type"": 0, ""w"": 151.0}, {""id"": 1944117, ""node1"": 38257, ""node2"": 26976, ""type"": 17, ""w"": 36.0}, {""id"": 3154905, ""node1"": 38257, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]"
+poivron,couper,acl,VERB,0.6228370666503906,"[{""id"": 1944126, ""node1"": 38257, ""node2"": 128828, ""type"": 26, ""w"": 30.0}]"
+réduit,tout,nsubj,NOUN,0.4596740901470184,[]
+incorporer,réduit,advcl,ADJ,0.412702739238739,[]
+incorporer,kilo,obj,NOUN,0.5123471617698669,[]
+kilo,tomate,nmod,NOUN,0.581538200378418,"[{""id"": 775213408, ""node1"": 48521, ""node2"": 22138, ""type"": 174, ""w"": 25.0}]"
+tomate,couper,acl,VERB,0.630133867263794,"[{""id"": 920912564, ""node1"": 22138, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 628044041, ""node1"": 22138, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]"
+cuit,tout,nsubj,PRON,0.7122633457183838,[]
+verse,cuit,advcl,ADJ,0.6516121625900269,[]
+verse,contenu,obj,NOUN,0.4468443095684051,[]
+contenu,plat,nmod,NOUN,0.6037843823432922,"[{""id"": 10529702, ""node1"": 108150, ""node2"": 36327, ""type"": 0, ""w"": 9.0}, {""id"": 1542827, ""node1"": 108150, ""node2"": 36327, ""type"": 10, ""w"": 56.0}]"
+couche,premier,amod,ADJ,0.4781373143196106,[]
+couche,pâte,nmod,NOUN,0.6256560683250427,"[{""id"": 720819467, ""node1"": 19152, ""node2"": 34069, ""type"": 174, ""w"": 25.0}]"
+couche,feuilleté,amod,ADJ,0.5008330345153809,[]
+agrémenter,reste,advcl,VERB,0.5088488459587097,[]
+agrémenter,lui,nsubj,PRON,0.4018188714981079,[]
+agrémenter,plat,obj,NOUN,0.6261053085327148,[]
+plat,riz,nmod,NOUN,0.7016597390174866,"[{""id"": 96713007, ""node1"": 36327, ""node2"": 24372, ""type"": 0, ""w"": 31.0}, {""id"": 96713022, ""node1"": 36327, ""node2"": 24372, ""type"": 9, ""w"": 26.0}, {""id"": 93507674, ""node1"": 36327, ""node2"": 24372, ""type"": 28, ""w"": 35.0}, {""id"": 96713038, ""node1"": 36327, ""node2"": 24372, ""type"": 41, ""w"": 27.0}, {""id"": 96713027, ""node1"": 36327, ""node2"": 24372, ""type"": 42, ""w"": 27.0}]"
+viande,grillé,amod,ADJ,0.719925582408905,"[{""id"": 2164311, ""node1"": 140100, ""node2"": 141899, ""type"": 17, ""w"": 30.0}]"
+inspirer,cuisine,obj,NOUN,0.5679997205734253,[]
+exister,recette,obj,NOUN,0.5901581645011902,[]
+recette,ail,nmod,NOUN,0.627200186252594,[]
+berbère,siècle,nmod,NOUN,0.4079001545906067,[]
+grillé,poivron,nsubj,NOUN,0.655010461807251,"[{""id"": 514162552, ""node1"": 141899, ""node2"": 38257, ""type"": 23, ""w"": 3.0}]"
+version,oignon,nmod,NOUN,0.6068477630615234,[]
+version,dire,acl,VERB,0.4567229747772217,"[{""id"": 560948767, ""node1"": 134208, ""node2"": 111342, ""type"": 0, ""w"": 37.0}]"
+griller,tomate,nsubj,NOUN,0.7139360308647156,"[{""id"": 766545806, ""node1"": 46367, ""node2"": 22138, ""type"": 13, ""w"": 29.0}]"
+version,griller,acl:relcl,VERB,0.5959997773170471,[]
+revenir,viande,nsubj:pass,NOUN,0.7260416746139526,[]
+viande,poulet,appos,NOUN,0.7033135890960693,"[{""id"": 82327, ""node1"": 140100, ""node2"": 146261, ""type"": 0, ""w"": 797.0}, {""id"": 177877, ""node1"": 140100, ""node2"": 146261, ""type"": 8, ""w"": 186.0}, {""id"": 3109943, ""node1"": 140100, ""node2"": 146261, ""type"": 10, ""w"": 51.0}, {""id"": 15173548, ""node1"": 140100, ""node2"": 146261, ""type"": 27, ""w"": 26.0}, {""id"": 2518169, ""node1"": 140100, ""node2"": 146261, ""type"": 42, ""w"": 63.0}, {""id"": 376041599, ""node1"": 140100, ""node2"": 146261, ""type"": 51, ""w"": 35.0}, {""id"": 645422219, ""node1"": 140100, ""node2"": 146261, ""type"": 666, ""w"": 6.0}]"
+préparation,ingrédient,nmod,NOUN,0.6756798028945923,"[{""id"": 601611764, ""node1"": 33634, ""node2"": 123418, ""type"": 0, ""w"": 24.0}]"
+ingrédient,suivre,acl,VERB,0.5111404061317444,[]
+suivre,recette,obj,NOUN,0.5350927114486694,[]
+recette,choisir,acl,VERB,0.6084291338920593,[]
+déguster,préparation,nsubj,NOUN,0.645141065120697,[]
+permettre,préparation,obj,NOUN,0.4833160042762756,[]
+coca,fameux,amod,ADJ,0.4820209443569183,[]
+préparation,coca,nmod,NOUN,0.5176066160202026,[]
+projet,autre,amod,ADJ,0.4316383004188537,[]

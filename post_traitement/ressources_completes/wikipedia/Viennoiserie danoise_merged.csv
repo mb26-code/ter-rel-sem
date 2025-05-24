@@ -1,0 +1,130 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+pâtisserie,feuilleté,amod,ADJ,0.5714512467384338,"[{""id"": 12306245, ""node1"": 25966, ""node2"": 43380, ""type"": 0, ""w"": 21.0}, {""id"": 563923, ""node1"": 25966, ""node2"": 43380, ""type"": 5, ""w"": 105.0}, {""id"": 15123269, ""node1"": 25966, ""node2"": 43380, ""type"": 27, ""w"": 30.0}]",r_syn,105.0
+pâtisserie,appartenir,acl,VERB,0.4950446784496307,[],,
+boulanger,autrichien,amod,ADJ,0.4086705148220062,[],,
+devenir,spécialité,obj,NOUN,0.4592835009098053,"[{""id"": 978923000, ""node1"": 9626, ""node2"": 49537, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+préparer,lui,nsubj,PRON,0.4201748371124267,[],,
+pâte,feuilleter,acl,VERB,0.6215805411338806,"[{""id"": 880403533, ""node1"": 34069, ""node2"": 13838, ""type"": 0, ""w"": 20.0}, {""id"": 288441883, ""node1"": 34069, ""node2"": 13838, ""type"": 26, ""w"": 31.0}]",r_patient-1,31.0
+pâte,levée,amod,NOUN,0.5744487047195435,"[{""id"": 797242475, ""node1"": 34069, ""node2"": 7494, ""type"": 0, ""w"": 29.0}, {""id"": 8151866, ""node1"": 34069, ""node2"": 7494, ""type"": 777, ""w"": 10.0}]",r_associated,29.0
+donne,texture,obj,NOUN,0.4581279158592224,[],,
+texture,couche,nmod,NOUN,0.5012467503547668,[],,
+refroidir,préparer,advcl,VERB,0.5512588024139404,[],,
+pâte,lever,acl,VERB,0.5989454388618469,[],,
+lever,levure,nmod,NOUN,0.5274340510368347,"[{""id"": 656340569, ""node1"": 51683, ""node2"": 53450, ""type"": 0, ""w"": 32.0}, {""id"": 656340568, ""node1"": 51683, ""node2"": 53450, ""type"": 99, ""w"": 32.0}]",r_associated,32.0
+farine,blé,nmod,NOUN,0.577633798122406,"[{""id"": 114505, ""node1"": 127629, ""node2"": 32071, ""type"": 0, ""w"": 517.0}, {""id"": 53553413, ""node1"": 127629, ""node2"": 32071, ""type"": 5, ""w"": 71.0}, {""id"": 9855371, ""node1"": 127629, ""node2"": 32071, ""type"": 8, ""w"": 62.0}, {""id"": 102179, ""node1"": 127629, ""node2"": 32071, ""type"": 9, ""w"": 60.0}, {""id"": 120516, ""node1"": 127629, ""node2"": 32071, ""type"": 15, ""w"": -55.0}, {""id"": 390928, ""node1"": 127629, ""node2"": 32071, ""type"": 21, ""w"": 53.0}, {""id"": 11335596, ""node1"": 127629, ""node2"": 32071, ""type"": 28, ""w"": 38.0}, {""id"": 24260246, ""node1"": 127629, ""node2"": 32071, ""type"": 35, ""w"": 125.0}, {""id"": 14674202, ""node1"": 127629, ""node2"": 32071, ""type"": 42, ""w"": 31.0}, {""id"": 1798400, ""node1"": 127629, ""node2"": 32071, ""type"": 666, ""w"": 3.0}]",r_associated,517.0
+lever,sucre,nmod,NOUN,0.6052525639533997,[],,
+quantité,grand,amod,ADJ,0.5105735659599304,"[{""id"": 1717406, ""node1"": 78869, ""node2"": 23178, ""type"": 17, ""w"": 10.0}]",r_carac,10.0
+étaler,quantité,nsubj:pass,NOUN,0.511256217956543,[],,
+quantité,beurre,nmod,NOUN,0.6971391439437866,[],,
+quantité,pâte,appos,NOUN,0.650149405002594,[],,
+quantité,lever,flat:name,VERB,0.4816911518573761,[],,
+étaler,recouvrir,advcl,VERB,0.4355787336826324,"[{""id"": 1050322, ""node1"": 98214, ""node2"": 26206, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+quantité,fin,amod,ADJ,0.4941692054271698,"[{""id"": 899391168, ""node1"": 78869, ""node2"": 144718, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+étaler,plier,advcl,VERB,0.4069587886333465,"[{""id"": 434930470, ""node1"": 98214, ""node2"": 23919, ""type"": 7, ""w"": 26.0}]",r_anto,26.0
+refroidir,pâte,nsubj:pass,NOUN,0.6635692119598389,"[{""id"": 97862125, ""node1"": 126973, ""node2"": 34069, ""type"": 14, ""w"": 40.0}]",r_patient,40.0
+créer,pâte,obj,NOUN,0.6161453127861023,[],,
+couche,aéré,acl,ADJ,0.4309801757335663,[],,
+couche,extérieur,nmod,NOUN,0.4704754948616028,[],,
+matière,beurre,nsubj,NOUN,0.67413729429245,[],,
+matière,gras,amod,ADJ,0.5509254336357117,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+matière,employer,acl,VERB,0.4736338555812835,[],,
+production,industriel,amod,ADJ,0.4312380254268646,"[{""id"": 21153758, ""node1"": 13444, ""node2"": 55133, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+matière,coûteux,amod,ADJ,0.4375621676445007,[],,
+production,tel,amod,ADJ,0.4313485324382782,[],,
+huile,tournesol,nmod,NOUN,0.5728206634521484,"[{""id"": 143576, ""node1"": 141971, ""node2"": 26026, ""type"": 0, ""w"": 386.0}, {""id"": 580650, ""node1"": 141971, ""node2"": 26026, ""type"": 5, ""w"": 35.0}, {""id"": 272527, ""node1"": 141971, ""node2"": 26026, ""type"": 8, ""w"": 101.0}, {""id"": 99020760, ""node1"": 141971, ""node2"": 26026, ""type"": 27, ""w"": 27.0}, {""id"": 88080846, ""node1"": 141971, ""node2"": 26026, ""type"": 35, ""w"": 28.0}, {""id"": 1808071, ""node1"": 141971, ""node2"": 26026, ""type"": 42, ""w"": 101.0}]",r_associated,386.0
+répéter,terme,obj,NOUN,0.4157923758029938,[],,
+désigner,pâtisserie,obj,NOUN,0.5097426772117615,[],,
+pâtisserie,danois,amod,ADJ,0.4183808267116546,[],,
+étymologie,même,amod,ADJ,0.4357365369796753,[],,
+employé,boulangerie,nmod,NOUN,0.4089005291461944,[],,
+amener,boulanger,obj,NOUN,0.465458869934082,[],,
+boulanger,dont,nmod,PRON,0.4374507963657379,[],,
+boulanger,apporter,acl:relcl,VERB,0.5017831325531006,[],,
+pratique,nouveau,amod,ADJ,0.4889269769191742,[],,
+recette,nouveau,amod,ADJ,0.6353152990341187,[],,
+recette,pâtisserie,nmod,NOUN,0.6642020344734192,"[{""id"": 752130357, ""node1"": 120188, ""node2"": 25966, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+devenir,pâtisserie,nsubj,NOUN,0.5407254099845886,[],,
+pâtisserie,autrichien,amod,ADJ,0.4997963011264801,[],,
+pâtisserie,connaître,acl,VERB,0.5671849250793457,[],,
+adopter,boulanger,nsubj,NOUN,0.4535218179225921,[],,
+adopter,recette,obj,NOUN,0.569021999835968,[],,
+recette,autrichien,amod,ADJ,0.610266387462616,[],,
+augmenter,quantité,obj,NOUN,0.4865296483039856,"[{""id"": 417973838, ""node1"": 40479, ""node2"": 78869, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+quantité,œuf,nmod,NOUN,0.558605432510376,[],,
+technique,cuisson,nmod,NOUN,0.7087472081184387,"[{""id"": 246697944, ""node1"": 13701, ""node2"": 60056, ""type"": 8, ""w"": 28.0}]",r_hypo,28.0
+trouver,tradition,nsubj,NOUN,0.4767387807369232,[],,
+tradition,apporter,acl,VERB,0.4849356412887573,[],,
+trouver,technique,obj,NOUN,0.4473978877067566,[],,
+raison,innovation,nmod,NOUN,0.4096138775348663,[],,
+baptiser,pâtisserie,obj,NOUN,0.5075297355651855,[],,
+pâtisserie,pain,appos,NOUN,0.6730985045433044,"[{""id"": 580752335, ""node1"": 25966, ""node2"": 61283, ""type"": 5, ""w"": -5.0}, {""id"": 1046575931, ""node1"": 25966, ""node2"": 61283, ""type"": 8, ""w"": 20.0}]",r_hypo,20.0
+pain,Vienne,nmod,PROPN,0.5819839239120483,[],,
+reste,indiquer,advcl,VERB,0.4303550720214844,[],,
+reste,terme,nsubj,NOUN,0.4668093919754028,[],,
+pâtisserie,tout,amod,ADJ,0.6098658442497253,[],,
+produit,boulangerie,nmod,NOUN,0.4900977611541748,[],,
+pâtisserie,porter,acl,VERB,0.5545248985290527,[],,
+consommer,que,obj,SCONJ,0.4806449115276336,[],,
+appellation,varier,amod,ADJ,0.4354020655155182,[],,
+recouvrir,certains,nsubj:pass,PRON,0.4534711539745331,[],,
+éclat,noix,nmod,NOUN,0.5594754219055176,[],,
+préparation,nombreux,amod,ADJ,0.4633688330650329,[],,
+garni,préparation,nmod,NOUN,0.5021235346794128,[],,
+préparation,tel,amod,ADJ,0.4605767130851745,[],,
+sucre,confiture,nmod,NOUN,0.6804524064064026,"[{""id"": 244457, ""node1"": 139481, ""node2"": 70793, ""type"": 0, ""w"": 58.0}, {""id"": 1656503, ""node1"": 139481, ""node2"": 70793, ""type"": 20, ""w"": 59.0}, {""id"": 651011196, ""node1"": 139481, ""node2"": 70793, ""type"": 666, ""w"": 2.0}]",r_has_magn,59.0
+confiture,pomme,appos,NOUN,0.6075676679611206,"[{""id"": 899753788, ""node1"": 70793, ""node2"": 37201, ""type"": 0, ""w"": 22.0}, {""id"": 4960031, ""node1"": 70793, ""node2"": 37201, ""type"": 777, ""w"": 10.0}]",r_associated,22.0
+garniture,danois,amod,ADJ,0.4864221215248108,[],,
+base,beurre,nmod,NOUN,0.6890740394592285,[],,
+base,amande,nmod,NOUN,0.586004912853241,[],,
+crème,anglais,amod,ADJ,0.5731858611106873,[],,
+cercle,forme,nsubj,NOUN,0.4559724032878876,"[{""id"": 191005, ""node1"": 142537, ""node2"": 142000, ""type"": 0, ""w"": 155.0}, {""id"": 170997, ""node1"": 142537, ""node2"": 142000, ""type"": 6, ""w"": 81.0}, {""id"": 1662797, ""node1"": 142537, ""node2"": 142000, ""type"": 666, ""w"": 5.0}]",r_associated,155.0
+cercle,garni,amod,ADJ,0.4451779723167419,[],,
+cercle,connaître,acl,VERB,0.4202304482460022,[],,
+forme,spirale,amod,NOUN,0.4320887625217438,[],,
+forme,appeler,acl,VERB,0.4249127805233001,[],,
+cercle,oublier,advcl,VERB,0.4528402686119079,[],,
+cercle,préparer,acl,VERB,0.498081624507904,[],,
+crème,vanille,nmod,NOUN,0.6099206805229187,"[{""id"": 601796008, ""node1"": 44001, ""node2"": 140463, ""type"": 0, ""w"": 19.0}, {""id"": 987926831, ""node1"": 44001, ""node2"": 140463, ""type"": 666, ""w"": 2.0}]",r_associated,19.0
+préparation,divers,amod,ADJ,0.4418498873710632,[],,
+placer,préparation,nsubj:pass,NOUN,0.5372961759567261,"[{""id"": 561339449, ""node1"": 5454, ""node2"": 33634, ""type"": 0, ""w"": 42.0}]",r_associated,42.0
+ingrédient,tel,amod,ADJ,0.4815298616886139,[],,
+préparation,raisin,nmod,NOUN,0.6070677638053894,[],,
+raisin,sec,amod,ADJ,0.5050904750823975,"[{""id"": 105224, ""node1"": 93528, ""node2"": 63619, ""type"": 0, ""w"": 62.0}, {""id"": 114116, ""node1"": 93528, ""node2"": 63619, ""type"": 17, ""w"": 60.0}, {""id"": 985028970, ""node1"": 93528, ""node2"": 63619, ""type"": 666, ""w"": 2.0}]",r_carac,60.0
+raisin,amande,appos,NOUN,0.5683827996253967,[],,
+section,pâte,nmod,NOUN,0.612079918384552,[],,
+cuire,qui,nsubj:pass,PRON,0.6562127470970154,[],,
+section,cuire,acl:relcl,VERB,0.7037884593009949,[],,
+ajouter,rehausser,advcl,VERB,0.4149485528469085,[],,
+rehausser,arôme,obj,NOUN,0.5235247611999512,[],,
+danois,noix,nmod,NOUN,0.5453224778175354,[],,
+sucre,poudre,nmod,NOUN,0.6574808955192566,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,pâtisserie,nmod,NOUN,0.6271044015884399,"[{""id"": 1712097, ""node1"": 139470, ""node2"": 25966, ""type"": 10, ""w"": 3.0}]",r_holo,3.0
+garni,lui,nsubj,PRON,0.4266181886196136,[],,
+populaire,garni,advcl,ADJ,0.4369691014289856,[],,
+confiture,lait,nmod,NOUN,0.6079456806182861,"[{""id"": 585584618, ""node1"": 70793, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 765215486, ""node1"": 70793, ""node2"": 86296, ""type"": 17, ""w"": -5.0}]",r_associated,47.0
+faire,tour,obj,NOUN,0.4888422191143036,[],,
+tour,monde,nmod,NOUN,0.4393157064914703,[],,
+faire,promouvoir,advcl,VERB,0.4347255527973175,[],,
+promouvoir,recette,obj,NOUN,0.5960716605186462,[],,
+année,tel,amod,ADJ,0.4243367612361908,[],,
+atelier,propre,amod,ADJ,0.4297713041305542,"[{""id"": 1035050756, ""node1"": 145738, ""node2"": 118316, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+tenir,atelier,obj,NOUN,0.4014436602592468,[],,
+atelier,cuisine,nmod,NOUN,0.5564044117927551,[],,
+cuisine,danois,amod,ADJ,0.4987596273422241,"[{""id"": 957339562, ""node1"": 16033, ""node2"": 51977, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+chaîne,restaurant,nmod,NOUN,0.4341309070587158,[],,
+propriétaire,faire,nmod,VERB,0.4895341992378235,[],,
+boulanger,persuader,acl:relcl,VERB,0.4197758436203003,[],,
+groupe,changer,acl,VERB,0.400534838438034,[],,
+fabricant,confiserie,nmod,NOUN,0.4114524126052856,[],,
+choisir,terme,obj,NOUN,0.4143092334270477,[],,
+choisir,rose,obj,NOUN,0.4738179445266723,[],,
+rose,prophète,nmod,AUX,0.432576447725296,[],,
+dénomination,nouveau,amod,ADJ,0.4262893497943878,[],,
+faire,appellation,nsubj,NOUN,0.5130736827850342,[],,
+faire,unanimité,obj,NOUN,0.4561233818531036,[],,
+unanimité,boulangerie,nmod,NOUN,0.427433043718338,[],,
+trouver,terme,nsubj,NOUN,0.4182528555393219,[],,
+terme,rose,nmod,NOUN,0.4866943657398224,[],,
+rose,Mahomet,nmod,PROPN,0.4095786511898041,[],,
+fleur,Mahomet,nmod,PROPN,0.4434342980384826,[],,
+équivalent,traditionnel,amod,ADJ,0.4406897723674774,[],,

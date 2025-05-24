@@ -1,0 +1,17 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,blanc,amod,ADJ,0.4537544846534729,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,sel,appos,NOUN,0.6997572183609009,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+ingrédient,carotte,appos,NOUN,0.6786724925041199,[],,
+carotte,blanc,obj,NOUN,0.6006603240966797,[],,
+blanc,poulet,nmod,NOUN,0.6177458167076111,"[{""id"": 9356626, ""node1"": 15196, ""node2"": 146261, ""type"": 0, ""w"": 50.0}, {""id"": 97329786, ""node1"": 15196, ""node2"": 146261, ""type"": 10, ""w"": 29.0}, {""id"": 1933499, ""node1"": 15196, ""node2"": 146261, ""type"": 35, ""w"": 45.0}, {""id"": 14659361, ""node1"": 15196, ""node2"": 146261, ""type"": 42, ""w"": 29.0}, {""id"": 1663131, ""node1"": 15196, ""node2"": 146261, ""type"": 666, ""w"": 1.0}]",r_associated,50.0
+poulet,tilleul,nmod,PROPN,0.610325813293457,[],,
+tilleul,fond,appos,NOUN,0.4738706350326538,[],,
+titre,oignon,nmod,NOUN,0.5433870553970337,[],,
+carotte,rondelle,nmod,NOUN,0.5535646677017212,"[{""id"": 915206997, ""node1"": 76234, ""node2"": 71106, ""type"": 0, ""w"": 20.0}, {""id"": 31838017, ""node1"": 76234, ""node2"": 71106, ""type"": 58, ""w"": 66.0}]",r_quantificateur,66.0
+fleur,tilleul,amod,ADJ,0.4653372764587402,"[{""id"": 1011320207, ""node1"": 28985, ""node2"": 117523, ""type"": 0, ""w"": 10.0}]",r_associated,10.0
+ajouter,oignon,obj,NOUN,0.585871696472168,[],,
+fond,sauce,nmod,NOUN,0.6677483320236206,[],,
+sauce,volaille,nmod,NOUN,0.7286455631256104,"[{""id"": 651276246, ""node1"": 141110, ""node2"": 70493, ""type"": 0, ""w"": 27.0}, {""id"": 478820336, ""node1"": 141110, ""node2"": 70493, ""type"": 28, ""w"": 26.0}]",r_associated,27.0
+tout,infusion,nmod,NOUN,0.5765060782432556,[],,

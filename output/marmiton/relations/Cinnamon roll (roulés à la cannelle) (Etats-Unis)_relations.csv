@@ -1,0 +1,55 @@
+node1,node2,relations
+titre,ingrédient,[]
+ingrédient,beurre,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]"
+beurre,beurre,"[{""id"": 283863, ""node1"": 140377, ""node2"": 140377, ""type"": 19, ""w"": 60.0}, {""id"": 648884843, ""node1"": 140377, ""node2"": 140377, ""type"": 99, ""w"": 32.0}]"
+ingrédient,levure,[]
+levure,boulanger,"[{""id"": 1769594, ""node1"": 53450, ""node2"": 145285, ""type"": 0, ""w"": 90.0}, {""id"": 376186762, ""node1"": 53450, ""node2"": 145285, ""type"": 25, ""w"": 26.0}]"
+boulanger,beurre,"[{""id"": 587530407, ""node1"": 145285, ""node2"": 140377, ""type"": 0, ""w"": 35.0}]"
+boulanger,tendre,[]
+ingrédient,sucre,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]"
+sucre,farine,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]"
+eau,oeuf,"[{""id"": 386183819, ""node1"": 65012, ""node2"": 116175, ""type"": 28, ""w"": 27.0}, {""id"": 376049523, ""node1"": 65012, ""node2"": 116175, ""type"": 51, ""w"": 26.0}]"
+oeuf,lait,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]"
+eau,poudre,[]
+poudre,glace,[]
+titre,sucre,[]
+sucre,brun,"[{""id"": 182239, ""node1"": 139481, ""node2"": 14189, ""type"": 17, ""w"": 61.0}, {""id"": 3163418, ""node1"": 139481, ""node2"": 14189, ""type"": 106, ""w"": 25.0}]"
+brun,cannelle,[]
+brun,sucre,"[{""id"": 14798624, ""node1"": 14189, ""node2"": 139481, ""type"": 23, ""w"": 22.0}]"
+saladier,casserole,[]
+casserole,four,[]
+four,balance,[]
+balance,cuisine,[]
+balance,étape,[]
+oeuf,sucre,"[{""id"": 76133259, ""node1"": 116175, ""node2"": 139481, ""type"": 50, ""w"": 26.0}]"
+sucre,blanc,"[{""id"": 105091, ""node1"": 139481, ""node2"": 15196, ""type"": 0, ""w"": 310.0}, {""id"": 182246, ""node1"": 139481, ""node2"": 15196, ""type"": 17, ""w"": 274.0}, {""id"": 3161632, ""node1"": 139481, ""node2"": 15196, ""type"": 106, ""w"": 60.0}]"
+sucre,poudre,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]"
+sucre,soupe,[]
+soupe,beurre,"[{""id"": 3346887, ""node1"": 117152, ""node2"": 140377, ""type"": 777, ""w"": 9.0}]"
+saladier,grand,"[{""id"": 1077330492, ""node1"": 45455, ""node2"": 23178, ""type"": 0, ""w"": 50.0}, {""id"": 31838076, ""node1"": 45455, ""node2"": 23178, ""type"": 17, ""w"": 60.0}, {""id"": 1668931, ""node1"": 45455, ""node2"": 23178, ""type"": 666, ""w"": 2.0}]"
+sucre,saladier,[]
+eau,obtention,[]
+obtention,pâte,[]
+pâte,homogène,"[{""id"": 796702467, ""node1"": 34069, ""node2"": 124759, ""type"": 0, ""w"": 28.0}, {""id"": 372565004, ""node1"": 34069, ""node2"": 124759, ""type"": 17, ""w"": 26.0}]"
+utiliser,appareil,[]
+faire,pain,[]
+position,pâte,[]
+casserole,petit,[]
+fondre,tasse,[]
+tasse,beurre,[]
+ajouter,tasse,[]
+tasse,sucre,"[{""id"": 200547, ""node1"": 146144, ""node2"": 139481, ""type"": 0, ""w"": 64.0}, {""id"": 11308534, ""node1"": 146144, ""node2"": 139481, ""type"": 28, ""w"": 40.0}]"
+crème,glacé,"[{""id"": 14803746, ""node1"": 44001, ""node2"": 39487, ""type"": 17, ""w"": 28.0}]"
+ébullition,cuire,[]
+verser,caramel,[]
+fond,moule,"[{""id"": 796741908, ""node1"": 119272, ""node2"": 143723, ""type"": 0, ""w"": 30.0}, {""id"": 961890616, ""node1"": 119272, ""node2"": 143723, ""type"": 10, ""w"": 25.0}]"
+moule,pouce,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+prêt,pâte,[]
+poser,prêt,[]
+tasse,dessus,[]
+rouler,pâte,"[{""id"": 722424074, ""node1"": 231, ""node2"": 34069, ""type"": 0, ""w"": 26.0}, {""id"": 31816332, ""node1"": 231, ""node2"": 34069, ""type"": 14, ""w"": 53.0}, {""id"": 653385767, ""node1"": 231, ""node2"": 34069, ""type"": 666, ""w"": 2.0}]"
+sceller,rebord,[]
+placer,moule,[]
+doubler,volume,"[{""id"": 561035826, ""node1"": 86792, ""node2"": 130885, ""type"": 0, ""w"": 32.0}]"
+doré,dessus,"[{""id"": 376083980, ""node1"": 47964, ""node2"": 88380, ""type"": 23, ""w"": 26.0}]"

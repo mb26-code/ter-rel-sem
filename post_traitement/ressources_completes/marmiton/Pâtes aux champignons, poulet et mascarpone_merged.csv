@@ -1,0 +1,39 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+pâte,champignon,nmod,NOUN,0.669278621673584,[],,
+pâte,poulet,nmod,NOUN,0.7252311110496521,[],,
+pâte,ingrédient,nmod,NOUN,0.6811284422874451,"[{""id"": 24920568, ""node1"": 34069, ""node2"": 123418, ""type"": 6, ""w"": 17.0}]",r_isa,17.0
+pâte,sel,nmod,NOUN,0.7470165491104126,"[{""id"": 384021, ""node1"": 34069, ""node2"": 13260, ""type"": 0, ""w"": 67.0}, {""id"": 96931368, ""node1"": 34069, ""node2"": 13260, ""type"": 50, ""w"": 15.0}, {""id"": 650992494, ""node1"": 34069, ""node2"": 13260, ""type"": 666, ""w"": 4.0}]",r_associated,67.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,poireau,nmod,NOUN,0.6779045462608337,[],,
+pâte,pâte,nmod,NOUN,0.6031787991523743,"[{""id"": 1077681755, ""node1"": 34069, ""node2"": 34069, ""type"": 0, ""w"": 30.0}, {""id"": 321972, ""node1"": 34069, ""node2"": 34069, ""type"": 19, ""w"": 51.0}]",r_lemma,51.0
+pâte,frais,amod,ADJ,0.6471483707427979,[],,
+frais,blanc,amod,NOUN,0.4842066168785095,"[{""id"": 3177558, ""node1"": 53495, ""node2"": 15196, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+blanc,poulet,nmod,NOUN,0.6177458167076111,"[{""id"": 9356626, ""node1"": 15196, ""node2"": 146261, ""type"": 0, ""w"": 50.0}, {""id"": 97329786, ""node1"": 15196, ""node2"": 146261, ""type"": 10, ""w"": 29.0}, {""id"": 1933499, ""node1"": 15196, ""node2"": 146261, ""type"": 35, ""w"": 45.0}, {""id"": 14659361, ""node1"": 15196, ""node2"": 146261, ""type"": 42, ""w"": 29.0}, {""id"": 1663131, ""node1"": 15196, ""node2"": 146261, ""type"": 666, ""w"": 1.0}]",r_associated,50.0
+poulet,champignon,nmod,NOUN,0.6818439364433289,[],,
+poulet,Paris,nmod,PROPN,0.5402874946594238,"[{""id"": 738503620, ""node1"": 146261, ""node2"": 113317, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+pâte,mascarpone,nmod,NOUN,0.6470909714698792,[],,
+mascarpone,échalote,amod,NOUN,0.6075443625450134,[],,
+mascarpone,bouillon,nmod,NOUN,0.6841328144073486,[],,
+bouillon,volaille,nmod,NOUN,0.6946349143981934,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+pâte,fromage,nmod,NOUN,0.69163578748703,"[{""id"": 98431178, ""node1"": 34069, ""node2"": 141687, ""type"": 0, ""w"": 44.0}, {""id"": 97415349, ""node1"": 34069, ""node2"": 141687, ""type"": 10, ""w"": 28.0}, {""id"": 496570368, ""node1"": 34069, ""node2"": 141687, ""type"": 35, ""w"": 35.0}, {""id"": 650992497, ""node1"": 34069, ""node2"": 141687, ""type"": 666, ""w"": 4.0}, {""id"": 4583697, ""node1"": 34069, ""node2"": 141687, ""type"": 777, ""w"": 10.0}]",r_associated,44.0
+pinceau,couteau,nmod,NOUN,0.4793228805065155,"[{""id"": 558826967, ""node1"": 79400, ""node2"": 32610, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+pinceau,cuillère,nmod,NOUN,0.5075318813323975,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+revenir,échalote,obj,NOUN,0.5848109126091003,[],,
+tout,éplucher,acl,VERB,0.5074307322502136,[],,
+ajouter,blanc,obj,NOUN,0.5225849747657776,[],,
+blanc,découper,acl,VERB,0.5381458401679993,[],,
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+ajouter,dorer,advcl,VERB,0.521462619304657,[],,
+verser,bouillon,obj,NOUN,0.5986587405204773,[],,
+bouillon,cube,appos,NOUN,0.5364071130752563,"[{""id"": 799190726, ""node1"": 146582, ""node2"": 6041, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+cube,diluer,acl,VERB,0.5061305165290833,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+ajouter,mascarpone,obj,NOUN,0.5440415143966675,[],,
+ajouter,champignon,obj,NOUN,0.5464464426040649,[],,
+cuire,moyen,amod,NOUN,0.7146489024162292,[],,
+égoutter,pâte,obj,NOUN,0.6485137343406677,[],,
+verser,sauce,obj,NOUN,0.6628547310829163,"[{""id"": 478293932, ""node1"": 104506, ""node2"": 141110, ""type"": 0, ""w"": 28.0}, {""id"": 478293931, ""node1"": 104506, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+sauce,dessus,amod,ADV,0.6883375644683838,[],,

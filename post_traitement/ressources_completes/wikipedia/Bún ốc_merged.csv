@@ -1,0 +1,26 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,alimentation,obj,NOUN,0.410456508398056,[],,
+spécialité,traditionnel,amod,ADJ,0.5539761781692505,[],,
+soupe,bouillon,nmod,NOUN,0.6879075169563293,"[{""id"": 190009, ""node1"": 117152, ""node2"": 146582, ""type"": 0, ""w"": 240.0}, {""id"": 575382, ""node1"": 117152, ""node2"": 146582, ""type"": 5, ""w"": 103.0}, {""id"": 3148407, ""node1"": 117152, ""node2"": 146582, ""type"": 8, ""w"": 76.0}, {""id"": 1018610613, ""node1"": 117152, ""node2"": 146582, ""type"": 9, ""w"": 29.0}, {""id"": 2481443, ""node1"": 117152, ""node2"": 146582, ""type"": 20, ""w"": -59.0}, {""id"": 1690226, ""node1"": 117152, ""node2"": 146582, ""type"": 35, ""w"": 190.0}, {""id"": 1530292, ""node1"": 117152, ""node2"": 146582, ""type"": 666, ""w"": 6.0}]",r_associated,240.0
+bouillon,saveur,nmod,NOUN,0.7080093622207642,"[{""id"": 1003111717, ""node1"": 146582, ""node2"": 71872, ""type"": 666, ""w"": 3.0}]",r_aki,3.0
+goût,gras,amod,NOUN,0.6025272011756897,"[{""id"": 3379028, ""node1"": 119233, ""node2"": 56362, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+gras,escargot,nmod,NOUN,0.5351601243019104,[],,
+escargot,eau,nmod,NOUN,0.5578510761260986,[],,
+eau,doux,amod,ADJ,0.5891962051391602,[],,
+ingrédient,qui,nsubj,PRON,0.46613210439682,[],,
+ingrédient,principal,amod,ADJ,0.5312119126319885,[],,
+eau,ingrédient,acl:relcl,NOUN,0.6074054837226868,"[{""id"": 75029767, ""node1"": 65012, ""node2"": 123418, ""type"": 6, ""w"": 90.0}]",r_isa,90.0
+manger,légume,nmod,NOUN,0.695486843585968,"[{""id"": 80809, ""node1"": 130164, ""node2"": 120603, ""type"": 0, ""w"": 57.0}, {""id"": 615222600, ""node1"": 130164, ""node2"": 120603, ""type"": 13, ""w"": 11.0}, {""id"": 112302, ""node1"": 130164, ""node2"": 120603, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+légume,vert,amod,ADJ,0.5914057493209839,"[{""id"": 124684, ""node1"": 120603, ""node2"": 26976, ""type"": 0, ""w"": 90.0}, {""id"": 362120, ""node1"": 120603, ""node2"": 26976, ""type"": 17, ""w"": 81.0}, {""id"": 3161051, ""node1"": 120603, ""node2"": 26976, ""type"": 106, ""w"": 48.0}]",r_associated,90.0
+faire,obtenir,advcl,VERB,0.4448636174201965,"[{""id"": 54695309, ""node1"": 87528, ""node2"": 102671, ""type"": 0, ""w"": 22.0}, {""id"": 54669042, ""node1"": 87528, ""node2"": 102671, ""type"": 5, ""w"": -134.0}]",r_associated,22.0
+obtenir,bouillon,obj,NOUN,0.5926970839500427,[],,
+eau,peu,nmod,ADV,0.5777081251144409,[],,
+peu,sel,nmod,NOUN,0.6676684617996216,[],,
+eau,heure,nmod,NOUN,0.5476787686347961,[],,
+eau,piment,nmod,NOUN,0.654557466506958,[],,
+piment,couper,acl,VERB,0.623065173625946,[],,
+cuire,escargot,obj,NOUN,0.7255758047103882,[],,
+viande,bœuf,nmod,NOUN,0.636695384979248,"[{""id"": 10577328, ""node1"": 140100, ""node2"": 168216, ""type"": 0, ""w"": 59.0}, {""id"": 9627859, ""node1"": 140100, ""node2"": 168216, ""type"": 8, ""w"": 95.0}, {""id"": 15173562, ""node1"": 140100, ""node2"": 168216, ""type"": 27, ""w"": 30.0}, {""id"": 646611390, ""node1"": 140100, ""node2"": 168216, ""type"": 666, ""w"": 1.0}]",r_hypo,95.0
+ingrédient,tout,amod,ADJ,0.6054088473320007,[],,
+ajouter,bouillon,obj,NOUN,0.6038923859596252,[],,
+bouillon,chaud,amod,ADJ,0.6475486159324646,"[{""id"": 152253, ""node1"": 146582, ""node2"": 19150, ""type"": 0, ""w"": 71.0}, {""id"": 8793877, ""node1"": 146582, ""node2"": 19150, ""type"": 17, ""w"": 45.0}]",r_associated,71.0

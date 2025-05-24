@@ -1,0 +1,34 @@
+head,lemma,dep,pos,sim,relation
+filet,mignon,amod,ADJ,0.4982842803001404,"[{""id"": 415002564, ""node1"": 42188, ""node2"": 128961, ""type"": 0, ""w"": 27.0}, {""id"": 14805958, ""node1"": 42188, ""node2"": 128961, ""type"": 17, ""w"": 23.0}]"
+filet,veau,nmod,NOUN,0.5815195441246033,"[{""id"": 98618331, ""node1"": 42188, ""node2"": 91311, ""type"": 0, ""w"": 17.0}, {""id"": 97756955, ""node1"": 42188, ""node2"": 91311, ""type"": 10, ""w"": 29.0}]"
+filet,cidre,nmod,NOUN,0.6167225241661072,[]
+cidre,ingrédient,nmod,NOUN,0.621827244758606,[]
+cidre,fond,nmod,NOUN,0.5896672606468201,[]
+fond,veau,nmod,NOUN,0.573129415512085,"[{""id"": 98303715, ""node1"": 119272, ""node2"": 91311, ""type"": 0, ""w"": 27.0}, {""id"": 98303791, ""node1"": 119272, ""node2"": 91311, ""type"": 9, ""w"": 30.0}]"
+cidre,crème,nmod,NOUN,0.6477218866348267,[]
+crème,beurre,nmod,NOUN,0.6757769584655762,"[{""id"": 405906, ""node1"": 44001, ""node2"": 140377, ""type"": 0, ""w"": 73.0}, {""id"": 9980280, ""node1"": 44001, ""node2"": 140377, ""type"": 10, ""w"": 4.0}, {""id"": 1836384, ""node1"": 44001, ""node2"": 140377, ""type"": 21, ""w"": 60.0}, {""id"": 306776452, ""node1"": 44001, ""node2"": 140377, ""type"": 666, ""w"": 2.0}]"
+cidre,filet,nmod,NOUN,0.6167225241661072,[]
+cidre,cidre,acl,VERB,0.5069180727005005,"[{""id"": 288794, ""node1"": 75142, ""node2"": 75142, ""type"": 19, ""w"": 55.0}]"
+cidre,pinceau,obj,NOUN,0.5524347424507141,[]
+pinceau,casserole,nmod,NOUN,0.5712795853614807,[]
+casserole,balance,obj,NOUN,0.5916885137557983,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+balance,étape,nmod,NOUN,0.4149083495140075,[]
+fondre,oignon,obj,NOUN,0.6370865702629089,[]
+ajouter,veau,obj,NOUN,0.5765214562416077,[]
+ajouter,cidre,obj,NOUN,0.5822009444236755,[]
+réduire,feu,obj,NOUN,0.5594683289527893,[]
+ajouter,fond,obj,NOUN,0.4973157346248626,[]
+fond,aller,acl:relcl,VERB,0.4546412825584411,[]
+saler,peu,obj,ADV,0.569782555103302,[]
+total,cuisson,nsubj,NOUN,0.5675893425941467,[]
+cuisson,viande,nmod,NOUN,0.7976993322372437,"[{""id"": 568820873, ""node1"": 60056, ""node2"": 140100, ""type"": 0, ""w"": 44.0}]"
+ajouter,cuillère,obj,NOUN,0.5465437173843384,[]
+cuillère,café,nmod,NOUN,0.592677116394043,"[{""id"": 163839, ""node1"": 51905, ""node2"": 66324, ""type"": 0, ""w"": 180.0}, {""id"": 11354840, ""node1"": 51905, ""node2"": 66324, ""type"": 15, ""w"": 39.0}, {""id"": 720818158, ""node1"": 51905, ""node2"": 66324, ""type"": 174, ""w"": 25.0}]"
+café,fond,nmod,NOUN,0.5662693977355957,[]
+réduire,sauce,obj,NOUN,0.673485279083252,"[{""id"": 1660257, ""node1"": 120230, ""node2"": 141110, ""type"": 0, ""w"": 60.0}, {""id"": 940663193, ""node1"": 120230, ""node2"": 141110, ""type"": 14, ""w"": 30.0}]"
+sauce,moitié,nmod,NOUN,0.6669243574142456,[]
+rectifier,assaisonnement,obj,NOUN,0.5303710103034973,"[{""id"": 15080476, ""node1"": 36001, ""node2"": 15763, ""type"": 14, ""w"": 30.0}]"
+cuillère,bon,amod,ADJ,0.5300194621086121,[]
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]"
+soupe,crème,nmod,NOUN,0.6830318570137024,"[{""id"": 729556086, ""node1"": 117152, ""node2"": 44001, ""type"": 0, ""w"": 36.0}, {""id"": 216637777, ""node1"": 117152, ""node2"": 44001, ""type"": 50, ""w"": 32.0}, {""id"": 663289934, ""node1"": 117152, ""node2"": 44001, ""type"": 666, ""w"": 4.0}]"

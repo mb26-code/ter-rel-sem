@@ -1,0 +1,87 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+mets,riz,nsubj,NOUN,0.6830624341964722,[],,
+riz,poulet,nmod,NOUN,0.6775090098381042,[],,
+faire,mets,advcl,NOUN,0.527446985244751,[],,
+mets,origine,nmod,NOUN,0.4991871118545532,[],,
+mets,chinois,amod,ADJ,0.4790588617324829,"[{""id"": 791746161, ""node1"": 114839, ""node2"": 59402, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+mets,associer,acl,VERB,0.4676531553268432,[],,
+associer,commun,advcl,ADJ,0.4045515656471252,[],,
+plat,poulet,nsubj,NOUN,0.684086263179779,"[{""id"": 10576818, ""node1"": 36327, ""node2"": 146261, ""type"": 0, ""w"": 51.0}, {""id"": 9626593, ""node1"": 36327, ""node2"": 146261, ""type"": 8, ""w"": 23.0}, {""id"": 93507814, ""node1"": 36327, ""node2"": 146261, ""type"": 9, ""w"": 35.0}, {""id"": 11309177, ""node1"": 36327, ""node2"": 146261, ""type"": 28, ""w"": 41.0}]",r_associated,51.0
+poulet,riz,nmod,NOUN,0.6775090098381042,[],,
+plat,adapter,acl,VERB,0.6012449860572815,[],,
+plat,sud,nmod,NOUN,0.5249398946762085,[],,
+plat,connaître,acl,VERB,0.6230720281600952,[],,
+plat,appeler,acl,VERB,0.5979531407356262,[],,
+appeler,poulet,obj,NOUN,0.5865889191627502,[],,
+plat,important,amod,ADJ,0.6074784398078918,[],,
+plat,remonter,acl,VERB,0.6179001331329346,"[{""id"": 914919410, ""node1"": 36327, ""node2"": 18699, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+race,poulet,nmod,NOUN,0.4823182821273803,"[{""id"": 1018074771, ""node1"": 145360, ""node2"": 146261, ""type"": 17, ""w"": -5.0}]",r_carac,-5.0
+utiliser,préparer,advcl,VERB,0.4703598916530609,[],,
+préparer,cuisiner,advcl,VERB,0.6147356629371643,"[{""id"": 973266, ""node1"": 36246, ""node2"": 80199, ""type"": 0, ""w"": 214.0}, {""id"": 53623629, ""node1"": 36246, ""node2"": 80199, ""type"": 5, ""w"": 113.0}, {""id"": 9233075, ""node1"": 36246, ""node2"": 80199, ""type"": 35, ""w"": 183.0}]",r_associated,214.0
+cuisiner,riz,obj,NOUN,0.6964014768600464,"[{""id"": 361377468, ""node1"": 80199, ""node2"": 24372, ""type"": 14, ""w"": 46.0}]",r_patient,46.0
+riz,bouillon,nmod,NOUN,0.6764035224914551,"[{""id"": 914309708, ""node1"": 24372, ""node2"": 146582, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+bouillon,poulet,nmod,NOUN,0.680425763130188,"[{""id"": 558647557, ""node1"": 146582, ""node2"": 146261, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+bouillon,rester,acl,VERB,0.5793728232383728,[],,
+créer,plat,obj,NOUN,0.5851317048072815,[],,
+nom,riz,nmod,NOUN,0.61580491065979,[],,
+nom,poulet,nmod,NOUN,0.4932773411273956,[],,
+adapter,plat,nsubj:pass,NOUN,0.6012449860572815,[],,
+plat,origine,nmod,NOUN,0.6086809635162354,[],,
+rester,riz,nsubj,NOUN,0.6582531332969666,[],,
+rester,plat,obj,NOUN,0.6001269221305847,[],,
+foyer,Singapour,nmod,PROPN,0.4124393165111542,[],,
+pays,tout,amod,ADJ,0.4318776130676269,[],,
+version,propre,amod,ADJ,0.4522484242916107,"[{""id"": 523336521, ""node1"": 134208, ""node2"": 118316, ""type"": 17, ""w"": 46.0}]",r_carac,46.0
+avoir,version,obj,NOUN,0.4073684811592102,[],,
+retracer,plat,nsubj,NOUN,0.5898881554603577,[],,
+connaître,plat,nsubj:pass,NOUN,0.6230720281600952,[],,
+gras,poulet,nmod,NOUN,0.6080256700515747,"[{""id"": 14799854, ""node1"": 56362, ""node2"": 146261, ""type"": 23, ""w"": 23.0}, {""id"": 291322956, ""node1"": 56362, ""node2"": 146261, ""type"": 777, ""w"": 10.0}]",r_carac-1,23.0
+naître,plat,nsubj:pass,NOUN,0.6012790203094482,[],,
+serviteur,chercher,acl,VERB,0.4175611138343811,[],,
+restaurant,premier,amod,ADJ,0.4627454280853271,[],,
+ouvrir,restaurant,nsubj,NOUN,0.4233111441135406,"[{""id"": 21834572, ""node1"": 54271, ""node2"": 79954, ""type"": 31, ""w"": 61.0}]",r_action_lieu,61.0
+restaurant,poulet,nmod,NOUN,0.6462915539741516,"[{""id"": 11341285, ""node1"": 79954, ""node2"": 146261, ""type"": 28, ""w"": 38.0}]",r_lieu-1,38.0
+perdre,serviteur,nsubj,NOUN,0.4476894438266754,[],,
+perdre,source,obj,NOUN,0.4478657841682434,[],,
+vendre,boulette,obj,NOUN,0.4993148744106293,[],,
+boulette,poulet,nmod,NOUN,0.6603462100028992,[],,
+boulette,riz,nmod,NOUN,0.6672343611717224,"[{""id"": 561335315, ""node1"": 112360, ""node2"": 24372, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+restaurant,dont,nmod,PRON,0.4400547444820404,[],,
+fonctionner,restaurant,nsubj,NOUN,0.5113704800605774,[],,
+fonctionner,critique,obj,NOUN,0.408316433429718,[],,
+critique,culinaire,amod,ADJ,0.5420281887054443,[],,
+considérer,poulet,nsubj:pass,NOUN,0.6424275636672974,[],,
+plat,national,amod,ADJ,0.5658581852912903,[],,
+jour,tout,amod,ADJ,0.47959965467453,[],,
+centre,restauration,nmod,NOUN,0.4144198298454284,[],,
+servir,poulet,nsubj:pass,NOUN,0.6864113211631775,[],,
+sauce,piquant,amod,ADJ,0.7140870690345764,"[{""id"": 29311363, ""node1"": 141110, ""node2"": 6801, ""type"": 0, ""w"": 21.0}, {""id"": 10529238, ""node1"": 141110, ""node2"": 6801, ""type"": 9, ""w"": 31.0}]",r_has_part,31.0
+associer,plat,nsubj:pass,NOUN,0.6080800294876099,[],,
+Asie,tout,amod,ADJ,0.4109199643135071,[],,
+appeler,plat,nsubj:pass,NOUN,0.5979531407356262,[],,
+populaire,plat,nsubj,NOUN,0.5941116809844971,"[{""id"": 93539361, ""node1"": 19960, ""node2"": 36327, ""type"": 23, ""w"": 30.0}]",r_carac-1,30.0
+lancer,restaurant,nsubj,NOUN,0.4826633632183075,[],,
+lancer,burger,obj,NOUN,0.5195963382720947,[],,
+burger,poulet,nmod,NOUN,0.6069369316101074,[],,
+burger,inspirer,acl:relcl,VERB,0.485805869102478,[],,
+fête,national,amod,ADJ,0.4141813516616821,"[{""id"": 975258283, ""node1"": 144647, ""node2"": 1561, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+débat,remonter,acl:relcl,VERB,0.4114733338356018,[],,
+origine,plat,nmod,NOUN,0.6086809635162354,[],,
+plat,réaliser,acl:relcl,VERB,0.6176847815513611,[],,
+revendiquer,poulet,obj,NOUN,0.6008815765380859,[],,
+faire,nous,nsubj,PRON,0.4043572843074798,[],,
+devenir,faire,advcl,VERB,0.4597049653530121,"[{""id"": 85358195, ""node1"": 9626, ""node2"": 87528, ""type"": 0, ""w"": 21.0}, {""id"": 85335667, ""node1"": 9626, ""node2"": 87528, ""type"": 5, ""w"": 48.0}]",r_syn,48.0
+faire,attention,obj,NOUN,0.4886297583580017,"[{""id"": 1051672226, ""node1"": 87528, ""node2"": 44007, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+leur,devenir,advcl,VERB,0.4461257457733154,[],,
+décrire,débat,nsubj:pass,NOUN,0.4102469086647033,[],,
+bouillir,entier,amod,ADJ,0.5971714854240417,[],,
+recette,traditionnel,amod,ADJ,0.67087721824646,[],,
+bouillon,autre,amod,ADJ,0.6305538415908813,[],,
+préparer,bouillon,nsubj:pass,NOUN,0.6670754551887512,[],,
+décrire,préparer,advcl,VERB,0.4406189322471618,[],,
+préparer,faire,advcl,VERB,0.5036988258361816,"[{""id"": 973276, ""node1"": 36246, ""node2"": 87528, ""type"": 0, ""w"": 30.0}, {""id"": 53623610, ""node1"": 36246, ""node2"": 87528, ""type"": 5, ""w"": 559.0}, {""id"": 656900330, ""node1"": 36246, ""node2"": 87528, ""type"": 6, ""w"": -31.0}]",r_syn,559.0
+faire,riz,obj,NOUN,0.6955592036247253,[],,
+donner,texture,obj,NOUN,0.5002751350402832,[],,
+servir,plat,nsubj:pass,NOUN,0.6370052695274353,"[{""id"": 1610963, ""node1"": 7888, ""node2"": 36327, ""type"": 0, ""w"": 122.0}, {""id"": 97862196, ""node1"": 7888, ""node2"": 36327, ""type"": 14, ""w"": 100.0}, {""id"": 134589, ""node1"": 7888, ""node2"": 36327, ""type"": 16, ""w"": 110.0}, {""id"": 376065693, ""node1"": 7888, ""node2"": 36327, ""type"": 31, ""w"": 26.0}, {""id"": 466842766, ""node1"": 7888, ""node2"": 36327, ""type"": 666, ""w"": 2.0}]",r_associated,122.0
+texture,servir,acl:relcl,VERB,0.5883863568305969,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,

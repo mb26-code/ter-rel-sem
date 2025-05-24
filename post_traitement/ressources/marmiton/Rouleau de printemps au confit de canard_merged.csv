@@ -1,0 +1,44 @@
+head,lemma,dep,pos,sim,relation
+rouleau,printemps,nmod,NOUN,0.4064111411571502,[]
+rouleau,confit,nmod,NOUN,0.5667318105697632,[]
+confit,canard,nmod,NOUN,0.5780603289604187,"[{""id"": 270089, ""node1"": 95692, ""node2"": 7769, ""type"": 0, ""w"": 162.0}, {""id"": 1650858, ""node1"": 95692, ""node2"": 7769, ""type"": 6, ""w"": -154.0}, {""id"": 2408093, ""node1"": 95692, ""node2"": 7769, ""type"": 23, ""w"": 32.0}, {""id"": 699766117, ""node1"": 95692, ""node2"": 7769, ""type"": 666, ""w"": 2.0}]"
+canard,ingrédient,nmod,NOUN,0.6462898254394531,[]
+rouleau,cuisse,nmod,NOUN,0.4638599455356598,[]
+cuisse,canard,nmod,PROPN,0.5198010802268982,"[{""id"": 185097, ""node1"": 58876, ""node2"": 7769, ""type"": 0, ""w"": 81.0}, {""id"": 377011018, ""node1"": 58876, ""node2"": 7769, ""type"": 20, ""w"": 27.0}]"
+rouleau,feuille,nmod,NOUN,0.4473139941692352,[]
+rouleau,oignon,nmod,NOUN,0.592423141002655,[]
+oignon,nouveau,amod,ADJ,0.6103869080543518,[]
+oignon,jaune,amod,ADJ,0.5888288617134094,"[{""id"": 1780352, ""node1"": 123307, ""node2"": 86711, ""type"": 17, ""w"": 27.0}, {""id"": 3161225, ""node1"": 123307, ""node2"": 86711, ""type"": 106, ""w"": 7.0}, {""id"": 1767145, ""node1"": 123307, ""node2"": 86711, ""type"": 666, ""w"": 2.0}]"
+oignon,moutarde,amod,NOUN,0.6431501507759094,[]
+huile,ancien,amod,ADJ,0.547520101070404,[]
+oignon,huile,acl,NOUN,0.633205235004425,"[{""id"": 3937482, ""node1"": 123307, ""node2"": 141971, ""type"": 777, ""w"": 1.0}]"
+huile,sésame,nmod,NOUN,0.6178574562072754,"[{""id"": 12295235, ""node1"": 141971, ""node2"": 18404, ""type"": 0, ""w"": 43.0}, {""id"": 580644, ""node1"": 141971, ""node2"": 18404, ""type"": 5, ""w"": 32.0}, {""id"": 88080850, ""node1"": 141971, ""node2"": 18404, ""type"": 35, ""w"": 32.0}, {""id"": 380316783, ""node1"": 141971, ""node2"": 18404, ""type"": 54, ""w"": 34.0}]"
+sésame,sel,nmod,NOUN,0.6918001770973206,[]
+piment,Espelette,nmod,PROPN,0.5338683724403381,"[{""id"": 673221705, ""node1"": 128791, ""node2"": 254818, ""type"": 0, ""w"": 24.0}]"
+titre,saladier,nmod,NOUN,0.5138511061668396,[]
+saladier,assiette,nmod,NOUN,0.6438512206077576,[]
+assiette,étape,nmod,NOUN,0.483820229768753,[]
+titre,chauffer,acl,VERB,0.5177783370018005,[]
+chauffer,poêle,obj,NOUN,0.652711808681488,[]
+chauffer,déposer,advcl,VERB,0.5176488757133484,[]
+déposer,cuisse,obj,NOUN,0.47905433177948,[]
+légume,tout,amod,ADJ,0.6585912108421326,[]
+laver,légume,obj,NOUN,0.6450674533843994,"[{""id"": 369967247, ""node1"": 143876, ""node2"": 120603, ""type"": 0, ""w"": 34.0}, {""id"": 1639138, ""node1"": 143876, ""node2"": 120603, ""type"": 14, ""w"": 100.0}]"
+laver,roquette,obj,NOUN,0.5600979328155518,[]
+saler,légume,nsubj,NOUN,0.7127084136009216,[]
+légume,saladier,nmod,NOUN,0.7030026912689209,[]
+cuisse,assiette,nmod,NOUN,0.56100994348526,"[{""id"": 9021672, ""node1"": 58876, ""node2"": 62735, ""type"": 15, ""w"": 79.0}]"
+verser,moutarde,obj,NOUN,0.586737334728241,[]
+sésame,grillé,amod,ADJ,0.6125639081001282,"[{""id"": 477551496, ""node1"": 18404, ""node2"": 141899, ""type"": 17, ""w"": 26.0}]"
+feuille,tremper,amod,VERB,0.5642679929733276,[]
+feuille,riz,nmod,NOUN,0.6777033805847168,[]
+feuille,eau,nmod,NOUN,0.5719302296638489,"[{""id"": 80153345, ""node1"": 37993, ""node2"": 65012, ""type"": 15, ""w"": 35.0}]"
+eau,tiède,amod,ADJ,0.5831737518310547,"[{""id"": 796965917, ""node1"": 65012, ""node2"": 13843, ""type"": 0, ""w"": 29.0}, {""id"": 128780, ""node1"": 65012, ""node2"": 13843, ""type"": 17, ""w"": 73.0}, {""id"": 600063832, ""node1"": 65012, ""node2"": 13843, ""type"": 27, ""w"": 32.0}]"
+eau,brièvement,amod,ADV,0.5487947463989258,[]
+linge,humide,amod,ADJ,0.5142767429351807,"[{""id"": 1913120, ""node1"": 92471, ""node2"": 76183, ""type"": 17, ""w"": 64.0}]"
+bouquet,roquette,nmod,NOUN,0.5111995339393616,[]
+bouquet,partie,nmod,NOUN,0.4848016202449798,[]
+bouquet,recouvrir,acl,VERB,0.5082499980926514,[]
+rouler,ensemble,obj,NOUN,0.4405053555965423,[]
+couper,rouleau,obj,NOUN,0.4701743721961975,[]
+assiette,service,nmod,NOUN,0.5711503624916077,"[{""id"": 558775187, ""node1"": 62735, ""node2"": 24247, ""type"": 0, ""w"": 38.0}, {""id"": 244811, ""node1"": 62735, ""node2"": 24247, ""type"": 25, ""w"": 70.0}, {""id"": 1873682, ""node1"": 62735, ""node2"": 24247, ""type"": 42, ""w"": 57.0}, {""id"": 775104594, ""node1"": 62735, ""node2"": 24247, ""type"": 139, ""w"": 25.0}, {""id"": 1052363018, ""node1"": 62735, ""node2"": 24247, ""type"": 666, ""w"": 2.0}]"

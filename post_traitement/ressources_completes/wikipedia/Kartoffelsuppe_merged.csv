@@ -1,0 +1,34 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,gastronomie,obj,NOUN,0.4582444131374359,[],,
+soupe,pomme,nmod,NOUN,0.6745595932006836,[],,
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+soupe,traditionnel,amod,ADJ,0.6689316630363464,[],,
+soupe,allemand,amod,ADJ,0.6217915415763855,[],,
+ingrédient,dont,nmod,PRON,0.493603378534317,[],,
+ingrédient,principal,amod,ADJ,0.5312119126319885,[],,
+pomme,ingrédient,nsubj,NOUN,0.6519409418106079,[],,
+variante,recette,nmod,NOUN,0.5686603784561157,[],,
+cuire,pomme,nsubj:pass,NOUN,0.7674765586853027,"[{""id"": 195355017, ""node1"": 5115, ""node2"": 37201, ""type"": 13, ""w"": 30.0}, {""id"": 97862229, ""node1"": 5115, ""node2"": 37201, ""type"": 14, ""w"": 30.0}]",r_agent,30.0
+variante,cuire,acl:relcl,VERB,0.7329505085945129,[],,
+légume,autre,amod,ADJ,0.6423109173774719,[],,
+légume,tel,amod,ADJ,0.5569634437561035,[],,
+carotte,céleri,amod,PROPN,0.6129449009895325,"[{""id"": 898858923, ""node1"": 76234, ""node2"": 109326, ""type"": 0, ""w"": 20.0}, {""id"": 1032956768, ""node1"": 76234, ""node2"": 109326, ""type"": 78, ""w"": 29.0}]",r_cohypo,29.0
+bouillon,viande,nmod,NOUN,0.7526476979255676,"[{""id"": 558647534, ""node1"": 146582, ""node2"": 140100, ""type"": 0, ""w"": 28.0}, {""id"": 1033715516, ""node1"": 146582, ""node2"": 140100, ""type"": 28, ""w"": 26.0}, {""id"": 1071673578, ""node1"": 146582, ""node2"": 140100, ""type"": 666, ""w"": 2.0}, {""id"": 4238168, ""node1"": 146582, ""node2"": 140100, ""type"": 777, ""w"": 10.0}]",r_associated,28.0
+utiliser,presse,obj,NOUN,0.4255039095878601,[],,
+utiliser,purée,obj,NOUN,0.6664217114448547,[],,
+écraser,pomme,nsubj:pass,NOUN,0.5793675184249878,[],,
+écraser,légume,nsubj:pass,NOUN,0.6524887681007385,"[{""id"": 97862830, ""node1"": 52004, ""node2"": 120603, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+contenir,soupe,nsubj,NOUN,0.6601181626319885,[],,
+cuisine,qui,nmod,PRON,0.5098981261253357,[],,
+élément,cuisine,nmod,NOUN,0.660682201385498,"[{""id"": 15425253, ""node1"": 42490, ""node2"": 16033, ""type"": 0, ""w"": 227.0}, {""id"": 452871, ""node1"": 42490, ""node2"": 16033, ""type"": 3, ""w"": 224.0}]",r_associated,227.0
+cuisine,allemand,amod,ADJ,0.5704458951950073,[],,
+élément,présenter,acl,VERB,0.438308835029602,[],,
+forme,saucisse,nmod,NOUN,0.5773948431015015,[],,
+exemple,morceau,nmod,NOUN,0.5039626955986023,[],,
+saucisse,Vienne,nmod,PROPN,0.423494428396225,"[{""id"": 975549850, ""node1"": 77807, ""node2"": 41134, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+boudin,noir,amod,ADJ,0.5277727842330933,"[{""id"": 162085, ""node1"": 16548, ""node2"": 64238, ""type"": 0, ""w"": 112.0}, {""id"": 3168043, ""node1"": 16548, ""node2"": 64238, ""type"": 106, ""w"": 22.0}, {""id"": 1794570, ""node1"": 16548, ""node2"": 64238, ""type"": 666, ""w"": 2.0}]",r_associated,112.0
+ajouter,morceau,obj,NOUN,0.5569719076156616,[],,
+morceau,pain,nmod,NOUN,0.6563464999198914,"[{""id"": 2152927, ""node1"": 65364, ""node2"": 61283, ""type"": 0, ""w"": 67.0}, {""id"": 720819410, ""node1"": 65364, ""node2"": 61283, ""type"": 174, ""w"": 25.0}, {""id"": 980923934, ""node1"": 65364, ""node2"": 61283, ""type"": 666, ""w"": 4.0}]",r_associated,67.0
+herbe,fin,amod,ADJ,0.510809063911438,[],,
+manière,herbe,nmod,NOUN,0.4775066077709198,[],,
+manière,paprika,appos,NOUN,0.630986213684082,[],,

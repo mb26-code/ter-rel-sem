@@ -1,0 +1,95 @@
+node1,node2,relations
+ajouter,macaron,[]
+macaron,abricot,[]
+rose,ingrédient,[]
+rose,sucre,[]
+sucre,glace,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -126.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]"
+sucre,sucre,"[{""id"": 335264, ""node1"": 139481, ""node2"": 139481, ""type"": 19, ""w"": 142.0}, {""id"": 93901596, ""node1"": 139481, ""node2"": 139481, ""type"": 50, ""w"": -27.0}, {""id"": 376041081, ""node1"": 139481, ""node2"": 139481, ""type"": 51, ""w"": 28.0}]"
+sucre,poudre,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]"
+poudre,colorer,[]
+colorer,alimentaire,[]
+colorer,amande,[]
+amande,poudre,[]
+poudre,blanc,"[{""id"": 797000183, ""node1"": 139470, ""node2"": 15196, ""type"": 0, ""w"": 24.0}, {""id"": 3186318, ""node1"": 139470, ""node2"": 15196, ""type"": 106, ""w"": 3.0}]"
+blanc,oeuf,"[{""id"": 215721, ""node1"": 15196, ""node2"": 116175, ""type"": 0, ""w"": 84.0}, {""id"": 31299415, ""node1"": 15196, ""node2"": 116175, ""type"": 3, ""w"": 32.0}, {""id"": 76136326, ""node1"": 15196, ""node2"": 116175, ""type"": 10, ""w"": 26.0}, {""id"": 373603, ""node1"": 15196, ""node2"": 116175, ""type"": 23, ""w"": 110.0}, {""id"": 91492401, ""node1"": 15196, ""node2"": 116175, ""type"": 35, ""w"": 54.0}]"
+oeuf,eau,"[{""id"": 386067341, ""node1"": 116175, ""node2"": 65012, ""type"": 15, ""w"": 30.0}, {""id"": 76133634, ""node1"": 116175, ""node2"": 65012, ""type"": 50, ""w"": 35.0}, {""id"": 109918850, ""node1"": 116175, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]"
+eau,rose,"[{""id"": 459007855, ""node1"": 65012, ""node2"": 145583, ""type"": 17, ""w"": 26.0}]"
+oeuf,sucre,"[{""id"": 76133259, ""node1"": 116175, ""node2"": 139481, ""type"": 50, ""w"": 26.0}]"
+sucre,crème,"[{""id"": 915278756, ""node1"": 139481, ""node2"": 44001, ""type"": 0, ""w"": 22.0}]"
+crème,liquide,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]"
+colorer,confiture,[]
+confiture,abricot,"[{""id"": 411049, ""node1"": 70793, ""node2"": 118502, ""type"": 0, ""w"": 141.0}, {""id"": 11340043, ""node1"": 70793, ""node2"": 118502, ""type"": 28, ""w"": 38.0}]"
+abricot,four,[]
+four,tamis,[]
+four,mixeur,[]
+mixeur,saladier,[]
+saladier,couvercle,[]
+papier,meilleur,[]
+top,papier,[]
+poche,congélateur,[]
+congélateur,douille,[]
+poche,balance,"[{""id"": 54692522, ""node1"": 139906, ""node2"": 145190, ""type"": 0, ""w"": 22.0}, {""id"": 54673051, ""node1"": 139906, ""node2"": 145190, ""type"": 5, ""w"": 75.0}]"
+balance,cuisine,[]
+macaron,table,[]
+macaron,induction,[]
+macaron,coque,[]
+macaron,four,[]
+four,150,[]
+macaron,degré,[]
+macaron,thermostat,[]
+macaron,poudre,[]
+poudre,amande,[]
+macaron,blanc,[]
+blanc,neige,"[{""id"": 116991, ""node1"": 15196, ""node2"": 3699, ""type"": 0, ""w"": 509.77}, {""id"": 117866, ""node1"": 15196, ""node2"": 3699, ""type"": 23, ""w"": 320.0}, {""id"": 1622496, ""node1"": 15196, ""node2"": 3699, ""type"": 666, ""w"": 12.0}]"
+neige,ferme,[]
+ajouter,sucre,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]"
+poudre,petit,[]
+sucre,continuer,[]
+saladier,verser,[]
+verser,mélange,[]
+mélange,oeuf,[]
+incorporer,délicatement,[]
+délicatement,mélange,[]
+mélange,poudre,"[{""id"": 243448704, ""node1"": 14800, ""node2"": 139470, ""type"": 8, ""w"": 30.0}]"
+quantité,petit,"[{""id"": 892024045, ""node1"": 78869, ""node2"": 55222, ""type"": 0, ""w"": 20.0}]"
+prélever,quantité,"[{""id"": 1046287606, ""node1"": 27502, ""node2"": 78869, ""type"": 666, ""w"": 2.0}]"
+quantité,cuillère,"[{""id"": 31825021, ""node1"": 78869, ""node2"": 51905, ""type"": 0, ""w"": 7.0}, {""id"": 31789362, ""node1"": 78869, ""node2"": 51905, ""type"": 8, ""w"": 32.0}]"
+quantité,soupe,[]
+quantité,pâte,[]
+goutte,colorant,[]
+quantité,arôme,[]
+arôme,rose,[]
+quantité,souhaiter,[]
+couvrir,goût,[]
+mélanger,quantité,[]
+quantité,reste,[]
+reste,préparation,[]
+plaque,four,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]"
+four,métal,"[{""id"": 729542778, ""node1"": 9190, ""node2"": 134927, ""type"": 0, ""w"": 27.0}, {""id"": 952478965, ""node1"": 9190, ""node2"": 134927, ""type"": 50, ""w"": 38.0}]"
+poche,préparation,[]
+coque,facon,[]
+taille,plaque,[]
+laissez,coque,[]
+endroit,chaud,"[{""id"": 31865146, ""node1"": 134218, ""node2"": 19150, ""type"": 17, ""w"": 68.0}]"
+chauffage,petit,[]
+chauffage,électrique,"[{""id"": 192730, ""node1"": 62046, ""node2"": 133949, ""type"": 0, ""w"": 55.0}, {""id"": 2050224, ""node1"": 62046, ""node2"": 133949, ""type"": 666, ""w"": 1.0}]"
+chauffage,type,[]
+chauffage,salle,"[{""id"": 3719836, ""node1"": 62046, ""node2"": 139209, ""type"": 777, ""w"": 10.0}]"
+salle,bain,[]
+prêt,coque,[]
+préparer,garniture,[]
+sauter,étape,[]
+retourner,plaque,[]
+sortir,four,[]
+refroidir,décoller,[]
+décoller,coque,[]
+fois,refroidir,[]
+retourner,feuille,"[{""id"": 543237470, ""node1"": 103323, ""node2"": 37993, ""type"": 14, ""w"": 31.0}]"
+feuille,papier,"[{""id"": 99562, ""node1"": 37993, ""node2"": 103389, ""type"": 0, ""w"": 667.0}, {""id"": 157352, ""node1"": 37993, ""node2"": 103389, ""type"": 5, ""w"": 169.0}, {""id"": 186644, ""node1"": 37993, ""node2"": 103389, ""type"": 8, ""w"": 134.0}, {""id"": 377011482, ""node1"": 37993, ""node2"": 103389, ""type"": 20, ""w"": 35.0}, {""id"": 246389, ""node1"": 37993, ""node2"": 103389, ""type"": 21, ""w"": 85.0}, {""id"": 665112728, ""node1"": 37993, ""node2"": 103389, ""type"": 174, ""w"": 30.0}, {""id"": 1770446, ""node1"": 37993, ""node2"": 103389, ""type"": 666, ""w"": 7.0}]"
+papier,propre,[]
+chantilly,ferme,"[{""id"": 31820369, ""node1"": 56698, ""node2"": 29786, ""type"": 17, ""w"": 53.0}]"
+crème,refroidir,[]
+phase,recette,"[{""id"": 283834890, ""node1"": 61679, ""node2"": 120188, ""type"": 8, ""w"": 13.0}]"
+retourner,coque,[]
+garnir,coque,[]
+cuillère,café,"[{""id"": 163839, ""node1"": 51905, ""node2"": 66324, ""type"": 0, ""w"": 180.0}, {""id"": 11354840, ""node1"": 51905, ""node2"": 66324, ""type"": 15, ""w"": 39.0}, {""id"": 720818158, ""node1"": 51905, ""node2"": 66324, ""type"": 174, ""w"": 25.0}]"

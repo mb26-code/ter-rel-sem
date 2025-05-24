@@ -1,0 +1,43 @@
+head,lemma,dep,pos,sim,relations
+concerner,cuisine,obj,NOUN,0.6019042730331421,[]
+casserole,marmite,nsubj,NOUN,0.648734986782074,"[{""id"": 2193714, ""node1"": 57253, ""node2"": 146096, ""type"": 0, ""w"": 71.0}, {""id"": 67332, ""node1"": 57253, ""node2"": 146096, ""type"": 5, ""w"": 102.0}, {""id"": 98347807, ""node1"": 57253, ""node2"": 146096, ""type"": 8, ""w"": 10.0}, {""id"": 1016041333, ""node1"": 57253, ""node2"": 146096, ""type"": 20, ""w"": 20.0}, {""id"": 1029365163, ""node1"": 57253, ""node2"": 146096, ""type"": 67, ""w"": 31.0}]"
+ensemble,pot,nsubj,NOUN,0.5007545948028564,[]
+pot,feu,nmod,NOUN,0.5832442045211792,"[{""id"": 415003512, ""node1"": 142367, ""node2"": 143703, ""type"": 0, ""w"": 26.0}]"
+ensemble,mettre,nmod,VERB,0.4409177005290985,[]
+mettre,familial,amod,ADJ,0.4740442335605621,[]
+mettre,hiver,nmod,NOUN,0.4724679887294769,[]
+représenter,recette,obj,NOUN,0.6198492050170898,[]
+recette,unique,amod,ADJ,0.6099129319190979,"[{""id"": 499662703, ""node1"": 120188, ""node2"": 82542, ""type"": 17, ""w"": 31.0}]"
+type,plat,nmod,NOUN,0.5983251333236694,[]
+français,fondre,acl,VERB,0.4906107187271118,[]
+cas,fondue,nmod,NOUN,0.4487760365009308,[]
+fondue,chinois,amod,ADJ,0.5107271671295166,[]
+bouillon,fromage,nmod,NOUN,0.7254430651664734,"[{""id"": 558647563, ""node1"": 146582, ""node2"": 141687, ""type"": 0, ""w"": 27.0}]"
+bouillon,fondue,nmod,NOUN,0.6377418637275696,[]
+fondue,suisse,amod,ADJ,0.4702515006065368,"[{""id"": 470895067, ""node1"": 101081, ""node2"": 14759, ""type"": 777, ""w"": 10.0}]"
+chauffer,table,nmod,NOUN,0.6319933533668518,[]
+préparer,soupe,obj,NOUN,0.6802350282669067,"[{""id"": 437526414, ""node1"": 36246, ""node2"": 117152, ""type"": 0, ""w"": 43.0}, {""id"": 437526413, ""node1"": 36246, ""node2"": 117152, ""type"": 14, ""w"": 100.0}]"
+eau,bouillon,nmod,NOUN,0.613039493560791,"[{""id"": 32079803, ""node1"": 65012, ""node2"": 146582, ""type"": 0, ""w"": 26.0}, {""id"": 32063699, ""node1"": 65012, ""node2"": 146582, ""type"": 10, ""w"": 26.0}, {""id"": 600063504, ""node1"": 65012, ""node2"": 146582, ""type"": 27, ""w"": 26.0}]"
+bouillon,poisson,nmod,NOUN,0.703558623790741,"[{""id"": 558647540, ""node1"": 146582, ""node2"": 68467, ""type"": 0, ""w"": 27.0}, {""id"": 4238170, ""node1"": 146582, ""node2"": 68467, ""type"": 777, ""w"": 10.0}]"
+algue,sécher,amod,ADJ,0.5448513031005859,[]
+marmite,grand,amod,ADJ,0.6276666522026062,[]
+ingrédient,multiple,amod,ADJ,0.5349030494689941,[]
+plonger,ingrédient,nsubj:pass,NOUN,0.6258386373519897,[]
+marmite,plonger,acl:relcl,VERB,0.6259857416152954,[]
+varier,ingrédient,nsubj,NOUN,0.5506758689880371,[]
+recette,chou,appos,NOUN,0.6656669974327087,[]
+chou,chinois,amod,ADJ,0.5354672074317932,"[{""id"": 97869643, ""node1"": 67203, ""node2"": 59402, ""type"": 17, ""w"": 4.0}]"
+sorte,différent,amod,ADJ,0.4643253684043884,[]
+sorte,poisson,appos,NOUN,0.6526979207992554,[]
+tranche,fin,amod,ADJ,0.4591284096240997,[]
+tranche,viande,nmod,NOUN,0.6751658320426941,"[{""id"": 240076, ""node1"": 143123, ""node2"": 140100, ""type"": 0, ""w"": 80.0}, {""id"": 97833249, ""node1"": 143123, ""node2"": 140100, ""type"": 3, ""w"": 10.0}, {""id"": 97327249, ""node1"": 143123, ""node2"": 140100, ""type"": 35, ""w"": 26.0}, {""id"": 775213394, ""node1"": 143123, ""node2"": 140100, ""type"": 174, ""w"": 25.0}]"
+viande,bœuf,appos,NOUN,0.636695384979248,"[{""id"": 10577328, ""node1"": 140100, ""node2"": 168216, ""type"": 0, ""w"": 59.0}, {""id"": 9627859, ""node1"": 140100, ""node2"": 168216, ""type"": 8, ""w"": 95.0}, {""id"": 15173562, ""node1"": 140100, ""node2"": 168216, ""type"": 27, ""w"": 30.0}, {""id"": 646611390, ""node1"": 140100, ""node2"": 168216, ""type"": 666, ""w"": 1.0}]"
+viande,porc,appos,NOUN,0.6425091028213501,"[{""id"": 163100, ""node1"": 140100, ""node2"": 71135, ""type"": 0, ""w"": 719.0}, {""id"": 9926333, ""node1"": 140100, ""node2"": 71135, ""type"": 6, ""w"": -20.0}, {""id"": 159577, ""node1"": 140100, ""node2"": 71135, ""type"": 8, ""w"": 174.0}, {""id"": 390246, ""node1"": 140100, ""node2"": 71135, ""type"": 10, ""w"": 70.0}, {""id"": 15173549, ""node1"": 140100, ""node2"": 71135, ""type"": 27, ""w"": 23.0}, {""id"": 376040808, ""node1"": 140100, ""node2"": 71135, ""type"": 51, ""w"": 35.0}, {""id"": 99763096, ""node1"": 140100, ""node2"": 71135, ""type"": 666, ""w"": 6.0}]"
+lait,soja,nmod,ADV,0.58817458152771,"[{""id"": 423451453, ""node1"": 86296, ""node2"": 78291, ""type"": 0, ""w"": 24.0}, {""id"": 288560005, ""node1"": 86296, ""node2"": 78291, ""type"": 777, ""w"": 7.0}]"
+soupe,restant,amod,ADJ,0.6790055632591248,[]
+poireau,petit,amod,ADJ,0.6178288459777832,[]
+menu,poireau,appos,NOUN,0.5602611899375916,[]
+poireau,japonais,amod,ADJ,0.5380688309669495,[]
+type,connu,amod,ADJ,0.4010353088378906,"[{""id"": 12994246, ""node1"": 15235, ""node2"": 28686, ""type"": 17, ""w"": 52.0}]"
+projet,autre,amod,ADJ,0.4316383004188537,[]
+boulette,projet,nmod,NOUN,0.5108225345611572,[]

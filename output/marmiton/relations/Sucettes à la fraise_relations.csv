@@ -1,0 +1,20 @@
+node1,node2,relations
+mettre,titre,[]
+titre,sucette,[]
+sucette,fraise,[]
+fraise,ingrédient,"[{""id"": 641926679, ""node1"": 16242, ""node2"": 123418, ""type"": 6, ""w"": 15.0}]"
+ingrédient,sucre,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]"
+sucre,huile,[]
+sucre,sucre,"[{""id"": 335264, ""node1"": 139481, ""node2"": 139481, ""type"": 19, ""w"": 142.0}, {""id"": 93901596, ""node1"": 139481, ""node2"": 139481, ""type"": 50, ""w"": -27.0}, {""id"": 376041081, ""node1"": 139481, ""node2"": 139481, ""type"": 51, ""w"": 28.0}]"
+sucre,sirop,"[{""id"": 1757940, ""node1"": 139481, ""node2"": 91109, ""type"": 0, ""w"": 58.0}, {""id"": 9985700, ""node1"": 139481, ""node2"": 91109, ""type"": 10, ""w"": 4.0}, {""id"": 1046683022, ""node1"": 139481, ""node2"": 91109, ""type"": 51, ""w"": 20.0}, {""id"": 957734327, ""node1"": 139481, ""node2"": 91109, ""type"": 666, ""w"": 2.0}]"
+sirop,fraise,"[{""id"": 214380, ""node1"": 91109, ""node2"": 16242, ""type"": 0, ""w"": 417.0}, {""id"": 2404430, ""node1"": 91109, ""node2"": 16242, ""type"": 8, ""w"": 112.0}]"
+sirop,moule,[]
+sucre,casserole,[]
+casserole,balance,[]
+balance,cuisine,[]
+balance,étape,[]
+ingrédient,tout,[]
+mettre,ingrédient,[]
+atteindre,thermomètre,[]
+thermomètre,sucre,"[{""id"": 4226393, ""node1"": 106011, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]"
+refroidir,cela,[]

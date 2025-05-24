@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+oeuf,bacon,nmod,NOUN,0.5940601229667664,"[{""id"": 915336573, ""node1"": 116175, ""node2"": 25901, ""type"": 0, ""w"": 41.0}, {""id"": 131036907, ""node1"": 116175, ""node2"": 25901, ""type"": 75, ""w"": 34.0}]",r_associated,41.0
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+pâtisserie,moule,nmod,NOUN,0.56337571144104,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]",r_associated,24.0
+four,couteau,nmod,NOUN,0.6828393340110779,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+placer,four,obj,NOUN,0.670532763004303,"[{""id"": 373014519, ""node1"": 5454, ""node2"": 9190, ""type"": 31, ""w"": 26.0}]",r_action_lieu,26.0
+four,150,nmod,NUM,0.5138540863990784,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+cuire,oeuf,obj,NOUN,0.7018415927886963,"[{""id"": 477428805, ""node1"": 5115, ""node2"": 116175, ""type"": 0, ""w"": 35.0}, {""id"": 206246, ""node1"": 5115, ""node2"": 116175, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+oeuf,plat,nmod,NOUN,0.6417117118835449,"[{""id"": 127328, ""node1"": 116175, ""node2"": 36327, ""type"": 0, ""w"": 90.0}, {""id"": 118259, ""node1"": 116175, ""node2"": 36327, ""type"": 10, ""w"": 53.0}]",r_associated,90.0
+cuire,saler,advcl,VERB,0.7053472995758057,[],,
+saler,poivrer,advcl,VERB,0.5285379886627197,"[{""id"": 796710265, ""node1"": 15671, ""node2"": 70211, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+donner,texture,obj,NOUN,0.4800088405609131,[],,
+texture,jaune,nmod,NOUN,0.5508171916007996,[],,
+retourner,oeuf,nsubj:pass,NOUN,0.5317597985267639,[],,
+mettre,retourner,advcl,VERB,0.4030059576034546,[],,
+mettre,bacon,obj,NOUN,0.6182932257652283,[],,
+mettre,griller,advcl,VERB,0.5641900897026062,[],,
+poêle,chaud,amod,ADJ,0.6645733714103699,"[{""id"": 278998504, ""node1"": 119686, ""node2"": 19150, ""type"": 0, ""w"": 26.0}, {""id"": 3078839, ""node1"": 119686, ""node2"": 19150, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+confectionner,sandwich,obj,NOUN,0.5759037137031555,[],,
+confectionner,mettre,advcl,VERB,0.4445950984954834,[],,
+mettre,tranche,obj,NOUN,0.4838809669017792,[],,
+tranche,bacon,nmod,NOUN,0.5835222601890564,"[{""id"": 915336570, ""node1"": 143123, ""node2"": 25901, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+tranche,dernier,amod,ADJ,0.4207646548748016,[],,

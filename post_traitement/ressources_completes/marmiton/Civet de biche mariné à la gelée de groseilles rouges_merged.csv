@@ -1,0 +1,48 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+gelée,ingrédient,nmod,NOUN,0.6242483258247375,[],,
+ingrédient,poivre,amod,NOUN,0.7064663171768188,"[{""id"": 24923435, ""node1"": 123418, ""node2"": 139597, ""type"": 0, ""w"": 15.0}, {""id"": 24850733, ""node1"": 123418, ""node2"": 139597, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+poivre,persil,nmod,NOUN,0.6417090892791748,[],,
+feuille,laurier,nmod,PROPN,0.4908609986305237,"[{""id"": 15624759, ""node1"": 37993, ""node2"": 114548, ""type"": 0, ""w"": 29.0}, {""id"": 14620301, ""node1"": 37993, ""node2"": 114548, ""type"": 10, ""w"": 36.0}]",r_holo,36.0
+feuille,oignon,nmod,NOUN,0.6162885427474976,"[{""id"": 403056437, ""node1"": 37993, ""node2"": 123307, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+oignon,vin,nmod,NOUN,0.6489388346672058,[],,
+vin,rouge,amod,ADJ,0.599454402923584,"[{""id"": 61835, ""node1"": 35798, ""node2"": 86356, ""type"": 0, ""w"": 517.0}, {""id"": 556239, ""node1"": 35798, ""node2"": 86356, ""type"": 5, ""w"": 122.0}, {""id"": 9857786, ""node1"": 35798, ""node2"": 86356, ""type"": 8, ""w"": 139.0}, {""id"": 14806149, ""node1"": 35798, ""node2"": 86356, ""type"": 17, ""w"": 71.0}, {""id"": 31149018, ""node1"": 35798, ""node2"": 86356, ""type"": 27, ""w"": 22.0}, {""id"": 3154292, ""node1"": 35798, ""node2"": 86356, ""type"": 106, ""w"": 12.0}, {""id"": 1526706, ""node1"": 35798, ""node2"": 86356, ""type"": 666, ""w"": 8.0}]",r_associated,517.0
+baie,huile,acl,NOUN,0.4816726148128509,[],,
+biche,olive,amod,ADJ,0.5632225871086121,[],,
+biche,gelée,amod,NOUN,0.5139465928077698,[],,
+gelée,couteau,nmod,NOUN,0.6212072372436523,[],,
+pinceau,casserole,nmod,NOUN,0.5712795853614807,[],,
+casserole,frigo,nmod,NOUN,0.6426434516906738,[],,
+frigo,plat,nmod,ADJ,0.6431636810302734,"[{""id"": 13500927, ""node1"": 45624, ""node2"": 36327, ""type"": 28, ""w"": 40.0}]",r_lieu-1,40.0
+gelée,étape,nmod,NOUN,0.4961492717266083,[],,
+couper,carotte,obj,NOUN,0.5670887231826782,"[{""id"": 93436614, ""node1"": 128828, ""node2"": 76234, ""type"": 14, ""w"": 32.0}]",r_patient,32.0
+morceau,gros,amod,ADJ,0.4822109341621399,[],,
+échalote,morceau,nmod,NOUN,0.6524716019630432,[],,
+plat,fonte,nmod,NOUN,0.6575993299484253,[],,
+mettre,morceau,obj,NOUN,0.5564393401145935,[],,
+morceau,biche,nmod,NOUN,0.5128945112228394,[],,
+morceau,carotte,nmod,NOUN,0.6452223658561707,[],,
+épice,tout,amod,ADJ,0.6792278289794922,[],,
+saler,marinade,obj,NOUN,0.6589375138282776,[],,
+placer,plat,obj,NOUN,0.6139397621154785,[],,
+réfrigérateur,heure,nmod,NOUN,0.4385888278484344,[],,
+avoir,biche,nsubj,NOUN,0.417462557554245,[],,
+saler,avoir,advcl,VERB,0.5394392609596252,[],,
+retourner,temps,obj,NOUN,0.4129794836044311,[],,
+retourner,viande,obj,NOUN,0.6923571228981018,"[{""id"": 133539, ""node1"": 103323, ""node2"": 140100, ""type"": 14, ""w"": 60.0}]",r_patient,60.0
+prendre,goût,obj,NOUN,0.5528542995452881,[],,
+servir,marinade,nsubj,NOUN,0.6778576970100403,[],,
+moment,cuire,acl,VERB,0.7191393971443176,[],,
+cuire,viande,obj,NOUN,0.8064185976982117,"[{""id"": 2182411, ""node1"": 5115, ""node2"": 140100, ""type"": 0, ""w"": 73.0}, {""id"": 148035, ""node1"": 5115, ""node2"": 140100, ""type"": 13, ""w"": 100.0}, {""id"": 206249, ""node1"": 5115, ""node2"": 140100, ""type"": 14, ""w"": 100.0}, {""id"": 722712577, ""node1"": 5115, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]",r_agent,100.0
+égoutter,morceau,obj,NOUN,0.5833901166915894,[],,
+cuire,enlever,advcl,VERB,0.673664927482605,[],,
+enlever,légume,obj,NOUN,0.6541653275489807,[],,
+reste,épice,nmod,NOUN,0.666950523853302,[],,
+épice,marinade,nmod,NOUN,0.7307751178741455,"[{""id"": 736605840, ""node1"": 146056, ""node2"": 55044, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+dorer,morceau,obj,NOUN,0.5937086343765259,[],,
+peu,huile,nmod,NOUN,0.5692240595817566,[],,
+remettre,morceau,obj,NOUN,0.5342933535575867,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+ajouter,pot,obj,NOUN,0.5142199993133545,[],,
+pot,gelée,nmod,NOUN,0.5586931109428406,[],,
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]",r_carac-1,5.0

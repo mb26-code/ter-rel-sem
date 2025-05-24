@@ -1,0 +1,44 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+tarte,beurre,nmod,NOUN,0.7180668711662292,"[{""id"": 588369595, ""node1"": 575, ""node2"": 140377, ""type"": 0, ""w"": 71.0}, {""id"": 356276, ""node1"": 575, ""node2"": 140377, ""type"": 28, ""w"": 99.0}, {""id"": 30720569, ""node1"": 575, ""node2"": 140377, ""type"": 777, ""w"": 10.0}]",r_lieu-1,99.0
+pâtisserie,tarte,nsubj,NOUN,0.6386778354644775,"[{""id"": 255128, ""node1"": 25966, ""node2"": 575, ""type"": 0, ""w"": 131.0}, {""id"": 563933, ""node1"": 25966, ""node2"": 575, ""type"": 5, ""w"": 197.0}, {""id"": 2044437, ""node1"": 25966, ""node2"": 575, ""type"": 8, ""w"": 68.0}, {""id"": 376998764, ""node1"": 25966, ""node2"": 575, ""type"": 21, ""w"": 34.0}, {""id"": 15223730, ""node1"": 25966, ""node2"": 575, ""type"": 27, ""w"": 14.0}, {""id"": 11346561, ""node1"": 25966, ""node2"": 575, ""type"": 28, ""w"": 38.0}, {""id"": 369908605, ""node1"": 25966, ""node2"": 575, ""type"": 666, ""w"": 4.0}]",r_syn,197.0
+pâtisserie,canadien,amod,ADJ,0.507753312587738,[],,
+pâtisserie,base,nmod,NOUN,0.5862658619880676,[],,
+base,beurre,nmod,NOUN,0.6890740394592285,[],,
+mélanger,tout,nsubj:pass,NOUN,0.5503163933753967,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]",r_patient,110.0
+fond,tarte,nmod,NOUN,0.6208037734031677,[],,
+devenir,surface,nsubj,NOUN,0.462584912776947,[],,
+dessert,canadien,amod,ADJ,0.4997700452804565,[],,
+dessert,réputé,amod,ADJ,0.4900138676166534,[],,
+tarte,sucre,nmod,NOUN,0.7278212308883667,"[{""id"": 10004683, ""node1"": 575, ""node2"": 139481, ""type"": 0, ""w"": 82.0}, {""id"": 2481728, ""node1"": 575, ""node2"": 139481, ""type"": 9, ""w"": 35.0}, {""id"": 413303, ""node1"": 575, ""node2"": 139481, ""type"": 28, ""w"": 89.0}, {""id"": 728290475, ""node1"": 575, ""node2"": 139481, ""type"": 50, ""w"": 31.0}, {""id"": 1011315760, ""node1"": 575, ""node2"": 139481, ""type"": 666, ""w"": 72.0}]",r_lieu-1,89.0
+devoir,tarte,nsubj,NOUN,0.6077565550804138,[],,
+pâté,beurre,nmod,NOUN,0.6573100090026855,[],,
+plat,Preston,nmod,PROPN,0.5652176141738892,[],,
+pain,en,appos,NOUN,0.449190616607666,[],,
+varier,recette,nsubj,NOUN,0.6024237871170044,[],,
+apparence,tarte,nmod,NOUN,0.6203724145889282,[],,
+ajouter,qui,nsubj,PRON,0.4253052175045013,[],,
+ajouter,noix,nsubj:pass,NOUN,0.579741358757019,[],,
+famille,ajouter,acl:relcl,VERB,0.4493429064750671,[],,
+ingrédient,autre,amod,ADJ,0.5639666318893433,[],,
+ingrédient,additionnel,amod,ADJ,0.5795978307723999,[],,
+comprendre,raisin,obj,NOUN,0.5386578440666199,[],,
+raisin,raisin,appos,NOUN,0.4811395108699798,"[{""id"": 327635, ""node1"": 93528, ""node2"": 93528, ""type"": 19, ""w"": 58.0}]",r_lemma,58.0
+raisin,Corinthe,nmod,PROPN,0.4368461072444916,[],,
+Corinthe,noix,nmod,NOUN,0.5077897310256958,[],,
+noix,coco,nmod,ADV,0.5649088025093079,"[{""id"": 1924690, ""node1"": 30910, ""node2"": 145904, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+livre,pépite,nsubj:pass,NOUN,0.4742829799652099,[],,
+pépite,chocolat,nmod,NOUN,0.5400311350822449,"[{""id"": 365455, ""node1"": 25082, ""node2"": 34157, ""type"": 0, ""w"": 152.0}, {""id"": 376056261, ""node1"": 25082, ""node2"": 34157, ""type"": 50, ""w"": 35.0}, {""id"": 930408960, ""node1"": 25082, ""node2"": 34157, ""type"": 666, ""w"": 2.0}]",r_associated,152.0
+pépite,beurre,nmod,NOUN,0.6374886631965637,[],,
+beurre,arachide,nmod,NOUN,0.6373680830001831,[],,
+beurre,sirop,nmod,NOUN,0.6796910166740417,"[{""id"": 500926048, ""node1"": 140377, ""node2"": 91109, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+sirop,érable,nmod,NOUN,0.563052237033844,"[{""id"": 389230, ""node1"": 91109, ""node2"": 69625, ""type"": 0, ""w"": 134.0}, {""id"": 420294, ""node1"": 91109, ""node2"": 69625, ""type"": 9, ""w"": 54.0}]",r_associated,134.0
+recette,premier,amod,ADJ,0.617908239364624,[],,
+recette,publier,acl,VERB,0.540657103061676,"[{""id"": 578668290, ""node1"": 120188, ""node2"": 89502, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+raisin,livre,acl:relcl,VERB,0.5622124671936035,[],,
+livre,recette,nmod,NOUN,0.5988067388534546,"[{""id"": 797511876, ""node1"": 142787, ""node2"": 120188, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+recette,femme,nmod,NOUN,0.5801526308059692,[],,
+recette,typique,amod,ADJ,0.641959547996521,[],,
+recette,tarte,nmod,NOUN,0.6624681353569031,"[{""id"": 608584980, ""node1"": 120188, ""node2"": 575, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+recette,posséder,acl,VERB,0.599934458732605,[],,
+valeur,nutritionnel,amod,ADJ,0.4521699845790863,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,

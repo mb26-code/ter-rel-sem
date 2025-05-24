@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+crevette,mangue,nmod,NOUN,0.5840067863464355,[],,
+crevette,ingrédient,nmod,NOUN,0.6626174449920654,"[{""id"": 85917494, ""node1"": 106607, ""node2"": 123418, ""type"": 6, ""w"": 34.0}]",r_isa,34.0
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,oignon,nmod,NOUN,0.705348014831543,[],,
+oignon,beurre,nmod,NOUN,0.702610969543457,[],,
+poivre,mangue,nmod,NOUN,0.6656458377838135,[],,
+bouillon,poisson,nmod,NOUN,0.7095688581466675,"[{""id"": 558647540, ""node1"": 146582, ""node2"": 68467, ""type"": 0, ""w"": 27.0}, {""id"": 4238170, ""node1"": 146582, ""node2"": 68467, ""type"": 777, ""w"": 10.0}]",r_associated,27.0
+poisson,volant,amod,ADJ,0.5426203608512878,"[{""id"": 915222704, ""node1"": 68467, ""node2"": 76583, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+casserole,set,nmod,NOUN,0.4378535151481628,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+casserole,ail,nmod,NOUN,0.6110128164291382,[],,
+crevette,revenir,acl,VERB,0.6008967757225037,[],,
+peu,beurre,nmod,NOUN,0.5877829194068909,[],,
+porter,verser,advcl,VERB,0.4507990181446075,[],,
+verser,bouillon,obj,NOUN,0.5986587405204773,[],,
+baisser,feu,obj,NOUN,0.552813708782196,[],,
+réduire,minute,obj,NOUN,0.4435298442840576,[],,
+ajouter,morceau,obj,NOUN,0.5419883728027344,[],,
+morceau,mangue,nmod,NOUN,0.636008620262146,[],,
+morceau,sauce,nmod,NOUN,0.7245985269546509,[],,
+chauffer,minute,obj,NOUN,0.5416167974472046,[],,
+laisser,tête,obj,NOUN,0.4277477562427521,[],,
+feu,vif,amod,ADJ,0.5094798803329468,"[{""id"": 418102926, ""node1"": 143703, ""node2"": 80204, ""type"": 0, ""w"": 13.0}, {""id"": 221184, ""node1"": 143703, ""node2"": 80204, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
+reste,beurre,nmod,NOUN,0.6629992127418518,[],,
+poêle,deuxième,amod,ADJ,0.6347132921218872,"[{""id"": 373014446, ""node1"": 119686, ""node2"": 119260, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+disposer,crevette,obj,NOUN,0.5716741681098938,[],,
+crevette,plat,nmod,NOUN,0.6624319553375244,"[{""id"": 98622553, ""node1"": 106607, ""node2"": 36327, ""type"": 0, ""w"": 19.0}, {""id"": 97416597, ""node1"": 106607, ""node2"": 36327, ""type"": 10, ""w"": 26.0}, {""id"": 153260, ""node1"": 106607, ""node2"": 36327, ""type"": 15, ""w"": 228.0}, {""id"": 1059085970, ""node1"": 106607, ""node2"": 36327, ""type"": 666, ""w"": 2.0}]",r_lieu,228.0

@@ -1,0 +1,45 @@
+node1,node2,relations
+titre,gâteau,[]
+gâteau,yaourt,[]
+dessert,gâteau,"[{""id"": 126688, ""node1"": 38557, ""node2"": 2149, ""type"": 0, ""w"": 486.0}, {""id"": 100327, ""node1"": 38557, ""node2"": 2149, ""type"": 8, ""w"": 85.0}, {""id"": 14657800, ""node1"": 38557, ""node2"": 2149, ""type"": 41, ""w"": 35.0}, {""id"": 14675566, ""node1"": 38557, ""node2"": 2149, ""type"": 42, ""w"": 28.0}, {""id"": 1764662, ""node1"": 38557, ""node2"": 2149, ""type"": 666, ""w"": 6.0}]"
+base,dont,[]
+yaourt,base,[]
+yaourt,nature,"[{""id"": 10638425, ""node1"": 82320, ""node2"": 143607, ""type"": 0, ""w"": 92.0}, {""id"": 1691067, ""node1"": 82320, ""node2"": 143607, ""type"": 17, ""w"": 97.0}, {""id"": 1065206415, ""node1"": 82320, ""node2"": 143607, ""type"": 666, ""w"": 2.0}]"
+servir,pot,[]
+pot,yaourt,"[{""id"": 238073, ""node1"": 142367, ""node2"": 82320, ""type"": 0, ""w"": 63.0}, {""id"": 308206346, ""node1"": 142367, ""node2"": 82320, ""type"": 28, ""w"": 2.0}, {""id"": 720818525, ""node1"": 142367, ""node2"": 82320, ""type"": 174, ""w"": 25.0}]"
+yaourt,utiliser,[]
+apparaître,servir,[]
+ingrédient,autre,[]
+recette,premier,[]
+rendre,recette,[]
+recette,gâteau,"[{""id"": 366354, ""node1"": 120188, ""node2"": 2149, ""type"": 0, ""w"": 52.0}]"
+généralisation,consommation,[]
+consommation,yaourt,[]
+généralisation,fin,"[{""id"": 297336418, ""node1"": 28588, ""node2"": 144718, ""type"": 8, ""w"": 42.0}]"
+fin,guerre,[]
+basique,ingrédient,[]
+sucre,basique,[]
+généralisation,sucre,[]
+sucre,huile,[]
+recette,autre,[]
+sucre,recette,"[{""id"": 589196997, ""node1"": 139481, ""node2"": 120188, ""type"": 0, ""w"": 42.0}, {""id"": 474006723, ""node1"": 139481, ""node2"": 120188, ""type"": 51, ""w"": 15.0}]"
+remplacer,huile,[]
+pouvoir,gâteau,[]
+servir,ajouter,[]
+ajouter,fruit,[]
+fruit,morceau,[]
+sucre,vanillé,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]"
+ingrédient,différent,[]
+ingrédient,saladier,[]
+yaourt,entier,"[{""id"": 425009399, ""node1"": 82320, ""node2"": 49309, ""type"": 17, ""w"": 26.0}]"
+utiliser,pot,[]
+quantifier,huile,[]
+sucre,mesure,[]
+sachet,levure,[]
+levure,chimique,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]"
+sachet,sucre,"[{""id"": 720818405, ""node1"": 112386, ""node2"": 139481, ""type"": 174, ""w"": 25.0}, {""id"": 723812101, ""node1"": 112386, ""node2"": 139481, ""type"": 666, ""w"": 2.0}]"
+jus,citron,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]"
+verser,mélange,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,[]
+projet,autre,[]

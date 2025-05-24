@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,sucre,appos,NOUN,0.7083083987236023,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]",r_associated,70.0
+sucre,beurre,nmod,NOUN,0.6973879933357239,[],,
+sucre,four,nmod,NOUN,0.7770997881889343,[],,
+four,saladier,nmod,NOUN,0.6991847157478333,[],,
+saladier,couteau,nmod,NOUN,0.6030980348587036,[],,
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,frigo,nmod,NOUN,0.5736064314842224,[],,
+frigo,plat,nmod,ADJ,0.6431636810302734,"[{""id"": 13500927, ""node1"": 45624, ""node2"": 36327, ""type"": 28, ""w"": 40.0}]",r_lieu-1,40.0
+sucre,étape,nmod,NOUN,0.6472875475883484,[],,
+sucre,thermostat,nmod,NOUN,0.6723644733428955,[],,
+sucre,180,nmod,NUM,0.4762616753578186,[],,
+sucre,degré,nmod,NOUN,0.5845609307289124,[],,
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+gramme,sucre,nmod,NOUN,0.6024630069732666,"[{""id"": 720818120, ""node1"": 140383, ""node2"": 139481, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+couper,beurre,obj,NOUN,0.6421878933906555,"[{""id"": 15086092, ""node1"": 128828, ""node2"": 140377, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+morceau,penser,acl,VERB,0.5304235816001892,[],,
+avance,réfrigérateur,nmod,NOUN,0.4194051027297973,[],,
+réfrigérateur,facile,amod,ADJ,0.4832393229007721,[],,
+incorporer,beurre,obj,NOUN,0.6613820195198059,"[{""id"": 423151029, ""node1"": 3845, ""node2"": 140377, ""type"": 0, ""w"": 1.0}, {""id"": 470589786, ""node1"": 3845, ""node2"": 140377, ""type"": 14, ""w"": 76.0}]",r_patient,76.0
+mélange,farine,amod,NOUN,0.6902046799659729,[],,
+reste,sucre,nmod,NOUN,0.6677907705307007,[],,
+plat,aller,acl,VERB,0.5960066914558411,[],,
+répartir,crumble,obj,NOUN,0.5709947347640991,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+devoir,pâte,nsubj,NOUN,0.6336450576782227,[],,

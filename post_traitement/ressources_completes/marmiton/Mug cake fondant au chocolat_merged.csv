@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+fondre,cake,nsubj,X,0.5876287817955017,[],,
+chocolat,ingrédient,nmod,NOUN,0.6857289671897888,[],,
+sucre,beurre,nmod,NOUN,0.6973879933357239,[],,
+beurre,chocolat,nmod,NOUN,0.6671400666236877,"[{""id"": 500926026, ""node1"": 140377, ""node2"": 34157, ""type"": 0, ""w"": 3.0}]",r_associated,3.0
+sucre,noir,amod,ADJ,0.6131501197814941,"[{""id"": 97360808, ""node1"": 139481, ""node2"": 64238, ""type"": 106, ""w"": 15.0}]",r_has_color,15.0
+micro-onde,cuillère,nmod,NOUN,0.6352164149284363,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,bol,nmod,NOUN,0.5572551488876343,"[{""id"": 662510559, ""node1"": 51905, ""node2"": 145405, ""type"": 0, ""w"": 23.0}, {""id"": 765213573, ""node1"": 51905, ""node2"": 145405, ""type"": 75, ""w"": 29.0}, {""id"": 1032957252, ""node1"": 51905, ""node2"": 145405, ""type"": 78, ""w"": 27.0}]",r_accomp,29.0
+bol,balance,nmod,NOUN,0.5318400859832764,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+mettre,carré,obj,NOUN,0.4743469655513763,[],,
+carré,chocolat,nmod,NOUN,0.5261498689651489,"[{""id"": 246140, ""node1"": 22120, ""node2"": 34157, ""type"": 0, ""w"": 57.0}, {""id"": 720817962, ""node1"": 22120, ""node2"": 34157, ""type"": 174, ""w"": 25.0}]",r_associated,57.0
+beurre,découper,acl,VERB,0.6782972812652588,[],,
+fondre,seconde,obj,NOUN,0.4915569722652435,[],,
+aide,cuillère,nmod,NOUN,0.45757657289505,[],,
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+normal,blanc,advcl,NOUN,0.4628754556179046,"[{""id"": 560969431, ""node1"": 66118, ""node2"": 15196, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+blanc,œuf,nmod,NOUN,0.5352868437767029,"[{""id"": 796769193, ""node1"": 15196, ""node2"": 174124, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+tout,mélanger,acl,VERB,0.528428852558136,"[{""id"": 15074002, ""node1"": 136232, ""node2"": 37151, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+cuire,seconde,nmod,NOUN,0.7036634683609009,[],,
+risque,brûler,acl,VERB,0.4867447316646576,[],,

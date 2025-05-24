@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+garder,titre,nsubj,NOUN,0.402405172586441,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,vin,appos,NOUN,0.6430637836456299,"[{""id"": 578506260, ""node1"": 123418, ""node2"": 35798, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+vin,rouge,amod,ADJ,0.599454402923584,"[{""id"": 61835, ""node1"": 35798, ""node2"": 86356, ""type"": 0, ""w"": 517.0}, {""id"": 556239, ""node1"": 35798, ""node2"": 86356, ""type"": 5, ""w"": 122.0}, {""id"": 9857786, ""node1"": 35798, ""node2"": 86356, ""type"": 8, ""w"": 139.0}, {""id"": 14806149, ""node1"": 35798, ""node2"": 86356, ""type"": 17, ""w"": 71.0}, {""id"": 31149018, ""node1"": 35798, ""node2"": 86356, ""type"": 27, ""w"": 22.0}, {""id"": 3154292, ""node1"": 35798, ""node2"": 86356, ""type"": 106, ""w"": 12.0}, {""id"": 1526706, ""node1"": 35798, ""node2"": 86356, ""type"": 666, ""w"": 8.0}]",r_associated,517.0
+bouillon,légume,nmod,NOUN,0.7116243243217468,"[{""id"": 152250, ""node1"": 146582, ""node2"": 120603, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+garder,poignée,obj,NOUN,0.4595308005809784,[],,
+poignée,fin,nmod,NOUN,0.4302857518196106,[],,
+fin,plat,nmod,NOUN,0.5789458751678467,"[{""id"": 914917883, ""node1"": 144718, ""node2"": 36327, ""type"": 0, ""w"": 21.0}, {""id"": 14795102, ""node1"": 144718, ""node2"": 36327, ""type"": 23, ""w"": 32.0}]",r_carac-1,32.0
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+verser,riz,obj,NOUN,0.686630129814148,[],,
+verser,faite,nsubj,NOUN,0.4982545673847198,[],,
+riz,remuer,acl,VERB,0.7044711709022522,[],,
+verser,louche,obj,NOUN,0.5099107623100281,"[{""id"": 154210, ""node1"": 104506, ""node2"": 124144, ""type"": 16, ""w"": 60.0}]",r_instr,60.0
+louche,vin,nmod,NOUN,0.6360525488853455,[],,
+fois,liquide,amod,NOUN,0.4900166094303131,[],,
+liquide,absorber,acl,VERB,0.4971916377544403,"[{""id"": 21104541, ""node1"": 140315, ""node2"": 119570, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+opération,louche,amod,ADJ,0.4600547850131988,[],,
+alterner,vin,obj,NOUN,0.618695855140686,[],,
+tout,remuer,acl,VERB,0.5498727560043335,[],,
+feu,risotto,nmod,NOUN,0.6376800537109375,[],,
+ajouter,parmesan,obj,NOUN,0.6033021807670593,[],,
+parmesan,râpé,acl,ADV,0.5388157367706299,"[{""id"": 31844542, ""node1"": 140416, ""node2"": 52123, ""type"": 17, ""w"": 54.0}, {""id"": 994946665, ""node1"": 140416, ""node2"": 52123, ""type"": 666, ""w"": 2.0}]",r_carac,54.0
+remuer,risotto,obj,NOUN,0.6575977802276611,[],,
+risotto,assiette,nmod,NOUN,0.6933749318122864,[],,
+déposer,tranche,obj,NOUN,0.461878627538681,[],,

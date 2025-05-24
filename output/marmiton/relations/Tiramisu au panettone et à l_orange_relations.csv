@@ -1,0 +1,53 @@
+node1,node2,relations
+orange,ingrédient,"[{""id"": 569052591, ""node1"": 145382, ""node2"": 123418, ""type"": 6, ""w"": 29.0}]"
+orange,cacao,"[{""id"": 915263177, ""node1"": 145382, ""node2"": 68363, ""type"": 0, ""w"": 20.0}]"
+cacao,amer,"[{""id"": 914305448, ""node1"": 68363, ""node2"": 97910, ""type"": 0, ""w"": 21.0}, {""id"": 76024991, ""node1"": 68363, ""node2"": 97910, ""type"": 17, ""w"": 31.0}, {""id"": 1787117, ""node1"": 68363, ""node2"": 97910, ""type"": 666, ""w"": 1.0}]"
+amer,orange,"[{""id"": 98292385, ""node1"": 97910, ""node2"": 145382, ""type"": 0, ""w"": 30.0}, {""id"": 96738872, ""node1"": 97910, ""node2"": 145382, ""type"": 23, ""w"": 30.0}]"
+orange,sucre,[]
+sucre,poudre,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]"
+mascarpone,jaune,[]
+jaune,oeuf,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]"
+oeuf,sirop,[]
+sirop,orange,"[{""id"": 371311, ""node1"": 91109, ""node2"": 145382, ""type"": 0, ""w"": 103.0}, {""id"": 416999, ""node1"": 91109, ""node2"": 145382, ""type"": 9, ""w"": 60.0}, {""id"": 3170955, ""node1"": 91109, ""node2"": 145382, ""type"": 106, ""w"": 3.0}]"
+four,top,"[{""id"": 509203905, ""node1"": 9190, ""node2"": 61057, ""type"": 17, ""w"": 27.0}]"
+plaque,meilleur,[]
+top,plaque,[]
+plaque,four,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]"
+four,fouet,"[{""id"": 879245167, ""node1"": 9190, ""node2"": 73888, ""type"": 0, ""w"": 20.0}]"
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+cuisine,saladier,"[{""id"": 47300451, ""node1"": 16033, ""node2"": 45455, ""type"": 0, ""w"": 30.0}, {""id"": 47300450, ""node1"": 16033, ""node2"": 45455, ""type"": 27, ""w"": 21.0}]"
+fouet,Plat,[]
+fouet,gratin,[]
+fouet,balance,[]
+balance,cuisine,[]
+balance,frigo,[]
+frigo,plat,"[{""id"": 13500927, ""node1"": 45624, ""node2"": 36327, ""type"": 28, ""w"": 40.0}]"
+fouet,étape,[]
+gâteau,tranche,"[{""id"": 729382824, ""node1"": 2149, ""node2"": 143123, ""type"": 0, ""w"": 39.0}, {""id"": 720821015, ""node1"": 2149, ""node2"": 143123, ""type"": 174, ""w"": 25.0}]"
+tranche,fin,[]
+tranche,forme,[]
+forme,rectangle,"[{""id"": 256648, ""node1"": 142000, ""node2"": 109233, ""type"": 0, ""w"": 102.0}, {""id"": 113433, ""node1"": 142000, ""node2"": 109233, ""type"": 8, ""w"": 63.0}]"
+griller,tranche,[]
+côté,four,[]
+pain,minute,[]
+froid,lui,[]
+triangle,froid,[]
+saladier,jaune,[]
+ajouter,mascarpone,[]
+mascarpone,fouetter,[]
+incorporer,cuillère,[]
+soupe,sirop,[]
+liqueur,orange,[]
+plat,choix,[]
+plat,cake,[]
+cake,gratin,[]
+étaler,couche,"[{""id"": 560922829, ""node1"": 98214, ""node2"": 19152, ""type"": 0, ""w"": 32.0}]"
+couche,crème,[]
+tremper,tranche,[]
+tranche,jus,[]
+tremper,recouvrir,[]
+recouvrir,crème,[]
+réfrigérateur,heure,[]
+moment,déguster,[]
+déguster,dessert,"[{""id"": 602026711, ""node1"": 80710, ""node2"": 38557, ""type"": 0, ""w"": 31.0}, {""id"": 269093, ""node1"": 80710, ""node2"": 38557, ""type"": 14, ""w"": 100.0}]"
+saupoudrer,cacao,"[{""id"": 1067229496, ""node1"": 133415, ""node2"": 68363, ""type"": 0, ""w"": 16.0}, {""id"": 31813962, ""node1"": 133415, ""node2"": 68363, ""type"": 16, ""w"": 54.0}, {""id"": 1053526696, ""node1"": 133415, ""node2"": 68363, ""type"": 666, ""w"": 2.0}]"

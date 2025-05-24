@@ -1,0 +1,81 @@
+node1,node2,relations
+Burger,ingrédient,[]
+Burger,piment,[]
+Burger,coriandre,[]
+miel,porc,[]
+Burger,paprika,[]
+paprika,sauce,[]
+paprika,vinaigre,[]
+vinaigre,cidre,"[{""id"": 98947289, ""node1"": 145443, ""node2"": 75142, ""type"": 0, ""w"": 55.0}, {""id"": 3355909, ""node1"": 145443, ""node2"": 75142, ""type"": 777, ""w"": 10.0}]"
+cidre,miel,[]
+miel,carotte,[]
+miel,pomme,[]
+chou,rouge,"[{""id"": 8814016, ""node1"": 67203, ""node2"": 86356, ""type"": 106, ""w"": 1.0}]"
+chou,blanc,"[{""id"": 415001988, ""node1"": 67203, ""node2"": 15196, ""type"": 0, ""w"": 26.0}, {""id"": 3210237, ""node1"": 67203, ""node2"": 15196, ""type"": 106, ""w"": 17.0}]"
+blanc,mayonnaise,[]
+mayonnaise,beurre,[]
+chou,pain,[]
+four,top,"[{""id"": 509203905, ""node1"": 9190, ""node2"": 61057, ""type"": 17, ""w"": 27.0}]"
+plaque,meilleur,[]
+top,plaque,[]
+plaque,four,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]"
+four,saladier,[]
+saladier,bol,"[{""id"": 2284782, ""node1"": 45455, ""node2"": 145405, ""type"": 0, ""w"": 73.0}, {""id"": 979970161, ""node1"": 45455, ""node2"": 145405, ""type"": 666, ""w"": 3.0}]"
+bol,aluminium,"[{""id"": 999129605, ""node1"": 145405, ""node2"": 95561, ""type"": 666, ""w"": 2.0}]"
+aluminium,balance,[]
+balance,cuisine,[]
+balance,film,[]
+film,alimentaire,[]
+film,Barbecue,"[{""id"": 919893180, ""node1"": 29592, ""node2"": 5628973, ""type"": 0, ""w"": 20.0}, {""id"": 131298625, ""node1"": 29592, ""node2"": 5628973, ""type"": 64, ""w"": 182.0}]"
+Barbecue,plat,[]
+film,étape,[]
+ingrédient,tout,[]
+mélanger,ingrédient,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]"
+ingrédient,marinade,[]
+ingrédient,bol,[]
+sécher,viande,"[{""id"": 653449467, ""node1"": 56038, ""node2"": 140100, ""type"": 666, ""w"": 4.0}]"
+viande,porc,"[{""id"": 163100, ""node1"": 140100, ""node2"": 71135, ""type"": 0, ""w"": 719.0}, {""id"": 9926333, ""node1"": 140100, ""node2"": 71135, ""type"": 6, ""w"": -20.0}, {""id"": 159577, ""node1"": 140100, ""node2"": 71135, ""type"": 8, ""w"": 174.0}, {""id"": 390246, ""node1"": 140100, ""node2"": 71135, ""type"": 10, ""w"": 70.0}, {""id"": 15173549, ""node1"": 140100, ""node2"": 71135, ""type"": 27, ""w"": 23.0}, {""id"": 376040808, ""node1"": 140100, ""node2"": 71135, ""type"": 51, ""w"": 35.0}, {""id"": 99763096, ""node1"": 140100, ""node2"": 71135, ""type"": 666, ""w"": 6.0}]"
+papier,absorber,[]
+mélange,épice,"[{""id"": 925026230, ""node1"": 14800, ""node2"": 146056, ""type"": 0, ""w"": 20.0}]"
+marinade,tout,[]
+intégrer,marinade,[]
+nuit,tout,[]
+déposer,porc,[]
+filet,eau,"[{""id"": 98284539, ""node1"": 42188, ""node2"": 65012, ""type"": 0, ""w"": 31.0}, {""id"": 418498460, ""node1"": 42188, ""node2"": 65012, ""type"": 3, ""w"": 35.0}, {""id"": 3113857, ""node1"": 42188, ""node2"": 65012, ""type"": 15, ""w"": 53.0}]"
+feu,doux,[]
+plat,fermer,[]
+plat,aluminium,[]
+cuisson,viande,"[{""id"": 568820873, ""node1"": 60056, ""node2"": 140100, ""type"": 0, ""w"": 44.0}]"
+minute,supplémentaire,[]
+récupérer,jus,[]
+jus,cuisson,[]
+bol,petit,[]
+jus,bol,[]
+jus,sauce,"[{""id"": 914139, ""node1"": 53310, ""node2"": 141110, ""type"": 0, ""w"": 24.0}]"
+utiliser,sauce,[]
+utiliser,arroser,[]
+arroser,porc,[]
+laver,carotte,"[{""id"": 280929995, ""node1"": 143876, ""node2"": 76234, ""type"": 14, ""w"": 31.0}]"
+diamètre,gros,[]
+déposer,tout,[]
+ajouter,mayonnaise,[]
+salade,iceberg,"[{""id"": 25309678, ""node1"": 118908, ""node2"": 125936, ""type"": 0, ""w"": 17.0}, {""id"": 25274883, ""node1"": 118908, ""node2"": 125936, ""type"": 8, ""w"": 32.0}, {""id"": 1037447564, ""node1"": 118908, ""node2"": 125936, ""type"": 666, ""w"": 1.0}]"
+oignon,rouge,"[{""id"": 96738908, ""node1"": 123307, ""node2"": 86356, ""type"": 17, ""w"": 31.0}, {""id"": 3161226, ""node1"": 123307, ""node2"": 86356, ""type"": 106, ""w"": 3.0}]"
+rondelle,fin,[]
+fondre,faite,[]
+fondre,beurre,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]"
+fondre,déposer,[]
+déposer,moitié,[]
+moitié,pain,[]
+moitié,burger,[]
+four,chaud,"[{""id"": 363192, ""node1"": 9190, ""node2"": 19150, ""type"": 0, ""w"": 123.0}, {""id"": 376860, ""node1"": 9190, ""node2"": 19150, ""type"": 17, ""w"": 130.0}, {""id"": 11348785, ""node1"": 9190, ""node2"": 19150, ""type"": 28, ""w"": 38.0}, {""id"": 2221131, ""node1"": 9190, ""node2"": 19150, ""type"": 666, ""w"": 1.0}]"
+température,bon,[]
+four,bas,[]
+bas,pain,[]
+bas,burger,[]
+four,déposer,[]
+déposer,peu,[]
+portion,égoutter,[]
+rondelle,oignon,[]
+moitié,autre,"[{""id"": 765505277, ""node1"": 89030, ""node2"": 7574, ""type"": 17, ""w"": 28.0}]"
+grille,four,"[{""id"": 11786989, ""node1"": 563, ""node2"": 9190, ""type"": 0, ""w"": 51.0}, {""id"": 9977203, ""node1"": 563, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 11353886, ""node1"": 563, ""node2"": 9190, ""type"": 15, ""w"": 38.0}]"

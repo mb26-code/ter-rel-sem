@@ -1,0 +1,32 @@
+node1,node2,relations
+titre,gâteau,[]
+gâteau,yaourt,[]
+gâteau,confiture,"[{""id"": 99088174, ""node1"": 2149, ""node2"": 70793, ""type"": 0, ""w"": 23.0}, {""id"": 99071068, ""node1"": 2149, ""node2"": 70793, ""type"": 9, ""w"": 36.0}]"
+confiture,fruit,"[{""id"": 226011, ""node1"": 70793, ""node2"": 87286, ""type"": 0, ""w"": 266.0}, {""id"": 1525774, ""node1"": 70793, ""node2"": 87286, ""type"": 666, ""w"": 6.0}]"
+fruit,ingrédient,[]
+confiture,levure,[]
+levure,chimique,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]"
+levure,yaourt,[]
+yaourt,yaourt,"[{""id"": 342012, ""node1"": 82320, ""node2"": 82320, ""type"": 19, ""w"": 66.0}, {""id"": 583514468, ""node1"": 82320, ""node2"": 82320, ""type"": 35, ""w"": -244.0}]"
+yaourt,fromage,"[{""id"": 10632837, ""node1"": 82320, ""node2"": 141687, ""type"": 0, ""w"": 70.0}, {""id"": 13039430, ""node1"": 82320, ""node2"": 141687, ""type"": 6, ""w"": 252.0}, {""id"": 1046575843, ""node1"": 82320, ""node2"": 141687, ""type"": 8, ""w"": 20.0}, {""id"": 377011306, ""node1"": 82320, ""node2"": 141687, ""type"": 20, ""w"": 32.0}]"
+fromage,blanc,"[{""id"": 96698067, ""node1"": 141687, ""node2"": 15196, ""type"": 0, ""w"": 34.0}, {""id"": 121011, ""node1"": 141687, ""node2"": 15196, ""type"": 17, ""w"": 155.0}, {""id"": 3163361, ""node1"": 141687, ""node2"": 15196, ""type"": 106, ""w"": 58.0}, {""id"": 12134443, ""node1"": 141687, ""node2"": 15196, ""type"": 666, ""w"": 1.0}]"
+levure,nature,[]
+nature,farine,[]
+nature,sarrasin,[]
+sarrasin,oeuf,[]
+levure,confiture,[]
+fruit,rouge,"[{""id"": 640137316, ""node1"": 87286, ""node2"": 86356, ""type"": 0, ""w"": 96.0}, {""id"": 2171760, ""node1"": 87286, ""node2"": 86356, ""type"": 17, ""w"": 26.0}, {""id"": 3160627, ""node1"": 87286, ""node2"": 86356, ""type"": 106, ""w"": 22.0}]"
+fruit,grille,[]
+grille,pâtisserie,[]
+pâtisserie,moule,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]"
+grille,manquer,[]
+manquer,saladier,[]
+saladier,four,[]
+four,balance,[]
+balance,cuisine,[]
+fruit,étape,[]
+incorporer,sucre,[]
+finir,levure,[]
+huile,mélanger,"[{""id"": 268326, ""node1"": 141971, ""node2"": 37151, ""type"": 25, ""w"": 71.0}]"
+verser,tout,[]
+moule,manquer,[]

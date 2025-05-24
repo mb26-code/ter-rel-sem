@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+Chou,pomme,nmod,NOUN,0.4545634388923645,[],,
+pomme,grand-mère,nmod,NOUN,0.5834266543388367,[],,
+Chou,ingrédient,nmod,NOUN,0.4025777280330658,[],,
+Chou,muscade,nmod,NOUN,0.4381125271320343,[],,
+Chou,vinaigre,nmod,NOUN,0.4331408143043518,[],,
+vinaigre,sel,nmod,NOUN,0.683134913444519,"[{""id"": 2147403, ""node1"": 145443, ""node2"": 13260, ""type"": 0, ""w"": 80.0}]",r_associated,80.0
+sel,poivre,acl,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+chou,pomme,nmod,NOUN,0.6104527115821838,[],,
+pomme,cassonade,nmod,NOUN,0.6325297951698303,[],,
+chou,eau,appos,NOUN,0.6457889080047607,[],,
+eau,couteau,nmod,NOUN,0.6052229404449463,"[{""id"": 104939775, ""node1"": 65012, ""node2"": 32610, ""type"": 28, ""w"": 3.0}]",r_lieu-1,3.0
+eau,cuillère,nmod,NOUN,0.5921421051025391,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,casserole,nmod,NOUN,0.6258264183998108,"[{""id"": 662507901, ""node1"": 51905, ""node2"": 57253, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+casserole,cocotte,nmod,NOUN,0.6444734334945679,"[{""id"": 12325873, ""node1"": 57253, ""node2"": 120952, ""type"": 0, ""w"": 31.0}, {""id"": 67280, ""node1"": 57253, ""node2"": 120952, ""type"": 5, ""w"": 104.0}, {""id"": 98347806, ""node1"": 57253, ""node2"": 120952, ""type"": 8, ""w"": 10.0}]",r_syn,104.0
+minute,couper,acl,VERB,0.4783671796321869,[],,
+couper,chou,obj,NOUN,0.5729162693023682,[],,
+chou,rouge,amod,ADJ,0.5560259819030762,"[{""id"": 8814016, ""node1"": 67203, ""node2"": 86356, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+côte,gros,amod,ADJ,0.4363810122013092,[],,
+ôter,côte,obj,NOUN,0.4845153987407684,[],,
+évier,remplir,acl,VERB,0.4722895920276642,"[{""id"": 251605, ""node1"": 94650, ""node2"": 95980, ""type"": 25, ""w"": 52.0}, {""id"": 380399920, ""node1"": 94650, ""node2"": 95980, ""type"": 30, ""w"": 26.0}]",r_instr-1,52.0
+laver,fois,obj,NOUN,0.4705150425434112,[],,
+minute,fondre,acl,VERB,0.511424720287323,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+ajouter,chou,obj,NOUN,0.5754867196083069,[],,
+activer,cuisson,obj,NOUN,0.6552121043205261,[],,
+mélanger,minute,obj,NOUN,0.5259966850280762,[],,
+ajouter,vinaigre,obj,NOUN,0.6182233095169067,[],,
+pomme,couper,acl,VERB,0.5794677734375,"[{""id"": 31839899, ""node1"": 37201, ""node2"": 128828, ""type"": 26, ""w"": 64.0}]",r_patient-1,64.0
+peu,muscade,nmod,NOUN,0.5311524868011475,[],,
+fermer,cocotte,obj,NOUN,0.5414252877235413,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,

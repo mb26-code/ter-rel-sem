@@ -1,0 +1,49 @@
+head,lemma,dep,pos,sim,relation
+Burger,maison,nmod,PROPN,0.4763393700122833,[]
+Burger,ingrédient,nmod,NOUN,0.5096507668495178,[]
+Burger,viande,amod,NOUN,0.612131655216217,"[{""id"": 646707301, ""node1"": 397236, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]"
+viande,haché,acl,ADJ,0.6638813018798828,[]
+salade,mayonnaise,nmod,ADJ,0.652815580368042,"[{""id"": 97758212, ""node1"": 118908, ""node2"": 111055, ""type"": 0, ""w"": 16.0}]"
+Burger,pain,nmod,NOUN,0.6106624007225037,"[{""id"": 646707299, ""node1"": 397236, ""node2"": 61283, ""type"": 666, ""w"": 2.0}]"
+Burger,four,nmod,NOUN,0.641348123550415,[]
+four,casserole,nmod,NOUN,0.7147663235664368,[]
+casserole,couvercle,nmod,NOUN,0.6508210897445679,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]"
+couvercle,saladier,nmod,NOUN,0.6053080558776855,[]
+saladier,set,nmod,NOUN,0.4222391545772552,[]
+Burger,poêle,nmod,NOUN,0.6157410740852356,[]
+Burger,balance,nmod,NOUN,0.4335145056247711,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+Burger,étape,nmod,NOUN,0.403807669878006,[]
+recouvrir,partie,obj,NOUN,0.4626553058624267,[]
+partie,pain,nmod,NOUN,0.6649089455604553,[]
+four,mode,nmod,NOUN,0.6411325931549072,[]
+mode,grill,amod,NOUN,0.542815089225769,[]
+mettre,temps,obj,NOUN,0.4475676417350769,[]
+temps,fondre,acl,VERB,0.5061480402946472,[]
+fondre,fromage,obj,NOUN,0.6491246819496155,"[{""id"": 102294612, ""node1"": 16480, ""node2"": 141687, ""type"": 0, ""w"": 62.0}, {""id"": 98285435, ""node1"": 16480, ""node2"": 141687, ""type"": 13, ""w"": 31.0}]"
+couper,oignon,obj,NOUN,0.596168577671051,"[{""id"": 435065584, ""node1"": 128828, ""node2"": 123307, ""type"": 0, ""w"": 29.0}, {""id"": 31770866, ""node1"": 128828, ""node2"": 123307, ""type"": 14, ""w"": 100.0}]"
+obtenir,fin,obj,ADJ,0.400074303150177,[]
+couper,tomate,obj,NOUN,0.6290057301521301,"[{""id"": 628044027, ""node1"": 128828, ""node2"": 22138, ""type"": 0, ""w"": 27.0}, {""id"": 628044026, ""node1"": 128828, ""node2"": 22138, ""type"": 14, ""w"": 100.0}]"
+tranche,grand,amod,ADJ,0.4651968777179718,[]
+tomate,tranche,nmod,NOUN,0.6014438271522522,"[{""id"": 421761138, ""node1"": 22138, ""node2"": 143123, ""type"": 0, ""w"": 1.0}]"
+feuille,grand,amod,ADJ,0.5061614513397217,[]
+couper,feuille,obj,NOUN,0.4969625771045685,"[{""id"": 8905022, ""node1"": 128828, ""node2"": 37993, ""type"": 14, ""w"": 6.0}]"
+feuille,salade,nmod,NOUN,0.615514874458313,"[{""id"": 614208544, ""node1"": 37993, ""node2"": 118908, ""type"": 0, ""w"": 30.0}, {""id"": 775213406, ""node1"": 37993, ""node2"": 118908, ""type"": 174, ""w"": 25.0}]"
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]"
+mayonnaise,préparer,acl,VERB,0.5903374552726746,"[{""id"": 906709024, ""node1"": 111055, ""node2"": 36246, ""type"": 0, ""w"": 20.0}, {""id"": 31871175, ""node1"": 111055, ""node2"": 36246, ""type"": 26, ""w"": 100.0}]"
+four,partie,nmod,NOUN,0.6931769847869873,[]
+pain,burger,nmod,NOUN,0.6463713645935059,"[{""id"": 28540722, ""node1"": 61283, ""node2"": 138357, ""type"": 0, ""w"": 24.0}, {""id"": 28517502, ""node1"": 61283, ""node2"": 138357, ""type"": 10, ""w"": 31.0}]"
+convenance,steak,nmod,NOUN,0.6276500821113586,[]
+utiliser,grill,obj,NOUN,0.5835821628570557,[]
+sortir,party,obj,NOUN,0.4020083248615265,[]
+party,pain,nmod,NOUN,0.6190828084945679,[]
+party,burger,nmod,NOUN,0.455772340297699,[]
+fromage,fondre,acl,VERB,0.6491246819496155,"[{""id"": 799248818, ""node1"": 141687, ""node2"": 16480, ""type"": 0, ""w"": 26.0}, {""id"": 24806795, ""node1"": 141687, ""node2"": 16480, ""type"": 24, ""w"": 47.0}]"
+fondre,steak,obj,NOUN,0.6754631996154785,[]
+fromage,aller,acl:relcl,VERB,0.5756970047950745,[]
+étaler,mayonnaise,obj,NOUN,0.536220133304596,[]
+déposer,tranche,obj,NOUN,0.461878627538681,[]
+tranche,tomate,nmod,NOUN,0.6014438271522522,[]
+salade,vert,amod,ADJ,0.6158227920532227,"[{""id"": 558712508, ""node1"": 118908, ""node2"": 26976, ""type"": 0, ""w"": 30.0}, {""id"": 3200451, ""node1"": 118908, ""node2"": 26976, ""type"": 17, ""w"": 30.0}, {""id"": 3160509, ""node1"": 118908, ""node2"": 26976, ""type"": 106, ""w"": 18.0}, {""id"": 1813836, ""node1"": 118908, ""node2"": 26976, ""type"": 666, ""w"": 4.0}]"
+partie,étaler,acl,VERB,0.4467054307460785,[]
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]"

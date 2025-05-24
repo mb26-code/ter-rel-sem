@@ -1,0 +1,71 @@
+node1,node2,relations
+violette,ingrédient,[]
+violette,levure,[]
+levure,chimique,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]"
+levure,sucre,[]
+sucre,poudre,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]"
+poudre,beurre,[]
+beurre,tendre,"[{""id"": 172916, ""node1"": 140377, ""node2"": 71211, ""type"": 17, ""w"": 90.0}]"
+tendre,oeuf,[]
+oeuf,lait,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]"
+sucre,colorer,[]
+colorer,alimentaire,[]
+colorer,sucre,[]
+sucre,glace,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -126.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]"
+sucre,beurre,[]
+violette,grille,[]
+grille,pâtisserie,[]
+pâtisserie,moule,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]"
+four,saladier,[]
+saladier,fouet,[]
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 307.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 267.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+fouet,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,poche,"[{""id"": 434923682, ""node1"": 51905, ""node2"": 139906, ""type"": 5, ""w"": 52.0}]"
+poche,couteau,"[{""id"": 275162, ""node1"": 139906, ""node2"": 32610, ""type"": 28, ""w"": 108.0}]"
+couteau,douille,[]
+fouet,balance,[]
+balance,cuisine,[]
+fouet,étape,[]
+fouet,gâteau,"[{""id"": 2421861, ""node1"": 73888, ""node2"": 2149, ""type"": 0, ""w"": 51.0}]"
+four,180,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,[]
+mettre,beurre,"[{""id"": 371985740, ""node1"": 132366, ""node2"": 140377, ""type"": 0, ""w"": 32.0}, {""id"": 371985739, ""node1"": 132366, ""node2"": 140377, ""type"": 14, ""w"": 100.0}]"
+battre,souple,[]
+ajouter,sucre,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]"
+arôme,violette,"[{""id"": 796866387, ""node1"": 25859, ""node2"": 118763, ""type"": 0, ""w"": 27.0}]"
+obtenir,pâte,[]
+pâte,homogène,"[{""id"": 796702467, ""node1"": 34069, ""node2"": 124759, ""type"": 0, ""w"": 28.0}, {""id"": 372565004, ""node1"": 34069, ""node2"": 124759, ""type"": 17, ""w"": 26.0}]"
+ajouter,farine,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]"
+ajouter,levure,[]
+levure,tout,[]
+levure,remuer,[]
+prêt,pâte,[]
+prêt,prendre,[]
+prendre,cuillère,"[{""id"": 376201346, ""node1"": 86306, ""node2"": 51905, ""type"": 16, ""w"": 26.0}]"
+rajouter,peu,[]
+papier,moule,[]
+moule,silicone,"[{""id"": 99104506, ""node1"": 143723, ""node2"": 132543, ""type"": 50, ""w"": 28.0}, {""id"": 770339472, ""node1"": 143723, ""node2"": 132543, ""type"": 666, ""w"": 3.0}]"
+aide,cuillère,[]
+cuillère,café,"[{""id"": 163839, ""node1"": 51905, ""node2"": 66324, ""type"": 0, ""w"": 180.0}, {""id"": 11354840, ""node1"": 51905, ""node2"": 66324, ""type"": 15, ""w"": 39.0}, {""id"": 720818158, ""node1"": 51905, ""node2"": 66324, ""type"": 174, ""w"": 25.0}]"
+répartir,pâte,"[{""id"": 405745542, ""node1"": 141996, ""node2"": 34069, ""type"": 0, ""w"": 10.0}, {""id"": 405745543, ""node1"": 141996, ""node2"": 34069, ""type"": 6, ""w"": -10.0}]"
+cuire,min,[]
+gonflé,gâteau,[]
+battre,beurre,"[{""id"": 2120025, ""node1"": 119162, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]"
+ajouter,colorant,[]
+colorant,fonction,[]
+fonction,couleur,[]
+couleur,rechercher,[]
+ajouter,réserver,[]
+cuire,gâteau,"[{""id"": 435038053, ""node1"": 5115, ""node2"": 2149, ""type"": 0, ""w"": 33.0}, {""id"": 99104749, ""node1"": 5115, ""node2"": 2149, ""type"": 13, ""w"": 100.0}, {""id"": 206247, ""node1"": 5115, ""node2"": 2149, ""type"": 14, ""w"": 100.0}, {""id"": 376067701, ""node1"": 5115, ""node2"": 2149, ""type"": 31, ""w"": 26.0}]"
+décoration,cuire,[]
+placer,crème,[]
+crème,beurre,"[{""id"": 405906, ""node1"": 44001, ""node2"": 140377, ""type"": 0, ""w"": 73.0}, {""id"": 9980280, ""node1"": 44001, ""node2"": 140377, ""type"": 10, ""w"": 4.0}, {""id"": 1836384, ""node1"": 44001, ""node2"": 140377, ""type"": 21, ""w"": 60.0}, {""id"": 306776452, ""node1"": 44001, ""node2"": 140377, ""type"": 666, ""w"": 2.0}]"
+décorer,gâteau,"[{""id"": 765196768, ""node1"": 44961, ""node2"": 2149, ""type"": 14, ""w"": 33.0}, {""id"": 376067722, ""node1"": 44961, ""node2"": 2149, ""type"": 31, ""w"": 28.0}]"
+poche,prendre,"[{""id"": 380393881, ""node1"": 139906, ""node2"": 86306, ""type"": 30, ""w"": 28.0}]"
+prendre,sac,"[{""id"": 477472576, ""node1"": 86306, ""node2"": 40635, ""type"": 0, ""w"": 26.0}, {""id"": 477472575, ""node1"": 86306, ""node2"": 40635, ""type"": 14, ""w"": 100.0}, {""id"": 268745, ""node1"": 86306, ""node2"": 40635, ""type"": 31, ""w"": 130.0}]"
+sac,congélation,[]
+décor,sucre,[]
+sucre,choix,[]
+sucre,perle,[]

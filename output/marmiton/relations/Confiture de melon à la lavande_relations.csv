@@ -1,0 +1,20 @@
+node1,node2,relations
+confiture,melon,[]
+confiture,lavande,[]
+lavande,ingrédient,[]
+lavande,sucre,[]
+sucre,melon,[]
+melon,lavande,[]
+sucre,balance,[]
+balance,cuisine,[]
+balance,étape,[]
+confiture,enlever,[]
+enlever,chair,[]
+chair,melon,"[{""id"": 96724088, ""node1"": 61835, ""node2"": 31080, ""type"": 0, ""w"": 18.0}, {""id"": 96723778, ""node1"": 61835, ""node2"": 31080, ""type"": 10, ""w"": 16.0}]"
+confiture,sucre,"[{""id"": 138286, ""node1"": 70793, ""node2"": 139481, ""type"": 0, ""w"": 278.0}, {""id"": 376999837, ""node1"": 70793, ""node2"": 139481, ""type"": 21, ""w"": 26.0}, {""id"": 1525776, ""node1"": 70793, ""node2"": 139481, ""type"": 666, ""w"": 5.0}]"
+heure,bon,[]
+servir,rien,[]
+fin,cuisson,[]
+verser,confiture,[]
+confiture,chaud,[]
+retourner,pot,[]

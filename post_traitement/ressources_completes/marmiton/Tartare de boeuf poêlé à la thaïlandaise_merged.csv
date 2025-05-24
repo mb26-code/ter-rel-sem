@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+thaïlandais,ingrédient,nmod,NOUN,0.5598707795143127,[],,
+thaïlandais,vinaigre,nmod,NOUN,0.6036718487739563,[],,
+vinaigre,balsamique,amod,ADJ,0.5980404615402222,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]",r_associated,166.0
+coriandre,poivron,nmod,NOUN,0.6555595993995667,[],,
+coriandre,salade,nmod,NOUN,0.6658205986022949,"[{""id"": 980785680, ""node1"": 61977, ""node2"": 118908, ""type"": 666, ""w"": 3.0}]",r_aki,3.0
+salade,radis,nmod,PROPN,0.5947555899620056,"[{""id"": 700300785, ""node1"": 118908, ""node2"": 123068, ""type"": 0, ""w"": 24.0}, {""id"": 675297502, ""node1"": 118908, ""node2"": 123068, ""type"": 666, ""w"": 2.0}, {""id"": 113546261, ""node1"": 118908, ""node2"": 123068, ""type"": 777, ""w"": 9.0}]",r_associated,24.0
+concombre,citron,nmod,NOUN,0.5875571370124817,[],,
+sucre,citron,nmod,NOUN,0.6847571134567261,"[{""id"": 292123774, ""node1"": 139481, ""node2"": 15386, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+sucre,pâte,nmod,NOUN,0.7055894136428833,"[{""id"": 1011319149, ""node1"": 139481, ""node2"": 34069, ""type"": 0, ""w"": 10.0}, {""id"": 376037855, ""node1"": 139481, ""node2"": 34069, ""type"": 51, ""w"": 35.0}]",r_mater>object,35.0
+sucre,curry,nmod,NOUN,0.7489069104194641,[],,
+cercle,pâtisserie,nmod,NOUN,0.4923855662345886,[],,
+couvercle,cuillère,nmod,NOUN,0.6197326183319092,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,couteau,nmod,NOUN,0.5726497173309326,"[{""id"": 139564, ""node1"": 51905, ""node2"": 32610, ""type"": 0, ""w"": 212.0}, {""id"": 87319445, ""node1"": 51905, ""node2"": 32610, ""type"": 666, ""w"": 1.0}]",r_associated,212.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+faire,ingrédient,nsubj,NOUN,0.6170313358306885,[],,
+ingrédient,marinade,nmod,NOUN,0.72576904296875,[],,
+laisser,que,obj,PRON,0.4098102748394012,[],,
+faire,laisser,advcl,VERB,0.4241403341293335,"[{""id"": 319664985, ""node1"": 87528, ""node2"": 135779, ""type"": 0, ""w"": 29.0}, {""id"": 85347341, ""node1"": 87528, ""node2"": 135779, ""type"": 7, ""w"": 33.0}]",r_anto,33.0
+tranche,fin,amod,ADJ,0.4211523532867431,[],,
+marinade,terminer,acl:relcl,VERB,0.6464722156524658,[],,
+citron,tout,amod,ADV,0.6341490149497986,[],,
+citron,respecter,acl,VERB,0.5756317377090454,[],,
+détailler,légume,obj,NOUN,0.6508322954177856,"[{""id"": 213741190, ""node1"": 47845, ""node2"": 120603, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+dresser,salade,obj,NOUN,0.6163721680641174,[],,
+salade,monticule,nmod,NOUN,0.620507538318634,[],,
+ajuster,zeste,obj,NOUN,0.5010226368904114,[],,
+zeste,citron,nmod,NOUN,0.5487085580825806,"[{""id"": 615058522, ""node1"": 98173, ""node2"": 15386, ""type"": 0, ""w"": 22.0}, {""id"": 9991099, ""node1"": 98173, ""node2"": 15386, ""type"": 10, ""w"": 4.0}, {""id"": 377014851, ""node1"": 98173, ""node2"": 15386, ""type"": 20, ""w"": 34.0}, {""id"": 986046177, ""node1"": 98173, ""node2"": 15386, ""type"": 666, ""w"": 2.0}]",r_has_magn,34.0
+ajouter,filet,obj,NOUN,0.5471811890602112,[],,
+filet,vinaigre,nmod,NOUN,0.6159487962722778,"[{""id"": 423998989, ""node1"": 42188, ""node2"": 145443, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+cuillère,café,nmod,NOUN,0.592677116394043,"[{""id"": 163839, ""node1"": 51905, ""node2"": 66324, ""type"": 0, ""w"": 180.0}, {""id"": 11354840, ""node1"": 51905, ""node2"": 66324, ""type"": 15, ""w"": 39.0}, {""id"": 720818158, ""node1"": 51905, ""node2"": 66324, ""type"": 174, ""w"": 25.0}]",r_associated,180.0
+café,coriandre,nmod,NOUN,0.6266482472419739,[],,
+filet,goût,nmod,NOUN,0.6239778399467468,[],,

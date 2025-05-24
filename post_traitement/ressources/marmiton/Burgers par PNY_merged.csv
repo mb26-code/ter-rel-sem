@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relation
+titre,burger,nmod,NOUN,0.4781421422958374,[]
+burger,ingrédient,nmod,NOUN,0.6071193218231201,[]
+burger,huile,appos,NOUN,0.6621941924095154,[]
+burger,moutarde,nmod,NOUN,0.6023134589195251,"[{""id"": 424892572, ""node1"": 138357, ""node2"": 28335, ""type"": 0, ""w"": 80.0}, {""id"": 72905668, ""node1"": 138357, ""node2"": 28335, ""type"": 777, ""w"": 10.0}]"
+crème,ancien,amod,ADJ,0.5910278558731079,[]
+crème,poivre,nmod,NOUN,0.6996400356292725,[]
+poivre,moutarde,amod,ADJ,0.6478980779647827,"[{""id"": 584573808, ""node1"": 139597, ""node2"": 28335, ""type"": 0, ""w"": 17.0}, {""id"": 993686855, ""node1"": 139597, ""node2"": 28335, ""type"": 666, ""w"": 2.0}]"
+burger,pain,nmod,NOUN,0.6463713645935059,"[{""id"": 28517501, ""node1"": 138357, ""node2"": 61283, ""type"": 0, ""w"": 105.0}, {""id"": 28516946, ""node1"": 138357, ""node2"": 61283, ""type"": 9, ""w"": 51.0}, {""id"": 758527330, ""node1"": 138357, ""node2"": 61283, ""type"": 50, ""w"": 22.0}, {""id"": 867520552, ""node1"": 138357, ""node2"": 61283, ""type"": 666, ""w"": 5.0}, {""id"": 18578292, ""node1"": 138357, ""node2"": 61283, ""type"": 777, ""w"": 10.0}]"
+viande,haché,amod,ADJ,0.6638813018798828,[]
+coeur,boeuf,nmod,NOUN,0.5246527791023254,"[{""id"": 10281038, ""node1"": 96211, ""node2"": 47417, ""type"": 10, ""w"": 11.0}]"
+boeuf,poitrine,nmod,NOUN,0.5556366443634033,"[{""id"": 615058446, ""node1"": 47417, ""node2"": 46889, ""type"": 0, ""w"": 61.0}]"
+poitrine,porc,nmod,NOUN,0.5834373235702515,[]
+boeuf,jaune,nmod,ADJ,0.5930412411689758,[]
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]"
+titre,tailler,nmod,VERB,0.4107594490051269,[]
+tailler,tomate,obj,NOUN,0.6009485125541687,[]
+tomate,rondelle,nmod,NOUN,0.5975306034088135,"[{""id"": 797551060, ""node1"": 22138, ""node2"": 71106, ""type"": 0, ""w"": 23.0}]"
+cuire,salade,nsubj,NOUN,0.8083714842796326,[]
+salade,iceberg,nmod,NOUN,0.5835342407226562,"[{""id"": 25309678, ""node1"": 118908, ""node2"": 125936, ""type"": 0, ""w"": 17.0}, {""id"": 25274883, ""node1"": 118908, ""node2"": 125936, ""type"": 8, ""w"": 32.0}, {""id"": 1037447564, ""node1"": 118908, ""node2"": 125936, ""type"": 666, ""w"": 1.0}]"
+salade,cuire,acl,VERB,0.8083714842796326,[]
+cuire,poitrine,obj,NOUN,0.7188419103622437,[]
+cuire,steak,obj,NOUN,0.7575573921203613,"[{""id"": 796846082, ""node1"": 5115, ""node2"": 55572, ""type"": 0, ""w"": 28.0}, {""id"": 15025387, ""node1"": 5115, ""node2"": 55572, ""type"": 13, ""w"": 40.0}, {""id"": 15082745, ""node1"": 5115, ""node2"": 55572, ""type"": 14, ""w"": 35.0}]"
+finir,cuisson,obj,NOUN,0.6792824268341064,[]
+cuire,commencer,acl,VERB,0.7036314606666565,[]
+jaune,œuf,nmod,NOUN,0.524957537651062,"[{""id"": 558764775, ""node1"": 86711, ""node2"": 174124, ""type"": 0, ""w"": 36.0}]"
+texture,mayonnaise,nmod,NOUN,0.5812188386917114,[]
+incorporer,moutarde,flat:name,NOUN,0.6127996444702148,[]
+montage,burger,nmod,NOUN,0.5070354342460632,[]

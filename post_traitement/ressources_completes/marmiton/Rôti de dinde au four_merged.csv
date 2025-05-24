@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+rôti,dinde,nmod,NOUN,0.6705320477485657,"[{""id"": 558847490, ""node1"": 19636, ""node2"": 48501, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+rôti,four,nmod,NOUN,0.7285667061805725,"[{""id"": 362883, ""node1"": 19636, ""node2"": 9190, ""type"": 0, ""w"": 150.0}, {""id"": 1767083, ""node1"": 19636, ""node2"": 9190, ""type"": 15, ""w"": 68.0}, {""id"": 14673975, ""node1"": 19636, ""node2"": 9190, ""type"": 42, ""w"": 31.0}, {""id"": 1767049, ""node1"": 19636, ""node2"": 9190, ""type"": 666, ""w"": 7.0}]",r_associated,150.0
+four,ingrédient,nmod,NOUN,0.7253534197807312,[],,
+rôti,sel,nmod,NOUN,0.7875877618789673,[],,
+sel,thym,amod,NOUN,0.6894241571426392,[],,
+sel,dinde,acl,VERB,0.7661319971084595,[],,
+sel,échalote,nmod,NOUN,0.7090686559677124,[],,
+échalote,bouillon,nmod,NOUN,0.6512312293052673,"[{""id"": 914309728, ""node1"": 41642, ""node2"": 146582, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+bouillon,volaille,nmod,NOUN,0.6946349143981934,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+four,couteau,nmod,NOUN,0.6828393340110779,[],,
+couteau,économe,nmod,NOUN,0.5018488168716431,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]",r_hypo,76.0
+économe,aluminium,nmod,NOUN,0.4657821953296661,[],,
+aluminium,couvercle,nmod,NOUN,0.5510942935943604,[],,
+couvercle,plat,nmod,ADJ,0.6402535438537598,"[{""id"": 961890557, ""node1"": 89523, ""node2"": 36327, ""type"": 10, ""w"": 24.0}, {""id"": 372856875, ""node1"": 89523, ""node2"": 36327, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+four,étape,nmod,NOUN,0.6555838584899902,[],,
+rôti,mettre,acl,VERB,0.681738555431366,[],,
+plat,aller,acl,VERB,0.5960066914558411,[],,
+éplucher,rôti,nsubj,NOUN,0.6692869067192078,[],,
+éplucher,échalote,obj,NOUN,0.5528536438941956,[],,
+rôti,couper,acl,VERB,0.6697554588317871,"[{""id"": 892237773, ""node1"": 19636, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 344379930, ""node1"": 19636, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+rajouter,branche,obj,NOUN,0.4541988372802734,[],,
+branche,thym,nmod,NOUN,0.5575745105743408,[],,
+sec,cela,nsubj,PRON,0.4824734628200531,[],,
+sec,couvrir,advcl,VERB,0.4700206220149994,[],,
+couvrir,aluminium,obj,NOUN,0.5088119506835938,[],,
+cocotte,verre,nmod,NOUN,0.6415289640426636,[],,
+mettre,bouillon,obj,NOUN,0.6238762140274048,[],,
+bouillon,cube,nmod,NOUN,0.5364071130752563,"[{""id"": 799190726, ""node1"": 146582, ""node2"": 6041, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+cube,diluer,acl,VERB,0.5061305165290833,[],,
+verre,eau,nmod,NOUN,0.5749212503433228,"[{""id"": 70610, ""node1"": 144497, ""node2"": 65012, ""type"": 0, ""w"": 314.0}, {""id"": 31129047, ""node1"": 144497, ""node2"": 65012, ""type"": 3, ""w"": 35.0}, {""id"": 10528262, ""node1"": 144497, ""node2"": 65012, ""type"": 9, ""w"": 9.0}, {""id"": 393483, ""node1"": 144497, ""node2"": 65012, ""type"": 28, ""w"": 194.0}, {""id"": 720818421, ""node1"": 144497, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 1523981, ""node1"": 144497, ""node2"": 65012, ""type"": 666, ""w"": 5.0}]",r_associated,314.0
+eau,chaud,amod,ADJ,0.6026924252510071,"[{""id"": 915041142, ""node1"": 65012, ""node2"": 19150, ""type"": 0, ""w"": 20.0}, {""id"": 432164, ""node1"": 65012, ""node2"": 19150, ""type"": 17, ""w"": 131.0}]",r_carac,131.0
+saler,rôti,obj,NOUN,0.7226488590240479,[],,
+servir,froid,obj,NOUN,0.5487737059593201,[],,
+froid,accompagner,acl,VERB,0.4767642319202423,[],,

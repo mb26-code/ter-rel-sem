@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+pavé,biche,nmod,NOUN,0.4501705169677734,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,beurre,appos,NOUN,0.7321043014526367,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]",r_associated,69.0
+farine,beurre,appos,NOUN,0.7180377840995789,"[{""id"": 423997331, ""node1"": 127629, ""node2"": 140377, ""type"": 0, ""w"": 3.0}]",r_associated,3.0
+beurre,poivre,obj,NOUN,0.71866774559021,"[{""id"": 500926010, ""node1"": 140377, ""node2"": 139597, ""type"": 0, ""w"": 3.0}]",r_associated,3.0
+poivre,thym,amod,NOUN,0.6287614107131958,"[{""id"": 584573822, ""node1"": 139597, ""node2"": 3323, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+poivre,vin,amod,NOUN,0.6713349223136902,[],,
+poivre,rouge,amod,ADJ,0.6151092648506165,[],,
+ingrédient,biche,appos,NOUN,0.535962700843811,[],,
+biche,laurier,acl,PROPN,0.4795629382133484,[],,
+ingrédient,confiture,amod,NOUN,0.7005497217178345,"[{""id"": 15303756, ""node1"": 123418, ""node2"": 70793, ""type"": 0, ""w"": 37.0}, {""id"": 15173680, ""node1"": 123418, ""node2"": 70793, ""type"": 27, ""w"": 22.0}]",r_associated,37.0
+ingrédient,tamis,appos,NOUN,0.5500231981277466,[],,
+tamis,set,nmod,NOUN,0.4257432520389557,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+ingrédient,étape,nmod,NOUN,0.4697338342666626,[],,
+ingrédient,mettre,acl,VERB,0.5923328399658203,[],,
+mettre,pavé,obj,NOUN,0.4559748470783233,[],,
+marinade,préparer,acl,VERB,0.6658932566642761,"[{""id"": 348320352, ""node1"": 55044, ""node2"": 36246, ""type"": 38, ""w"": 34.0}]",r_agentif_role,34.0
+égoutter,pavé,obj,NOUN,0.5022507905960083,[],,
+égoutter,faire,advcl,VERB,0.527236819267273,[],,
+bouillir,marinade,obj,NOUN,0.7289058566093445,"[{""id"": 352516474, ""node1"": 42401, ""node2"": 55044, ""type"": 31, ""w"": 26.0}]",r_action_lieu,26.0
+préparer,sauce,obj,NOUN,0.6940045356750488,"[{""id"": 395781320, ""node1"": 36246, ""node2"": 141110, ""type"": 0, ""w"": 35.0}, {""id"": 373014451, ""node1"": 36246, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparer,faire,advcl,VERB,0.4733086228370666,"[{""id"": 973276, ""node1"": 36246, ""node2"": 87528, ""type"": 0, ""w"": 30.0}, {""id"": 53623610, ""node1"": 36246, ""node2"": 87528, ""type"": 5, ""w"": 559.0}, {""id"": 656900330, ""node1"": 36246, ""node2"": 87528, ""type"": 6, ""w"": -31.0}]",r_syn,559.0
+faire,roux,obj,NOUN,0.5398892164230347,[],,
+épais,sauce,nsubj,NOUN,0.6604486703872681,[],,
+ajouter,épais,obj,ADJ,0.4596517086029053,[],,
+saisir,pavé,obj,NOUN,0.4310625791549682,[],,
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+ajouter,confiture,obj,NOUN,0.6040862798690796,[],,
+confiture,sauce,nmod,NOUN,0.7230697870254517,[],,
+servir,pavé,obj,NOUN,0.4875054657459259,[],,
+accompagner,plat,obj,NOUN,0.6060267686843872,[],,
+purée,céleri,nmod,PROPN,0.6876963973045349,"[{""id"": 602032654, ""node1"": 16444, ""node2"": 109326, ""type"": 0, ""w"": 22.0}, {""id"": 96714826, ""node1"": 16444, ""node2"": 109326, ""type"": 50, ""w"": 22.0}]",r_associated,22.0

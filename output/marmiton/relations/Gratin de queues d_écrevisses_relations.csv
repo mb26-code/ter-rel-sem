@@ -1,0 +1,31 @@
+node1,node2,relations
+titre,gratin,[]
+gratin,queue,"[{""id"": 606766296, ""node1"": 12942, ""node2"": 95256, ""type"": 0, ""w"": 1.0}]"
+gratin,ingrédient,[]
+gratin,persil,[]
+gratin,cognac,[]
+cognac,beurre,[]
+beurre,queue,[]
+gratin,noix,"[{""id"": 606766273, ""node1"": 12942, ""node2"": 30910, ""type"": 0, ""w"": 1.0}]"
+gratin,concentrer,[]
+titre,Plat,[]
+Plat,gratin,[]
+Plat,four,[]
+four,blender,[]
+titre,chauffer,[]
+chauffer,balance,[]
+balance,cuisine,[]
+balance,plat,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]"
+balance,étape,[]
+réserver,jus,[]
+jus,incorporer,[]
+rajouter,cuillère,[]
+cuillère,concentré,[]
+concentré,tomate,[]
+plat,gratin,"[{""id"": 415003453, ""node1"": 36327, ""node2"": 12942, ""type"": 0, ""w"": 28.0}, {""id"": 246264043, ""node1"": 36327, ""node2"": 12942, ""type"": 8, ""w"": 32.0}]"
+plat,étaler,[]
+ensemble,queue,[]
+jus,cuisson,[]
+pomme,petit,[]
+pomme,terre,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+pomme,vapeur,[]

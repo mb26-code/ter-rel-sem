@@ -1,0 +1,49 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,salade,appos,NOUN,0.5926524996757507,[],,
+salade,fruit,nmod,NOUN,0.619463324546814,"[{""id"": 129520, ""node1"": 118908, ""node2"": 87286, ""type"": 0, ""w"": 95.0}, {""id"": 97758196, ""node1"": 118908, ""node2"": 87286, ""type"": 9, ""w"": 37.0}, {""id"": 408602, ""node1"": 118908, ""node2"": 87286, ""type"": 28, ""w"": 98.0}]",r_lieu-1,98.0
+salade,basilic,nmod,NOUN,0.6646772027015686,"[{""id"": 97758213, ""node1"": 118908, ""node2"": 112671, ""type"": 0, ""w"": 47.0}, {""id"": 97758214, ""node1"": 118908, ""node2"": 112671, ""type"": 9, ""w"": 26.0}]",r_associated,47.0
+basilic,ingrédient,nmod,NOUN,0.6434639692306519,"[{""id"": 24929891, ""node1"": 112671, ""node2"": 123418, ""type"": 6, ""w"": 1.0}]",r_isa,1.0
+basilic,rhum,appos,NOUN,0.5773102045059204,[],,
+rhum,orange,nmod,NOUN,0.543606698513031,[],,
+orange,fraise,amod,NOUN,0.5292825102806091,"[{""id"": 558701475, ""node1"": 145382, ""node2"": 16242, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+orange,bois,nmod,NOUN,0.5610601305961609,[],,
+bois,banane,nmod,NOUN,0.601479709148407,[],,
+banane,melon,appos,PROPN,0.5652070045471191,[],,
+bois,mangue,nmod,NOUN,0.5978913903236389,[],,
+mangue,pêche,nmod,NOUN,0.5362961888313293,"[{""id"": 1319907, ""node1"": 54862, ""node2"": 145624, ""type"": 0, ""w"": 46.0}, {""id"": 418196760, ""node1"": 54862, ""node2"": 145624, ""type"": 3, ""w"": 41.0}]",r_associated,46.0
+salade,sucre,nmod,NOUN,0.7840214371681213,"[{""id"": 700656317, ""node1"": 118908, ""node2"": 139481, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+sucre,vanillé,amod,ADJ,0.6220211982727051,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]",r_associated,13.0
+sucre,basilic,acl,NOUN,0.7041606307029724,[],,
+sucre,citron,nmod,NOUN,0.6847571134567261,"[{""id"": 292123774, ""node1"": 139481, ""node2"": 15386, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+citron,vert,amod,ADJ,0.5348256230354309,"[{""id"": 1559582, ""node1"": 15386, ""node2"": 26976, ""type"": 0, ""w"": 61.0}, {""id"": 1773945, ""node1"": 15386, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3160941, ""node1"": 15386, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]",r_associated,61.0
+salade,casserole,nmod,NOUN,0.7296498417854309,[],,
+congélateur,saladier,nmod,NOUN,0.5942626595497131,[],,
+congélateur,balance,nmod,NOUN,0.5224598050117493,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+salade,réfrigérateur,nmod,NOUN,0.6821717023849487,"[{""id"": 13676161, ""node1"": 118908, ""node2"": 128721, ""type"": 15, ""w"": 30.0}]",r_lieu,30.0
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[],,
+eau,ébullition,nmod,NOUN,0.5533320903778076,"[{""id"": 1030680817, ""node1"": 65012, ""node2"": 83252, ""type"": 0, ""w"": 22.0}, {""id"": 3253715, ""node1"": 65012, ""node2"": 83252, ""type"": 777, ""w"": 7.0}]",r_associated,22.0
+porter,feu,obj,NOUN,0.5449001789093018,"[{""id"": 914296595, ""node1"": 43404, ""node2"": 143703, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+ajouter,zeste,obj,NOUN,0.4997840821743011,[],,
+zeste,râpé,acl,ADV,0.5270615816116333,[],,
+feuille,basilic,nmod,NOUN,0.5825510621070862,"[{""id"": 98620683, ""node1"": 37993, ""node2"": 112671, ""type"": 0, ""w"": 18.0}, {""id"": 97419090, ""node1"": 37993, ""node2"": 112671, ""type"": 10, ""w"": 27.0}]",r_holo,27.0
+eau,sucre,nmod,NOUN,0.6594484448432922,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+verser,laisser,nsubj,VERB,0.4424374103546142,[],,
+plonger,pêche,obj,NOUN,0.4876244962215423,[],,
+pêche,seconde,nmod,NOUN,0.4569291174411773,[],,
+casserole,eau,nmod,NOUN,0.6077002882957458,"[{""id"": 96542705, ""node1"": 57253, ""node2"": 65012, ""type"": 0, ""w"": 19.0}, {""id"": 22760525, ""node1"": 57253, ""node2"": 65012, ""type"": 28, ""w"": 34.0}, {""id"": 96542704, ""node1"": 57253, ""node2"": 65012, ""type"": 666, ""w"": 1.0}]",r_lieu-1,34.0
+prélever,chair,obj,NOUN,0.4956865310668945,[],,
+réserver,heure,obj,NOUN,0.409327745437622,[],,
+fruit,tout,amod,ADJ,0.5248923301696777,[],,
+détailler,fruit,obj,NOUN,0.4935790002346039,[],,
+verser,jus,obj,NOUN,0.5870975852012634,"[{""id"": 560983474, ""node1"": 104506, ""node2"": 53310, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+jus,orange,nmod,NOUN,0.5570237040519714,"[{""id"": 237499, ""node1"": 53310, ""node2"": 145382, ""type"": 0, ""w"": 204.0}, {""id"": 10003691, ""node1"": 53310, ""node2"": 145382, ""type"": 10, ""w"": 28.0}, {""id"": 3171890, ""node1"": 53310, ""node2"": 145382, ""type"": 106, ""w"": 5.0}, {""id"": 1771771, ""node1"": 53310, ""node2"": 145382, ""type"": 666, ""w"": 6.0}]",r_associated,204.0
+moment,servir,acl,VERB,0.4804177582263946,[],,
+répartir,salade,obj,NOUN,0.6291030645370483,[],,
+salade,assiette,nmod,NOUN,0.6643266677856445,"[{""id"": 613296468, ""node1"": 118908, ""node2"": 62735, ""type"": 0, ""w"": 48.0}, {""id"": 97736423, ""node1"": 118908, ""node2"": 62735, ""type"": 15, ""w"": 12.0}]",r_associated,48.0
+assiette,dessert,nmod,NOUN,0.6457520723342896,"[{""id"": 558775186, ""node1"": 62735, ""node2"": 38557, ""type"": 0, ""w"": 45.0}, {""id"": 3152742, ""node1"": 62735, ""node2"": 38557, ""type"": 28, ""w"": 91.0}]",r_lieu-1,91.0
+fraise,bois,nmod,NOUN,0.561771810054779,"[{""id"": 199092, ""node1"": 16242, ""node2"": 96256, ""type"": 0, ""w"": 70.0}, {""id"": 427900, ""node1"": 16242, ""node2"": 96256, ""type"": 15, ""w"": 120.0}]",r_lieu,120.0
+poser,boule,obj,NOUN,0.5003893375396729,[],,
+boule,centre,nmod,NOUN,0.4835734367370605,"[{""id"": 219829570, ""node1"": 141883, ""node2"": 31970, ""type"": 0, ""w"": 9.0}, {""id"": 217801731, ""node1"": 141883, ""node2"": 31970, ""type"": 9, ""w"": 51.0}]",r_has_part,51.0
+centre,feuille,nmod,NOUN,0.4625463783740997,[],,

@@ -1,0 +1,15 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,cuisine,obj,NOUN,0.6019042730331421,[],,
+pâtisserie,ambassadeur,nsubj,NOUN,0.5210645794868469,"[{""id"": 246865160, ""node1"": 25966, ""node2"": 21413, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+pâtisserie,constituer,acl,VERB,0.5906456708908081,[],,
+pâtisserie,génoise,nmod,NOUN,0.5121659636497498,"[{""id"": 797674001, ""node1"": 25966, ""node2"": 65953, ""type"": 0, ""w"": 26.0}, {""id"": 598563307, ""node1"": 25966, ""node2"": 65953, ""type"": 27, ""w"": 34.0}]",r_domain-1,34.0
+génoise,couche,nmod,NOUN,0.4920397996902466,[],,
+couche,crème,nmod,NOUN,0.5796741843223572,[],,
+crème,pâtissier,amod,ADJ,0.6166189908981323,"[{""id"": 561269853, ""node1"": 44001, ""node2"": 31618, ""type"": 0, ""w"": 41.0}]",r_associated,41.0
+crème,garni,acl,ADJ,0.5926059484481812,[],,
+recouvrir,ensemble,nsubj:pass,NOUN,0.4521131515502929,[],,
+pâtisserie,recouvrir,acl,VERB,0.6198726296424866,"[{""id"": 957282670, ""node1"": 25966, ""node2"": 26206, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+pâte,amande,nmod,NOUN,0.6331775784492493,"[{""id"": 796691772, ""node1"": 34069, ""node2"": 28557, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+amande,vert,amod,ADJ,0.5284362435340881,"[{""id"": 97327773, ""node1"": 28557, ""node2"": 26976, ""type"": 0, ""w"": 15.0}]",r_associated,15.0
+rond,gâteau,nsubj,NOUN,0.5700496435165405,"[{""id"": 93362833, ""node1"": 82147, ""node2"": 2149, ""type"": 23, ""w"": 23.0}]",r_carac-1,23.0
+pouvoir,décoration,nsubj,NOUN,0.4609321355819702,[],,

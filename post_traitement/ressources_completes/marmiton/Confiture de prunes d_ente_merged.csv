@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+confiture,prune,nmod,NOUN,0.5488511919975281,"[{""id"": 798965787, ""node1"": 70793, ""node2"": 76566, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+confiture,ingrédient,nmod,NOUN,0.7005497217178345,"[{""id"": 15370391, ""node1"": 70793, ""node2"": 123418, ""type"": 0, ""w"": 39.0}, {""id"": 506041, ""node1"": 70793, ""node2"": 123418, ""type"": 3, ""w"": 52.0}]",r_domain,52.0
+confiture,sucre,nmod,NOUN,0.6927701830863953,"[{""id"": 138286, ""node1"": 70793, ""node2"": 139481, ""type"": 0, ""w"": 278.0}, {""id"": 376999837, ""node1"": 70793, ""node2"": 139481, ""type"": 21, ""w"": 26.0}, {""id"": 1525776, ""node1"": 70793, ""node2"": 139481, ""type"": 666, ""w"": 5.0}]",r_associated,278.0
+sucre,prune,nmod,NOUN,0.6513010859489441,[],,
+sucre,citron,nmod,NOUN,0.6847571134567261,"[{""id"": 292123774, ""node1"": 139481, ""node2"": 15386, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+confiture,casserole,nmod,NOUN,0.6971736550331116,"[{""id"": 610260619, ""node1"": 70793, ""node2"": 57253, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+casserole,couteau,nmod,NOUN,0.6493775248527527,[],,
+casserole,cuillère,nmod,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,congélateur,appos,NOUN,0.6287068128585815,[],,
+congélateur,balance,nmod,NOUN,0.5224598050117493,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,assiette,appos,NOUN,0.5656145215034485,[],,
+assiette,étape,nmod,NOUN,0.483820229768753,[],,
+couper,prune,obj,NOUN,0.5619849562644958,[],,
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+gousse,vanille,nmod,NOUN,0.5133623480796814,"[{""id"": 723347912, ""node1"": 3889, ""node2"": 140463, ""type"": 0, ""w"": 27.0}, {""id"": 671656975, ""node1"": 3889, ""node2"": 140463, ""type"": 58, ""w"": 25.0}, {""id"": 714921745, ""node1"": 3889, ""node2"": 140463, ""type"": 666, ""w"": 3.0}]",r_associated,27.0
+mettre,pépin,obj,NOUN,0.4216875433921814,[],,
+pépin,citron,nmod,NOUN,0.4984607994556427,"[{""id"": 255685, ""node1"": 143219, ""node2"": 15386, ""type"": 0, ""w"": 60.0}, {""id"": 9991093, ""node1"": 143219, ""node2"": 15386, ""type"": 10, ""w"": 38.0}]",r_associated,60.0
+feu,vif,amod,ADJ,0.5094798803329468,"[{""id"": 418102926, ""node1"": 143703, ""node2"": 80204, ""type"": 0, ""w"": 13.0}, {""id"": 221184, ""node1"": 143703, ""node2"": 80204, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
+cela,bout,nmod,NOUN,0.4511492550373077,[],,
+cela,baisser,acl,VERB,0.4433022439479828,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+mettre,assiette,obj,NOUN,0.6056039333343506,[],,
+cuire,confiture,nsubj,NOUN,0.7827805876731873,"[{""id"": 920566701, ""node1"": 5115, ""node2"": 70793, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+reste,goutte,nsubj,NOUN,0.5141017436981201,[],,
+goutte,confiture,nmod,NOUN,0.5880243182182312,[],,
+goutte,assiette,nmod,NOUN,0.5873790383338928,[],,
+assiette,froid,amod,ADJ,0.6095581650733948,[],,
+bocal,fermer,acl,VERB,0.5037422180175781,"[{""id"": 613404571, ""node1"": 109384, ""node2"": 24346, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+cuire,retourner,advcl,VERB,0.6831303834915161,[],,
+risque,brûlure,nmod,NOUN,0.4356409311294555,[],,

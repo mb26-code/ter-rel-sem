@@ -1,0 +1,28 @@
+node1,node2,relations
+banane,chocolat,[]
+banane,ingrédient,"[{""id"": 578773660, ""node1"": 34046, ""node2"": 123418, ""type"": 6, ""w"": 29.0}]"
+banane,cacao,[]
+cacao,poudre,"[{""id"": 115907, ""node1"": 68363, ""node2"": 139470, ""type"": 0, ""w"": 104.0}, {""id"": 82560097, ""node1"": 68363, ""node2"": 139470, ""type"": 6, ""w"": 35.0}, {""id"": 261410, ""node1"": 68363, ""node2"": 139470, ""type"": 8, ""w"": 101.0}, {""id"": 1568466, ""node1"": 68363, ""node2"": 139470, ""type"": 35, ""w"": 51.0}, {""id"": 1787114, ""node1"": 68363, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]"
+poudre,lait,"[{""id"": 798069862, ""node1"": 139470, ""node2"": 86296, ""type"": 0, ""w"": 26.0}]"
+lait,amande,[]
+pépite,chocolat,"[{""id"": 365455, ""node1"": 25082, ""node2"": 34157, ""type"": 0, ""w"": 152.0}, {""id"": 376056261, ""node1"": 25082, ""node2"": 34157, ""type"": 50, ""w"": 35.0}, {""id"": 930408960, ""node1"": 25082, ""node2"": 34157, ""type"": 666, ""w"": 2.0}]"
+congélateur,mixeur,[]
+mixeur,robot,"[{""id"": 899180654, ""node1"": 78314, ""node2"": 12875, ""type"": 0, ""w"": 23.0}]"
+mixeur,bol,"[{""id"": 539977939, ""node1"": 78314, ""node2"": 145405, ""type"": 58, ""w"": -25.0}]"
+bol,étape,[]
+banane,veille,[]
+banane,couper,[]
+couper,banane,[]
+banane,morceau,[]
+laisser,nuit,[]
+nuit,congélateur,[]
+placer,rondelle,[]
+rondelle,banane,[]
+bol,robot,[]
+placer,mixeur,[]
+ajouter,lait,"[{""id"": 373014760, ""node1"": 25099, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]"
+obtenir,couper,[]
+banane,deuxième,[]
+banane,rondelle,[]
+milieu,bol,[]
+ajouter,pépite,[]

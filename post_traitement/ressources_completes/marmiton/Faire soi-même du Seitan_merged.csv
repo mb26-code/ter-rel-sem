@@ -1,0 +1,40 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+bol,saladier,nmod,NOUN,0.5367903709411621,"[{""id"": 796872211, ""node1"": 145405, ""node2"": 45455, ""type"": 0, ""w"": 28.0}, {""id"": 1029292999, ""node1"": 145405, ""node2"": 45455, ""type"": 67, ""w"": 34.0}]",r_similar,34.0
+saladier,couteau,nmod,NOUN,0.6030980348587036,[],,
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+casserole,set,nmod,NOUN,0.4378535151481628,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+prendre,bol,obj,NOUN,0.523564875125885,[],,
+bol,farine,nmod,NOUN,0.6245847344398499,[],,
+bol,gluten,nmod,NOUN,0.6118907928466797,[],,
+bol,liquide,nmod,NOUN,0.5551185011863708,"[{""id"": 417988830, ""node1"": 145405, ""node2"": 140315, ""type"": 0, ""w"": 13.0}]",r_associated,13.0
+bol,composer,acl,VERB,0.5240090489387512,[],,
+soupe,sauce,nmod,NOUN,0.7104631662368774,[],,
+cuillère,soupe,acl,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+soupe,huile,nmod,NOUN,0.676633894443512,"[{""id"": 3346889, ""node1"": 117152, ""node2"": 141971, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+verser,reste,nsubj,NOUN,0.494085282087326,[],,
+reste,eau,nmod,NOUN,0.576485812664032,[],,
+eau,tiède,amod,PROPN,0.5831737518310547,"[{""id"": 796965917, ""node1"": 65012, ""node2"": 13843, ""type"": 0, ""w"": 29.0}, {""id"": 128780, ""node1"": 65012, ""node2"": 13843, ""type"": 17, ""w"": 73.0}, {""id"": 600063832, ""node1"": 65012, ""node2"": 13843, ""type"": 27, ""w"": 32.0}]",r_carac,73.0
+verser,liquide,obj,NOUN,0.5274866223335266,"[{""id"": 1352184, ""node1"": 104506, ""node2"": 140315, ""type"": 0, ""w"": 78.0}, {""id"": 220541, ""node1"": 104506, ""node2"": 140315, ""type"": 14, ""w"": 100.0}, {""id"": 376199214, ""node1"": 104506, ""node2"": 140315, ""type"": 16, ""w"": 30.0}, {""id"": 645787352, ""node1"": 104506, ""node2"": 140315, ""type"": 666, ""w"": 4.0}]",r_patient,100.0
+farine,tout,amod,ADJ,0.6873804926872253,[],,
+fois,farine,obj,NOUN,0.5965827107429504,[],,
+farine,gluten,nmod,NOUN,0.6403636932373047,"[{""id"": 3111745, ""node1"": 127629, ""node2"": 19041, ""type"": 0, ""w"": 85.0}, {""id"": 102167, ""node1"": 127629, ""node2"": 19041, ""type"": 9, ""w"": 59.0}]",r_associated,85.0
+laisser,farine,obj,NOUN,0.6546756029129028,[],,
+mélanger,bouger,advcl,VERB,0.4596100747585296,[],,
+bouger,récipient,obj,NOUN,0.5451846718788147,[],,
+fin,absorption,nmod,NOUN,0.4135643541812897,[],,
+rassembler,pâte,obj,NOUN,0.6174979209899902,[],,
+faire,boule,obj,NOUN,0.5590701699256897,[],,
+préparer,bouillon,obj,NOUN,0.6509688496589661,[],,
+oignon,moyen,amod,ADJ,0.5898615717887878,[],,
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+gluten,feu,nmod,NOUN,0.6391448974609375,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+bocal,recouvrir,acl,VERB,0.5733808279037476,[],,
+frais,semaine,nmod,NOUN,0.423422247171402,[],,
+bouillon,frais,nmod,NOUN,0.5523948669433594,[],,
+préparation,divers,amod,ADJ,0.4121687412261963,[],,
+préparation,boulette,appos,NOUN,0.5796462893486023,"[{""id"": 601611589, ""node1"": 33634, ""node2"": 112360, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+boulette,sauce,nmod,NOUN,0.6849175691604614,"[{""id"": 725131450, ""node1"": 112360, ""node2"": 141110, ""type"": 666, ""w"": 3.0}]",r_aki,3.0

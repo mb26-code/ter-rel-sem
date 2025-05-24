@@ -1,0 +1,73 @@
+head,lemma,dep,pos,sim,relations
+titre,salade,appos,NOUN,0.6000369191169739,[]
+salade,lard,nmod,NOUN,0.646169126033783,[]
+plat,salade,nsubj,NOUN,0.6882086396217346,"[{""id"": 10576052, ""node1"": 36327, ""node2"": 118908, ""type"": 0, ""w"": 61.0}, {""id"": 9624544, ""node1"": 36327, ""node2"": 118908, ""type"": 8, ""w"": 31.0}, {""id"": 104937196, ""node1"": 36327, ""node2"": 118908, ""type"": 28, ""w"": 4.0}]"
+plat,complet,amod,ADJ,0.5754238367080688,[]
+plat,base,nmod,NOUN,0.6491852402687073,[]
+base,pomme,nmod,NOUN,0.6038941740989685,[]
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+plat,consommer,acl,VERB,0.6571562886238098,"[{""id"": 96713033, ""node1"": 36327, ""node2"": 97571, ""type"": 26, ""w"": 38.0}]"
+ancrer,plat,nsubj:pass,NOUN,0.5658588409423828,[]
+journaliste,note,nmod,NOUN,0.4028765559196472,[]
+note,existence,nmod,NOUN,0.4086933434009552,[]
+témoignage,fin,nmod,NOUN,0.4366984665393829,[]
+fin,siècle,nmod,NOUN,0.429499864578247,[]
+campagne,siècle,nmod,NOUN,0.4202091991901397,[]
+fondre,gens,nsubj,NOUN,0.421997994184494,[]
+préparation,culinaire,amod,ADJ,0.6475791931152344,"[{""id"": 601611802, ""node1"": 33634, ""node2"": 347, ""type"": 0, ""w"": 30.0}]"
+préparation,traditionnel,amod,ADJ,0.6248403787612915,[]
+apprécier,plat,nsubj:pass,NOUN,0.6148583889007568,"[{""id"": 473559937, ""node1"": 63449, ""node2"": 36327, ""type"": 0, ""w"": 18.0}, {""id"": 473559938, ""node1"": 63449, ""node2"": 36327, ""type"": 14, ""w"": 100.0}]"
+centre,consommé,acl:relcl,NOUN,0.5087459683418274,[]
+combinaison,salade,nsubj,NOUN,0.6223483085632324,[]
+combinaison,simple,amod,ADJ,0.4545459151268005,[]
+combinaison,produit,nmod,NOUN,0.4452596604824066,[]
+disposer,famille,nsubj,NOUN,0.438453197479248,[]
+combinaison,disposer,acl:relcl,VERB,0.4494713842868805,[]
+élever,cochon,obj,NOUN,0.5121423006057739,[]
+entretenir,potager,obj,NOUN,0.4573664963245392,"[{""id"": 480338174, ""node1"": 133014, ""node2"": 49759, ""type"": 0, ""w"": 29.0}, {""id"": 480338173, ""node1"": 133014, ""node2"": 49759, ""type"": 14, ""w"": 100.0}]"
+pulpe,pomme,nmod,NOUN,0.5832158327102661,"[{""id"": 602047700, ""node1"": 85081, ""node2"": 37201, ""type"": 0, ""w"": 22.0}]"
+pomme,écraser,acl,VERB,0.5793675184249878,[]
+herbe,aromatique,amod,ADJ,0.5011574625968933,"[{""id"": 374762, ""node1"": 138874, ""node2"": 67664, ""type"": 17, ""w"": 83.0}, {""id"": 653275255, ""node1"": 138874, ""node2"": 67664, ""type"": 666, ""w"": 9.0}]"
+persil,dont,nmod,PRON,0.5651411414146423,[]
+herbe,persil,acl:relcl,NOUN,0.557231068611145,"[{""id"": 97127359, ""node1"": 138874, ""node2"": 135982, ""type"": 0, ""w"": 29.0}, {""id"": 1020590448, ""node1"": 138874, ""node2"": 135982, ""type"": 8, ""w"": 21.0}]"
+servir,préparation,nsubj,NOUN,0.5756478905677795,"[{""id"": 558790747, ""node1"": 7888, ""node2"": 33634, ""type"": 0, ""w"": 37.0}]"
+nettoyer,servir,advcl,VERB,0.4991145431995392,[]
+servir,vert,advcl,ADJ,0.5412423014640808,[]
+manger,salade,obj,NOUN,0.673771858215332,"[{""id"": 429220716, ""node1"": 130164, ""node2"": 118908, ""type"": 0, ""w"": 28.0}, {""id"": 2161810, ""node1"": 130164, ""node2"": 118908, ""type"": 14, ""w"": 100.0}]"
+nettoyer,estomac,obj,NOUN,0.5059906840324402,[]
+estomac,noirceur,nmod,NOUN,0.4879769682884216,[]
+avoir,huile,obj,NOUN,0.5554448366165161,[]
+faire,office,obj,NOUN,0.4528534114360809,[]
+gras,fonte,nmod,NOUN,0.5726951360702515,[]
+exister,façon,obj,NOUN,0.4123995900154114,[]
+façon,préparer,acl,VERB,0.5057932138442993,[]
+préparer,recette,obj,NOUN,0.6556570529937744,"[{""id"": 799189722, ""node1"": 36246, ""node2"": 120188, ""type"": 0, ""w"": 22.0}]"
+diviser,question,nsubj,NOUN,0.4244838953018188,"[{""id"": 239698, ""node1"": 19675, ""node2"": 50646, ""type"": 13, ""w"": 52.0}]"
+question,fond,nmod,NOUN,0.4979503154754638,"[{""id"": 977972, ""node1"": 50646, ""node2"": 119272, ""type"": 0, ""w"": 22.0}]"
+tenant,pomme,nmod,NOUN,0.5268826484680176,[]
+pomme,robe,nmod,NOUN,0.5343089699745178,[]
+robe,champ,nmod,NOUN,0.4571654796600342,[]
+pomme,éplucher,amod,VERB,0.5815007090568542,"[{""id"": 796705709, ""node1"": 37201, ""node2"": 59879, ""type"": 0, ""w"": 24.0}, {""id"": 2202541, ""node1"": 37201, ""node2"": 59879, ""type"": 26, ""w"": 100.0}]"
+tenant,cuire,acl,VERB,0.6799551248550415,[]
+entendre,salade,nsubj,NOUN,0.629603922367096,[]
+contact,chaleur,nmod,NOUN,0.4675849676132202,[]
+fumé,lard,nsubj,NOUN,0.5469585657119751,"[{""id"": 796701084, ""node1"": 23335, ""node2"": 59430, ""type"": 0, ""w"": 27.0}, {""id"": 372425201, ""node1"": 23335, ""node2"": 59430, ""type"": 23, ""w"": 36.0}]"
+salade,vrai,amod,ADJ,0.6128665208816528,[]
+faire,salade,nsubj,NOUN,0.6861217021942139,[]
+confrérie,salade,nmod,NOUN,0.5864575505256653,[]
+confrérie,lard,nmod,NOUN,0.5195271968841553,[]
+fois,château,nmod,NOUN,0.4304623007774353,[]
+salade,premier,amod,ADJ,0.6626236438751221,[]
+prix,salade,nmod,NOUN,0.5660420060157776,[]
+proposer,recette,obj,NOUN,0.5852761268615723,[]
+recette,salade,nmod,NOUN,0.6874119639396667,"[{""id"": 608584968, ""node1"": 120188, ""node2"": 118908, ""type"": 0, ""w"": 47.0}, {""id"": 97977068, ""node1"": 120188, ""node2"": 118908, ""type"": 41, ""w"": 35.0}]"
+recette,personne,nmod,NOUN,0.5951105356216431,[]
+cuire,lard,obj,NOUN,0.7218000888824463,[]
+lard,gras,amod,ADJ,0.5686230659484863,"[{""id"": 365517, ""node1"": 59430, ""node2"": 56362, ""type"": 0, ""w"": 175.0}, {""id"": 53608337, ""node1"": 59430, ""node2"": 56362, ""type"": 5, ""w"": 63.0}, {""id"": 9902067, ""node1"": 59430, ""node2"": 56362, ""type"": 6, ""w"": 71.0}, {""id"": 81666, ""node1"": 59430, ""node2"": 56362, ""type"": 9, ""w"": 151.0}, {""id"": 2279265, ""node1"": 59430, ""node2"": 56362, ""type"": 17, ""w"": 30.0}, {""id"": 1526441, ""node1"": 59430, ""node2"": 56362, ""type"": 666, ""w"": 2.0}]"
+jeter,graisse,obj,NOUN,0.5587706565856934,[]
+revenir,morceau,obj,NOUN,0.5926900506019592,[]
+morceau,lard,nmod,NOUN,0.5874041318893433,[]
+lard,maigre,amod,ADJ,0.5501595139503479,"[{""id"": 9985037, ""node1"": 59430, ""node2"": 68727, ""type"": 0, ""w"": 5.0}, {""id"": 395074, ""node1"": 59430, ""node2"": 68727, ""type"": 9, ""w"": 60.0}]"
+cuire,ajouter,advcl,VERB,0.6986612677574158,[]
+ingrédient,tout,amod,ADJ,0.6054088473320007,[]
+ajouter,ingrédient,obj,NOUN,0.5776577591896057,"[{""id"": 9084112, ""node1"": 25099, ""node2"": 123418, ""type"": 0, ""w"": 56.0}, {""id"": 428901945, ""node1"": 25099, ""node2"": 123418, ""type"": 14, ""w"": 100.0}, {""id"": 9084083, ""node1"": 25099, ""node2"": 123418, ""type"": 35, ""w"": 48.0}]"

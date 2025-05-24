@@ -1,0 +1,24 @@
+head,lemma,dep,pos,sim,relation
+soupe,italien,nmod,NOUN,0.634824275970459,[]
+italien,ingrédient,nmod,NOUN,0.511681854724884,[]
+ingrédient,poivre,appos,NOUN,0.7064663171768188,"[{""id"": 24923435, ""node1"": 123418, ""node2"": 139597, ""type"": 0, ""w"": 15.0}, {""id"": 24850733, ""node1"": 123418, ""node2"": 139597, ""type"": 8, ""w"": 26.0}]"
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]"
+sel,oignon,nmod,ADP,0.705348014831543,[]
+poivre,poireau,nmod,NOUN,0.6779045462608337,[]
+poireau,courgette,nmod,NOUN,0.6181361675262451,[]
+haricot,tomate,nmod,NOUN,0.6090161800384521,[]
+soupe,cube,acl:relcl,NOUN,0.6254211664199829,"[{""id"": 799190727, ""node1"": 117152, ""node2"": 6041, ""type"": 0, ""w"": 28.0}]"
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]"
+bouillon,eau,appos,NOUN,0.6091527938842773,"[{""id"": 32063698, ""node1"": 146582, ""node2"": 65012, ""type"": 0, ""w"": 33.0}, {""id"": 418498335, ""node1"": 146582, ""node2"": 65012, ""type"": 3, ""w"": 31.0}, {""id"": 32061929, ""node1"": 146582, ""node2"": 65012, ""type"": 9, ""w"": 53.0}]"
+louche,mixeur,nmod,NOUN,0.5896725058555603,[]
+mixeur,plonger,acl,VERB,0.5584041476249695,[]
+mixeur,chauffer,acl,VERB,0.6226776838302612,[]
+plaque,cuisson,nmod,NOUN,0.6722077131271362,"[{""id"": 14676768, ""node1"": 145064, ""node2"": 60056, ""type"": 0, ""w"": 49.0}, {""id"": 97321944, ""node1"": 145064, ""node2"": 60056, ""type"": 3, ""w"": 15.0}, {""id"": 14199213, ""node1"": 145064, ""node2"": 60056, ""type"": 35, ""w"": 47.0}]"
+table,induction,amod,NOUN,0.5181390047073364,[]
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]"
+morceau,courgette,nmod,NOUN,0.6697164177894592,[]
+ajouter,tomate,obj,NOUN,0.6318210363388062,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 30.0}]"
+bouillon,poule,nmod,NOUN,0.5475077629089355,[]
+cuire,minute,obj,NOUN,0.6918482780456543,[]
+chaleur,plaque,nmod,NOUN,0.538974940776825,[]
+ajouter,sel,obj,NOUN,0.6747812032699585,"[{""id"": 914306223, ""node1"": 25099, ""node2"": 13260, ""type"": 0, ""w"": 20.0}, {""id"": 220261, ""node1"": 25099, ""node2"": 13260, ""type"": 14, ""w"": 70.0}]"

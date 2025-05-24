@@ -1,0 +1,43 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+casserole,velouté,nsubj,NOUN,0.672784686088562,[],,
+velouté,ingrédient,nmod,NOUN,0.6268470287322998,[],,
+velouté,sel,nmod,NOUN,0.7175381183624268,[],,
+sel,poivre,nmod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,beurre,amod,NOUN,0.71866774559021,"[{""id"": 584573840, ""node1"": 139597, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+velouté,échalote,nmod,NOUN,0.6173602938652039,[],,
+échalote,pomme,nmod,NOUN,0.6213377118110657,[],,
+échalote,terre,nmod,NOUN,0.6087936162948608,[],,
+terre,bouillon,nmod,NOUN,0.6473227143287659,[],,
+bouillon,volaille,nmod,NOUN,0.6946349143981934,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+bouillon,huile,acl,NOUN,0.6829477548599243,"[{""id"": 558647559, ""node1"": 146582, ""node2"": 141971, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+échalote,louche,appos,NOUN,0.5942314863204956,[],,
+échalote,mixeur,nmod,NOUN,0.6112183928489685,[],,
+mixeur,mixeur,nmod,NOUN,0.488496869802475,"[{""id"": 316851, ""node1"": 78314, ""node2"": 78314, ""type"": 19, ""w"": 51.0}]",r_lemma,51.0
+mixeur,couteau,nmod,NOUN,0.573357105255127,[],,
+couteau,économe,nmod,NOUN,0.5018488168716431,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]",r_hypo,76.0
+casserole,cuillère,obj,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,couvercle,nmod,NOUN,0.6197326183319092,[],,
+couvercle,bol,nmod,NOUN,0.541790783405304,[],,
+bol,balance,nmod,NOUN,0.5318400859832764,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+réserver,une,obj,NOUN,0.4553818106651306,[],,
+couper,pomme,obj,NOUN,0.5794677734375,"[{""id"": 31836584, ""node1"": 128828, ""node2"": 37201, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+casserole,fondre,acl,VERB,0.6157484650611877,[],,
+fondre,échalote,obj,NOUN,0.6111676692962646,[],,
+échalote,haché,amod,ADJ,0.5667595863342285,[],,
+échalote,noix,nmod,NOUN,0.6064611077308655,[],,
+noix,beurre,nmod,NOUN,0.6414071917533875,"[{""id"": 96697959, ""node1"": 30910, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+fondre,minute,obj,NOUN,0.511424720287323,[],,
+ajouter,feuille,obj,NOUN,0.4999395906925201,[],,
+ajouter,cube,obj,NOUN,0.4883004128932953,[],,
+cube,pomme,nmod,NOUN,0.5789888501167297,[],,
+cube,terre,nmod,NOUN,0.5341743230819702,[],,
+ajouter,bouillon,obj,NOUN,0.597090482711792,[],,
+couvrir,casserole,obj,NOUN,0.6103931665420532,[],,
+velouté,chaud,amod,ADJ,0.5839232802391052,[],,
+verser,assiette,obj,NOUN,0.5849874019622803,"[{""id"": 556113120, ""node1"": 104506, ""node2"": 62735, ""type"": 0, ""w"": 30.0}, {""id"": 4968805, ""node1"": 104506, ""node2"": 62735, ""type"": 31, ""w"": 11.0}]",r_associated,30.0
+verser,filet,obj,NOUN,0.5606366395950317,[],,
+filet,huile,nmod,NOUN,0.6150403022766113,[],,
+huile,argan,nmod,NOUN,0.4887538552284241,"[{""id"": 669863254, ""node1"": 141971, ""node2"": 44824, ""type"": 0, ""w"": 23.0}]",r_associated,23.0

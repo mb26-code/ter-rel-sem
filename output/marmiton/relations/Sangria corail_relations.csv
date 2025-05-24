@@ -1,0 +1,33 @@
+node1,node2,relations
+rhum,liqueur,"[{""id"": 914939059, ""node1"": 129154, ""node2"": 66643, ""type"": 0, ""w"": 22.0}]"
+liqueur,sucre,"[{""id"": 423451177, ""node1"": 66643, ""node2"": 139481, ""type"": 0, ""w"": 26.0}, {""id"": 980975051, ""node1"": 66643, ""node2"": 139481, ""type"": 666, ""w"": 3.0}, {""id"": 3573576, ""node1"": 66643, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]"
+sucre,canne,"[{""id"": 107598, ""node1"": 139481, ""node2"": 144267, ""type"": 0, ""w"": 241.0}, {""id"": 160436, ""node1"": 139481, ""node2"": 144267, ""type"": 15, ""w"": 78.0}, {""id"": 1763995, ""node1"": 139481, ""node2"": 144267, ""type"": 666, ""w"": 1.0}]"
+sucre,vin,[]
+fruit,exotique,[]
+sucre,fruit,"[{""id"": 98831553, ""node1"": 139481, ""node2"": 87286, ""type"": 0, ""w"": 22.0}, {""id"": 9997585, ""node1"": 139481, ""node2"": 87286, ""type"": 10, ""w"": 32.0}]"
+ingrédient,jus,[]
+jus,citron,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]"
+jus,Presse,[]
+presse,ail,[]
+jus,presse,"[{""id"": 915385919, ""node1"": 53310, ""node2"": 14372, ""type"": 0, ""w"": 21.0}]"
+récipient,grand,[]
+récipient,balance,[]
+balance,cuisine,[]
+balance,étape,[]
+fait,grand,[]
+récipient,fait,[]
+récipient,autre,[]
+fait,récipient,[]
+fait,verser,[]
+verser,rosé,"[{""id"": 31864520, ""node1"": 104506, ""node2"": 140986, ""type"": 14, ""w"": 30.0}]"
+rhum,brun,[]
+liqueur,pêche,[]
+canne,liquide,[]
+ajouter,jus,[]
+jus,fruit,"[{""id"": 237500, ""node1"": 53310, ""node2"": 87286, ""type"": 0, ""w"": 208.0}, {""id"": 210856, ""node1"": 53310, ""node2"": 87286, ""type"": 9, ""w"": -60.0}, {""id"": 1965659, ""node1"": 53310, ""node2"": 87286, ""type"": 10, ""w"": 63.0}, {""id"": 1051892064, ""node1"": 53310, ""node2"": 87286, ""type"": 13, ""w"": 17.0}, {""id"": 24414181, ""node1"": 53310, ""node2"": 87286, ""type"": 35, ""w"": 48.0}, {""id"": 1771770, ""node1"": 53310, ""node2"": 87286, ""type"": 666, ""w"": 4.0}]"
+fruit,couper,"[{""id"": 1045720747, ""node1"": 87286, ""node2"": 128828, ""type"": 24, ""w"": 43.0}, {""id"": 10744513, ""node1"": 87286, ""node2"": 128828, ""type"": 25, ""w"": 81.0}]"
+fruit,boîte,[]
+agir,égoutter,[]
+presser,citron,"[{""id"": 97344511, ""node1"": 47617, ""node2"": 15386, ""type"": 0, ""w"": 44.0}, {""id"": 210236, ""node1"": 47617, ""node2"": 15386, ""type"": 14, ""w"": 100.0}, {""id"": 653326908, ""node1"": 47617, ""node2"": 15386, ""type"": 666, ""w"": 9.0}]"
+frais,jour,[]
+bois,frais,[]

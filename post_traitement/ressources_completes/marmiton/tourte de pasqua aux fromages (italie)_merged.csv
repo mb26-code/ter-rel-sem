@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+fromage,italie,appos,PROPN,0.5088440179824829,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,levure,nmod,NOUN,0.6924784183502197,[],,
+levure,farine,nmod,NOUN,0.6151298880577087,"[{""id"": 1788186, ""node1"": 53450, ""node2"": 127629, ""type"": 0, ""w"": 60.0}, {""id"": 1046576042, ""node1"": 53450, ""node2"": 127629, ""type"": 8, ""w"": 20.0}]",r_associated,60.0
+levure,oeuf,nmod,NOUN,0.5973623394966125,[],,
+ingrédient,fromage,appos,NOUN,0.7009125351905823,"[{""id"": 24923443, ""node1"": 123418, ""node2"": 141687, ""type"": 0, ""w"": 15.0}, {""id"": 24850718, ""node1"": 123418, ""node2"": 141687, ""type"": 8, ""w"": 43.0}]",r_hypo,43.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,moule,nmod,NOUN,0.574239194393158,[],,
+cuillère,cake,nmod,ADV,0.5880404114723206,[],,
+cake,four,nmod,NOUN,0.6546434164047241,"[{""id"": 561291406, ""node1"": 28945, ""node2"": 9190, ""type"": 0, ""w"": 33.0}, {""id"": 583219224, ""node1"": 28945, ""node2"": 9190, ""type"": 5, ""w"": -5.0}, {""id"": 623131366, ""node1"": 28945, ""node2"": 9190, ""type"": 15, ""w"": 32.0}]",r_lieu,32.0
+four,couteau,nmod,NOUN,0.6828393340110779,[],,
+couteau,fourchette,nmod,NOUN,0.5338557958602905,"[{""id"": 116905, ""node1"": 32610, ""node2"": 134670, ""type"": 0, ""w"": 231.0}, {""id"": 1074615762, ""node1"": 32610, ""node2"": 134670, ""type"": 6, ""w"": -25.0}, {""id"": 1046575883, ""node1"": 32610, ""node2"": 134670, ""type"": 8, ""w"": 20.0}, {""id"": 539956583, ""node1"": 32610, ""node2"": 134670, ""type"": 25, ""w"": -25.0}, {""id"": 1032956514, ""node1"": 32610, ""node2"": 134670, ""type"": 78, ""w"": 34.0}]",r_associated,231.0
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+cuillère,diluer,acl,VERB,0.5253190994262695,[],,
+diluer,levure,obj,NOUN,0.5391191244125366,[],,
+eau,tiède,amod,ADJ,0.5831737518310547,"[{""id"": 796965917, ""node1"": 65012, ""node2"": 13843, ""type"": 0, ""w"": 29.0}, {""id"": 128780, ""node1"": 65012, ""node2"": 13843, ""type"": 17, ""w"": 73.0}, {""id"": 600063832, ""node1"": 65012, ""node2"": 13843, ""type"": 27, ""w"": 32.0}]",r_carac,73.0
+cuillère,farine,nmod,NOUN,0.6750626564025879,"[{""id"": 775213356, ""node1"": 51905, ""node2"": 127629, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+faire,levain,obj,NOUN,0.6009045243263245,[],,
+reposer,heure,obj,NOUN,0.4106099009513855,[],,
+endroit,chaud,amod,ADJ,0.4902523458003998,"[{""id"": 31865146, ""node1"": 134218, ""node2"": 19150, ""type"": 17, ""w"": 68.0}]",r_carac,68.0
+oeuf,fromage,nmod,NOUN,0.5934737324714661,"[{""id"": 584561366, ""node1"": 116175, ""node2"": 141687, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+fromage,couper,acl,VERB,0.6230878829956055,"[{""id"": 892230492, ""node1"": 141687, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 365853961, ""node1"": 141687, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+ajouter,mélanger,advcl,VERB,0.476481020450592,[],,
+ajouter,levain,obj,NOUN,0.5688120126724243,[],,
+minute,tout,amod,ADV,0.4874596893787384,[],,
+mettre,pâte,obj,NOUN,0.6384987831115723,[],,
+moule,cake,nmod,NOUN,0.5423397421836853,"[{""id"": 272916, ""node1"": 143723, ""node2"": 28945, ""type"": 0, ""w"": 60.0}, {""id"": 583219247, ""node1"": 143723, ""node2"": 28945, ""type"": 28, ""w"": 27.0}]",r_associated,60.0
+four,180,nmod,NUM,0.4979606568813324,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+mettre,pot,obj,NOUN,0.5120734572410583,"[{""id"": 423957077, ""node1"": 132366, ""node2"": 142367, ""type"": 0, ""w"": 30.0}, {""id"": 376065861, ""node1"": 132366, ""node2"": 142367, ""type"": 31, ""w"": 32.0}]",r_action_lieu,32.0
+pot,eau,nmod,NOUN,0.5976811647415161,"[{""id"": 415003515, ""node1"": 142367, ""node2"": 65012, ""type"": 0, ""w"": 26.0}, {""id"": 1769590, ""node1"": 142367, ""node2"": 65012, ""type"": 666, ""w"": 2.0}]",r_associated,26.0
+pot,four,nmod,NOUN,0.6480904817581177,"[{""id"": 602053332, ""node1"": 142367, ""node2"": 9190, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+voir,cuisson,obj,NOUN,0.6055272817611694,[],,

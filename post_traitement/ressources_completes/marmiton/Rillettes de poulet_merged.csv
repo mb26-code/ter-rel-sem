@@ -1,0 +1,59 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+sel,poivre,acl,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,poulet,nmod,NOUN,0.7113944888114929,[],,
+casserole,chinois,obj,ADJ,0.5875259041786194,[],,
+casserole,cuillère,nmod,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,pinceau,appos,NOUN,0.5075318813323975,[],,
+pinceau,saladier,nmod,NOUN,0.5370374321937561,[],,
+saladier,louche,appos,NOUN,0.6017233729362488,[],,
+pinceau,étape,nmod,NOUN,0.4064047634601593,[],,
+casserole,casser,acl,VERB,0.5979247093200684,[],,
+casser,panne,obj,NOUN,0.4129740297794342,"[{""id"": 98296332, ""node1"": 63509, ""node2"": 141490, ""type"": 23, ""w"": 28.0}]",r_carac-1,28.0
+reste,casserole,nmod,NOUN,0.6193510890007019,[],,
+récipient,ajouter,acl,VERB,0.5716271996498108,[],,
+placer,chacun,obj,PRON,0.4108990728855133,[],,
+chacun,feu,nmod,NOUN,0.5491362810134888,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+prélever,chair,obj,NOUN,0.4956865310668945,[],,
+chair,poulet,nmod,NOUN,0.6056862473487854,[],,
+placer,carcasse,obj,NOUN,0.5055328607559204,[],,
+couper,carcasse,obj,NOUN,0.5205973982810974,[],,
+cuire,remuer,advcl,VERB,0.6866573691368103,[],,
+remuer,temps,obj,NOUN,0.5274296998977661,[],,
+mesure,cuisson,nmod,NOUN,0.6582615375518799,[],,
+détacher,chair,nsubj,NOUN,0.5029214024543762,[],,
+prélever,morceau,obj,NOUN,0.5246049165725708,"[{""id"": 97459351, ""node1"": 27502, ""node2"": 65364, ""type"": 0, ""w"": 15.0}]",r_associated,15.0
+morceau,chair,nmod,NOUN,0.5567143559455872,[],,
+morceau,carcasse,nmod,NOUN,0.5592774152755737,[],,
+morceau,cocotte,nmod,NOUN,0.690019965171814,[],,
+passer,jus,obj,NOUN,0.5783351063728333,[],,
+jus,casserole,nmod,NOUN,0.6282526254653931,[],,
+jus,chinois,nmod,NOUN,0.5671948790550232,[],,
+mélange,cocotte,nmod,NOUN,0.7099169492721558,[],,
+arrêter,cuisson,obj,NOUN,0.6741373538970947,"[{""id"": 372620649, ""node1"": 28778, ""node2"": 60056, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+enlever,poivrer,advcl,VERB,0.4875488579273224,[],,
+louche,petit,amod,ADJ,0.53850257396698,[],,
+prélever,gras,obj,NOUN,0.5405341386795044,[],,
+casserole,petit,amod,ADJ,0.6468310356140137,[],,
+commencer,gras,nsubj,NOUN,0.5254271626472473,[],,
+pot,garder,acl,VERB,0.5140745043754578,[],,
+garder,pot,obj,NOUN,0.5140745043754578,[],,
+pot,acheter,acl,VERB,0.5050234198570251,[],,
+pot,petit,amod,ADJ,0.5189867615699768,"[{""id"": 247112, ""node1"": 142367, ""node2"": 55222, ""type"": 17, ""w"": 57.0}]",r_carac,57.0
+pot,verre,nmod,NOUN,0.5260409116744995,"[{""id"": 214332, ""node1"": 142367, ""node2"": 144497, ""type"": 0, ""w"": 113.0}, {""id"": 553491, ""node1"": 142367, ""node2"": 144497, ""type"": 5, ""w"": 143.0}, {""id"": 379181, ""node1"": 142367, ""node2"": 144497, ""type"": 8, ""w"": 84.0}, {""id"": 376056095, ""node1"": 142367, ""node2"": 144497, ""type"": 50, ""w"": 26.0}, {""id"": 998193396, ""node1"": 142367, ""node2"": 144497, ""type"": 666, ""w"": 3.0}]",r_syn,143.0
+verre,style,nmod,NOUN,0.5196985006332397,[],,
+pot,parfait,amod,ADJ,0.4981609284877777,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+fondre,gras,obj,NOUN,0.5689229369163513,[],,
+gras,casserole,nmod,NOUN,0.6245520710945129,"[{""id"": 368008061, ""node1"": 56362, ""node2"": 57253, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+fermer,pot,obj,NOUN,0.4947909414768219,"[{""id"": 558644745, ""node1"": 24346, ""node2"": 142367, ""type"": 0, ""w"": 27.0}, {""id"": 376066443, ""node1"": 24346, ""node2"": 142367, ""type"": 31, ""w"": 34.0}]",r_action_lieu,34.0
+devoir,peau,nsubj,NOUN,0.4764030277729034,"[{""id"": 981692606, ""node1"": 132443, ""node2"": 109785, ""type"": 9, ""w"": 25.0}]",r_has_part,25.0
+peau,poulet,nmod,NOUN,0.6015353202819824,"[{""id"": 796711876, ""node1"": 109785, ""node2"": 146261, ""type"": 0, ""w"": 30.0}, {""id"": 10010854, ""node1"": 109785, ""node2"": 146261, ""type"": 10, ""w"": 4.0}]",r_associated,30.0
+faire,partie,obj,NOUN,0.463935911655426,[],,
+morceau,aller,acl:relcl,VERB,0.4946105182170868,[],,
+garder,foie,nsubj:pass,NOUN,0.5696395039558411,[],,
+histoire,goût,nmod,NOUN,0.5440146923065186,[],,
+chose,autre,amod,ADJ,0.4386973679065704,"[{""id"": 906732439, ""node1"": 109527, ""node2"": 7574, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+herbe,autre,amod,ADJ,0.4647101163864136,[],,
+chose,herbe,appos,NOUN,0.5256213545799255,[],,

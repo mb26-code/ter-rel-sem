@@ -1,0 +1,20 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+alcool,ingrédient,nmod,NOUN,0.5709686279296875,[],,
+ingrédient,sucre,appos,NOUN,0.7083083987236023,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]",r_associated,70.0
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,raisin,nmod,NOUN,0.6217536926269531,[],,
+sucre,jus,nmod,NOUN,0.6386624574661255,[],,
+jus,orange,nmod,NOUN,0.5570237040519714,"[{""id"": 237499, ""node1"": 53310, ""node2"": 145382, ""type"": 0, ""w"": 204.0}, {""id"": 10003691, ""node1"": 53310, ""node2"": 145382, ""type"": 10, ""w"": 28.0}, {""id"": 3171890, ""node1"": 53310, ""node2"": 145382, ""type"": 106, ""w"": 5.0}, {""id"": 1771771, ""node1"": 53310, ""node2"": 145382, ""type"": 666, ""w"": 6.0}]",r_associated,204.0
+orange,pêche,appos,NOUN,0.5049933791160583,"[{""id"": 799190329, ""node1"": 145382, ""node2"": 145624, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+pêche,citron,nmod,NOUN,0.5843027234077454,[],,
+sirop,cannelle,amod,ADJ,0.654565691947937,"[{""id"": 376056361, ""node1"": 91109, ""node2"": 112959, ""type"": 50, ""w"": 28.0}]",r_object>mater,28.0
+mettre,servir,advcl,VERB,0.4629862010478973,[],,
+bouteille,tout,amod,ADJ,0.5534811615943909,[],,
+mettre,bouteille,obj,NOUN,0.5194457769393921,[],,
+ajouter,fruit,obj,NOUN,0.5211451053619385,[],,
+fruit,saison,nmod,NOUN,0.5062740445137024,[],,
+fruit,couper,acl,VERB,0.53367018699646,"[{""id"": 1045720747, ""node1"": 87286, ""node2"": 128828, ""type"": 24, ""w"": 43.0}, {""id"": 10744513, ""node1"": 87286, ""node2"": 128828, ""type"": 25, ""w"": 81.0}]",r_instr-1,81.0
+ajouter,poire,obj,NOUN,0.5642398595809937,[],,
+pomme,orange,nmod,NOUN,0.5522155165672302,"[{""id"": 423545862, ""node1"": 37201, ""node2"": 145382, ""type"": 0, ""w"": 39.0}, {""id"": 1074615755, ""node1"": 37201, ""node2"": 145382, ""type"": 6, ""w"": -25.0}, {""id"": 4965480, ""node1"": 37201, ""node2"": 145382, ""type"": 777, ""w"": 2.0}]",r_associated,39.0
+pomme,melon,nmod,NOUN,0.5931446552276611,[],,
+servir,frais,obj,NOUN,0.4840525686740875,"[{""id"": 560379713, ""node1"": 7888, ""node2"": 53495, ""type"": 0, ""w"": 31.0}]",r_associated,31.0

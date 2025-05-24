@@ -1,0 +1,51 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,poire,amod,ADJ,0.5133748054504395,[],,
+crème,pâtissier,amod,ADJ,0.6173038482666016,"[{""id"": 561269853, ""node1"": 44001, ""node2"": 31618, ""type"": 0, ""w"": 41.0}]",r_associated,41.0
+figue,ingrédient,nmod,NOUN,0.5971629023551941,[],,
+figue,beurre,acl,NOUN,0.6597411036491394,[],,
+beurre,sucre,nmod,NOUN,0.6973879933357239,"[{""id"": 500926020, ""node1"": 140377, ""node2"": 139481, ""type"": 0, ""w"": 2.0}]",r_associated,2.0
+sucre,sucre,nmod,NOUN,0.6199788451194763,"[{""id"": 335264, ""node1"": 139481, ""node2"": 139481, ""type"": 19, ""w"": 142.0}, {""id"": 93901596, ""node1"": 139481, ""node2"": 139481, ""type"": 50, ""w"": -27.0}, {""id"": 376041081, ""node1"": 139481, ""node2"": 139481, ""type"": 51, ""w"": 28.0}]",r_lemma,142.0
+sucre,farine,nmod,NOUN,0.699601411819458,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]",r_associated,47.0
+sucre,figue,nmod,NOUN,0.6641230583190918,[],,
+figue,lait,nmod,NOUN,0.622147262096405,[],,
+lait,jaune,nmod,NOUN,0.5952747464179993,"[{""id"": 12979907, ""node1"": 86296, ""node2"": 86711, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]",r_associated,598.0
+oeuf,macaron,amod,NOUN,0.550093412399292,[],,
+macaron,amande,appos,NOUN,0.5353640913963318,"[{""id"": 417509858, ""node1"": 104390, ""node2"": 28557, ""type"": 0, ""w"": 15.0}, {""id"": 13099585, ""node1"": 104390, ""node2"": 28557, ""type"": 28, ""w"": 26.0}, {""id"": 987918822, ""node1"": 104390, ""node2"": 28557, ""type"": 666, ""w"": 2.0}, {""id"": 7427240, ""node1"": 104390, ""node2"": 28557, ""type"": 777, ""w"": 10.0}]",r_lieu-1,26.0
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+casserole,cuillère,obj,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,saladier,nmod,NOUN,0.6106023788452148,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+saladier,poche,appos,NOUN,0.508141279220581,[],,
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+Faites,sirop,obj,NOUN,0.5811690092086792,[],,
+eau,morceau,nmod,NOUN,0.6057385206222534,[],,
+morceau,sucre,nmod,NOUN,0.6897159218788147,"[{""id"": 1675143, ""node1"": 65364, ""node2"": 139481, ""type"": 0, ""w"": 62.0}, {""id"": 349614082, ""node1"": 65364, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 720817978, ""node1"": 65364, ""node2"": 139481, ""type"": 174, ""w"": 25.0}]",r_associated,62.0
+eau,bouillir,nmod,VERB,0.6033914685249329,"[{""id"": 796865828, ""node1"": 65012, ""node2"": 42401, ""type"": 0, ""w"": 28.0}, {""id"": 14831508, ""node1"": 65012, ""node2"": 42401, ""type"": 24, ""w"": 59.0}, {""id"": 15074479, ""node1"": 65012, ""node2"": 42401, ""type"": 26, ""w"": 35.0}, {""id"": 600063502, ""node1"": 65012, ""node2"": 42401, ""type"": 27, ""w"": 31.0}, {""id"": 380404023, ""node1"": 65012, ""node2"": 42401, ""type"": 30, ""w"": 32.0}]",r_agent-1,59.0
+couper,poire,obj,NOUN,0.5387133359909058,"[{""id"": 914973947, ""node1"": 128828, ""node2"": 146033, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+min,sirop,amod,NOUN,0.4775394201278686,[],,
+sirop,poire,nmod,NOUN,0.6156255602836609,"[{""id"": 561357506, ""node1"": 91109, ""node2"": 146033, ""type"": 0, ""w"": 56.0}]",r_associated,56.0
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,blanchiment,nmod,NOUN,0.5241221189498901,[],,
+Ajoutez,farine,obj,NOUN,0.5776846408843994,[],,
+farine,fouetter,acl,VERB,0.6208580732345581,[],,
+bouillir,lait,obj,NOUN,0.646347165107727,"[{""id"": 797436792, ""node1"": 42401, ""node2"": 86296, ""type"": 0, ""w"": 28.0}, {""id"": 153576, ""node1"": 42401, ""node2"": 86296, ""type"": 14, ""w"": 160.0}, {""id"": 352516472, ""node1"": 42401, ""node2"": 86296, ""type"": 31, ""w"": 29.0}]",r_patient,160.0
+dessus,fouetter,acl,VERB,0.4653864800930023,[],,
+préparation,tout,amod,ADJ,0.5226712822914124,[],,
+remettre,préparation,obj,NOUN,0.4857743680477142,[],,
+préparation,casserole,nmod,NOUN,0.6797515153884888,"[{""id"": 601611407, ""node1"": 33634, ""node2"": 57253, ""type"": 0, ""w"": 16.0}]",r_associated,16.0
+feu,vif,amod,ADJ,0.5094798803329468,"[{""id"": 418102926, ""node1"": 143703, ""node2"": 80204, ""type"": 0, ""w"": 13.0}, {""id"": 221184, ""node1"": 143703, ""node2"": 80204, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
+ajouter,beurre,obj,NOUN,0.658586859703064,"[{""id"": 373014956, ""node1"": 25099, ""node2"": 140377, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+arroser,macaron,nsubj,NOUN,0.5660049319267273,[],,
+disposer,figue,obj,NOUN,0.5472429394721985,[],,
+figue,couper,acl,VERB,0.5536930561065674,[],,
+macaron,déposer,acl,VERB,0.5029230117797852,[],,
+déposer,dôme,obj,NOUN,0.4430368542671203,[],,
+dôme,crème,nmod,NOUN,0.5529575347900391,[],,
+crème,poche,nmod,NOUN,0.5458101034164429,[],,
+servir,qui,nsubj,PRON,0.4278677403926849,[],,
+sirop,servir,acl:relcl,VERB,0.6523295640945435,[],,
+frais,service,nmod,NOUN,0.4059808254241943,"[{""id"": 1047764729, ""node1"": 53495, ""node2"": 24247, ""type"": 0, ""w"": 30.0}]",r_associated,30.0

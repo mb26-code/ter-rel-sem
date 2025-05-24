@@ -1,0 +1,32 @@
+node1,node2,relations
+titre,ingrédient,[]
+sel,huile,"[{""id"": 917898976, ""node1"": 13260, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]"
+sel,farine,[]
+sel,manioc,[]
+ingrédient,oeuf,"[{""id"": 243484684, ""node1"": 123418, ""node2"": 116175, ""type"": 8, ""w"": 35.0}]"
+oeuf,lait,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]"
+lait,saladier,[]
+saladier,Spatule,[]
+four,top,"[{""id"": 509203905, ""node1"": 9190, ""node2"": 61057, ""type"": 17, ""w"": 27.0}]"
+plaque,meilleur,[]
+top,plaque,[]
+plaque,four,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]"
+papier,meilleur,[]
+top,papier,[]
+balance,cuisine,[]
+balance,réfrigérateur,[]
+réfrigérateur,étape,[]
+mettre,farine,"[{""id"": 427128973, ""node1"": 132366, ""node2"": 127629, ""type"": 0, ""w"": 26.0}, {""id"": 427128972, ""node1"": 132366, ""node2"": 127629, ""type"": 14, ""w"": 100.0}]"
+bouillir,huile,[]
+verser,mélange,[]
+saladier,remuer,"[{""id"": 892357354, ""node1"": 45455, ""node2"": 125556, ""type"": 0, ""w"": 20.0}, {""id"": 368239502, ""node1"": 45455, ""node2"": 125556, ""type"": 30, ""w"": 35.0}]"
+remuer,spatule,"[{""id"": 798892170, ""node1"": 125556, ""node2"": 141075, ""type"": 0, ""w"": 24.0}, {""id"": 166035, ""node1"": 125556, ""node2"": 141075, ""type"": 16, ""w"": 80.0}]"
+homogène,pâte,"[{""id"": 372195, ""node1"": 124759, ""node2"": 34069, ""type"": 0, ""w"": 80.0}, {""id"": 372674698, ""node1"": 124759, ""node2"": 34069, ""type"": 23, ""w"": 2.0}]"
+ajouter,fromage,[]
+fromage,râpé,"[{""id"": 12302415, ""node1"": 141687, ""node2"": 52123, ""type"": 0, ""w"": 35.0}, {""id"": 570495, ""node1"": 141687, ""node2"": 52123, ""type"": 5, ""w"": 34.0}, {""id"": 25028576, ""node1"": 141687, ""node2"": 52123, ""type"": 8, ""w"": 26.0}, {""id"": 383306, ""node1"": 141687, ""node2"": 52123, ""type"": 17, ""w"": 129.0}]"
+retravailler,pâte,[]
+boule,petit,[]
+confectionner,boule,[]
+boule,paume,[]
+grille,four,"[{""id"": 11786989, ""node1"": 563, ""node2"": 9190, ""type"": 0, ""w"": 51.0}, {""id"": 9977203, ""node1"": 563, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 11353886, ""node1"": 563, ""node2"": 9190, ""type"": 15, ""w"": 38.0}]"
+four,recouvrir,[]

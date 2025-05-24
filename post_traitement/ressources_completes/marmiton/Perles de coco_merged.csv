@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,perle,nmod,NOUN,0.4455548822879791,[],,
+perle,ingrédient,nmod,NOUN,0.5700419545173645,[],,
+noix,coco,nmod,ADV,0.5701965689659119,"[{""id"": 1924690, ""node1"": 30910, ""node2"": 145904, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+sucre,gingembre,nmod,NOUN,0.6843656301498413,[],,
+sucre,noix,nmod,NOUN,0.6710987687110901,[],,
+sucre,coco,nmod,ADV,0.6447168588638306,[],,
+sucre,lait,nmod,NOUN,0.6437966823577881,[],,
+perle,saladier,appos,NOUN,0.5815483331680298,[],,
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+perle,chauffer,acl,VERB,0.5927768349647522,[],,
+chauffer,assiette,obj,NOUN,0.7127128839492798,[],,
+assiette,assiette,nmod,NOUN,0.5744389891624451,"[{""id"": 281688, ""node1"": 62735, ""node2"": 62735, ""type"": 19, ""w"": 53.0}]",r_lemma,53.0
+assiette,creux,amod,ADJ,0.5143321752548218,"[{""id"": 9991966, ""node1"": 62735, ""node2"": 53673, ""type"": 0, ""w"": 4.0}, {""id"": 1882219, ""node1"": 62735, ""node2"": 53673, ""type"": 9, ""w"": 90.0}]",r_has_part,90.0
+perle,étape,nmod,NOUN,0.4311504364013672,[],,
+perle,mettre,acl,VERB,0.5097418427467346,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+mettre,ingrédient,obj,NOUN,0.5923328399658203,[],,
+mélanger,obtenir,advcl,VERB,0.4532898962497711,[],,
+obtenir,pâte,obj,NOUN,0.6173189282417297,[],,
+pâte,ferme,amod,ADJ,0.6196715235710144,"[{""id"": 548418662, ""node1"": 34069, ""node2"": 29786, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+faire,mélange,nmod,NOUN,0.5801020860671997,[],,
+mélange,boule,nmod,NOUN,0.5727057456970215,[],,
+faire,paume,nmod,NOUN,0.4632628262042999,[],,
+panier,cuit,nmod,NOUN,0.6988435387611389,[],,
+cuire,le,obj,PRON,0.4500194191932678,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+fin,rouler,acl,VERB,0.4562172889709472,[],,
+rouler,disposer,acl,VERB,0.4453260004520416,[],,

@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relation
+titre,vin,appos,NOUN,0.586053192615509,[]
+vin,feuille,nmod,NOUN,0.627544641494751,[]
+feuille,pêcher,acl,VERB,0.4952085316181183,"[{""id"": 283878398, ""node1"": 37993, ""node2"": 26507, ""type"": 0, ""w"": 10.0}, {""id"": 9986305, ""node1"": 37993, ""node2"": 26507, ""type"": 10, ""w"": 9.0}]"
+vin,ingrédient,nmod,NOUN,0.6430637836456299,"[{""id"": 578506236, ""node1"": 35798, ""node2"": 123418, ""type"": 6, ""w"": 69.0}]"
+vin,sucre,nmod,NOUN,0.681702196598053,"[{""id"": 716283715, ""node1"": 35798, ""node2"": 139481, ""type"": 0, ""w"": 22.0}, {""id"": 525755342, ""node1"": 35798, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]"
+sucre,vin,nmod,NOUN,0.681702196598053,[]
+sucre,rouge,amod,ADJ,0.6558119058609009,[]
+titre,feuille,nmod,NOUN,0.4326170086860657,"[{""id"": 1022997, ""node1"": 7970, ""node2"": 37993, ""type"": 0, ""w"": 26.0}]"
+pêcher,sucre,obj,NOUN,0.6340452432632446,"[{""id"": 558788226, ""node1"": 26507, ""node2"": 139481, ""type"": 0, ""w"": 31.0}]"
+titre,alcool,nmod,NOUN,0.4750665426254272,"[{""id"": 282742543, ""node1"": 7970, ""node2"": 47597, ""type"": 0, ""w"": 30.0}, {""id"": 283022055, ""node1"": 7970, ""node2"": 47597, ""type"": 3, ""w"": 10.0}, {""id"": 282593782, ""node1"": 7970, ""node2"": 47597, ""type"": 35, ""w"": 15.0}]"
+alcool,feuille,nmod,NOUN,0.547545313835144,"[{""id"": 3367156, ""node1"": 47597, ""node2"": 37993, ""type"": 777, ""w"": 1.0}]"
+grand,récipient,nmod,NOUN,0.5309901833534241,[]
+récipient,balance,nmod,NOUN,0.5678063631057739,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+récipient,étape,nmod,NOUN,0.4915405809879303,[]
+sécher,feuille,obj,NOUN,0.547785758972168,[]
+cueillir,litre,nmod,NOUN,0.4776176810264587,[]
+litre,vin,nmod,NOUN,0.5949437022209167,"[{""id"": 15759327, ""node1"": 57416, ""node2"": 35798, ""type"": 0, ""w"": 23.0}, {""id"": 53608835, ""node1"": 57416, ""node2"": 35798, ""type"": 5, ""w"": 64.0}, {""id"": 4788012, ""node1"": 57416, ""node2"": 35798, ""type"": 777, ""w"": 10.0}]"
+litre,ôter,acl,VERB,0.5070495009422302,[]
+ôter,verre,obj,NOUN,0.5413954854011536,[]
+récipient,grand,amod,ADJ,0.5309901833534241,[]
+mettre,récipient,nsubj,NOUN,0.567443311214447,[]
+récipient,fermer,amod,VERB,0.4852892160415649,"[{""id"": 2124429, ""node1"": 89628, ""node2"": 24346, ""type"": 25, ""w"": 57.0}]"
+mettre,feuille,obj,NOUN,0.4968929886817932,[]
+retirer,feuille,obj,NOUN,0.4820106327533722,[]
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]"
+ajouter,alcool,obj,NOUN,0.5239517092704773,[]
+alcool,choisir,acl,VERB,0.4929081201553345,[]
+faire,rustique,obj,ADJ,0.5699794888496399,[]
+tourne,cave,nsubj,NOUN,0.4565363228321075,[]

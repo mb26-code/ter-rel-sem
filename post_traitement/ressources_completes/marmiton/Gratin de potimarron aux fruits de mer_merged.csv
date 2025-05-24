@@ -1,0 +1,47 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,gratin,nmod,NOUN,0.4893978536128998,[],,
+gratin,fruit,nmod,NOUN,0.5871053338050842,"[{""id"": 606766294, ""node1"": 12942, ""node2"": 87286, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+fruit,mer,nmod,PROPN,0.493258386850357,[],,
+gratin,ingrédient,nmod,NOUN,0.6309539079666138,[],,
+gratin,muscade,nmod,NOUN,0.623066782951355,[],,
+gratin,poivre,amod,NOUN,0.702695906162262,"[{""id"": 608019552, ""node1"": 12942, ""node2"": 139597, ""type"": 0, ""w"": 17.0}, {""id"": 606747343, ""node1"": 12942, ""node2"": 139597, ""type"": 9, ""w"": 51.0}]",r_has_part,51.0
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+coriandre,gingembre,nmod,NOUN,0.6166588068008423,[],,
+gingembre,fruit,nmod,NOUN,0.5677575469017029,[],,
+fruit,sirop,nmod,NOUN,0.6000692248344421,"[{""id"": 796701800, ""node1"": 87286, ""node2"": 91109, ""type"": 0, ""w"": 26.0}, {""id"": 9985699, ""node1"": 87286, ""node2"": 91109, ""type"": 10, ""w"": 4.0}]",r_associated,26.0
+fruit,lait,nmod,NOUN,0.596720814704895,"[{""id"": 386072935, ""node1"": 87286, ""node2"": 86296, ""type"": 8, ""w"": -25.0}]",r_hypo,-25.0
+lait,épice,nmod,NOUN,0.7057909965515137,[],,
+lait,poisson,nmod,NOUN,0.6517372727394104,[],,
+poisson,pain,appos,NOUN,0.7038393616676331,[],,
+lait,jus,nmod,NOUN,0.608954906463623,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+jus,amande,appos,NOUN,0.6102201342582703,[],,
+jus,Plat,nmod,PROPN,0.5995047092437744,[],,
+Plat,gratin,nmod,NOUN,0.4779236614704132,[],,
+jus,four,nmod,NOUN,0.704914391040802,[],,
+four,couteau,nmod,NOUN,0.6828393340110779,[],,
+couteau,robot,nmod,NOUN,0.5287081599235535,[],,
+four,pâtissier,amod,ADJ,0.6676128506660461,"[{""id"": 787794848, ""node1"": 9190, ""node2"": 31618, ""type"": 122, ""w"": 25.0}, {""id"": 479237233, ""node1"": 9190, ""node2"": 31618, ""type"": 156, ""w"": 38.0}]",r_is_used_by,38.0
+four,mixeur,nmod,NOUN,0.6762216091156006,[],,
+mixeur,saladier,nmod,NOUN,0.581632137298584,[],,
+saladier,planche,nmod,NOUN,0.5950928330421448,[],,
+gingembre,découper,advcl,VERB,0.6185086965560913,[],,
+découper,étape,obj,NOUN,0.4244579374790191,[],,
+four,200,nmod,NUM,0.5053980350494385,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+moule,gratin,nmod,NOUN,0.5707870125770569,[],,
+ôter,pépin,obj,NOUN,0.4377419948577881,[],,
+découper,chair,obj,NOUN,0.5210556387901306,[],,
+chair,cube,nmod,NOUN,0.5404148101806641,[],,
+déposer,morceau,obj,NOUN,0.5327123999595642,[],,
+morceau,moule,nmod,NOUN,0.5650922060012817,[],,
+sirop,érable,nmod,NOUN,0.5714671611785889,"[{""id"": 389230, ""node1"": 91109, ""node2"": 69625, ""type"": 0, ""w"": 134.0}, {""id"": 420294, ""node1"": 91109, ""node2"": 69625, ""type"": 9, ""w"": 54.0}]",r_associated,134.0
+ajouter,noix,obj,ADV,0.5746623277664185,[],,
+noix,muscade,nmod,NOUN,0.5663605332374573,"[{""id"": 796773628, ""node1"": 30910, ""node2"": 115297, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+mixer,amande,obj,NOUN,0.6082270741462708,[],,
+mixer,coriandre,obj,NOUN,0.614994466304779,[],,
+couper,saumon,obj,NOUN,0.6225590705871582,[],,
+déposer,fruit,obj,NOUN,0.5090960264205933,[],,
+mélange,mixer,acl,VERB,0.5591198801994324,"[{""id"": 21093412, ""node1"": 14800, ""node2"": 12170, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+four,minute,nmod,NOUN,0.6574273109436035,[],,

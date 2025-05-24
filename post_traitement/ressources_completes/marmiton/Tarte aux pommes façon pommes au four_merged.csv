@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+sirop,pomme,amod,NOUN,0.6552410125732422,"[{""id"": 561004786, ""node1"": 91109, ""node2"": 37201, ""type"": 0, ""w"": 40.0}]",r_associated,40.0
+pomme,façon,nmod,NOUN,0.5694174766540527,"[{""id"": 418275918, ""node1"": 37201, ""node2"": 81363, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+pomme,pomme,nmod,NOUN,0.5247272253036499,"[{""id"": 324939, ""node1"": 37201, ""node2"": 37201, ""type"": 19, ""w"": 57.0}]",r_lemma,57.0
+four,ingrédient,nmod,NOUN,0.7253534197807312,[],,
+pomme,sucre,appos,NOUN,0.7055277824401855,"[{""id"": 96711509, ""node1"": 37201, ""node2"": 139481, ""type"": 0, ""w"": 26.0}, {""id"": 96711585, ""node1"": 37201, ""node2"": 139481, ""type"": 9, ""w"": 31.0}, {""id"": 4965769, ""node1"": 37201, ""node2"": 139481, ""type"": 777, ""w"": 2.0}]",r_has_part,31.0
+sucre,purée,nmod,NOUN,0.7456426024436951,"[{""id"": 914773421, ""node1"": 139481, ""node2"": 16444, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+sucre,pâte,nmod,NOUN,0.7055894136428833,"[{""id"": 1011319149, ""node1"": 139481, ""node2"": 34069, ""type"": 0, ""w"": 10.0}, {""id"": 376037855, ""node1"": 139481, ""node2"": 34069, ""type"": 51, ""w"": 35.0}]",r_mater>object,35.0
+pomme,feuilleter,acl,VERB,0.560140073299408,[],,
+tarte,sirop,nmod,NOUN,0.6757754683494568,"[{""id"": 588372703, ""node1"": 575, ""node2"": 91109, ""type"": 0, ""w"": 4.0}, {""id"": 110795963, ""node1"": 575, ""node2"": 91109, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+sirop,lait,nmod,NOUN,0.6239028573036194,"[{""id"": 375556, ""node1"": 91109, ""node2"": 86296, ""type"": 0, ""w"": 51.0}]",r_associated,51.0
+sirop,four,appos,NOUN,0.7348562479019165,[],,
+four,moule,nmod,NOUN,0.6459261178970337,"[{""id"": 914324367, ""node1"": 9190, ""node2"": 143723, ""type"": 0, ""w"": 20.0}, {""id"": 149292258, ""node1"": 9190, ""node2"": 143723, ""type"": 28, ""w"": 71.0}]",r_lieu-1,71.0
+moule,tarte,nmod,NOUN,0.598731517791748,"[{""id"": 201624, ""node1"": 143723, ""node2"": 575, ""type"": 0, ""w"": 130.0}]",r_associated,130.0
+four,économe,nmod,NOUN,0.6647013425827026,[],,
+économe,couteau,nmod,NOUN,0.5018488168716431,"[{""id"": 11472222, ""node1"": 14706, ""node2"": 32610, ""type"": 0, ""w"": 51.0}, {""id"": 9916571, ""node1"": 14706, ""node2"": 32610, ""type"": 6, ""w"": 55.0}, {""id"": 539969426, ""node1"": 14706, ""node2"": 32610, ""type"": 35, ""w"": -25.0}, {""id"": 1786595, ""node1"": 14706, ""node2"": 32610, ""type"": 666, ""w"": 5.0}]",r_isa,55.0
+économe,pinceau,nmod,NOUN,0.4334880113601684,[],,
+pinceau,planche,nmod,NOUN,0.4613240659236908,[],,
+sirop,découper,acl,VERB,0.6353185176849365,[],,
+découper,balance,obj,NOUN,0.4950466752052307,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+tarte,Laver,flat:name,PROPN,0.4972433745861053,[],,
+éplucher,pomme,obj,NOUN,0.5793353319168091,"[{""id"": 399665, ""node1"": 59879, ""node2"": 37201, ""type"": 0, ""w"": 54.0}, {""id"": 423699, ""node1"": 59879, ""node2"": 37201, ""type"": 14, ""w"": 100.0}, {""id"": 980640573, ""node1"": 59879, ""node2"": 37201, ""type"": 666, ""w"": 2.0}]",r_patient,100.0
+découper,pâte,obj,NOUN,0.631547212600708,"[{""id"": 97862160, ""node1"": 45686, ""node2"": 34069, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+pâte,feuilleter,acl,VERB,0.6172106862068176,"[{""id"": 880403533, ""node1"": 34069, ""node2"": 13838, ""type"": 0, ""w"": 20.0}, {""id"": 288441883, ""node1"": 34069, ""node2"": 13838, ""type"": 26, ""w"": 31.0}]",r_patient-1,31.0
+milieu,pomme,nmod,NOUN,0.5783141851425171,[],,
+déposer,cuillère,obj,NOUN,0.5286773443222046,[],,
+cuillère,purée,nmod,NOUN,0.6572161912918091,"[{""id"": 914773429, ""node1"": 51905, ""node2"": 16444, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+purée,sésame,nmod,NOUN,0.6803329586982727,[],,
+morceau,sucre,nmod,NOUN,0.6897159218788147,"[{""id"": 1675143, ""node1"": 65364, ""node2"": 139481, ""type"": 0, ""w"": 62.0}, {""id"": 349614082, ""node1"": 65364, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 720817978, ""node1"": 65364, ""node2"": 139481, ""type"": 174, ""w"": 25.0}]",r_associated,62.0
+bande,pâte,nmod,NOUN,0.5705278515815735,[],,
+lait,riz,nmod,NOUN,0.6671203374862671,"[{""id"": 796934421, ""node1"": 86296, ""node2"": 24372, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+four,180,nmod,NUM,0.4979606568813324,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,

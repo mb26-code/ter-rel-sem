@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relations
+plat,anglais,amod,ADJ,0.5871748328208923,[]
+plat,composer,acl,VERB,0.5854783058166504,[]
+composer,saucisse,nmod,NOUN,0.5735839009284973,[]
+saucisse,cuire,acl,VERB,0.7612306475639343,"[{""id"": 588759287, ""node1"": 77807, ""node2"": 5115, ""type"": 0, ""w"": 45.0}, {""id"": 98286794, ""node1"": 77807, ""node2"": 5115, ""type"": 26, ""w"": 30.0}]"
+plat,pâte,nmod,NOUN,0.7331801652908325,"[{""id"": 10575269, ""node1"": 36327, ""node2"": 34069, ""type"": 0, ""w"": 55.0}, {""id"": 9622397, ""node1"": 36327, ""node2"": 34069, ""type"": 8, ""w"": 21.0}, {""id"": 98683441, ""node1"": 36327, ""node2"": 34069, ""type"": 42, ""w"": 26.0}]"
+pâte,ressembler,acl:relcl,VERB,0.63567054271698,[]
+légume,purée,nmod,NOUN,0.7079809308052063,"[{""id"": 742247, ""node1"": 120603, ""node2"": 16444, ""type"": 0, ""w"": 28.0}]"
+ressemblance,plat,nmod,NOUN,0.5950777530670166,[]
+ressemblance,crapaud,nmod,NOUN,0.4040556848049164,[]
+crapaud,passer,acl,VERB,0.5190028548240662,[]
+tête,petit,amod,ADJ,0.5074819326400757,"[{""id"": 76554529, ""node1"": 144846, ""node2"": 55222, ""type"": 0, ""w"": -28.0}, {""id"": 76418550, ""node1"": 144846, ""node2"": 55222, ""type"": 10, ""w"": 34.0}]"
+passer,tête,obj,NOUN,0.4688150584697723,"[{""id"": 796635965, ""node1"": 28108, ""node2"": 144846, ""type"": 14, ""w"": 30.0}]"
+tête,trou,nmod,NOUN,0.4470799565315246,[]
+trou,donner,acl,VERB,0.4601824581623077,[]
+mentionner,recette,nsubj,NOUN,0.6107165813446045,[]
+recette,donner,acl,VERB,0.6031222939491272,"[{""id"": 373070379, ""node1"": 120188, ""node2"": 12941, ""type"": 26, ""w"": 30.0}]"
+mentionner,saucisse,obj,NOUN,0.5776689052581787,[]
+morceau,type,nmod,NOUN,0.5176004767417908,[]
+type,viande,nmod,NOUN,0.6670215725898743,[]
+morceau,acheter,acl,VERB,0.5346781611442566,[]
+soir,cher,amod,ADJ,0.4233801662921905,[]
+définition,saucisse,nmod,NOUN,0.5538042187690735,[]
+plat,autre,amod,ADJ,0.6218559145927429,[]
+décrire,plat,obj,NOUN,0.6164023876190186,[]
+œuf,poule,nmod,NOUN,0.5131134986877441,"[{""id"": 1689608, ""node1"": 174124, ""node2"": 37194, ""type"": 0, ""w"": 255.0}, {""id"": 9112587, ""node1"": 174124, ""node2"": 37194, ""type"": 35, ""w"": 35.0}]"
+œuf,déposer,acl,VERB,0.5451503992080688,[]
+trou,couper,acl,VERB,0.4800015985965729,[]
+tranche,pain,nmod,NOUN,0.6442369222640991,"[{""id"": 240074, ""node1"": 143123, ""node2"": 61283, ""type"": 0, ""w"": 221.0}, {""id"": 97833247, ""node1"": 143123, ""node2"": 61283, ""type"": 3, ""w"": 10.0}, {""id"": 9992595, ""node1"": 143123, ""node2"": 61283, ""type"": 10, ""w"": 4.0}, {""id"": 97327248, ""node1"": 143123, ""node2"": 61283, ""type"": 35, ""w"": 30.0}, {""id"": 775213283, ""node1"": 143123, ""node2"": 61283, ""type"": 174, ""w"": 25.0}]"
+originaire,plat,nsubj,NOUN,0.6056763529777527,[]
+projet,autre,amod,ADJ,0.4316383004188537,[]

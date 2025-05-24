@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,oignon,appos,NOUN,0.6626235842704773,"[{""id"": 24923430, ""node1"": 123418, ""node2"": 123307, ""type"": 0, ""w"": 15.0}, {""id"": 24850729, ""node1"": 123418, ""node2"": 123307, ""type"": 8, ""w"": 28.0}]",r_hypo,28.0
+oignon,tomate,nmod,NOUN,0.6465381383895874,[],,
+oignon,cognac,amod,ADJ,0.6144091486930847,[],,
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+titre,couteau,nmod,NOUN,0.4826497733592987,[],,
+couteau,mixeur,nmod,NOUN,0.573357105255127,[],,
+casserole,couvercle,obj,NOUN,0.6508210897445679,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]",r_has_part,100.0
+couvercle,étape,nmod,NOUN,0.4822983145713806,[],,
+peau,fin,amod,ADJ,0.4956728816032409,"[{""id"": 21113668, ""node1"": 109785, ""node2"": 144718, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+enlever,peau,obj,NOUN,0.4885257482528686,"[{""id"": 15076500, ""node1"": 82345, ""node2"": 109785, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+recouvrir,qui,nsubj,PRON,0.4051336944103241,[],,
+peau,recouvrir,acl:relcl,VERB,0.5037719011306763,"[{""id"": 8797982, ""node1"": 109785, ""node2"": 26206, ""type"": 25, ""w"": 0.0}]",r_instr-1,0.0
+recouvrir,corps,obj,NOUN,0.4453473687171936,[],,
+rondelle,couper,amod,VERB,0.4930605292320251,"[{""id"": 28747931, ""node1"": 71106, ""node2"": 128828, ""type"": 0, ""w"": 61.0}]",r_associated,61.0
+couper,corps,obj,NOUN,0.4663144946098327,"[{""id"": 376067670, ""node1"": 128828, ""node2"": 74846, ""type"": 31, ""w"": 27.0}]",r_action_lieu,27.0
+corps,rondelle,nmod,NOUN,0.4840740859508514,[],,
+couper,oignon,obj,NOUN,0.596168577671051,"[{""id"": 435065584, ""node1"": 128828, ""node2"": 123307, ""type"": 0, ""w"": 29.0}, {""id"": 31770866, ""node1"": 128828, ""node2"": 123307, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+rondelle,fin,amod,ADJ,0.4580791592597961,[],,
+chauffer,huile,obj,NOUN,0.64256751537323,[],,
+revenir,remuer,advcl,VERB,0.5150187611579895,[],,
+remuer,temps,obj,NOUN,0.5274296998977661,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+fondre,oignon,obj,NOUN,0.6370865702629089,[],,
+fondre,prendre,advcl,VERB,0.4831388890743255,[],,
+prendre,couleur,obj,NOUN,0.4832141399383545,[],,
+ajouter,ail,obj,NOUN,0.5651978254318237,[],,
+ajouter,tomate,obj,NOUN,0.6318210363388062,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 30.0}]",r_agent,30.0
+ajouter,poivrer,advcl,VERB,0.4842216670513153,[],,
+poursuivre,cuisson,obj,NOUN,0.6843500733375549,[],,
+cuisson,feu,nmod,NOUN,0.6483181118965149,"[{""id"": 53757049, ""node1"": 60056, ""node2"": 143703, ""type"": 0, ""w"": 22.0}, {""id"": 53594904, ""node1"": 60056, ""node2"": 143703, ""type"": 5, ""w"": 65.0}, {""id"": 14675290, ""node1"": 60056, ""node2"": 143703, ""type"": 42, ""w"": 35.0}, {""id"": 1066090857, ""node1"": 60056, ""node2"": 143703, ""type"": 129, ""w"": 28.0}]",r_syn,65.0
+heure,laisser,acl,VERB,0.4083273708820343,[],,
+laisser,couvercle,obj,NOUN,0.5285670161247253,[],,
+préférer,sauce,obj,NOUN,0.6580870747566223,[],,
+sauce,épais,amod,ADJ,0.6604486703872681,[],,

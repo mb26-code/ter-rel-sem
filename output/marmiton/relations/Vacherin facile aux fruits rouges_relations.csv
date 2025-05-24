@@ -1,0 +1,54 @@
+node1,node2,relations
+fruit,ingrédient,[]
+sucre,glace,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -126.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]"
+sucre,oeuf,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]"
+sucre,crème,"[{""id"": 915278756, ""node1"": 139481, ""node2"": 44001, ""type"": 0, ""w"": 22.0}]"
+crème,frais,[]
+sucre,liquide,"[{""id"": 558788617, ""node1"": 139481, ""node2"": 140315, ""type"": 0, ""w"": 49.0}]"
+sucre,sucre,"[{""id"": 335264, ""node1"": 139481, ""node2"": 139481, ""type"": 19, ""w"": 142.0}, {""id"": 93901596, ""node1"": 139481, ""node2"": 139481, ""type"": 50, ""w"": -27.0}, {""id"": 376041081, ""node1"": 139481, ""node2"": 139481, ""type"": 51, ""w"": 28.0}]"
+sucre,vanillé,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]"
+fruit,rouge,"[{""id"": 640137316, ""node1"": 87286, ""node2"": 86356, ""type"": 0, ""w"": 96.0}, {""id"": 2171760, ""node1"": 87286, ""node2"": 86356, ""type"": 17, ""w"": 26.0}, {""id"": 3160627, ""node1"": 87286, ""node2"": 86356, ""type"": 106, ""w"": 22.0}]"
+coulis,fruit,"[{""id"": 220069, ""node1"": 10401, ""node2"": 87286, ""type"": 0, ""w"": 51.0}]"
+saladier,moule,[]
+congélateur,balance,[]
+balance,cuisine,[]
+balance,réfrigérateur,[]
+réfrigérateur,plat,"[{""id"": 399515136, ""node1"": 128721, ""node2"": 36327, ""type"": 0, ""w"": 100.0}, {""id"": 13501043, ""node1"": 128721, ""node2"": 36327, ""type"": 28, ""w"": 60.0}]"
+réfrigérateur,étape,[]
+réfrigérateur,préparation,[]
+préparation,glace,"[{""id"": 243492507, ""node1"": 33634, ""node2"": 141964, ""type"": 8, ""w"": 27.0}]"
+mettre,plat,"[{""id"": 513445480, ""node1"": 132366, ""node2"": 36327, ""type"": 0, ""w"": 30.0}, {""id"": 559393289, ""node1"": 132366, ""node2"": 36327, ""type"": 14, ""w"": 100.0}, {""id"": 513445479, ""node1"": 132366, ""node2"": 36327, ""type"": 31, ""w"": 26.0}]"
+réfrigérateur,crème,"[{""id"": 10634834, ""node1"": 128721, ""node2"": 44001, ""type"": 28, ""w"": 177.0}]"
+crème,entier,[]
+jaune,blanc,"[{""id"": 357085, ""node1"": 86711, ""node2"": 15196, ""type"": 0, ""w"": 190.0}, {""id"": 539955988, ""node1"": 86711, ""node2"": 15196, ""type"": 5, ""w"": -25.0}, {""id"": 174286, ""node1"": 86711, ""node2"": 15196, ""type"": 7, ""w"": 120.0}]"
+blanc,œuf,"[{""id"": 796769193, ""node1"": 15196, ""node2"": 174124, ""type"": 0, ""w"": 28.0}]"
+plat,premier,[]
+mélanger,jaune,[]
+jaune,sucre,[]
+plat,second,[]
+monter,blanc,[]
+blanc,neige,"[{""id"": 116991, ""node1"": 15196, ""node2"": 3699, ""type"": 0, ""w"": 509.77}, {""id"": 117866, ""node1"": 15196, ""node2"": 3699, ""type"": 23, ""w"": 320.0}, {""id"": 1622496, ""node1"": 15196, ""node2"": 3699, ""type"": 666, ""w"": 12.0}]"
+neige,ferme,[]
+plat,troisième,[]
+plat,placer,[]
+monter,crème,[]
+crème,chantilly,"[{""id"": 432348, ""node1"": 44001, ""node2"": 56698, ""type"": 0, ""w"": 59.0}, {""id"": 652229615, ""node1"": 44001, ""node2"": 56698, ""type"": 666, ""w"": 2.0}]"
+crème,sucre,"[{""id"": 561269855, ""node1"": 44001, ""node2"": 139481, ""type"": 0, ""w"": 61.0}]"
+jaune,œuf,"[{""id"": 558764775, ""node1"": 86711, ""node2"": 174124, ""type"": 0, ""w"": 36.0}]"
+alternativement,crème,[]
+crème,neige,[]
+obtention,crème,[]
+montage,fond,[]
+fond,moule,"[{""id"": 796741908, ""node1"": 119272, ""node2"": 143723, ""type"": 0, ""w"": 30.0}, {""id"": 961890616, ""node1"": 119272, ""node2"": 143723, ""type"": 10, ""w"": 25.0}]"
+montage,cake,[]
+cake,coulis,[]
+moitié,crème,[]
+meringue,dessus,[]
+dessus,crème,[]
+couche,fin,[]
+ajouter,couche,[]
+couche,fruit,[]
+couche,coulis,[]
+ajouter,reste,[]
+reste,crème,[]
+nombre,couche,[]

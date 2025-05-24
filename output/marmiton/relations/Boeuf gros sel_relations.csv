@@ -1,0 +1,69 @@
+node1,node2,relations
+titre,boeuf,[]
+sel,gros,"[{""id"": 188164, ""node1"": 13260, ""node2"": 88096, ""type"": 0, ""w"": 60.0}, {""id"": 645838, ""node1"": 13260, ""node2"": 88096, ""type"": 17, ""w"": 60.0}]"
+boeuf,sel,[]
+sel,ingrédient,"[{""id"": 24850730, ""node1"": 13260, ""node2"": 123418, ""type"": 0, ""w"": 35.0}, {""id"": 24842131, ""node1"": 13260, ""node2"": 123418, ""type"": 6, ""w"": 47.0}]"
+boeuf,carotte,[]
+carotte,sel,[]
+boeuf,feuille,[]
+feuille,laurier,"[{""id"": 15624759, ""node1"": 37993, ""node2"": 114548, ""type"": 0, ""w"": 29.0}, {""id"": 14620301, ""node1"": 37993, ""node2"": 114548, ""type"": 10, ""w"": 36.0}]"
+feuille,clou,[]
+clou,plat,[]
+clou,moelle,[]
+moelle,bouillon,"[{""id"": 989728600, ""node1"": 119571, ""node2"": 146582, ""type"": 666, ""w"": 2.0}]"
+bouillon,légume,"[{""id"": 152250, ""node1"": 146582, ""node2"": 120603, ""type"": 0, ""w"": 55.0}]"
+bouillon,ail,"[{""id"": 558647560, ""node1"": 146582, ""node2"": 26979, ""type"": 0, ""w"": 27.0}]"
+échalote,pomme,[]
+échalote,terre,[]
+terre,huile,[]
+huile,noix,"[{""id"": 374335, ""node1"": 141971, ""node2"": 30910, ""type"": 0, ""w"": 81.0}, {""id"": 2319254, ""node1"": 141971, ""node2"": 30910, ""type"": 42, ""w"": 70.0}]"
+couteau,bol,[]
+bol,plat,"[{""id"": 8544458, ""node1"": 145405, ""node2"": 36327, ""type"": 28, ""w"": 46.0}]"
+bouillir,litre,[]
+litre,eau,"[{""id"": 2458362, ""node1"": 57416, ""node2"": 65012, ""type"": 0, ""w"": 84.0}, {""id"": 15759326, ""node1"": 57416, ""node2"": 65012, ""type"": 28, ""w"": 10.0}, {""id"": 720818422, ""node1"": 57416, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 980526881, ""node1"": 57416, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]"
+eau,fonction,[]
+eau,taille,"[{""id"": 1030663608, ""node1"": 65012, ""node2"": 142267, ""type"": 0, ""w"": 20.0}]"
+taille,cocotte,[]
+bouillon,cube,"[{""id"": 799190726, ""node1"": 146582, ""node2"": 6041, ""type"": 0, ""w"": 23.0}]"
+bouillon,pot,[]
+pot,feu,"[{""id"": 415003512, ""node1"": 142367, ""node2"": 143703, ""type"": 0, ""w"": 26.0}]"
+pot,correspondant,[]
+cela,air,[]
+cela,goût,[]
+ajouter,bouillon,[]
+oignon,piquer,[]
+oignon,girofle,[]
+ail,écraser,"[{""id"": 906193744, ""node1"": 26979, ""node2"": 52004, ""type"": 0, ""w"": 20.0}, {""id"": 98571281, ""node1"": 26979, ""node2"": 52004, ""type"": 26, ""w"": 40.0}]"
+plonger,viande,[]
+mousse,blanc,[]
+mousse,aller,[]
+tout,nécessaire,[]
+minute,cuisson,[]
+baisser,feu,[]
+enlever,couche,[]
+couche,gras,[]
+gras,durcir,[]
+feu,doux,[]
+servir,tenir,[]
+rajouter,carotte,[]
+tronçon,gros,[]
+carotte,tronçon,[]
+tronçon,aller,[]
+côté,pomme,[]
+pomme,terre,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+pomme,sauter,[]
+incontournable,betterave,[]
+récupérer,carotte,[]
+carotte,tendre,[]
+carotte,cuire,[]
+récupérer,couper,[]
+cube,petit,[]
+cube,sel,"[{""id"": 4242755, ""node1"": 6041, ""node2"": 13260, ""type"": 777, ""w"": 10.0}]"
+parfait,manger,[]
+manger,tiède,[]
+salade,petit,[]
+salade,vert,"[{""id"": 558712508, ""node1"": 118908, ""node2"": 26976, ""type"": 0, ""w"": 30.0}, {""id"": 3200451, ""node1"": 118908, ""node2"": 26976, ""type"": 17, ""w"": 30.0}, {""id"": 3160509, ""node1"": 118908, ""node2"": 26976, ""type"": 106, ""w"": 18.0}, {""id"": 1813836, ""node1"": 118908, ""node2"": 26976, ""type"": 666, ""w"": 4.0}]"
+salade,goût,[]
+cuire,viande,"[{""id"": 2182411, ""node1"": 5115, ""node2"": 140100, ""type"": 0, ""w"": 73.0}, {""id"": 148035, ""node1"": 5115, ""node2"": 140100, ""type"": 13, ""w"": 100.0}, {""id"": 206249, ""node1"": 5115, ""node2"": 140100, ""type"": 14, ""w"": 100.0}, {""id"": 722712577, ""node1"": 5115, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]"
+disposer,cuire,[]
+mettre,disposer,"[{""id"": 930323, ""node1"": 132366, ""node2"": 116780, ""type"": 0, ""w"": 93.0}, {""id"": 53610572, ""node1"": 132366, ""node2"": 116780, ""type"": 5, ""w"": 222.0}, {""id"": 1642751, ""node1"": 132366, ""node2"": 116780, ""type"": 35, ""w"": 90.0}, {""id"": 645788261, ""node1"": 132366, ""node2"": 116780, ""type"": 666, ""w"": 2.0}]"

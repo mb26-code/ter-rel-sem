@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+crêpe,indonésien,amod,ADJ,0.5607520341873169,[],,
+crêpe,fabriquer,acl,VERB,0.59621262550354,[],,
+farine,riz,nmod,NOUN,0.6880448460578918,"[{""id"": 423997352, ""node1"": 127629, ""node2"": 24372, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+lait,coco,nmod,ADV,0.5848121643066406,"[{""id"": 796793155, ""node1"": 86296, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+noix,coco,nmod,ADV,0.5649088025093079,"[{""id"": 1924690, ""node1"": 30910, ""node2"": 145904, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+avoir,goût,obj,NOUN,0.5262750387191772,[],,
+consommer,crêpe,nsubj:pass,NOUN,0.6321480870246887,"[{""id"": 94100608, ""node1"": 97571, ""node2"": 17186, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+sirop,sucre,nmod,NOUN,0.6353851556777954,"[{""id"": 217497, ""node1"": 91109, ""node2"": 139481, ""type"": 0, ""w"": 407.0}, {""id"": 415329, ""node1"": 91109, ""node2"": 139481, ""type"": 9, ""w"": 70.0}, {""id"": 1035329517, ""node1"": 91109, ""node2"": 139481, ""type"": 50, ""w"": 31.0}, {""id"": 984864968, ""node1"": 91109, ""node2"": 139481, ""type"": 666, ""w"": 3.0}]",r_associated,407.0
+sucre,coco,nmod,ADV,0.6310865879058838,[],,
+sucre,épais,amod,ADJ,0.617281436920166,[],,
+sucre,couleur,nmod,NOUN,0.66060870885849,[],,
+couleur,brun,amod,ADJ,0.4496252536773681,"[{""id"": 9901082, ""node1"": 40056, ""node2"": 14189, ""type"": 0, ""w"": 32.0}, {""id"": 252605, ""node1"": 40056, ""node2"": 14189, ""type"": 8, ""w"": 93.0}, {""id"": 3173217, ""node1"": 40056, ""node2"": 14189, ""type"": 106, ""w"": 1.0}, {""id"": 653326924, ""node1"": 40056, ""node2"": 14189, ""type"": 666, ""w"": 2.0}, {""id"": 3373324, ""node1"": 40056, ""node2"": 14189, ""type"": 777, ""w"": 6.0}]",r_hypo,93.0
+sucre,doré,amod,ADJ,0.6293256282806396,[],,
+version,autre,amod,ADJ,0.4466037154197693,"[{""id"": 463200565, ""node1"": 134208, ""node2"": 7574, ""type"": 17, ""w"": 46.0}]",r_carac,46.0
+version,saler,amod,ADJ,0.5979814529418945,[],,
+utiliser,qui,nsubj,PRON,0.4023291170597076,[],,
+version,utiliser,acl:relcl,VERB,0.4337360858917236,[],,
+utiliser,garniture,obj,NOUN,0.6120119094848633,[],,
+recette,province,nsubj,NOUN,0.5686618089675903,[],,
+recette,propre,amod,ADJ,0.6302428841590881,"[{""id"": 372564968, ""node1"": 120188, ""node2"": 118316, ""type"": 17, ""w"": 471.0}]",r_carac,471.0
+gâteau,traditionnel,amod,ADJ,0.617279052734375,"[{""id"": 93362788, ""node1"": 2149, ""node2"": 41139, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+gâteau,sembler,acl:relcl,VERB,0.5755637884140015,[],,

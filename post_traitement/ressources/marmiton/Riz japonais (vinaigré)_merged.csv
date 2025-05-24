@@ -1,0 +1,55 @@
+head,lemma,dep,pos,sim,relation
+riz,japonais,amod,ADJ,0.6315025687217712,"[{""id"": 3093907, ""node1"": 24372, ""node2"": 34713, ""type"": 0, ""w"": 32.0}]"
+casserole,ingrédient,nsubj,NOUN,0.7348343133926392,[]
+ingrédient,sel,appos,NOUN,0.6997572183609009,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]"
+sel,sucre,nmod,NOUN,0.6925632357597351,"[{""id"": 183179, ""node1"": 13260, ""node2"": 139481, ""type"": 0, ""w"": 182.0}, {""id"": 377013894, ""node1"": 13260, ""node2"": 139481, ""type"": 20, ""w"": 30.0}, {""id"": 377000348, ""node1"": 13260, ""node2"": 139481, ""type"": 21, ""w"": 28.0}, {""id"": 1032957125, ""node1"": 13260, ""node2"": 139481, ""type"": 78, ""w"": 32.0}]"
+sucre,vinaigre,nmod,NOUN,0.6951253414154053,[]
+vinaigre,riz,nmod,ADV,0.6922438144683838,"[{""id"": 1023005499, ""node1"": 145443, ""node2"": 24372, ""type"": 0, ""w"": 26.0}, {""id"": 3355970, ""node1"": 145443, ""node2"": 24372, ""type"": 777, ""w"": 10.0}]"
+sucre,eau,nmod,NOUN,0.6594484448432922,[]
+sel,top,nmod,NOUN,0.6398559212684631,[]
+casserole,saladier,obj,NOUN,0.6254573464393616,[]
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 32.0}]"
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,blender,nmod,NOUN,0.5797982215881348,[]
+cuillère,chauffer,acl,VERB,0.652341902256012,[]
+chauffer,balance,obj,NOUN,0.5568371415138245,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+balance,étape,nmod,NOUN,0.4149083495140075,[]
+balance,laver,appos,NOUN,0.5075414776802063,[]
+chauffer,fois,obj,NOUN,0.4897466897964477,[]
+résidu,tout,amod,PRON,0.5043548345565796,[]
+enlever,résidu,obj,NOUN,0.4438360631465912,[]
+mettre,riz,obj,NOUN,0.6785814762115479,[]
+clair,eau,nsubj,NOUN,0.5482907891273499,"[{""id"": 120394, ""node1"": 4215, ""node2"": 65012, ""type"": 0, ""w"": 60.0}]"
+rinçage,troisième,amod,ADJ,0.4650237262248993,[]
+bout,rinçage,nmod,NOUN,0.4886738955974579,[]
+riz,rincer,acl,VERB,0.6711073517799377,"[{""id"": 1041930527, ""node1"": 24372, ""node2"": 117283, ""type"": 26, ""w"": 34.0}]"
+tout,exemple,nmod,NOUN,0.4333436191082001,[]
+avoir,eau,obj,NOUN,0.5307751893997192,"[{""id"": 393603224, ""node1"": 31641, ""node2"": 65012, ""type"": 14, ""w"": 31.0}]"
+eau,niveau,nmod,NOUN,0.5359740853309631,"[{""id"": 915390486, ""node1"": 65012, ""node2"": 64681, ""type"": 0, ""w"": 20.0}]"
+faire,sorte,nmod,NOUN,0.4814893305301666,[]
+couvrir,eau,nsubj,NOUN,0.5730895400047302,[]
+couvrir,riz,obj,NOUN,0.6727244257926941,[]
+faire,couvrir,acl,VERB,0.4734631478786468,"[{""id"": 54304408, ""node1"": 87528, ""node2"": 119824, ""type"": 0, ""w"": 28.0}, {""id"": 53757485, ""node1"": 87528, ""node2"": 119824, ""type"": 5, ""w"": 103.0}]"
+couvercle,obligatoire,appos,ADJ,0.549206018447876,[]
+ébullition,premier,amod,ADJ,0.4579147696495056,[]
+mettre,ébullition,obj,NOUN,0.4929594993591308,[]
+feu,moyen,amod,ADJ,0.5528092384338379,[]
+essentiel,toucher,advcl,VERB,0.4262734651565552,[]
+toucher,couvercle,obj,NOUN,0.5475512742996216,[]
+essentiel,vapeur,nsubj,NOUN,0.5604348182678223,[]
+reposer,dizaine,obj,NOUN,0.4221612513065338,[]
+préparer,riz,nsubj,NOUN,0.6769457459449768,"[{""id"": 372620650, ""node1"": 36246, ""node2"": 24372, ""type"": 14, ""w"": 31.0}]"
+laisser,préparer,advcl,VERB,0.4371966123580932,[]
+chauffer,vinaigre,obj,NOUN,0.6993831396102905,[]
+chauffer,sucre,obj,NOUN,0.7090326547622681,[]
+bouillir,laisser,advcl,VERB,0.5562573671340942,[]
+mettre,sucre,nsubj,NOUN,0.6608524322509766,"[{""id"": 374875286, ""node1"": 132366, ""node2"": 139481, ""type"": 0, ""w"": 40.0}, {""id"": 374875285, ""node1"": 132366, ""node2"": 139481, ""type"": 14, ""w"": 100.0}]"
+sucre,fond,nmod,NOUN,0.6580548286437988,[]
+mettre,refroidir,advcl,VERB,0.4939008951187134,[]
+mettre,mélanger,advcl,VERB,0.4965955317020416,"[{""id"": 12296615, ""node1"": 132366, ""node2"": 37151, ""type"": 0, ""w"": 21.0}, {""id"": 578730, ""node1"": 132366, ""node2"": 37151, ""type"": 5, ""w"": 92.0}]"
+transformer,riz,nsubj,NOUN,0.6643366813659668,[]
+mélanger,transformer,advcl,VERB,0.5074833035469055,[]
+refroidir,riz,nsubj,NOUN,0.6982848644256592,[]
+prêt,froid,advcl,ADJ,0.4804603457450866,[]
+dégustation,bon,amod,ADJ,0.4751738309860229,"[{""id"": 561348579, ""node1"": 107364, ""node2"": 144229, ""type"": 0, ""w"": 31.0}]"

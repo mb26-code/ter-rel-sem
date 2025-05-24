@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,vinaigre,acl,NOUN,0.6862488389015198,[],,
+vinaigre,sel,nmod,NOUN,0.683134913444519,"[{""id"": 2147403, ""node1"": 145443, ""node2"": 13260, ""type"": 0, ""w"": 80.0}]",r_associated,80.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,huile,amod,NOUN,0.6777899265289307,"[{""id"": 917898979, ""node1"": 139597, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+ingrédient,jaune,amod,NOUN,0.5969056487083435,"[{""id"": 3180284, ""node1"": 123418, ""node2"": 86711, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]",r_associated,598.0
+oeuf,fin,amod,ADJ,0.5480808019638062,[],,
+oeuf,herbe,amod,NOUN,0.5455087423324585,[],,
+ingrédient,échalote,acl,NOUN,0.6557566523551941,[],,
+ingrédient,cercle,nmod,NOUN,0.5162429213523865,[],,
+cercle,pâtisserie,nmod,NOUN,0.4923855662345886,[],,
+pâtisserie,fouet,nmod,NOUN,0.5595348477363586,"[{""id"": 899205146, ""node1"": 25966, ""node2"": 73888, ""type"": 0, ""w"": 21.0}, {""id"": 3393670, ""node1"": 25966, ""node2"": 73888, ""type"": 777, ""w"": 8.0}]",r_associated,21.0
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+fouet,bol,nmod,NOUN,0.5365910530090332,[],,
+bol,saladier,nmod,NOUN,0.5367903709411621,"[{""id"": 796872211, ""node1"": 145405, ""node2"": 45455, ""type"": 0, ""w"": 28.0}, {""id"": 1029292999, ""node1"": 145405, ""node2"": 45455, ""type"": 67, ""w"": 34.0}]",r_similar,34.0
+bol,étape,nmod,NOUN,0.5393725633621216,[],,
+ingrédient,mettre,acl,VERB,0.5923328399658203,[],,
+mettre,jaune,obj,NOUN,0.5214491486549377,[],,
+jaune,sel,nmod,NOUN,0.6715523600578308,[],,
+obtention,mayonnaise,nmod,NOUN,0.5137233138084412,[],,
+mettre,cuillère,obj,NOUN,0.5546635389328003,[],,
+cuillère,vinaigre,nmod,NOUN,0.6678558588027954,[],,
+tout,mayonnaise,nmod,NOUN,0.5770608186721802,[],,
+voilà,sauce,obj,NOUN,0.6392742395401001,[],,
+accompagnement,crevette,nmod,NOUN,0.5738805532455444,[],,
+crevette,apéritif,appos,NOUN,0.614422082901001,[],,

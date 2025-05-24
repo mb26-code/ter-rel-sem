@@ -1,0 +1,16 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,brioche,nmod,NOUN,0.5583317279815674,[],,
+brioche,perdre,acl,VERB,0.6070446968078613,[],,
+cassonade,ingrédient,nmod,NOUN,0.6860116124153137,[],,
+brioche,beurre,amod,NOUN,0.7098933458328247,"[{""id"": 98291890, ""node1"": 140188, ""node2"": 140377, ""type"": 0, ""w"": 35.0}, {""id"": 98291891, ""node1"": 140188, ""node2"": 140377, ""type"": 50, ""w"": 16.0}, {""id"": 1792395, ""node1"": 140188, ""node2"": 140377, ""type"": 666, ""w"": 5.0}, {""id"": 3978637, ""node1"": 140188, ""node2"": 140377, ""type"": 777, ""w"": 10.0}]",r_associated,35.0
+beurre,brioche,appos,NOUN,0.7098933458328247,"[{""id"": 799190680, ""node1"": 140377, ""node2"": 140188, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+brioche,oeuf,nmod,NOUN,0.6001212000846863,"[{""id"": 98291887, ""node1"": 140188, ""node2"": 116175, ""type"": 50, ""w"": 21.0}, {""id"": 1792396, ""node1"": 140188, ""node2"": 116175, ""type"": 666, ""w"": 3.0}]",r_object>mater,21.0
+oeuf,cassonade,nmod,NOUN,0.5834254026412964,[],,
+pinceau,balance,nmod,NOUN,0.4696744382381439,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+brioche,étape,nmod,NOUN,0.5176399946212769,[],,
+titre,tranche,nmod,NOUN,0.4047322571277618,[],,
+tranche,brioche,nmod,NOUN,0.577802836894989,[],,
+tranche,oeuf,nmod,NOUN,0.5456212759017944,[],,
+oeuf,battre,acl,VERB,0.5256416201591492,"[{""id"": 15064344, ""node1"": 116175, ""node2"": 119162, ""type"": 26, ""w"": 34.0}]",r_patient-1,34.0
+cassonade,côté,nmod,NOUN,0.5661281943321228,[],,

@@ -1,0 +1,27 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,pate,nmod,NOUN,0.5627180337905884,[],,
+pate,sauce,nmod,NOUN,0.6615222692489624,[],,
+sauce,tomate,amod,ADV,0.7022931575775146,"[{""id"": 2221325, ""node1"": 141110, ""node2"": 22138, ""type"": 0, ""w"": 74.0}, {""id"": 10528848, ""node1"": 141110, ""node2"": 22138, ""type"": 9, ""w"": 26.0}, {""id"": 11333947, ""node1"": 141110, ""node2"": 22138, ""type"": 28, ""w"": 38.0}, {""id"": 96715050, ""node1"": 141110, ""node2"": 22138, ""type"": 50, ""w"": 16.0}, {""id"": 651031294, ""node1"": 141110, ""node2"": 22138, ""type"": 666, ""w"": 4.0}]",r_associated,74.0
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+titre,persil,nmod,NOUN,0.5552043318748474,[],,
+titre,boulette,nmod,NOUN,0.4638309478759765,[],,
+boulette,viande,nmod,NOUN,0.6934407949447632,"[{""id"": 158031, ""node1"": 112360, ""node2"": 140100, ""type"": 0, ""w"": 82.0}, {""id"": 1013983190, ""node1"": 112360, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]",r_associated,82.0
+titre,casserole,nmod,NOUN,0.5580013990402222,[],,
+set,poêle,obj,NOUN,0.5301709771156311,[],,
+poêle,couteau,nmod,NOUN,0.6776712536811829,[],,
+set,mixeur,nmod,NOUN,0.4433817863464355,[],,
+mixeur,plat,nmod,ADJ,0.656880259513855,[],,
+mixeur,étape,nmod,NOUN,0.5223461985588074,[],,
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+couper,oignon,obj,NOUN,0.596168577671051,"[{""id"": 435065584, ""node1"": 128828, ""node2"": 123307, ""type"": 0, ""w"": 29.0}, {""id"": 31770866, ""node1"": 128828, ""node2"": 123307, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+oignon,doré,amod,ADJ,0.595569372177124,"[{""id"": 477556851, ""node1"": 123307, ""node2"": 47964, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+incorporer,boulette,obj,NOUN,0.5735219120979309,[],,
+boulette,poêle,nmod,NOUN,0.6690402626991272,[],,
+prendre,plat,obj,NOUN,0.6132282018661499,"[{""id"": 368488351, ""node1"": 86306, ""node2"": 36327, ""type"": 0, ""w"": 28.0}, {""id"": 368488350, ""node1"": 86306, ""node2"": 36327, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+prendre,verser,advcl,VERB,0.4515309333801269,[],,
+verser,pate,obj,NOUN,0.5919188857078552,[],,
+pate,boulette,appos,NOUN,0.5633748769760132,[],,
+boulette,oignon,nmod,NOUN,0.6462682485580444,[],,
+verser,coulis,obj,NOUN,0.5790910720825195,[],,
+coulis,sauce,nmod,NOUN,0.6962512731552124,"[{""id"": 817060, ""node1"": 10401, ""node2"": 141110, ""type"": 0, ""w"": 33.0}, {""id"": 1072261193, ""node1"": 10401, ""node2"": 141110, ""type"": 666, ""w"": 2.0}]",r_associated,33.0
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]",r_carac-1,5.0

@@ -1,0 +1,43 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+légume,ingrédient,nmod,NOUN,0.6797090172767639,[],,
+légume,beurre,acl,NOUN,0.7702774405479431,[],,
+légume,crème,amod,NOUN,0.7267745137214661,[],,
+légume,tomate,nmod,NOUN,0.674208402633667,"[{""id"": 123781, ""node1"": 120603, ""node2"": 22138, ""type"": 0, ""w"": 204.0}, {""id"": 428771, ""node1"": 120603, ""node2"": 22138, ""type"": 8, ""w"": 160.0}, {""id"": 15191932, ""node1"": 120603, ""node2"": 22138, ""type"": 27, ""w"": -21.0}, {""id"": 989823699, ""node1"": 120603, ""node2"": 22138, ""type"": 666, ""w"": 3.0}]",r_associated,204.0
+légume,poireau,nmod,NOUN,0.653212308883667,"[{""id"": 179309, ""node1"": 120603, ""node2"": 130303, ""type"": 0, ""w"": 291.0}, {""id"": 426545, ""node1"": 120603, ""node2"": 130303, ""type"": 8, ""w"": 163.0}, {""id"": 15191955, ""node1"": 120603, ""node2"": 130303, ""type"": 27, ""w"": -13.0}]",r_associated,291.0
+légume,pomme,nmod,NOUN,0.6490887999534607,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,bouillon,nmod,NOUN,0.675999104976654,"[{""id"": 914309700, ""node1"": 37201, ""node2"": 146582, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+pomme,louche,appos,NOUN,0.6174519658088684,[],,
+pomme,mixeur,nmod,NOUN,0.6513398289680481,[],,
+mixeur,plonger,acl,VERB,0.5584041476249695,[],,
+légume,chauffer,acl,VERB,0.7558048367500305,[],,
+chauffer,couteau,obj,NOUN,0.6349921822547913,[],,
+légume,marmite,nmod,NOUN,0.7662506103515625,[],,
+marmite,couvercle,nmod,NOUN,0.6582636833190918,"[{""id"": 10530071, ""node1"": 146096, ""node2"": 89523, ""type"": 9, ""w"": 9.0}, {""id"": 1001369524, ""node1"": 146096, ""node2"": 89523, ""type"": 666, ""w"": 3.0}]",r_has_part,9.0
+couvercle,cocotte,nmod,NOUN,0.6516067981719971,"[{""id"": 98634682, ""node1"": 89523, ""node2"": 120952, ""type"": 0, ""w"": 19.0}, {""id"": 98313574, ""node1"": 89523, ""node2"": 120952, ""type"": 10, ""w"": 35.0}, {""id"": 5745846, ""node1"": 89523, ""node2"": 120952, ""type"": 777, ""w"": 10.0}]",r_holo,35.0
+minute,mixeur,nmod,NOUN,0.5543594360351562,[],,
+mixeur,cuillère,nmod,NOUN,0.5916650295257568,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+couper,légume,obj,NOUN,0.6484079957008362,"[{""id"": 435065646, ""node1"": 128828, ""node2"": 120603, ""type"": 0, ""w"": 26.0}, {""id"": 15079599, ""node1"": 128828, ""node2"": 120603, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+légume,morceau,nmod,NOUN,0.6784549951553345,[],,
+revenir,poireau,obj,NOUN,0.620061993598938,[],,
+marmite,autre,amod,ADJ,0.6298192739486694,[],,
+marmite,mettre,acl,VERB,0.6345762610435486,[],,
+légume,autre,amod,ADJ,0.6339733600616455,[],,
+mettre,légume,obj,NOUN,0.6695612072944641,[],,
+ajouter,moitié,obj,NOUN,0.4683646261692047,[],,
+moitié,bouillon,nmod,NOUN,0.6029936671257019,[],,
+bouillon,cube,amod,NOUN,0.5364071130752563,"[{""id"": 799190726, ""node1"": 146582, ""node2"": 6041, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+recouvrir,poireau,obj,NOUN,0.6172086000442505,[],,
+poireau,eau,nmod,NOUN,0.6301286816596985,[],,
+ajouter,reste,obj,NOUN,0.454963743686676,[],,
+reste,bouillon,nmod,NOUN,0.6053631901741028,[],,
+légume,carotte,appos,NOUN,0.6620327234268188,"[{""id"": 123776, ""node1"": 120603, ""node2"": 76234, ""type"": 0, ""w"": 643.0}, {""id"": 112455, ""node1"": 120603, ""node2"": 76234, ""type"": 8, ""w"": 228.0}, {""id"": 15192007, ""node1"": 120603, ""node2"": 76234, ""type"": 27, ""w"": -27.0}, {""id"": 1029203703, ""node1"": 120603, ""node2"": 76234, ""type"": 67, ""w"": 28.0}, {""id"": 989823698, ""node1"": 120603, ""node2"": 76234, ""type"": 666, ""w"": 3.0}]",r_associated,643.0
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+poireau,mixer,acl,VERB,0.6276260614395142,[],,
+mélanger,tout,obj,NOUN,0.528428852558136,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]",r_patient,110.0
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]",r_carac-1,5.0

@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relation
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[]
+ingrédient,sucre,acl,NOUN,0.7083083987236023,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]"
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]"
+poudre,crème,amod,NOUN,0.6194026470184326,"[{""id"": 602100050, ""node1"": 139470, ""node2"": 44001, ""type"": 0, ""w"": 15.0}]"
+crème,liquide,amod,ADJ,0.6173139810562134,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]"
+amande,poudre,nmod,NOUN,0.5705900192260742,[]
+casserole,saladier,nmod,NOUN,0.6254573464393616,[]
+saladier,lot,appos,NOUN,0.4176084697246551,[]
+saladier,balance,nmod,NOUN,0.5669676065444946,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+cuisine,frigo,nmod,NOUN,0.6375747919082642,"[{""id"": 118986, ""node1"": 16033, ""node2"": 45624, ""type"": 0, ""w"": 305.0}, {""id"": 9973132, ""node1"": 16033, ""node2"": 45624, ""type"": 9, ""w"": 10.0}, {""id"": 15222678, ""node1"": 16033, ""node2"": 45624, ""type"": 27, ""w"": 27.0}, {""id"": 151638, ""node1"": 16033, ""node2"": 45624, ""type"": 28, ""w"": 868.0}]"
+frigo,étape,nmod,NOUN,0.5452443957328796,[]
+verser,crème,obj,NOUN,0.6168469786643982,[]
+conserver,cuillère,obj,NOUN,0.5827995538711548,[]
+cuillère,soupe,acl,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]"
+gratter,grain,obj,NOUN,0.5233604907989502,[]
+grain,gousse,nmod,NOUN,0.5566942691802979,[]
+gousse,vanille,nmod,NOUN,0.5133623480796814,"[{""id"": 723347912, ""node1"": 3889, ""node2"": 140463, ""type"": 0, ""w"": 27.0}, {""id"": 671656975, ""node1"": 3889, ""node2"": 140463, ""type"": 58, ""w"": 25.0}, {""id"": 714921745, ""node1"": 3889, ""node2"": 140463, ""type"": 666, ""w"": 3.0}]"
+ajouter,gousse,obj,NOUN,0.4987163245677948,[]
+vanille,liquide,amod,ADJ,0.6113808155059814,[]
+poudre,cuillère,nmod,NOUN,0.6090611219406128,"[{""id"": 765218102, ""node1"": 139470, ""node2"": 51905, ""type"": 58, ""w"": 30.0}]"
+soupe,crème,nmod,NOUN,0.6830318570137024,"[{""id"": 729556086, ""node1"": 117152, ""node2"": 44001, ""type"": 0, ""w"": 36.0}, {""id"": 216637777, ""node1"": 117152, ""node2"": 44001, ""type"": 50, ""w"": 32.0}, {""id"": 663289934, ""node1"": 117152, ""node2"": 44001, ""type"": 666, ""w"": 4.0}]"
+chauffer,mélange,obj,NOUN,0.6403862833976746,[]
+mélange,crème,amod,NOUN,0.6523904204368591,[]
+feu,doux,amod,ADJ,0.5496628284454346,[]
+chauffer,mélanger,advcl,VERB,0.5907781720161438,[]
+mélanger,temps,obj,NOUN,0.5195341110229492,[]
+devoir,crème,nsubj,NOUN,0.5928213000297546,[]
+ébullition,devoir,acl:relcl,VERB,0.4402978122234344,[]
+chauffer,pouvoir,advcl,VERB,0.502104640007019,[]
+enlever,résidu,obj,NOUN,0.4438360631465912,[]
+passer,couteau,obj,NOUN,0.5565838813781738,[]
+colle,cela,nsubj,PRON,0.4570681452751159,[]
+mettre,colle,advcl,VERB,0.4498886466026306,[]
+fond,eau,nmod,NOUN,0.581144392490387,"[{""id"": 96691076, ""node1"": 119272, ""node2"": 65012, ""type"": 0, ""w"": 37.0}, {""id"": 98303780, ""node1"": 119272, ""node2"": 65012, ""type"": 9, ""w"": 30.0}]"
+eau,chaud,amod,ADJ,0.6026924252510071,"[{""id"": 915041142, ""node1"": 65012, ""node2"": 19150, ""type"": 0, ""w"": 20.0}, {""id"": 432164, ""node1"": 65012, ""node2"": 19150, ""type"": 17, ""w"": 131.0}]"
+décorer,inspiration,nmod,NOUN,0.4349620342254638,[]

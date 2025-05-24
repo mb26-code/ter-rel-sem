@@ -1,0 +1,43 @@
+head,lemma,dep,pos,sim,relation
+pâte,pizza,nmod,NOUN,0.6624228358268738,"[{""id"": 2005, ""node1"": 34069, ""node2"": 109533, ""type"": 0, ""w"": 138.0}, {""id"": 9622249, ""node1"": 34069, ""node2"": 109533, ""type"": 8, ""w"": -16.0}, {""id"": 9983345, ""node1"": 34069, ""node2"": 109533, ""type"": 10, ""w"": 48.0}, {""id"": 24920569, ""node1"": 34069, ""node2"": 109533, ""type"": 15, ""w"": 17.0}, {""id"": 1010158373, ""node1"": 34069, ""node2"": 109533, ""type"": 70, ""w"": -25.0}]"
+ingrédient,levure,nmod,NOUN,0.6170762777328491,[]
+levure,boulanger,nmod,NOUN,0.5430918335914612,"[{""id"": 1769594, ""node1"": 53450, ""node2"": 145285, ""type"": 0, ""w"": 90.0}, {""id"": 376186762, ""node1"": 53450, ""node2"": 145285, ""type"": 25, ""w"": 26.0}]"
+boulanger,frais,amod,ADJ,0.4631998240947723,[]
+boulanger,sel,nmod,NOUN,0.6785151362419128,"[{""id"": 203696, ""node1"": 145285, ""node2"": 13260, ""type"": 16, ""w"": 70.0}]"
+sel,sucre,nmod,NOUN,0.6925632357597351,"[{""id"": 183179, ""node1"": 13260, ""node2"": 139481, ""type"": 0, ""w"": 182.0}, {""id"": 377013894, ""node1"": 13260, ""node2"": 139481, ""type"": 20, ""w"": 30.0}, {""id"": 377000348, ""node1"": 13260, ""node2"": 139481, ""type"": 21, ""w"": 28.0}, {""id"": 1032957125, ""node1"": 13260, ""node2"": 139481, ""type"": 78, ""w"": 32.0}]"
+sucre,farine,nmod,NOUN,0.699601411819458,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]"
+sucre,fécule,nmod,NOUN,0.6530432105064392,[]
+fécule,pomme,nmod,NOUN,0.6095135807991028,[]
+fécule,terre,nmod,NOUN,0.6049109101295471,"[{""id"": 1066636226, ""node1"": 30818, ""node2"": 25705, ""type"": 666, ""w"": 2.0}]"
+sucre,eau,nmod,NOUN,0.6594484448432922,[]
+eau,huile,acl,NOUN,0.5881909728050232,"[{""id"": 922137128, ""node1"": 65012, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]"
+levure,saladier,nmod,NOUN,0.6177852153778076,[]
+saladier,Spatule,nmod,PROPN,0.4745384156703949,[]
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]"
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,batteur,nmod,NOUN,0.5600376725196838,[]
+batteur,électrique,amod,ADJ,0.4791879951953888,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+balance,plat,appos,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]"
+cuillère,étape,nmod,NOUN,0.4685819745063782,[]
+saladier,grand,amod,ADJ,0.534858763217926,"[{""id"": 1077330492, ""node1"": 45455, ""node2"": 23178, ""type"": 0, ""w"": 50.0}, {""id"": 31838076, ""node1"": 45455, ""node2"": 23178, ""type"": 17, ""w"": 60.0}, {""id"": 1668931, ""node1"": 45455, ""node2"": 23178, ""type"": 666, ""w"": 2.0}]"
+cuillère,saladier,nmod,NOUN,0.6106023788452148,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]"
+ingrédient,mélanger,acl,VERB,0.6362285614013672,"[{""id"": 770758779, ""node1"": 123418, ""node2"": 37151, ""type"": 26, ""w"": 31.0}]"
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]"
+spatule,bois,nmod,NOUN,0.5679187774658203,"[{""id"": 96703712, ""node1"": 141075, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 96703702, ""node1"": 141075, ""node2"": 96256, ""type"": 50, ""w"": 24.0}]"
+ajouter,levure,obj,NOUN,0.5709071159362793,[]
+prendre,batteur,obj,NOUN,0.4867206215858459,[]
+avoir,forme,obj,NOUN,0.4045662581920624,[]
+ajouter,eau,obj,NOUN,0.5629687905311584,[]
+eau,progressivement,amod,ADV,0.5376254916191101,[]
+puissance,batteur,nmod,NOUN,0.4628613293170929,[]
+nécessaire,ajouter,advcl,VERB,0.426310658454895,[]
+ajouter,totalité,obj,NOUN,0.4368654489517212,[]
+totalité,eau,nmod,NOUN,0.5477176904678345,[]
+Ajoutez,huile,obj,NOUN,0.5403907299041748,[]
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]"
+saladier,dessous,nmod,NOUN,0.5370209813117981,[]
+autour,pâte,nmod,NOUN,0.6371224522590637,[]
+saladier,torchon,nmod,NOUN,0.5858190655708313,[]
+reposer,pâte,obj,NOUN,0.6314936280250549,"[{""id"": 9366390, ""node1"": 106663, ""node2"": 34069, ""type"": 0, ""w"": 32.0}, {""id"": 218835, ""node1"": 106663, ""node2"": 34069, ""type"": 13, ""w"": 59.0}, {""id"": 9173399, ""node1"": 106663, ""node2"": 34069, ""type"": 35, ""w"": 31.0}]"
+poser,pizza,obj,NOUN,0.5764021873474121,[]

@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+sucre,farine,nmod,NOUN,0.699601411819458,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]",r_associated,47.0
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+far,sucre,amod,NOUN,0.5230461955070496,[],,
+sucre,vanillé,amod,ADJ,0.6220211982727051,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]",r_associated,13.0
+sucre,lait,nmod,NOUN,0.6437966823577881,[],,
+far,saladier,nmod,NOUN,0.4573682248592376,[],,
+far,four,nmod,NOUN,0.5539178252220154,"[{""id"": 367654148, ""node1"": 101889, ""node2"": 9190, ""type"": 0, ""w"": 10.0}]",r_associated,10.0
+far,casserole,nmod,NOUN,0.4626701474189758,[],,
+casserole,balance,obj,NOUN,0.5916885137557983,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+titre,préparer,acl,VERB,0.4304305016994476,[],,
+préparer,pâte,obj,NOUN,0.6504604816436768,"[{""id"": 97862162, ""node1"": 36246, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+préparer,mélanger,advcl,VERB,0.5422113537788391,[],,
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+mélanger,lait,obj,NOUN,0.6098827719688416,"[{""id"": 373014663, ""node1"": 37151, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+reposer,heure,obj,NOUN,0.4106099009513855,[],,
+four,200,nmod,NUM,0.5053980350494385,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+fondre,morceau,obj,NOUN,0.5915432572364807,[],,
+morceau,beurre,nmod,NOUN,0.6982128024101257,[],,
+fondre,possible,obj,ADJ,0.5027466416358948,[],,
+répartir,matière,obj,NOUN,0.4472470283508301,[],,
+matière,gras,amod,ADJ,0.5428515672683716,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+matière,fond,nmod,NOUN,0.4951196312904358,"[{""id"": 928510, ""node1"": 29208, ""node2"": 119272, ""type"": 0, ""w"": 35.0}, {""id"": 53749185, ""node1"": 29208, ""node2"": 119272, ""type"": 5, ""w"": 188.0}]",r_syn,188.0
+verser,pâte,obj,NOUN,0.6542285084724426,"[{""id"": 373014722, ""node1"": 104506, ""node2"": 34069, ""type"": 14, ""w"": 36.0}]",r_patient,36.0
+ajouter,rouler,advcl,VERB,0.4735893309116363,[],,
+rouler,tomber,advcl,VERB,0.4422467052936554,"[{""id"": 992480, ""node1"": 231, ""node2"": 8661, ""type"": 0, ""w"": 21.0}, {""id"": 54745270, ""node1"": 231, ""node2"": 8661, ""type"": 5, ""w"": 102.0}]",r_syn,102.0
+cuire,demi-heure,obj,NOUN,0.7069422602653503,[],,
+éteindre,four,obj,NOUN,0.6389097571372986,[],,
+enfourner,plat,nsubj:pass,NOUN,0.6584326028823853,"[{""id"": 376200772, ""node1"": 4575, ""node2"": 36327, ""type"": 16, ""w"": 40.0}, {""id"": 643372034, ""node1"": 4575, ""node2"": 36327, ""type"": 31, ""w"": 21.0}]",r_instr,40.0
+moment,enfourner,acl:relcl,VERB,0.5294733643531799,[],,
+porte,four,nmod,NOUN,0.6304441094398499,"[{""id"": 9977242, ""node1"": 143613, ""node2"": 9190, ""type"": 10, ""w"": 21.0}]",r_holo,21.0

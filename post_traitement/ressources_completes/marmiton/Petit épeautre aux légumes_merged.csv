@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+légume,ingrédient,nmod,NOUN,0.6797090172767639,[],,
+légume,poivre,appos,NOUN,0.7373378872871399,"[{""id"": 341241835, ""node1"": 120603, ""node2"": 139597, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+poivre,oignon,nmod,NOUN,0.6702394485473633,[],,
+oignon,lard,nmod,NOUN,0.6010447144508362,[],,
+poivre,fumé,amod,ADJ,0.595227837562561,[],,
+fumé,tomate,obj,NOUN,0.5969629287719727,[],,
+saladier,poêle,amod,NOUN,0.6812556385993958,[],,
+poêle,mixeur,nmod,NOUN,0.675652265548706,[],,
+mixeur,couvercle,nmod,NOUN,0.585760772228241,[],,
+couvercle,cuillère,nmod,NOUN,0.6197326183319092,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+eau,nuit,nmod,NOUN,0.5345256924629211,[],,
+eau,saladier,nmod,NOUN,0.6073445677757263,[],,
+revenir,lard,obj,NOUN,0.5750259160995483,[],,
+lard,fumé,amod,ADJ,0.5547491908073425,"[{""id"": 365516, ""node1"": 59430, ""node2"": 23335, ""type"": 0, ""w"": 55.0}, {""id"": 372425196, ""node1"": 59430, ""node2"": 23335, ""type"": 17, ""w"": 41.0}, {""id"": 980614507, ""node1"": 59430, ""node2"": 23335, ""type"": 666, ""w"": 2.0}]",r_associated,55.0
+lard,découper,acl,VERB,0.5757962465286255,[],,
+bout,rajouter,acl,VERB,0.441947728395462,[],,
+rajouter,oignon,obj,NOUN,0.604992687702179,[],,
+morceau,céleri,nmod,PROPN,0.658331036567688,[],,
+gousse,ail,nmod,NOUN,0.5501744151115417,"[{""id"": 1841967, ""node1"": 3889, ""node2"": 26979, ""type"": 0, ""w"": 58.0}, {""id"": 665112731, ""node1"": 3889, ""node2"": 26979, ""type"": 174, ""w"": 40.0}, {""id"": 714921743, ""node1"": 3889, ""node2"": 26979, ""type"": 666, ""w"": 3.0}]",r_associated,58.0
+gousse,couper,acl,VERB,0.5158411860466003,[],,
+tomate,couper,acl,VERB,0.6290057301521301,"[{""id"": 920912564, ""node1"": 22138, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 628044041, ""node1"": 22138, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+tomate,sel,appos,NOUN,0.7264893651008606,"[{""id"": 421761153, ""node1"": 22138, ""node2"": 13260, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+tomate,poivre,amod,NOUN,0.6968331336975098,"[{""id"": 421761048, ""node1"": 22138, ""node2"": 139597, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+peu,petit,amod,ADJ,0.4567189812660217,"[{""id"": 14380759, ""node1"": 39409, ""node2"": 55222, ""type"": 0, ""w"": 54.0}]",r_associated,54.0
+laisser,tout,obj,NOUN,0.4551617503166199,[],,
+laisser,déguster,advcl,VERB,0.5024861693382263,[],,
+mélanger,vérifier,advcl,VERB,0.444419801235199,[],,
+vérifier,cuisson,obj,NOUN,0.6534045934677124,"[{""id"": 31862099, ""node1"": 76431, ""node2"": 60056, ""type"": 14, ""w"": 64.0}]",r_patient,64.0
+rester,croquant,obj,ADJ,0.4970251619815826,[],,

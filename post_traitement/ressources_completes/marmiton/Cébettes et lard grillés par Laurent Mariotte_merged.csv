@@ -1,0 +1,44 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+lard,griller,acl,VERB,0.623454749584198,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+titre,pain,nmod,NOUN,0.6112104654312134,[],,
+pain,menthe,acl,VERB,0.706053614616394,[],,
+menthe,citron,obj,NOUN,0.5805667042732239,[],,
+sel,gris,amod,ADJ,0.6262656450271606,"[{""id"": 3176736, ""node1"": 13260, ""node2"": 50889, ""type"": 106, ""w"": 11.0}]",r_has_color,11.0
+sel,poivre,nmod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,fleur,nmod,NOUN,0.6309682130813599,[],,
+fleur,sel,nmod,NOUN,0.668102502822876,"[{""id"": 796703205, ""node1"": 28985, ""node2"": 13260, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+option,cuisson,nmod,NOUN,0.6367957592010498,[],,
+option,barbecue,nmod,NOUN,0.5326587557792664,[],,
+thermostat,plancha,amod,NOUN,0.6015033721923828,[],,
+tailler,extrémité,obj,NOUN,0.4099048674106598,[],,
+tailler,bulbe,obj,NOUN,0.4463991820812225,[],,
+verser,filet,obj,NOUN,0.5606366395950317,[],,
+filet,huile,nmod,NOUN,0.6150403022766113,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+déposer,tranche,obj,NOUN,0.461878627538681,[],,
+tranche,lard,nmod,NOUN,0.5612525939941406,"[{""id"": 438153, ""node1"": 143123, ""node2"": 59430, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+tranche,plancha,nmod,NOUN,0.5863948464393616,[],,
+retourner,lard,obj,NOUN,0.5473484396934509,[],,
+couper,pain,nmod,NOUN,0.6540286540985107,"[{""id"": 365440568, ""node1"": 128828, ""node2"": 61283, ""type"": 0, ""w"": 31.0}, {""id"": 31770882, ""node1"": 128828, ""node2"": 61283, ""type"": 14, ""w"": 100.0}, {""id"": 376198958, ""node1"": 128828, ""node2"": 61283, ""type"": 16, ""w"": 29.0}, {""id"": 376067866, ""node1"": 128828, ""node2"": 61283, ""type"": 31, ""w"": 28.0}]",r_patient,100.0
+pain,cube,nmod,NOUN,0.636246919631958,[],,
+plancha,lard,nmod,NOUN,0.6488730311393738,[],,
+arroser,déposer,advcl,VERB,0.4487093687057495,[],,
+déposer,oignon,obj,NOUN,0.6008153557777405,[],,
+oignon,plat,nmod,NOUN,0.6961898803710938,"[{""id"": 95146312, ""node1"": 123307, ""node2"": 36327, ""type"": 0, ""w"": 7.0}, {""id"": 93553585, ""node1"": 123307, ""node2"": 36327, ""type"": 10, ""w"": 19.0}, {""id"": 652131803, ""node1"": 123307, ""node2"": 36327, ""type"": 666, ""w"": 4.0}]",r_holo,19.0
+arroser,sauce,obj,NOUN,0.6814897656440735,"[{""id"": 97744478, ""node1"": 67803, ""node2"": 141110, ""type"": 13, ""w"": 30.0}]",r_agent,30.0
+sauce,lard,nmod,NOUN,0.689392626285553,[],,
+lard,grillé,amod,ADJ,0.5995655059814453,[],,
+option,poêle,nmod,NOUN,0.6151918172836304,[],,
+poêle,grand,amod,ADJ,0.628409743309021,[],,
+chauffer,poêle,obj,NOUN,0.652711808681488,[],,
+poêle,grill,amod,NOUN,0.6638929843902588,[],,
+poêle,feu,nmod,NOUN,0.623403787612915,"[{""id"": 12351768, ""node1"": 119686, ""node2"": 143703, ""type"": 0, ""w"": 31.0}, {""id"": 12199892, ""node1"": 119686, ""node2"": 143703, ""type"": 5, ""w"": 35.0}, {""id"": 1786279, ""node1"": 119686, ""node2"": 143703, ""type"": 666, ""w"": 1.0}]",r_syn,35.0
+poêle,vif,amod,ADJ,0.5525139570236206,[],,
+griller,tranche,obj,NOUN,0.5766491293907166,[],,
+ajouter,pain,obj,NOUN,0.679526150226593,[],,
+pain,couper,acl,VERB,0.6540286540985107,"[{""id"": 892226381, ""node1"": 61283, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 1923010, ""node1"": 61283, ""node2"": 128828, ""type"": 25, ""w"": 110.0}, {""id"": 31770897, ""node1"": 61283, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 233965, ""node1"": 61283, ""node2"": 128828, ""type"": 30, ""w"": 53.0}]",r_instr-1,110.0
+griller,min,obj,NOUN,0.4117887318134308,[],,
+faite,débarrasser,nsubj,PUNCT,0.4241587221622467,[],,
+griller,oignon,obj,NOUN,0.6926211714744568,[],,
+oignon,min,nmod,NOUN,0.4278225898742676,[],,

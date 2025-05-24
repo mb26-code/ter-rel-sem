@@ -1,0 +1,45 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,sauté,nmod,NOUN,0.4211780428886413,[],,
+sauté,crocodile,nmod,NOUN,0.4463326334953308,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,huile,appos,NOUN,0.6304486989974976,"[{""id"": 561306445, ""node1"": 123418, ""node2"": 141971, ""type"": 0, ""w"": 44.0}]",r_associated,44.0
+huile,sésame,nmod,NOUN,0.6178574562072754,"[{""id"": 12295235, ""node1"": 141971, ""node2"": 18404, ""type"": 0, ""w"": 43.0}, {""id"": 580644, ""node1"": 141971, ""node2"": 18404, ""type"": 5, ""w"": 32.0}, {""id"": 88080850, ""node1"": 141971, ""node2"": 18404, ""type"": 35, ""w"": 32.0}, {""id"": 380316783, ""node1"": 141971, ""node2"": 18404, ""type"": 54, ""w"": 34.0}]",r_associated,43.0
+sésame,poivron,nmod,NOUN,0.6448758244514465,[],,
+poivron,curcuma,appos,NOUN,0.6661975383758545,[],,
+ingrédient,coriandre,appos,NOUN,0.6872987747192383,[],,
+coriandre,piment,nmod,ADV,0.639997124671936,"[{""id"": 922162957, ""node1"": 61977, ""node2"": 128791, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+piment,sésame,appos,NOUN,0.6391745805740356,"[{""id"": 673298641, ""node1"": 128791, ""node2"": 18404, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+sésame,courgette,nmod,NOUN,0.641217827796936,[],,
+sésame,gingembre,nmod,NOUN,0.6100141406059265,[],,
+sésame,sauce,nmod,NOUN,0.7172216176986694,[],,
+curry,viande,nmod,NOUN,0.7528262734413147,"[{""id"": 406944236, ""node1"": 82813, ""node2"": 140100, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+curry,jus,nmod,NOUN,0.6691797375679016,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+jus,germe,nmod,NOUN,0.5790480375289917,[],,
+jus,pousse,nmod,NOUN,0.5670267939567566,[],,
+pousse,oignon,obj,NOUN,0.5729132890701294,[],,
+oignon,nouveau,amod,ADJ,0.6103869080543518,[],,
+jus,plat,nmod,ADJ,0.6699279546737671,"[{""id"": 602097687, ""node1"": 53310, ""node2"": 36327, ""type"": 0, ""w"": 15.0}]",r_associated,15.0
+jus,étape,nmod,NOUN,0.5936597585678101,[],,
+jus,wok,nmod,NOUN,0.6899020671844482,[],,
+chauffer,huile,obj,NOUN,0.64256751537323,[],,
+chauffer,écraser,advcl,VERB,0.5332845449447632,[],,
+écraser,gingembre,obj,NOUN,0.5884923934936523,[],,
+écraser,gousse,obj,NOUN,0.4930314123630523,[],,
+gousse,ail,nmod,NOUN,0.5501744151115417,"[{""id"": 1841967, ""node1"": 3889, ""node2"": 26979, ""type"": 0, ""w"": 58.0}, {""id"": 665112731, ""node1"": 3889, ""node2"": 26979, ""type"": 174, ""w"": 40.0}, {""id"": 714921743, ""node1"": 3889, ""node2"": 26979, ""type"": 666, ""w"": 3.0}]",r_associated,58.0
+coriandre,frais,amod,ADJ,0.5248878598213196,"[{""id"": 1060772429, ""node1"": 61977, ""node2"": 53495, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+pâte,curry,nmod,NOUN,0.7246509790420532,"[{""id"": 796941037, ""node1"": 34069, ""node2"": 82813, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+curry,vert,amod,ADJ,0.6078226566314697,[],,
+piment,rouge,amod,ADJ,0.5935078263282776,"[{""id"": 1946, ""node1"": 128791, ""node2"": 86356, ""type"": 0, ""w"": 136.0}, {""id"": 3180088, ""node1"": 128791, ""node2"": 86356, ""type"": 106, ""w"": 6.0}, {""id"": 1524855, ""node1"": 128791, ""node2"": 86356, ""type"": 666, ""w"": 6.0}]",r_associated,136.0
+citron,vert,amod,ADJ,0.5348256230354309,"[{""id"": 1559582, ""node1"": 15386, ""node2"": 26976, ""type"": 0, ""w"": 61.0}, {""id"": 1773945, ""node1"": 15386, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3160941, ""node1"": 15386, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]",r_associated,61.0
+couper,légume,nmod,NOUN,0.6484079957008362,"[{""id"": 435065646, ""node1"": 128828, ""node2"": 120603, ""type"": 0, ""w"": 26.0}, {""id"": 15079599, ""node1"": 128828, ""node2"": 120603, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+légume,oignon,appos,NOUN,0.6739183664321899,"[{""id"": 9905180, ""node1"": 120603, ""node2"": 123307, ""type"": 0, ""w"": 34.0}, {""id"": 1638960, ""node1"": 120603, ""node2"": 123307, ""type"": 8, ""w"": 136.0}, {""id"": 15191967, ""node1"": 120603, ""node2"": 123307, ""type"": 27, ""w"": -42.0}, {""id"": 1067325117, ""node1"": 120603, ""node2"": 123307, ""type"": 666, ""w"": 2.0}, {""id"": 3861720, ""node1"": 120603, ""node2"": 123307, ""type"": 777, ""w"": 10.0}]",r_hypo,136.0
+cuire,le,obj,PRON,0.4500194191932678,[],,
+ajouter,cuire,advcl,VERB,0.695756196975708,[],,
+ajouter,viande,obj,NOUN,0.7162638902664185,[],,
+viande,crocodile,nmod,NOUN,0.676152765750885,"[{""id"": 914798970, ""node1"": 140100, ""node2"": 110750, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+crocodile,couper,acl,VERB,0.4843200147151947,[],,
+graine,sésame,nmod,NOUN,0.5720810890197754,"[{""id"": 797533486, ""node1"": 14469, ""node2"": 18404, ""type"": 0, ""w"": 29.0}, {""id"": 246270686, ""node1"": 14469, ""node2"": 18404, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+ajouter,appétit,obj,NOUN,0.4999699890613556,[],,
+accompagner,plat,obj,NOUN,0.6060267686843872,[],,
+plat,riz,nmod,NOUN,0.7105838060379028,"[{""id"": 96713007, ""node1"": 36327, ""node2"": 24372, ""type"": 0, ""w"": 31.0}, {""id"": 96713022, ""node1"": 36327, ""node2"": 24372, ""type"": 9, ""w"": 26.0}, {""id"": 93507674, ""node1"": 36327, ""node2"": 24372, ""type"": 28, ""w"": 35.0}, {""id"": 96713038, ""node1"": 36327, ""node2"": 24372, ""type"": 41, ""w"": 27.0}, {""id"": 96713027, ""node1"": 36327, ""node2"": 24372, ""type"": 42, ""w"": 27.0}]",r_lieu-1,35.0

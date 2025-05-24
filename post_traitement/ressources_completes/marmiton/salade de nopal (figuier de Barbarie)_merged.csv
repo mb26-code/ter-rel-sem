@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+mettre,titre,nsubj,NOUN,0.4057502150535583,[],,
+titre,salade,appos,NOUN,0.5926524996757507,[],,
+salade,ingrédient,nmod,NOUN,0.7127874493598938,[],,
+salade,coriandre,appos,NOUN,0.6658205986022949,"[{""id"": 700630704, ""node1"": 118908, ""node2"": 61977, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+vert,blanc,amod,ADJ,0.4584493339061737,"[{""id"": 134549, ""node1"": 26976, ""node2"": 15196, ""type"": 0, ""w"": 70.0}, {""id"": 122930, ""node1"": 26976, ""node2"": 15196, ""type"": 7, ""w"": 51.0}, {""id"": 377005079, ""node1"": 26976, ""node2"": 15196, ""type"": 21, ""w"": 30.0}]",r_associated,70.0
+couteau,économe,nmod,NOUN,0.5018488168716431,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]",r_hypo,76.0
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+four,set,nmod,NOUN,0.553033173084259,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+poêle,saladier,nmod,NOUN,0.6812556385993958,[],,
+set,cuillère,nmod,NOUN,0.4149639010429382,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,plat,nmod,ADJ,0.6768530607223511,"[{""id"": 662507898, ""node1"": 51905, ""node2"": 36327, ""type"": 0, ""w"": 44.0}]",r_associated,44.0
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+rapide,cuisson,nsubj,NOUN,0.6360381841659546,"[{""id"": 31834455, ""node1"": 110732, ""node2"": 60056, ""type"": 23, ""w"": 24.0}]",r_carac-1,24.0
+mettre,rapide,advcl,ADJ,0.4207369089126587,[],,
+devenir,eau,nsubj,NOUN,0.5598877668380737,[],,
+feuille,entier,amod,ADJ,0.4923028647899627,[],,
+couteau,plat,amod,ADJ,0.6374439597129822,"[{""id"": 770613446, ""node1"": 32610, ""node2"": 36327, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+griller,piment,obj,NOUN,0.7081518173217773,[],,
+piment,entier,amod,ADJ,0.5942241549491882,[],,
+brûler,peau,nsubj:pass,NOUN,0.5431743264198303,"[{""id"": 97454981, ""node1"": 75156, ""node2"": 109785, ""type"": 0, ""w"": 24.0}, {""id"": 478304788, ""node1"": 75156, ""node2"": 109785, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+mettre,brûler,advcl,VERB,0.5019001960754395,[],,
+sachet,plastique,amod,ADJ,0.5249574780464172,"[{""id"": 11717831, ""node1"": 112386, ""node2"": 85406, ""type"": 0, ""w"": 42.0}, {""id"": 9922207, ""node1"": 112386, ""node2"": 85406, ""type"": 6, ""w"": 30.0}, {""id"": 9974150, ""node1"": 112386, ""node2"": 85406, ""type"": 9, ""w"": 27.0}, {""id"": 1073101080, ""node1"": 112386, ""node2"": 85406, ""type"": 50, ""w"": 30.0}, {""id"": 1022034188, ""node1"": 112386, ""node2"": 85406, ""type"": 666, ""w"": 2.0}]",r_associated,42.0
+mettre,refroidir,advcl,VERB,0.4939008951187134,[],,
+mélanger,tomate,obj,NOUN,0.6800077557563782,[],,
+piment,refroidir,acl,VERB,0.6837810277938843,[],,
+ingrédient,autre,amod,ADJ,0.5450181365013123,[],,
+mélanger,ingrédient,obj,NOUN,0.6362285614013672,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+coriandre,frais,amod,ADJ,0.5248878598213196,"[{""id"": 1060772429, ""node1"": 61977, ""node2"": 53495, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+saveur,tout,amod,ADJ,0.6092596054077148,[],,
+donne,saveur,obj,NOUN,0.516605794429779,[],,
+saveur,rafraîchissant,amod,ADJ,0.5818763375282288,[],,
+salade,mexicain,amod,ADJ,0.612707257270813,[],,

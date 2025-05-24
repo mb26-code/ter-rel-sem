@@ -1,0 +1,69 @@
+head,lemma,dep,pos,sim,relation
+titre,boeuf,appos,NOUN,0.5486986637115479,[]
+sel,gros,amod,ADJ,0.6553788781166077,"[{""id"": 188164, ""node1"": 13260, ""node2"": 88096, ""type"": 0, ""w"": 60.0}, {""id"": 645838, ""node1"": 13260, ""node2"": 88096, ""type"": 17, ""w"": 60.0}]"
+boeuf,sel,nmod,NOUN,0.7255796790122986,[]
+sel,ingrédient,nmod,NOUN,0.6997572183609009,"[{""id"": 24850730, ""node1"": 13260, ""node2"": 123418, ""type"": 0, ""w"": 35.0}, {""id"": 24842131, ""node1"": 13260, ""node2"": 123418, ""type"": 6, ""w"": 47.0}]"
+boeuf,carotte,appos,NOUN,0.6198838949203491,[]
+carotte,sel,appos,NOUN,0.703865647315979,[]
+boeuf,feuille,nmod,NOUN,0.6203134059906006,[]
+feuille,laurier,nmod,NOUN,0.4908609986305237,"[{""id"": 15624759, ""node1"": 37993, ""node2"": 114548, ""type"": 0, ""w"": 29.0}, {""id"": 14620301, ""node1"": 37993, ""node2"": 114548, ""type"": 10, ""w"": 36.0}]"
+feuille,clou,nmod,NOUN,0.4435034692287445,[]
+clou,plat,nmod,NOUN,0.5541503429412842,[]
+clou,moelle,nmod,NOUN,0.4469983875751495,[]
+moelle,bouillon,nmod,NOUN,0.5739384889602661,"[{""id"": 989728600, ""node1"": 119571, ""node2"": 146582, ""type"": 666, ""w"": 2.0}]"
+bouillon,légume,nmod,NOUN,0.7116243243217468,"[{""id"": 152250, ""node1"": 146582, ""node2"": 120603, ""type"": 0, ""w"": 55.0}]"
+bouillon,ail,nmod,ADP,0.6112963557243347,"[{""id"": 558647560, ""node1"": 146582, ""node2"": 26979, ""type"": 0, ""w"": 27.0}]"
+échalote,pomme,nmod,NOUN,0.6213377118110657,[]
+échalote,terre,nmod,NOUN,0.6087936162948608,[]
+terre,huile,amod,NOUN,0.6127294301986694,[]
+huile,noix,nmod,NOUN,0.6024021506309509,"[{""id"": 374335, ""node1"": 141971, ""node2"": 30910, ""type"": 0, ""w"": 81.0}, {""id"": 2319254, ""node1"": 141971, ""node2"": 30910, ""type"": 42, ""w"": 70.0}]"
+couteau,bol,nmod,NOUN,0.5557995438575745,[]
+bol,plat,nmod,ADJ,0.6071146726608276,"[{""id"": 8544458, ""node1"": 145405, ""node2"": 36327, ""type"": 28, ""w"": 46.0}]"
+bouillir,litre,obj,NOUN,0.5481809973716736,[]
+litre,eau,nmod,NOUN,0.5440258383750916,"[{""id"": 2458362, ""node1"": 57416, ""node2"": 65012, ""type"": 0, ""w"": 84.0}, {""id"": 15759326, ""node1"": 57416, ""node2"": 65012, ""type"": 28, ""w"": 10.0}, {""id"": 720818422, ""node1"": 57416, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 980526881, ""node1"": 57416, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]"
+eau,fonction,nmod,NOUN,0.5479877591133118,[]
+eau,taille,nmod,NOUN,0.5548535585403442,"[{""id"": 1030663608, ""node1"": 65012, ""node2"": 142267, ""type"": 0, ""w"": 20.0}]"
+taille,cocotte,nmod,NOUN,0.5870354771614075,[]
+bouillon,cube,amod,ADJ,0.5364071130752563,"[{""id"": 799190726, ""node1"": 146582, ""node2"": 6041, ""type"": 0, ""w"": 23.0}]"
+bouillon,pot,nmod,NOUN,0.5584897994995117,[]
+pot,feu,nmod,NOUN,0.5809311270713806,"[{""id"": 415003512, ""node1"": 142367, ""node2"": 143703, ""type"": 0, ""w"": 26.0}]"
+pot,correspondant,amod,ADJ,0.4781196415424347,[]
+cela,air,nmod,NOUN,0.4048137962818146,[]
+cela,goût,nmod,NOUN,0.5445335507392883,[]
+ajouter,bouillon,obj,NOUN,0.597090482711792,[]
+oignon,piquer,amod,ADJ,0.621706485748291,[]
+oignon,girofle,nmod,VERB,0.5784057378768921,[]
+ail,écraser,acl,VERB,0.5606361031532288,"[{""id"": 906193744, ""node1"": 26979, ""node2"": 52004, ""type"": 0, ""w"": 20.0}, {""id"": 98571281, ""node1"": 26979, ""node2"": 52004, ""type"": 26, ""w"": 40.0}]"
+plonger,viande,obj,NOUN,0.7225131392478943,[]
+mousse,blanc,amod,ADJ,0.5360114574432373,[]
+mousse,aller,acl:relcl,VERB,0.4839159250259399,[]
+tout,nécessaire,amod,ADJ,0.4536169171333313,[]
+minute,cuisson,nmod,NOUN,0.6456773281097412,[]
+baisser,feu,obj,NOUN,0.552813708782196,[]
+enlever,couche,obj,NOUN,0.4517164826393127,[]
+couche,gras,nmod,NOUN,0.5493192076683044,[]
+gras,durcir,amod,VERB,0.5386736392974854,[]
+feu,doux,amod,ADJ,0.5496628284454346,[]
+servir,tenir,advcl,VERB,0.4090096950531006,[]
+rajouter,carotte,obj,NOUN,0.6066197156906128,[]
+tronçon,gros,amod,ADJ,0.4387038052082062,[]
+carotte,tronçon,nmod,NOUN,0.5668858885765076,[]
+tronçon,aller,acl:relcl,VERB,0.412122517824173,[]
+côté,pomme,nmod,NOUN,0.5799585580825806,[]
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+pomme,sauter,acl,VERB,0.5997920036315918,[]
+incontournable,betterave,appos,NOUN,0.5875810384750366,[]
+récupérer,carotte,obj,NOUN,0.5619502663612366,[]
+carotte,tendre,amod,ADJ,0.5636338591575623,[]
+carotte,cuire,acl,VERB,0.7885313630104065,[]
+récupérer,couper,advcl,VERB,0.4149295389652252,[]
+cube,petit,amod,ADJ,0.5087730884552002,[]
+cube,sel,appos,NOUN,0.6686338186264038,"[{""id"": 4242755, ""node1"": 6041, ""node2"": 13260, ""type"": 777, ""w"": 10.0}]"
+parfait,manger,advcl,VERB,0.5767198204994202,[]
+manger,tiède,obj,ADJ,0.6568136811256409,[]
+salade,petit,amod,ADJ,0.669308066368103,[]
+salade,vert,amod,ADJ,0.6158227920532227,"[{""id"": 558712508, ""node1"": 118908, ""node2"": 26976, ""type"": 0, ""w"": 30.0}, {""id"": 3200451, ""node1"": 118908, ""node2"": 26976, ""type"": 17, ""w"": 30.0}, {""id"": 3160509, ""node1"": 118908, ""node2"": 26976, ""type"": 106, ""w"": 18.0}, {""id"": 1813836, ""node1"": 118908, ""node2"": 26976, ""type"": 666, ""w"": 4.0}]"
+salade,goût,nmod,NOUN,0.6887590885162354,[]
+cuire,viande,nsubj,NOUN,0.8064185976982117,"[{""id"": 2182411, ""node1"": 5115, ""node2"": 140100, ""type"": 0, ""w"": 73.0}, {""id"": 148035, ""node1"": 5115, ""node2"": 140100, ""type"": 13, ""w"": 100.0}, {""id"": 206249, ""node1"": 5115, ""node2"": 140100, ""type"": 14, ""w"": 100.0}, {""id"": 722712577, ""node1"": 5115, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]"
+disposer,cuire,advcl,VERB,0.694351851940155,[]
+mettre,disposer,advcl,VERB,0.4183040559291839,"[{""id"": 930323, ""node1"": 132366, ""node2"": 116780, ""type"": 0, ""w"": 93.0}, {""id"": 53610572, ""node1"": 132366, ""node2"": 116780, ""type"": 5, ""w"": 222.0}, {""id"": 1642751, ""node1"": 132366, ""node2"": 116780, ""type"": 35, ""w"": 90.0}, {""id"": 645788261, ""node1"": 132366, ""node2"": 116780, ""type"": 666, ""w"": 2.0}]"

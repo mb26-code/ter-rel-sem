@@ -1,0 +1,27 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+lentille,ingrédient,nmod,NOUN,0.6038849949836731,[],,
+oignon,jaune,amod,NOUN,0.5858303308486938,"[{""id"": 1780352, ""node1"": 123307, ""node2"": 86711, ""type"": 17, ""w"": 27.0}, {""id"": 3161225, ""node1"": 123307, ""node2"": 86711, ""type"": 106, ""w"": 7.0}, {""id"": 1767145, ""node1"": 123307, ""node2"": 86711, ""type"": 666, ""w"": 2.0}]",r_carac,27.0
+lentille,vert,amod,ADJ,0.5080564618110657,"[{""id"": 97120543, ""node1"": 44137, ""node2"": 26976, ""type"": 0, ""w"": 34.0}, {""id"": 1969198, ""node1"": 44137, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3159328, ""node1"": 44137, ""node2"": 26976, ""type"": 106, ""w"": 8.0}]",r_associated,34.0
+lait,coco,amod,ADV,0.5848121643066406,"[{""id"": 796793155, ""node1"": 86296, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+pinceau,saladier,nmod,NOUN,0.537192165851593,[],,
+pinceau,étape,nmod,NOUN,0.4625467658042907,[],,
+tremper,lentille,obj,NOUN,0.579400897026062,[],,
+lentille,eau,nmod,NOUN,0.5707734823226929,"[{""id"": 6607573, ""node1"": 44137, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+eau,froid,amod,ADJ,0.5897504091262817,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+tremper,temps,obj,NOUN,0.5696304440498352,[],,
+temps,cuisson,nmod,NOUN,0.6997374892234802,[],,
+revenir,oignon,obj,NOUN,0.612179696559906,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+oignon,couper,acl,VERB,0.5958451628684998,"[{""id"": 900892185, ""node1"": 123307, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 31770901, ""node1"": 123307, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 1767208, ""node1"": 123307, ""node2"": 128828, ""type"": 666, ""w"": 2.0}]",r_patient-1,100.0
+commencer,oignon,nsubj,NOUN,0.614467978477478,[],,
+ajouter,cuillère,obj,NOUN,0.5553516745567322,[],,
+cuillère,soupe,nmod,NOUN,0.6428441405296326,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+soupe,poudre,nmod,NOUN,0.679696261882782,[],,
+peu,lait,nmod,NOUN,0.5964295268058777,[],,
+revenir,minute,obj,NOUN,0.495201826095581,[],,
+Ajoutez,tomate,obj,NOUN,0.5442355871200562,[],,
+mélanger,reste,nsubj,NOUN,0.5489017367362976,[],,
+ajouter,lentille,obj,NOUN,0.5280957818031311,[],,
+feu,doux,amod,ADJ,0.5531697273254395,[],,
+heure,ajouter,acl,VERB,0.4512658715248108,[],,
+un,eau,nmod,NOUN,0.4214674830436706,[],,
+ajouter,temps,obj,NOUN,0.5000149011611938,[],,

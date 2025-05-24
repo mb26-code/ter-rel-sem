@@ -1,0 +1,44 @@
+node1,node2,relations
+titre,levure,[]
+levure,farine,"[{""id"": 1788186, ""node1"": 53450, ""node2"": 127629, ""type"": 0, ""w"": 60.0}, {""id"": 1046576042, ""node1"": 53450, ""node2"": 127629, ""type"": 8, ""w"": 20.0}]"
+levure,huile,[]
+levure,sucre,[]
+sucre,oeuf,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]"
+oeuf,lait,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]"
+titre,saladier,[]
+saladier,fouet,[]
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 307.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 267.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+fouet,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,louche,"[{""id"": 393785, ""node1"": 51905, ""node2"": 124144, ""type"": 0, ""w"": 89.0}, {""id"": 434932737, ""node1"": 51905, ""node2"": 124144, ""type"": 5, ""w"": 87.0}, {""id"": 1551586, ""node1"": 51905, ""node2"": 124144, ""type"": 8, ""w"": 77.0}, {""id"": 422916, ""node1"": 51905, ""node2"": 124144, ""type"": 20, ""w"": 111.0}, {""id"": 1029212527, ""node1"": 51905, ""node2"": 124144, ""type"": 67, ""w"": 38.0}, {""id"": 1032954976, ""node1"": 51905, ""node2"": 124144, ""type"": 78, ""w"": 27.0}]"
+fouet,poêle,[]
+titre,crêpe,[]
+crêpe,balance,"[{""id"": 347084028, ""node1"": 17186, ""node2"": 145190, ""type"": 777, ""w"": 10.0}]"
+balance,cuisine,[]
+balance,poêle,[]
+balance,étape,[]
+balance,battre,[]
+battre,oeuf,"[{""id"": 2120026, ""node1"": 119162, ""node2"": 116175, ""type"": 14, ""w"": 30.0}]"
+rajouter,beurre,"[{""id"": 434724342, ""node1"": 87561, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 2193818, ""node1"": 87561, ""node2"": 140377, ""type"": 14, ""w"": 100.0}]"
+beurre,fondre,"[{""id"": 652231036, ""node1"": 140377, ""node2"": 16480, ""type"": 0, ""w"": 21.0}, {""id"": 24771033, ""node1"": 140377, ""node2"": 16480, ""type"": 24, ""w"": 137.0}, {""id"": 1886772, ""node1"": 140377, ""node2"": 16480, ""type"": 26, ""w"": 33.0}]"
+mélanger,farine,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]"
+mélanger,moitié,[]
+moitié,préparation,[]
+lait,tout,[]
+lait,rajouter,"[{""id"": 910033423, ""node1"": 86296, ""node2"": 87561, ""type"": 0, ""w"": 20.0}, {""id"": 15062799, ""node1"": 86296, ""node2"": 87561, ""type"": 26, ""w"": 100.0}]"
+moitié,autre,"[{""id"": 765505277, ""node1"": 89030, ""node2"": 7574, ""type"": 17, ""w"": 28.0}]"
+rajouter,moitié,[]
+moitié,farine,[]
+moitié,petit,[]
+lait,éviter,[]
+nécessaire,temps,"[{""id"": 371742595, ""node1"": 46914, ""node2"": 13861, ""type"": 23, ""w"": 26.0}]"
+temps,chauffer,[]
+chauffer,poêle,[]
+feu,moyen,[]
+aide,papier,[]
+papier,essuie,[]
+louche,petit,[]
+aide,louche,[]
+cuillère,gros,[]
+cuillère,sauce,"[{""id"": 662514136, ""node1"": 51905, ""node2"": 141110, ""type"": 0, ""w"": 24.0}, {""id"": 720818667, ""node1"": 51905, ""node2"": 141110, ""type"": 174, ""w"": 25.0}]"
+déposer,rond,[]

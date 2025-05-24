@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,sel,appos,NOUN,0.6997572183609009,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+sel,levure,nmod,NOUN,0.6924784183502197,[],,
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+eau,lait,nmod,NOUN,0.6201539039611816,"[{""id"": 561286960, ""node1"": 65012, ""node2"": 86296, ""type"": 0, ""w"": 56.0}, {""id"": 385497928, ""node1"": 65012, ""node2"": 86296, ""type"": 8, ""w"": -25.0}, {""id"": 9977474, ""node1"": 65012, ""node2"": 86296, ""type"": 10, ""w"": 4.0}, {""id"": 376055737, ""node1"": 65012, ""node2"": 86296, ""type"": 51, ""w"": 40.0}]",r_associated,56.0
+lait,saladier,nmod,NOUN,0.6384831666946411,[],,
+saladier,balance,nmod,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+verser,farine,obj,NOUN,0.6472393274307251,"[{""id"": 25676320, ""node1"": 104506, ""node2"": 127629, ""type"": 14, ""w"": 40.0}]",r_patient,40.0
+pincée,sel,nmod,NOUN,0.6588193774223328,"[{""id"": 665112730, ""node1"": 122023, ""node2"": 13260, ""type"": 174, ""w"": 40.0}, {""id"": 990072491, ""node1"": 122023, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]",r_quantificateur-1,40.0
+mélanger,tout,obj,NOUN,0.528428852558136,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]",r_patient,110.0
+obtention,pâte,nmod,NOUN,0.613581120967865,[],,
+pâte,ferme,amod,ADJ,0.6196715235710144,"[{""id"": 548418662, ""node1"": 34069, ""node2"": 29786, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+laissez,pâte,obj,NOUN,0.6203956007957458,[],,
+reprendre,pâte,obj,NOUN,0.6214573979377747,[],,
+galette,petit,amod,ADJ,0.6127729415893555,[],,
+faire,galette,obj,NOUN,0.6054816842079163,[],,
+galette,main,nmod,NOUN,0.4917825758457184,[],,
+chauffer,peu,obj,ADV,0.507858157157898,[],,
+chauffer,devoir,advcl,VERB,0.4829285442829132,[],,
+glisser,galette,obj,NOUN,0.5574352145195007,[],,
+devoir,galette,nsubj,NOUN,0.5393692851066589,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+égoutter,servir,advcl,VERB,0.5319988131523132,[],,
+ingrédient,souhaiter,acl:relcl,VERB,0.5376784205436707,[],,
+sauce,divers,amod,ADJ,0.6489136219024658,[],,
+sauce,tel,amod,ADJ,0.596170961856842,[],,

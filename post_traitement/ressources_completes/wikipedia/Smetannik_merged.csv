@@ -1,0 +1,26 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+dessert,russe,amod,ADJ,0.4647167921066284,[],,
+dessert,présente,acl:relcl,VERB,0.5336863398551941,[],,
+gâteau,crème,nmod,NOUN,0.6758711934089661,"[{""id"": 99088805, ""node1"": 2149, ""node2"": 44001, ""type"": 0, ""w"": 25.0}, {""id"": 99071059, ""node1"": 2149, ""node2"": 44001, ""type"": 9, ""w"": 105.0}, {""id"": 13098171, ""node1"": 2149, ""node2"": 44001, ""type"": 28, ""w"": 26.0}, {""id"": 3184159, ""node1"": 2149, ""node2"": 44001, ""type"": 106, ""w"": 1.0}, {""id"": 1821768, ""node1"": 2149, ""node2"": 44001, ""type"": 666, ""w"": 4.0}, {""id"": 3949562, ""node1"": 2149, ""node2"": 44001, ""type"": 777, ""w"": 9.0}]",r_has_part,105.0
+crème,aspect,nmod,NOUN,0.6205969452857971,[],,
+aspect,dense,amod,ADJ,0.4052280187606811,[],,
+aspect,doré,amod,ADJ,0.4994537830352783,"[{""id"": 98271775, ""node1"": 92662, ""node2"": 47964, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+présenter,crème,nsubj:pass,NOUN,0.5989295244216919,[],,
+crème,utiliser,acl,VERB,0.6115540266036987,[],,
+crème,frais,amod,ADJ,0.5870347619056702,[],,
+utiliser,recette,nsubj,NOUN,0.6267696022987366,[],,
+recette,typique,amod,ADJ,0.641959547996521,[],,
+comprendre,recette,nsubj,NOUN,0.6267499923706055,[],,
+confiture,cerise,nmod,NOUN,0.5337516665458679,"[{""id"": 796780717, ""node1"": 70793, ""node2"": 49073, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+ingrédient,autre,amod,ADJ,0.5639666318893433,[],,
+ingrédient,tel,amod,ADJ,0.4815298616886139,[],,
+considérer,tarte,nsubj:pass,NOUN,0.6149917840957642,[],,
+tarte,obtenir,acl,VERB,0.6189501881599426,[],,
+ingrédient,considérer,acl:relcl,VERB,0.5753931999206543,[],,
+dessert,favori,amod,ADJ,0.5269948244094849,[],,
+dessert,cuisine,nmod,NOUN,0.6783477067947388,"[{""id"": 15452309, ""node1"": 38557, ""node2"": 16033, ""type"": 0, ""w"": 344.0}, {""id"": 262771, ""node1"": 38557, ""node2"": 16033, ""type"": 3, ""w"": 349.0}, {""id"": 198414, ""node1"": 38557, ""node2"": 16033, ""type"": 15, ""w"": 129.0}, {""id"": 376196654, ""node1"": 38557, ""node2"": 16033, ""type"": 16, ""w"": -29.0}, {""id"": 765133728, ""node1"": 38557, ""node2"": 16033, ""type"": 80, ""w"": 26.0}]",r_domain,349.0
+livre,célèbre,amod,ADJ,0.4356265366077423,[],,
+livre,cuisine,nmod,NOUN,0.6082427501678467,"[{""id"": 796690394, ""node1"": 142787, ""node2"": 16033, ""type"": 0, ""w"": 27.0}, {""id"": 661863037, ""node1"": 142787, ""node2"": 16033, ""type"": 142, ""w"": 30.0}]",r_has_topic,30.0
+cuisine,russe,amod,ADJ,0.4885662496089935,"[{""id"": 15233373, ""node1"": 16033, ""node2"": 32403, ""type"": 0, ""w"": 27.0}, {""id"": 15097640, ""node1"": 16033, ""node2"": 32403, ""type"": 27, ""w"": 29.0}, {""id"": 289223970, ""node1"": 16033, ""node2"": 32403, ""type"": 28, ""w"": 2.0}]",r_domain-1,29.0
+livre,siècle,nmod,NOUN,0.4477018117904663,[],,
+maîtresse,maison,nmod,NOUN,0.4806187152862549,"[{""id"": 3150329, ""node1"": 81145, ""node2"": 45179, ""type"": 15, ""w"": 10.0}]",r_lieu,10.0

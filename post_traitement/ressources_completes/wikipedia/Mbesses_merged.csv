@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+galette,algérien,amod,ADJ,0.540726363658905,[],,
+galette,préparer,acl,VERB,0.6297993659973145,"[{""id"": 348323995, ""node1"": 28590, ""node2"": 36246, ""type"": 38, ""w"": 35.0}]",r_agentif_role,35.0
+base,semoule,nmod,NOUN,0.6326609253883362,[],,
+galette,beurre,nmod,NOUN,0.7128182649612427,"[{""id"": 1586065, ""node1"": 28590, ""node2"": 140377, ""type"": 0, ""w"": 109.0}, {""id"": 1009399449, ""node1"": 28590, ""node2"": 140377, ""type"": 666, ""w"": 2.0}]",r_associated,109.0
+préparer,qui,nsubj,PRON,0.4379707872867584,[],,
+cuire,lui,nsubj:pass,PRON,0.629605770111084,[],,
+avoir,cuire,advcl,VERB,0.6749188303947449,[],,
+tajine,terre,nmod,NOUN,0.6391950845718384,[],,
+terre,cuit,amod,ADJ,0.7158535718917847,[],,
+forme,lui,nsubj,PRON,0.4236626327037811,[],,
+forme,losange,nmod,NOUN,0.426806092262268,"[{""id"": 9898332, ""node1"": 142000, ""node2"": 144719, ""type"": 0, ""w"": 41.0}, {""id"": 104212, ""node1"": 142000, ""node2"": 144719, ""type"": 8, ""w"": 73.0}]",r_hypo,73.0
+herbe,aromatique,amod,ADJ,0.5011574625968933,"[{""id"": 374762, ""node1"": 138874, ""node2"": 67664, ""type"": 17, ""w"": 83.0}, {""id"": 653275255, ""node1"": 138874, ""node2"": 67664, ""type"": 666, ""w"": 9.0}]",r_carac,83.0
+herbe,thym,nmod,NOUN,0.5713645219802856,"[{""id"": 233386, ""node1"": 138874, ""node2"": 3323, ""type"": 0, ""w"": 70.0}, {""id"": 9664573, ""node1"": 138874, ""node2"": 3323, ""type"": 8, ""w"": 38.0}]",r_associated,70.0
+région,autre,amod,ADJ,0.4474375247955322,[],,
+région,clair,amod,ADJ,0.4165767729282379,[],,
+région,nécessaire,amod,ADJ,0.4574388861656189,[],,
+miel,accompagner,acl,VERB,0.5908870100975037,[],,
+pouvoir,galette,nsubj,NOUN,0.5532682538032532,[],,
+mets,qui,nsubj,PRON,0.4700817167758941,[],,
+préparation,mets,acl:relcl,NOUN,0.5296393632888794,"[{""id"": 798882095, ""node1"": 33634, ""node2"": 114839, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+mets,traditionnel,amod,ADJ,0.5025607943534851,"[{""id"": 96365608, ""node1"": 114839, ""node2"": 41139, ""type"": 17, ""w"": -46.0}]",r_carac,-46.0
+mets,algérien,amod,ADJ,0.4694876372814178,[],,

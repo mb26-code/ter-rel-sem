@@ -1,0 +1,14 @@
+head,lemma,dep,pos,sim,relations
+concerner,fromage,obj,NOUN,0.5820378661155701,[]
+préparation,culinaire,amod,ADJ,0.6475791931152344,"[{""id"": 601611802, ""node1"": 33634, ""node2"": 347, ""type"": 0, ""w"": 30.0}]"
+préparation,base,nmod,NOUN,0.5450719594955444,[]
+base,fromage,nmod,NOUN,0.6482128500938416,[]
+fromage,frais,amod,ADJ,0.55152428150177,"[{""id"": 198759, ""node1"": 141687, ""node2"": 53495, ""type"": 17, ""w"": 110.0}]"
+préparation,consommer,acl,VERB,0.6325608491897583,"[{""id"": 98427549, ""node1"": 33634, ""node2"": 97571, ""type"": 26, ""w"": 30.0}]"
+fromage,ingrédient,nsubj,NOUN,0.6984683275222778,"[{""id"": 24850717, ""node1"": 141687, ""node2"": 123418, ""type"": 0, ""w"": 34.0}, {""id"": 24842103, ""node1"": 141687, ""node2"": 123418, ""type"": 6, ""w"": 233.0}]"
+ingrédient,nécessaire,amod,ADJ,0.615828812122345,[]
+herbe,aromatique,amod,ADJ,0.5011574625968933,"[{""id"": 374762, ""node1"": 138874, ""node2"": 67664, ""type"": 17, ""w"": 83.0}, {""id"": 653275255, ""node1"": 138874, ""node2"": 67664, ""type"": 666, ""w"": 9.0}]"
+herbe,sel,nmod,NOUN,0.6634578108787537,[]
+conserver,recette,nsubj:pass,NOUN,0.6350054144859314,[]
+consommer,conserver,advcl,VERB,0.4902445375919342,[]
+autre,livre,nmod,NOUN,0.4984469711780548,[]

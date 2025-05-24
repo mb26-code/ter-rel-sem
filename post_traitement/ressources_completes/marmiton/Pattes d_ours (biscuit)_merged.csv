@@ -1,0 +1,30 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+patte,biscuit,appos,NOUN,0.5375699400901794,[],,
+patte,ingrédient,nmod,NOUN,0.527110755443573,[],,
+ingrédient,sucre,appos,NOUN,0.7083083987236023,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]",r_associated,70.0
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+oeuf,amande,nmod,NOUN,0.5567412972450256,[],,
+amande,cannelle,amod,ADJ,0.6015869975090027,[],,
+sucre,top,nmod,NOUN,0.5400970578193665,[],,
+sucre,four,nmod,NOUN,0.7770997881889343,[],,
+four,fourchette,nmod,NOUN,0.6831614375114441,[],,
+four,cuillère,nmod,NOUN,0.7153509855270386,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+papier,meilleur,amod,ADJ,0.4798659384250641,[],,
+top,papier,nmod,NOUN,0.4000419974327087,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+balance,blanchir,acl,VERB,0.4957780838012695,[],,
+blanchir,oeuf,obj,NOUN,0.5483704805374146,"[{""id"": 97329644, ""node1"": 55842, ""node2"": 116175, ""type"": 0, ""w"": 16.0}]",r_associated,16.0
+ajouter,amande,obj,NOUN,0.5431617498397827,[],,
+aide,fourchette,nmod,NOUN,0.4181736707687378,[],,
+incorporer,chocolat,obj,NOUN,0.6183633804321289,[],,
+chocolat,râpé,acl,ADV,0.5675155520439148,[],,
+mettre,pâte,obj,NOUN,0.6384987831115723,[],,
+papier,aluminium,amod,ADJ,0.4892482459545135,"[{""id"": 796957362, ""node1"": 103389, ""node2"": 95561, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+aide,doigt,nmod,NOUN,0.4035837650299072,[],,
+doigt,former,acl,VERB,0.4028762876987457,"[{""id"": 376187403, ""node1"": 62706, ""node2"": 66314, ""type"": 25, ""w"": 30.0}]",r_instr-1,30.0
+tas,petit,amod,ADJ,0.4517754316329956,[],,
+former,tas,obj,NOUN,0.4133868515491485,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+cuire,c,nmod,NOUN,0.4126093685626983,[],,

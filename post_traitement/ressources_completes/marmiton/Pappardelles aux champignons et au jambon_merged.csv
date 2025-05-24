@@ -1,0 +1,43 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+titre,sel,nmod,NOUN,0.6557343602180481,[],,
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,jambon,nmod,NOUN,0.6847753524780273,[],,
+titre,champignon,nmod,NOUN,0.4536469280719757,[],,
+titre,fromage,nmod,NOUN,0.5511913299560547,[],,
+fromage,frais,amod,ADJ,0.5452271103858948,"[{""id"": 198759, ""node1"": 141687, ""node2"": 53495, ""type"": 17, ""w"": 110.0}]",r_carac,110.0
+fromage,bouillon,nmod,NOUN,0.7321844696998596,"[{""id"": 914309732, ""node1"": 141687, ""node2"": 146582, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+bouillon,volaille,nmod,NOUN,0.6946349143981934,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+bouillon,huile,amod,NOUN,0.6829477548599243,"[{""id"": 558647559, ""node1"": 146582, ""node2"": 141971, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+fromage,couteau,appos,NOUN,0.6421774625778198,[],,
+fromage,mixeur,nmod,NOUN,0.651794970035553,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+champignon,tout,amod,ADJ,0.5625302195549011,[],,
+essuyer,champignon,obj,NOUN,0.4991467893123626,[],,
+tranche,épais,amod,ADJ,0.468293696641922,[],,
+tailler,jambon,nmod,NOUN,0.5952386856079102,[],,
+chauffer,huile,amod,NOUN,0.64256751537323,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+poêle,grand,amod,ADJ,0.628409743309021,[],,
+huile,poêle,nmod,NOUN,0.6790264844894409,"[{""id"": 31823895, ""node1"": 141971, ""node2"": 119686, ""type"": 15, ""w"": 54.0}]",r_lieu,54.0
+sauter,ail,obj,NOUN,0.594678521156311,[],,
+oignon,remuer,advcl,VERB,0.6366802453994751,[],,
+mettre,champignon,obj,NOUN,0.5527715086936951,[],,
+prolonger,cuisson,obj,NOUN,0.6956652998924255,"[{""id"": 31821339, ""node1"": 36589, ""node2"": 60056, ""type"": 14, ""w"": 52.0}]",r_patient,52.0
+cuire,il,nsubj:pass,PRON,0.4034532904624939,[],,
+ce,cuire,acl,VERB,0.456451803445816,[],,
+fromage,tartiner,acl,VERB,0.6044971346855164,"[{""id"": 74306971, ""node1"": 141687, ""node2"": 131654, ""type"": 0, ""w"": 51.0}]",r_associated,51.0
+feu,dal,amod,ADJ,0.4373727440834045,[],,
+cuire,cesser,advcl,VERB,0.6450760960578918,[],,
+fondre,fromage,nsubj:pass,NOUN,0.6491246819496155,"[{""id"": 102294612, ""node1"": 16480, ""node2"": 141687, ""type"": 0, ""w"": 62.0}, {""id"": 98285435, ""node1"": 16480, ""node2"": 141687, ""type"": 13, ""w"": 31.0}]",r_associated,62.0
+ajouter,jambon,obj,NOUN,0.6169880032539368,[],,
+jambon,dinde,nmod,NOUN,0.6512636542320251,"[{""id"": 319617453, ""node1"": 57980, ""node2"": 48501, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+garder,feu,nmod,NOUN,0.5509458780288696,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+volume,grand,amod,ADJ,0.4097053706645965,"[{""id"": 2183077, ""node1"": 130885, ""node2"": 23178, ""type"": 0, ""w"": 61.0}]",r_associated,61.0
+volume,eau,nmod,NOUN,0.5477495789527893,"[{""id"": 30986586, ""node1"": 130885, ""node2"": 65012, ""type"": 0, ""w"": 35.0}, {""id"": 30984090, ""node1"": 130885, ""node2"": 65012, ""type"": 3, ""w"": 30.0}]",r_associated,35.0
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+indication,paquet,nmod,NOUN,0.4331961870193481,[],,
+mettre,pâte,obj,NOUN,0.6384987831115723,[],,
+fois,cuire,acl,VERB,0.6635112762451172,[],,

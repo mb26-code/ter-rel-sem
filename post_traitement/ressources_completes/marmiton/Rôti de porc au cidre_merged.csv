@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+rôti,porc,nmod,NOUN,0.6584966778755188,"[{""id"": 2339049, ""node1"": 19636, ""node2"": 71135, ""type"": 0, ""w"": 61.0}, {""id"": 1767079, ""node1"": 19636, ""node2"": 71135, ""type"": 666, ""w"": 1.0}]",r_associated,61.0
+rôti,cidre,nmod,NOUN,0.6849696636199951,[],,
+cidre,ingrédient,nmod,NOUN,0.621827244758606,[],,
+cidre,beurre,nmod,NOUN,0.6380676031112671,[],,
+beurre,sel,nmod,NOUN,0.7119027376174927,"[{""id"": 9986816, ""node1"": 140377, ""node2"": 13260, ""type"": 0, ""w"": 43.0}, {""id"": 649508, ""node1"": 140377, ""node2"": 13260, ""type"": 9, ""w"": 56.0}, {""id"": 3979381, ""node1"": 140377, ""node2"": 13260, ""type"": 777, ""w"": 10.0}]",r_has_part,56.0
+poivre,oignon,nmod,NOUN,0.6702394485473633,[],,
+cidre,pomme,nmod,NOUN,0.5914549231529236,"[{""id"": 406017, ""node1"": 75142, ""node2"": 37201, ""type"": 0, ""w"": 314.0}, {""id"": 377013731, ""node1"": 75142, ""node2"": 37201, ""type"": 20, ""w"": 42.0}, {""id"": 376056597, ""node1"": 75142, ""node2"": 37201, ""type"": 50, ""w"": 42.0}, {""id"": 941464359, ""node1"": 75142, ""node2"": 37201, ""type"": 666, ""w"": 4.0}]",r_associated,314.0
+cidre,terre,nmod,NOUN,0.6040664315223694,[],,
+cidre,couteau,appos,NOUN,0.6038533449172974,[],,
+couteau,économe,nmod,NOUN,0.5018488168716431,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]",r_hypo,76.0
+économe,cocotte,nmod,NOUN,0.5855699181556702,[],,
+couvercle,balance,nmod,NOUN,0.5437039136886597,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+cidre,étape,nmod,NOUN,0.5495535135269165,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+rôti,couper,acl,VERB,0.6697554588317871,"[{""id"": 892237773, ""node1"": 19636, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 344379930, ""node1"": 19636, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+couper,préférence,obj,NOUN,0.4688633382320404,[],,
+cocotte,grand,amod,ADJ,0.6067355871200562,[],,
+oignon,beurre,nmod,NOUN,0.702610969543457,[],,
+ajouter,rôti,obj,NOUN,0.6809270977973938,[],,
+savoureux,cuire,advcl,VERB,0.7495393753051758,[],,
+savoureux,goût,nsubj,NOUN,0.5610157251358032,"[{""id"": 97343960, ""node1"": 133888, ""node2"": 119233, ""type"": 0, ""w"": 30.0}, {""id"": 992098750, ""node1"": 133888, ""node2"": 119233, ""type"": 666, ""w"": 3.0}]",r_associated,30.0
+savoureux,servir,advcl,VERB,0.5566235184669495,[],,
+savoureux,jeter,advcl,VERB,0.5040261149406433,[],,
+jeter,pomme,obj,NOUN,0.5718280076980591,"[{""id"": 97862760, ""node1"": 48625, ""node2"": 37201, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+pomme,cocotte,nmod,NOUN,0.6659303307533264,[],,
+poivrer,ensemble,obj,NOUN,0.4926106333732605,[],,

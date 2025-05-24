@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,coco,nmod,NOUN,0.5416421294212341,[],,
+coco,Paimpol,nmod,PROPN,0.4814589917659759,[],,
+coco,ingrédient,nmod,NOUN,0.5981916785240173,"[{""id"": 602113826, ""node1"": 145904, ""node2"": 123418, ""type"": 0, ""w"": 16.0}]",r_associated,16.0
+coco,sel,appos,NOUN,0.7008851170539856,[],,
+sel,poivre,acl,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,tomate,nmod,NOUN,0.6968331336975098,[],,
+coco,oignon,amod,NOUN,0.6347469091415405,[],,
+oignon,coco,amod,ADV,0.6347469091415405,[],,
+coco,top,nmod,NOUN,0.488632321357727,[],,
+coco,casserole,nmod,NOUN,0.6443842649459839,[],,
+titre,cuire,acl,VERB,0.7010467648506165,[],,
+cuire,coco,obj,NOUN,0.7561575174331665,[],,
+saler,eau,obj,NOUN,0.6464982628822327,"[{""id"": 31771114, ""node1"": 15671, ""node2"": 65012, ""type"": 14, ""w"": 90.0}]",r_patient,90.0
+ajouter,tomate,obj,NOUN,0.6318210363388062,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 30.0}]",r_agent,30.0
+obtention,sauce,nmod,NOUN,0.6686236262321472,[],,
+sauce,épais,amod,ADJ,0.6604486703872681,[],,
+ajouter,tranche,obj,NOUN,0.4790236055850982,[],,
+tranche,chorizo,nmod,ADV,0.5975377559661865,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+égoutter,coco,obj,NOUN,0.6114034056663513,[],,
+poursuivre,cuisson,obj,NOUN,0.6843500733375549,[],,
+cuisson,minute,nmod,NOUN,0.6456773281097412,[],,

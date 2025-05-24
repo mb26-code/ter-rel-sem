@@ -1,0 +1,43 @@
+head,lemma,dep,pos,sim,relation
+concombre,burger,nsubj,NOUN,0.5646362900733948,[]
+burger,ingrédient,nmod,NOUN,0.6071193218231201,[]
+burger,huile,appos,NOUN,0.6621941924095154,[]
+huile,tomate,nmod,NOUN,0.6595464944839478,[]
+burger,poivron,nmod,NOUN,0.6433835029602051,[]
+poivron,rouge,amod,ADJ,0.5854978561401367,"[{""id"": 273173, ""node1"": 38257, ""node2"": 86356, ""type"": 0, ""w"": 151.0}, {""id"": 1944118, ""node1"": 38257, ""node2"": 86356, ""type"": 17, ""w"": 36.0}, {""id"": 3160591, ""node1"": 38257, ""node2"": 86356, ""type"": 106, ""w"": 11.0}]"
+concombre,pain,nmod,NOUN,0.6735052466392517,[]
+four,180,nmod,NUM,0.4979606568813324,[]
+couper,concombre,obj,NOUN,0.529761552810669,[]
+concombre,emporte,nmod,NOUN,0.491280734539032,[]
+pièce,donner,acl,VERB,0.4429972767829895,"[{""id"": 251170, ""node1"": 96851, ""node2"": 12941, ""type"": 25, ""w"": 56.0}, {""id"": 96920424, ""node1"": 96851, ""node2"": 12941, ""type"": 26, ""w"": 30.0}, {""id"": 380406167, ""node1"": 96851, ""node2"": 12941, ""type"": 30, ""w"": 26.0}]"
+donner,forme,obj,NOUN,0.4219751060009002,[]
+forme,choix,nmod,NOUN,0.4126357436180115,[]
+couper,poivron,obj,NOUN,0.6246095895767212,"[{""id"": 15085692, ""node1"": 128828, ""node2"": 38257, ""type"": 14, ""w"": 30.0}]"
+cuire,steak,obj,NOUN,0.7575573921203613,"[{""id"": 796846082, ""node1"": 5115, ""node2"": 55572, ""type"": 0, ""w"": 28.0}, {""id"": 15025387, ""node1"": 5115, ""node2"": 55572, ""type"": 13, ""w"": 40.0}, {""id"": 15082745, ""node1"": 5115, ""node2"": 55572, ""type"": 14, ""w"": 35.0}]"
+fin,minute,nmod,NOUN,0.4153892695903778,[]
+fin,cuisson,nmod,NOUN,0.5646086931228638,[]
+poser,morceau,obj,NOUN,0.5068401098251343,[]
+morceau,bleu,nmod,NOUN,0.5051599740982056,[]
+couper,qui,nsubj:pass,PRON,0.4259673058986664,[]
+morceau,couper,acl:relcl,VERB,0.5354392528533936,"[{""id"": 560946631, ""node1"": 65364, ""node2"": 128828, ""type"": 0, ""w"": 46.0}]"
+sortir,poêle,obj,NOUN,0.6358218193054199,[]
+poêle,feu,nmod,NOUN,0.623403787612915,"[{""id"": 12351768, ""node1"": 119686, ""node2"": 143703, ""type"": 0, ""w"": 31.0}, {""id"": 12199892, ""node1"": 119686, ""node2"": 143703, ""type"": 5, ""w"": 35.0}, {""id"": 1786279, ""node1"": 119686, ""node2"": 143703, ""type"": 666, ""w"": 1.0}]"
+fondre,fromage,nsubj:pass,NOUN,0.6491246819496155,"[{""id"": 102294612, ""node1"": 16480, ""node2"": 141687, ""type"": 0, ""w"": 62.0}, {""id"": 98285435, ""node1"": 16480, ""node2"": 141687, ""type"": 13, ""w"": 31.0}]"
+enfourner,pain,obj,NOUN,0.6818543076515198,[]
+pain,burger,nmod,NOUN,0.6463713645935059,"[{""id"": 28540722, ""node1"": 61283, ""node2"": 138357, ""type"": 0, ""w"": 24.0}, {""id"": 28517502, ""node1"": 61283, ""node2"": 138357, ""type"": 10, ""w"": 31.0}]"
+minute,manière,nmod,NOUN,0.4245858490467071,[]
+prêt,pain,nsubj,NOUN,0.6282323002815247,[]
+ingrédient,différent,amod,ADJ,0.5547208189964294,[]
+ingrédient,manière,nmod,NOUN,0.5632737874984741,[]
+ingrédient,monter,acl,VERB,0.5788773894309998,[]
+monter,burger,obj,NOUN,0.542360782623291,[]
+servir,moitié,nsubj,NOUN,0.5230002999305725,[]
+moitié,tranche,nmod,NOUN,0.443661093711853,[]
+tranche,concombre,nmod,NOUN,0.5259596109390259,"[{""id"": 796692631, ""node1"": 143123, ""node2"": 31570, ""type"": 0, ""w"": 26.0}]"
+moitié,burger,nmod,NOUN,0.5528486371040344,[]
+moitié,autre,amod,ADJ,0.4410399198532104,"[{""id"": 765505277, ""node1"": 89030, ""node2"": 7574, ""type"": 17, ""w"": 28.0}]"
+veiller,dent,obj,NOUN,0.462905615568161,[]
+haut,burger,nmod,NOUN,0.4795115292072296,[]
+enfiler,tranche,obj,NOUN,0.438222736120224,[]
+dégustation,bon,amod,ADJ,0.4751738309860229,"[{""id"": 561348579, ""node1"": 107364, ""node2"": 144229, ""type"": 0, ""w"": 31.0}]"
+veiller,dégustation,obj,NOUN,0.4975945651531219,[]

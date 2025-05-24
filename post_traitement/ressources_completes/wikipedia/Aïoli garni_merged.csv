@@ -1,0 +1,42 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+spécialité,culinaire,amod,ADJ,0.5888378620147705,"[{""id"": 477435, ""node1"": 49537, ""node2"": 347, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+culinaire,traditionnel,amod,ADJ,0.601408839225769,[],,
+spécialité,cuisine,nmod,NOUN,0.6405212879180908,"[{""id"": 477437, ""node1"": 49537, ""node2"": 16033, ""type"": 0, ""w"": 83.0}, {""id"": 473695606, ""node1"": 49537, ""node2"": 16033, ""type"": 3, ""w"": 16.0}, {""id"": 1694092, ""node1"": 49537, ""node2"": 16033, ""type"": 35, ""w"": 80.0}, {""id"": 980188220, ""node1"": 49537, ""node2"": 16033, ""type"": 666, ""w"": 3.0}]",r_associated,83.0
+cuisine,provençal,amod,ADJ,0.5804927945137024,"[{""id"": 428535134, ""node1"": 16033, ""node2"": 63261, ""type"": 0, ""w"": 30.0}, {""id"": 8394094, ""node1"": 16033, ""node2"": 63261, ""type"": 777, ""w"": 6.0}]",r_associated,30.0
+base,morue,nmod,NOUN,0.6298768520355225,[],,
+légume,cuire,acl,VERB,0.8004546165466309,"[{""id"": 660236, ""node1"": 120603, ""node2"": 5115, ""type"": 0, ""w"": 31.0}, {""id"": 14845362, ""node1"": 120603, ""node2"": 5115, ""type"": 24, ""w"": 30.0}, {""id"": 15071520, ""node1"": 120603, ""node2"": 5115, ""type"": 26, ""w"": 33.0}]",r_patient-1,33.0
+légume,accompagner,acl,VERB,0.6531046032905579,"[{""id"": 1804161, ""node1"": 120603, ""node2"": 85830, ""type"": 37, ""w"": 60.0}]",r_telic_role,60.0
+sauce,provençal,amod,ADJ,0.6866111755371094,[],,
+huile,olive,nmod,NOUN,0.573360800743103,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+huile,tire,acl:relcl,VERB,0.5169407725334167,[],,
+tire,recette,obj,NOUN,0.5114818215370178,[],,
+recette,familial,amod,ADJ,0.6048979163169861,[],,
+recette,simple,amod,ADJ,0.607221245765686,"[{""id"": 98281051, ""node1"": 120188, ""node2"": 53269, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+recette,exister,acl:relcl,VERB,0.5901581645011902,[],,
+légume,local,amod,ADJ,0.6076903939247131,[],,
+légume,saison,nmod,NOUN,0.6261534094810486,[],,
+saison,jardin,nmod,NOUN,0.5094315409660339,[],,
+morue,potager,nmod,PROPN,0.6517890095710754,[],,
+préparer,cuire,advcl,VERB,0.7140454649925232,"[{""id"": 53730145, ""node1"": 36246, ""node2"": 5115, ""type"": 0, ""w"": 24.0}, {""id"": 53623646, ""node1"": 36246, ""node2"": 5115, ""type"": 5, ""w"": 101.0}]",r_syn,101.0
+eau,carotte,appos,NOUN,0.6116065382957458,[],,
+carotte,pomme,appos,NOUN,0.5821788907051086,[],,
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+carotte,chou-fleur,nmod,NOUN,0.6297393441200256,[],,
+eau,haricot,appos,NOUN,0.5947540402412415,[],,
+haricot,vert,amod,ADJ,0.5002880096435547,"[{""id"": 369652, ""node1"": 114886, ""node2"": 26976, ""type"": 0, ""w"": 294.0}, {""id"": 1774168, ""node1"": 114886, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3163694, ""node1"": 114886, ""node2"": 26976, ""type"": 106, ""w"": 18.0}, {""id"": 1764962, ""node1"": 114886, ""node2"": 26976, ""type"": 666, ""w"": 3.0}]",r_associated,294.0
+haricot,oignon,appos,NOUN,0.5899847149848938,[],,
+haricot,betterave,nmod,NOUN,0.5589435696601868,[],,
+variante,mayonnaise,nmod,NOUN,0.5403159260749817,[],,
+mayonnaise,provençal,amod,ADJ,0.5498919486999512,[],,
+variante,base,nmod,NOUN,0.4934647679328918,[],,
+base,origine,nmod,NOUN,0.4821944832801819,"[{""id"": 12312837, ""node1"": 72257, ""node2"": 46994, ""type"": 0, ""w"": 23.0}, {""id"": 553748, ""node1"": 72257, ""node2"": 46994, ""type"": 5, ""w"": 161.0}, {""id"": 991303701, ""node1"": 72257, ""node2"": 46994, ""type"": 666, ""w"": 2.0}]",r_syn,161.0
+origine,émulsion,nmod,NOUN,0.4762551784515381,"[{""id"": 549637721, ""node1"": 46994, ""node2"": 88339, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+émulsion,ail,nmod,NOUN,0.5606120228767395,[],,
+pouvoir,repas,nsubj,NOUN,0.5378448963165283,[],,
+repas,complet,amod,ADJ,0.5252951979637146,"[{""id"": 14805012, ""node1"": 74736, ""node2"": 42645, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+œuf,dur,amod,ADJ,0.5370863080024719,"[{""id"": 560384151, ""node1"": 174124, ""node2"": 72731, ""type"": 0, ""w"": 67.0}]",r_associated,67.0
+escargot,provençal,nmod,PROPN,0.4240725934505462,[],,
+poulpe,petit,amod,ADJ,0.5311174392700195,[],,
+moule,poulpe,appos,NOUN,0.5362760424613953,[],,
+recette,vrai,amod,ADJ,0.5845058560371399,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,

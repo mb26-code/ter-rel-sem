@@ -1,0 +1,69 @@
+node1,node2,relations
+brioche,champignon,[]
+champignon,huile,[]
+mélange,épice,"[{""id"": 925026230, ""node1"": 14800, ""node2"": 146056, ""type"": 0, ""w"": 20.0}]"
+épice,farine,"[{""id"": 736569775, ""node1"": 146056, ""node2"": 127629, ""type"": 0, ""w"": 29.0}, {""id"": 390632341, ""node1"": 146056, ""node2"": 127629, ""type"": 777, ""w"": 10.0}]"
+épice,levure,[]
+levure,boulanger,"[{""id"": 1769594, ""node1"": 53450, ""node2"": 145285, ""type"": 0, ""w"": 90.0}, {""id"": 376186762, ""node1"": 53450, ""node2"": 145285, ""type"": 25, ""w"": 26.0}]"
+boulanger,sec,[]
+boulanger,levure,"[{""id"": 373731, ""node1"": 145285, ""node2"": 53450, ""type"": 0, ""w"": 142.0}, {""id"": 203694, ""node1"": 145285, ""node2"": 53450, ""type"": 16, ""w"": 80.0}, {""id"": 1041698986, ""node1"": 145285, ""node2"": 53450, ""type"": 666, ""w"": 2.0}]"
+levure,chimique,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]"
+levure,huile,[]
+sel,sucre,"[{""id"": 183179, ""node1"": 13260, ""node2"": 139481, ""type"": 0, ""w"": 182.0}, {""id"": 377013894, ""node1"": 13260, ""node2"": 139481, ""type"": 20, ""w"": 30.0}, {""id"": 377000348, ""node1"": 13260, ""node2"": 139481, ""type"": 21, ""w"": 28.0}, {""id"": 1032957125, ""node1"": 13260, ""node2"": 139481, ""type"": 78, ""w"": 32.0}]"
+sucre,lait,[]
+lait,carotte,[]
+balance,cuisine,[]
+balance,couvercle,[]
+couvercle,planche,[]
+balance,robot,[]
+balance,rouleau,[]
+rouleau,pâtisserie,"[{""id"": 34655902, ""node1"": 59019, ""node2"": 25966, ""type"": 0, ""w"": 31.0}]"
+pâtisserie,saladier,[]
+panier,bambou,[]
+panier,papier,[]
+titre,pâte,[]
+titre,brioche,[]
+titre,diluer,[]
+diluer,levure,[]
+levure,sec,[]
+càs,eau,[]
+eau,tiède,"[{""id"": 796965917, ""node1"": 65012, ""node2"": 13843, ""type"": 0, ""w"": 29.0}, {""id"": 128780, ""node1"": 65012, ""node2"": 13843, ""type"": 17, ""w"": 73.0}, {""id"": 600063832, ""node1"": 65012, ""node2"": 13843, ""type"": 27, ""w"": 32.0}]"
+pincée,sucre,[]
+prendre,minute,[]
+cuve,robot,[]
+verser,farine,"[{""id"": 25676320, ""node1"": 104506, ""node2"": 127629, ""type"": 14, ""w"": 40.0}]"
+verser,huile,"[{""id"": 227659, ""node1"": 104506, ""node2"": 141971, ""type"": 14, ""w"": 57.0}, {""id"": 645787360, ""node1"": 104506, ""node2"": 141971, ""type"": 666, ""w"": 2.0}]"
+verser,levure,[]
+levure,diluer,[]
+lait,tiède,"[{""id"": 421005986, ""node1"": 86296, ""node2"": 13843, ""type"": 0, ""w"": 2.0}, {""id"": 14800536, ""node1"": 86296, ""node2"": 13843, ""type"": 17, ""w"": 24.0}]"
+lait,petit,"[{""id"": 1794036, ""node1"": 86296, ""node2"": 55222, ""type"": 666, ""w"": 1.0}]"
+tenir,pâte,[]
+ajuster,lait,[]
+lait,fonction,[]
+former,boule,"[{""id"": 461428458, ""node1"": 66314, ""node2"": 141883, ""type"": 14, ""w"": 41.0}]"
+endroit,chaud,"[{""id"": 31865146, ""node1"": 134218, ""node2"": 19150, ""type"": 17, ""w"": 68.0}]"
+reposer,minute,[]
+forme,ovale,"[{""id"": 101754, ""node1"": 142000, ""node2"": 118680, ""type"": 0, ""w"": 102.0}, {""id"": 113439, ""node1"": 142000, ""node2"": 118680, ""type"": 8, ""w"": 63.0}]"
+aide,rouleau,[]
+découper,carré,[]
+carré,papier,"[{""id"": 473660189, ""node1"": 22120, ""node2"": 103389, ""type"": 0, ""w"": 55.0}]"
+placer,carré,[]
+côté,autre,[]
+rabattre,côté,[]
+côté,papier,[]
+ouvrir,couvercle,"[{""id"": 873653453, ""node1"": 54271, ""node2"": 89523, ""type"": 0, ""w"": 20.0}]"
+couvercle,temps,[]
+ouvrir,faire,[]
+sortir,vapeur,[]
+vapeur,eau,"[{""id"": 171414, ""node1"": 98392, ""node2"": 65012, ""type"": 0, ""w"": 353.0}, {""id"": 31128935, ""node1"": 98392, ""node2"": 65012, ""type"": 3, ""w"": 49.0}, {""id"": 116944, ""node1"": 98392, ""node2"": 65012, ""type"": 8, ""w"": -70.0}, {""id"": 186751, ""node1"": 98392, ""node2"": 65012, ""type"": 9, ""w"": 60.0}, {""id"": 193161, ""node1"": 98392, ""node2"": 65012, ""type"": 17, ""w"": -64.0}, {""id"": 377011584, ""node1"": 98392, ""node2"": 65012, ""type"": 20, ""w"": 35.0}, {""id"": 227111, ""node1"": 98392, ""node2"": 65012, ""type"": 35, ""w"": 210.0}, {""id"": 1767860, ""node1"": 98392, ""node2"": 65012, ""type"": 666, ""w"": 4.0}]"
+panier,vapeur,[]
+poêle,chaud,"[{""id"": 278998504, ""node1"": 119686, ""node2"": 19150, ""type"": 0, ""w"": 26.0}, {""id"": 3078839, ""node1"": 119686, ""node2"": 19150, ""type"": 17, ""w"": 27.0}]"
+ail,couper,"[{""id"": 31770903, ""node1"": 26979, ""node2"": 128828, ""type"": 26, ""w"": 35.0}]"
+ajouter,champignon,[]
+ajouter,couper,"[{""id"": 55053058, ""node1"": 25099, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 55011750, ""node1"": 25099, ""node2"": 128828, ""type"": 5, ""w"": 57.0}, {""id"": 85362404, ""node1"": 25099, ""node2"": 128828, ""type"": 7, ""w"": 31.0}]"
+verser,sauce,"[{""id"": 478293932, ""node1"": 104506, ""node2"": 141110, ""type"": 0, ""w"": 28.0}, {""id"": 478293931, ""node1"": 104506, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]"
+revenir,minute,[]
+brioche,étaler,[]
+carotte,découper,[]
+ajouter,feuille,[]
+feuille,coriandre,"[{""id"": 797250853, ""node1"": 37993, ""node2"": 61977, ""type"": 0, ""w"": 24.0}, {""id"": 403056603, ""node1"": 37993, ""node2"": 61977, ""type"": 777, ""w"": 10.0}]"

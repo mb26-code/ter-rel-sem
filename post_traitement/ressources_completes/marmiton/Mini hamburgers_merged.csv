@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+Mini,beurre,amod,NOUN,0.4899347126483917,[],,
+Mini,sucre,nmod,NOUN,0.5311099886894226,[],,
+sucre,sel,nmod,NOUN,0.6925632357597351,"[{""id"": 83941, ""node1"": 139481, ""node2"": 13260, ""type"": 0, ""w"": 401.0}, {""id"": 1046576271, ""node1"": 139481, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 1895756, ""node1"": 139481, ""node2"": 13260, ""type"": 20, ""w"": 51.0}, {""id"": 1376354, ""node1"": 139481, ""node2"": 13260, ""type"": 21, ""w"": 60.0}]",r_associated,401.0
+sel,farine,nmod,NOUN,0.7164311408996582,[],,
+sucre,levure,nmod,NOUN,0.6511401534080505,[],,
+sucre,sésame,nmod,NOUN,0.6855493187904358,[],,
+sésame,lait,nmod,NOUN,0.6232868432998657,[],,
+lait,viande,nmod,NOUN,0.6745868921279907,"[{""id"": 652313110, ""node1"": 86296, ""node2"": 140100, ""type"": 0, ""w"": 21.0}, {""id"": 758387123, ""node1"": 86296, ""node2"": 140100, ""type"": 6, ""w"": 15.0}]",r_associated,21.0
+lait,haché,amod,ADJ,0.6156249642372131,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,four,nmod,NOUN,0.7153509855270386,[],,
+four,pinceau,nmod,NOUN,0.6441405415534973,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+ingrédient,faire,acl,VERB,0.6170313358306885,[],,
+faire,pâte,obj,NOUN,0.662661075592041,"[{""id"": 97862385, ""node1"": 87528, ""node2"": 34069, ""type"": 14, ""w"": 32.0}]",r_patient,32.0
+boule,égal,amod,ADJ,0.4578366577625274,[],,
+graine,sésame,nmod,NOUN,0.5720810890197754,"[{""id"": 797533486, ""node1"": 14469, ""node2"": 18404, ""type"": 0, ""w"": 29.0}, {""id"": 246270686, ""node1"": 14469, ""node2"": 18404, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+façonner,mini,obj,NOUN,0.4352076947689056,[],,
+mini,steak,amod,X,0.5645909905433655,[],,
+viande,haché,amod,ADJ,0.6638813018798828,[],,
+cuire,le,obj,DET,0.4500194191932678,[],,
+rondelle,tomate,nmod,NOUN,0.5975306034088135,"[{""id"": 28747930, ""node1"": 71106, ""node2"": 22138, ""type"": 0, ""w"": 51.0}]",r_associated,51.0
+morceau,salade,nmod,NOUN,0.6903012990951538,[],,
+micro-onde,pain,nmod,NOUN,0.6834401488304138,[],,
+dur,qui,nsubj,PRON,0.4179613888263702,[],,
+pain,dur,acl:relcl,ADJ,0.5871957540512085,"[{""id"": 147652, ""node1"": 61283, ""node2"": 72731, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+sortir,four,nmod,NOUN,0.6499167084693909,[],,

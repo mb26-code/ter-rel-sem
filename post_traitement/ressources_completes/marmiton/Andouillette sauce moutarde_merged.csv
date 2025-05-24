@@ -1,0 +1,19 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+crème,échalote,nmod,NOUN,0.6363560557365417,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+poêle,couvercle,nmod,NOUN,0.6690102219581604,[],,
+couvercle,bol,nmod,NOUN,0.541790783405304,[],,
+bol,cuillère,nmod,NOUN,0.5572551488876343,"[{""id"": 1046576301, ""node1"": 145405, ""node2"": 51905, ""type"": 8, ""w"": 20.0}]",r_hypo,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,saladier,nmod,NOUN,0.6106023788452148,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+saladier,balance,nmod,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+peu,beurre,nmod,NOUN,0.5877829194068909,[],,
+échalote,feu,nmod,NOUN,0.6137195825576782,[],,
+échalote,doux,amod,ADJ,0.5418091416358948,[],,
+recouvrir,minute,obj,NOUN,0.4973368942737579,[],,
+mélanger,crème,obj,NOUN,0.6372199058532715,"[{""id"": 31849058, ""node1"": 37151, ""node2"": 44001, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+rajouter,mélange,obj,NOUN,0.5504195094108582,[],,
+cuire,doux,amod,ADJ,0.6520003080368042,"[{""id"": 967067970, ""node1"": 5115, ""node2"": 74183, ""type"": 14, ""w"": -25.0}]",r_patient,-25.0

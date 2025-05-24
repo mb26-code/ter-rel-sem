@@ -1,0 +1,27 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+paprika,moutarde,amod,ADJ,0.6161142587661743,[],,
+paprika,vinaigre,acl,NOUN,0.6533206105232239,[],,
+vinaigre,vin,nmod,NOUN,0.6279023885726929,"[{""id"": 260680, ""node1"": 145443, ""node2"": 35798, ""type"": 0, ""w"": 213.0}, {""id"": 82356060, ""node1"": 145443, ""node2"": 35798, ""type"": 6, ""w"": 36.0}, {""id"": 375688370, ""node1"": 145443, ""node2"": 35798, ""type"": 56, ""w"": 35.0}, {""id"": 1527098, ""node1"": 145443, ""node2"": 35798, ""type"": 666, ""w"": 2.0}]",r_associated,213.0
+oignon,rouge,amod,ADJ,0.5798735618591309,"[{""id"": 96738908, ""node1"": 123307, ""node2"": 86356, ""type"": 17, ""w"": 31.0}, {""id"": 3161226, ""node1"": 123307, ""node2"": 86356, ""type"": 106, ""w"": 3.0}]",r_carac,31.0
+oignon,poivre,acl,NOUN,0.6702394485473633,[],,
+poivre,four,appos,NOUN,0.7486028671264648,[],,
+four,fourchette,nmod,NOUN,0.6831614375114441,[],,
+four,barbecue,nmod,NOUN,0.6808654069900513,"[{""id"": 54698182, ""node1"": 9190, ""node2"": 95126, ""type"": 0, ""w"": 29.0}, {""id"": 54664380, ""node1"": 9190, ""node2"": 95126, ""type"": 5, ""w"": 97.0}]",r_syn,97.0
+préparer,sauce,obj,NOUN,0.6940045356750488,"[{""id"": 395781320, ""node1"": 36246, ""node2"": 141110, ""type"": 0, ""w"": 35.0}, {""id"": 373014451, ""node1"": 36246, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+mélanger,ingrédient,obj,NOUN,0.6362285614013672,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+chauffer,huile,obj,NOUN,0.64256751537323,[],,
+colorer,viande,obj,NOUN,0.7346773743629456,[],,
+face,tout,amod,ADJ,0.4081993997097015,[],,
+viande,face,nmod,NOUN,0.593183696269989,[],,
+ajouter,sauce,nmod,NOUN,0.6714595556259155,[],,
+verser,verre,obj,NOUN,0.5500485897064209,"[{""id"": 384991, ""node1"": 104506, ""node2"": 144497, ""type"": 0, ""w"": 70.0}, {""id"": 220538, ""node1"": 104506, ""node2"": 144497, ""type"": 14, ""w"": 60.0}, {""id"": 154209, ""node1"": 104506, ""node2"": 144497, ""type"": 16, ""w"": 80.0}, {""id"": 391688, ""node1"": 104506, ""node2"": 144497, ""type"": 31, ""w"": 110.0}]",r_action_lieu,110.0
+verre,eau,nmod,NOUN,0.5749212503433228,"[{""id"": 70610, ""node1"": 144497, ""node2"": 65012, ""type"": 0, ""w"": 314.0}, {""id"": 31129047, ""node1"": 144497, ""node2"": 65012, ""type"": 3, ""w"": 35.0}, {""id"": 10528262, ""node1"": 144497, ""node2"": 65012, ""type"": 9, ""w"": 9.0}, {""id"": 393483, ""node1"": 144497, ""node2"": 65012, ""type"": 28, ""w"": 194.0}, {""id"": 720818421, ""node1"": 144497, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 1523981, ""node1"": 144497, ""node2"": 65012, ""type"": 666, ""w"": 5.0}]",r_associated,314.0
+heure,cuisson,nmod,NOUN,0.6170463562011719,[],,
+retourner,viande,obj,NOUN,0.6923571228981018,"[{""id"": 133539, ""node1"": 103323, ""node2"": 140100, ""type"": 14, ""w"": 60.0}]",r_patient,60.0
+sortir,cocotte,obj,NOUN,0.6039508581161499,[],,
+cocotte,four,nmod,NOUN,0.7010051012039185,"[{""id"": 914970101, ""node1"": 120952, ""node2"": 9190, ""type"": 0, ""w"": 21.0}, {""id"": 109916595, ""node1"": 120952, ""node2"": 9190, ""type"": 777, ""w"": 9.0}]",r_associated,21.0
+aide,fourchette,nmod,NOUN,0.4181736707687378,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,cuire,amod,VERB,0.7712360620498657,"[{""id"": 195277465, ""node1"": 37201, ""node2"": 5115, ""type"": 24, ""w"": 31.0}, {""id"": 96711599, ""node1"": 37201, ""node2"": 5115, ""type"": 26, ""w"": 55.0}]",r_patient-1,55.0
+pomme,barbecue,nmod,NOUN,0.669480562210083,[],,

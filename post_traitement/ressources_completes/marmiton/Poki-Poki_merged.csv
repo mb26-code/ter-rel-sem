@@ -1,0 +1,21 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+tomate,préférence,nmod,NOUN,0.6172497272491455,[],,
+préférence,peau,nmod,NOUN,0.472513347864151,[],,
+fondre,oignon,obj,NOUN,0.6370865702629089,[],,
+ajouter,aubergine,obj,NOUN,0.5718286037445068,[],,
+cuisson,quasi,amod,NOUN,0.569545328617096,[],,
+cuisson,complet,amod,ADJ,0.6762620210647583,[],,
+ajouter,tomate,obj,NOUN,0.6318210363388062,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 30.0}]",r_agent,30.0
+poursuivre,cuisson,obj,NOUN,0.6843500733375549,[],,
+devoir,tomate,nsubj,NOUN,0.5861489772796631,[],,
+conserver,morceau,obj,NOUN,0.5555363297462463,[],,
+terminer,cuisson,nsubj:pass,NOUN,0.7031697034835815,[],,
+chaud,légume,nsubj,NOUN,0.6861595511436462,[],,
+ajouter,oeuf,obj,NOUN,0.5327831506729126,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+oeuf,battre,acl,VERB,0.5256416201591492,"[{""id"": 15064344, ""node1"": 116175, ""node2"": 119162, ""type"": 26, ""w"": 34.0}]",r_patient-1,34.0
+cuire,riz,obj,NOUN,0.7637909054756165,"[{""id"": 426022657, ""node1"": 5115, ""node2"": 24372, ""type"": 0, ""w"": 36.0}, {""id"": 31820394, ""node1"": 5115, ""node2"": 24372, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+riz,accompagnement,nmod,NOUN,0.6550289988517761,"[{""id"": 3196076, ""node1"": 24372, ""node2"": 22605, ""type"": 0, ""w"": 71.0}, {""id"": 1791473, ""node1"": 24372, ""node2"": 22605, ""type"": 6, ""w"": 66.0}]",r_associated,71.0
+cuire,ajouter,advcl,VERB,0.695756196975708,[],,
+eau,cuisson,nmod,NOUN,0.6715990304946899,"[{""id"": 489016047, ""node1"": 65012, ""node2"": 60056, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+peu,petit,amod,ADJ,0.4567189812660217,"[{""id"": 14380759, ""node1"": 39409, ""node2"": 55222, ""type"": 0, ""w"": 54.0}]",r_associated,54.0
+puissant,parfum,nsubj,NOUN,0.4450652599334717,[],,

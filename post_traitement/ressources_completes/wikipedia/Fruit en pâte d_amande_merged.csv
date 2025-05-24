@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+fruit,pâte,nmod,NOUN,0.6673598289489746,[],,
+pâtisserie,fruit,nsubj,NOUN,0.570954442024231,"[{""id"": 1787558, ""node1"": 25966, ""node2"": 87286, ""type"": 666, ""w"": 1.0}, {""id"": 3393651, ""node1"": 25966, ""node2"": 87286, ""type"": 777, ""w"": 8.0}]",r_wiki,8.0
+pâte,amande,nmod,NOUN,0.6331775784492493,"[{""id"": 796691772, ""node1"": 34069, ""node2"": 28557, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+pâtisserie,ancien,amod,ADJ,0.4966990351676941,[],,
+sorte,pâtisserie,nsubj,NOUN,0.5973100662231445,[],,
+pâtisserie,gâteau,nmod,NOUN,0.6360968947410583,"[{""id"": 221403, ""node1"": 25966, ""node2"": 2149, ""type"": 0, ""w"": 213.0}, {""id"": 563926, ""node1"": 25966, ""node2"": 2149, ""type"": 5, ""w"": 200.0}, {""id"": 420864, ""node1"": 25966, ""node2"": 2149, ""type"": 6, ""w"": -22.0}, {""id"": 1971094, ""node1"": 25966, ""node2"": 2149, ""type"": 8, ""w"": 110.0}, {""id"": 377013302, ""node1"": 25966, ""node2"": 2149, ""type"": 20, ""w"": 35.0}, {""id"": 1677218, ""node1"": 25966, ""node2"": 2149, ""type"": 27, ""w"": 51.0}, {""id"": 11343032, ""node1"": 25966, ""node2"": 2149, ""type"": 28, ""w"": 48.0}, {""id"": 9111784, ""node1"": 25966, ""node2"": 2149, ""type"": 35, ""w"": 102.0}, {""id"": 2463111, ""node1"": 25966, ""node2"": 2149, ""type"": 41, ""w"": 111.0}, {""id"": 1789856, ""node1"": 25966, ""node2"": 2149, ""type"": 666, ""w"": 4.0}]",r_associated,213.0
+gâteau,pâte,nmod,NOUN,0.6782779693603516,"[{""id"": 390332, ""node1"": 2149, ""node2"": 34069, ""type"": 0, ""w"": 59.0}, {""id"": 10532130, ""node1"": 2149, ""node2"": 34069, ""type"": 9, ""w"": 29.0}, {""id"": 97978610, ""node1"": 2149, ""node2"": 34069, ""type"": 42, ""w"": 34.0}, {""id"": 1821769, ""node1"": 2149, ""node2"": 34069, ""type"": 666, ""w"": 1.0}]",r_associated,59.0
+sorte,trompe,nmod,VERB,0.4255087673664093,[],,
+forme,fruit,nmod,NOUN,0.5122196674346924,[],,
+texture,doux,amod,ADJ,0.4948318302631378,"[{""id"": 723393760, ""node1"": 4910, ""node2"": 74183, ""type"": 0, ""w"": 28.0}, {""id"": 651212846, ""node1"": 4910, ""node2"": 74183, ""type"": 666, ""w"": 5.0}]",r_associated,28.0
+constituer,gâteau,nsubj:pass,NOUN,0.6098705530166626,[],,
+garniture,faire,acl,VERB,0.6399498581886292,[],,
+génoise,traditionnel,amod,ADJ,0.4962576329708099,[],,
+pâte,fruit,nmod,NOUN,0.6673598289489746,[],,
+prendre,forme,obj,NOUN,0.4647745192050934,"[{""id"": 488344148, ""node1"": 86306, ""node2"": 142000, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+forme,traditionnel,amod,ADJ,0.4914898872375488,[],,
+prendre,poire,obj,NOUN,0.5384769439697266,[],,
+préparation,pâte,nmod,NOUN,0.6519375443458557,"[{""id"": 920490588, ""node1"": 33634, ""node2"": 34069, ""type"": 0, ""w"": 20.0}, {""id"": 246257612, ""node1"": 33634, ""node2"": 34069, ""type"": 8, ""w"": 43.0}]",r_hypo,43.0
+préparation,amande,nmod,NOUN,0.5906379222869873,[],,
+technique,cuisson,nmod,NOUN,0.7087472081184387,"[{""id"": 246697944, ""node1"": 13701, ""node2"": 60056, ""type"": 8, ""w"": 28.0}]",r_hypo,28.0
+cuisson,traditionnel,amod,ADJ,0.7579112648963928,[],,
+technique,préparation,nmod,NOUN,0.523748517036438,[],,
+amande,cuit,acl,ADJ,0.7247796654701233,[],,
+celui,pâte,nmod,NOUN,0.6440386176109314,[],,
+reste,technique,nsubj,NOUN,0.4931488931179046,"[{""id"": 418458846, ""node1"": 21110, ""node2"": 13701, ""type"": 0, ""w"": 39.0}, {""id"": 418458845, ""node1"": 21110, ""node2"": 13701, ""type"": 3, ""w"": 35.0}]",r_associated,39.0
+technique,pâte,nmod,NOUN,0.64387446641922,"[{""id"": 595885401, ""node1"": 13701, ""node2"": 34069, ""type"": 27, ""w"": 29.0}]",r_domain-1,29.0
+amande,cuite,acl,NOUN,0.6263875365257263,[],,
+réaliser,savoir,obj,VERB,0.4020815789699554,[],,
+faire,particulier,amod,ADJ,0.497466504573822,[],,
+prendre,gâteau,nsubj,NOUN,0.618309736251831,[],,
+gâteau,pouvoir,acl:relcl,VERB,0.5602577328681946,[],,
+accompagner,café,obj,NOUN,0.5458163619041443,"[{""id"": 384923951, ""node1"": 85830, ""node2"": 66324, ""type"": 14, ""w"": 46.0}]",r_patient,46.0
+forme,divers,amod,ADJ,0.426334798336029,[],,
+forme,tel,amod,ADJ,0.4587892293930053,[],,
+pomme,citron,nmod,NOUN,0.6204884648323059,"[{""id"": 418275926, ""node1"": 37201, ""node2"": 15386, ""type"": 0, ""w"": 34.0}, {""id"": 4964999, ""node1"": 37201, ""node2"": 15386, ""type"": 777, ""w"": 2.0}]",r_associated,34.0
+figue,raisin,appos,NOUN,0.5262425541877747,"[{""id"": 796689279, ""node1"": 13842, ""node2"": 93528, ""type"": 0, ""w"": 23.0}]",r_associated,23.0

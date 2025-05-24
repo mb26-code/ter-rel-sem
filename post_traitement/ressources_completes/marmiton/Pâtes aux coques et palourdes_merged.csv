@@ -1,0 +1,39 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+pâte,coque,nmod,NOUN,0.6110782623291016,[],,
+ingrédient,persil,appos,NOUN,0.6674175262451172,[],,
+persil,beurre,appos,NOUN,0.6788381934165955,[],,
+sel,gros,amod,ADJ,0.6553788781166077,"[{""id"": 188164, ""node1"": 13260, ""node2"": 88096, ""type"": 0, ""w"": 60.0}, {""id"": 645838, ""node1"": 13260, ""node2"": 88096, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+ingrédient,sel,nmod,NOUN,0.6997572183609009,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+sel,coque,nmod,NOUN,0.6869620084762573,[],,
+sel,crème,nmod,NOUN,0.7389078736305237,[],,
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+crème,liquide,amod,ADJ,0.6173139810562134,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]",r_carac,52.0
+liquide,échalote,nmod,NOUN,0.6255438327789307,[],,
+sel,mélange,nmod,NOUN,0.6949740648269653,"[{""id"": 670025312, ""node1"": 13260, ""node2"": 14800, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+mélange,baie,nmod,NOUN,0.4360605180263519,[],,
+sel,top,nmod,NOUN,0.6398559212684631,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,appos,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+ingrédient,étape,nmod,NOUN,0.4697338342666626,[],,
+ingrédient,laver,acl,VERB,0.5941579341888428,[],,
+laver,coque,obj,NOUN,0.5121634602546692,[],,
+cuire,le,obj,PRON,0.4500194191932678,[],,
+cocotte,gros,amod,ADJ,0.5737282633781433,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+retirer,coquille,obj,NOUN,0.4764505326747894,[],,
+disposer,ajouter,advcl,VERB,0.4101519584655761,[],,
+ajouter,persil,obj,NOUN,0.5982922315597534,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+temps,cuire,acl,VERB,0.698011040687561,[],,
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+sel,temps,nmod,NOUN,0.6699050068855286,[],,
+fois,cuire,amod,VERB,0.6635112762451172,[],,
+revenir,échalote,obj,NOUN,0.5848109126091003,[],,
+revenir,ajouter,advcl,VERB,0.4373447000980377,[],,
+ajouter,pâte,obj,NOUN,0.6482475399971008,[],,
+contenu,plat,nmod,NOUN,0.5974408984184265,"[{""id"": 10529702, ""node1"": 108150, ""node2"": 36327, ""type"": 0, ""w"": 9.0}, {""id"": 1542827, ""node1"": 108150, ""node2"": 36327, ""type"": 10, ""w"": 56.0}]",r_holo,56.0
+réduire,crème,obj,NOUN,0.6032106280326843,[],,
+pincée,fleur,nmod,NOUN,0.52610182762146,[],,
+fleur,sel,nmod,NOUN,0.668102502822876,"[{""id"": 796703205, ""node1"": 28985, ""node2"": 13260, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+tour,moulin,nmod,NOUN,0.4674747586250305,[],,
+moulin,baie,nmod,NOUN,0.4167478382587433,[],,

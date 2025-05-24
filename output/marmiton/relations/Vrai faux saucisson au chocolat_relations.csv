@@ -1,0 +1,47 @@
+node1,node2,relations
+saucisson,faux,[]
+vrai,saucisson,"[{""id"": 376083923, ""node1"": 64585, ""node2"": 34296, ""type"": 23, ""w"": 26.0}]"
+saucisson,chocolat,"[{""id"": 373014594, ""node1"": 34296, ""node2"": 34157, ""type"": 17, ""w"": 31.0}]"
+saucisson,ingrédient,"[{""id"": 24929424, ""node1"": 34296, ""node2"": 123418, ""type"": 6, ""w"": 1.0}]"
+ingrédient,noix,[]
+noix,coco,"[{""id"": 1924690, ""node1"": 30910, ""node2"": 145904, ""type"": 0, ""w"": 55.0}]"
+sucre,glace,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -126.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]"
+sucre,beurre,[]
+beurre,chocolat,"[{""id"": 500926026, ""node1"": 140377, ""node2"": 34157, ""type"": 0, ""w"": 3.0}]"
+beurre,noir,"[{""id"": 24959078, ""node1"": 140377, ""node2"": 64238, ""type"": 17, ""w"": 37.0}, {""id"": 3179787, ""node1"": 140377, ""node2"": 64238, ""type"": 106, ""w"": 1.0}]"
+beurre,petit,[]
+oeuf,beurre,"[{""id"": 96638701, ""node1"": 116175, ""node2"": 140377, ""type"": 0, ""w"": 41.0}]"
+sucre,aluminium,[]
+aluminium,fouet,[]
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+sucre,casserole,[]
+casserole,couteau,[]
+casserole,cuillère,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]"
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,planche,[]
+cuillère,découper,[]
+balance,cuisine,[]
+balance,étape,[]
+matériel,papier,"[{""id"": 24509884, ""node1"": 33377, ""node2"": 103389, ""type"": 777, ""w"": 10.0}]"
+papier,aluminium,"[{""id"": 796957362, ""node1"": 103389, ""node2"": 95561, ""type"": 0, ""w"": 26.0}]"
+papier,fondre,[]
+fondre,chocolat,"[{""id"": 28589116, ""node1"": 16480, ""node2"": 34157, ""type"": 0, ""w"": 63.0}, {""id"": 24768886, ""node1"": 16480, ""node2"": 34157, ""type"": 13, ""w"": 30.0}, {""id"": 1011304980, ""node1"": 16480, ""node2"": 34157, ""type"": 14, ""w"": 30.0}, {""id"": 1009801551, ""node1"": 16480, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]"
+ajouter,oeuf,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]"
+oeuf,chocolat,"[{""id"": 796685682, ""node1"": 116175, ""node2"": 34157, ""type"": 0, ""w"": 31.0}, {""id"": 472413823, ""node1"": 116175, ""node2"": 34157, ""type"": 50, ""w"": 23.0}]"
+oeuf,chaud,[]
+cube,petit,[]
+mélanger,tout,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]"
+verser,préparation,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]"
+préparation,papier,[]
+papier,alu,[]
+replier,papier,"[{""id"": 3187255, ""node1"": 42514, ""node2"": 103389, ""type"": 0, ""w"": 72.0}, {""id"": 645786924, ""node1"": 42514, ""node2"": 103389, ""type"": 666, ""w"": 2.0}]"
+papier,autour,[]
+donner,forme,[]
+forme,saucisson,[]
+mettre,temps,[]
+temps,durcir,[]
+enlever,alu,[]
+passer,saucisson,[]
+planche,bois,"[{""id"": 113955, ""node1"": 120728, ""node2"": 96256, ""type"": 0, ""w"": 146.0}, {""id"": 98270888, ""node1"": 120728, ""node2"": 96256, ""type"": 3, ""w"": 27.0}, {""id"": 155758, ""node1"": 120728, ""node2"": 96256, ""type"": 9, ""w"": 69.0}, {""id"": 14803380, ""node1"": 120728, ""node2"": 96256, ""type"": 17, ""w"": -30.0}, {""id"": 9344125, ""node1"": 120728, ""node2"": 96256, ""type"": 35, ""w"": 106.0}, {""id"": 14668015, ""node1"": 120728, ""node2"": 96256, ""type"": 42, ""w"": 37.0}, {""id"": 376056247, ""node1"": 120728, ""node2"": 96256, ""type"": 50, ""w"": 42.0}, {""id"": 8191918, ""node1"": 120728, ""node2"": 96256, ""type"": 54, ""w"": 27.0}, {""id"": 3188784, ""node1"": 120728, ""node2"": 96256, ""type"": 106, ""w"": 3.0}, {""id"": 989832044, ""node1"": 120728, ""node2"": 96256, ""type"": 666, ""w"": 3.0}]"
+saucisson,vrai,"[{""id"": 373015030, ""node1"": 34296, ""node2"": 64585, ""type"": 17, ""w"": 26.0}]"
+planche,saucisson,[]

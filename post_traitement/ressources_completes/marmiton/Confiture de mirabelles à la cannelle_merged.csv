@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+confiture,cannelle,nmod,NOUN,0.6640986204147339,[],,
+cannelle,ingrédient,nmod,NOUN,0.7036176919937134,[],,
+cannelle,sucre,appos,NOUN,0.6844181418418884,"[{""id"": 980366649, ""node1"": 112959, ""node2"": 139481, ""type"": 666, ""w"": 3.0}]",r_aki,3.0
+sucre,cannelle,amod,ADJ,0.6844181418418884,"[{""id"": 1011319152, ""node1"": 139481, ""node2"": 112959, ""type"": 0, ""w"": 12.0}]",r_associated,12.0
+sucre,pomme,nmod,NOUN,0.7055277824401855,"[{""id"": 98623378, ""node1"": 139481, ""node2"": 37201, ""type"": 0, ""w"": 19.0}, {""id"": 612652730, ""node1"": 139481, ""node2"": 37201, ""type"": 9, ""w"": -5.0}, {""id"": 97415216, ""node1"": 139481, ""node2"": 37201, ""type"": 10, ""w"": 26.0}]",r_holo,26.0
+pomme,citron,nmod,NOUN,0.6272388696670532,"[{""id"": 418275926, ""node1"": 37201, ""node2"": 15386, ""type"": 0, ""w"": 34.0}, {""id"": 4964999, ""node1"": 37201, ""node2"": 15386, ""type"": 777, ""w"": 2.0}]",r_associated,34.0
+sucre,mixeur,nmod,NOUN,0.6836506724357605,[],,
+mixeur,cuillère,nmod,NOUN,0.5916650295257568,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+sucre,Laver,nmod,PROPN,0.5193901658058167,[],,
+ajouter,moitié,obj,NOUN,0.4683646261692047,[],,
+moitié,poids,nmod,NOUN,0.4468549191951751,[],,
+moitié,sucre,nmod,NOUN,0.6619113087654114,[],,
+sucre,cristal,nmod,ADJ,0.6053502559661865,"[{""id"": 922152204, ""node1"": 139481, ""node2"": 68659, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+surveiller,cuisson,obj,NOUN,0.6946427226066589,"[{""id"": 1007853514, ""node1"": 39170, ""node2"": 60056, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+cuisson,remuer,acl,VERB,0.7127492427825928,[],,
+surveiller,mixer,advcl,VERB,0.5076804757118225,[],,
+préparation,précaution,nmod,NOUN,0.4961096346378326,[],,
+laisser,prune,obj,NOUN,0.5105211734771729,[],,
+prune,entier,amod,ADJ,0.5260455012321472,[],,
+utilisation,mixer,nmod,VERB,0.5175430178642273,[],,
+ajouter,cannelle,obj,ADJ,0.6217688322067261,[],,
+zeste,citron,nmod,NOUN,0.5487085580825806,"[{""id"": 615058522, ""node1"": 98173, ""node2"": 15386, ""type"": 0, ""w"": 22.0}, {""id"": 9991099, ""node1"": 98173, ""node2"": 15386, ""type"": 10, ""w"": 4.0}, {""id"": 377014851, ""node1"": 98173, ""node2"": 15386, ""type"": 20, ""w"": 34.0}, {""id"": 986046177, ""node1"": 98173, ""node2"": 15386, ""type"": 666, ""w"": 2.0}]",r_has_magn,34.0
+continuer,cuisson,obj,NOUN,0.6962435841560364,"[{""id"": 373014731, ""node1"": 120659, ""node2"": 60056, ""type"": 14, ""w"": 31.0}]",r_patient,31.0

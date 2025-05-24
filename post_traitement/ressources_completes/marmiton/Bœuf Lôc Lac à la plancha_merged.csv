@@ -1,0 +1,19 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,bœuf,appos,NOUN,0.5581445693969727,[],,
+bœuf,plancha,nmod,NOUN,0.6458396911621094,[],,
+bœuf,ingrédient,nmod,NOUN,0.6396374106407166,"[{""id"": 24930232, ""node1"": 168216, ""node2"": 123418, ""type"": 6, ""w"": 1.0}]",r_isa,1.0
+bœuf,poivre,appos,NOUN,0.6811782121658325,[],,
+poivre,sucre,acl,NOUN,0.7045173048973083,"[{""id"": 584573844, ""node1"": 139597, ""node2"": 139481, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+sucre,sésame,nmod,NOUN,0.6855493187904358,[],,
+sésame,huile,amod,NOUN,0.6178574562072754,"[{""id"": 12258573, ""node1"": 18404, ""node2"": 141971, ""type"": 0, ""w"": 32.0}, {""id"": 678049, ""node1"": 18404, ""node2"": 141971, ""type"": 5, ""w"": 41.0}, {""id"": 97343670, ""node1"": 18404, ""node2"": 141971, ""type"": 53, ""w"": 29.0}, {""id"": 1786371, ""node1"": 18404, ""node2"": 141971, ""type"": 666, ""w"": 1.0}]",r_syn,41.0
+sésame,eau,nmod,NOUN,0.6345168948173523,[],,
+couteau,cuillère,nmod,NOUN,0.5726497173309326,"[{""id"": 116903, ""node1"": 32610, ""node2"": 51905, ""type"": 0, ""w"": 80.0}, {""id"": 539956577, ""node1"": 32610, ""node2"": 51905, ""type"": 25, ""w"": -25.0}]",r_associated,80.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,plancher,nmod,ADV,0.5831617712974548,[],,
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+cube,gros,amod,ADJ,0.4745939373970032,[],,
+préparer,marinade,obj,NOUN,0.6658932566642761,[],,
+heure,frigo,nmod,NOUN,0.5361418128013611,[],,
+saisir,viande,obj,NOUN,0.658169150352478,"[{""id"": 12982475, ""node1"": 80010, ""node2"": 140100, ""type"": 14, ""w"": 81.0}]",r_patient,81.0
+viande,plancha,nmod,NOUN,0.7255880236625671,[],,
+plancha,chaud,amod,ADJ,0.6266776323318481,[],,

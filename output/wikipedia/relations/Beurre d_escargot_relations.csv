@@ -1,0 +1,53 @@
+node1,node2,relations
+titre,beurre,[]
+beurre,article,[]
+beurre,voir,[]
+voir,beurre,[]
+beurre,ail,"[{""id"": 500926028, ""node1"": 140377, ""node2"": 26979, ""type"": 0, ""w"": 3.0}]"
+préparation,beurre,"[{""id"": 797002494, ""node1"": 33634, ""node2"": 140377, ""type"": 0, ""w"": 25.0}]"
+beurre,escargot,"[{""id"": 796693589, ""node1"": 140377, ""node2"": 64107, ""type"": 0, ""w"": 30.0}]"
+demande,préparation,[]
+préparation,culinaire,"[{""id"": 601611802, ""node1"": 33634, ""node2"": 347, ""type"": 0, ""w"": 30.0}]"
+préparation,traditionnel,[]
+préparation,cuisine,"[{""id"": 2311730, ""node1"": 33634, ""node2"": 16033, ""type"": 0, ""w"": 115.0}, {""id"": 13031130, ""node1"": 33634, ""node2"": 16033, ""type"": 3, ""w"": 63.0}, {""id"": 553973, ""node1"": 33634, ""node2"": 16033, ""type"": 5, ""w"": 87.0}, {""id"": 13031127, ""node1"": 33634, ""node2"": 16033, ""type"": 35, ""w"": 95.0}, {""id"": 14658749, ""node1"": 33634, ""node2"": 16033, ""type"": 41, ""w"": 30.0}, {""id"": 650972228, ""node1"": 33634, ""node2"": 16033, ""type"": 666, ""w"": 4.0}]"
+cuisine,français,"[{""id"": 940911531, ""node1"": 16033, ""node2"": 144991, ""type"": 17, ""w"": 62.0}]"
+préparation,base,[]
+base,beurre,[]
+base,ail,[]
+préparation,utiliser,[]
+escargot,cuisine,"[{""id"": 15370862, ""node1"": 64107, ""node2"": 16033, ""type"": 0, ""w"": 272.0}, {""id"": 505340, ""node1"": 64107, ""node2"": 16033, ""type"": 3, ""w"": 270.0}, {""id"": 23136696, ""node1"": 64107, ""node2"": 16033, ""type"": 35, ""w"": 45.0}]"
+diplomatie,moment,[]
+restauration,premier,[]
+moment,restauration,[]
+cuisinier,célèbre,"[{""id"": 372709560, ""node1"": 118790, ""node2"": 64300, ""type"": 17, ""w"": 26.0}]"
+cuisinier,bourguignon,[]
+préparer,escargot,[]
+dîner,donner,[]
+dîner,Alexandre,[]
+demande,mettre,[]
+disposition,dernier,[]
+baptiser,escargot,[]
+escargot,bourguignon,"[{""id"": 98280419, ""node1"": 64107, ""node2"": 72370, ""type"": 17, ""w"": 30.0}]"
+succès,gastronomique,[]
+emblème,cuisine,[]
+cuisine,bourguignon,"[{""id"": 15304415, ""node1"": 16033, ""node2"": 72370, ""type"": 0, ""w"": 24.0}, {""id"": 15174434, ""node1"": 16033, ""node2"": 72370, ""type"": 27, ""w"": 30.0}]"
+réaliser,beurre,[]
+heure,température,[]
+façon,homogène,"[{""id"": 373217183, ""node1"": 81363, ""node2"": 124759, ""type"": 17, ""w"": 91.0}]"
+film,plastique,[]
+pouvoir,classique,[]
+classique,cuisine,[]
+recette,nombreux,[]
+agrémenter,recette,[]
+recette,base,[]
+base,viande,[]
+viande,poisson,"[{""id"": 2501737, ""node1"": 140100, ""node2"": 68467, ""type"": 0, ""w"": 42.0}, {""id"": 15855284, ""node1"": 140100, ""node2"": 68467, ""type"": 8, ""w"": -25.0}, {""id"": 1029365478, ""node1"": 140100, ""node2"": 68467, ""type"": 67, ""w"": 26.0}, {""id"": 1032955645, ""node1"": 140100, ""node2"": 68467, ""type"": 78, ""w"": 40.0}]"
+viande,fruit,[]
+fruit,mer,[]
+viande,moule,[]
+viande,pâte,[]
+viande,riz,"[{""id"": 34720047, ""node1"": 140100, ""node2"": 24372, ""type"": 67, ""w"": 43.0}]"
+pomme,terre,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+pouvoir,tomate,[]
+tomate,provençale,[]
+projet,autre,[]

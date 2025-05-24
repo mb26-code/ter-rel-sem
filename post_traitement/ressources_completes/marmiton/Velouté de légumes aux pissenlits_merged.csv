@@ -1,0 +1,42 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+velouté,légume,nmod,NOUN,0.6526260375976562,[],,
+velouté,ingrédient,nmod,NOUN,0.6268470287322998,[],,
+velouté,sel,nmod,NOUN,0.7175381183624268,[],,
+sel,poivre,nmod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,beurre,amod,NOUN,0.71866774559021,"[{""id"": 584573840, ""node1"": 139597, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+beurre,poireau,nmod,NOUN,0.694847047328949,[],,
+poireau,carotte,amod,ADJ,0.6094618439674377,"[{""id"": 270426, ""node1"": 130303, ""node2"": 76234, ""type"": 0, ""w"": 72.0}]",r_associated,72.0
+velouté,pomme,nmod,NOUN,0.6291032433509827,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,cube,nmod,NOUN,0.5789888501167297,[],,
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+bouillon,eau,appos,NOUN,0.6091527938842773,"[{""id"": 32063698, ""node1"": 146582, ""node2"": 65012, ""type"": 0, ""w"": 33.0}, {""id"": 418498335, ""node1"": 146582, ""node2"": 65012, ""type"": 3, ""w"": 31.0}, {""id"": 32061929, ""node1"": 146582, ""node2"": 65012, ""type"": 9, ""w"": 53.0}]",r_has_part,53.0
+velouté,louche,appos,NOUN,0.590481698513031,[],,
+louche,mixeur,nmod,NOUN,0.5896725058555603,[],,
+mixeur,casserole,nmod,NOUN,0.61752849817276,[],,
+casserole,couteau,nmod,NOUN,0.6493775248527527,[],,
+casserole,mixeur,nmod,NOUN,0.61752849817276,[],,
+mixeur,planche,nmod,NOUN,0.5847295522689819,[],,
+velouté,découper,acl,VERB,0.5988345742225647,[],,
+découper,balance,obj,NOUN,0.4950466752052307,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+velouté,trier,nmod,NOUN,0.4578736424446106,[],,
+velouté,feuille,nmod,NOUN,0.5881938934326172,[],,
+laver,enlever,advcl,VERB,0.4616250395774841,"[{""id"": 916635, ""node1"": 143876, ""node2"": 82345, ""type"": 0, ""w"": 54.0}, {""id"": 54633114, ""node1"": 143876, ""node2"": 82345, ""type"": 5, ""w"": 65.0}]",r_syn,65.0
+enlever,terre,obj,NOUN,0.5354655385017395,"[{""id"": 477388503, ""node1"": 82345, ""node2"": 25705, ""type"": 0, ""w"": 35.0}, {""id"": 477388502, ""node1"": 82345, ""node2"": 25705, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+marmite,grand,amod,ADJ,0.6199902296066284,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+légume,autre,amod,ADJ,0.6339733600616455,[],,
+trier,légume,obj,NOUN,0.5286650061607361,[],,
+tranche,fin,amod,ADJ,0.4211523532867431,[],,
+tranche,poireau,nmod,NOUN,0.5866134166717529,[],,
+ajouter,légume,obj,NOUN,0.6689792275428772,[],,
+légume,marmite,nmod,NOUN,0.7662506103515625,[],,
+ajouter,poivrer,advcl,VERB,0.4842216670513153,[],,
+ajouter,cube,obj,NOUN,0.4883004128932953,[],,
+bouillon,volaille,nmod,NOUN,0.6946349143981934,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+fondant,légume,nsubj,NOUN,0.6849730610847473,[],,
+mixer,légume,obj,NOUN,0.6782754063606262,"[{""id"": 1639141, ""node1"": 12170, ""node2"": 120603, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+légume,rajouter,acl,VERB,0.6888344883918762,[],,
+eau,besoin,nmod,NOUN,0.5439085960388184,"[{""id"": 1030694961, ""node1"": 65012, ""node2"": 33296, ""type"": 0, ""w"": 20.0}]",r_associated,20.0

@@ -1,0 +1,48 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,gâteau,nmod,NOUN,0.5333040952682495,[],,
+café,cuisson,nmod,NOUN,0.7157335877418518,[],,
+cuisson,ingrédient,nmod,NOUN,0.78163743019104,[],,
+cuisson,sucre,appos,NOUN,0.7885577082633972,[],,
+sucre,beurre,nmod,NOUN,0.6973879933357239,[],,
+beurre,tendre,amod,ADJ,0.6567766666412354,"[{""id"": 172916, ""node1"": 140377, ""node2"": 71211, ""type"": 17, ""w"": 90.0}]",r_carac,90.0
+beurre,petit,amod,ADJ,0.6663225889205933,[],,
+rhum,beurre,appos,NOUN,0.6213503479957581,[],,
+beurre,café,nmod,NOUN,0.6545824408531189,[],,
+café,café,nmod,NOUN,0.4949884116649627,"[{""id"": 1077682811, ""node1"": 66324, ""node2"": 66324, ""type"": 0, ""w"": 30.0}, {""id"": 1077682813, ""node1"": 66324, ""node2"": 66324, ""type"": 5, ""w"": 30.0}, {""id"": 357333, ""node1"": 66324, ""node2"": 66324, ""type"": 15, ""w"": 118.0}, {""id"": 286138, ""node1"": 66324, ""node2"": 66324, ""type"": 19, ""w"": 56.0}, {""id"": 378380, ""node1"": 66324, ""node2"": 66324, ""type"": 28, ""w"": 110.0}, {""id"": 1077682812, ""node1"": 66324, ""node2"": 66324, ""type"": 72, ""w"": 30.0}, {""id"": 648884970, ""node1"": 66324, ""node2"": 66324, ""type"": 99, ""w"": 32.0}]",r_lieu,118.0
+soluble,oeuf,nmod,NOUN,0.5220792293548584,[],,
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+pâtisserie,moule,nmod,NOUN,0.56337571144104,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]",r_associated,24.0
+grille,manquer,acl,VERB,0.4866251647472381,[],,
+Spatule,saladier,nmod,NOUN,0.4745384156703949,[],,
+saladier,balance,nmod,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,réfrigérateur,nmod,NOUN,0.5236407518386841,[],,
+réfrigérateur,plat,nmod,ADJ,0.6221921443939209,"[{""id"": 399515136, ""node1"": 128721, ""node2"": 36327, ""type"": 0, ""w"": 100.0}, {""id"": 13501043, ""node1"": 128721, ""node2"": 36327, ""type"": 28, ""w"": 60.0}]",r_associated,100.0
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[],,
+réfrigérateur,réduire,amod,VERB,0.5024309158325195,[],,
+réfrigérateur,beurre,obj,NOUN,0.6882804036140442,"[{""id"": 148457, ""node1"": 128721, ""node2"": 140377, ""type"": 0, ""w"": 98.0}, {""id"": 141108, ""node1"": 128721, ""node2"": 140377, ""type"": 28, ""w"": 479.0}]",r_lieu-1,479.0
+réfrigérateur,crème,nmod,NOUN,0.6270837187767029,"[{""id"": 10634834, ""node1"": 128721, ""node2"": 44001, ""type"": 28, ""w"": 177.0}]",r_lieu-1,177.0
+réfrigérateur,aide,nmod,NOUN,0.4315474927425384,[],,
+aide,spatule,nmod,NOUN,0.4394362568855285,[],,
+ajouter,cassonade,obj,NOUN,0.5719919800758362,[],,
+travailler,mélange,obj,NOUN,0.5418144464492798,[],,
+ce,sucre,acl,NOUN,0.4035288095474243,[],,
+incorporer,jaune,obj,NOUN,0.5292928814888,[],,
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]",r_associated,598.0
+café,soluble,amod,ADJ,0.5184008479118347,[],,
+homogène,mélange,nsubj,NOUN,0.4782799482345581,"[{""id"": 560376822, ""node1"": 124759, ""node2"": 14800, ""type"": 0, ""w"": 32.0}, {""id"": 33169412, ""node1"": 124759, ""node2"": 14800, ""type"": 23, ""w"": 54.0}]",r_carac-1,54.0
+incorporer,homogène,advcl,ADJ,0.4159013032913208,[],,
+incorporer,blanc,obj,NOUN,0.5217159390449524,[],,
+blanc,oeuf,nmod,NOUN,0.5395181179046631,"[{""id"": 215721, ""node1"": 15196, ""node2"": 116175, ""type"": 0, ""w"": 84.0}, {""id"": 31299415, ""node1"": 15196, ""node2"": 116175, ""type"": 3, ""w"": 32.0}, {""id"": 76136326, ""node1"": 15196, ""node2"": 116175, ""type"": 10, ""w"": 26.0}, {""id"": 373603, ""node1"": 15196, ""node2"": 116175, ""type"": 23, ""w"": 110.0}, {""id"": 91492401, ""node1"": 15196, ""node2"": 116175, ""type"": 35, ""w"": 54.0}]",r_carac-1,110.0
+oeuf,monter,acl,VERB,0.5409289002418518,[],,
+neige,ferme,amod,ADJ,0.460278570652008,[],,
+moitié,tremper,amod,ADJ,0.5530732870101929,[],,
+moitié,biscuit,nmod,NOUN,0.5818341374397278,[],,
+moitié,café,nmod,NOUN,0.5690661668777466,[],,
+plat,obtenir,acl,VERB,0.5972187519073486,[],,
+moitié,crème,nmod,NOUN,0.5984757542610168,[],,
+opération,biscuit,nmod,NOUN,0.5566039681434631,[],,
+crème,restant,amod,ADJ,0.6158434748649597,[],,
+réfrigérateur,heure,nmod,NOUN,0.4385888278484344,[],,
+réfrigérateur,servir,advcl,VERB,0.5581485629081726,[],,
+servir,frais,obj,ADJ,0.4840525686740875,"[{""id"": 560379713, ""node1"": 7888, ""node2"": 53495, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
