@@ -21,8 +21,8 @@ This script:
 
 RESULTS:
 Total files processed: 7441
-Total entries extracted: 104536
-Total duplicates skipped: 163522
+Total entries extracted: 56999
+Total duplicates skipped: 169050
 """
 
 import os
@@ -31,7 +31,7 @@ import json
 from collections import OrderedDict
 
 # Define paths
-BASE_DIR = "/Users/qmacstore/Development/python/ter-rel-sem/post_traitement"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 RESOURCES_DIR = os.path.join(BASE_DIR, "ressources_completes")
 MARMITON_DIR = os.path.join(RESOURCES_DIR, "marmiton")
 WIKIPEDIA_DIR = os.path.join(RESOURCES_DIR, "wikipedia")
@@ -139,12 +139,16 @@ def process_file(file_path, writer, processed_entries):
                 else:
                     db_row['relations'] = "[]"
                 
-                # Create a unique key for deduplication (node1, node2, dep)
-                entry_key = (db_row['node1'], db_row['node2'], db_row['dep'])
+                # Create a unique key for deduplication (node1, node2)
+                entry_key = (db_row['node1'], db_row['node2'])
                 
                 # Skip if we've already seen this combination
                 if entry_key in processed_entries:
                     duplicates_count += 1
+                    continue
+
+                # Skip if any key contains "titre"
+                if any("titre" in key for key in db_row.values()):
                     continue
                 
                 # Add to our set of processed entries
@@ -154,6 +158,10 @@ def process_file(file_path, writer, processed_entries):
                 if db_row['sim']:
                     try:
                         db_row['sim'] = float(db_row['sim'])
+                        # Skip if similarity is less than 0.5
+                        if db_row['sim'] < 0.5:
+                            continue
+
                     except ValueError:
                         db_row['sim'] = None
                 

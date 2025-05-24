@@ -117,7 +117,7 @@ pivots = [
 ]
 
 # Similarity threshold with the "gastronomy" vector
-THRESHOLD = 0.4
+THRESHOLD = 0.5
 
 @dataclass
 class TokenAnnotation:
@@ -162,7 +162,7 @@ def extract_pairs(tokens):
             pairs.append((head.lemma, tok.lemma, tok.dep, tok.pos))
     return pairs
 
-def load_word2vec_model(model_path='cc.fr.300.vec.gz', limit=50000):
+def load_word2vec_model(model_path='cc.fr.300.vec.gz', limit=100000):
     """
     Load the Word2Vec model
     """
