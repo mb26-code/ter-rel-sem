@@ -1,0 +1,16 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+italien,cocktail,nsubj,NOUN,0.4592036306858063,[],,
+cocktail,balade,nmod,NOUN,0.4846826195716858,[],,
+cocktail,ingrédient,nmod,NOUN,0.5962467789649963,"[{""id"": 98701591, ""node1"": 132548, ""node2"": 123418, ""type"": 0, ""w"": 35.0}]",r_associated,35.0
+cocktail,feuille,nmod,NOUN,0.5484582185745239,[],,
+feuille,laurier,nmod,PROPN,0.4908609986305237,"[{""id"": 15624759, ""node1"": 37993, ""node2"": 114548, ""type"": 0, ""w"": 29.0}, {""id"": 14620301, ""node1"": 37993, ""node2"": 114548, ""type"": 10, ""w"": 36.0}]",r_holo,36.0
+laurier,thym,amod,NOUN,0.544379472732544,"[{""id"": 2138604, ""node1"": 114548, ""node2"": 3323, ""type"": 0, ""w"": 60.0}]",r_associated,60.0
+feuille,sirop,amod,NOUN,0.6235955953598022,[],,
+sirop,cerise,nmod,NOUN,0.5951241850852966,"[{""id"": 561004785, ""node1"": 91109, ""node2"": 49073, ""type"": 0, ""w"": 37.0}]",r_associated,37.0
+italien,zeste,obj,NOUN,0.4898202419281006,[],,
+zeste,orange,nmod,NOUN,0.4928069710731506,"[{""id"": 615058526, ""node1"": 98173, ""node2"": 145382, ""type"": 0, ""w"": 22.0}, {""id"": 1043938102, ""node1"": 98173, ""node2"": 145382, ""type"": 10, ""w"": 19.0}, {""id"": 986046178, ""node1"": 98173, ""node2"": 145382, ""type"": 666, ""w"": 2.0}, {""id"": 113257228, ""node1"": 98173, ""node2"": 145382, ""type"": 777, ""w"": 10.0}]",r_associated,22.0
+orange,verre,nmod,NOUN,0.5477895736694336,[],,
+verre,vin,nmod,NOUN,0.5935676693916321,"[{""id"": 108748, ""node1"": 144497, ""node2"": 35798, ""type"": 0, ""w"": 134.0}, {""id"": 123509, ""node1"": 144497, ""node2"": 35798, ""type"": 8, ""w"": -50.0}, {""id"": 10527320, ""node1"": 144497, ""node2"": 35798, ""type"": 9, ""w"": 9.0}, {""id"": 393479, ""node1"": 144497, ""node2"": 35798, ""type"": 28, ""w"": 183.0}, {""id"": 720818008, ""node1"": 144497, ""node2"": 35798, ""type"": 174, ""w"": 25.0}, {""id"": 1921306, ""node1"": 144497, ""node2"": 35798, ""type"": 666, ""w"": 3.0}]",r_lieu-1,183.0
+branche,bouteille,nmod,NOUN,0.4811215102672577,[],,
+verre,remplir,acl,VERB,0.5030102729797363,"[{""id"": 558833126, ""node1"": 144497, ""node2"": 95980, ""type"": 0, ""w"": 32.0}, {""id"": 225536, ""node1"": 144497, ""node2"": 95980, ""type"": 25, ""w"": 200.0}, {""id"": 2480798, ""node1"": 144497, ""node2"": 95980, ""type"": 26, ""w"": 100.0}, {""id"": 410471, ""node1"": 144497, ""node2"": 95980, ""type"": 30, ""w"": 80.0}]",r_instr-1,200.0
+ajouter,sirop,obj,NOUN,0.6229512691497803,[],,

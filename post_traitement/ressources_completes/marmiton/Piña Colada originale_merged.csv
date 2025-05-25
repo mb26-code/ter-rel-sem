@@ -1,0 +1,14 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,rhum,appos,NOUN,0.5808014273643494,[],,
+rhum,blanc,amod,ADJ,0.5540717244148254,"[{""id"": 2557588, ""node1"": 129154, ""node2"": 15196, ""type"": 0, ""w"": 31.0}, {""id"": 1879917, ""node1"": 129154, ""node2"": 15196, ""type"": 17, ""w"": 28.0}, {""id"": 3163810, ""node1"": 129154, ""node2"": 15196, ""type"": 106, ""w"": 15.0}]",r_associated,31.0
+ingrédient,jus,acl,NOUN,0.6051733493804932,[],,
+jus,ananas,nmod,NOUN,0.5756807923316956,"[{""id"": 899180188, ""node1"": 53310, ""node2"": 115827, ""type"": 0, ""w"": 22.0}, {""id"": 1055429116, ""node1"": 53310, ""node2"": 115827, ""type"": 666, ""w"": 2.0}]",r_associated,22.0
+jus,lait,nmod,NOUN,0.608954906463623,[],,
+jus,étape,nmod,NOUN,0.5936597585678101,[],,
+ingrédient,réaliser,acl,VERB,0.5835720300674438,[],,
+réaliser,recette,obj,NOUN,0.5851512551307678,"[{""id"": 373014759, ""node1"": 4528, ""node2"": 120188, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+recette,mixer,nmod,VERB,0.6591783165931702,"[{""id"": 878708815, ""node1"": 120188, ""node2"": 12170, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+verre,seul,amod,ADJ,0.5061174035072327,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+verser,ingrédient,obj,NOUN,0.5961355566978455,[],,

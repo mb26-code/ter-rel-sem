@@ -1,0 +1,37 @@
+node1,node2,relations
+titre,pain,[]
+pain,perdre,[]
+perdre,ingrédient,[]
+perdre,sucre,[]
+sucre,canne,"[{""id"": 107598, ""node1"": 139481, ""node2"": 144267, ""type"": 0, ""w"": 241.0}, {""id"": 160436, ""node1"": 139481, ""node2"": 144267, ""type"": 15, ""w"": 78.0}, {""id"": 1763995, ""node1"": 139481, ""node2"": 144267, ""type"": 666, ""w"": 1.0}]"
+sucre,lait,[]
+lait,oeuf,"[{""id"": 920038083, ""node1"": 86296, ""node2"": 116175, ""type"": 0, ""w"": 21.0}, {""id"": 385498014, ""node1"": 86296, ""node2"": 116175, ""type"": 8, ""w"": -25.0}]"
+lait,pain,"[{""id"": 386065405, ""node1"": 86296, ""node2"": 61283, ""type"": 6, ""w"": -25.0}, {""id"": 97056196, ""node1"": 86296, ""node2"": 61283, ""type"": 78, ""w"": 35.0}]"
+sucre,fouet,[]
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+fouet,set,[]
+set,poêle,[]
+pinceau,four,[]
+four,saladier,[]
+saladier,balance,[]
+balance,cuisine,[]
+balance,plat,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]"
+fouet,étape,[]
+fouet,fouetter,"[{""id"": 261972, ""node1"": 73888, ""node2"": 45711, ""type"": 0, ""w"": 127.0}, {""id"": 14844358, ""node1"": 73888, ""node2"": 45711, ""type"": 24, ""w"": 30.0}, {""id"": 376732, ""node1"": 73888, ""node2"": 45711, ""type"": 25, ""w"": 270.0}, {""id"": 1058913995, ""node1"": 73888, ""node2"": 45711, ""type"": 37, ""w"": 27.0}, {""id"": 648837886, ""node1"": 73888, ""node2"": 45711, ""type"": 99, ""w"": 34.0}]"
+fouet,oeuf,[]
+fouet,sucre,[]
+tremper,tranche,[]
+tranche,pain,"[{""id"": 240074, ""node1"": 143123, ""node2"": 61283, ""type"": 0, ""w"": 221.0}, {""id"": 97833247, ""node1"": 143123, ""node2"": 61283, ""type"": 3, ""w"": 10.0}, {""id"": 9992595, ""node1"": 143123, ""node2"": 61283, ""type"": 10, ""w"": 4.0}, {""id"": 97327248, ""node1"": 143123, ""node2"": 61283, ""type"": 35, ""w"": 30.0}, {""id"": 775213283, ""node1"": 143123, ""node2"": 61283, ""type"": 174, ""w"": 25.0}]"
+laisser,solution,[]
+solution,cuisson,[]
+cuire,le,[]
+solution,cuire,[]
+cuire,dorer,"[{""id"": 96739726, ""node1"": 5115, ""node2"": 67147, ""type"": 0, ""w"": 24.0}, {""id"": 96739731, ""node1"": 5115, ""node2"": 67147, ""type"": 5, ""w"": 28.0}, {""id"": 394240, ""node1"": 5115, ""node2"": 67147, ""type"": 21, ""w"": 58.0}]"
+plat,gratin,"[{""id"": 415003453, ""node1"": 36327, ""node2"": 12942, ""type"": 0, ""w"": 28.0}, {""id"": 246264043, ""node1"": 36327, ""node2"": 12942, ""type"": 8, ""w"": 32.0}]"
+répartir,tranche,[]
+verser,reste,[]
+reste,mélange,[]
+sucre,envie,"[{""id"": 13818256, ""node1"": 139481, ""node2"": 146357, ""type"": 32, ""w"": 51.0}]"
+cuire,c,[]
+dorer,tranche,[]
+laisser,dorer,[]

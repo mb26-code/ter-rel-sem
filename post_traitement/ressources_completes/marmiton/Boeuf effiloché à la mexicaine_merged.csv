@@ -1,0 +1,51 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,boeuf,appos,NOUN,0.5486986637115479,[],,
+boeuf,mexicain,nmod,ADJ,0.5469435453414917,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+poivre,bouillon,obj,NOUN,0.7096828818321228,[],,
+bouillon,boeuf,nmod,NOUN,0.6349595785140991,[],,
+boeuf,purée,nmod,NOUN,0.681876003742218,[],,
+boeuf,oignon,nmod,NOUN,0.6415389776229858,[],,
+oignon,boeuf,nmod,NOUN,0.6415389776229858,[],,
+boeuf,huile,amod,NOUN,0.6595109701156616,"[{""id"": 941866985, ""node1"": 47417, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+boeuf,citron,nmod,NOUN,0.6526677012443542,[],,
+ingrédient,eau,appos,NOUN,0.6008535623550415,"[{""id"": 245157298, ""node1"": 123418, ""node2"": 65012, ""type"": 8, ""w"": 36.0}]",r_hypo,36.0
+eau,poivre,amod,NOUN,0.6668042540550232,[],,
+poivre,sel,appos,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+ingrédient,coriandre,appos,NOUN,0.6872987747192383,[],,
+coriandre,piment,nmod,NOUN,0.639997124671936,"[{""id"": 922162957, ""node1"": 61977, ""node2"": 128791, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+casserole,couvercle,obj,NOUN,0.6508210897445679,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]",r_has_part,100.0
+couvercle,bol,nmod,NOUN,0.541790783405304,[],,
+bol,saladier,nmod,NOUN,0.5367903709411621,"[{""id"": 796872211, ""node1"": 145405, ""node2"": 45455, ""type"": 0, ""w"": 28.0}, {""id"": 1029292999, ""node1"": 145405, ""node2"": 45455, ""type"": 67, ""w"": 34.0}]",r_similar,34.0
+bol,set,nmod,NOUN,0.4851927459239959,[],,
+bol,poêle,nmod,NOUN,0.6388387084007263,[],,
+épice,tout,amod,ADJ,0.6792278289794922,[],,
+ajouter,épice,obj,NOUN,0.6555647850036621,[],,
+diluer,bouillon,obj,NOUN,0.55594402551651,[],,
+bouillon,bœuf,nmod,NOUN,0.6356950998306274,[],,
+feu,vif,amod,ADJ,0.5094798803329468,"[{""id"": 418102926, ""node1"": 143703, ""node2"": 80204, ""type"": 0, ""w"": 13.0}, {""id"": 221184, ""node1"": 143703, ""node2"": 80204, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
+ajouter,bœuf,obj,NOUN,0.6058138012886047,[],,
+bœuf,épicé,amod,ADV,0.6357264518737793,[],,
+baisser,feu,obj,NOUN,0.552813708782196,[],,
+feu,feu,nmod,NOUN,0.5028720498085022,"[{""id"": 302588, ""node1"": 143703, ""node2"": 143703, ""type"": 19, ""w"": 59.0}]",r_lemma,59.0
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+ajouter,ail,obj,NOUN,0.5651978254318237,[],,
+verser,jus,obj,NOUN,0.5870975852012634,"[{""id"": 560983474, ""node1"": 104506, ""node2"": 53310, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+citron,vert,amod,ADJ,0.5348256230354309,"[{""id"": 1559582, ""node1"": 15386, ""node2"": 26976, ""type"": 0, ""w"": 61.0}, {""id"": 1773945, ""node1"": 15386, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3160941, ""node1"": 15386, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]",r_associated,61.0
+verser,tomate,obj,NOUN,0.6385160088539124,[],,
+bœuf,diluer,acl,VERB,0.6204882860183716,[],,
+heure,feu,nmod,NOUN,0.5557770729064941,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+couvrir,retourner,advcl,VERB,0.417440116405487,[],,
+retourner,bœuf,obj,NOUN,0.582776665687561,[],,
+bœuf,temps,nmod,NOUN,0.604541003704071,[],,
+retirer,couvercle,obj,NOUN,0.520710825920105,[],,
+poursuivre,cuisson,obj,NOUN,0.6843500733375549,[],,
+retirer,viande,obj,NOUN,0.6854143142700195,[],,
+viande,sauce,nmod,NOUN,0.7607674598693848,"[{""id"": 477334468, ""node1"": 140100, ""node2"": 141110, ""type"": 75, ""w"": 41.0}]",r_accomp,41.0
+aide,fourchette,nmod,NOUN,0.4181736707687378,[],,
+replacer,viande,obj,NOUN,0.6695109605789185,[],,
+poivre,goût,nmod,NOUN,0.6579909324645996,"[{""id"": 584573796, ""node1"": 139597, ""node2"": 119233, ""type"": 0, ""w"": 16.0}]",r_associated,16.0
+déguster,quel,obj,ADJ,0.4782944023609161,[],,
+garniture,inspiration,nmod,NOUN,0.5704280734062195,[],,

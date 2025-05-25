@@ -1,0 +1,32 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+pâte,fruit,nmod,NOUN,0.6626965999603271,[],,
+pâte,ingrédient,nmod,NOUN,0.6811284422874451,"[{""id"": 24920568, ""node1"": 34069, ""node2"": 123418, ""type"": 6, ""w"": 17.0}]",r_isa,17.0
+pâte,sucre,nmod,NOUN,0.7055894136428833,"[{""id"": 96931421, ""node1"": 34069, ""node2"": 139481, ""type"": 50, ""w"": 30.0}]",r_object>mater,30.0
+sucre,top,nmod,NOUN,0.5400970578193665,[],,
+top,mixeur,nmod,NOUN,0.4417882561683655,[],,
+mixeur,top,nmod,NOUN,0.4417882561683655,[],,
+papier,meilleur,amod,ADJ,0.4798659384250641,[],,
+top,papier,nmod,NOUN,0.4000419974327087,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+balance,simple,amod,ADJ,0.4652294814586639,[],,
+cuire,fruit,obj,NOUN,0.7542517185211182,"[{""id"": 1047029653, ""node1"": 5115, ""node2"": 87286, ""type"": 13, ""w"": 30.0}]",r_agent,30.0
+fruit,morceau,nmod,NOUN,0.5414688587188721,[],,
+cuire,éplucher,advcl,VERB,0.6798201203346252,[],,
+eau,couvrir,acl,VERB,0.5730895400047302,[],,
+ajouter,moitié,obj,NOUN,0.4683646261692047,[],,
+moitié,poids,nmod,NOUN,0.4468549191951751,[],,
+moitié,sucre,nmod,NOUN,0.6619113087654114,[],,
+mettre,citron,obj,NOUN,0.6173582673072815,[],,
+tendre,fruit,nsubj,NOUN,0.4968417286872864,"[{""id"": 462302215, ""node1"": 71211, ""node2"": 87286, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+remettre,purée,obj,NOUN,0.6572343707084656,[],,
+purée,feu,nmod,NOUN,0.6725172996520996,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+remettre,tournant,advcl,NOUN,0.4215857982635498,[],,
+étaler,pâte,obj,NOUN,0.6019123196601868,"[{""id"": 364779096, ""node1"": 98214, ""node2"": 34069, ""type"": 0, ""w"": 38.0}, {""id"": 243248, ""node1"": 98214, ""node2"": 34069, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+moule,plat,amod,ADJ,0.6266494989395142,"[{""id"": 561135048, ""node1"": 143723, ""node2"": 36327, ""type"": 0, ""w"": 58.0}]",r_associated,58.0
+mettre,moule,obj,NOUN,0.5371627807617188,[],,
+couvert,papier,nmod,NOUN,0.5157919526100159,[],,
+radiateur,jour,nmod,NOUN,0.4230259358882904,[],,
+ferme,pâte,nsubj,NOUN,0.6196715235710144,"[{""id"": 595309638, ""node1"": 29786, ""node2"": 34069, ""type"": 23, ""w"": 33.0}]",r_carac-1,33.0

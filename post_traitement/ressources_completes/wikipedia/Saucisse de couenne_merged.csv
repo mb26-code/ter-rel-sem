@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,saucisse,appos,NOUN,0.5414736866950989,[],,
+charcuterie,saucisse,nsubj,NOUN,0.5864459276199341,"[{""id"": 175389, ""node1"": 6938, ""node2"": 77807, ""type"": 0, ""w"": 127.0}, {""id"": 54777536, ""node1"": 6938, ""node2"": 77807, ""type"": 5, ""w"": 86.0}, {""id"": 9757411, ""node1"": 6938, ""node2"": 77807, ""type"": 8, ""w"": 53.0}, {""id"": 31145245, ""node1"": 6938, ""node2"": 77807, ""type"": 27, ""w"": 30.0}, {""id"": 98275407, ""node1"": 6938, ""node2"": 77807, ""type"": 28, ""w"": 44.0}, {""id"": 25263969, ""node1"": 6938, ""node2"": 77807, ""type"": 35, ""w"": 54.0}, {""id"": 726044755, ""node1"": 6938, ""node2"": 77807, ""type"": 666, ""w"": 3.0}]",r_associated,127.0
+charcuterie,France,nmod,PROPN,0.436796486377716,"[{""id"": 561250709, ""node1"": 6938, ""node2"": 87987, ""type"": 0, ""w"": 38.0}, {""id"": 439412011, ""node1"": 6938, ""node2"": 87987, ""type"": 777, ""w"": 10.0}]",r_associated,38.0
+charcuterie,provenir,acl,VERB,0.4994897246360779,[],,
+recette,même,amod,ADJ,0.6053631901741028,[],,
+avoir,recette,obj,NOUN,0.5731593370437622,[],,
+portion,saucisse,amod,NOUN,0.6118910312652588,[],,
+présente,portion,obj,NOUN,0.4940845072269439,[],,
+diamètre,gros,amod,ADJ,0.4212996661663055,[],,
+portion,diamètre,nmod,NOUN,0.4953953623771667,[],,
+celui,saucisson,nmod,NOUN,0.5064767599105835,[],,
+peser,morceau,nsubj,NOUN,0.4970225095748901,[],,
+peser,gramme,obj,NOUN,0.4050478935241699,"[{""id"": 473577808, ""node1"": 34122, ""node2"": 140383, ""type"": 0, ""w"": 16.0}]",r_associated,16.0
+tiers,viande,nmod,NOUN,0.6198436617851257,[],,
+tiers,gras,nmod,NOUN,0.5029398202896118,[],,
+comporte,pain,obj,NOUN,0.6450411081314087,[],,
+moyen,recette,nsubj,NOUN,0.6345013976097107,"[{""id"": 12297276, ""node1"": 34933, ""node2"": 120188, ""type"": 0, ""w"": 27.0}, {""id"": 577952, ""node1"": 34933, ""node2"": 120188, ""type"": 5, ""w"": 136.0}]",r_syn,136.0
+moyen,utiliser,acl,VERB,0.4548803567886352,[],,
+quantité,grand,amod,ADJ,0.5105735659599304,"[{""id"": 1717406, ""node1"": 78869, ""node2"": 23178, ""type"": 17, ""w"": 10.0}]",r_carac,10.0
+utiliser,quantité,obj,NOUN,0.5224570035934448,[],,
+quantité,issu,amod,ADJ,0.4093053340911865,[],,
+abattage,porc,nmod,NOUN,0.5414807796478271,[],,
+citer,saucisse,obj,NOUN,0.4046021401882171,[],,
+nécessiter,cuisson,obj,NOUN,0.7025859951972961,"[{""id"": 797049179, ""node1"": 41207, ""node2"": 60056, ""type"": 14, ""w"": 32.0}]",r_patient,32.0
+cuisson,long,amod,ADJ,0.6257815361022949,[],,
+cuisson,enrichir,acl:relcl,VERB,0.7058639526367188,[],,
+enrichir,bouillon,obj,NOUN,0.5666254758834839,[],,
+bouillon,gélatine,nmod,NOUN,0.6403661966323853,[],,
+utiliser,particularité,nsubj:pass,NOUN,0.4259138405323028,[],,
+renommer,recette,nsubj:pass,NOUN,0.553905189037323,[],,
+type,lentille,appos,NOUN,0.4991866648197174,[],,
+faire,fabrication,nsubj,NOUN,0.5392556190490723,"[{""id"": 914760109, ""node1"": 87528, ""node2"": 143005, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+renommer,faire,advcl,VERB,0.4124538600444793,[],,
+raison,cuisson,nmod,NOUN,0.7066006064414978,[],,
+cuisson,plat,nmod,NOUN,0.7428919672966003,"[{""id"": 940962326, ""node1"": 60056, ""node2"": 36327, ""type"": 0, ""w"": 51.0}, {""id"": 720489354, ""node1"": 60056, ""node2"": 36327, ""type"": 173, ""w"": 25.0}, {""id"": 987931330, ""node1"": 60056, ""node2"": 36327, ""type"": 666, ""w"": 3.0}]",r_associated,51.0
+plat,traditionnel,amod,ADJ,0.6021727323532104,"[{""id"": 93507621, ""node1"": 36327, ""node2"": 41139, ""type"": 17, ""w"": 35.0}]",r_carac,35.0

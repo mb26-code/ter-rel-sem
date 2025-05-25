@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+chou,ingrédient,nmod,NOUN,0.6174046993255615,[],,
+chou,sel,nmod,NOUN,0.7074003219604492,[],,
+sel,poivre,nmod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+saucisse,Montbéliard,nmod,PROPN,0.4728213548660278,"[{""id"": 642807546, ""node1"": 77807, ""node2"": 17572, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+chou,pomme,nmod,NOUN,0.6104527115821838,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,rôti,amod,NOUN,0.6952256560325623,[],,
+pomme,porc,nmod,NOUN,0.6530267596244812,"[{""id"": 914389700, ""node1"": 37201, ""node2"": 71135, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+pomme,bouquet,nmod,NOUN,0.5841546654701233,[],,
+bouquet,garni,amod,ADJ,0.4469667077064514,[],,
+pomme,crème,amod,NOUN,0.6424804329872131,[],,
+crème,huile,amod,NOUN,0.6383523344993591,"[{""id"": 821193, ""node1"": 44001, ""node2"": 141971, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+pinceau,étape,nmod,NOUN,0.4064047634601593,[],,
+couper,chou,obj,NOUN,0.5729162693023682,[],,
+faire,blanchir,acl,VERB,0.4920421540737152,[],,
+cocotte,gros,amod,ADJ,0.5737282633781433,[],,
+cocotte,minute,nmod,NOUN,0.5547523498535156,"[{""id"": 80542, ""node1"": 120952, ""node2"": 31491, ""type"": 0, ""w"": 70.0}, {""id"": 1764372, ""node1"": 120952, ""node2"": 31491, ""type"": 666, ""w"": 3.0}]",r_associated,70.0
+insérer,huile,obj,NOUN,0.5542109608650208,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+dorer,oignon,obj,NOUN,0.6056223511695862,"[{""id"": 1021986507, ""node1"": 67147, ""node2"": 123307, ""type"": 0, ""w"": 40.0}, {""id"": 93571698, ""node1"": 67147, ""node2"": 123307, ""type"": 13, ""w"": 30.0}, {""id"": 93547211, ""node1"": 67147, ""node2"": 123307, ""type"": 14, ""w"": 30.0}]",r_associated,40.0
+rôti,fumé,amod,ADJ,0.6271105408668518,[],,
+rôti,couper,acl,VERB,0.6697554588317871,"[{""id"": 892237773, ""node1"": 19636, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 344379930, ""node1"": 19636, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+dorer,minute,obj,NOUN,0.5380439162254333,[],,
+viande,doré,amod,ADJ,0.6744937300682068,[],,
+viande,ajouter,acl,VERB,0.7162638902664185,[],,
+ajouter,pomme,obj,NOUN,0.602749228477478,[],,
+blanchir,chou,nsubj,NOUN,0.5886573791503906,"[{""id"": 437962054, ""node1"": 55842, ""node2"": 67203, ""type"": 0, ""w"": 34.0}, {""id"": 333214327, ""node1"": 55842, ""node2"": 67203, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+saler,ajouter,advcl,VERB,0.5586202144622803,"[{""id"": 213486741, ""node1"": 15671, ""node2"": 25099, ""type"": 57, ""w"": 29.0}]",r_implication,29.0
+ajouter,bouquet,obj,NOUN,0.4769440293312073,[],,
+cocotte,tout,amod,ADJ,0.6417487263679504,[],,
+cuire,cocotte,obj,NOUN,0.74668288230896,"[{""id"": 480380760, ""node1"": 5115, ""node2"": 120952, ""type"": 0, ""w"": 30.0}, {""id"": 428911, ""node1"": 5115, ""node2"": 120952, ""type"": 31, ""w"": 60.0}]",r_action_lieu,60.0
+cocotte,fermé,amod,ADJ,0.5135326981544495,[],,
+cuire,fois,nsubj,NOUN,0.6635112762451172,"[{""id"": 72773965, ""node1"": 5115, ""node2"": 38021, ""type"": 34, ""w"": -25.0}]",r_manner,-25.0
+ajouter,crème,obj,NOUN,0.610580325126648,[],,

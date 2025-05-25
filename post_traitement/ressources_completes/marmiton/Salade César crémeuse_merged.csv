@@ -1,0 +1,20 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,salade,appos,NOUN,0.5926524996757507,[],,
+salade,César,flat:name,PROPN,0.4428686499595642,[],,
+salade,crémeux,amod,ADJ,0.6629059314727783,[],,
+salade,ingrédient,nmod,NOUN,0.7127874493598938,[],,
+salade,vinaigre,acl,NOUN,0.7109248638153076,"[{""id"": 385546, ""node1"": 118908, ""node2"": 145443, ""type"": 0, ""w"": 68.0}, {""id"": 97758245, ""node1"": 118908, ""node2"": 145443, ""type"": 9, ""w"": 27.0}]",r_associated,68.0
+vinaigre,moutarde,amod,NOUN,0.6449266076087952,"[{""id"": 921470213, ""node1"": 145443, ""node2"": 28335, ""type"": 0, ""w"": 21.0}, {""id"": 3355918, ""node1"": 145443, ""node2"": 28335, ""type"": 777, ""w"": 10.0}]",r_associated,21.0
+vinaigre,lait,acl:relcl,NOUN,0.6312961578369141,[],,
+lait,romain,amod,ADJ,0.5410588383674622,[],,
+lait,bacon,nmod,NOUN,0.6406887769699097,[],,
+titre,cuillère,nmod,NOUN,0.5080531239509583,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,bol,nmod,NOUN,0.5572551488876343,"[{""id"": 662510559, ""node1"": 51905, ""node2"": 145405, ""type"": 0, ""w"": 23.0}, {""id"": 765213573, ""node1"": 51905, ""node2"": 145405, ""type"": 75, ""w"": 29.0}, {""id"": 1032957252, ""node1"": 51905, ""node2"": 145405, ""type"": 78, ""w"": 27.0}]",r_accomp,29.0
+bol,étape,nmod,NOUN,0.5393725633621216,[],,
+cuillère,mélanger,acl,VERB,0.6018561720848083,"[{""id"": 8865393, ""node1"": 51905, ""node2"": 37151, ""type"": 0, ""w"": 16.0}, {""id"": 140516, ""node1"": 51905, ""node2"": 37151, ""type"": 25, ""w"": 731.0}]",r_instr-1,731.0
+ingrédient,premier,amod,ADJ,0.5280829071998596,[],,
+mélanger,ingrédient,obj,NOUN,0.6362285614013672,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ingrédient,ensemble,amod,NOUN,0.5373786091804504,[],,
+bol,salade,nmod,NOUN,0.6159324645996094,"[{""id"": 775213407, ""node1"": 145405, ""node2"": 118908, ""type"": 174, ""w"": 25.0}, {""id"": 999129611, ""node1"": 145405, ""node2"": 118908, ""type"": 666, ""w"": 3.0}]",r_quantificateur-1,25.0
+verser,sauce,obj,NOUN,0.6628547310829163,"[{""id"": 478293932, ""node1"": 104506, ""node2"": 141110, ""type"": 0, ""w"": 28.0}, {""id"": 478293931, ""node1"": 104506, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0

@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+dessert,traditionnel,amod,ADJ,0.5936668515205383,[],,
+dessert,sud,nmod,NOUN,0.4266720414161682,[],,
+dessert,préparer,acl,VERB,0.60911625623703,"[{""id"": 2481460, ""node1"": 38557, ""node2"": 36246, ""type"": 26, ""w"": 30.0}, {""id"": 348324112, ""node1"": 38557, ""node2"": 36246, ""type"": 38, ""w"": 28.0}]",r_patient-1,30.0
+cuire,riz,nsubj,NOUN,0.7525243759155273,"[{""id"": 426022657, ""node1"": 5115, ""node2"": 24372, ""type"": 0, ""w"": 36.0}, {""id"": 31820394, ""node1"": 5115, ""node2"": 24372, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+cuire,mélanger,advcl,VERB,0.7112278342247009,[],,
+boule,petit,amod,ADJ,0.5614031553268433,[],,
+servir,boule,nsubj:pass,NOUN,0.5844458937644958,[],,
+forme,qui,nsubj,PRON,0.4288870990276336,[],,
+forme,alcool,nmod,NOUN,0.5426658987998962,[],,
+alcool,riz,nmod,NOUN,0.6698688268661499,"[{""id"": 3370859, ""node1"": 47597, ""node2"": 24372, ""type"": 777, ""w"": 1.0}]",r_wiki,1.0
+quantité,petit,amod,ADJ,0.5893296003341675,"[{""id"": 892024045, ""node1"": 78869, ""node2"": 55222, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+contenir,quantité,obj,NOUN,0.4772158563137054,[],,
+quantité,sucre,nmod,NOUN,0.6655603051185608,[],,
+manger,dessert,nsubj:pass,NOUN,0.6315564513206482,"[{""id"": 396612026, ""node1"": 130164, ""node2"": 38557, ""type"": 0, ""w"": 31.0}, {""id"": 113801, ""node1"": 130164, ""node2"": 38557, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+appeler,dessert,nsubj:pass,NOUN,0.4964046478271484,[],,
+dessert,analogue,amod,ADJ,0.5463961958885193,[],,
+épais,qui,nsubj,PRON,0.4260526299476623,"[{""id"": 728839886, ""node1"": 55342, ""node2"": 114890, ""type"": 6, ""w"": -5.0}]",r_isa,-5.0
+dessert,épais,acl:relcl,ADJ,0.5499053597450256,[],,
+avoir,forme,obj,NOUN,0.4383388757705688,[],,
+forme,boule,nmod,NOUN,0.4885343611240387,"[{""id"": 10575593, ""node1"": 142000, ""node2"": 141883, ""type"": 0, ""w"": 52.0}, {""id"": 9623277, ""node1"": 142000, ""node2"": 141883, ""type"": 8, ""w"": 26.0}]",r_associated,52.0
+cuisine,chinois,amod,ADJ,0.5945573449134827,"[{""id"": 15304363, ""node1"": 16033, ""node2"": 59402, ""type"": 0, ""w"": 21.0}, {""id"": 15174380, ""node1"": 16033, ""node2"": 59402, ""type"": 27, ""w"": 27.0}, {""id"": 11347671, ""node1"": 16033, ""node2"": 59402, ""type"": 28, ""w"": 38.0}]",r_lieu-1,38.0
+plat,proche,amod,ADJ,0.5772349834442139,[],,

@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,sauté,nmod,NOUN,0.4211780428886413,[],,
+sauté,crevette,nmod,NOUN,0.5109455585479736,[],,
+crevette,minute,nmod,NOUN,0.5273644924163818,[],,
+minute,ingrédient,nmod,NOUN,0.5584479570388794,[],,
+sauté,chinois,nmod,ADJ,0.4307548701763153,[],,
+sauté,courgette,nmod,NOUN,0.5389412641525269,[],,
+sauté,huile,acl,NOUN,0.5804338455200195,[],,
+sucre,olive,amod,ADP,0.705805242061615,[],,
+sauté,sucre,nmod,NOUN,0.670089602470398,[],,
+titre,saladier,nmod,NOUN,0.5138511061668396,[],,
+saladier,balance,nmod,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+eau,chaud,amod,ADJ,0.6026924252510071,"[{""id"": 915041142, ""node1"": 65012, ""node2"": 19150, ""type"": 0, ""w"": 20.0}, {""id"": 432164, ""node1"": 65012, ""node2"": 19150, ""type"": 17, ""w"": 131.0}]",r_carac,131.0
+eau,minute,nmod,NOUN,0.5597324967384338,[],,
+temps,préparer,acl:relcl,VERB,0.464624285697937,[],,
+préparer,légume,obj,NOUN,0.6866786479949951,"[{""id"": 97862824, ""node1"": 36246, ""node2"": 120603, ""type"": 14, ""w"": 40.0}]",r_patient,40.0
+retirer,extrémité,obj,NOUN,0.4035414457321167,[],,
+chose,même,amod,ADJ,0.442503809928894,"[{""id"": 102032118, ""node1"": 109527, ""node2"": 146381, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+faire,chose,obj,NOUN,0.5007479786872864,"[{""id"": 14656884, ""node1"": 87528, ""node2"": 109527, ""type"": 41, ""w"": 30.0}]",r_has_conseq,30.0
+chose,carotte,nmod,NOUN,0.5907779335975647,[],,
+légume,tout,amod,ADJ,0.6585912108421326,[],,
+réserver,légume,obj,NOUN,0.672337532043457,[],,
+retirer,pâte,obj,NOUN,0.6391966342926025,[],,
+pâte,eau,nmod,NOUN,0.6791620850563049,"[{""id"": 12437285, ""node1"": 34069, ""node2"": 65012, ""type"": 0, ""w"": 59.0}, {""id"": 96931365, ""node1"": 34069, ""node2"": 65012, ""type"": 50, ""w"": 15.0}, {""id"": 650992493, ""node1"": 34069, ""node2"": 65012, ""type"": 666, ""w"": 5.0}]",r_associated,59.0
+conserver,queue,obj,NOUN,0.488997608423233,[],,
+chauffer,poêle,obj,NOUN,0.652711808681488,[],,
+chaud,lui,nsubj,PRON,0.4615650475025177,[],,
+mettre,légume,obj,NOUN,0.6695612072944641,[],,
+garder,légume,obj,NOUN,0.6471033692359924,[],,
+ajouter,cuillère,obj,NOUN,0.5465437173843384,[],,
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+soupe,sucre,nmod,NOUN,0.7634108662605286,[],,
+rajouter,sauce,obj,NOUN,0.6794921159744263,[],,
+aller,sauce,nsubj,NOUN,0.6488229036331177,[],,
+amener,sel,obj,NOUN,0.6686403155326843,[],,
+ajouter,crevette,obj,NOUN,0.5697072744369507,[],,

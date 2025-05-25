@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+feuilleté,saumon,amod,ADV,0.6011200547218323,[],,
+feuilleté,poireau,nmod,NOUN,0.5993508696556091,[],,
+poireau,ingrédient,nmod,NOUN,0.6791229248046875,[],,
+feuilleté,pâte,nmod,NOUN,0.626322329044342,"[{""id"": 296932825, ""node1"": 43380, ""node2"": 34069, ""type"": 0, ""w"": 54.0}]",r_associated,54.0
+feuilleté,feuilletée,acl,NOUN,0.4797477424144745,"[{""id"": 798291245, ""node1"": 43380, ""node2"": 154962, ""type"": 0, ""w"": 27.0}, {""id"": 105159243, ""node1"": 43380, ""node2"": 154962, ""type"": 60, ""w"": 34.0}]",r_fem,34.0
+feuilletée,blanc,amod,NOUN,0.5476270914077759,[],,
+blanc,poireau,nmod,NOUN,0.576774001121521,"[{""id"": 796740403, ""node1"": 15196, ""node2"": 130303, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+poireau,huile,amod,NOUN,0.6679468750953674,[],,
+poireau,pavé,nmod,NOUN,0.5048202276229858,[],,
+poireau,citron,nmod,NOUN,0.6395865678787231,[],,
+citron,oeuf,nmod,NOUN,0.6038509607315063,"[{""id"": 54311704, ""node1"": 15386, ""node2"": 116175, ""type"": 0, ""w"": 31.0}, {""id"": 53737937, ""node1"": 15386, ""node2"": 116175, ""type"": 5, ""w"": 73.0}]",r_syn,73.0
+oeuf,sel,nmod,NOUN,0.6938258409500122,"[{""id"": 584561369, ""node1"": 116175, ""node2"": 13260, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+feuilleté,planche,nmod,NOUN,0.4881682097911834,[],,
+feuilleté,découper,acl,VERB,0.5019136667251587,[],,
+découper,plaque,obj,NOUN,0.5363860726356506,[],,
+plaque,cuisson,nmod,NOUN,0.6722077131271362,"[{""id"": 14676768, ""node1"": 145064, ""node2"": 60056, ""type"": 0, ""w"": 49.0}, {""id"": 97321944, ""node1"": 145064, ""node2"": 60056, ""type"": 3, ""w"": 15.0}, {""id"": 14199213, ""node1"": 145064, ""node2"": 60056, ""type"": 35, ""w"": 47.0}]",r_associated,49.0
+cuisson,set,nmod,NOUN,0.4990491569042206,[],,
+plaque,poêle,nmod,NOUN,0.6507188081741333,"[{""id"": 54314528, ""node1"": 145064, ""node2"": 119686, ""type"": 0, ""w"": 26.0}, {""id"": 53731309, ""node1"": 145064, ""node2"": 119686, ""type"": 5, ""w"": 79.0}]",r_syn,79.0
+feuilleté,table,nmod,NOUN,0.5433980226516724,[],,
+feuilleté,induction,amod,NOUN,0.5061817765235901,[],,
+fondre,poireau,obj,NOUN,0.6274290084838867,[],,
+poireau,poêle,nmod,NOUN,0.7056465744972229,[],,
+poireau,ajouter,acl,VERB,0.6010645031929016,[],,
+dérouler,pâte,obj,NOUN,0.6115941405296326,"[{""id"": 31839807, ""node1"": 59830, ""node2"": 34069, ""type"": 14, ""w"": 68.0}]",r_patient,68.0
+pâte,feuilleté,amod,ADJ,0.626322329044342,"[{""id"": 879773673, ""node1"": 34069, ""node2"": 43380, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+plaque,papier,nmod,NOUN,0.5394116640090942,[],,
+poser,saumon,obj,NOUN,0.5830957889556885,[],,
+saumon,centre,nmod,NOUN,0.5841105580329895,[],,
+centre,pâte,nmod,NOUN,0.6359381675720215,[],,
+fondue,poireau,nmod,NOUN,0.6159544587135315,[],,
+finir,recouvrir,advcl,VERB,0.4374638795852661,[],,
+recouvrir,pâte,obj,NOUN,0.6423853635787964,[],,
+pâte,feuilleter,acl,VERB,0.6172106862068176,"[{""id"": 880403533, ""node1"": 34069, ""node2"": 13838, ""type"": 0, ""w"": 20.0}, {""id"": 288441883, ""node1"": 34069, ""node2"": 13838, ""type"": 26, ""w"": 31.0}]",r_patient-1,31.0
+découper,bande,nmod,NOUN,0.4037886559963226,[],,
+bande,côté,nmod,NOUN,0.4175955951213836,"[{""id"": 1278891, ""node1"": 141457, ""node2"": 138419, ""type"": 0, ""w"": 30.0}, {""id"": 54668055, ""node1"": 141457, ""node2"": 138419, ""type"": 5, ""w"": 62.0}]",r_syn,62.0
+croiser,faire,advcl,VERB,0.4000901281833648,[],,
+faire,tresse,obj,NOUN,0.5047385692596436,[],,

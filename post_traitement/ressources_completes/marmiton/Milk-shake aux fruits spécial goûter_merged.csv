@@ -1,0 +1,17 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+fruit,spécial,amod,ADJ,0.4996114671230316,[],,
+goûter,ingrédient,nmod,NOUN,0.6709368228912354,[],,
+ingrédient,banane,appos,NOUN,0.647196352481842,"[{""id"": 578773781, ""node1"": 123418, ""node2"": 34046, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+cerise,lait,nmod,NOUN,0.608183741569519,[],,
+lait,sucre,amod,NOUN,0.6437966823577881,[],,
+sucre,vanillé,amod,ADJ,0.6220211982727051,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]",r_associated,13.0
+mixeur,économe,nmod,NOUN,0.538520872592926,[],,
+économe,étape,nmod,NOUN,0.4015891551971435,[],,
+ensemble,yaourt,nmod,NOUN,0.554256021976471,[],,
+ajouter,lait,obj,NOUN,0.5957752466201782,"[{""id"": 373014760, ""node1"": 25099, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+fonction,aspect,nmod,NOUN,0.4022328853607178,[],,
+aspect,liquide,amod,ADJ,0.5016145706176758,[],,
+aspect,préparation,nmod,NOUN,0.4601146280765533,"[{""id"": 98271790, ""node1"": 92662, ""node2"": 33634, ""type"": 23, ""w"": -24.0}]",r_carac-1,-24.0
+liquide,passer,advcl,VERB,0.5502989888191223,"[{""id"": 21104599, ""node1"": 140315, ""node2"": 28108, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+coulis,fruit,nmod,NOUN,0.557689905166626,"[{""id"": 220069, ""node1"": 10401, ""node2"": 87286, ""type"": 0, ""w"": 51.0}]",r_associated,51.0
+coulis,couleur,nmod,NOUN,0.5988150238990784,[],,

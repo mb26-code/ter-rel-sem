@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,mélange,nmod,NOUN,0.4629373252391815,"[{""id"": 243409340, ""node1"": 7970, ""node2"": 14800, ""type"": 8, ""w"": 31.0}]",r_hypo,31.0
+mélange,blé,amod,NOUN,0.5761042237281799,[],,
+mélange,quinoa,amod,ADJ,0.6476372480392456,[],,
+mélange,lait,nmod,NOUN,0.6162230372428894,[],,
+lait,ingrédient,nmod,NOUN,0.6221581101417542,"[{""id"": 15370374, ""node1"": 86296, ""node2"": 123418, ""type"": 0, ""w"": 37.0}, {""id"": 506059, ""node1"": 86296, ""node2"": 123418, ""type"": 3, ""w"": 56.0}]",r_domain,56.0
+lait,sucre,nmod,NOUN,0.6437966823577881,[],,
+sucre,vanillé,amod,ADJ,0.6220211982727051,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]",r_associated,13.0
+casserole,saladier,obj,NOUN,0.6254573464393616,[],,
+saladier,balance,nmod,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+mélange,porter,amod,VERB,0.5279659628868103,"[{""id"": 915254093, ""node1"": 14800, ""node2"": 43404, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+porter,lait,obj,NOUN,0.5895253419876099,[],,
+mélange,ébullition,nmod,NOUN,0.5576464533805847,[],,
+ébullition,sucre,nmod,NOUN,0.664099395275116,[],,
+feu,petit,amod,ADJ,0.5734477639198303,"[{""id"": 2278793, ""node1"": 143703, ""node2"": 55222, ""type"": 17, ""w"": 30.0}]",r_carac,30.0
+mijoter,rajouter,advcl,VERB,0.6217920184135437,[],,
+rajouter,peu,obj,ADV,0.4418238401412964,[],,
+sec,apparaître,advcl,VERB,0.4389656782150268,[],,
+ajouter,veiller,advcl,VERB,0.4092857837677002,[],,
+attache,cela,nsubj,PRON,0.415327250957489,[],,
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+ajouter,son,obj,DET,0.4246205389499664,[],,
+son,blé,nmod,NOUN,0.5519840121269226,"[{""id"": 9973713, ""node1"": 51528, ""node2"": 32071, ""type"": 0, ""w"": 26.0}, {""id"": 54639515, ""node1"": 51528, ""node2"": 32071, ""type"": 5, ""w"": 77.0}, {""id"": 209090, ""node1"": 51528, ""node2"": 32071, ""type"": 10, ""w"": 60.0}]",r_syn,77.0
+blé,facultatif,amod,ADJ,0.5387989282608032,[],,
+ajouter,couper,advcl,VERB,0.4516488313674927,"[{""id"": 55053058, ""node1"": 25099, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 55011750, ""node1"": 25099, ""node2"": 128828, ""type"": 5, ""w"": 57.0}, {""id"": 85362404, ""node1"": 25099, ""node2"": 128828, ""type"": 7, ""w"": 31.0}]",r_syn,57.0
+couper,gaz,obj,NOUN,0.5024832487106323,[],,
+reposer,dizaine,obj,NOUN,0.4221612513065338,[],,
+ajouter,verser,amod,VERB,0.4542763829231262,"[{""id"": 12346252, ""node1"": 25099, ""node2"": 104506, ""type"": 0, ""w"": 21.0}, {""id"": 12293759, ""node1"": 25099, ""node2"": 104506, ""type"": 5, ""w"": 82.0}]",r_syn,82.0
+coupe,petit,amod,ADJ,0.5068280696868896,[],,
+coupe,dessert,nmod,NOUN,0.5334686040878296,[],,
+finir,préparation,nsubj,NOUN,0.475566029548645,[],,
+verser,finir,advcl,VERB,0.457956850528717,[],,
+absorber,liquide,obj,NOUN,0.4971916377544403,"[{""id"": 1270774, ""node1"": 119570, ""node2"": 140315, ""type"": 0, ""w"": 33.0}, {""id"": 1713192, ""node1"": 119570, ""node2"": 140315, ""type"": 17, ""w"": -1.0}, {""id"": 989728585, ""node1"": 119570, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]",r_associated,33.0
+absorber,refroidir,advcl,VERB,0.4710674285888672,[],,
+froid,couvrir,advcl,VERB,0.5060054659843445,"[{""id"": 797515298, ""node1"": 49803, ""node2"": 119824, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+froid,déguster,advcl,VERB,0.5593343377113342,"[{""id"": 514434752, ""node1"": 49803, ""node2"": 80710, ""type"": 62, ""w"": 26.0}]",r_manner-1,26.0

@@ -1,0 +1,34 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+ami,plat,appos,NOUN,0.4989402890205383,[],,
+plat,brésilien,amod,ADJ,0.5707334876060486,"[{""id"": 371984024, ""node1"": 36327, ""node2"": 11176, ""type"": 17, ""w"": 32.0}]",r_carac,32.0
+ingrédient,poivron,nmod,NOUN,0.6912822127342224,"[{""id"": 24923436, ""node1"": 123418, ""node2"": 38257, ""type"": 0, ""w"": 15.0}, {""id"": 24850722, ""node1"": 123418, ""node2"": 38257, ""type"": 8, ""w"": 34.0}]",r_hypo,34.0
+poivron,courgette,nmod,NOUN,0.638987123966217,[],,
+poivron,tomate,nmod,NOUN,0.6357458233833313,"[{""id"": 1032969269, ""node1"": 38257, ""node2"": 22138, ""type"": 78, ""w"": 31.0}]",r_cohypo,31.0
+coriandre,persil,nmod,NOUN,0.5834606885910034,"[{""id"": 12412140, ""node1"": 61977, ""node2"": 135982, ""type"": 0, ""w"": 61.0}, {""id"": 1826529, ""node1"": 61977, ""node2"": 135982, ""type"": 666, ""w"": 2.0}]",r_associated,61.0
+coriandre,lait,nmod,NOUN,0.6390424966812134,[],,
+lait,coco,amod,ADV,0.5941302180290222,"[{""id"": 796793155, ""node1"": 86296, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+coco,huile,amod,NOUN,0.6010280847549438,"[{""id"": 602113834, ""node1"": 145904, ""node2"": 141971, ""type"": 0, ""w"": 16.0}]",r_associated,16.0
+huile,palme,nmod,NOUN,0.5271511673927307,"[{""id"": 398743, ""node1"": 141971, ""node2"": 14658, ""type"": 0, ""w"": 65.0}, {""id"": 580649, ""node1"": 141971, ""node2"": 14658, ""type"": 5, ""w"": 34.0}, {""id"": 1793669, ""node1"": 141971, ""node2"": 14658, ""type"": 666, ""w"": 1.0}]",r_associated,65.0
+palme,citron,nmod,NOUN,0.5744680166244507,[],,
+citron,vert,amod,ADJ,0.5348256230354309,"[{""id"": 1559582, ""node1"": 15386, ""node2"": 26976, ""type"": 0, ""w"": 61.0}, {""id"": 1773945, ""node1"": 15386, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3160941, ""node1"": 15386, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]",r_associated,61.0
+citron,fond,nmod,NOUN,0.6001431345939636,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+casserole,crevette,obj,NOUN,0.6687610745429993,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+couper,poivron,obj,NOUN,0.6246095895767212,"[{""id"": 15085692, ""node1"": 128828, ""node2"": 38257, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+feu,profond,amod,ADJ,0.5408385396003723,[],,
+utiliser,casserole,obj,NOUN,0.6322333812713623,"[{""id"": 98425070, ""node1"": 62611, ""node2"": 57253, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+disposer,légume,obj,NOUN,0.6640430688858032,[],,
+légume,fond,nmod,NOUN,0.6584946513175964,[],,
+secouer,ajouter,advcl,VERB,0.4042652547359466,[],,
+ajouter,jus,obj,NOUN,0.5800648331642151,[],,
+citron,deuxième,amod,ADJ,0.6189407110214233,[],,
+jus,légume,nmod,NOUN,0.63165682554245,"[{""id"": 602097688, ""node1"": 53310, ""node2"": 120603, ""type"": 0, ""w"": 16.0}]",r_associated,16.0
+secouer,boite,obj,NOUN,0.4252118468284607,[],,
+boite,lait,nmod,NOUN,0.5765976905822754,[],,
+verser,contenu,obj,NOUN,0.4781818091869354,[],,
+ajouter,huile,obj,NOUN,0.5838896036148071,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+farine,manioc,nmod,NOUN,0.6445809602737427,"[{""id"": 796713007, ""node1"": 127629, ""node2"": 67691, ""type"": 0, ""w"": 22.0}]",r_associated,22.0

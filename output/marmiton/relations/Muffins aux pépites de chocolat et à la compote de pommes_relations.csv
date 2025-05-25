@@ -1,0 +1,46 @@
+node1,node2,relations
+pépite,chocolat,"[{""id"": 365455, ""node1"": 25082, ""node2"": 34157, ""type"": 0, ""w"": 152.0}, {""id"": 376056261, ""node1"": 25082, ""node2"": 34157, ""type"": 50, ""w"": 35.0}, {""id"": 930408960, ""node1"": 25082, ""node2"": 34157, ""type"": 666, ""w"": 2.0}]"
+compote,pomme,"[{""id"": 1986749, ""node1"": 5295, ""node2"": 37201, ""type"": 0, ""w"": 147.0}, {""id"": 373000107, ""node1"": 5295, ""node2"": 37201, ""type"": 17, ""w"": 26.0}, {""id"": 377010654, ""node1"": 5295, ""node2"": 37201, ""type"": 20, ""w"": 29.0}, {""id"": 11346927, ""node1"": 5295, ""node2"": 37201, ""type"": 28, ""w"": 38.0}, {""id"": 14672084, ""node1"": 5295, ""node2"": 37201, ""type"": 42, ""w"": 30.0}, {""id"": 2046466, ""node1"": 5295, ""node2"": 37201, ""type"": 50, ""w"": 37.0}, {""id"": 1688878, ""node1"": 5295, ""node2"": 37201, ""type"": 666, ""w"": 6.0}]"
+pomme,ingrédient,[]
+compote,chocolat,[]
+chocolat,sel,[]
+sel,levure,[]
+compote,sucre,"[{""id"": 558832956, ""node1"": 5295, ""node2"": 139481, ""type"": 0, ""w"": 43.0}, {""id"": 1975814, ""node1"": 5295, ""node2"": 139481, ""type"": 50, ""w"": 35.0}, {""id"": 1688882, ""node1"": 5295, ""node2"": 139481, ""type"": 666, ""w"": 2.0}, {""id"": 4220666, ""node1"": 5295, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]"
+sucre,farine,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]"
+sucre,cacao,"[{""id"": 561132476, ""node1"": 139481, ""node2"": 68363, ""type"": 0, ""w"": 48.0}]"
+cacao,compote,[]
+compote,oeuf,[]
+compote,extraire,[]
+extraire,grille,[]
+grille,pâtisserie,[]
+pâtisserie,moule,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]"
+four,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,saladier,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]"
+saladier,fouet,[]
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 306.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 266.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+cuillère,top,[]
+plaque,meilleur,[]
+top,plaque,[]
+plaque,four,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]"
+balance,cuisine,[]
+balance,étape,[]
+four,180,[]
+titre,mélanger,[]
+mélanger,ingrédient,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]"
+ingrédient,suivant,[]
+ingrédient,récipient,[]
+récipient,séparer,[]
+récipient,mélange,[]
+récipient,farine,[]
+mélange,oeuf,[]
+oeuf,huile,[]
+extraire,amande,[]
+faire,puits,[]
+puits,mélange,[]
+introduire,mélange,[]
+battre,pâte,[]
+ajouter,pépite,[]
+aide,cuillère,[]
+remplir,moule,[]
+refroidir,minute,[]

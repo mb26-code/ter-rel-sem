@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+cerise,ingrédient,nmod,NOUN,0.586501955986023,[],,
+cerise,beurre,nmod,NOUN,0.6640971302986145,[],,
+beurre,sucre,nmod,NOUN,0.6973879933357239,"[{""id"": 500926020, ""node1"": 140377, ""node2"": 139481, ""type"": 0, ""w"": 2.0}]",r_associated,2.0
+sucre,semoule,amod,ADV,0.6967501044273376,"[{""id"": 277256, ""node1"": 139481, ""node2"": 64778, ""type"": 17, ""w"": -94.0}, {""id"": 639101518, ""node1"": 139481, ""node2"": 64778, ""type"": 141, ""w"": 25.0}]",r_carac_nominale,25.0
+mascarpone,oeuf,nmod,NOUN,0.5486534833908081,[],,
+sirop,cerise,nmod,NOUN,0.5951241850852966,"[{""id"": 561004785, ""node1"": 91109, ""node2"": 49073, ""type"": 0, ""w"": 37.0}]",r_associated,37.0
+casserole,cuillère,nmod,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,saladier,nmod,NOUN,0.6106023788452148,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+saladier,fouet,nmod,NOUN,0.5588916540145874,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+fouet,plat,nmod,ADJ,0.6314644813537598,[],,
+égoutter,cerise,obj,NOUN,0.5337335467338562,[],,
+casserole,beurre,amod,NOUN,0.732474684715271,"[{""id"": 561074636, ""node1"": 57253, ""node2"": 140377, ""type"": 0, ""w"": 32.0}, {""id"": 98347800, ""node1"": 57253, ""node2"": 140377, ""type"": 28, ""w"": 11.0}]",r_associated,32.0
+fondre,mettre,advcl,VERB,0.4897515773773193,[],,
+mettre,cerise,obj,NOUN,0.5069257020950317,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+séparer,blanc,obj,NOUN,0.4899252355098724,[],,
+blanc,jaune,nmod,NOUN,0.4685034155845642,"[{""id"": 246331, ""node1"": 15196, ""node2"": 86711, ""type"": 0, ""w"": 56.0}]",r_associated,56.0
+jaune,battre,amod,VERB,0.5006049275398254,[],,
+jaune,sucre,nmod,NOUN,0.6481616497039795,[],,
+blanchir,que,obj,PRON,0.4538820087909698,[],,
+jaune,incorporer,acl,VERB,0.5292928814888,[],,
+incorporer,mascarpone,obj,NOUN,0.5532925128936768,[],,
+battre,blanc,obj,NOUN,0.5040183067321777,[],,
+blanc,neige,nmod,NOUN,0.4736866652965545,"[{""id"": 116991, ""node1"": 15196, ""node2"": 3699, ""type"": 0, ""w"": 509.77}, {""id"": 117866, ""node1"": 15196, ""node2"": 3699, ""type"": 23, ""w"": 320.0}, {""id"": 1622496, ""node1"": 15196, ""node2"": 3699, ""type"": 666, ""w"": 12.0}]",r_associated,509.77
+mélange,jaune,nmod,NOUN,0.5599935054779053,[],,
+mélange,sucre,nmod,NOUN,0.6809773445129395,[],,
+dresser,mettre,advcl,VERB,0.4023671746253967,"[{""id"": 832254, ""node1"": 43485, ""node2"": 132366, ""type"": 0, ""w"": 30.0}, {""id"": 53596364, ""node1"": 43485, ""node2"": 132366, ""type"": 5, ""w"": 146.0}]",r_syn,146.0
+tranche,bord,nmod,NOUN,0.4445629119873047,"[{""id"": 1460742, ""node1"": 143123, ""node2"": 63985, ""type"": 0, ""w"": 54.0}, {""id"": 571729, ""node1"": 143123, ""node2"": 63985, ""type"": 5, ""w"": 121.0}, {""id"": 27810223, ""node1"": 143123, ""node2"": 63985, ""type"": 35, ""w"": 52.0}]",r_syn,121.0
+préparation,mascarpone,nmod,NOUN,0.6161690354347229,[],,
+mettre,heure,obj,NOUN,0.4267167150974273,[],,
+cerise,poser,acl,VERB,0.4757206737995147,[],,
+trait,sirop,nmod,NOUN,0.5603766441345215,[],,

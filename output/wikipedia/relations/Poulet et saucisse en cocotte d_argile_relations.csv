@@ -1,0 +1,33 @@
+node1,node2,relations
+titre,Poulet,[]
+Poulet,cocotte,[]
+poulet,cocotte,"[{""id"": 590939563, ""node1"": 146261, ""node2"": 120952, ""type"": 0, ""w"": 6.0}, {""id"": 587584852, ""node1"": 146261, ""node2"": 120952, ""type"": 5, ""w"": 31.0}]"
+cocotte,argile,"[{""id"": 484717211, ""node1"": 120952, ""node2"": 44059, ""type"": 777, ""w"": 10.0}]"
+plat,riz,"[{""id"": 96713007, ""node1"": 36327, ""node2"": 24372, ""type"": 0, ""w"": 31.0}, {""id"": 96713022, ""node1"": 36327, ""node2"": 24372, ""type"": 9, ""w"": 26.0}, {""id"": 93507674, ""node1"": 36327, ""node2"": 24372, ""type"": 28, ""w"": 35.0}, {""id"": 96713038, ""node1"": 36327, ""node2"": 24372, ""type"": 41, ""w"": 27.0}, {""id"": 96713027, ""node1"": 36327, ""node2"": 24372, ""type"": 42, ""w"": 27.0}]"
+riz,poulet,[]
+riz,appeler,[]
+plat,servir,"[{""id"": 97052875, ""node1"": 36327, ""node2"": 7888, ""type"": 0, ""w"": 23.0}, {""id"": 207664, ""node1"": 36327, ""node2"": 7888, ""type"": 25, ""w"": 310.0}, {""id"": 97758642, ""node1"": 36327, ""node2"": 7888, ""type"": 26, ""w"": 100.0}, {""id"": 1907912, ""node1"": 36327, ""node2"": 7888, ""type"": 30, ""w"": 59.0}, {""id"": 1819972, ""node1"": 36327, ""node2"": 7888, ""type"": 37, ""w"": 60.0}]"
+dîner,région,[]
+accompagner,saucisse,[]
+saucisse,chinois,[]
+cuire,riz,"[{""id"": 426022657, ""node1"": 5115, ""node2"": 24372, ""type"": 0, ""w"": 36.0}, {""id"": 31820394, ""node1"": 5115, ""node2"": 24372, ""type"": 14, ""w"": 100.0}]"
+faire,cuire,"[{""id"": 12310124, ""node1"": 87528, ""node2"": 5115, ""type"": 0, ""w"": 26.0}, {""id"": 434916502, ""node1"": 87528, ""node2"": 5115, ""type"": 5, ""w"": 51.0}]"
+ingrédient,autre,[]
+ingrédient,rajouter,[]
+faire,cuisson,[]
+poêle,charbon,"[{""id"": 278998512, ""node1"": 119686, ""node2"": 111649, ""type"": 0, ""w"": 30.0}, {""id"": 766153688, ""node1"": 119686, ""node2"": 111649, ""type"": 28, ""w"": 25.0}, {""id"": 1812195, ""node1"": 119686, ""node2"": 111649, ""type"": 666, ""w"": 1.0}, {""id"": 3780023, ""node1"": 119686, ""node2"": 111649, ""type"": 777, ""w"": 10.0}]"
+faire,donner,"[{""id"": 54695282, ""node1"": 87528, ""node2"": 12941, ""type"": 0, ""w"": 28.0}, {""id"": 54628993, ""node1"": 87528, ""node2"": 12941, ""type"": 5, ""w"": -278.0}]"
+donner,saveur,[]
+saveur,caractéristique,"[{""id"": 110080479, ""node1"": 71872, ""node2"": 87150, ""type"": 6, ""w"": 32.0}, {""id"": 476985542, ""node1"": 71872, ""node2"": 87150, ""type"": 17, ""w"": 26.0}]"
+sauce,foncé,[]
+poisson,sécher,"[{""id"": 423999230, ""node1"": 68467, ""node2"": 56038, ""type"": 0, ""w"": 1.0}, {""id"": 98430282, ""node1"": 68467, ""node2"": 56038, ""type"": 26, ""w"": 60.0}]"
+ingrédient,dernier,[]
+pouvoir,ingrédient,[]
+intensifier,goût,"[{""id"": 476985543, ""node1"": 109831, ""node2"": 119233, ""type"": 14, ""w"": 31.0}]"
+cause,méthode,[]
+méthode,préparation,[]
+cause,cocotte,[]
+cocotte,long,[]
+client,plat,[]
+restaurant,devoir,[]
+devoir,prêt,[]

@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+rôti,biche,nmod,NOUN,0.5953050851821899,[],,
+rôti,façon,nmod,NOUN,0.6750421524047852,[],,
+façon,grand-mère,nmod,NOUN,0.4573087394237518,[],,
+rôti,ingrédient,nmod,NOUN,0.7122430205345154,[],,
+cognac,moutarde,amod,ADJ,0.5762614011764526,[],,
+rouge,beurre,acl,NOUN,0.6549836993217468,[],,
+rouge,biche,nmod,NOUN,0.4705546498298645,[],,
+biche,fond,appos,NOUN,0.495213121175766,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+casserole,fond,nmod,NOUN,0.5823787450790405,"[{""id"": 9995395, ""node1"": 57253, ""node2"": 119272, ""type"": 0, ""w"": 14.0}, {""id"": 2045151, ""node1"": 57253, ""node2"": 119272, ""type"": 9, ""w"": 60.0}]",r_has_part,60.0
+casserole,épais,amod,ADJ,0.5484299659729004,[],,
+face,tout,amod,ADJ,0.4081993997097015,[],,
+retirer,doré,advcl,ADJ,0.5100468993186951,[],,
+retirer,jus,obj,NOUN,0.5681401491165161,[],,
+jus,vin,nmod,NOUN,0.6387562155723572,"[{""id"": 539963003, ""node1"": 53310, ""node2"": 35798, ""type"": 10, ""w"": -25.0}, {""id"": 376052407, ""node1"": 53310, ""node2"": 35798, ""type"": 51, ""w"": 27.0}, {""id"": 580307909, ""node1"": 53310, ""node2"": 35798, ""type"": 777, ""w"": 10.0}]",r_mater>object,27.0
+vin,rouge,amod,ADJ,0.599454402923584,"[{""id"": 61835, ""node1"": 35798, ""node2"": 86356, ""type"": 0, ""w"": 517.0}, {""id"": 556239, ""node1"": 35798, ""node2"": 86356, ""type"": 5, ""w"": 122.0}, {""id"": 9857786, ""node1"": 35798, ""node2"": 86356, ""type"": 8, ""w"": 139.0}, {""id"": 14806149, ""node1"": 35798, ""node2"": 86356, ""type"": 17, ""w"": 71.0}, {""id"": 31149018, ""node1"": 35798, ""node2"": 86356, ""type"": 27, ""w"": 22.0}, {""id"": 3154292, ""node1"": 35798, ""node2"": 86356, ""type"": 106, ""w"": 12.0}, {""id"": 1526706, ""node1"": 35798, ""node2"": 86356, ""type"": 666, ""w"": 8.0}]",r_associated,517.0
+remettre,viande,obj,NOUN,0.7038813829421997,[],,
+cuire,rôti,obj,NOUN,0.7705798745155334,"[{""id"": 435037612, ""node1"": 5115, ""node2"": 19636, ""type"": 0, ""w"": 26.0}, {""id"": 544784011, ""node1"": 5115, ""node2"": 19636, ""type"": 13, ""w"": 100.0}, {""id"": 435037611, ""node1"": 5115, ""node2"": 19636, ""type"": 14, ""w"": 100.0}]",r_agent,100.0
+retirer,rôti,obj,NOUN,0.6658359169960022,[],,
+casserole,même,amod,ADJ,0.5827560424804688,[],,
+préparer,sauce,obj,NOUN,0.6940045356750488,"[{""id"": 395781320, ""node1"": 36246, ""node2"": 141110, ""type"": 0, ""w"": 35.0}, {""id"": 373014451, ""node1"": 36246, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+jus,cuisson,nmod,NOUN,0.6731067299842834,[],,
+fond,gibier,amod,NOUN,0.5626237392425537,[],,
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+ajouter,moutarde,obj,NOUN,0.585381031036377,[],,
+ajouter,peu,obj,ADV,0.4455879032611847,[],,
+viande,couper,acl,VERB,0.6744567155838013,"[{""id"": 796696872, ""node1"": 140100, ""node2"": 128828, ""type"": 0, ""w"": 27.0}, {""id"": 2194964, ""node1"": 140100, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+faite,servir,acl,VERB,0.4788675904273987,[],,
+peu,cognac,nmod,NOUN,0.5174445509910583,[],,

@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+ingrédient,huile,amod,NOUN,0.6304486989974976,"[{""id"": 561306445, ""node1"": 123418, ""node2"": 141971, ""type"": 0, ""w"": 44.0}]",r_associated,44.0
+huile,sésame,nmod,NOUN,0.6178574562072754,"[{""id"": 12295235, ""node1"": 141971, ""node2"": 18404, ""type"": 0, ""w"": 43.0}, {""id"": 580644, ""node1"": 141971, ""node2"": 18404, ""type"": 5, ""w"": 32.0}, {""id"": 88080850, ""node1"": 141971, ""node2"": 18404, ""type"": 35, ""w"": 32.0}, {""id"": 380316783, ""node1"": 141971, ""node2"": 18404, ""type"": 54, ""w"": 34.0}]",r_associated,43.0
+sésame,sucre,nmod,NOUN,0.6855493187904358,[],,
+sucre,vinaigre,nmod,NOUN,0.6951253414154053,[],,
+vinaigre,balsamique,amod,ADJ,0.5980404615402222,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]",r_associated,166.0
+ingrédient,jus,nmod,NOUN,0.6051733493804932,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+citron,huile,amod,NOUN,0.6506204605102539,[],,
+jus,set,nmod,NOUN,0.5357862710952759,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+découper,étape,obj,NOUN,0.4244579374790191,[],,
+jus,préparer,acl,VERB,0.5901987552642822,[],,
+préparer,marinade,obj,NOUN,0.6658932566642761,[],,
+préparer,mélanger,advcl,VERB,0.5422113537788391,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+mélanger,ingrédient,obj,NOUN,0.6362285614013672,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ingrédient,ensemble,amod,NOUN,0.5373786091804504,[],,
+ajouter,morceau,obj,NOUN,0.5419883728027344,[],,
+verser,préparation,obj,NOUN,0.5208573341369629,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparation,poêle,nmod,NOUN,0.6747783422470093,"[{""id"": 601611414, ""node1"": 33634, ""node2"": 119686, ""type"": 0, ""w"": 16.0}]",r_associated,16.0
+ajouter,eau,obj,NOUN,0.5629687905311584,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,

@@ -1,0 +1,39 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,boulette,nmod,NOUN,0.4638309478759765,[],,
+boulette,viande,nmod,NOUN,0.6934407949447632,"[{""id"": 158031, ""node1"": 112360, ""node2"": 140100, ""type"": 0, ""w"": 82.0}, {""id"": 1013983190, ""node1"": 112360, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]",r_associated,82.0
+boulette,algérien,nmod,ADJ,0.4766580760478973,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,moutarde,appos,NOUN,0.6919505596160889,[],,
+menthe,huile,amod,NOUN,0.6245962381362915,[],,
+ingrédient,concentrer,acl,VERB,0.5631899833679199,[],,
+bouquet,garni,amod,ADJ,0.4469667077064514,[],,
+titre,cuillère,nmod,NOUN,0.5080531239509583,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,set,nmod,NOUN,0.4149639010429382,[],,
+cuillère,poêle,nmod,NOUN,0.66766756772995,[],,
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+cuillère,mélanger,acl,VERB,0.6018561720848083,"[{""id"": 8865393, ""node1"": 51905, ""node2"": 37151, ""type"": 0, ""w"": 16.0}, {""id"": 140516, ""node1"": 51905, ""node2"": 37151, ""type"": 25, ""w"": 731.0}]",r_instr-1,731.0
+mélanger,viande,obj,NOUN,0.756519615650177,[],,
+viande,haché,amod,ADJ,0.6638813018798828,[],,
+moutarde,moitié,appos,NOUN,0.572807788848877,[],,
+moitié,oignon,nmod,NOUN,0.5987945199012756,[],,
+mélanger,menthe,obj,NOUN,0.6085883975028992,[],,
+menthe,haché,amod,ADJ,0.5809585452079773,[],,
+confectionner,boulette,obj,NOUN,0.5765240788459778,[],,
+fait,que,obj,PRON,0.4112151563167572,[],,
+boulette,fait,acl:relcl,ADJ,0.5083615779876709,[],,
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+soupe,huile,nmod,NOUN,0.676633894443512,"[{""id"": 3346889, ""node1"": 117152, ""node2"": 141971, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+doré,viande,nsubj,NOUN,0.6744937300682068,[],,
+retirer,doré,advcl,ADJ,0.5100468993186951,[],,
+faire,sauce,obj,NOUN,0.6960442066192627,[],,
+sauce,tomate,amod,ADV,0.7022931575775146,"[{""id"": 2221325, ""node1"": 141110, ""node2"": 22138, ""type"": 0, ""w"": 74.0}, {""id"": 10528848, ""node1"": 141110, ""node2"": 22138, ""type"": 9, ""w"": 26.0}, {""id"": 11333947, ""node1"": 141110, ""node2"": 22138, ""type"": 28, ""w"": 38.0}, {""id"": 96715050, ""node1"": 141110, ""node2"": 22138, ""type"": 50, ""w"": 16.0}, {""id"": 651031294, ""node1"": 141110, ""node2"": 22138, ""type"": 666, ""w"": 4.0}]",r_associated,74.0
+ajouter,boîte,obj,NOUN,0.4571010768413543,[],,
+boîte,tomate,nmod,NOUN,0.5605863928794861,[],,
+tomate,couper,acl,VERB,0.6290057301521301,"[{""id"": 920912564, ""node1"": 22138, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 628044041, ""node1"": 22138, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+cuillère,concentré,nmod,NOUN,0.5690591931343079,[],,
+concentré,tomate,nmod,NOUN,0.6039107441902161,[],,
+cuillère,ail,nmod,NOUN,0.5968332886695862,[],,
+ajouter,boulette,obj,NOUN,0.5486127734184265,[],,
+cuire,tomate,obj,NOUN,0.7980861067771912,[],,

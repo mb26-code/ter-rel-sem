@@ -1,0 +1,67 @@
+node1,node2,relations
+fruit,Jambon,[]
+Jambon,ingrédient,[]
+Jambon,vinaigre,[]
+vinaigre,vin,"[{""id"": 260680, ""node1"": 145443, ""node2"": 35798, ""type"": 0, ""w"": 213.0}, {""id"": 82356060, ""node1"": 145443, ""node2"": 35798, ""type"": 6, ""w"": 36.0}, {""id"": 375688370, ""node1"": 145443, ""node2"": 35798, ""type"": 56, ""w"": 35.0}, {""id"": 1527098, ""node1"": 145443, ""node2"": 35798, ""type"": 666, ""w"": 2.0}]"
+Jambon,sucre,[]
+sucre,canne,"[{""id"": 107598, ""node1"": 139481, ""node2"": 144267, ""type"": 0, ""w"": 241.0}, {""id"": 160436, ""node1"": 139481, ""node2"": 144267, ""type"": 15, ""w"": 78.0}, {""id"": 1763995, ""node1"": 139481, ""node2"": 144267, ""type"": 666, ""w"": 1.0}]"
+sucre,sel,"[{""id"": 83941, ""node1"": 139481, ""node2"": 13260, ""type"": 0, ""w"": 401.0}, {""id"": 1046576271, ""node1"": 139481, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 1895756, ""node1"": 139481, ""node2"": 13260, ""type"": 20, ""w"": 51.0}, {""id"": 1376354, ""node1"": 139481, ""node2"": 13260, ""type"": 21, ""w"": 60.0}]"
+sel,oignon,[]
+fruit,clou,[]
+clou,oignon,[]
+oignon,jambon,[]
+clou,bouquet,[]
+bouquet,garni,[]
+clou,poivre,[]
+grain,vin,[]
+vin,blanc,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]"
+blanc,cube,[]
+cube,bouillon,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]"
+pain,chou,[]
+fruit,couteau,[]
+couteau,économe,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]"
+économe,four,[]
+four,balance,[]
+balance,cuisine,[]
+balance,plat,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]"
+économe,étape,[]
+cuisiner,vous,[]
+falloir,cuisiner,[]
+cuisiner,jambon,"[{""id"": 7220349, ""node1"": 80199, ""node2"": 57980, ""type"": 777, ""w"": 6.0}]"
+jambon,saler,[]
+eau,froid,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]"
+eau,changer,[]
+changer,eau,[]
+eau,fois,"[{""id"": 1030687311, ""node1"": 65012, ""node2"": 38021, ""type"": 0, ""w"": 20.0}]"
+eau,heure,[]
+cuire,jambon,"[{""id"": 93422044, ""node1"": 5115, ""node2"": 57980, ""type"": 14, ""w"": 30.0}]"
+bouillon,court,[]
+vérifier,cuisson,"[{""id"": 31862099, ""node1"": 76431, ""node2"": 60056, ""type"": 14, ""w"": 64.0}]"
+pointe,couteau,"[{""id"": 8856589, ""node1"": 141611, ""node2"": 32610, ""type"": 0, ""w"": 16.0}, {""id"": 251482, ""node1"": 141611, ""node2"": 32610, ""type"": 10, ""w"": 53.0}]"
+pique,bois,"[{""id"": 9977225, ""node1"": 146246, ""node2"": 96256, ""type"": 0, ""w"": 27.0}, {""id"": 115564, ""node1"": 146246, ""node2"": 96256, ""type"": 9, ""w"": 54.0}]"
+viande,cuire,"[{""id"": 365344017, ""node1"": 140100, ""node2"": 5115, ""type"": 0, ""w"": 34.0}, {""id"": 14845361, ""node1"": 140100, ""node2"": 5115, ""type"": 24, ""w"": 100.0}, {""id"": 2194971, ""node1"": 140100, ""node2"": 5115, ""type"": 26, ""w"": 100.0}]"
+falloir,cuire,[]
+cuire,bouillon,[]
+bouillon,légume,"[{""id"": 152250, ""node1"": 146582, ""node2"": 120603, ""type"": 0, ""w"": 55.0}]"
+légume,respecter,[]
+temps,cuisson,[]
+cuire,sortir,[]
+garder,croquant,[]
+ananas,retirer,[]
+enlever,gras,[]
+saupoudrer,sucre,"[{""id"": 1067229544, ""node1"": 133415, ""node2"": 139481, ""type"": 0, ""w"": 16.0}, {""id"": 31735676, ""node1"": 133415, ""node2"": 139481, ""type"": 14, ""w"": 40.0}, {""id"": 1067229528, ""node1"": 133415, ""node2"": 139481, ""type"": 16, ""w"": 16.0}, {""id"": 1053526688, ""node1"": 133415, ""node2"": 139481, ""type"": 666, ""w"": 2.0}]"
+cuire,minute,[]
+mettre,arroser,[]
+fin,cuisson,[]
+déposer,verser,"[{""id"": 12276082, ""node1"": 35714, ""node2"": 104506, ""type"": 0, ""w"": 42.0}, {""id"": 646174, ""node1"": 35714, ""node2"": 104506, ""type"": 5, ""w"": 106.0}, {""id"": 496662888, ""node1"": 35714, ""node2"": 104506, ""type"": 35, ""w"": 36.0}]"
+verser,vinaigre,"[{""id"": 15085300, ""node1"": 104506, ""node2"": 145443, ""type"": 14, ""w"": 30.0}]"
+vin,rouge,"[{""id"": 61835, ""node1"": 35798, ""node2"": 86356, ""type"": 0, ""w"": 517.0}, {""id"": 556239, ""node1"": 35798, ""node2"": 86356, ""type"": 5, ""w"": 122.0}, {""id"": 9857786, ""node1"": 35798, ""node2"": 86356, ""type"": 8, ""w"": 139.0}, {""id"": 14806149, ""node1"": 35798, ""node2"": 86356, ""type"": 17, ""w"": 71.0}, {""id"": 31149018, ""node1"": 35798, ""node2"": 86356, ""type"": 27, ""w"": 22.0}, {""id"": 3154292, ""node1"": 35798, ""node2"": 86356, ""type"": 106, ""w"": 12.0}, {""id"": 1526706, ""node1"": 35798, ""node2"": 86356, ""type"": 666, ""w"": 8.0}]"
+ajouter,bouillon,[]
+bouillon,boeuf,[]
+confection,sauce,[]
+plonger,légume,[]
+légume,bouillon,"[{""id"": 796689475, ""node1"": 120603, ""node2"": 146582, ""type"": 0, ""w"": 25.0}]"
+plonger,servir,[]
+servir,chaud,[]
+servir,jambon,[]
+jambon,entourer,[]

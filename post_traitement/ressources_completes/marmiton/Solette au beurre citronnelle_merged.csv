@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,poivre,appos,NOUN,0.7064663171768188,"[{""id"": 24923435, ""node1"": 123418, ""node2"": 139597, ""type"": 0, ""w"": 15.0}, {""id"": 24850733, ""node1"": 123418, ""node2"": 139597, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+sel,beurre,nmod,NOUN,0.7119027376174927,"[{""id"": 29328492, ""node1"": 13260, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 9986817, ""node1"": 13260, ""node2"": 140377, ""type"": 10, ""w"": 35.0}]",r_holo,35.0
+beurre,sole,nmod,NOUN,0.6560583114624023,[],,
+sel,gingembre,nmod,NOUN,0.690368115901947,[],,
+gingembre,persil,nmod,NOUN,0.6132636666297913,[],,
+poivre,beurre,acl,NOUN,0.71866774559021,"[{""id"": 584573840, ""node1"": 139597, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+beurre,tendre,amod,ADJ,0.6567766666412354,"[{""id"": 172916, ""node1"": 140377, ""node2"": 71211, ""type"": 17, ""w"": 90.0}]",r_carac,90.0
+lime,poisson,obj,NOUN,0.5597177147865295,[],,
+film,alimentaire,amod,ADJ,0.4283865392208099,[],,
+film,mixeur,appos,NOUN,0.508709728717804,[],,
+mixeur,set,nmod,NOUN,0.4433817863464355,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+poêle,couteau,nmod,NOUN,0.6776712536811829,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+titre,mixer,nmod,NOUN,0.5177966356277466,[],,
+mixer,ingrédient,nsubj,NOUN,0.6117910146713257,[],,
+ingrédient,beurre,nmod,NOUN,0.7321043014526367,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]",r_associated,69.0
+former,boudin,obj,NOUN,0.5247586965560913,"[{""id"": 373014572, ""node1"": 66314, ""node2"": 16548, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+sole,meunier,amod,ADJ,0.5338271856307983,[],,
+moment,servir,acl,VERB,0.4804177582263946,[],,
+moment,sortir,acl,VERB,0.4048287272453308,"[{""id"": 799055701, ""node1"": 136447, ""node2"": 5714, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+sortir,beurre,obj,NOUN,0.6519319415092468,[],,
+beurre,frigo,nmod,NOUN,0.6785125136375427,"[{""id"": 797197365, ""node1"": 140377, ""node2"": 45624, ""type"": 0, ""w"": 27.0}, {""id"": 246130, ""node1"": 140377, ""node2"": 45624, ""type"": 15, ""w"": 88.0}]",r_lieu,88.0
+tranche,avoir,acl:relcl,VERB,0.4095003306865692,[],,
+poser,tranche,obj,NOUN,0.4408090710639953,[],,
+appétit,bon,amod,ADJ,0.4575223624706268,[],,

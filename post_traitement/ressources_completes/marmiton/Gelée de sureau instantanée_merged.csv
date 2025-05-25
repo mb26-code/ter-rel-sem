@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+gelée,ingrédient,nmod,NOUN,0.6242483258247375,[],,
+gelée,sucre,nmod,NOUN,0.6714017987251282,"[{""id"": 98275385, ""node1"": 47620, ""node2"": 139481, ""type"": 0, ""w"": 24.0}, {""id"": 980147654, ""node1"": 47620, ""node2"": 139481, ""type"": 666, ""w"": 3.0}]",r_associated,24.0
+sucre,baie,nmod,NOUN,0.5488200783729553,[],,
+casserole,cuillère,nmod,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,assiette,nmod,NOUN,0.5656145215034485,[],,
+assiette,étape,nmod,NOUN,0.483820229768753,[],,
+gelée,Laver,nmod,PROPN,0.4444658160209656,[],,
+chauffer,baie,obj,NOUN,0.4497566223144531,[],,
+chauffer,verre,obj,NOUN,0.606386661529541,[],,
+verre,eau,nmod,NOUN,0.5749212503433228,"[{""id"": 70610, ""node1"": 144497, ""node2"": 65012, ""type"": 0, ""w"": 314.0}, {""id"": 31129047, ""node1"": 144497, ""node2"": 65012, ""type"": 3, ""w"": 35.0}, {""id"": 10528262, ""node1"": 144497, ""node2"": 65012, ""type"": 9, ""w"": 9.0}, {""id"": 393483, ""node1"": 144497, ""node2"": 65012, ""type"": 28, ""w"": 194.0}, {""id"": 720818421, ""node1"": 144497, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 1523981, ""node1"": 144497, ""node2"": 65012, ""type"": 666, ""w"": 5.0}]",r_associated,314.0
+chauffer,éclater,advcl,VERB,0.4918991923332214,[],,
+filtrer,jus,obj,NOUN,0.5463928580284119,[],,
+mesurer,jus,obj,NOUN,0.5740613341331482,[],,
+jus,obtenir,acl,VERB,0.5567485690116882,[],,
+poids,sucre,nmod,NOUN,0.6003441214561462,"[{""id"": 14674658, ""node1"": 123836, ""node2"": 139481, ""type"": 42, ""w"": 31.0}]",r_has_causatif,31.0
+mélanger,jus,obj,NOUN,0.5910492539405823,[],,
+jus,jus,appos,NOUN,0.530181884765625,"[{""id"": 311916, ""node1"": 53310, ""node2"": 53310, ""type"": 19, ""w"": 55.0}, {""id"": 475864937, ""node1"": 53310, ""node2"": 53310, ""type"": 170, ""w"": 35.0}]",r_lemma,55.0
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+prendre,gelée,nsubj:pass,NOUN,0.542809247970581,[],,
+goutte,déposer,acl,VERB,0.4869413375854492,[],,
+assiette,prendre,acl,VERB,0.5942174196243286,"[{""id"": 25739284, ""node1"": 62735, ""node2"": 86306, ""type"": 25, ""w"": 51.0}, {""id"": 539966702, ""node1"": 62735, ""node2"": 86306, ""type"": 30, ""w"": -25.0}]",r_instr-1,51.0

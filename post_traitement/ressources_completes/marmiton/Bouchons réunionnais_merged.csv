@@ -1,0 +1,26 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,bouchon,nmod,NOUN,0.4289709031581878,[],,
+bouchon,ingrédient,nmod,NOUN,0.5865313410758972,[],,
+bouchon,piment,nmod,NOUN,0.6085295081138611,[],,
+bouchon,chair,nmod,NOUN,0.5452717542648315,[],,
+bouchon,saucisse,nmod,NOUN,0.58525550365448,[],,
+saucisse,viande,amod,NOUN,0.6917047500610352,"[{""id"": 397758, ""node1"": 77807, ""node2"": 140100, ""type"": 0, ""w"": 77.0}, {""id"": 12415967, ""node1"": 77807, ""node2"": 140100, ""type"": 6, ""w"": 208.0}, {""id"": 72785399, ""node1"": 77807, ""node2"": 140100, ""type"": 666, ""w"": 3.0}]",r_isa,208.0
+saucisse,haché,amod,ADJ,0.5827106833457947,"[{""id"": 926463562, ""node1"": 77807, ""node2"": 47887, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+bouchon,oignon,nmod,NOUN,0.5914857387542725,[],,
+oignon,blanc,amod,ADJ,0.6052383184432983,"[{""id"": 414999234, ""node1"": 123307, ""node2"": 15196, ""type"": 0, ""w"": 29.0}, {""id"": 1780353, ""node1"": 123307, ""node2"": 15196, ""type"": 17, ""w"": 29.0}, {""id"": 3161217, ""node1"": 123307, ""node2"": 15196, ""type"": 106, ""w"": 9.0}, {""id"": 1767140, ""node1"": 123307, ""node2"": 15196, ""type"": 666, ""w"": 3.0}]",r_carac,29.0
+oignon,ciboulette,nmod,NOUN,0.6138722896575928,"[{""id"": 914358307, ""node1"": 123307, ""node2"": 131816, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+mélange,épice,nmod,NOUN,0.6910523176193237,"[{""id"": 925026230, ""node1"": 14800, ""node2"": 146056, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+épice,cuillère,nmod,NOUN,0.683648943901062,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,blender,nmod,NOUN,0.5797982215881348,[],,
+cuillère,chauffer,acl,VERB,0.652341902256012,[],,
+chauffer,balance,obj,NOUN,0.5568371415138245,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+bouchon,mélanger,acl,VERB,0.5464977025985718,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+rouler,faire,advcl,VERB,0.4734949171543121,[],,
+faire,bouchon,obj,NOUN,0.5271161198616028,[],,
+fois,farine,nmod,NOUN,0.5965827107429504,[],,
+cuire,le,obj,PRON,0.4500194191932678,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,

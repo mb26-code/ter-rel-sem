@@ -1,0 +1,22 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+barre,ingrédient,nmod,NOUN,0.4945566356182098,[],,
+miel,beurre,acl,NOUN,0.6565355062484741,"[{""id"": 62362450, ""node1"": 136055, ""node2"": 140377, ""type"": 75, ""w"": 46.0}]",r_accomp,46.0
+miel,cassonade,nmod,NOUN,0.6256284713745117,[],,
+barre,chocolat,nmod,NOUN,0.4932923018932342,"[{""id"": 382599, ""node1"": 142381, ""node2"": 34157, ""type"": 0, ""w"": 115.0}, {""id"": 1683732, ""node1"": 142381, ""node2"": 34157, ""type"": 35, ""w"": 70.0}, {""id"": 273955005, ""node1"": 142381, ""node2"": 34157, ""type"": 50, ""w"": 15.0}, {""id"": 775213358, ""node1"": 142381, ""node2"": 34157, ""type"": 174, ""w"": 25.0}, {""id"": 1070432357, ""node1"": 142381, ""node2"": 34157, ""type"": 666, ""w"": 2.0}]",r_associated,115.0
+casserole,four,nmod,NOUN,0.7147663235664368,[],,
+four,couteau,nmod,NOUN,0.6828393340110779,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+titre,casserole,nmod,NOUN,0.5580013990402222,[],,
+casserole,fondre,acl,VERB,0.6157484650611877,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+moule,carré,amod,NOUN,0.5030992031097412,[],,
+moule,bord,nmod,NOUN,0.4929998815059662,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+moule,minute,nmod,NOUN,0.5479872226715088,[],,
+couper,rectangle,obj,NOUN,0.4856330156326294,[],,
+étaler,laisser,iobj,VERB,0.4054059088230133,[],,
+étaler,chocolat,obj,NOUN,0.5758636593818665,[],,
+chocolat,fondre,acl,VERB,0.5867562890052795,"[{""id"": 561175449, ""node1"": 34157, ""node2"": 16480, ""type"": 0, ""w"": 35.0}, {""id"": 24771039, ""node1"": 34157, ""node2"": 16480, ""type"": 24, ""w"": 220.0}, {""id"": 1011192542, ""node1"": 34157, ""node2"": 16480, ""type"": 26, ""w"": 30.0}]",r_agent-1,220.0

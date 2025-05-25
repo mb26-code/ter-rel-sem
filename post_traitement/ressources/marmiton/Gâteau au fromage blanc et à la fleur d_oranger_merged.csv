@@ -1,0 +1,44 @@
+head,lemma,dep,pos,sim,relation
+titre,gâteau,nmod,NOUN,0.5333040952682495,[]
+gâteau,fromage,nmod,NOUN,0.6696814298629761,"[{""id"": 59510796, ""node1"": 2149, ""node2"": 141687, ""type"": 0, ""w"": 21.0}, {""id"": 54744372, ""node1"": 2149, ""node2"": 141687, ""type"": 5, ""w"": 87.0}]"
+fromage,blanc,amod,ADJ,0.5992328524589539,"[{""id"": 96698067, ""node1"": 141687, ""node2"": 15196, ""type"": 0, ""w"": 34.0}, {""id"": 121011, ""node1"": 141687, ""node2"": 15196, ""type"": 17, ""w"": 155.0}, {""id"": 3163361, ""node1"": 141687, ""node2"": 15196, ""type"": 106, ""w"": 58.0}, {""id"": 12134443, ""node1"": 141687, ""node2"": 15196, ""type"": 666, ""w"": 1.0}]"
+fleur,oranger,acl,VERB,0.4641747772693634,"[{""id"": 421883126, ""node1"": 28985, ""node2"": 33024, ""type"": 0, ""w"": 11.0}]"
+oranger,ingrédient,obj,NOUN,0.5476444363594055,[]
+gâteau,arôme,nmod,NOUN,0.6175561547279358,[]
+titre,fleur,amod,NOUN,0.4749987721443176,[]
+oranger,levure,obj,NOUN,0.5655242800712585,[]
+levure,huile,acl,NOUN,0.6309573650360107,[]
+oranger,sucre,obj,NOUN,0.6246147751808167,[]
+sucre,fromage,amod,NOUN,0.7180400490760803,[]
+blanc,oeuf,obj,NOUN,0.5395181179046631,"[{""id"": 215721, ""node1"": 15196, ""node2"": 116175, ""type"": 0, ""w"": 84.0}, {""id"": 31299415, ""node1"": 15196, ""node2"": 116175, ""type"": 3, ""w"": 32.0}, {""id"": 76136326, ""node1"": 15196, ""node2"": 116175, ""type"": 10, ""w"": 26.0}, {""id"": 373603, ""node1"": 15196, ""node2"": 116175, ""type"": 23, ""w"": 110.0}, {""id"": 91492401, ""node1"": 15196, ""node2"": 116175, ""type"": 35, ""w"": 54.0}]"
+titre,grille,nmod,NOUN,0.4488788545131683,[]
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[]
+pâtisserie,moule,obj,NOUN,0.56337571144104,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]"
+grille,manquer,acl,VERB,0.4866251647472381,[]
+manquer,four,obj,NOUN,0.6675082445144653,[]
+four,cuillère,nmod,NOUN,0.7153509855270386,[]
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,couteau,nmod,NOUN,0.5726497173309326,"[{""id"": 139564, ""node1"": 51905, ""node2"": 32610, ""type"": 0, ""w"": 212.0}, {""id"": 87319445, ""node1"": 51905, ""node2"": 32610, ""type"": 666, ""w"": 1.0}]"
+cuillère,balance,nmod,NOUN,0.5329062342643738,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+balance,étape,nmod,NOUN,0.4149083495140075,[]
+four,180,nmod,NUM,0.4979606568813324,[]
+mélanger,fromage,obj,NOUN,0.6724821329116821,[]
+ajouter,farine,obj,NOUN,0.6640971302986145,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]"
+dépendre,quantité,nsubj,NOUN,0.4659487605094909,[]
+quantité,arôme,nmod,NOUN,0.5669712424278259,[]
+dépendre,préférence,obj,NOUN,0.4037450551986694,[]
+produit,utiliser,acl,VERB,0.4176730811595917,[]
+goûter,préparation,obj,NOUN,0.6183322668075562,[]
+goûter,mettre,advcl,VERB,0.5647296905517578,[]
+verser,pâte,obj,NOUN,0.6542285084724426,"[{""id"": 373014722, ""node1"": 104506, ""node2"": 34069, ""type"": 14, ""w"": 36.0}]"
+moule,cake,nmod,NOUN,0.5423397421836853,"[{""id"": 272916, ""node1"": 143723, ""node2"": 28945, ""type"": 0, ""w"": 60.0}, {""id"": 583219247, ""node1"": 143723, ""node2"": 28945, ""type"": 28, ""w"": 27.0}]"
+moule,idéalement,amod,ADV,0.4987009763717651,[]
+prendre,gâteau,nsubj,NOUN,0.6005702018737793,[]
+prendre,couleur,obj,NOUN,0.4832141399383545,[]
+couleur,doré,amod,ADJ,0.4999752938747406,"[{""id"": 797004655, ""node1"": 40056, ""node2"": 47964, ""type"": 0, ""w"": 22.0}, {""id"": 242864260, ""node1"": 40056, ""node2"": 47964, ""type"": 8, ""w"": 26.0}]"
+prendre,cuire,advcl,VERB,0.6879478096961975,[]
+vérifier,cuisson,obj,NOUN,0.6534045934677124,"[{""id"": 31862099, ""node1"": 76431, ""node2"": 60056, ""type"": 14, ""w"": 64.0}]"
+cuisson,planter,acl,VERB,0.6939831972122192,[]
+planter,couteau,obj,NOUN,0.5039401650428772,"[{""id"": 899960476, ""node1"": 4993, ""node2"": 32610, ""type"": 0, ""w"": 20.0}, {""id"": 31862076, ""node1"": 4993, ""node2"": 32610, ""type"": 14, ""w"": 53.0}, {""id"": 376201239, ""node1"": 4993, ""node2"": 32610, ""type"": 16, ""w"": 26.0}]"
+devoir,lame,nsubj,NOUN,0.4533716142177582,[]

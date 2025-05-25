@@ -1,0 +1,60 @@
+head,lemma,dep,pos,sim,relation
+titre,brioche,nmod,NOUN,0.5583317279815674,[]
+brioche,graine,nmod,NOUN,0.6245661973953247,[]
+graine,lotus,nmod,NOUN,0.4036173820495605,[]
+lotus,ingrédient,nmod,NOUN,0.42926225066185,[]
+brioche,sucre,nmod,NOUN,0.7093573808670044,"[{""id"": 663769, ""node1"": 140188, ""node2"": 139481, ""type"": 0, ""w"": 39.0}, {""id"": 98291850, ""node1"": 140188, ""node2"": 139481, ""type"": 42, ""w"": 31.0}, {""id"": 1823113, ""node1"": 140188, ""node2"": 139481, ""type"": 666, ""w"": 4.0}]"
+sucre,levure,nmod,NOUN,0.6511401534080505,[]
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]"
+titre,levure,nmod,NOUN,0.558043360710144,[]
+levure,boulanger,nmod,NOUN,0.5430918335914612,"[{""id"": 1769594, ""node1"": 53450, ""node2"": 145285, ""type"": 0, ""w"": 90.0}, {""id"": 376186762, ""node1"": 53450, ""node2"": 145285, ""type"": 25, ""w"": 26.0}]"
+boulanger,farine,amod,NOUN,0.6365969181060791,"[{""id"": 143927, ""node1"": 145285, ""node2"": 127629, ""type"": 0, ""w"": 342.0}, {""id"": 176196, ""node1"": 145285, ""node2"": 127629, ""type"": 14, ""w"": 60.0}, {""id"": 180867, ""node1"": 145285, ""node2"": 127629, ""type"": 16, ""w"": 110.0}, {""id"": 12995347, ""node1"": 145285, ""node2"": 127629, ""type"": 41, ""w"": 51.0}, {""id"": 1061540462, ""node1"": 145285, ""node2"": 127629, ""type"": 50, ""w"": 27.0}, {""id"": 795302864, ""node1"": 145285, ""node2"": 127629, ""type"": 129, ""w"": 29.0}, {""id"": 478897495, ""node1"": 145285, ""node2"": 127629, ""type"": 155, ""w"": 71.0}, {""id"": 1041698983, ""node1"": 145285, ""node2"": 127629, ""type"": 666, ""w"": 2.0}]"
+titre,eau,nmod,NOUN,0.5551659464836121,"[{""id"": 368369040, ""node1"": 7970, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]"
+eau,huile,acl,NOUN,0.5881909728050232,"[{""id"": 922137128, ""node1"": 65012, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]"
+eau,sucre,acl,NOUN,0.6594484448432922,[]
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]"
+poudre,lotus,nmod,PROPN,0.4599008858203888,[]
+lotus,eau,appos,NOUN,0.5056298971176147,"[{""id"": 2475833, ""node1"": 53930, ""node2"": 65012, ""type"": 0, ""w"": 53.0}, {""id"": 980356152, ""node1"": 53930, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]"
+eau,mixeur,nmod,NOUN,0.6290654540061951,[]
+mixeur,casserole,nmod,NOUN,0.61752849817276,[]
+casserole,bol,nmod,NOUN,0.5670263171195984,[]
+bol,cuillère,nmod,NOUN,0.5572551488876343,"[{""id"": 1046576301, ""node1"": 145405, ""node2"": 51905, ""type"": 8, ""w"": 20.0}]"
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,blender,nmod,NOUN,0.5797982215881348,[]
+cuillère,chauffer,acl,VERB,0.652341902256012,[]
+chauffer,balance,obj,NOUN,0.5568371415138245,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+balance,étape,nmod,NOUN,0.4149083495140075,[]
+préparer,crème,obj,NOUN,0.6308075189590454,[]
+bouillir,graine,obj,NOUN,0.6492660045623779,[]
+devenir,tendre,obj,ADJ,0.4168556034564972,[]
+mixeur,obtenir,acl,VERB,0.507888674736023,[]
+obtenir,pâte,obj,NOUN,0.6173189282417297,[]
+pâte,fin,amod,ADJ,0.6017938852310181,"[{""id"": 96931425, ""node1"": 34069, ""node2"": 144718, ""type"": 17, ""w"": 22.0}]"
+fin,morceau,nmod,NOUN,0.4833599328994751,[]
+chauffer,wok,nmod,NOUN,0.635486900806427,[]
+casserole,profond,amod,ADJ,0.5750002861022949,[]
+fondre,moitié,obj,NOUN,0.5195116996765137,[]
+moitié,sucre,nmod,NOUN,0.6619113087654114,[]
+ajouter,pâte,obj,NOUN,0.6482475399971008,[]
+pâte,graine,nmod,NOUN,0.655407190322876,[]
+cuire,remuer,advcl,VERB,0.6866573691368103,[]
+remuer,temps,obj,NOUN,0.5274296998977661,[]
+ce,pâte,nmod,NOUN,0.4543620645999908,[]
+ajouter,reste,obj,NOUN,0.454963743686676,[]
+reste,sucre,nmod,NOUN,0.6677907705307007,[]
+verser,huile,obj,NOUN,0.6115446090698242,"[{""id"": 227659, ""node1"": 104506, ""node2"": 141971, ""type"": 14, ""w"": 57.0}, {""id"": 645787360, ""node1"": 104506, ""node2"": 141971, ""type"": 666, ""w"": 2.0}]"
+épais,pâte,nsubj,NOUN,0.6241465210914612,"[{""id"": 97866008, ""node1"": 55342, ""node2"": 34069, ""type"": 23, ""w"": 28.0}]"
+préparer,pâte,obj,NOUN,0.6504604816436768,"[{""id"": 97862162, ""node1"": 36246, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]"
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]"
+sucre,bol,nmod,NOUN,0.6402907371520996,[]
+verser,eau,obj,NOUN,0.5738218426704407,"[{""id"": 383589, ""node1"": 104506, ""node2"": 65012, ""type"": 0, ""w"": 232.0}, {""id"": 167908, ""node1"": 104506, ""node2"": 65012, ""type"": 14, ""w"": 100.0}, {""id"": 376198934, ""node1"": 104506, ""node2"": 65012, ""type"": 16, ""w"": 26.0}, {""id"": 645787357, ""node1"": 104506, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]"
+obtention,pâte,nmod,NOUN,0.613581120967865,[]
+pâte,lisse,amod,ADJ,0.6106547713279724,"[{""id"": 532329951, ""node1"": 34069, ""node2"": 140074, ""type"": 17, ""w"": 32.0}]"
+boule,petit,amod,ADJ,0.5510615706443787,[]
+faite,boule,obj,NOUN,0.514837384223938,[]
+boule,pâte,nmod,NOUN,0.6151799559593201,"[{""id"": 720819459, ""node1"": 141883, ""node2"": 34069, ""type"": 174, ""w"": 25.0}, {""id"": 4827130, ""node1"": 141883, ""node2"": 34069, ""type"": 777, ""w"": 10.0}]"
+pâte,garni,amod,ADJ,0.6510671377182007,[]
+faire,cuir,obj,NOUN,0.5156679153442383,[]
+vapeur,minute,nmod,NOUN,0.5486836433410645,[]
+grossir,boule,nsubj,NOUN,0.4965286552906036,[]

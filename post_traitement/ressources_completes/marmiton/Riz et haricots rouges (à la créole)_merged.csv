@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+haricot,rouge,amod,ADJ,0.5173691511154175,"[{""id"": 8849821, ""node1"": 114886, ""node2"": 86356, ""type"": 0, ""w"": 42.0}, {""id"": 2111127, ""node1"": 114886, ""node2"": 86356, ""type"": 17, ""w"": 26.0}, {""id"": 3164403, ""node1"": 114886, ""node2"": 86356, ""type"": 106, ""w"": 14.0}]",r_associated,42.0
+riz,ingrédient,nmod,NOUN,0.6896160840988159,"[{""id"": 15370357, ""node1"": 24372, ""node2"": 123418, ""type"": 0, ""w"": 31.0}, {""id"": 506077, ""node1"": 24372, ""node2"": 123418, ""type"": 3, ""w"": 54.0}]",r_domain,54.0
+riz,sel,nmod,NOUN,0.7465093731880188,"[{""id"": 920059806, ""node1"": 24372, ""node2"": 13260, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+sel,poivre,nmod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,beurre,acl,NOUN,0.71866774559021,"[{""id"": 584573840, ""node1"": 139597, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+bouquet,clou,nsubj,NOUN,0.427130252122879,[],,
+clou,girofle,nmod,ADP,0.4290643036365509,"[{""id"": 9902807, ""node1"": 11651, ""node2"": 43873, ""type"": 0, ""w"": 55.0}, {""id"": 413873, ""node1"": 11651, ""node2"": 43873, ""type"": 8, ""w"": 111.0}]",r_hypo,111.0
+clou,huile,amod,NOUN,0.5478216409683228,[],,
+clou,haricot,nmod,NOUN,0.4625045359134674,[],,
+bouquet,garni,amod,ADJ,0.4469667077064514,[],,
+piment,petit,amod,ADJ,0.6294569373130798,[],,
+garni,piment,appos,NOUN,0.598548948764801,[],,
+top,poêle,nmod,NOUN,0.5366419553756714,[],,
+poêle,couvercle,nmod,NOUN,0.6690102219581604,[],,
+couvercle,balance,nmod,NOUN,0.5437039136886597,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+bouquet,veille,nmod,NOUN,0.4813604354858398,[],,
+bouquet,mettre,acl,VERB,0.4964542090892792,"[{""id"": 906046069, ""node1"": 34381, ""node2"": 132366, ""type"": 0, ""w"": 20.0}, {""id"": 478070908, ""node1"": 34381, ""node2"": 132366, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+mettre,haricot,obj,NOUN,0.5464017391204834,[],,
+saladier,eau,nmod,NOUN,0.6073445677757263,[],,
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+bouquet,cuire,acl,VERB,0.7436161041259766,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+heure,cocotte,nmod,NOUN,0.5574561357498169,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+feu,poitrine,nmod,NOUN,0.5483858585357666,[],,
+poitrine,saler,amod,ADJ,0.5919936299324036,[],,
+ajouter,haricot,obj,NOUN,0.551318883895874,[],,
+clou,bouquet,appos,NOUN,0.427130252122879,[],,
+eau,cuisson,nmod,NOUN,0.6715990304946899,"[{""id"": 489016047, ""node1"": 65012, ""node2"": 60056, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+cuisson,haricot,nmod,NOUN,0.7389783263206482,[],,
+devoir,eau,nsubj,NOUN,0.5510714650154114,[],,
+couvrir,riz,obj,NOUN,0.6727244257926941,[],,
+ajouter,piment,obj,NOUN,0.6054633259773254,[],,
+tendre,riz,nsubj,NOUN,0.6736453175544739,[],,

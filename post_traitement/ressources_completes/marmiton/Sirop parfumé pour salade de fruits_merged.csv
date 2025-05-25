@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,sirop,appos,NOUN,0.5721874833106995,[],,
+sirop,salade,nmod,NOUN,0.7140330076217651,[],,
+salade,fruit,nmod,NOUN,0.619463324546814,"[{""id"": 129520, ""node1"": 118908, ""node2"": 87286, ""type"": 0, ""w"": 95.0}, {""id"": 97758196, ""node1"": 118908, ""node2"": 87286, ""type"": 9, ""w"": 37.0}, {""id"": 408602, ""node1"": 118908, ""node2"": 87286, ""type"": 28, ""w"": 98.0}]",r_lieu-1,98.0
+fruit,ingrédient,nmod,NOUN,0.562045156955719,[],,
+sirop,sucre,nmod,NOUN,0.648704469203949,"[{""id"": 217497, ""node1"": 91109, ""node2"": 139481, ""type"": 0, ""w"": 407.0}, {""id"": 415329, ""node1"": 91109, ""node2"": 139481, ""type"": 9, ""w"": 70.0}, {""id"": 1035329517, ""node1"": 91109, ""node2"": 139481, ""type"": 50, ""w"": 31.0}, {""id"": 984864968, ""node1"": 91109, ""node2"": 139481, ""type"": 666, ""w"": 3.0}]",r_associated,407.0
+sucre,citron,nmod,NOUN,0.6847571134567261,"[{""id"": 292123774, ""node1"": 139481, ""node2"": 15386, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+sucre,fruit,nmod,NOUN,0.6387148499488831,"[{""id"": 98831553, ""node1"": 139481, ""node2"": 87286, ""type"": 0, ""w"": 22.0}, {""id"": 9997585, ""node1"": 139481, ""node2"": 87286, ""type"": 10, ""w"": 32.0}]",r_holo,32.0
+fruit,passion,nmod,NOUN,0.4803899526596069,"[{""id"": 640137315, ""node1"": 87286, ""node2"": 39448, ""type"": 0, ""w"": 26.0}, {""id"": 14799317, ""node1"": 87286, ""node2"": 39448, ""type"": 23, ""w"": 21.0}]",r_associated,26.0
+passion,eau,appos,NOUN,0.5712947249412537,[],,
+casserole,réfrigérateur,nmod,NOUN,0.671978771686554,[],,
+réfrigérateur,balance,nmod,NOUN,0.5236407518386841,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+casserole,petit,amod,ADJ,0.6468310356140137,[],,
+titre,casserole,nmod,NOUN,0.5580013990402222,[],,
+mettre,sucre,obj,NOUN,0.6608524322509766,"[{""id"": 374875286, ""node1"": 132366, ""node2"": 139481, ""type"": 0, ""w"": 40.0}, {""id"": 374875285, ""node1"": 132366, ""node2"": 139481, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+gousse,vanille,nmod,NOUN,0.5133623480796814,"[{""id"": 723347912, ""node1"": 3889, ""node2"": 140463, ""type"": 0, ""w"": 27.0}, {""id"": 671656975, ""node1"": 3889, ""node2"": 140463, ""type"": 58, ""w"": 25.0}, {""id"": 714921745, ""node1"": 3889, ""node2"": 140463, ""type"": 666, ""w"": 3.0}]",r_associated,27.0
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+feu,couvrir,acl,VERB,0.5588594079017639,[],,
+fois,sirop,amod,NOUN,0.6123422980308533,[],,
+sirop,froid,amod,ADJ,0.6226968765258789,[],,
+passer,gratter,advcl,VERB,0.4205662608146667,"[{""id"": 54689640, ""node1"": 28108, ""node2"": 19288, ""type"": 0, ""w"": 27.0}, {""id"": 54678527, ""node1"": 28108, ""node2"": 19288, ""type"": 5, ""w"": 106.0}]",r_syn,106.0
+gratter,gousse,obj,NOUN,0.4762320518493652,[],,
+grain,tout,amod,PRON,0.5554702281951904,[],,
+grain,petit,amod,ADJ,0.5564358830451965,"[{""id"": 211569, ""node1"": 57895, ""node2"": 55222, ""type"": 0, ""w"": 71.0}, {""id"": 203190, ""node1"": 57895, ""node2"": 55222, ""type"": 17, ""w"": 60.0}]",r_associated,71.0
+récupérer,grain,obj,NOUN,0.5281134247779846,[],,
+ajouter,pulpe,obj,NOUN,0.5573450922966003,[],,
+pulpe,fruit,nmod,NOUN,0.5316415429115295,"[{""id"": 413002219, ""node1"": 85081, ""node2"": 87286, ""type"": 0, ""w"": 59.0}, {""id"": 9997593, ""node1"": 85081, ""node2"": 87286, ""type"": 10, ""w"": 29.0}, {""id"": 984470808, ""node1"": 85081, ""node2"": 87286, ""type"": 666, ""w"": 2.0}]",r_associated,59.0
+salade,salade,appos,NOUN,0.6076122522354126,"[{""id"": 331573, ""node1"": 118908, ""node2"": 118908, ""type"": 19, ""w"": 57.0}]",r_lemma,57.0
+fruit,exotique,amod,ADJ,0.5086069703102112,[],,
+salade,mangue,appos,NOUN,0.6457743048667908,[],,
+mangue,grenade,amod,NOUN,0.5402165055274963,[],,

@@ -1,0 +1,30 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+soupe,régime,nmod,NOUN,0.6439989805221558,[],,
+soupe,chou,nmod,NOUN,0.6589324474334717,"[{""id"": 365600, ""node1"": 117152, ""node2"": 67203, ""type"": 0, ""w"": 62.0}, {""id"": 350100246, ""node1"": 117152, ""node2"": 67203, ""type"": 50, ""w"": 30.0}]",r_associated,62.0
+chou,ingrédient,nmod,NOUN,0.6174046993255615,[],,
+chou,sel,nmod,NOUN,0.7074003219604492,[],,
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+soupe,poivron,nmod,NOUN,0.7330633997917175,"[{""id"": 8206906, ""node1"": 117152, ""node2"": 38257, ""type"": 9, ""w"": 5.0}]",r_has_part,5.0
+poivron,poireau,nmod,NOUN,0.6431127786636353,[],,
+poireau,courgette,amod,NOUN,0.6181361675262451,[],,
+poireau,oignon,acl,NOUN,0.6085773706436157,[],,
+oignon,tomate,nmod,NOUN,0.6465381383895874,[],,
+chou,céleri,amod,PROPN,0.6089102029800415,[],,
+louche,mixeur,nmod,NOUN,0.5896725058555603,[],,
+mixeur,plonger,acl,VERB,0.5584041476249695,[],,
+mixeur,chauffer,acl,VERB,0.6226776838302612,[],,
+chauffer,couteau,obj,NOUN,0.6349921822547913,[],,
+mixeur,mixeur,nmod,NOUN,0.488496869802475,"[{""id"": 316851, ""node1"": 78314, ""node2"": 78314, ""type"": 19, ""w"": 51.0}]",r_lemma,51.0
+couper,légume,obj,NOUN,0.6484079957008362,"[{""id"": 435065646, ""node1"": 128828, ""node2"": 120603, ""type"": 0, ""w"": 26.0}, {""id"": 15079599, ""node1"": 128828, ""node2"": 120603, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+légume,morceau,nmod,NOUN,0.6784549951553345,[],,
+grosseur,choix,nmod,NOUN,0.4066574275493622,[],,
+bouillir,litre,obj,NOUN,0.5481809973716736,[],,
+litre,eau,nmod,NOUN,0.5440258383750916,"[{""id"": 2458362, ""node1"": 57416, ""node2"": 65012, ""type"": 0, ""w"": 84.0}, {""id"": 15759326, ""node1"": 57416, ""node2"": 65012, ""type"": 28, ""w"": 10.0}, {""id"": 720818422, ""node1"": 57416, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 980526881, ""node1"": 57416, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]",r_associated,84.0
+jeter,légume,obj,NOUN,0.6334641575813293,"[{""id"": 97862828, ""node1"": 48625, ""node2"": 120603, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+légume,couper,acl,VERB,0.6484079957008362,"[{""id"": 900892207, ""node1"": 120603, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 8555448, ""node1"": 120603, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+baisser,feu,obj,NOUN,0.552813708782196,[],,
+baisser,cuire,advcl,VERB,0.6752694845199585,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+mixer,légume,obj,NOUN,0.6782754063606262,"[{""id"": 1639141, ""node1"": 12170, ""node2"": 120603, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+pouvoir,soupe,nsubj,NOUN,0.6383264660835266,[],,
+consommer,chaud,amod,ADJ,0.5785598754882812,[],,

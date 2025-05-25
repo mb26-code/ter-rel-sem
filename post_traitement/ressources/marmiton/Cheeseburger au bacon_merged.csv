@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relation
+bacon,ingrédient,nmod,NOUN,0.6486365795135498,"[{""id"": 25274960, ""node1"": 25901, ""node2"": 123418, ""type"": 0, ""w"": 151.0}, {""id"": 25271022, ""node1"": 25901, ""node2"": 123418, ""type"": 6, ""w"": 137.0}]"
+bacon,pain,nmod,NOUN,0.6774095296859741,"[{""id"": 60418563, ""node1"": 25901, ""node2"": 61283, ""type"": 0, ""w"": 156.0}]"
+salade,fromage,appos,NOUN,0.703106164932251,"[{""id"": 539974496, ""node1"": 118908, ""node2"": 141687, ""type"": 9, ""w"": 28.0}, {""id"": 97758236, ""node1"": 118908, ""node2"": 141687, ""type"": 52, ""w"": 15.0}, {""id"": 113546267, ""node1"": 118908, ""node2"": 141687, ""type"": 777, ""w"": 9.0}]"
+fromage,bacon,nmod,NOUN,0.6276805996894836,[]
+set,poêle,nmod,NOUN,0.5301709771156311,[]
+cuire,pain,obj,NOUN,0.7839475870132446,"[{""id"": 364971191, ""node1"": 5115, ""node2"": 61283, ""type"": 0, ""w"": 27.0}, {""id"": 413365254, ""node1"": 5115, ""node2"": 61283, ""type"": 13, ""w"": 100.0}, {""id"": 15086186, ""node1"": 5115, ""node2"": 61283, ""type"": 14, ""w"": 100.0}, {""id"": 376195180, ""node1"": 5115, ""node2"": 61283, ""type"": 16, ""w"": 32.0}]"
+faite,couper,acl,VERB,0.4766409695148468,[]
+couper,feuille,obj,NOUN,0.4969625771045685,"[{""id"": 8905022, ""node1"": 128828, ""node2"": 37993, ""type"": 14, ""w"": 6.0}]"
+feuille,salade,nmod,NOUN,0.615514874458313,"[{""id"": 614208544, ""node1"": 37993, ""node2"": 118908, ""type"": 0, ""w"": 30.0}, {""id"": 775213406, ""node1"": 37993, ""node2"": 118908, ""type"": 174, ""w"": 25.0}]"
+mettre,tranche,obj,NOUN,0.4838809669017792,[]
+tranche,fromage,nmod,NOUN,0.6097967624664307,"[{""id"": 720818623, ""node1"": 143123, ""node2"": 141687, ""type"": 174, ""w"": 25.0}]"
+tranche,dessus,nmod,NOUN,0.4642078876495361,[]
+dessus,salade,nmod,NOUN,0.6613062620162964,[]
+cuire,steak,obj,NOUN,0.7575573921203613,"[{""id"": 796846082, ""node1"": 5115, ""node2"": 55572, ""type"": 0, ""w"": 28.0}, {""id"": 15025387, ""node1"": 5115, ""node2"": 55572, ""type"": 13, ""w"": 40.0}, {""id"": 15082745, ""node1"": 5115, ""node2"": 55572, ""type"": 14, ""w"": 35.0}]"
+poêle,écraser,acl,VERB,0.6596940755844116,[]
+aide,spatule,nmod,NOUN,0.4394362568855285,[]
+devoir,steak,nsubj,NOUN,0.5798225998878479,[]
+cuire,devoir,advcl,VERB,0.665005624294281,[]
+fin,cuisson,nmod,NOUN,0.5646086931228638,[]
+disposer,tranche,obj,NOUN,0.4626000821590423,[]
+tranche,steak,nmod,NOUN,0.6094164848327637,"[{""id"": 608778741, ""node1"": 143123, ""node2"": 55572, ""type"": 0, ""w"": 39.0}]"
+steak,laisser,acl:relcl,VERB,0.6252576112747192,[]
+fondre,fromage,nsubj:pass,NOUN,0.6491246819496155,"[{""id"": 102294612, ""node1"": 16480, ""node2"": 141687, ""type"": 0, ""w"": 62.0}, {""id"": 98285435, ""node1"": 16480, ""node2"": 141687, ""type"": 13, ""w"": 31.0}]"
+mettre,fondre,advcl,VERB,0.4897515773773193,[]
+mettre,steak,obj,NOUN,0.633103609085083,"[{""id"": 546227639, ""node1"": 132366, ""node2"": 55572, ""type"": 0, ""w"": 30.0}, {""id"": 546227638, ""node1"": 132366, ""node2"": 55572, ""type"": 31, ""w"": 28.0}]"
+tranche,disposé,acl,ADJ,0.4369779825210571,[]
+salade,couper,acl,VERB,0.6429648995399475,[]
+ajouter,tomate,obj,NOUN,0.6318210363388062,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 29.0}]"
+cuire,tranche,obj,NOUN,0.7191604971885681,[]
+tranche,bacon,nmod,NOUN,0.5835222601890564,"[{""id"": 915336570, ""node1"": 143123, ""node2"": 25901, ""type"": 0, ""w"": 20.0}]"
+moitié,autre,amod,ADJ,0.4410399198532104,"[{""id"": 765505277, ""node1"": 89030, ""node2"": 7574, ""type"": 17, ""w"": 28.0}]"
+burger,moitié,obj,NOUN,0.5528486371040344,[]
+moitié,pain,nmod,NOUN,0.6693698763847351,[]
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]"
+fermer,burger,obj,NOUN,0.4864103496074676,[]
+mettre,burger,obj,NOUN,0.5643026232719421,[]
+appétit,bon,amod,ADJ,0.4575223624706268,[]

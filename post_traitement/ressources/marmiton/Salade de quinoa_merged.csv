@@ -1,0 +1,34 @@
+head,lemma,dep,pos,sim,relation
+titre,salade,appos,NOUN,0.5926524996757507,[]
+ingrédient,quinoa,amod,ADJ,0.6488661766052246,[]
+salade,ingrédient,nmod,NOUN,0.7127874493598938,[]
+salade,sel,nmod,NOUN,0.7604894042015076,"[{""id"": 97758126, ""node1"": 118908, ""node2"": 13260, ""type"": 0, ""w"": 27.0}, {""id"": 97758127, ""node1"": 118908, ""node2"": 13260, ""type"": 9, ""w"": 32.0}, {""id"": 5292757, ""node1"": 118908, ""node2"": 13260, ""type"": 777, ""w"": 7.0}]"
+sel,tomate,nmod,NOUN,0.7264893651008606,[]
+tomate,quinoa,amod,ADJ,0.650968074798584,[]
+salade,concombre,nmod,NOUN,0.6306709051132202,"[{""id"": 1652827, ""node1"": 118908, ""node2"": 31570, ""type"": 0, ""w"": 141.0}, {""id"": 765200128, ""node1"": 118908, ""node2"": 31570, ""type"": 50, ""w"": 27.0}, {""id"": 675297497, ""node1"": 118908, ""node2"": 31570, ""type"": 666, ""w"": 11.0}]"
+concombre,menthe,acl,VERB,0.5609439015388489,[]
+échalote,huile,amod,NOUN,0.6143849492073059,[]
+jus,olive,amod,ADJ,0.6285555958747864,[]
+échalote,jus,nmod,NOUN,0.6219252943992615,[]
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]"
+salade,top,nmod,NOUN,0.4977631270885467,[]
+salade,étape,nmod,NOUN,0.5620172619819641,[]
+salade,cuire,acl,VERB,0.8083714842796326,[]
+cuire,fois,nsubj,NOUN,0.6635112762451172,"[{""id"": 72773965, ""node1"": 5115, ""node2"": 38021, ""type"": 34, ""w"": -25.0}]"
+avoir,eau,obj,NOUN,0.5307751893997192,"[{""id"": 393603224, ""node1"": 31641, ""node2"": 65012, ""type"": 14, ""w"": 31.0}]"
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]"
+eau,égoutter,acl,VERB,0.5765343308448792,"[{""id"": 797683051, ""node1"": 65012, ""node2"": 64627, ""type"": 0, ""w"": 29.0}, {""id"": 600063598, ""node1"": 65012, ""node2"": 64627, ""type"": 27, ""w"": 31.0}]"
+cuire,quinoa,nsubj,ADJ,0.7528680562973022,[]
+rincer,cuire,advcl,VERB,0.6532095670700073,[]
+rincer,tomate,obj,NOUN,0.6056942939758301,[]
+jus,écouler,acl:relcl,VERB,0.5557068586349487,[]
+écouler,tomate,obj,NOUN,0.5997365713119507,[]
+cube,petit,amod,ADJ,0.5087730884552002,[]
+tomate,cube,nmod,NOUN,0.5804005861282349,[]
+enlever,graine,obj,NOUN,0.5275331139564514,[]
+couper,menthe,obj,NOUN,0.5640746355056763,[]
+légume,tout,amod,ADJ,0.6585912108421326,[]
+mélanger,légume,obj,NOUN,0.7151956558227539,[]
+froid,quinoa,amod,ADJ,0.6162616014480591,[]
+légume,froid,amod,ADJ,0.6427236199378967,[]
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]"

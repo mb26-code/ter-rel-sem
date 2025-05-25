@@ -1,0 +1,39 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+travers,porc,nmod,NOUN,0.5924713611602783,"[{""id"": 796712023, ""node1"": 3113, ""node2"": 71135, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+travers,ingrédient,nmod,NOUN,0.5754075646400452,[],,
+ingrédient,poivre,appos,NOUN,0.7064663171768188,"[{""id"": 24923435, ""node1"": 123418, ""node2"": 139597, ""type"": 0, ""w"": 15.0}, {""id"": 24850733, ""node1"": 123418, ""node2"": 139597, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+poivre,huile,amod,NOUN,0.6777899265289307,"[{""id"": 917898979, ""node1"": 139597, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+huile,sésame,nmod,NOUN,0.6178574562072754,"[{""id"": 12295235, ""node1"": 141971, ""node2"": 18404, ""type"": 0, ""w"": 43.0}, {""id"": 580644, ""node1"": 141971, ""node2"": 18404, ""type"": 5, ""w"": 32.0}, {""id"": 88080850, ""node1"": 141971, ""node2"": 18404, ""type"": 35, ""w"": 32.0}, {""id"": 380316783, ""node1"": 141971, ""node2"": 18404, ""type"": 54, ""w"": 34.0}]",r_associated,43.0
+sésame,sucre,nmod,NOUN,0.6855493187904358,[],,
+sucre,gingembre,nmod,NOUN,0.6843656301498413,[],,
+sucre,travers,nmod,NOUN,0.6556188464164734,[],,
+sucre,porc,nmod,NOUN,0.7138209939002991,[],,
+poivre,parfum,obj,NOUN,0.6257261037826538,[],,
+parfum,saladier,appos,NOUN,0.5980498790740967,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,assiette,appos,NOUN,0.5656145215034485,[],,
+saladier,assiette,nmod,NOUN,0.6438512206077576,[],,
+assiette,creux,amod,ADJ,0.5143321752548218,"[{""id"": 9991966, ""node1"": 62735, ""node2"": 53673, ""type"": 0, ""w"": 4.0}, {""id"": 1882219, ""node1"": 62735, ""node2"": 53673, ""type"": 9, ""w"": 90.0}]",r_has_part,90.0
+étape,préparer,acl,VERB,0.4013255536556244,[],,
+préparer,marinade,obj,NOUN,0.6658932566642761,[],,
+préparer,mélanger,advcl,VERB,0.5422113537788391,[],,
+assiette,sauce,nmod,NOUN,0.7285140752792358,"[{""id"": 31849246, ""node1"": 62735, ""node2"": 141110, ""type"": 28, ""w"": 51.0}]",r_lieu-1,51.0
+sauce,soja,acl,ADV,0.686366856098175,"[{""id"": 558755719, ""node1"": 141110, ""node2"": 78291, ""type"": 0, ""w"": 41.0}, {""id"": 246329893, ""node1"": 141110, ""node2"": 78291, ""type"": 8, ""w"": 31.0}, {""id"": 651031297, ""node1"": 141110, ""node2"": 78291, ""type"": 666, ""w"": 4.0}]",r_associated,41.0
+mettre,travers,obj,NOUN,0.4301928281784057,[],,
+réserver,marinade,obj,NOUN,0.6374384164810181,[],,
+chauffer,huile,obj,NOUN,0.64256751537323,[],,
+gingembre,râpé,amod,ADV,0.5457086563110352,"[{""id"": 1982906, ""node1"": 77020, ""node2"": 52123, ""type"": 17, ""w"": 32.0}]",r_carac,32.0
+revenir,travers,obj,NOUN,0.4353324174880981,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+verre,petit,amod,ADJ,0.5524186491966248,"[{""id"": 1523983, ""node1"": 144497, ""node2"": 55222, ""type"": 666, ""w"": 1.0}]",r_aki,1.0
+ajouter,verre,obj,NOUN,0.5440654754638672,[],,
+verre,eau,nmod,NOUN,0.5749212503433228,"[{""id"": 70610, ""node1"": 144497, ""node2"": 65012, ""type"": 0, ""w"": 314.0}, {""id"": 31129047, ""node1"": 144497, ""node2"": 65012, ""type"": 3, ""w"": 35.0}, {""id"": 10528262, ""node1"": 144497, ""node2"": 65012, ""type"": 9, ""w"": 9.0}, {""id"": 393483, ""node1"": 144497, ""node2"": 65012, ""type"": 28, ""w"": 194.0}, {""id"": 720818421, ""node1"": 144497, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 1523981, ""node1"": 144497, ""node2"": 65012, ""type"": 666, ""w"": 5.0}]",r_associated,314.0
+ajouter,brûler,advcl,VERB,0.519784688949585,[],,
+saupoudrer,viande,obj,NOUN,0.757916271686554,"[{""id"": 1067229492, ""node1"": 133415, ""node2"": 140100, ""type"": 0, ""w"": 15.0}, {""id"": 1067229526, ""node1"": 133415, ""node2"": 140100, ""type"": 14, ""w"": 24.0}]",r_patient,24.0
+viande,sucre,nmod,NOUN,0.77225261926651,[],,
+verser,marinade,obj,NOUN,0.6355329155921936,"[{""id"": 31834615, ""node1"": 104506, ""node2"": 55044, ""type"": 14, ""w"": 57.0}]",r_patient,57.0
+cuire,travers,nsubj,NOUN,0.7126293778419495,[],,
+réduire,sauce,obj,NOUN,0.673485279083252,"[{""id"": 1660257, ""node1"": 120230, ""node2"": 141110, ""type"": 0, ""w"": 60.0}, {""id"": 940663193, ""node1"": 120230, ""node2"": 141110, ""type"": 14, ""w"": 30.0}]",r_associated,60.0
+ajouter,goutte,obj,NOUN,0.5042680501937866,[],,
+goutte,huile,nmod,NOUN,0.564548909664154,[],,
+peu,piment,nmod,NOUN,0.550175666809082,[],,

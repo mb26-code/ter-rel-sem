@@ -1,0 +1,24 @@
+node1,node2,relations
+soupe,courgette,"[{""id"": 729556085, ""node1"": 117152, ""node2"": 85172, ""type"": 0, ""w"": 32.0}]"
+soupe,vache,[]
+vache,rire,[]
+ingrédient,sel,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]"
+sel,poivre,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]"
+ingrédient,vache,[]
+ingrédient,cube,[]
+cube,bouillon,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]"
+ingrédient,eau,"[{""id"": 245157298, ""node1"": 123418, ""node2"": 65012, ""type"": 8, ""w"": 36.0}]"
+eau,louche,"[{""id"": 104957473, ""node1"": 65012, ""node2"": 124144, ""type"": 15, ""w"": 6.0}]"
+louche,mixeur,[]
+mixeur,plonger,[]
+mixeur,chauffer,[]
+chauffer,mixeur,[]
+eau,étape,[]
+vache,mettre,[]
+chauffer,eau,"[{""id"": 548529671, ""node1"": 90994, ""node2"": 65012, ""type"": 0, ""w"": 29.0}, {""id"": 426777342, ""node1"": 90994, ""node2"": 65012, ""type"": 14, ""w"": 100.0}]"
+courgette,ail,[]
+ail,écraser,"[{""id"": 906193744, ""node1"": 26979, ""node2"": 52004, ""type"": 0, ""w"": 20.0}, {""id"": 98571281, ""node1"": 26979, ""node2"": 52004, ""type"": 26, ""w"": 40.0}]"
+courgette,couper,[]
+cuire,min,[]
+tendre,courgette,"[{""id"": 372674685, ""node1"": 71211, ""node2"": 85172, ""type"": 23, ""w"": 2.0}]"
+cuire,tendre,[]

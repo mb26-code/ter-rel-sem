@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+couteau,utiliser,acl,VERB,0.5404306054115295,"[{""id"": 376183467, ""node1"": 32610, ""node2"": 62611, ""type"": 25, ""w"": 34.0}]",r_instr-1,34.0
+chef,cuisinier,amod,NOUN,0.4023151695728302,"[{""id"": 138148, ""node1"": 89926, ""node2"": 118790, ""type"": 0, ""w"": 230.0}, {""id"": 555813, ""node1"": 89926, ""node2"": 118790, ""type"": 5, ""w"": 95.0}, {""id"": 173427, ""node1"": 89926, ""node2"": 118790, ""type"": 6, ""w"": 135.0}, {""id"": 213978, ""node1"": 89926, ""node2"": 118790, ""type"": 8, ""w"": 106.0}, {""id"": 376997031, ""node1"": 89926, ""node2"": 118790, ""type"": 21, ""w"": 34.0}, {""id"": 14795658, ""node1"": 89926, ""node2"": 118790, ""type"": 23, ""w"": 23.0}, {""id"": 1692946, ""node1"": 89926, ""node2"": 118790, ""type"": 35, ""w"": 85.0}, {""id"": 2216975, ""node1"": 89926, ""node2"": 118790, ""type"": 41, ""w"": 53.0}, {""id"": 1029365405, ""node1"": 89926, ""node2"": 118790, ""type"": 67, ""w"": 29.0}, {""id"": 653283009, ""node1"": 89926, ""node2"": 118790, ""type"": 666, ""w"": 5.0}]",r_associated,230.0
+cuisinier,japonais,amod,ADJ,0.4825539290904999,[],,
+couteau,chef,nmod,NOUN,0.4587393701076507,"[{""id"": 800545223, ""node1"": 32610, ""node2"": 89926, ""type"": 156, ""w"": 41.0}]",r_is_used_by,41.0
+couteau,usage,nmod,NOUN,0.5098572373390198,[],,
+usage,cuisine,nmod,NOUN,0.5898407697677612,[],,
+combiner,mérite,obj,NOUN,0.4052676856517792,[],,
+mérite,couteau,nmod,NOUN,0.4914307296276092,[],,
+couteau,usuel,amod,ADJ,0.4831645488739013,[],,
+couteau,existant,amod,ADJ,0.4920379221439361,[],,
+usage,spécifique,amod,ADJ,0.4099801778793335,[],,
+mérite,poisson,nmod,NOUN,0.5638924837112427,[],,
+donner,qui,nsubj,PRON,0.4009021520614624,[],,
+présente,lame,obj,NOUN,0.4371621906757355,[],,
+lame,centimètre,nmod,NOUN,0.4394284784793854,[],,
+tranchant,dont,nmod,PRON,0.4055877029895782,[],,
+lame,droit,nmod,ADJ,0.4572364389896393,[],,
+extrémité,lame,nmod,NOUN,0.427108883857727,[],,
+pourvoir,lame,nsubj:pass,NOUN,0.4588555693626404,[],,
+lame,lui-même,amod,PRON,0.4468102157115936,[],,
+réduire,résistance,obj,PROPN,0.4378178417682647,[],,
+découper,poisson,obj,NOUN,0.6418374180793762,"[{""id"": 430111486, ""node1"": 45686, ""node2"": 68467, ""type"": 0, ""w"": 30.0}, {""id"": 430111518, ""node1"": 45686, ""node2"": 68467, ""type"": 14, ""w"": 30.0}]",r_associated,30.0
+poisson,cru,amod,ADJ,0.517356812953949,"[{""id"": 2555106, ""node1"": 68467, ""node2"": 39901, ""type"": 17, ""w"": 30.0}]",r_carac,30.0
+chair,riche,amod,ADJ,0.4960379898548126,[],,
+chair,saumon,appos,NOUN,0.5976361632347107,"[{""id"": 10010288, ""node1"": 61835, ""node2"": 3361, ""type"": 10, ""w"": 4.0}]",r_holo,4.0
+fruit,fragile,amod,ADJ,0.4674972593784332,[],,
+fruit,fraise,appos,NOUN,0.5271687507629395,"[{""id"": 81243, ""node1"": 87286, ""node2"": 16242, ""type"": 0, ""w"": 769.0}, {""id"": 128051, ""node1"": 87286, ""node2"": 16242, ""type"": 8, ""w"": 826.0}, {""id"": 2212816, ""node1"": 87286, ""node2"": 16242, ""type"": 9, ""w"": -35.0}, {""id"": 14799405, ""node1"": 87286, ""node2"": 16242, ""type"": 23, ""w"": 27.0}, {""id"": 97739728, ""node1"": 87286, ""node2"": 16242, ""type"": 26, ""w"": 30.0}, {""id"": 15197236, ""node1"": 87286, ""node2"": 16242, ""type"": 27, ""w"": -24.0}, {""id"": 4965017, ""node1"": 87286, ""node2"": 16242, ""type"": 666, ""w"": 3.0}]",r_hypo,826.0
+fraise,orange,amod,X,0.5269874930381775,"[{""id"": 914323591, ""node1"": 16242, ""node2"": 145382, ""type"": 0, ""w"": 20.0}]",r_associated,20.0

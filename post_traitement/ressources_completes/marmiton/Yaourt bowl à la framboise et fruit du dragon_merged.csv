@@ -1,0 +1,27 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,yaourt,appos,NOUN,0.5099049210548401,[],,
+yaourt,framboise,nmod,NOUN,0.558925449848175,[],,
+dragon,ingrédient,nmod,NOUN,0.5349841117858887,[],,
+framboise,miel,advcl,ADJ,0.5849078297615051,[],,
+miel,sésame,appos,NOUN,0.621407687664032,[],,
+sésame,yaourt,amod,NOUN,0.6249786615371704,[],,
+fruit,framboise,obj,ADJ,0.4990770220756531,"[{""id"": 205938, ""node1"": 87286, ""node2"": 12402, ""type"": 0, ""w"": 399.0}, {""id"": 12317566, ""node1"": 87286, ""node2"": 12402, ""type"": 5, ""w"": -30.0}, {""id"": 128045, ""node1"": 87286, ""node2"": 12402, ""type"": 8, ""w"": 524.0}, {""id"": 15197235, ""node1"": 87286, ""node2"": 12402, ""type"": 27, ""w"": -21.0}, {""id"": 3172202, ""node1"": 87286, ""node2"": 12402, ""type"": 106, ""w"": 3.0}, {""id"": 646151852, ""node1"": 87286, ""node2"": 12402, ""type"": 666, ""w"": 2.0}]",r_hypo,524.0
+fruit,fruit,obj,NOUN,0.4178393185138702,"[{""id"": 304287, ""node1"": 87286, ""node2"": 87286, ""type"": 19, ""w"": 52.0}]",r_lemma,52.0
+fruit,dragon,nmod,NOUN,0.4709364473819732,[],,
+dragon,graine,amod,NOUN,0.4936703145503998,[],,
+tamis,bol,nmod,NOUN,0.5444229245185852,[],,
+bol,étape,nmod,NOUN,0.5393725633621216,[],,
+gramme,framboise,nmod,NOUN,0.4924514889717102,[],,
+gramme,obtention,nmod,NOUN,0.4150151312351227,[],,
+obtention,coulis,nmod,NOUN,0.541776716709137,[],,
+passer,retirer,advcl,VERB,0.4099653661251068,[],,
+retirer,graine,obj,NOUN,0.5278207063674927,[],,
+mélanger,yaourt,obj,NOUN,0.6041830778121948,"[{""id"": 310228473, ""node1"": 37151, ""node2"": 82320, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+yaourt,coulis,nmod,NOUN,0.5974782705307007,"[{""id"": 10638490, ""node1"": 82320, ""node2"": 10401, ""type"": 28, ""w"": 30.0}]",r_lieu-1,30.0
+coulis,framboise,nmod,NOUN,0.5548997521400452,[],,
+fond,bol,nmod,NOUN,0.5501742959022522,"[{""id"": 94056784, ""node1"": 119272, ""node2"": 145405, ""type"": 0, ""w"": 6.0}, {""id"": 72919738, ""node1"": 119272, ""node2"": 145405, ""type"": 10, ""w"": 30.0}]",r_holo,30.0
+récupérer,chair,obj,NOUN,0.5002617239952087,[],,
+chair,fruit,nmod,NOUN,0.5160408020019531,"[{""id"": 1054283, ""node1"": 61835, ""node2"": 87286, ""type"": 0, ""w"": 52.0}, {""id"": 9984411, ""node1"": 61835, ""node2"": 87286, ""type"": 10, ""w"": 4.0}]",r_associated,52.0
+yaourt,ligne,nmod,NOUN,0.5336699485778809,[],,
+ligne,framboise,nmod,NOUN,0.4344430565834045,[],,
+ligne,fruit,appos,NOUN,0.4619697034358978,[],,

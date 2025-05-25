@@ -1,0 +1,44 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concentrer,velouté,nsubj,NOUN,0.5456384420394897,[],,
+velouté,haricot,nmod,NOUN,0.5770337581634521,[],,
+velouté,vert,amod,ADJ,0.5232211947441101,[],,
+velouté,ingrédient,nmod,NOUN,0.6268470287322998,[],,
+velouté,poivre,nmod,NOUN,0.6723045110702515,[],,
+poivre,curry,nmod,NOUN,0.6854056119918823,"[{""id"": 796941044, ""node1"": 139597, ""node2"": 82813, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+curry,haricot,nmod,NOUN,0.6525478959083557,[],,
+curry,vert,amod,ADJ,0.6078226566314697,[],,
+velouté,eau,nmod,NOUN,0.6230257153511047,[],,
+eau,bouillon,nmod,NOUN,0.6091527938842773,"[{""id"": 32079803, ""node1"": 65012, ""node2"": 146582, ""type"": 0, ""w"": 26.0}, {""id"": 32063699, ""node1"": 65012, ""node2"": 146582, ""type"": 10, ""w"": 26.0}, {""id"": 600063504, ""node1"": 65012, ""node2"": 146582, ""type"": 27, ""w"": 26.0}]",r_holo,26.0
+bouillon,lait,nmod,NOUN,0.6349389553070068,"[{""id"": 558647530, ""node1"": 146582, ""node2"": 86296, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+concentrer,louche,obj,NOUN,0.501526951789856,[],,
+mixeur,couteau,nmod,NOUN,0.573357105255127,[],,
+casserole,mixeur,nmod,NOUN,0.61752849817276,[],,
+mixeur,étape,nmod,NOUN,0.5223461985588074,[],,
+chauffer,huile,obj,NOUN,0.64256751537323,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+huile,chaud,amod,ADJ,0.6474975347518921,"[{""id"": 669874570, ""node1"": 141971, ""node2"": 19150, ""type"": 0, ""w"": 21.0}, {""id"": 24929996, ""node1"": 141971, ""node2"": 19150, ""type"": 17, ""w"": 76.0}]",r_carac,76.0
+couper,courgette,obj,NOUN,0.5805845856666565,[],,
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+oignon,devenir,acl,VERB,0.581978440284729,[],,
+ajouter,courgette,obj,NOUN,0.6024848818778992,[],,
+cuire,peu,obj,ADV,0.669275164604187,"[{""id"": 2486595, ""node1"": 5115, ""node2"": 39409, ""type"": 34, ""w"": 35.0}]",r_manner,35.0
+terminer,ajouter,advcl,VERB,0.4073132872581482,[],,
+ajouter,haricot,obj,NOUN,0.551318883895874,[],,
+légume,tout,amod,ADJ,0.6585912108421326,[],,
+légume,ensemble,amod,NOUN,0.6398744583129883,[],,
+ajouter,curry,obj,NOUN,0.6705759763717651,"[{""id"": 31845118, ""node1"": 25099, ""node2"": 82813, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+bout,temps,nmod,NOUN,0.4240377843379974,"[{""id"": 418423744, ""node1"": 56924, ""node2"": 13861, ""type"": 0, ""w"": 36.0}, {""id"": 418423743, ""node1"": 56924, ""node2"": 13861, ""type"": 3, ""w"": 35.0}]",r_associated,36.0
+ajouter,eau,obj,NOUN,0.5629687905311584,[],,
+eau,chaud,amod,ADJ,0.6026924252510071,"[{""id"": 915041142, ""node1"": 65012, ""node2"": 19150, ""type"": 0, ""w"": 20.0}, {""id"": 432164, ""node1"": 65012, ""node2"": 19150, ""type"": 17, ""w"": 131.0}]",r_carac,131.0
+eau,faire,acl:relcl,VERB,0.6015320420265198,"[{""id"": 1030693332, ""node1"": 65012, ""node2"": 87528, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+dissoudre,bouillon,obj,NOUN,0.5876675844192505,[],,
+bouillon,cube,amod,NOUN,0.5364071130752563,"[{""id"": 799190726, ""node1"": 146582, ""node2"": 6041, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+ébullition,couvert,nmod,NOUN,0.5149601697921753,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+devoir,haricot,nsubj,NOUN,0.4774814248085022,[],,
+rester,croquant,obj,ADJ,0.4970251619815826,[],,
+verser,lait,obj,NOUN,0.5939220190048218,"[{""id"": 2147735, ""node1"": 104506, ""node2"": 86296, ""type"": 14, ""w"": 30.0}, {""id"": 645787359, ""node1"": 104506, ""node2"": 86296, ""type"": 666, ""w"": 2.0}]",r_patient,30.0
+lait,concentrer,acl,VERB,0.5701926946640015,[],,
+verser,obtenir,advcl,VERB,0.41949263215065,[],,
+consistance,velouté,amod,ADJ,0.5397437810897827,"[{""id"": 797923792, ""node1"": 29223, ""node2"": 83664, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+moment,servir,acl,VERB,0.4804177582263946,[],,

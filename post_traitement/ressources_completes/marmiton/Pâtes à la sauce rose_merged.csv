@@ -1,0 +1,13 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+pâte,sauce,nmod,NOUN,0.7205467820167542,"[{""id"": 651002087, ""node1"": 34069, ""node2"": 141110, ""type"": 666, ""w"": 3.0}]",r_aki,3.0
+sauce,rose,amod,ADJ,0.6394883990287781,"[{""id"": 3180662, ""node1"": 141110, ""node2"": 145583, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+pâte,ingrédient,nmod,NOUN,0.6811284422874451,"[{""id"": 24920568, ""node1"": 34069, ""node2"": 123418, ""type"": 6, ""w"": 17.0}]",r_isa,17.0
+pâte,tomate,nmod,NOUN,0.6880875825881958,"[{""id"": 651002091, ""node1"": 34069, ""node2"": 22138, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+tomate,pâte,appos,NOUN,0.6880875825881958,"[{""id"": 421761099, ""node1"": 22138, ""node2"": 34069, ""type"": 0, ""w"": 3.0}]",r_associated,3.0
+pâte,Saint,nmod,PROPN,0.5756816864013672,[],,
+top,mixeur,nmod,NOUN,0.4417882561683655,[],,
+mixeur,étape,nmod,NOUN,0.5223461985588074,[],,
+Mixer,tomate,obj,NOUN,0.551685094833374,[],,
+tomate,couper,acl,VERB,0.6290057301521301,"[{""id"": 920912564, ""node1"": 22138, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 628044041, ""node1"": 22138, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+verser,sauce,obj,NOUN,0.6628547310829163,"[{""id"": 478293932, ""node1"": 104506, ""node2"": 141110, ""type"": 0, ""w"": 28.0}, {""id"": 478293931, ""node1"": 104506, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+pâte,cuire,acl,VERB,0.7488689422607422,"[{""id"": 987166482, ""node1"": 34069, ""node2"": 5115, ""type"": 25, ""w"": -25.0}, {""id"": 96931380, ""node1"": 34069, ""node2"": 5115, ""type"": 26, ""w"": 32.0}]",r_patient-1,32.0

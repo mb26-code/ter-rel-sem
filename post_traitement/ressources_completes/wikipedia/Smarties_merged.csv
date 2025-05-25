@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+couleur,différent,amod,ADJ,0.4707558155059814,[],,
+couleur,rouge,appos,NOUN,0.4709599018096924,"[{""id"": 70618, ""node1"": 40056, ""node2"": 86356, ""type"": 0, ""w"": 516.91}, {""id"": 232492, ""node1"": 40056, ""node2"": 86356, ""type"": 8, ""w"": 394.0}, {""id"": 190897, ""node1"": 40056, ""node2"": 86356, ""type"": 17, ""w"": 291.0}, {""id"": 53246441, ""node1"": 40056, ""node2"": 86356, ""type"": 35, ""w"": 51.0}, {""id"": 3160153, ""node1"": 40056, ""node2"": 86356, ""type"": 106, ""w"": 56.0}, {""id"": 1794527, ""node1"": 40056, ""node2"": 86356, ""type"": 666, ""w"": 30.0}]",r_associated,516.91
+couleur,bleu,appos,NOUN,0.4250728785991668,"[{""id"": 70617, ""node1"": 40056, ""node2"": 60, ""type"": 0, ""w"": 514.67}, {""id"": 232493, ""node1"": 40056, ""node2"": 60, ""type"": 8, ""w"": 283.0}, {""id"": 10530035, ""node1"": 40056, ""node2"": 60, ""type"": 9, ""w"": 9.0}, {""id"": 241094, ""node1"": 40056, ""node2"": 60, ""type"": 17, ""w"": 51.0}, {""id"": 53246444, ""node1"": 40056, ""node2"": 60, ""type"": 35, ""w"": 51.0}, {""id"": 3154765, ""node1"": 40056, ""node2"": 60, ""type"": 106, ""w"": 29.0}, {""id"": 1787975, ""node1"": 40056, ""node2"": 60, ""type"": 666, ""w"": 16.0}]",r_associated,514.67
+composer,chocolat,nmod,NOUN,0.5516543984413147,[],,
+arôme,naturel,amod,ADJ,0.5037845373153687,[],,
+confiserie,petit,amod,ADJ,0.5661567449569702,[],,
+fabriquer,confiserie,nsubj:pass,NOUN,0.5091029405593872,[],,
+contexte,fabriquer,acl:relcl,VERB,0.4302966892719269,[],,
+élaboration,confiserie,nmod,NOUN,0.5174024701118469,[],,
+confiserie,similaire,amod,ADJ,0.4557281732559204,[],,
+enlever,haricot,nsubj:pass,NOUN,0.5501214861869812,[],,
+dériver,produit,nsubj,NOUN,0.4443974494934082,[],,
+enlever,dériver,advcl,VERB,0.4285564124584198,[],,
+enlever,préserver,advcl,VERB,0.4072659313678741,"[{""id"": 851721, ""node1"": 82345, ""node2"": 125751, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+dépourvu,fabrication,nsubj,NOUN,0.4292293190956116,[],,
+arrêter,production,nsubj:pass,NOUN,0.4264697730541229,"[{""id"": 424821635, ""node1"": 28778, ""node2"": 13444, ""type"": 14, ""w"": 36.0}]",r_patient,36.0
+biais,colorant,nmod,NOUN,0.4759940803050995,[],,
+colorant,synthétique,amod,ADJ,0.5268025398254395,[],,
+fabriquer,arrêter,advcl,VERB,0.4118590950965881,[],,
+pigment,naturel,amod,ADJ,0.4310859143733978,[],,
+pigment,concentrer,acl,VERB,0.4347870945930481,[],,
+pigment,appeler,acl,VERB,0.4059988260269165,[],,
+base,extrait,nmod,NOUN,0.5078184604644775,[],,
+chou,rouge,amod,ADJ,0.5571650862693787,"[{""id"": 8814016, ""node1"": 67203, ""node2"": 86356, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+tube,carton,nmod,NOUN,0.4076497554779053,[],,
+marque,alimentaire,amod,ADJ,0.4643599092960357,[],,
+emporter,tube,obj,NOUN,0.4171072840690613,[],,

@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relation
+Cake,biscuit,nmod,NOUN,0.41226527094841,[]
+biscuit,rose,amod,ADJ,0.5368880033493042,"[{""id"": 3184440, ""node1"": 62524, ""node2"": 145583, ""type"": 106, ""w"": 1.0}]"
+Cake,ingrédient,nmod,NOUN,0.4129388630390167,[]
+Cake,sel,appos,NOUN,0.6338697075843811,[]
+sel,beurre,acl,NOUN,0.7119027376174927,"[{""id"": 29328492, ""node1"": 13260, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 9986817, ""node1"": 13260, ""node2"": 140377, ""type"": 10, ""w"": 35.0}]"
+Cake,sucre,appos,NOUN,0.521261990070343,[]
+sucre,biscuit,nmod,NOUN,0.67692631483078,"[{""id"": 796700506, ""node1"": 139481, ""node2"": 62524, ""type"": 0, ""w"": 28.0}, {""id"": 376049397, ""node1"": 139481, ""node2"": 62524, ""type"": 51, ""w"": 29.0}]"
+sucre,amande,nmod,NOUN,0.6539533138275146,[]
+amande,poudre,nmod,NOUN,0.5705900192260742,[]
+poudre,oeuf,nmod,NOUN,0.588036835193634,[]
+sucre,grille,nmod,NOUN,0.7015109062194824,[]
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[]
+pâtisserie,saladier,nmod,NOUN,0.647153377532959,[]
+grille,cuillère,nmod,NOUN,0.574907660484314,[]
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,four,nmod,NOUN,0.7153509855270386,[]
+four,couteau,nmod,NOUN,0.6828393340110779,[]
+four,balance,nmod,NOUN,0.6809696555137634,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+balance,étape,nmod,NOUN,0.4149083495140075,[]
+mélanger,sucre,obj,NOUN,0.6743173599243164,[]
+beurre,fondre,acl,VERB,0.643409252166748,"[{""id"": 652231036, ""node1"": 140377, ""node2"": 16480, ""type"": 0, ""w"": 21.0}, {""id"": 24771033, ""node1"": 140377, ""node2"": 16480, ""type"": 24, ""w"": 137.0}, {""id"": 1886772, ""node1"": 140377, ""node2"": 16480, ""type"": 26, ""w"": 33.0}]"
+obtenir,mélange,obj,NOUN,0.4783641993999481,[]
+mélange,mousseux,amod,ADJ,0.5410990118980408,[]
+ajouter,oeuf,obj,NOUN,0.5327831506729126,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]"
+oeuf,entier,amod,ADJ,0.513298749923706,[]
+poudre,biscuit,nmod,NOUN,0.6338398456573486,[]
+poudre,poudre,nmod,NOUN,0.515528678894043,"[{""id"": 325395, ""node1"": 139470, ""node2"": 139470, ""type"": 19, ""w"": 57.0}]"
+poudre,amande,nmod,NOUN,0.5705900192260742,[]
+four,moyen,amod,ADJ,0.663184642791748,[]
+vérifier,cuisson,obj,NOUN,0.6534045934677124,"[{""id"": 31862099, ""node1"": 76431, ""node2"": 60056, ""type"": 14, ""w"": 64.0}]"
+cuisson,planter,acl,VERB,0.6939831972122192,[]
+planter,couteau,obj,NOUN,0.5039401650428772,"[{""id"": 899960476, ""node1"": 4993, ""node2"": 32610, ""type"": 0, ""w"": 20.0}, {""id"": 31862076, ""node1"": 4993, ""node2"": 32610, ""type"": 14, ""w"": 53.0}, {""id"": 376201239, ""node1"": 4993, ""node2"": 32610, ""type"": 16, ""w"": 26.0}]"
+couteau,devoir,acl:relcl,VERB,0.4850423634052276,[]

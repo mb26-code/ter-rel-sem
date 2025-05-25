@@ -1,0 +1,34 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+gourmand,saumon,nmod,NOUN,0.6309730410575867,[],,
+légume,petit,amod,ADJ,0.654370129108429,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+titre,pâte,nmod,NOUN,0.6394232511520386,[],,
+pâte,feuilletée,acl,NOUN,0.6134981513023376,"[{""id"": 370546, ""node1"": 34069, ""node2"": 154962, ""type"": 0, ""w"": 60.0}, {""id"": 178280, ""node1"": 34069, ""node2"": 154962, ""type"": 17, ""w"": 160.0}]",r_carac,160.0
+titre,haricot,nmod,NOUN,0.4817427694797516,[],,
+haricot,vert,amod,ADJ,0.499526172876358,"[{""id"": 369652, ""node1"": 114886, ""node2"": 26976, ""type"": 0, ""w"": 294.0}, {""id"": 1774168, ""node1"": 114886, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3163694, ""node1"": 114886, ""node2"": 26976, ""type"": 106, ""w"": 18.0}, {""id"": 1764962, ""node1"": 114886, ""node2"": 26976, ""type"": 666, ""w"": 3.0}]",r_associated,294.0
+haricot,beurre,acl,NOUN,0.6714962124824524,"[{""id"": 373982, ""node1"": 114886, ""node2"": 140377, ""type"": 0, ""w"": 82.0}]",r_associated,82.0
+beurre,blanc,amod,ADJ,0.6481732726097107,"[{""id"": 208767, ""node1"": 140377, ""node2"": 15196, ""type"": 17, ""w"": 167.0}, {""id"": 3163442, ""node1"": 140377, ""node2"": 15196, ""type"": 106, ""w"": 14.0}, {""id"": 2040375, ""node1"": 140377, ""node2"": 15196, ""type"": 666, ""w"": 1.0}]",r_carac,167.0
+titre,four,nmod,NOUN,0.6455731391906738,[],,
+four,fourchette,nmod,NOUN,0.6831614375114441,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,amod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+four,tarte,nmod,NOUN,0.7168973088264465,"[{""id"": 209910, ""node1"": 9190, ""node2"": 575, ""type"": 0, ""w"": 61.0}, {""id"": 2290225, ""node1"": 9190, ""node2"": 575, ""type"": 28, ""w"": 98.0}]",r_lieu-1,98.0
+tarte,plat,nmod,ADJ,0.689184308052063,"[{""id"": 9624144, ""node1"": 575, ""node2"": 36327, ""type"": 0, ""w"": 46.0}, {""id"": 225521, ""node1"": 575, ""node2"": 36327, ""type"": 6, ""w"": 299.0}, {""id"": 200502, ""node1"": 575, ""node2"": 36327, ""type"": 15, ""w"": 178.0}, {""id"": 1525630, ""node1"": 575, ""node2"": 36327, ""type"": 666, ""w"": 1.0}]",r_isa,299.0
+four,étape,nmod,NOUN,0.6555838584899902,[],,
+four,plat,nmod,NOUN,0.711601734161377,"[{""id"": 218402, ""node1"": 9190, ""node2"": 36327, ""type"": 0, ""w"": 54.0}, {""id"": 1612283, ""node1"": 9190, ""node2"": 36327, ""type"": 28, ""w"": 125.0}, {""id"": 1013894208, ""node1"": 9190, ""node2"": 36327, ""type"": 666, ""w"": 2.0}]",r_lieu-1,125.0
+dérouler,pâte,obj,NOUN,0.6115941405296326,"[{""id"": 31839807, ""node1"": 59830, ""node2"": 34069, ""type"": 14, ""w"": 68.0}]",r_patient,68.0
+pâte,feuilleté,amod,ADJ,0.626322329044342,"[{""id"": 879773673, ""node1"": 34069, ""node2"": 43380, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+titre,déposer,acl,VERB,0.4009569585323334,[],,
+déposer,dessus,obj,ADV,0.4480475187301636,[],,
+cuire,saumon,obj,NOUN,0.7792093753814697,"[{""id"": 471842261, ""node1"": 5115, ""node2"": 3361, ""type"": 13, ""w"": 30.0}, {""id"": 426712637, ""node1"": 5115, ""node2"": 3361, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+rajouter,saumon,obj,NOUN,0.6306630969047546,[],,
+rajouter,haricot,obj,NOUN,0.5638166666030884,[],,
+pâte,deuxième,amod,ADJ,0.6267107129096985,[],,
+déposer,pâte,obj,NOUN,0.6274656057357788,"[{""id"": 97862127, ""node1"": 35714, ""node2"": 34069, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+pâte,feuilleter,acl,VERB,0.6172106862068176,"[{""id"": 880403533, ""node1"": 34069, ""node2"": 13838, ""type"": 0, ""w"": 20.0}, {""id"": 288441883, ""node1"": 34069, ""node2"": 13838, ""type"": 26, ""w"": 31.0}]",r_patient-1,31.0
+feuilleter,faire,advcl,VERB,0.4351181387901306,[],,
+coller,bord,obj,NOUN,0.4173021018505096,[],,
+bord,pâte,nmod,NOUN,0.6313428282737732,[],,
+piquer,pâte,obj,NOUN,0.6554378867149353,[],,
+enfourner,surveiller,advcl,VERB,0.4922719597816467,[],,

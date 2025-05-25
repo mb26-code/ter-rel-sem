@@ -1,0 +1,20 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+type,plat,nmod,ADJ,0.5983251333236694,[],,
+plat,indien,amod,ADJ,0.5861116647720337,[],,
+cuisine,chinois,amod,ADJ,0.5945573449134827,"[{""id"": 15304363, ""node1"": 16033, ""node2"": 59402, ""type"": 0, ""w"": 21.0}, {""id"": 15174380, ""node1"": 16033, ""node2"": 59402, ""type"": 27, ""w"": 27.0}, {""id"": 11347671, ""node1"": 16033, ""node2"": 59402, ""type"": 28, ""w"": 38.0}]",r_lieu-1,38.0
+ingrédient,principal,amod,ADJ,0.5312119126319885,[],,
+ingrédient,poulet,nmod,NOUN,0.7097015976905823,[],,
+sauter,préparation,obj,NOUN,0.5519666075706482,[],,
+préparation,poêle,nmod,NOUN,0.6823040246963501,"[{""id"": 601611414, ""node1"": 33634, ""node2"": 119686, ""type"": 0, ""w"": 16.0}]",r_associated,16.0
+utiliser,variation,nsubj:pass,NOUN,0.4316478967666626,[],,
+variation,base,nmod,NOUN,0.4930987358093261,[],,
+base,chou-fleur,nmod,NOUN,0.6259076595306396,[],,
+adaptation,cuisine,nmod,NOUN,0.6184445023536682,[],,
+adaptation,technique,nmod,NOUN,0.4114387929439544,"[{""id"": 631986744, ""node1"": 127286, ""node2"": 13701, ""type"": 0, ""w"": 10.0}, {""id"": 396621680, ""node1"": 127286, ""node2"": 13701, ""type"": 3, ""w"": 26.0}]",r_domain,26.0
+technique,assaisonnement,nmod,NOUN,0.5989887714385986,[],,
+assaisonnement,indien,amod,ADJ,0.4937433898448944,[],,
+trouver,mot,nsubj,NOUN,0.4045016169548034,"[{""id"": 403608741, ""node1"": 48704, ""node2"": 32132, ""type"": 14, ""w"": 36.0}]",r_patient,36.0
+trouver,origine,obj,NOUN,0.4078374803066253,"[{""id"": 932194247, ""node1"": 48704, ""node2"": 46994, ""type"": 14, ""w"": 36.0}]",r_patient,36.0
+version,sauce,nmod,NOUN,0.6313165426254272,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,
+sauce,projet,nmod,NOUN,0.650537371635437,[],,

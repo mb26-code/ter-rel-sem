@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,saucisse,nmod,NOUN,0.5347501039505005,[],,
+saucisse,épice,nmod,NOUN,0.6855995655059814,[],,
+saucisse,ingrédient,nmod,NOUN,0.7062863111495972,"[{""id"": 15370355, ""node1"": 77807, ""node2"": 123418, ""type"": 0, ""w"": 30.0}, {""id"": 506079, ""node1"": 77807, ""node2"": 123418, ""type"": 3, ""w"": 32.0}, {""id"": 601493769, ""node1"": 77807, ""node2"": 123418, ""type"": 6, ""w"": 120.0}]",r_isa,120.0
+saucisse,beurre,amod,NOUN,0.7360200881958008,"[{""id"": 642807597, ""node1"": 77807, ""node2"": 140377, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+beurre,curry,nmod,NOUN,0.7361999154090881,[],,
+curry,saucisse,nmod,ADJ,0.6904258728027344,[],,
+curry,épice,nmod,NOUN,0.7071870565414429,"[{""id"": 1639570, ""node1"": 82813, ""node2"": 146056, ""type"": 0, ""w"": 188.0}, {""id"": 1639553, ""node1"": 82813, ""node2"": 146056, ""type"": 6, ""w"": 120.0}, {""id"": 3116760, ""node1"": 82813, ""node2"": 146056, ""type"": 35, ""w"": 57.0}]",r_associated,188.0
+curry,indien,amod,ADJ,0.5851378440856934,"[{""id"": 313710362, ""node1"": 82813, ""node2"": 144170, ""type"": 17, ""w"": 31.0}]",r_carac,31.0
+titre,cuillère,nmod,NOUN,0.5080531239509583,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+balance,feu,nmod,NOUN,0.5588958263397217,[],,
+feu,normal,amod,ADJ,0.5502789616584778,[],,
+titre,mettre,acl,VERB,0.4057502150535583,[],,
+mijoter,saucisse,obj,NOUN,0.7224588394165039,[],,
+rondelle,petit,amod,ADJ,0.549956738948822,"[{""id"": 417861738, ""node1"": 71106, ""node2"": 55222, ""type"": 0, ""w"": 12.0}, {""id"": 9106735, ""node1"": 71106, ""node2"": 55222, ""type"": 666, ""w"": 1.0}]",r_associated,12.0
+saucisse,rondelle,nmod,NOUN,0.5646654963493347,[],,
+épice,indien,amod,ADJ,0.5973781943321228,[],,
+min,cuisson,nmod,NOUN,0.4561061859130859,[],,
+mettre,curry,obj,NOUN,0.6815240979194641,"[{""id"": 31845117, ""node1"": 132366, ""node2"": 82813, ""type"": 14, ""w"": 30.0}]",r_patient,30.0

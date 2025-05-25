@@ -1,0 +1,45 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+Burger,chaussée,nmod,NOUN,0.4033462703227997,[],,
+Burger,ingrédient,nmod,NOUN,0.5096507668495178,[],,
+Burger,beurre,nmod,NOUN,0.6058615446090698,[],,
+beurre,chaussée,acl,NOUN,0.6599345803260803,[],,
+beurre,moine,nmod,NOUN,0.5537366271018982,[],,
+bacon,champignon,nmod,NOUN,0.6151258945465088,[],,
+pain,crème,amod,NOUN,0.7371951937675476,"[{""id"": 3175537, ""node1"": 61283, ""node2"": 44001, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+crème,moutarde,amod,NOUN,0.6351393461227417,[],,
+mayonnaise,ancien,amod,ADJ,0.5006837248802185,[],,
+moutarde,mayonnaise,nmod,ADJ,0.5991662740707397,"[{""id"": 2181240, ""node1"": 28335, ""node2"": 111055, ""type"": 0, ""w"": 90.0}, {""id"": 115083520, ""node1"": 28335, ""node2"": 111055, ""type"": 10, ""w"": 30.0}, {""id"": 438969100, ""node1"": 28335, ""node2"": 111055, ""type"": 51, ""w"": 15.0}]",r_associated,90.0
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+revenir,ail,obj,NOUN,0.5784251093864441,[],,
+ajouter,champignon,obj,NOUN,0.5464464426040649,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+ajouter,poivrer,advcl,VERB,0.4842216670513153,[],,
+griller,tranche,obj,NOUN,0.5766491293907166,[],,
+tranche,bacon,nmod,NOUN,0.5835222601890564,"[{""id"": 915336570, ""node1"": 143123, ""node2"": 25901, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+croustillant,lui,nsubj,PRON,0.4107099771499634,[],,
+poêle,même,amod,ADJ,0.645407497882843,[],,
+cuire,steak,obj,NOUN,0.7575573921203613,"[{""id"": 796846082, ""node1"": 5115, ""node2"": 55572, ""type"": 0, ""w"": 28.0}, {""id"": 15025387, ""node1"": 5115, ""node2"": 55572, ""type"": 13, ""w"": 40.0}, {""id"": 15082745, ""node1"": 5115, ""node2"": 55572, ""type"": 14, ""w"": 35.0}]",r_agent,40.0
+feu,vif,amod,ADJ,0.5094798803329468,"[{""id"": 418102926, ""node1"": 143703, ""node2"": 80204, ""type"": 0, ""w"": 13.0}, {""id"": 221184, ""node1"": 143703, ""node2"": 80204, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
+minute,côté,nmod,NOUN,0.4591824114322662,[],,
+minute,goût,nmod,NOUN,0.5921334028244019,[],,
+mélanger,saler,amod,VERB,0.5784584283828735,[],,
+saler,poivrer,advcl,VERB,0.5285379886627197,"[{""id"": 796710265, ""node1"": 15671, ""node2"": 70211, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+déposer,tranche,obj,NOUN,0.461878627538681,[],,
+tranche,chaussée,nmod,NOUN,0.4440758228302002,[],,
+tranche,steak,nmod,NOUN,0.6094164848327637,"[{""id"": 608778741, ""node1"": 143123, ""node2"": 55572, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+mélanger,mayonnaise,obj,NOUN,0.6055725812911987,[],,
+pain,burger,acl,NOUN,0.6463713645935059,"[{""id"": 28540722, ""node1"": 61283, ""node2"": 138357, ""type"": 0, ""w"": 24.0}, {""id"": 28517502, ""node1"": 61283, ""node2"": 138357, ""type"": 10, ""w"": 31.0}]",r_holo,31.0
+peu,beurre,nmod,NOUN,0.5877829194068909,[],,
+tartiner,base,obj,NOUN,0.5329688787460327,[],,
+base,pain,nmod,NOUN,0.680364727973938,[],,
+base,sauce,nmod,NOUN,0.6530443429946899,[],,
+sauce,moutarde,amod,NOUN,0.692589521408081,"[{""id"": 96714964, ""node1"": 141110, ""node2"": 28335, ""type"": 0, ""w"": 38.0}, {""id"": 96715005, ""node1"": 141110, ""node2"": 28335, ""type"": 9, ""w"": 31.0}, {""id"": 96715061, ""node1"": 141110, ""node2"": 28335, ""type"": 50, ""w"": 21.0}, {""id"": 651031296, ""node1"": 141110, ""node2"": 28335, ""type"": 666, ""w"": 4.0}, {""id"": 7359781, ""node1"": 141110, ""node2"": 28335, ""type"": 777, ""w"": 10.0}]",r_associated,38.0
+sauce,mayonnaise,nmod,NOUN,0.6725079417228699,"[{""id"": 1918815, ""node1"": 141110, ""node2"": 111055, ""type"": 0, ""w"": 167.0}, {""id"": 1545596, ""node1"": 141110, ""node2"": 111055, ""type"": 8, ""w"": 68.0}, {""id"": 1029365528, ""node1"": 141110, ""node2"": 111055, ""type"": 67, ""w"": 29.0}, {""id"": 651212509, ""node1"": 141110, ""node2"": 111055, ""type"": 666, ""w"": 3.0}]",r_associated,167.0
+ajouter,steak,obj,NOUN,0.6394214630126953,[],,
+fromage,fondre,acl,VERB,0.6491246819496155,"[{""id"": 799248818, ""node1"": 141687, ""node2"": 16480, ""type"": 0, ""w"": 26.0}, {""id"": 24806795, ""node1"": 141687, ""node2"": 16480, ""type"": 24, ""w"": 47.0}]",r_agent-1,47.0
+champignon,crémeux,amod,ADJ,0.5729795694351196,[],,
+bacon,croustillant,amod,ADJ,0.5959129333496094,"[{""id"": 561301810, ""node1"": 25901, ""node2"": 16044, ""type"": 0, ""w"": 41.0}]",r_associated,41.0
+chapeau,pain,nmod,NOUN,0.6379792094230652,[],,

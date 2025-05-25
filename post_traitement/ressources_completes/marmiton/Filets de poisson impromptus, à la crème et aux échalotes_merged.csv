@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,filet,nmod,NOUN,0.4820869565010071,[],,
+filet,poisson,nmod,NOUN,0.5954388380050659,"[{""id"": 151084, ""node1"": 42188, ""node2"": 68467, ""type"": 0, ""w"": 207.0}, {""id"": 24392267, ""node1"": 42188, ""node2"": 68467, ""type"": 10, ""w"": 26.0}, {""id"": 1372339, ""node1"": 42188, ""node2"": 68467, ""type"": 15, ""w"": 78.0}, {""id"": 11339589, ""node1"": 42188, ""node2"": 68467, ""type"": 28, ""w"": 38.0}, {""id"": 775213302, ""node1"": 42188, ""node2"": 68467, ""type"": 174, ""w"": 25.0}, {""id"": 1764605, ""node1"": 42188, ""node2"": 68467, ""type"": 666, ""w"": 5.0}]",r_associated,207.0
+filet,crème,nmod,NOUN,0.630577564239502,[],,
+crème,ingrédient,nmod,NOUN,0.6610228419303894,"[{""id"": 24850723, ""node1"": 44001, ""node2"": 123418, ""type"": 0, ""w"": 30.0}, {""id"": 24842105, ""node1"": 44001, ""node2"": 123418, ""type"": 6, ""w"": 143.0}]",r_isa,143.0
+crème,beurre,nmod,NOUN,0.6757769584655762,"[{""id"": 405906, ""node1"": 44001, ""node2"": 140377, ""type"": 0, ""w"": 73.0}, {""id"": 9980280, ""node1"": 44001, ""node2"": 140377, ""type"": 10, ""w"": 4.0}, {""id"": 1836384, ""node1"": 44001, ""node2"": 140377, ""type"": 21, ""w"": 60.0}, {""id"": 306776452, ""node1"": 44001, ""node2"": 140377, ""type"": 666, ""w"": 2.0}]",r_associated,73.0
+loup,échalote,nmod,NOUN,0.4949641227722168,"[{""id"": 423450670, ""node1"": 1125, ""node2"": 41642, ""type"": 0, ""w"": 25.0}, {""id"": 4902424, ""node1"": 1125, ""node2"": 41642, ""type"": 777, ""w"": 8.0}]",r_associated,25.0
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+pinceau,saladier,nmod,NOUN,0.5370374321937561,[],,
+saladier,Spatule,nmod,PROPN,0.4745384156703949,[],,
+Spatule,four,nmod,NOUN,0.6223515272140503,[],,
+four,blender,nmod,NOUN,0.6645620465278625,[],,
+pinceau,chauffer,acl,VERB,0.5544056296348572,[],,
+chauffer,balance,obj,NOUN,0.5568371415138245,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,appos,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+fondre,échalote,obj,NOUN,0.6111676692962646,[],,
+dorer,devenir,advcl,VERB,0.5148015022277832,[],,
+disposer,filet,obj,NOUN,0.5397936701774597,[],,
+filet,échalote,nmod,NOUN,0.6085570454597473,[],,
+mélange,crème,amod,NOUN,0.6523904204368591,[],,
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+saler,poivrer,advcl,VERB,0.5285379886627197,"[{""id"": 796710265, ""node1"": 15671, ""node2"": 70211, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+retourner,filet,nsubj,NOUN,0.5225906372070312,[],,
+vouloir,couvrir,advcl,VERB,0.4070191383361816,[],,
+couvrir,poêle,obj,NOUN,0.6677884459495544,"[{""id"": 31871240, ""node1"": 119824, ""node2"": 119686, ""type"": 14, ""w"": 52.0}]",r_patient,52.0
+laisser,ajouter,advcl,VERB,0.4014033377170563,[],,
+bouillir,peu,obj,ADV,0.5459186434745789,[],,
+bouillir,lier,advcl,VERB,0.5054658055305481,[],,
+lier,sauce,obj,NOUN,0.5866479277610779,"[{""id"": 580637729, ""node1"": 15392, ""node2"": 141110, ""type"": 0, ""w"": 32.0}, {""id"": 373014654, ""node1"": 15392, ""node2"": 141110, ""type"": 14, ""w"": 31.0}]",r_associated,32.0
+glisser,filet,obj,NOUN,0.5228878259658813,[],,
+filet,plat,nmod,NOUN,0.627339243888855,[],,
+plat,chaud,amod,ADJ,0.6285735368728638,"[{""id"": 915118669, ""node1"": 36327, ""node2"": 19150, ""type"": 0, ""w"": 23.0}, {""id"": 371938, ""node1"": 36327, ""node2"": 19150, ""type"": 17, ""w"": 110.0}]",r_carac,110.0
+riz,vapeur,amod,NOUN,0.6941584944725037,[],,
+pouvoir,plat,nsubj,NOUN,0.5943275690078735,[],,
+four,chaud,amod,ADJ,0.6748667359352112,"[{""id"": 363192, ""node1"": 9190, ""node2"": 19150, ""type"": 0, ""w"": 123.0}, {""id"": 376860, ""node1"": 9190, ""node2"": 19150, ""type"": 17, ""w"": 130.0}, {""id"": 11348785, ""node1"": 9190, ""node2"": 19150, ""type"": 28, ""w"": 38.0}, {""id"": 2221131, ""node1"": 9190, ""node2"": 19150, ""type"": 666, ""w"": 1.0}]",r_carac,130.0

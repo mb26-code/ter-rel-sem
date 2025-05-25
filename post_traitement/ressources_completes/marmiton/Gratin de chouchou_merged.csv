@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,gratin,nmod,NOUN,0.4893978536128998,[],,
+gratin,chouchou,nmod,NOUN,0.5122427940368652,[],,
+gratin,ingrédient,nmod,NOUN,0.6309539079666138,[],,
+gratin,gruyère,nmod,NOUN,0.5780057907104492,"[{""id"": 607823224, ""node1"": 12942, ""node2"": 54095, ""type"": 0, ""w"": 26.0}, {""id"": 606747321, ""node1"": 12942, ""node2"": 54095, ""type"": 9, ""w"": 51.0}]",r_has_part,51.0
+gruyère,râpé,acl,ADV,0.5169720649719238,"[{""id"": 1582298, ""node1"": 54095, ""node2"": 52123, ""type"": 0, ""w"": 140.0}, {""id"": 477608590, ""node1"": 54095, ""node2"": 52123, ""type"": 17, ""w"": 26.0}]",r_associated,140.0
+chouchou,jambon,nmod,NOUN,0.5846552848815918,[],,
+chouchou,fumé,amod,ADJ,0.5076618790626526,[],,
+gratin,Plat,nmod,PROPN,0.4779236614704132,"[{""id"": 606766250, ""node1"": 12942, ""node2"": 415256, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+gratin,gratin,nmod,NOUN,0.4922143518924713,"[{""id"": 306276, ""node1"": 12942, ""node2"": 12942, ""type"": 19, ""w"": 55.0}]",r_lemma,55.0
+gratin,économe,appos,NOUN,0.5398203730583191,[],,
+économe,couteau,nmod,NOUN,0.5018488168716431,"[{""id"": 11472222, ""node1"": 14706, ""node2"": 32610, ""type"": 0, ""w"": 51.0}, {""id"": 9916571, ""node1"": 14706, ""node2"": 32610, ""type"": 6, ""w"": 55.0}, {""id"": 539969426, ""node1"": 14706, ""node2"": 32610, ""type"": 35, ""w"": -25.0}, {""id"": 1786595, ""node1"": 14706, ""node2"": 32610, ""type"": 666, ""w"": 5.0}]",r_isa,55.0
+économe,poêle,nmod,NOUN,0.6104288101196289,[],,
+économe,cuillère,nmod,NOUN,0.534529447555542,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,four,nmod,NOUN,0.7153509855270386,[],,
+gratin,étape,nmod,NOUN,0.5125875473022461,[],,
+gratin,cuire,acl,VERB,0.7331907153129578,"[{""id"": 606766350, ""node1"": 12942, ""node2"": 5115, ""type"": 0, ""w"": 12.0}, {""id"": 1633802, ""node1"": 12942, ""node2"": 5115, ""type"": 26, ""w"": 100.0}, {""id"": 1626470, ""node1"": 12942, ""node2"": 5115, ""type"": 38, ""w"": 230.0}]",r_agentif_role,230.0
+cuire,chouchou,obj,NOUN,0.7316226959228516,"[{""id"": 166730104, ""node1"": 5115, ""node2"": 794, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+chouchou,entier,amod,ADJ,0.4076335728168487,[],,
+eau,ce,nmod,PRON,0.4319391548633575,[],,
+égoutter,laisser,advcl,VERB,0.4538509249687195,[],,
+moment,bon,amod,ADJ,0.4159947335720062,"[{""id"": 561174501, ""node1"": 136447, ""node2"": 144229, ""type"": 0, ""w"": 35.0}]",r_associated,35.0
+éplucher,chouchou,obj,NOUN,0.480837732553482,[],,
+cube,grossier,amod,ADJ,0.47586789727211,[],,
+revenir,jambon,obj,NOUN,0.6361684799194336,[],,
+mélanger,épice,obj,NOUN,0.702217161655426,[],,
+épice,chouchou,nmod,NOUN,0.6404576301574707,[],,
+four,chaud,amod,ADJ,0.6748667359352112,"[{""id"": 363192, ""node1"": 9190, ""node2"": 19150, ""type"": 0, ""w"": 123.0}, {""id"": 376860, ""node1"": 9190, ""node2"": 19150, ""type"": 17, ""w"": 130.0}, {""id"": 11348785, ""node1"": 9190, ""node2"": 19150, ""type"": 28, ""w"": 38.0}, {""id"": 2221131, ""node1"": 9190, ""node2"": 19150, ""type"": 666, ""w"": 1.0}]",r_carac,130.0

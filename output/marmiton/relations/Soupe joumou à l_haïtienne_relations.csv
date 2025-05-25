@@ -1,0 +1,80 @@
+node1,node2,relations
+haïtien,ingrédient,[]
+haïtien,sel,[]
+sel,poireau,[]
+sel,clou,[]
+clou,épice,"[{""id"": 98291484, ""node1"": 11651, ""node2"": 146056, ""type"": 0, ""w"": 30.0}]"
+clou,orange,[]
+sel,gros,"[{""id"": 188164, ""node1"": 13260, ""node2"": 88096, ""type"": 0, ""w"": 60.0}, {""id"": 645838, ""node1"": 13260, ""node2"": 88096, ""type"": 17, ""w"": 60.0}]"
+orange,sel,[]
+sel,boeuf,[]
+haïtien,eau,[]
+eau,vinaigre,[]
+vinaigre,blanc,"[{""id"": 2151639, ""node1"": 145443, ""node2"": 15196, ""type"": 0, ""w"": 125.0}, {""id"": 8546217, ""node1"": 145443, ""node2"": 15196, ""type"": 106, ""w"": 1.0}]"
+blanc,citron,[]
+blanc,vert,"[{""id"": 154000, ""node1"": 15196, ""node2"": 26976, ""type"": 0, ""w"": 70.0}, {""id"": 3191568, ""node1"": 15196, ""node2"": 26976, ""type"": 17, ""w"": -5.0}, {""id"": 12020360, ""node1"": 15196, ""node2"": 26976, ""type"": 20, ""w"": 171.0}]"
+vert,bouillon,[]
+bouillon,volaille,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]"
+bouillon,bouquet,[]
+bouquet,garni,[]
+bouquet,rouge,"[{""id"": 98313500, ""node1"": 34381, ""node2"": 86356, ""type"": 0, ""w"": 27.0}, {""id"": 98286140, ""node1"": 34381, ""node2"": 86356, ""type"": 9, ""w"": 28.0}, {""id"": 3178946, ""node1"": 34381, ""node2"": 86356, ""type"": 106, ""w"": 1.0}]"
+bouquet,céleri,[]
+branche,pomme,[]
+branche,terre,[]
+vert,poivre,"[{""id"": 508477125, ""node1"": 26976, ""node2"": 139597, ""type"": 0, ""w"": 17.0}, {""id"": 403162010, ""node1"": 26976, ""node2"": 139597, ""type"": 777, ""w"": 10.0}]"
+poivre,moulin,"[{""id"": 10530093, ""node1"": 139597, ""node2"": 21988, ""type"": 0, ""w"": 31.0}, {""id"": 1603821, ""node1"": 139597, ""node2"": 21988, ""type"": 10, ""w"": 53.0}, {""id"": 11358278, ""node1"": 139597, ""node2"": 21988, ""type"": 15, ""w"": 38.0}]"
+vert,mixeur,[]
+mixeur,bol,"[{""id"": 539977939, ""node1"": 78314, ""node2"": 145405, ""type"": 58, ""w"": -25.0}]"
+bol,étape,[]
+dissoudre,fait,[]
+soupe,dissoudre,[]
+dissoudre,sel,"[{""id"": 1377942, ""node1"": 90446, ""node2"": 13260, ""type"": 0, ""w"": 43.0}, {""id"": 1053467444, ""node1"": 90446, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]"
+cocotte,grand,[]
+cocotte,eau,"[{""id"": 109916597, ""node1"": 120952, ""node2"": 65012, ""type"": 777, ""w"": 9.0}]"
+mettre,viande,[]
+tremper,ajouter,[]
+ajouter,vinaigre,[]
+réserver,jus,[]
+utiliser,écorce,[]
+utiliser,frotter,[]
+frotter,viande,[]
+bol,le,[]
+bol,jus,[]
+épice,chef,[]
+sortir,bien,[]
+viande,cocotte,[]
+bouillon,maison,[]
+maison,préférence,[]
+piment,clou,[]
+clou,girofle,"[{""id"": 9902807, ""node1"": 11651, ""node2"": 43873, ""type"": 0, ""w"": 55.0}, {""id"": 413873, ""node1"": 11651, ""node2"": 43873, ""type"": 8, ""w"": 111.0}]"
+clou,eau,[]
+eau,bouquet,[]
+préparer,chauffer,[]
+feu,doux,[]
+détacher,viande,[]
+légume,tout,[]
+préparer,légume,"[{""id"": 97862824, ""node1"": 36246, ""node2"": 120603, ""type"": 14, ""w"": 40.0}]"
+couper,céleri,[]
+tronçon,petit,[]
+pomme,tailler,[]
+pomme,terre,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+carotte,rondelle,"[{""id"": 915206997, ""node1"": 76234, ""node2"": 71106, ""type"": 0, ""w"": 20.0}, {""id"": 31838017, ""node1"": 76234, ""node2"": 71106, ""type"": 58, ""w"": 66.0}]"
+rondelle,fin,[]
+couper,chou,[]
+chou,vert,"[{""id"": 604265844, ""node1"": 67203, ""node2"": 26976, ""type"": 0, ""w"": 47.0}, {""id"": 3172001, ""node1"": 67203, ""node2"": 26976, ""type"": 106, ""w"": 17.0}, {""id"": 981361544, ""node1"": 67203, ""node2"": 26976, ""type"": 666, ""w"": 2.0}]"
+cube,petit,[]
+bouillon,oignon,"[{""id"": 1033717835, ""node1"": 146582, ""node2"": 123307, ""type"": 9, ""w"": 27.0}]"
+cuire,minute,[]
+fondant,légume,[]
+mixeur,plonger,[]
+plonger,conserver,[]
+morceau,petit,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]"
+conserver,morceau,[]
+soupe,légume,"[{""id"": 191459, ""node1"": 117152, ""node2"": 120603, ""type"": 0, ""w"": 191.0}, {""id"": 10529523, ""node1"": 117152, ""node2"": 120603, ""type"": 9, ""w"": 12.0}, {""id"": 1530288, ""node1"": 117152, ""node2"": 120603, ""type"": 666, ""w"": 2.0}]"
+légume,restant,[]
+légume,pomme,[]
+pomme,chou,[]
+pomme,carotte,[]
+cuire,remuer,[]
+ajouter,pâte,[]
+minute,supplémentaire,[]

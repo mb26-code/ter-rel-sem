@@ -1,0 +1,30 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+miel,ingrédient,nmod,NOUN,0.6318907737731934,"[{""id"": 85917646, ""node1"": 136055, ""node2"": 123418, ""type"": 6, ""w"": 26.0}, {""id"": 661474354, ""node1"": 136055, ""node2"": 123418, ""type"": 666, ""w"": 2.0}]",r_isa,26.0
+miel,beurre,nmod,NOUN,0.6565355062484741,"[{""id"": 62362450, ""node1"": 136055, ""node2"": 140377, ""type"": 75, ""w"": 46.0}]",r_accomp,46.0
+beurre,miel,amod,NOUN,0.6565355062484741,"[{""id"": 500926057, ""node1"": 140377, ""node2"": 136055, ""type"": 0, ""w"": 4.0}]",r_associated,4.0
+miel,liquide,amod,ADJ,0.6094732880592346,"[{""id"": 62362311, ""node1"": 136055, ""node2"": 140315, ""type"": 0, ""w"": 97.0}, {""id"": 2045771, ""node1"": 136055, ""node2"": 140315, ""type"": 17, ""w"": 35.0}, {""id"": 1939698, ""node1"": 136055, ""node2"": 140315, ""type"": 666, ""w"": 6.0}]",r_associated,97.0
+liquide,poire,amod,ADJ,0.5883688926696777,"[{""id"": 10893948, ""node1"": 140315, ""node2"": 146033, ""type"": 0, ""w"": 55.0}, {""id"": 9795366, ""node1"": 140315, ""node2"": 146033, ""type"": 8, ""w"": 56.0}, {""id"": 14740269, ""node1"": 140315, ""node2"": 146033, ""type"": 23, ""w"": 29.0}]",r_hypo,56.0
+miel,cannelle,amod,ADJ,0.6223337054252625,[],,
+miel,glace,nmod,NOUN,0.638272225856781,[],,
+miel,chocolat,nmod,NOUN,0.6103922128677368,[],,
+miel,set,nmod,NOUN,0.5338064432144165,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+poêle,couteau,nmod,NOUN,0.6776712536811829,[],,
+poire,découper,advcl,VERB,0.5582860112190247,[],,
+découper,balance,obj,NOUN,0.4950466752052307,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+enlever,coeur,obj,NOUN,0.4358001053333282,[],,
+tranche,épais,amod,ADJ,0.468293696641922,[],,
+chauffer,beurre,obj,NOUN,0.7066839933395386,[],,
+fondre,fois,nsubj,NOUN,0.4692898690700531,[],,
+mettre,fondre,advcl,VERB,0.4897515773773193,[],,
+mettre,tranche,obj,NOUN,0.4838809669017792,[],,
+tranche,poire,nmod,ADJ,0.5245445370674133,[],,
+tranche,côte,nmod,NOUN,0.4165681302547455,"[{""id"": 1025986, ""node1"": 143123, ""node2"": 141949, ""type"": 0, ""w"": 22.0}, {""id"": 53687356, ""node1"": 143123, ""node2"": 141949, ""type"": 5, ""w"": 72.0}]",r_syn,72.0
+arroser,miel,obj,NOUN,0.6130794882774353,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+laisser,tranche,obj,NOUN,0.4618926644325256,[],,
+tranche,assiette,nmod,NOUN,0.5645220875740051,"[{""id"": 2124558, ""node1"": 143123, ""node2"": 62735, ""type"": 15, ""w"": 88.0}]",r_lieu,88.0
+boule,glace,nmod,NOUN,0.5476489067077637,"[{""id"": 243451, ""node1"": 141883, ""node2"": 141964, ""type"": 0, ""w"": 101.0}, {""id"": 9903174, ""node1"": 141883, ""node2"": 141964, ""type"": 6, ""w"": 13.0}, {""id"": 4985394, ""node1"": 141883, ""node2"": 141964, ""type"": 9, ""w"": 5.0}, {""id"": 720819380, ""node1"": 141883, ""node2"": 141964, ""type"": 174, ""w"": 25.0}]",r_associated,101.0
+boule,chocolat,nmod,NOUN,0.5878035426139832,"[{""id"": 230878, ""node1"": 141883, ""node2"": 34157, ""type"": 0, ""w"": 53.0}]",r_associated,53.0

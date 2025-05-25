@@ -1,0 +1,24 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,gastronomie,obj,NOUN,0.4582444131374359,[],,
+partager,connaissance,obj,NOUN,0.4124003052711487,"[{""id"": 929699725, ""node1"": 122353, ""node2"": 104243, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+confiserie,pain,nsubj,NOUN,0.6571909189224243,[],,
+pain,orge,nmod,NOUN,0.6180845499038696,"[{""id"": 423562078, ""node1"": 61283, ""node2"": 54538, ""type"": 0, ""w"": 18.0}, {""id"": 3376399, ""node1"": 61283, ""node2"": 54538, ""type"": 777, ""w"": 10.0}]",r_associated,18.0
+confiserie,composer,acl,VERB,0.4686254560947418,[],,
+crêpe,petit,amod,ADJ,0.639009416103363,[],,
+crêpe,faire,acl,VERB,0.634263277053833,"[{""id"": 98284662, ""node1"": 17186, ""node2"": 87528, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+farine,orge,nmod,NOUN,0.5676323771476746,"[{""id"": 423997342, ""node1"": 127629, ""node2"": 54538, ""type"": 0, ""w"": 2.0}]",r_associated,2.0
+garniture,pâte,nmod,NOUN,0.652372419834137,[],,
+garniture,haricot,nmod,NOUN,0.6366360187530518,[],,
+confiserie,rond,amod,ADJ,0.5064589381217957,[],,
+avoir,texture,obj,NOUN,0.4749122858047485,[],,
+texture,similaire,amod,ADJ,0.4526740908622741,[],,
+celui,gâteau,nmod,NOUN,0.5545114278793335,[],,
+gâteau,éponge,nmod,NOUN,0.5716102719306946,[],,
+boulangerie,nommer,acl,VERB,0.4179648756980896,[],,
+utiliser,orge,obj,NOUN,0.4868877232074737,[],,
+orge,récolter,acl,VERB,0.4833492934703827,"[{""id"": 926169810, ""node1"": 54538, ""node2"": 84007, ""type"": 0, ""w"": 20.0}, {""id"": 757784261, ""node1"": 54538, ""node2"": 84007, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+orge,contenir,acl:relcl,VERB,0.4892440140247345,[],,
+pousse,orge,nsubj,NOUN,0.4822910130023956,[],,
+hiver,froid,amod,ADJ,0.4315874278545379,"[{""id"": 109493, ""node1"": 75068, ""node2"": 49803, ""type"": 0, ""w"": 778.0}, {""id"": 54689365, ""node1"": 75068, ""node2"": 49803, ""type"": 5, ""w"": 64.0}, {""id"": 177971, ""node1"": 75068, ""node2"": 49803, ""type"": 6, ""w"": -7.0}, {""id"": 213848, ""node1"": 75068, ""node2"": 49803, ""type"": 8, ""w"": -76.0}, {""id"": 93560779, ""node1"": 75068, ""node2"": 49803, ""type"": 9, ""w"": 34.0}, {""id"": 147375, ""node1"": 75068, ""node2"": 49803, ""type"": 17, ""w"": 353.0}, {""id"": 2464850, ""node1"": 75068, ""node2"": 49803, ""type"": 21, ""w"": 53.0}, {""id"": 1021945044, ""node1"": 75068, ""node2"": 49803, ""type"": 23, ""w"": -20.0}, {""id"": 11344971, ""node1"": 75068, ""node2"": 49803, ""type"": 28, ""w"": 38.0}, {""id"": 367739, ""node1"": 75068, ""node2"": 49803, ""type"": 35, ""w"": 55.0}, {""id"": 5435536, ""node1"": 75068, ""node2"": 49803, ""type"": 41, ""w"": 115.0}, {""id"": 1652419, ""node1"": 75068, ""node2"": 49803, ""type"": 666, ""w"": 15.0}]",r_associated,778.0
+herbe,mauvais,amod,NOUN,0.4723823964595794,[],,
+parasite,herbe,amod,NOUN,0.4551759660243988,"[{""id"": 96738208, ""node1"": 35789, ""node2"": 138874, ""type"": 0, ""w"": 26.0}]",r_associated,26.0

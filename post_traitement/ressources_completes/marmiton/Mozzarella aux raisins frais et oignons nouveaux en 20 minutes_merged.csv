@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+mozzarella,raisin,nmod,NOUN,0.5884177684783936,[],,
+raisin,frais,amod,ADJ,0.5111470818519592,[],,
+oignon,nouveau,amod,ADJ,0.6103869080543518,[],,
+mozzarella,minute,nmod,NOUN,0.517421543598175,[],,
+minute,ingrédient,nmod,NOUN,0.5584479570388794,[],,
+mozzarella,pain,nmod,NOUN,0.6749717593193054,"[{""id"": 487106955, ""node1"": 120576, ""node2"": 61283, ""type"": 0, ""w"": 1.0}, {""id"": 20031766, ""node1"": 120576, ""node2"": 61283, ""type"": 15, ""w"": -5.0}]",r_associated,1.0
+pain,oignon,nmod,NOUN,0.7100216746330261,[],,
+oignon,amande,nmod,NOUN,0.6178070306777954,[],,
+amande,entier,amod,ADJ,0.5364513397216797,[],,
+entier,huile,acl,NOUN,0.5895249843597412,[],,
+amande,vinaigre,nmod,NOUN,0.6382082104682922,[],,
+vinaigre,balsamique,amod,ADJ,0.5980404615402222,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]",r_associated,166.0
+oignon,fleur,nmod,NOUN,0.6058996915817261,[],,
+fleur,sel,nmod,NOUN,0.668102502822876,"[{""id"": 796703205, ""node1"": 28985, ""node2"": 13260, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+mozzarella,assiette,nmod,NOUN,0.6440435647964478,"[{""id"": 2199062, ""node1"": 120576, ""node2"": 62735, ""type"": 15, ""w"": 99.0}]",r_lieu,99.0
+assiette,étape,nmod,NOUN,0.483820229768753,[],,
+couper,grain,nsubj,NOUN,0.5586938858032227,[],,
+grain,raisin,nmod,NOUN,0.5547611117362976,"[{""id"": 386271, ""node1"": 57895, ""node2"": 93528, ""type"": 0, ""w"": 70.0}, {""id"": 377013608, ""node1"": 57895, ""node2"": 93528, ""type"": 20, ""w"": 30.0}, {""id"": 720818254, ""node1"": 57895, ""node2"": 93528, ""type"": 174, ""w"": 25.0}]",r_associated,70.0
+raisin,grappe,nmod,NOUN,0.4449083805084228,"[{""id"": 105765, ""node1"": 93528, ""node2"": 75549, ""type"": 0, ""w"": 664.0}, {""id"": 664889, ""node1"": 93528, ""node2"": 75549, ""type"": 5, ""w"": 87.0}, {""id"": 170593, ""node1"": 93528, ""node2"": 75549, ""type"": 6, ""w"": -71.0}, {""id"": 144360, ""node1"": 93528, ""node2"": 75549, ""type"": 10, ""w"": 52.0}, {""id"": 196773, ""node1"": 93528, ""node2"": 75549, ""type"": 15, ""w"": 108.0}, {""id"": 402937, ""node1"": 93528, ""node2"": 75549, ""type"": 20, ""w"": 56.0}, {""id"": 389366, ""node1"": 93528, ""node2"": 75549, ""type"": 21, ""w"": 102.0}, {""id"": 1734788, ""node1"": 93528, ""node2"": 75549, ""type"": 42, ""w"": 120.0}, {""id"": 1971790, ""node1"": 93528, ""node2"": 75549, ""type"": 58, ""w"": 31.0}, {""id"": 646055402, ""node1"": 93528, ""node2"": 75549, ""type"": 666, ""w"": 8.0}]",r_associated,664.0
+couper,oignon,obj,NOUN,0.596168577671051,"[{""id"": 435065584, ""node1"": 128828, ""node2"": 123307, ""type"": 0, ""w"": 29.0}, {""id"": 31770866, ""node1"": 128828, ""node2"": 123307, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+tailler,pain,nmod,NOUN,0.6626290678977966,[],,
+pain,cube,nmod,NOUN,0.636246919631958,[],,
+oignon,pain,nmod,NOUN,0.7100216746330261,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+devoir,pain,nsubj,NOUN,0.6308873891830444,[],,
+coloration,léger,amod,ADJ,0.4876611530780792,[],,
+avoir,coloration,obj,NOUN,0.4117881655693054,[],,
+texture,moelleux,amod,ADJ,0.5173817276954651,"[{""id"": 723393754, ""node1"": 4910, ""node2"": 65767, ""type"": 0, ""w"": 26.0}, {""id"": 651212851, ""node1"": 4910, ""node2"": 65767, ""type"": 666, ""w"": 2.0}]",r_associated,26.0
+ajouter,grain,obj,NOUN,0.5503000617027283,[],,
+parfait,cuisson,nsubj,NOUN,0.6920945048332214,"[{""id"": 110683646, ""node1"": 52260, ""node2"": 60056, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+parfait,préparation,obj,NOUN,0.4688717722892761,[],,
+répartir,assiette,obj,NOUN,0.5489816069602966,[],,
+ajouter,boule,obj,NOUN,0.529511034488678,[],,
+boule,mozzarella,nmod,NOUN,0.5285245180130005,"[{""id"": 720820741, ""node1"": 141883, ""node2"": 120576, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+filet,vinaigre,nmod,NOUN,0.6159487962722778,"[{""id"": 423998989, ""node1"": 42188, ""node2"": 145443, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+filet,huile,nmod,NOUN,0.6150403022766113,[],,

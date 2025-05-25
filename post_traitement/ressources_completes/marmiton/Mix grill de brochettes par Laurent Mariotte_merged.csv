@@ -1,0 +1,60 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,mix,nmod,NOUN,0.4244332909584045,[],,
+mix,grill,amod,NOUN,0.5524691343307495,[],,
+mix,brochette,nmod,NOUN,0.4769276976585388,[],,
+mix,Laurent,nmod,PROPN,0.4005458950996399,[],,
+mix,ingrédient,nmod,NOUN,0.4900332391262054,[],,
+mix,boeuf,appos,NOUN,0.5580685138702393,[],,
+boeuf,agneau,nmod,ADJ,0.5464668869972229,"[{""id"": 799190072, ""node1"": 47417, ""node2"": 128646, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+boeuf,porc,appos,VERB,0.5855631828308105,"[{""id"": 1041048609, ""node1"": 47417, ""node2"": 71135, ""type"": 0, ""w"": 65.0}, {""id"": 1032956775, ""node1"": 47417, ""node2"": 71135, ""type"": 78, ""w"": 29.0}]",r_associated,65.0
+boeuf,rouge,appos,ADJ,0.571812093257904,"[{""id"": 602028771, ""node1"": 47417, ""node2"": 86356, ""type"": 0, ""w"": 64.0}, {""id"": 98287333, ""node1"": 47417, ""node2"": 86356, ""type"": 17, ""w"": 36.0}, {""id"": 3211330, ""node1"": 47417, ""node2"": 86356, ""type"": 666, ""w"": 1.0}]",r_associated,64.0
+mix,poivron,nmod,NOUN,0.551006555557251,[],,
+mix,curry,nmod,NOUN,0.5987194180488586,[],,
+curry,citron,nmod,NOUN,0.6768912672996521,[],,
+curry,fenouil,acl,VERB,0.6869922876358032,"[{""id"": 3116772, ""node1"": 82813, ""node2"": 78032, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+grain,moutarde,amod,ADJ,0.596014678478241,[],,
+moutarde,pépin,nmod,NOUN,0.4846711754798889,[],,
+pépin,raisin,nmod,NOUN,0.4464874863624573,"[{""id"": 119295, ""node1"": 143219, ""node2"": 93528, ""type"": 0, ""w"": 138.0}, {""id"": 1988000, ""node1"": 143219, ""node2"": 93528, ""type"": 10, ""w"": 60.0}, {""id"": 124319, ""node1"": 143219, ""node2"": 93528, ""type"": 15, ""w"": 78.0}]",r_associated,138.0
+raisin,sel,appos,NOUN,0.684131920337677,[],,
+sel,gros,amod,ADJ,0.6553788781166077,"[{""id"": 188164, ""node1"": 13260, ""node2"": 88096, ""type"": 0, ""w"": 60.0}, {""id"": 645838, ""node1"": 13260, ""node2"": 88096, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+curry,poivre,nmod,NOUN,0.6854056119918823,"[{""id"": 3116767, ""node1"": 82813, ""node2"": 139597, ""type"": 0, ""w"": 75.0}]",r_associated,75.0
+poivre,moulin,nmod,NOUN,0.6073857545852661,"[{""id"": 10530093, ""node1"": 139597, ""node2"": 21988, ""type"": 0, ""w"": 31.0}, {""id"": 1603821, ""node1"": 139597, ""node2"": 21988, ""type"": 10, ""w"": 53.0}, {""id"": 11358278, ""node1"": 139597, ""node2"": 21988, ""type"": 15, ""w"": 38.0}]",r_holo,53.0
+moulin,barbecue,nmod,NOUN,0.6043310165405273,[],,
+moulin,étape,nmod,NOUN,0.4866771697998047,[],,
+tailler,viande,obj,NOUN,0.6719333529472351,[],,
+viande,morceau,nmod,NOUN,0.7157437205314636,"[{""id"": 796691557, ""node1"": 140100, ""node2"": 65364, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+saladier,différent,amod,ADJ,0.5779464840888977,[],,
+tailler,faire,acl,VERB,0.4564375281333923,[],,
+faire,marinade,obj,NOUN,0.6731453537940979,[],,
+mélanger,bœuf,obj,NOUN,0.6450144052505493,[],,
+moutarde,huile,nmod,NOUN,0.6240794658660889,"[{""id"": 652308749, ""node1"": 28335, ""node2"": 141971, ""type"": 0, ""w"": 22.0}, {""id"": 113266836, ""node1"": 28335, ""node2"": 141971, ""type"": 777, ""w"": 10.0}]",r_associated,22.0
+donner,tour,obj,NOUN,0.412740409374237,[],,
+tour,moulin,nmod,NOUN,0.4674747586250305,[],,
+tour,poivre,nmod,NOUN,0.5960261225700378,[],,
+mélanger,agneau,obj,NOUN,0.6179165244102478,[],,
+pâte,curry,nmod,NOUN,0.7246509790420532,"[{""id"": 796941037, ""node1"": 34069, ""node2"": 82813, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+curry,huile,nmod,NOUN,0.7108530402183533,[],,
+fenouil,grain,nmod,NOUN,0.6273677349090576,[],,
+presser,jus,obj,NOUN,0.5542571544647217,"[{""id"": 9358105, ""node1"": 47617, ""node2"": 53310, ""type"": 0, ""w"": 46.0}, {""id"": 2259467, ""node1"": 47617, ""node2"": 53310, ""type"": 35, ""w"": 27.0}, {""id"": 653326907, ""node1"": 47617, ""node2"": 53310, ""type"": 666, ""w"": 10.0}]",r_associated,46.0
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+verser,huile,obj,NOUN,0.6115446090698242,"[{""id"": 227659, ""node1"": 104506, ""node2"": 141971, ""type"": 14, ""w"": 57.0}, {""id"": 645787360, ""node1"": 104506, ""node2"": 141971, ""type"": 666, ""w"": 2.0}]",r_patient,57.0
+verser,mélanger,advcl,VERB,0.4985589385032654,"[{""id"": 72653249, ""node1"": 104506, ""node2"": 37151, ""type"": 0, ""w"": 35.0}]",r_associated,35.0
+viande,porc,nmod,NOUN,0.655918300151825,"[{""id"": 163100, ""node1"": 140100, ""node2"": 71135, ""type"": 0, ""w"": 719.0}, {""id"": 9926333, ""node1"": 140100, ""node2"": 71135, ""type"": 6, ""w"": -20.0}, {""id"": 159577, ""node1"": 140100, ""node2"": 71135, ""type"": 8, ""w"": 174.0}, {""id"": 390246, ""node1"": 140100, ""node2"": 71135, ""type"": 10, ""w"": 70.0}, {""id"": 15173549, ""node1"": 140100, ""node2"": 71135, ""type"": 27, ""w"": 23.0}, {""id"": 376040808, ""node1"": 140100, ""node2"": 71135, ""type"": 51, ""w"": 35.0}, {""id"": 99763096, ""node1"": 140100, ""node2"": 71135, ""type"": 666, ""w"": 6.0}]",r_associated,719.0
+tailler,chacun,nmod,PRON,0.4289959669113159,[],,
+chacun,poivron,nmod,NOUN,0.6050795912742615,[],,
+poivron,morceau,nmod,NOUN,0.6672518253326416,[],,
+eau,minute,nmod,NOUN,0.5597324967384338,[],,
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+papier,absorber,amod,VERB,0.4968288838863373,[],,
+brochette,bœuf,nmod,NOUN,0.5961588025093079,[],,
+chaleur,barbecue,nmod,NOUN,0.5944229960441589,[],,
+disposer,brochette,obj,NOUN,0.5095692276954651,[],,
+brochette,porc,nmod,NOUN,0.6207205653190613,"[{""id"": 580626372, ""node1"": 118385, ""node2"": 71135, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+brochette,premier,nmod,ADJ,0.4947331249713897,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+cuire,retourner,advcl,VERB,0.6831303834915161,[],,
+brochette,tout,amod,ADJ,0.5457830429077148,[],,
+brochette,autre,amod,ADJ,0.4931168854236603,[],,
+brochette,saisir,acl:relcl,VERB,0.4697729051113128,[],,
+saisir,minute,obj,NOUN,0.4159308969974518,[],,
+minute,côté,nmod,NOUN,0.4591824114322662,[],,

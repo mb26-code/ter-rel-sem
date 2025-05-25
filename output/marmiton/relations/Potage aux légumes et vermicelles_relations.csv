@@ -1,0 +1,47 @@
+node1,node2,relations
+titre,ingrédient,[]
+oignon,terre,[]
+titre,cube,[]
+cube,bouillon,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]"
+bouillon,eau,"[{""id"": 32063698, ""node1"": 146582, ""node2"": 65012, ""type"": 0, ""w"": 33.0}, {""id"": 418498335, ""node1"": 146582, ""node2"": 65012, ""type"": 3, ""w"": 31.0}, {""id"": 32061929, ""node1"": 146582, ""node2"": 65012, ""type"": 9, ""w"": 53.0}]"
+eau,huile,"[{""id"": 922137128, ""node1"": 65012, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]"
+huile,cheveu,[]
+titre,louche,[]
+louche,mixeur,[]
+mixeur,couteau,[]
+couteau,économe,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]"
+économe,mixeur,[]
+mixeur,étape,[]
+titre,tomate,[]
+tomate,besoin,[]
+retirer,peau,[]
+tomate,retirer,[]
+rondelle,petit,"[{""id"": 417861738, ""node1"": 71106, ""node2"": 55222, ""type"": 0, ""w"": 12.0}, {""id"": 9106735, ""node1"": 71106, ""node2"": 55222, ""type"": 666, ""w"": 1.0}]"
+pomme,terre,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+tranche,fin,[]
+chauffer,huile,[]
+huile,olive,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]"
+plonger,oignon,[]
+ajouter,tomate,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 30.0}]"
+cuit,préparation,"[{""id"": 920477107, ""node1"": 28105, ""node2"": 33634, ""type"": 0, ""w"": 21.0}, {""id"": 961230298, ""node1"": 28105, ""node2"": 33634, ""type"": 666, ""w"": 2.0}]"
+préparation,précédent,[]
+chauffer,quart,[]
+quart,litre,"[{""id"": 417652267, ""node1"": 115401, ""node2"": 57416, ""type"": 0, ""w"": 15.0}, {""id"": 71555265, ""node1"": 115401, ""node2"": 57416, ""type"": 777, ""w"": 10.0}]"
+litre,eau,"[{""id"": 2458362, ""node1"": 57416, ""node2"": 65012, ""type"": 0, ""w"": 84.0}, {""id"": 15759326, ""node1"": 57416, ""node2"": 65012, ""type"": 28, ""w"": 10.0}, {""id"": 720818422, ""node1"": 57416, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 980526881, ""node1"": 57416, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]"
+eau,bouillon,"[{""id"": 32079803, ""node1"": 65012, ""node2"": 146582, ""type"": 0, ""w"": 26.0}, {""id"": 32063699, ""node1"": 65012, ""node2"": 146582, ""type"": 10, ""w"": 26.0}, {""id"": 600063504, ""node1"": 65012, ""node2"": 146582, ""type"": 27, ""w"": 26.0}]"
+bouillon,cube,"[{""id"": 799190726, ""node1"": 146582, ""node2"": 6041, ""type"": 0, ""w"": 23.0}]"
+bout,minute,[]
+bout,verser,[]
+préparation,tomate,[]
+préparation,carotte,"[{""id"": 601611698, ""node1"": 33634, ""node2"": 76234, ""type"": 0, ""w"": 23.0}]"
+préparation,pomme,[]
+préparation,terre,[]
+préparation,eau,[]
+eau,cube,[]
+cuire,minute,[]
+minute,feu,[]
+feu,doux,[]
+cuire,remuer,[]
+remuer,temps,[]
+servir,mixer,[]
+remettre,ajouter,"[{""id"": 796701306, ""node1"": 62982, ""node2"": 25099, ""type"": 0, ""w"": 21.0}, {""id"": 213486690, ""node1"": 62982, ""node2"": 25099, ""type"": 57, ""w"": 29.0}]"

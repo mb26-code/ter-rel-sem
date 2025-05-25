@@ -1,0 +1,45 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,pot,nmod,NOUN,0.4878831207752228,[],,
+pot,feu,nmod,NOUN,0.5809311270713806,"[{""id"": 415003512, ""node1"": 142367, ""node2"": 143703, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+feu,canard,nmod,NOUN,0.590587317943573,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,crème,acl,NOUN,0.6610228419303894,"[{""id"": 24923429, ""node1"": 123418, ""node2"": 44001, ""type"": 0, ""w"": 15.0}, {""id"": 24850724, ""node1"": 123418, ""node2"": 44001, ""type"": 8, ""w"": 36.0}]",r_hypo,36.0
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+crème,beurre,acl,NOUN,0.6757769584655762,"[{""id"": 405906, ""node1"": 44001, ""node2"": 140377, ""type"": 0, ""w"": 73.0}, {""id"": 9980280, ""node1"": 44001, ""node2"": 140377, ""type"": 10, ""w"": 4.0}, {""id"": 1836384, ""node1"": 44001, ""node2"": 140377, ""type"": 21, ""w"": 60.0}, {""id"": 306776452, ""node1"": 44001, ""node2"": 140377, ""type"": 666, ""w"": 2.0}]",r_associated,73.0
+beurre,poireau,nmod,NOUN,0.694847047328949,[],,
+ingrédient,cuisse,nmod,NOUN,0.5654251575469971,[],,
+cuisse,canard,nmod,NOUN,0.5198010802268982,"[{""id"": 185097, ""node1"": 58876, ""node2"": 7769, ""type"": 0, ""w"": 81.0}, {""id"": 377011018, ""node1"": 58876, ""node2"": 7769, ""type"": 20, ""w"": 27.0}]",r_associated,81.0
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,céleri,amod,PROPN,0.6352015733718872,[],,
+bouquet,garni,amod,ADJ,0.4469667077064514,[],,
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+four,économe,amod,NOUN,0.6647013425827026,[],,
+économe,couvercle,nmod,NOUN,0.5389436483383179,[],,
+couvercle,couteau,nmod,NOUN,0.5890913009643555,[],,
+économe,louche,appos,NOUN,0.5013393759727478,[],,
+économe,balance,appos,NOUN,0.4593970775604248,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+saisir,cuisse,obj,NOUN,0.4509799480438232,[],,
+jeter,poireau,obj,NOUN,0.5753102898597717,[],,
+poireau,couper,acl,VERB,0.5762974619865417,"[{""id"": 32054204, ""node1"": 130303, ""node2"": 128828, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+carotte,couper,acl,VERB,0.5670887231826782,"[{""id"": 93434679, ""node1"": 76234, ""node2"": 128828, ""type"": 26, ""w"": 34.0}]",r_patient-1,34.0
+carotte,rondelle,nmod,NOUN,0.5535646677017212,"[{""id"": 915206997, ""node1"": 76234, ""node2"": 71106, ""type"": 0, ""w"": 20.0}, {""id"": 31838017, ""node1"": 76234, ""node2"": 71106, ""type"": 58, ""w"": 66.0}]",r_quantificateur,66.0
+rondelle,épais,amod,ADJ,0.4895803928375244,[],,
+pomme,branche,appos,NOUN,0.5355061292648315,[],,
+branche,céleri,nmod,PROPN,0.5488340258598328,"[{""id"": 798069808, ""node1"": 26062, ""node2"": 109326, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+pomme,cube,nmod,NOUN,0.5789888501167297,[],,
+cube,concentré,nmod,NOUN,0.4789177477359772,[],,
+concentré,pot,nmod,NOUN,0.4992428421974182,[],,
+concentré,feu,nmod,NOUN,0.5466630458831787,[],,
+bouquet,recouvrir,acl,VERB,0.5082499980926514,[],,
+mijoter,minute,obj,NOUN,0.6123385429382324,[],,
+ajouter,cuisse,obj,NOUN,0.4909074008464813,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+retirer,louche,obj,NOUN,0.509931206703186,[],,
+louche,bouillon,nmod,NOUN,0.6199405789375305,"[{""id"": 720819546, ""node1"": 124144, ""node2"": 146582, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+laisser,ajouter,advcl,VERB,0.4014033377170563,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,

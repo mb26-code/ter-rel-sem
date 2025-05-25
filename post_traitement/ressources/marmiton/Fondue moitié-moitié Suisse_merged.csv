@@ -1,0 +1,26 @@
+head,lemma,dep,pos,sim,relation
+titre,fondue,nmod,NOUN,0.5169522166252136,[]
+fondue,moitié,nmod,NUM,0.5318689942359924,[]
+moitié,ingrédient,nmod,NOUN,0.579904317855835,[]
+poivre,gruyère,nmod,NOUN,0.6444509029388428,[]
+gruyère,suisse,amod,ADJ,0.4515703022480011,"[{""id"": 2052703, ""node1"": 54095, ""node2"": 14759, ""type"": 0, ""w"": 55.0}]"
+gruyère,vin,amod,NOUN,0.6373554468154907,[]
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]"
+moitié,appareil,nmod,NOUN,0.4791764616966247,[]
+appareil,fondre,nmod,VERB,0.5232203602790833,[]
+Spatule,saladier,nmod,NOUN,0.4745384156703949,[]
+appareil,casserole,nmod,NOUN,0.6145895719528198,"[{""id"": 96714739, ""node1"": 106265, ""node2"": 57253, ""type"": 15, ""w"": 24.0}]"
+casserole,planche,obj,NOUN,0.6198417544364929,[]
+casserole,découper,advcl,VERB,0.6361495852470398,[]
+découper,étape,obj,NOUN,0.4244579374790191,[]
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]"
+mettre,vin,obj,NOUN,0.6231614947319031,[]
+ail,couper,acl,VERB,0.5863063931465149,"[{""id"": 31770903, ""node1"": 26979, ""node2"": 128828, ""type"": 26, ""w"": 35.0}]"
+feu,doux,amod,ADJ,0.5496628284454346,[]
+chauffer,remuer,advcl,VERB,0.560030996799469,[]
+remuer,mélange,obj,NOUN,0.5663568377494812,"[{""id"": 590673847, ""node1"": 125556, ""node2"": 14800, ""type"": 0, ""w"": 36.0}]"
+spatule,bois,nmod,NOUN,0.5679187774658203,"[{""id"": 96703712, ""node1"": 141075, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 96703702, ""node1"": 141075, ""node2"": 96256, ""type"": 50, ""w"": 24.0}]"
+fondre,fromage,nsubj:pass,NOUN,0.6491246819496155,"[{""id"": 102294612, ""node1"": 16480, ""node2"": 141687, ""type"": 0, ""w"": 62.0}, {""id"": 98285435, ""node1"": 16480, ""node2"": 141687, ""type"": 13, ""w"": 31.0}]"
+ajouter,fondre,advcl,VERB,0.4958822429180145,[]
+ébullition,instant,nmod,NOUN,0.4256291687488556,[]
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]"

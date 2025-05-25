@@ -1,0 +1,65 @@
+node1,node2,relations
+Côtes,porc,[]
+Côtes,pomme,[]
+pomme,ingrédient,[]
+poivre,miel,[]
+miel,beurre,"[{""id"": 62362450, ""node1"": 136055, ""node2"": 140377, ""type"": 75, ""w"": 46.0}]"
+beurre,sel,"[{""id"": 9986816, ""node1"": 140377, ""node2"": 13260, ""type"": 0, ""w"": 43.0}, {""id"": 649508, ""node1"": 140377, ""node2"": 13260, ""type"": 9, ""w"": 56.0}, {""id"": 3979381, ""node1"": 140377, ""node2"": 13260, ""type"": 777, ""w"": 10.0}]"
+côte,porc,"[{""id"": 7156687, ""node1"": 141949, ""node2"": 71135, ""type"": 0, ""w"": 51.0}]"
+Côtes,lait,[]
+lait,eau,"[{""id"": 423451320, ""node1"": 86296, ""node2"": 65012, ""type"": 0, ""w"": 57.0}, {""id"": 386065416, ""node1"": 86296, ""node2"": 65012, ""type"": 6, ""w"": -25.0}, {""id"": 123522, ""node1"": 86296, ""node2"": 65012, ""type"": 9, ""w"": 170.0}, {""id"": 1745868, ""node1"": 86296, ""node2"": 65012, ""type"": 50, ""w"": 32.0}, {""id"": 97056207, ""node1"": 86296, ""node2"": 65012, ""type"": 78, ""w"": 30.0}, {""id"": 3262481, ""node1"": 86296, ""node2"": 65012, ""type"": 777, ""w"": 5.0}]"
+eau,pomme,[]
+pomme,sucre,"[{""id"": 96711509, ""node1"": 37201, ""node2"": 139481, ""type"": 0, ""w"": 26.0}, {""id"": 96711585, ""node1"": 37201, ""node2"": 139481, ""type"": 9, ""w"": 31.0}, {""id"": 4965769, ""node1"": 37201, ""node2"": 139481, ""type"": 777, ""w"": 2.0}]"
+sucre,brun,"[{""id"": 182239, ""node1"": 139481, ""node2"": 14189, ""type"": 17, ""w"": 61.0}, {""id"": 3163418, ""node1"": 139481, ""node2"": 14189, ""type"": 106, ""w"": 25.0}]"
+eau,café,"[{""id"": 584565866, ""node1"": 65012, ""node2"": 66324, ""type"": 0, ""w"": 23.0}, {""id"": 948430736, ""node1"": 65012, ""node2"": 66324, ""type"": 10, ""w"": 26.0}]"
+titre,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,économe,[]
+économe,casserole,[]
+casserole,saladier,[]
+saladier,top,[]
+plaque,meilleur,[]
+top,plaque,[]
+plaque,four,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]"
+four,set,[]
+set,poêle,[]
+balance,cuisine,[]
+fait,purée,[]
+bouillir,pomme,[]
+pomme,terre,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+pomme,min,[]
+fois,cuire,[]
+écraser,éplucher,[]
+écraser,purée,"[{""id"": 796703799, ""node1"": 52004, ""node2"": 16444, ""type"": 0, ""w"": 25.0}]"
+eau,sel,"[{""id"": 796707616, ""node1"": 65012, ""node2"": 13260, ""type"": 0, ""w"": 32.0}, {""id"": 2123272, ""node1"": 65012, ""node2"": 13260, ""type"": 28, ""w"": 98.0}, {""id"": 602535234, ""node1"": 65012, ""node2"": 13260, ""type"": 777, ""w"": 10.0}]"
+pomme,quartier,"[{""id"": 1983477, ""node1"": 37201, ""node2"": 1055, ""type"": 0, ""w"": 60.0}, {""id"": 72392485, ""node1"": 37201, ""node2"": 1055, ""type"": 9, ""w"": 30.0}, {""id"": 182791, ""node1"": 37201, ""node2"": 1055, ""type"": 21, ""w"": 80.0}]"
+garder,peau,[]
+cube,gros,[]
+casserole,faire,[]
+revenir,pomme,[]
+pomme,beurre,"[{""id"": 423545892, ""node1"": 37201, ""node2"": 140377, ""type"": 0, ""w"": 21.0}, {""id"": 4965768, ""node1"": 37201, ""node2"": 140377, ""type"": 777, ""w"": 2.0}]"
+pomme,feu,[]
+feu,vif,"[{""id"": 418102926, ""node1"": 143703, ""node2"": 80204, ""type"": 0, ""w"": 13.0}, {""id"": 221184, ""node1"": 143703, ""node2"": 80204, ""type"": 17, ""w"": 52.0}]"
+dorer,lui,[]
+baisser,dorer,[]
+baisser,feu,[]
+ajouter,sucre,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]"
+mélanger,faire,[]
+cuire,côte,[]
+feu,moyen,[]
+feu,minute,[]
+ajouter,penser,[]
+retourner,temps,[]
+côté,grillé,[]
+pas,autre,[]
+moitié,cuisson,[]
+ajouter,café,[]
+donner,couleur,[]
+fin,cuisson,[]
+ajouter,miel,[]
+préparer,fait,[]
+purée,sachet,[]
+mettre,trop,[]
+mettre,poivre,"[{""id"": 513445455, ""node1"": 132366, ""node2"": 139597, ""type"": 0, ""w"": 26.0}, {""id"": 513445454, ""node1"": 132366, ""node2"": 139597, ""type"": 14, ""w"": 100.0}]"
+pomme,rapidement,[]
+côté,purée,[]

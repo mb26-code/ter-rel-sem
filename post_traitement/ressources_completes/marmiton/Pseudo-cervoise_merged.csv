@@ -1,0 +1,21 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+ingrédient,bière,nmod,NOUN,0.6260722279548645,[],,
+bière,blond,amod,ADJ,0.5362507700920105,[],,
+ingrédient,vin,nmod,NOUN,0.6430637836456299,"[{""id"": 578506260, ""node1"": 123418, ""node2"": 35798, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+ingrédient,jus,nmod,NOUN,0.6051733493804932,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+jus,saladier,nmod,NOUN,0.6140207648277283,[],,
+saladier,réfrigérateur,appos,NOUN,0.5889169573783875,[],,
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[],,
+saladier,grand,amod,ADJ,0.534858763217926,"[{""id"": 1077330492, ""node1"": 45455, ""node2"": 23178, ""type"": 0, ""w"": 50.0}, {""id"": 31838076, ""node1"": 45455, ""node2"": 23178, ""type"": 17, ""w"": 60.0}, {""id"": 1668931, ""node1"": 45455, ""node2"": 23178, ""type"": 666, ""w"": 2.0}]",r_carac,60.0
+ingrédient,verser,acl,VERB,0.5961355566978455,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+verser,ingrédient,obj,NOUN,0.5961355566978455,[],,
+heure,réfrigérateur,nmod,NOUN,0.4385888278484344,[],,
+préparer,ancêtre,nsubj,NOUN,0.4358947873115539,[],,
+correspondre,goût,nsubj,NOUN,0.5209628939628601,[],,
+goût,particulier,amod,ADJ,0.5285284519195557,"[{""id"": 472676719, ""node1"": 119233, ""node2"": 85169, ""type"": 17, ""w"": 36.0}]",r_carac,36.0
+goût,boisson,nmod,NOUN,0.6268970370292664,"[{""id"": 653277935, ""node1"": 119233, ""node2"": 113547, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+apprécier,faire,advcl,VERB,0.4296336770057678,[],,
+détester,bière,obj,NOUN,0.5135281085968018,[],,

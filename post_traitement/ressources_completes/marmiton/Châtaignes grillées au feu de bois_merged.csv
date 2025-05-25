@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,châtaigne,nmod,NOUN,0.5088140368461609,[],,
+châtaigne,grillé,amod,ADJ,0.6348487734794617,"[{""id"": 93777838, ""node1"": 120225, ""node2"": 141899, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+châtaigne,feu,nmod,NOUN,0.5873287916183472,[],,
+feu,bois,nmod,NOUN,0.5675138831138611,"[{""id"": 67934, ""node1"": 143703, ""node2"": 96256, ""type"": 0, ""w"": 442.0}, {""id"": 256687, ""node1"": 143703, ""node2"": 96256, ""type"": 15, ""w"": 98.0}, {""id"": 653706022, ""node1"": 143703, ""node2"": 96256, ""type"": 666, ""w"": 2.0}]",r_associated,442.0
+feu,ingrédient,nmod,NOUN,0.6022169589996338,[],,
+ingrédient,châtaigne,nmod,NOUN,0.665496289730072,[],,
+châtaigne,châtaigne,appos,NOUN,0.5164843797683716,"[{""id"": 1077682792, ""node1"": 120225, ""node2"": 120225, ""type"": 0, ""w"": 30.0}, {""id"": 288106, ""node1"": 120225, ""node2"": 120225, ""type"": 19, ""w"": 60.0}, {""id"": 648884400, ""node1"": 120225, ""node2"": 120225, ""type"": 99, ""w"": 32.0}]",r_lemma,60.0
+châtaigne,top,nmod,NOUN,0.4097821712493896,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,couteau,nmod,NOUN,0.5726497173309326,"[{""id"": 139564, ""node1"": 51905, ""node2"": 32610, ""type"": 0, ""w"": 212.0}, {""id"": 87319445, ""node1"": 51905, ""node2"": 32610, ""type"": 666, ""w"": 1.0}]",r_associated,212.0
+couteau,économe,appos,NOUN,0.5018488168716431,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]",r_hypo,76.0
+économe,étape,nmod,NOUN,0.4015891551971435,[],,
+châtaigne,allumer,acl,VERB,0.5707431435585022,[],,
+allumer,feu,obj,NOUN,0.5185922384262085,"[{""id"": 397194, ""node1"": 82772, ""node2"": 143703, ""type"": 0, ""w"": 198.0}, {""id"": 147091, ""node1"": 82772, ""node2"": 143703, ""type"": 14, ""w"": 100.0}, {""id"": 2147827, ""node1"": 82772, ""node2"": 143703, ""type"": 16, ""w"": 51.0}, {""id"": 455403, ""node1"": 82772, ""node2"": 143703, ""type"": 31, ""w"": 58.0}, {""id"": 984310137, ""node1"": 82772, ""node2"": 143703, ""type"": 666, ""w"": 3.0}]",r_associated,198.0
+cuire,châtaigne,obj,NOUN,0.7661837339401245,[],,
+peau,châtaigne,nmod,NOUN,0.53374844789505,"[{""id"": 97333284, ""node1"": 109785, ""node2"": 120225, ""type"": 0, ""w"": 23.0}, {""id"": 97333201, ""node1"": 109785, ""node2"": 120225, ""type"": 10, ""w"": 26.0}]",r_holo,26.0
+châtaigne,côté,nmod,NOUN,0.5467022061347961,[],,
+poser,poêle,obj,NOUN,0.6224284768104553,[],,
+chaud,lui,nsubj,PRON,0.4615650475025177,[],,
+verser,châtaigne,obj,NOUN,0.5946193933486938,[],,
+couche,seul,amod,ADJ,0.4710170924663543,[],,
+châtaigne,couche,nmod,NOUN,0.5576600432395935,[],,
+remuer,poêle,obj,NOUN,0.6752270460128784,[],,
+brûler,châtaigne,nsubj,NOUN,0.6400361657142639,[],,
+remuer,brûler,advcl,VERB,0.5408088564872742,[],,
+griller,lui,nsubj,PRON,0.4860134124755859,[],,
+cuire,lui,nsubj:pass,PRON,0.6200059056282043,[],,
+écarter,peau,nsubj,NOUN,0.4731450080871582,[],,
+cuire,écarter,advcl,VERB,0.67781662940979,[],,
+pointe,couteau,nmod,NOUN,0.4962367117404938,"[{""id"": 8856589, ""node1"": 141611, ""node2"": 32610, ""type"": 0, ""w"": 16.0}, {""id"": 251482, ""node1"": 141611, ""node2"": 32610, ""type"": 10, ""w"": 53.0}]",r_holo,53.0
+éplucher,châtaigne,obj,NOUN,0.5777349472045898,"[{""id"": 13064456, ""node1"": 59879, ""node2"": 120225, ""type"": 14, ""w"": 81.0}]",r_patient,81.0
+éplucher,régaler,advcl,VERB,0.4900868237018585,[],,

@@ -1,0 +1,32 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+velouté,rose,amod,ADJ,0.5248281955718994,"[{""id"": 3180101, ""node1"": 83664, ""node2"": 145583, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+légume,vieux,amod,ADJ,0.5783430933952332,[],,
+velouté,légume,nmod,NOUN,0.6526260375976562,[],,
+légume,ingrédient,nmod,NOUN,0.6797090172767639,[],,
+légume,carotte,appos,ADJ,0.6620327234268188,"[{""id"": 123776, ""node1"": 120603, ""node2"": 76234, ""type"": 0, ""w"": 643.0}, {""id"": 112455, ""node1"": 120603, ""node2"": 76234, ""type"": 8, ""w"": 228.0}, {""id"": 15192007, ""node1"": 120603, ""node2"": 76234, ""type"": 27, ""w"": -27.0}, {""id"": 1029203703, ""node1"": 120603, ""node2"": 76234, ""type"": 67, ""w"": 28.0}, {""id"": 989823698, ""node1"": 120603, ""node2"": 76234, ""type"": 666, ""w"": 3.0}]",r_associated,643.0
+velouté,pomme,nmod,NOUN,0.6291032433509827,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+velouté,patate,nmod,NOUN,0.6084127426147461,[],,
+patate,doux,amod,ADJ,0.5360471606254578,[],,
+velouté,louche,appos,NOUN,0.590481698513031,[],,
+velouté,mixeur,nmod,NOUN,0.5961046814918518,[],,
+mixeur,mixeur,nmod,NOUN,0.488496869802475,"[{""id"": 316851, ""node1"": 78314, ""node2"": 78314, ""type"": 19, ""w"": 51.0}]",r_lemma,51.0
+mixeur,blender,nmod,NOUN,0.5062692165374756,"[{""id"": 918274140, ""node1"": 78314, ""node2"": 1979239, ""type"": 0, ""w"": 21.0}, {""id"": 1029360733, ""node1"": 78314, ""node2"": 1979239, ""type"": 67, ""w"": 31.0}, {""id"": 1032954527, ""node1"": 78314, ""node2"": 1979239, ""type"": 78, ""w"": 26.0}]",r_similar,31.0
+mixeur,chauffer,acl,VERB,0.6226776838302612,[],,
+chauffer,étape,obj,NOUN,0.4912289679050445,[],,
+légume,tout,amod,ADJ,0.6585912108421326,[],,
+laver,légume,obj,NOUN,0.6450674533843994,"[{""id"": 369967247, ""node1"": 143876, ""node2"": 120603, ""type"": 0, ""w"": 34.0}, {""id"": 1639138, ""node1"": 143876, ""node2"": 120603, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+cuit,vapeur,amod,NOUN,0.7094440460205078,"[{""id"": 961230302, ""node1"": 28105, ""node2"": 98392, ""type"": 666, ""w"": 3.0}]",r_aki,3.0
+fois,cuire,acl,VERB,0.6635112762451172,[],,
+sortir,légume,obj,NOUN,0.6269150972366333,[],,
+ajouter,bouillon,obj,NOUN,0.597090482711792,[],,
+eau,cuisson,nmod,NOUN,0.6715990304946899,"[{""id"": 489016047, ""node1"": 65012, ""node2"": 60056, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+eau,celui,nmod,PRON,0.5368723273277283,[],,
+cuire,qui,nsubj,PRON,0.6445527076721191,[],,
+celui,cuire,acl:relcl,VERB,0.7098153233528137,[],,
+devenir,mijoter,nsubj:pass,VERB,0.6155440807342529,[],,
+peu,petit,amod,ADJ,0.4567189812660217,"[{""id"": 14380759, ""node1"": 39409, ""node2"": 55222, ""type"": 0, ""w"": 54.0}]",r_associated,54.0
+mijoter,peu,obj,ADV,0.5822739601135254,[],,
+devenir,soupe,nsubj:pass,NOUN,0.637755811214447,[],,
+ajouter,peu,obj,ADV,0.4455879032611847,[],,
+peu,lait,nmod,NOUN,0.5830830335617065,[],,

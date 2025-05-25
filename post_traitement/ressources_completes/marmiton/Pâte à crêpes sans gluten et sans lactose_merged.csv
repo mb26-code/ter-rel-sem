@@ -1,0 +1,27 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+pâte,crêpe,nmod,NOUN,0.6453630328178406,"[{""id"": 483718798, ""node1"": 34069, ""node2"": 17186, ""type"": 0, ""w"": 10.0}, {""id"": 483487594, ""node1"": 34069, ""node2"": 17186, ""type"": 10, ""w"": 66.0}, {""id"": 96931401, ""node1"": 34069, ""node2"": 17186, ""type"": 41, ""w"": 29.0}]",r_holo,66.0
+crêpe,gluten,nmod,NOUN,0.6271049976348877,"[{""id"": 115736182, ""node1"": 17186, ""node2"": 19041, ""type"": 9, ""w"": 30.0}]",r_has_part,30.0
+lactose,ingrédient,nmod,NOUN,0.5516320466995239,[],,
+crêpe,farine,obj,NOUN,0.671425998210907,"[{""id"": 1719772, ""node1"": 17186, ""node2"": 127629, ""type"": 0, ""w"": 222.0}, {""id"": 800769019, ""node1"": 17186, ""node2"": 127629, ""type"": 9, ""w"": 55.0}, {""id"": 98284636, ""node1"": 17186, ""node2"": 127629, ""type"": 50, ""w"": 15.0}, {""id"": 2206980, ""node1"": 17186, ""node2"": 127629, ""type"": 666, ""w"": 3.0}]",r_associated,222.0
+farine,fécule,nmod,NOUN,0.6311330199241638,"[{""id"": 864254, ""node1"": 127629, ""node2"": 30818, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+fécule,pomme,nmod,NOUN,0.6095135807991028,[],,
+fécule,terre,nmod,NOUN,0.6049109101295471,"[{""id"": 1066636226, ""node1"": 30818, ""node2"": 25705, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+terre,oeuf,nmod,NOUN,0.5886920690536499,[],,
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+lait,louche,appos,NOUN,0.60867840051651,[],,
+louche,saladier,nmod,NOUN,0.6017233729362488,[],,
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,poêle,nmod,NOUN,0.66766756772995,[],,
+crêpe,crêpe,advcl,NOUN,0.5387868881225586,"[{""id"": 1077682175, ""node1"": 17186, ""node2"": 17186, ""type"": 0, ""w"": 30.0}, {""id"": 292067, ""node1"": 17186, ""node2"": 17186, ""type"": 19, ""w"": 60.0}]",r_lemma,60.0
+crêpe,balance,obj,NOUN,0.5917694568634033,"[{""id"": 347084028, ""node1"": 17186, ""node2"": 145190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+saladier,verser,acl,VERB,0.5594906806945801,[],,
+verser,farine,obj,NOUN,0.6472393274307251,"[{""id"": 25676320, ""node1"": 104506, ""node2"": 127629, ""type"": 14, ""w"": 40.0}]",r_patient,40.0
+farine,riz,nmod,NOUN,0.7016901969909668,"[{""id"": 423997352, ""node1"": 127629, ""node2"": 24372, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+ajouter,œuf,obj,NOUN,0.5268428325653076,[],,
+ajouter,lait,obj,NOUN,0.5957752466201782,"[{""id"": 373014760, ""node1"": 25099, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+lait,riz,nmod,NOUN,0.6671203374862671,"[{""id"": 796934421, ""node1"": 86296, ""node2"": 24372, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+lait,mélanger,acl,VERB,0.6098827719688416,"[{""id"": 421006007, ""node1"": 86296, ""node2"": 37151, ""type"": 0, ""w"": 2.0}, {""id"": 373070023, ""node1"": 86296, ""node2"": 37151, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+cuire,crêpe,obj,NOUN,0.7520754337310791,"[{""id"": 478063340, ""node1"": 5115, ""node2"": 17186, ""type"": 0, ""w"": 36.0}, {""id"": 478063339, ""node1"": 5115, ""node2"": 17186, ""type"": 13, ""w"": 100.0}]",r_agent,100.0

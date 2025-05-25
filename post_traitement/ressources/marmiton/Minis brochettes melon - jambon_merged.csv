@@ -1,0 +1,16 @@
+head,lemma,dep,pos,sim,relation
+mini,brochette,nmod,NOUN,0.4378669261932373,[]
+mini,melon,nmod,CCONJ,0.5156612992286682,[]
+jambon,ingrédient,nmod,NOUN,0.6781305074691772,"[{""id"": 24850707, ""node1"": 57980, ""node2"": 123418, ""type"": 0, ""w"": 27.0}, {""id"": 24842129, ""node1"": 57980, ""node2"": 123418, ""type"": 6, ""w"": 177.0}]"
+jambon,melon,appos,NOUN,0.6008911728858948,"[{""id"": 796703545, ""node1"": 57980, ""node2"": 31080, ""type"": 0, ""w"": 30.0}]"
+melon,jambon,nmod,NOUN,0.6008911728858948,"[{""id"": 380140, ""node1"": 31080, ""node2"": 57980, ""type"": 0, ""w"": 60.0}]"
+jambon,croire,acl,VERB,0.581739604473114,[]
+jambon,couteau,nmod,NOUN,0.6100063323974609,[]
+couteau,frigo,nmod,NOUN,0.6097099184989929,[]
+jambon,étape,nmod,NOUN,0.5639643669128418,[]
+jambon,couper,acl,VERB,0.6028013229370117,"[{""id"": 31770896, ""node1"": 57980, ""node2"": 128828, ""type"": 26, ""w"": 35.0}]"
+couper,jambon,obj,NOUN,0.6028013229370117,"[{""id"": 31770885, ""node1"": 128828, ""node2"": 57980, ""type"": 14, ""w"": 30.0}]"
+tranche,petit,amod,ADJ,0.5192389488220215,[]
+milieu,cure,nmod,NOUN,0.4549792110919952,[]
+côté,morceau,nmod,NOUN,0.5074657797813416,"[{""id"": 823316, ""node1"": 138419, ""node2"": 65364, ""type"": 0, ""w"": 26.0}]"
+morceau,jambon,nmod,NOUN,0.6312922835350037,[]

@@ -1,0 +1,38 @@
+node1,node2,relations
+titre,yaourt,[]
+yaourt,facile,[]
+yaourt,ingrédient,[]
+yaourt,lait,"[{""id"": 120512, ""node1"": 82320, ""node2"": 86296, ""type"": 0, ""w"": 137.0}, {""id"": 31177905, ""node1"": 82320, ""node2"": 86296, ""type"": 3, ""w"": 38.0}, {""id"": 24419596, ""node1"": 82320, ""node2"": 86296, ""type"": 6, ""w"": 245.0}, {""id"": 385497931, ""node1"": 82320, ""node2"": 86296, ""type"": 8, ""w"": -25.0}, {""id"": 274167920, ""node1"": 82320, ""node2"": 86296, ""type"": 9, ""w"": 17.0}, {""id"": 413715, ""node1"": 82320, ""node2"": 86296, ""type"": 21, ""w"": 84.0}, {""id"": 10638507, ""node1"": 82320, ""node2"": 86296, ""type"": 50, ""w"": 35.0}, {""id"": 1046682595, ""node1"": 82320, ""node2"": 86296, ""type"": 54, ""w"": 20.0}, {""id"": 1865773, ""node1"": 82320, ""node2"": 86296, ""type"": 666, ""w"": 29.0}]"
+lait,entier,"[{""id"": 114016, ""node1"": 86296, ""node2"": 49309, ""type"": 0, ""w"": 134.0}, {""id"": 132413, ""node1"": 86296, ""node2"": 49309, ""type"": 8, ""w"": 111.0}, {""id"": 276797, ""node1"": 86296, ""node2"": 49309, ""type"": 17, ""w"": 80.0}]"
+yaourt,nature,"[{""id"": 10638425, ""node1"": 82320, ""node2"": 143607, ""type"": 0, ""w"": 92.0}, {""id"": 1691067, ""node1"": 82320, ""node2"": 143607, ""type"": 17, ""w"": 97.0}, {""id"": 1065206415, ""node1"": 82320, ""node2"": 143607, ""type"": 666, ""w"": 2.0}]"
+nature,lait,"[{""id"": 289469024, ""node1"": 143607, ""node2"": 86296, ""type"": 23, ""w"": 26.0}]"
+yaourt,poudre,[]
+poudre,entier,[]
+four,casserole,[]
+casserole,fouet,[]
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+cuisine,saladier,"[{""id"": 47300451, ""node1"": 16033, ""node2"": 45455, ""type"": 0, ""w"": 30.0}, {""id"": 47300450, ""node1"": 16033, ""node2"": 45455, ""type"": 27, ""w"": 21.0}]"
+saladier,couvercle,[]
+couvercle,balance,[]
+balance,cuisine,[]
+fouet,réfrigérateur,[]
+réfrigérateur,étape,[]
+porter,lait,[]
+retirer,feu,[]
+refroidir,lait,[]
+aide,fouet,[]
+mélanger,obtenir,[]
+obtenir,mélange,[]
+mélange,homogène,"[{""id"": 914526136, ""node1"": 14800, ""node2"": 124759, ""type"": 0, ""w"": 21.0}, {""id"": 33170626, ""node1"": 14800, ""node2"": 124759, ""type"": 17, ""w"": 27.0}]"
+moment,sucre,[]
+yaourt,vanillé,[]
+yaourt,ajouter,"[{""id"": 274167914, ""node1"": 82320, ""node2"": 25099, ""type"": 26, ""w"": 30.0}]"
+sucre,vanillé,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]"
+mettre,sachet,[]
+sachet,sucre,"[{""id"": 720818405, ""node1"": 112386, ""node2"": 139481, ""type"": 174, ""w"": 25.0}, {""id"": 723812101, ""node1"": 112386, ""node2"": 139481, ""type"": 666, ""w"": 2.0}]"
+question,goût,[]
+goût,personnel,"[{""id"": 31851502, ""node1"": 119233, ""node2"": 2553, ""type"": 17, ""w"": 30.0}]"
+verser,liquide,"[{""id"": 1352184, ""node1"": 104506, ""node2"": 140315, ""type"": 0, ""w"": 78.0}, {""id"": 220541, ""node1"": 104506, ""node2"": 140315, ""type"": 14, ""w"": 100.0}, {""id"": 376199214, ""node1"": 104506, ""node2"": 140315, ""type"": 16, ""w"": 30.0}, {""id"": 645787352, ""node1"": 104506, ""node2"": 140315, ""type"": 666, ""w"": 4.0}]"
+pot,individuel,[]
+refermer,couvercle,[]
+couvercle,aller,[]

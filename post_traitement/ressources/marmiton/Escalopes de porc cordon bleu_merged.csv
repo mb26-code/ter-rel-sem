@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relation
+bleu,titre,nsubj,NOUN,0.4091180860996246,[]
+bleu,ingrédient,obj,NOUN,0.5274584889411926,"[{""id"": 24929873, ""node1"": 60, ""node2"": 123418, ""type"": 6, ""w"": 1.0}]"
+ingrédient,sel,appos,NOUN,0.6997572183609009,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]"
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]"
+poivre,beurre,appos,NOUN,0.71866774559021,"[{""id"": 584573840, ""node1"": 139597, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]"
+sel,bacon,nmod,NOUN,0.7191905379295349,"[{""id"": 797788775, ""node1"": 13260, ""node2"": 25901, ""type"": 0, ""w"": 28.0}]"
+bacon,gruyère,nmod,NOUN,0.5771338939666748,[]
+sel,oeuf,nmod,NOUN,0.6938258409500122,[]
+set,poêle,obj,NOUN,0.5301709771156311,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+glisser,tranche,obj,NOUN,0.4636963605880737,[]
+tranche,gruyère,nmod,NOUN,0.5446084141731262,[]
+tranche,bacon,nmod,NOUN,0.5835222601890564,"[{""id"": 915336570, ""node1"": 143123, ""node2"": 25901, ""type"": 0, ""w"": 20.0}]"
+tranche,intérieur,nmod,NOUN,0.4588290452957153,[]
+passer,cordon,obj,NOUN,0.4825149476528168,[]
+cordon,bleu,amod,ADJ,0.4326801598072052,[]
+cordon,farine,nmod,NOUN,0.6593528985977173,[]
+oeuf,battre,acl,VERB,0.5256416201591492,"[{""id"": 15064344, ""node1"": 116175, ""node2"": 119162, ""type"": 26, ""w"": 34.0}]"
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]"
+poêle,cuire,acl,VERB,0.7542327046394348,"[{""id"": 463498043, ""node1"": 119686, ""node2"": 5115, ""type"": 0, ""w"": 51.0}, {""id"": 365344037, ""node1"": 119686, ""node2"": 5115, ""type"": 30, ""w"": 44.0}, {""id"": 1526743, ""node1"": 119686, ""node2"": 5115, ""type"": 666, ""w"": 2.0}]"
+cordon,doré,acl,ADJ,0.4982858300209045,[]
+réduire,minute,obj,NOUN,0.4435298442840576,[]

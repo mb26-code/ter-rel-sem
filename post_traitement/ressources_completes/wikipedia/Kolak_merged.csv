@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,gastronomie,obj,NOUN,0.4582444131374359,[],,
+dessert,indonésien,amod,ADJ,0.5378941893577576,[],,
+dessert,base,nmod,NOUN,0.603590726852417,[],,
+base,sucre,nmod,NOUN,0.6800392866134644,[],,
+sucre,palme,nmod,NOUN,0.598272979259491,[],,
+noix,coco,amod,ADV,0.5649088025093079,"[{""id"": 1924690, ""node1"": 30910, ""node2"": 145904, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+dessert,lait,nmod,NOUN,0.6200734376907349,"[{""id"": 9978869, ""node1"": 38557, ""node2"": 86296, ""type"": 0, ""w"": 4.0}, {""id"": 169320, ""node1"": 38557, ""node2"": 86296, ""type"": 9, ""w"": 80.0}, {""id"": 2481441, ""node1"": 38557, ""node2"": 86296, ""type"": 50, ""w"": 31.0}]",r_has_part,80.0
+lait,coco,amod,ADV,0.5848121643066406,"[{""id"": 796793155, ""node1"": 86296, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+appeler,recette,nsubj:pass,NOUN,0.5619296431541443,[],,
+lequel,banane,nmod,NOUN,0.5005328059196472,[],,
+recette,ajouter,acl:relcl,VERB,0.6382197737693787,"[{""id"": 900099084, ""node1"": 120188, ""node2"": 25099, ""type"": 0, ""w"": 20.0}, {""id"": 428901977, ""node1"": 120188, ""node2"": 25099, ""type"": 30, ""w"": 34.0}]",r_lieu_action,34.0
+recette,autre,amod,ADJ,0.6219144463539124,[],,
+pouvoir,recette,nsubj,NOUN,0.6082739233970642,[],,
+fruit,autre,amod,ADJ,0.5194652080535889,[],,
+contenir,fruit,obj,NOUN,0.4867406189441681,"[{""id"": 531930995, ""node1"": 34519, ""node2"": 87286, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+fruit,légume,appos,NOUN,0.5851786732673645,"[{""id"": 205487, ""node1"": 87286, ""node2"": 120603, ""type"": 0, ""w"": 160.0}, {""id"": 1725779, ""node1"": 87286, ""node2"": 120603, ""type"": 7, ""w"": 41.0}, {""id"": 242780071, ""node1"": 87286, ""node2"": 120603, ""type"": 8, ""w"": 26.0}, {""id"": 1032955007, ""node1"": 87286, ""node2"": 120603, ""type"": 78, ""w"": 38.0}]",r_associated,160.0
+fruit,citrouille,appos,NOUN,0.5445699691772461,"[{""id"": 10577350, ""node1"": 87286, ""node2"": 25326, ""type"": 0, ""w"": 60.0}, {""id"": 9627912, ""node1"": 87286, ""node2"": 25326, ""type"": 8, ""w"": 27.0}, {""id"": 15173510, ""node1"": 87286, ""node2"": 25326, ""type"": 27, ""w"": -29.0}]",r_associated,60.0
+patate,doux,amod,ADJ,0.5362724661827087,[],,
+servir,dessert,nsubj:pass,NOUN,0.598185658454895,"[{""id"": 15082569, ""node1"": 7888, ""node2"": 38557, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+plat,Indonésie,nsubj,PROPN,0.5984954833984375,[],,
+plat,populaire,amod,ADJ,0.5941116809844971,"[{""id"": 93507628, ""node1"": 36327, ""node2"": 19960, ""type"": 17, ""w"": 40.0}]",r_carac,40.0
+plat,rupture,appos,NOUN,0.583112359046936,[],,

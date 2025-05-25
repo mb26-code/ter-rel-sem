@@ -1,0 +1,54 @@
+node1,node2,relations
+blanc,maison,[]
+titre,ingrédient,[]
+titre,beurre,[]
+titre,sucre,[]
+sucre,poivre,"[{""id"": 101145, ""node1"": 139481, ""node2"": 139597, ""type"": 0, ""w"": 60.0}]"
+poivre,blanc,"[{""id"": 3192371, ""node1"": 139597, ""node2"": 15196, ""type"": 106, ""w"": 1.0}]"
+blanc,sel,"[{""id"": 2042147, ""node1"": 15196, ""node2"": 13260, ""type"": 0, ""w"": 62.0}, {""id"": 24930573, ""node1"": 15196, ""node2"": 13260, ""type"": 23, ""w"": 30.0}]"
+sel,oignon,[]
+oignon,carotte,[]
+oignon,porc,[]
+oignon,lait,[]
+lait,bouquet,[]
+bouquet,garni,[]
+lait,oeuf,"[{""id"": 920038083, ""node1"": 86296, ""node2"": 116175, ""type"": 0, ""w"": 21.0}, {""id"": 385498014, ""node1"": 86296, ""node2"": 116175, ""type"": 8, ""w"": -25.0}]"
+oeuf,fécule,[]
+lait,pain,"[{""id"": 386065405, ""node1"": 86296, ""node2"": 61283, ""type"": 6, ""w"": -25.0}, {""id"": 97056196, ""node1"": 86296, ""node2"": 61283, ""type"": 78, ""w"": 35.0}]"
+titre,couteau,[]
+couteau,cuillère,"[{""id"": 116903, ""node1"": 32610, ""node2"": 51905, ""type"": 0, ""w"": 80.0}, {""id"": 539956577, ""node1"": 32610, ""node2"": 51905, ""type"": 25, ""w"": -25.0}]"
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,mixeur,[]
+balance,cuisine,[]
+titre,étape,[]
+bouillir,lait,"[{""id"": 797436792, ""node1"": 42401, ""node2"": 86296, ""type"": 0, ""w"": 28.0}, {""id"": 153576, ""node1"": 42401, ""node2"": 86296, ""type"": 14, ""w"": 160.0}, {""id"": 352516472, ""node1"": 42401, ""node2"": 86296, ""type"": 31, ""w"": 29.0}]"
+minute,carotte,[]
+cuire,le,[]
+eau,tiède,"[{""id"": 796965917, ""node1"": 65012, ""node2"": 13843, ""type"": 0, ""w"": 29.0}, {""id"": 128780, ""node1"": 65012, ""node2"": 13843, ""type"": 17, ""w"": 73.0}, {""id"": 600063832, ""node1"": 65012, ""node2"": 13843, ""type"": 27, ""w"": 32.0}]"
+mie,pain,"[{""id"": 377332, ""node1"": 37905, ""node2"": 61283, ""type"": 0, ""w"": 145.0}, {""id"": 96639071, ""node1"": 37905, ""node2"": 61283, ""type"": 3, ""w"": 26.0}, {""id"": 96639075, ""node1"": 37905, ""node2"": 61283, ""type"": 6, ""w"": 48.0}, {""id"": 9985753, ""node1"": 37905, ""node2"": 61283, ""type"": 10, ""w"": 48.0}, {""id"": 11358396, ""node1"": 37905, ""node2"": 61283, ""type"": 15, ""w"": 38.0}, {""id"": 25183388, ""node1"": 37905, ""node2"": 61283, ""type"": 35, ""w"": 52.0}, {""id"": 376051245, ""node1"": 37905, ""node2"": 61283, ""type"": 51, ""w"": 29.0}, {""id"": 979307703, ""node1"": 37905, ""node2"": 61283, ""type"": 666, ""w"": 2.0}]"
+mie,lait,[]
+mélanger,tout,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]"
+cube,petit,[]
+ajouter,cube,[]
+cube,foie,[]
+foie,gras,"[{""id"": 102370, ""node1"": 115155, ""node2"": 56362, ""type"": 0, ""w"": 70.0}, {""id"": 157174, ""node1"": 115155, ""node2"": 56362, ""type"": 17, ""w"": 61.0}, {""id"": 1764999, ""node1"": 115155, ""node2"": 56362, ""type"": 666, ""w"": 1.0}]"
+importer,truffe,[]
+truffe,champignon,"[{""id"": 159932, ""node1"": 40545, ""node2"": 25484, ""type"": 0, ""w"": 178.0}, {""id"": 476119, ""node1"": 40545, ""node2"": 25484, ""type"": 3, ""w"": 31.0}, {""id"": 566623, ""node1"": 40545, ""node2"": 25484, ""type"": 5, ""w"": 81.0}, {""id"": 1780042, ""node1"": 40545, ""node2"": 25484, ""type"": 6, ""w"": 227.0}, {""id"": 264476, ""node1"": 40545, ""node2"": 25484, ""type"": 8, ""w"": -55.0}, {""id"": 23169017, ""node1"": 40545, ""node2"": 25484, ""type"": 35, ""w"": 80.0}, {""id"": 1766634, ""node1"": 40545, ""node2"": 25484, ""type"": 666, ""w"": 4.0}]"
+champignon,cuire,"[{""id"": 71845634, ""node1"": 25484, ""node2"": 5115, ""type"": 26, ""w"": 2.0}]"
+cuire,herbe,[]
+douceur,autre,[]
+douceur,petit,[]
+douceur,envie,"[{""id"": 28360012, ""node1"": 26173, ""node2"": 146357, ""type"": 32, ""w"": 155.0}]"
+poussoir,préparer,[]
+préparer,boudin,[]
+eau,saler,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]"
+eau,degré,"[{""id"": 1030686456, ""node1"": 65012, ""node2"": 121359, ""type"": 0, ""w"": 21.0}]"
+eau,c,[]
+eau,légume,"[{""id"": 9976378, ""node1"": 65012, ""node2"": 120603, ""type"": 10, ""w"": 29.0}]"
+servir,qui,[]
+légume,servir,[]
+pouvoir,lait,[]
+légume,pouvoir,[]
+eau,glacé,"[{""id"": 1012291986, ""node1"": 65012, ""node2"": 39487, ""type"": 0, ""w"": 26.0}, {""id"": 243006, ""node1"": 65012, ""node2"": 39487, ""type"": 17, ""w"": 70.0}]"
+rester,boudin,[]
+eau,rester,[]

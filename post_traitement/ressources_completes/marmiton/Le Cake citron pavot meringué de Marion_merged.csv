@@ -1,0 +1,61 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+citron,Cake,nsubj,PROPN,0.4373799860477447,[],,
+ajouter,citron,nsubj,NOUN,0.6159152984619141,"[{""id"": 373014912, ""node1"": 25099, ""node2"": 15386, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+citron,pavot,amod,NOUN,0.5583941340446472,[],,
+citron,Marion,nmod,PROPN,0.4906933009624481,[],,
+Marion,ingrédient,nmod,NOUN,0.4298599064350128,[],,
+Marion,sucre,appos,NOUN,0.5731981992721558,[],,
+sucre,levure,nmod,NOUN,0.6511401534080505,[],,
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+levure,beurre,amod,NOUN,0.6823499798774719,[],,
+beurre,graine,nmod,NOUN,0.6855355501174927,[],,
+oeuf,citron,nmod,NOUN,0.6038509607315063,"[{""id"": 53737936, ""node1"": 116175, ""node2"": 15386, ""type"": 0, ""w"": 44.0}, {""id"": 53614845, ""node1"": 116175, ""node2"": 15386, ""type"": 5, ""w"": 74.0}]",r_syn,74.0
+citron,crème,nmod,NOUN,0.6493263244628906,[],,
+crème,liquide,amod,ADJ,0.6173139810562134,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]",r_carac,52.0
+citron,amande,nmod,NOUN,0.5932424068450928,[],,
+amande,poudre,nmod,NOUN,0.5705900192260742,[],,
+poudre,sucre,nmod,NOUN,0.6670448184013367,"[{""id"": 164227, ""node1"": 139470, ""node2"": 139481, ""type"": 0, ""w"": 155.0}, {""id"": 214721, ""node1"": 139470, ""node2"": 139481, ""type"": 8, ""w"": 133.0}, {""id"": 170999, ""node1"": 139470, ""node2"": 139481, ""type"": 9, ""w"": 60.0}, {""id"": 144242, ""node1"": 139470, ""node2"": 139481, ""type"": 10, ""w"": 21.0}, {""id"": 1782940, ""node1"": 139470, ""node2"": 139481, ""type"": 666, ""w"": 3.0}]",r_associated,155.0
+sucre,blanc,amod,NOUN,0.6460319757461548,"[{""id"": 105091, ""node1"": 139481, ""node2"": 15196, ""type"": 0, ""w"": 310.0}, {""id"": 182246, ""node1"": 139481, ""node2"": 15196, ""type"": 17, ""w"": 274.0}, {""id"": 3161632, ""node1"": 139481, ""node2"": 15196, ""type"": 106, ""w"": 60.0}]",r_associated,310.0
+blanc,oeuf,nmod,NOUN,0.5395181179046631,"[{""id"": 215721, ""node1"": 15196, ""node2"": 116175, ""type"": 0, ""w"": 84.0}, {""id"": 31299415, ""node1"": 15196, ""node2"": 116175, ""type"": 3, ""w"": 32.0}, {""id"": 76136326, ""node1"": 15196, ""node2"": 116175, ""type"": 10, ""w"": 26.0}, {""id"": 373603, ""node1"": 15196, ""node2"": 116175, ""type"": 23, ""w"": 110.0}, {""id"": 91492401, ""node1"": 15196, ""node2"": 116175, ""type"": 35, ""w"": 54.0}]",r_carac-1,110.0
+sucre,batteur,nmod,NOUN,0.6385247111320496,[],,
+batteur,électrique,amod,ADJ,0.4791879951953888,[],,
+batteur,four,nmod,NOUN,0.6559646129608154,[],,
+four,poche,nmod,NOUN,0.6448613405227661,[],,
+Spatule,bol,nmod,NOUN,0.5239806175231934,[],,
+bol,douille,nmod,NOUN,0.5334600210189819,[],,
+bol,millimètre,nmod,NOUN,0.5052304863929749,[],,
+bol,balance,nmod,NOUN,0.5318400859832764,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+sucre,bol,nmod,NOUN,0.6402907371520996,[],,
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+mélanger,poudre,obj,NOUN,0.6086491346359253,[],,
+poudre,amande,nmod,NOUN,0.5705900192260742,[],,
+récipient,autre,amod,ADJ,0.5531802773475647,[],,
+poudre,récipient,nmod,NOUN,0.645015299320221,[],,
+ajouter,oeuf,obj,NOUN,0.5327831506729126,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+aide,batteur,nmod,NOUN,0.4353012144565582,[],,
+obtenir,mélange,obj,NOUN,0.4783641993999481,[],,
+mélange,mousseux,amod,ADJ,0.5410990118980408,[],,
+Ajoutez,farine,obj,NOUN,0.5776846408843994,[],,
+poudre,mélange,nmod,NOUN,0.6193395256996155,"[{""id"": 83316342, ""node1"": 139470, ""node2"": 14800, ""type"": 6, ""w"": 27.0}]",r_isa,27.0
+mélange,précédent,amod,ADJ,0.4784136712551117,[],,
+ajouter,zeste,obj,NOUN,0.4997840821743011,[],,
+zeste,citron,nmod,NOUN,0.5487085580825806,"[{""id"": 615058522, ""node1"": 98173, ""node2"": 15386, ""type"": 0, ""w"": 22.0}, {""id"": 9991099, ""node1"": 98173, ""node2"": 15386, ""type"": 10, ""w"": 4.0}, {""id"": 377014851, ""node1"": 98173, ""node2"": 15386, ""type"": 20, ""w"": 34.0}, {""id"": 986046177, ""node1"": 98173, ""node2"": 15386, ""type"": 666, ""w"": 2.0}]",r_has_magn,34.0
+fondre,beurre,nsubj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+fondre,crème,obj,NOUN,0.6380372643470764,"[{""id"": 28709235, ""node1"": 16480, ""node2"": 44001, ""type"": 13, ""w"": 30.0}]",r_agent,30.0
+graine,pavot,nmod,NOUN,0.5150704383850098,"[{""id"": 403056876, ""node1"": 14469, ""node2"": 60454, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+zeste,bleu,acl,ADJ,0.5006589889526367,[],,
+bleu,degré,nmod,NOUN,0.4283694326877594,[],,
+Laissez,cake,nsubj,NOUN,0.5143651962280273,[],,
+cake,refroidir,acl,VERB,0.5723435878753662,[],,
+préparer,meringue,obj,NOUN,0.5881333947181702,"[{""id"": 34300503, ""node1"": 36246, ""node2"": 142350, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+blanc,neige,nmod,NOUN,0.4736866652965545,"[{""id"": 116991, ""node1"": 15196, ""node2"": 3699, ""type"": 0, ""w"": 509.77}, {""id"": 117866, ""node1"": 15196, ""node2"": 3699, ""type"": 23, ""w"": 320.0}, {""id"": 1622496, ""node1"": 15196, ""node2"": 3699, ""type"": 666, ""w"": 12.0}]",r_associated,509.77
+être,ferme,amod,ADJ,0.4013052582740783,[],,
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+sucre,fois,nmod,NOUN,0.6470077633857727,[],,
+brillant,mélange,nsubj,NOUN,0.5115044713020325,[],,
+utiliser,spatule,obj,NOUN,0.4993833899497986,[],,
+aide,faire,acl,VERB,0.4312484562397003,[],,
+dorer,meringue,obj,NOUN,0.5900641083717346,[],,
+four,220,nmod,NUM,0.4830725789070129,[],,

@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+pâte,tomate,nmod,NOUN,0.6880875825881958,"[{""id"": 651002091, ""node1"": 34069, ""node2"": 22138, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+tomate,sécher,acl,ADJ,0.6565603017807007,"[{""id"": 421761208, ""node1"": 22138, ""node2"": 56038, ""type"": 0, ""w"": 1.0}, {""id"": 758065756, ""node1"": 22138, ""node2"": 56038, ""type"": 24, ""w"": 30.0}]",r_agent-1,30.0
+pâte,ingrédient,nmod,NOUN,0.6811284422874451,"[{""id"": 24920568, ""node1"": 34069, ""node2"": 123418, ""type"": 6, ""w"": 17.0}]",r_isa,17.0
+pâte,pesto,appos,NOUN,0.6702281832695007,[],,
+pesto,tomate,nmod,NOUN,0.6282111406326294,[],,
+pesto,sécher,acl,VERB,0.6341267824172974,[],,
+pesto,top,nmod,NOUN,0.4972236752510071,[],,
+bol,cuillère,nmod,NOUN,0.5572551488876343,"[{""id"": 1046576301, ""node1"": 145405, ""node2"": 51905, ""type"": 8, ""w"": 20.0}]",r_hypo,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+pesto,casserole,nmod,NOUN,0.6882122755050659,[],,
+casserole,saladier,nmod,NOUN,0.6254573464393616,[],,
+pesto,cuire,acl,VERB,0.764178454875946,[],,
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+volume,grand,amod,ADJ,0.4097053706645965,"[{""id"": 2183077, ""node1"": 130885, ""node2"": 23178, ""type"": 0, ""w"": 61.0}]",r_associated,61.0
+volume,eau,nmod,NOUN,0.5477495789527893,"[{""id"": 30986586, ""node1"": 130885, ""node2"": 65012, ""type"": 0, ""w"": 35.0}, {""id"": 30984090, ""node1"": 130885, ""node2"": 65012, ""type"": 3, ""w"": 30.0}]",r_associated,35.0
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+pâte,temps,nmod,NOUN,0.6626912355422974,[],,
+bol,pesto,nmod,NOUN,0.6201736330986023,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+cuire,lui,nsubj:pass,PRON,0.6200059056282043,[],,
+pâte,cuire,acl:relcl,VERB,0.7488689422607422,"[{""id"": 987166482, ""node1"": 34069, ""node2"": 5115, ""type"": 25, ""w"": -25.0}, {""id"": 96931380, ""node1"": 34069, ""node2"": 5115, ""type"": 26, ""w"": 32.0}]",r_patient-1,32.0
+ajouter,mélange,obj,NOUN,0.5318974852561951,[],,
+mélange,tomate,nmod,NOUN,0.6883617639541626,"[{""id"": 246259412, ""node1"": 14800, ""node2"": 22138, ""type"": 8, ""w"": 29.0}]",r_hypo,29.0
+pesto,mozzarella,nmod,ADJ,0.5639965534210205,[],,
+mélanger,réchauffer,advcl,VERB,0.5872611999511719,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+réchauffer,minute,obj,NOUN,0.5183343887329102,[],,

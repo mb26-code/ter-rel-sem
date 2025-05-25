@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+légume,ingrédient,nmod,NOUN,0.6797090172767639,[],,
+yaourt,tomate,nmod,NOUN,0.6389347314834595,[],,
+yaourt,lait,nmod,NOUN,0.5797099471092224,"[{""id"": 120512, ""node1"": 82320, ""node2"": 86296, ""type"": 0, ""w"": 137.0}, {""id"": 31177905, ""node1"": 82320, ""node2"": 86296, ""type"": 3, ""w"": 38.0}, {""id"": 24419596, ""node1"": 82320, ""node2"": 86296, ""type"": 6, ""w"": 245.0}, {""id"": 385497931, ""node1"": 82320, ""node2"": 86296, ""type"": 8, ""w"": -25.0}, {""id"": 274167920, ""node1"": 82320, ""node2"": 86296, ""type"": 9, ""w"": 17.0}, {""id"": 413715, ""node1"": 82320, ""node2"": 86296, ""type"": 21, ""w"": 84.0}, {""id"": 10638507, ""node1"": 82320, ""node2"": 86296, ""type"": 50, ""w"": 35.0}, {""id"": 1046682595, ""node1"": 82320, ""node2"": 86296, ""type"": 54, ""w"": 20.0}, {""id"": 1865773, ""node1"": 82320, ""node2"": 86296, ""type"": 666, ""w"": 29.0}]",r_isa,245.0
+lait,coco,acl,ADV,0.5941302180290222,"[{""id"": 796793155, ""node1"": 86296, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+curry,crème,nmod,NOUN,0.7014504671096802,[],,
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+crème,épais,amod,ADJ,0.5873329043388367,[],,
+curry,casserole,nmod,NOUN,0.7548949122428894,[],,
+casserole,cuillère,nmod,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+fondre,oignon,obj,NOUN,0.6370865702629089,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+ajouter,curry,obj,NOUN,0.6705759763717651,"[{""id"": 31845118, ""node1"": 25099, ""node2"": 82813, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+curry,suivre,acl,VERB,0.6361330151557922,[],,
+coco,petit,amod,ADJ,0.5976722240447998,"[{""id"": 1042426732, ""node1"": 145904, ""node2"": 55222, ""type"": 0, ""w"": 5.0}]",r_associated,5.0
+laisser,mijoter,obj,VERB,0.5789923667907715,[],,
+laisser,dizaine,obj,NOUN,0.4033926129341125,[],,
+minute,feu,nmod,NOUN,0.5576279163360596,[],,
+ajouter,julienne,obj,NOUN,0.4330181777477264,[],,
+julienne,légume,nmod,NOUN,0.583620548248291,"[{""id"": 88952329, ""node1"": 139629, ""node2"": 120603, ""type"": 0, ""w"": 47.0}, {""id"": 1051933443, ""node1"": 139629, ""node2"": 120603, ""type"": 3, ""w"": 20.0}, {""id"": 24951902, ""node1"": 139629, ""node2"": 120603, ""type"": 35, ""w"": 45.0}, {""id"": 993690668, ""node1"": 139629, ""node2"": 120603, ""type"": 666, ""w"": 2.0}]",r_associated,47.0
+fonction,nature,nmod,NOUN,0.4181860983371734,[],,
+nature,julienne,nmod,NOUN,0.4440670013427734,[],,
+congeler,légume,nsubj:pass,NOUN,0.6663637757301331,"[{""id"": 157701, ""node1"": 54684, ""node2"": 120603, ""type"": 14, ""w"": 100.0}]",r_patient,100.0

@@ -1,0 +1,30 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+mettre,titre,nsubj,NOUN,0.4057502150535583,[],,
+titre,beurre,appos,NOUN,0.598003089427948,[],,
+beurre,pomme,nmod,NOUN,0.6986082196235657,[],,
+beurre,ingrédient,nmod,NOUN,0.7321043014526367,"[{""id"": 9665895, ""node1"": 140377, ""node2"": 123418, ""type"": 0, ""w"": 52.0}, {""id"": 506031, ""node1"": 140377, ""node2"": 123418, ""type"": 3, ""w"": 60.0}, {""id"": 1577875, ""node1"": 140377, ""node2"": 123418, ""type"": 6, ""w"": 78.0}, {""id"": 3978561, ""node1"": 140377, ""node2"": 123418, ""type"": 777, ""w"": 10.0}]",r_isa,78.0
+pomme,sirop,amod,NOUN,0.6552410125732422,"[{""id"": 914970045, ""node1"": 37201, ""node2"": 91109, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+pomme,huile,amod,NOUN,0.6486644148826599,[],,
+jus,coco,amod,ADV,0.6170136332511902,[],,
+pomme,jus,nmod,NOUN,0.6033669710159302,"[{""id"": 379398, ""node1"": 37201, ""node2"": 53310, ""type"": 0, ""w"": 111.0}, {""id"": 96711587, ""node1"": 37201, ""node2"": 53310, ""type"": 9, ""w"": 32.0}, {""id"": 174472, ""node1"": 37201, ""node2"": 53310, ""type"": 21, ""w"": 70.0}, {""id"": 675187656, ""node1"": 37201, ""node2"": 53310, ""type"": 666, ""w"": 4.0}]",r_associated,111.0
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+casserole,mixeur,nmod,NOUN,0.61752849817276,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+titre,pomme,nmod,NOUN,0.5443057417869568,[],,
+titre,couper,advcl,VERB,0.4430274069309234,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+mettre,ingrédient,obj,NOUN,0.5923328399658203,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+minute,mélanger,acl,VERB,0.5259966850280762,[],,
+mettre,aide,obj,NOUN,0.4011379182338714,[],,
+aide,mixeur,nmod,NOUN,0.4959516227245331,[],,
+mixeur,plonger,acl,VERB,0.5584041476249695,[],,
+aide,mixer,acl,VERB,0.5045920014381409,[],,
+mixer,obtenir,advcl,VERB,0.4837474822998047,[],,
+obtenir,texture,obj,NOUN,0.4454701244831085,[],,
+texture,lisse,amod,ADJ,0.4609699249267578,"[{""id"": 723393758, ""node1"": 4910, ""node2"": 140074, ""type"": 0, ""w"": 28.0}, {""id"": 31122166, ""node1"": 4910, ""node2"": 140074, ""type"": 17, ""w"": 23.0}, {""id"": 651212844, ""node1"": 4910, ""node2"": 140074, ""type"": 666, ""w"": 5.0}]",r_associated,28.0
+laisser,préparation,obj,NOUN,0.4896920621395111,[],,
+préparation,refroidir,acl,VERB,0.5895336270332336,"[{""id"": 601611659, ""node1"": 33634, ""node2"": 126973, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+refroidir,conserver,advcl,VERB,0.4953301250934601,[],,
+pot,confiture,nmod,NOUN,0.529536783695221,"[{""id"": 415003513, ""node1"": 142367, ""node2"": 70793, ""type"": 0, ""w"": 28.0}, {""id"": 775213335, ""node1"": 142367, ""node2"": 70793, ""type"": 174, ""w"": 25.0}, {""id"": 1769589, ""node1"": 142367, ""node2"": 70793, ""type"": 666, ""w"": 2.0}, {""id"": 7861094, ""node1"": 142367, ""node2"": 70793, ""type"": 777, ""w"": 10.0}]",r_associated,28.0

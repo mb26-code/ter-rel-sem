@@ -1,0 +1,43 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+champignon,noir,amod,ADJ,0.4971755743026733,"[{""id"": 560976590, ""node1"": 25484, ""node2"": 64238, ""type"": 0, ""w"": 48.0}, {""id"": 3165939, ""node1"": 25484, ""node2"": 64238, ""type"": 106, ""w"": 1.0}]",r_associated,48.0
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,oignon,appos,NOUN,0.6626235842704773,"[{""id"": 24923430, ""node1"": 123418, ""node2"": 123307, ""type"": 0, ""w"": 15.0}, {""id"": 24850729, ""node1"": 123418, ""node2"": 123307, ""type"": 8, ""w"": 28.0}]",r_hypo,28.0
+oignon,champignon,nmod,NOUN,0.6102637052536011,[],,
+oignon,poitrine,nmod,NOUN,0.5837197303771973,[],,
+poitrine,porc,nmod,NOUN,0.5834373235702515,[],,
+saladier,étape,nmod,NOUN,0.5214974880218506,[],,
+carotte,finement,amod,ADV,0.563348114490509,[],,
+presser,carotte,obj,NOUN,0.559866726398468,[],,
+retirer,jus,obj,NOUN,0.5681401491165161,[],,
+chose,même,amod,ADJ,0.442503809928894,"[{""id"": 102032118, ""node1"": 109527, ""node2"": 146381, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+faire,chose,obj,NOUN,0.5007479786872864,"[{""id"": 14656884, ""node1"": 87528, ""node2"": 109527, ""type"": 41, ""w"": 30.0}]",r_has_conseq,30.0
+garder,jus,obj,NOUN,0.574667751789093,[],,
+sec,farce,nsubj,NOUN,0.574612021446228,[],,
+couper,oignon,obj,NOUN,0.596168577671051,"[{""id"": 435065584, ""node1"": 128828, ""node2"": 123307, ""type"": 0, ""w"": 29.0}, {""id"": 31770866, ""node1"": 128828, ""node2"": 123307, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+mettre,porc,obj,NOUN,0.6440984606742859,[],,
+saladier,grand,amod,ADJ,0.534858763217926,"[{""id"": 1077330492, ""node1"": 45455, ""node2"": 23178, ""type"": 0, ""w"": 50.0}, {""id"": 31838076, ""node1"": 45455, ""node2"": 23178, ""type"": 17, ""w"": 60.0}, {""id"": 1668931, ""node1"": 45455, ""node2"": 23178, ""type"": 666, ""w"": 2.0}]",r_carac,60.0
+ajouter,sauce,obj,NOUN,0.6714595556259155,[],,
+sauce,poisson,nmod,NOUN,0.757826030254364,"[{""id"": 651264131, ""node1"": 141110, ""node2"": 68467, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+chair,crabe,nmod,NOUN,0.5564223527908325,"[{""id"": 2183304, ""node1"": 61835, ""node2"": 132425, ""type"": 0, ""w"": 55.0}, {""id"": 9985356, ""node1"": 61835, ""node2"": 132425, ""type"": 10, ""w"": 4.0}]",r_associated,55.0
+chair,égoutter,acl,VERB,0.559231162071228,[],,
+mélanger,tout,obj,NOUN,0.528428852558136,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]",r_patient,110.0
+conserver,farce,obj,NOUN,0.5731894969940186,[],,
+farce,frais,nmod,NOUN,0.5561272501945496,[],,
+couper,feuille,obj,NOUN,0.4969625771045685,"[{""id"": 8905022, ""node1"": 128828, ""node2"": 37993, ""type"": 14, ""w"": 6.0}]",r_patient,6.0
+feuille,blé,nmod,NOUN,0.5619426965713501,[],,
+couper,obtenir,advcl,VERB,0.4167777895927429,[],,
+carré,petit,amod,ADJ,0.4807125926017761,"[{""id"": 133945, ""node1"": 22120, ""node2"": 55222, ""type"": 17, ""w"": 70.0}]",r_carac,70.0
+obtenir,carré,obj,ADJ,0.4228430092334747,[],,
+décoller,feuille,obj,NOUN,0.470688909292221,[],,
+une,autre,nmod,ADJ,0.4146150648593902,[],,
+sac,fermer,acl,VERB,0.439386785030365,"[{""id"": 905980850, ""node1"": 40635, ""node2"": 24346, ""type"": 0, ""w"": 20.0}, {""id"": 12983235, ""node1"": 40635, ""node2"": 24346, ""type"": 25, ""w"": 61.0}, {""id"": 97739044, ""node1"": 40635, ""node2"": 24346, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+sécher,feuille,nsubj,NOUN,0.547785758972168,[],,
+battre,œuf,obj,NOUN,0.5265821218490601,[],,
+œuf,omelette,nmod,NOUN,0.5413764119148254,"[{""id"": 1689603, ""node1"": 174124, ""node2"": 45481, ""type"": 0, ""w"": 196.0}, {""id"": 645787513, ""node1"": 174124, ""node2"": 45481, ""type"": 666, ""w"": 2.0}]",r_associated,196.0
+œuf,battre,acl,VERB,0.5265821218490601,[],,
+pointe,galette,nmod,NOUN,0.5499079823493958,[],,
+mettre,trop,obj,ADV,0.4107872247695923,[],,
+papier,cuisson,nmod,NOUN,0.6981122493743896,[],,
+repasser,manger,advcl,VERB,0.5463799238204956,[],,
+repasser,dorer,advcl,VERB,0.5009568333625793,[],,

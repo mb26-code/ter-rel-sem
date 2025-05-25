@@ -1,0 +1,21 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,fleur,nmod,NOUN,0.4749987721443176,[],,
+farine,beurre,appos,NOUN,0.7180377840995789,"[{""id"": 423997331, ""node1"": 127629, ""node2"": 140377, ""type"": 0, ""w"": 3.0}]",r_associated,3.0
+beurre,huile,amod,NOUN,0.6866295337677002,"[{""id"": 96653767, ""node1"": 140377, ""node2"": 141971, ""type"": 0, ""w"": 48.0}, {""id"": 376996264, ""node1"": 140377, ""node2"": 141971, ""type"": 21, ""w"": 32.0}, {""id"": 1032956769, ""node1"": 140377, ""node2"": 141971, ""type"": 78, ""w"": 29.0}]",r_associated,48.0
+rhum,sucre,amod,NOUN,0.6000760197639465,"[{""id"": 2557607, ""node1"": 129154, ""node2"": 139481, ""type"": 0, ""w"": 31.0}, {""id"": 1046683034, ""node1"": 129154, ""node2"": 139481, ""type"": 51, ""w"": 20.0}, {""id"": 1046682301, ""node1"": 129154, ""node2"": 139481, ""type"": 54, ""w"": 20.0}, {""id"": 991133906, ""node1"": 129154, ""node2"": 139481, ""type"": 666, ""w"": 3.0}]",r_associated,31.0
+sucre,fin,amod,NOUN,0.6024554371833801,"[{""id"": 277257, ""node1"": 139481, ""node2"": 144718, ""type"": 17, ""w"": 107.0}]",r_carac,107.0
+sucre,fleur,nmod,NOUN,0.654744029045105,[],,
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+grappe,fleur,nmod,NOUN,0.4345635771751404,"[{""id"": 1582172, ""node1"": 75549, ""node2"": 28985, ""type"": 8, ""w"": -50.0}]",r_hypo,-50.0
+grappe,gramme,nmod,NOUN,0.4120975136756897,[],,
+gramme,sucre,nmod,NOUN,0.6024630069732666,"[{""id"": 720818120, ""node1"": 140383, ""node2"": 139481, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+filet,farine,nsubj,NOUN,0.6902673840522766,[],,
+filet,mince,amod,ADJ,0.4922100901603699,"[{""id"": 418104294, ""node1"": 42188, ""node2"": 87702, ""type"": 0, ""w"": 13.0}, {""id"": 107362204, ""node1"": 42188, ""node2"": 87702, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
+devoir,pâte,nsubj,NOUN,0.6336450576782227,[],,
+chauffer,huile,obj,NOUN,0.64256751537323,[],,
+grappe,pâte,nmod,NOUN,0.584817111492157,[],,
+égoutter,seconde,obj,NOUN,0.4947220981121063,[],,
+papier,absorber,acl,VERB,0.4968288838863373,[],,

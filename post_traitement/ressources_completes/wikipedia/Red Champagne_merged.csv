@@ -1,0 +1,41 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+sorte,Champagne,nsubj,PROPN,0.4744839072227478,[],,
+titre,sorte,nmod,NOUN,0.4432049095630646,[],,
+sorte,boisson,nmod,NOUN,0.6018007397651672,[],,
+boisson,gazeux,amod,ADJ,0.4788835942745209,"[{""id"": 2171535, ""node1"": 113547, ""node2"": 12162, ""type"": 17, ""w"": 35.0}, {""id"": 2470088, ""node1"": 113547, ""node2"": 12162, ""type"": 666, ""w"": 1.0}]",r_carac,35.0
+sorte,vendre,acl,VERB,0.4655169248580932,[],,
+vendre,caisse,nsubj:pass,NOUN,0.413193017244339,[],,
+créer,boisson,nsubj:pass,NOUN,0.5084357261657715,[],,
+sorte,expérimentation,nmod,NOUN,0.4750975370407104,[],,
+sorte,vue,nmod,NOUN,0.4108720421791076,[],,
+continuer,production,obj,NOUN,0.4403576552867889,[],,
+production,ouvrir,acl,VERB,0.4139006733894348,[],,
+connaître,boisson,nsubj,NOUN,0.5801935791969299,[],,
+expansion,grand,amod,ADJ,0.4159889221191406,[],,
+vendre,boisson,nsubj:pass,NOUN,0.5323663949966431,[],,
+rester,fierté,nsubj,NOUN,0.4014000296592712,[],,
+vente,boisson,nmod,NOUN,0.5000185370445251,[],,
+commerce,restaurant,appos,NOUN,0.4866169393062591,"[{""id"": 10575158, ""node1"": 49615, ""node2"": 79954, ""type"": 0, ""w"": 306.0}, {""id"": 9622097, ""node1"": 49615, ""node2"": 79954, ""type"": 8, ""w"": 68.0}, {""id"": 1044508450, ""node1"": 49615, ""node2"": 79954, ""type"": 27, ""w"": 32.0}]",r_associated,306.0
+commerce,région,nmod,NOUN,0.4507996141910553,"[{""id"": 11357238, ""node1"": 49615, ""node2"": 132350, ""type"": 15, ""w"": 38.0}]",r_lieu,38.0
+comporte,mélange,obj,NOUN,0.504202663898468,[],,
+mélange,saveur,nmod,NOUN,0.6499841809272766,"[{""id"": 976479559, ""node1"": 14800, ""node2"": 71872, ""type"": 666, ""w"": 3.0}]",r_aki,3.0
+saveur,différent,amod,ADJ,0.5782973170280457,[],,
+nectar,dont,nmod,PRON,0.4697529673576355,[],,
+mélange,nectar,acl:relcl,NOUN,0.5325283408164978,[],,
+cerise,mélanger,acl,VERB,0.5648931860923767,[],,
+crème,soda,nmod,NOUN,0.6050159335136414,[],,
+secret,qui,nsubj,PRON,0.4020478427410126,[],,
+essence,secret,acl:relcl,NOUN,0.4331121146678924,[],,
+secret,garder,acl,VERB,0.4189140498638153,"[{""id"": 387186, ""node1"": 127128, ""node2"": 16087, ""type"": 0, ""w"": 70.0}, {""id"": 261285, ""node1"": 127128, ""node2"": 16087, ""type"": 25, ""w"": 110.0}, {""id"": 15069922, ""node1"": 127128, ""node2"": 16087, ""type"": 26, ""w"": 36.0}]",r_instr-1,110.0
+ingrédient,autre,amod,ADJ,0.5639666318893433,[],,
+eau,ingrédient,nsubj,NOUN,0.6074054837226868,"[{""id"": 75029767, ""node1"": 65012, ""node2"": 123418, ""type"": 6, ""w"": 90.0}]",r_isa,90.0
+eau,sucre,nmod,NOUN,0.6570941805839539,[],,
+sucre,glucose,nmod,NOUN,0.5699440240859985,"[{""id"": 101143, ""node1"": 139481, ""node2"": 18481, ""type"": 0, ""w"": 315.0}, {""id"": 561818, ""node1"": 139481, ""node2"": 18481, ""type"": 5, ""w"": 109.0}, {""id"": 222257, ""node1"": 139481, ""node2"": 18481, ""type"": 8, ""w"": 83.0}, {""id"": 9973436, ""node1"": 139481, ""node2"": 18481, ""type"": 9, ""w"": 28.0}, {""id"": 2511492, ""node1"": 139481, ""node2"": 18481, ""type"": 666, ""w"": 3.0}]",r_associated,315.0
+essence,naturel,amod,ADJ,0.4306777119636535,[],,
+valeur,quotidien,amod,ADJ,0.4407443702220917,[],,
+valeur,sodium,nmod,NOUN,0.5163847208023071,[],,
+rouge,couleur,nsubj,NOUN,0.4709599018096924,"[{""id"": 61348, ""node1"": 86356, ""node2"": 40056, ""type"": 0, ""w"": 542.5}, {""id"": 1051941346, ""node1"": 86356, ""node2"": 40056, ""type"": 3, ""w"": 15.0}, {""id"": 412821, ""node1"": 86356, ""node2"": 40056, ""type"": 6, ""w"": 438.0}, {""id"": 123374, ""node1"": 86356, ""node2"": 40056, ""type"": 23, ""w"": 110.0}, {""id"": 91490301, ""node1"": 86356, ""node2"": 40056, ""type"": 35, ""w"": 288.0}, {""id"": 1556007, ""node1"": 86356, ""node2"": 40056, ""type"": 666, ""w"": 23.0}]",r_associated,542.5
+couleur,boisson,nmod,NOUN,0.5830909013748169,"[{""id"": 1710843, ""node1"": 40056, ""node2"": 113547, ""type"": 6, ""w"": -25.0}]",r_isa,-25.0
+rouge,pâle,amod,ADJ,0.4017757177352905,"[{""id"": 85370293, ""node1"": 86356, ""node2"": 39636, ""type"": 7, ""w"": 28.0}, {""id"": 3142730, ""node1"": 86356, ""node2"": 39636, ""type"": 17, ""w"": 51.0}, {""id"": 3188174, ""node1"": 86356, ""node2"": 39636, ""type"": 106, ""w"": 12.0}]",r_carac,51.0
+rouge,avoir,acl,VERB,0.48562091588974,[],,
+tendance,léger,amod,ADJ,0.4282839000225067,[],,

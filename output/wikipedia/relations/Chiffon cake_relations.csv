@@ -1,0 +1,62 @@
+node1,node2,relations
+gâteau,chiffon,[]
+gâteau,aéré,[]
+gâteau,originaire,[]
+gâteau,confectionner,"[{""id"": 99071071, ""node1"": 2149, ""node2"": 33451, ""type"": 26, ""w"": 44.0}]"
+base,huile,[]
+huile,végétal,"[{""id"": 669880751, ""node1"": 141971, ""node2"": 136507, ""type"": 0, ""w"": 25.0}]"
+œuf,sucre,[]
+gâteau,levure,"[{""id"": 1887020, ""node1"": 2149, ""node2"": 53450, ""type"": 0, ""w"": 29.0}, {""id"": 267603, ""node1"": 2149, ""node2"": 53450, ""type"": 28, ""w"": 99.0}]"
+levure,chimique,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]"
+attribuer,recette,[]
+garder,recette,[]
+recette,secret,"[{""id"": 982543, ""node1"": 120188, ""node2"": 127128, ""type"": 0, ""w"": 28.0}, {""id"": 54688361, ""node1"": 120188, ""node2"": 127128, ""type"": 5, ""w"": 91.0}]"
+diffuser,recette,[]
+recette,support,[]
+ensemble,recette,[]
+recette,chiffon,[]
+utilisation,matière,[]
+matière,gras,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]"
+matière,fluide,"[{""id"": 327535953, ""node1"": 29208, ""node2"": 57625, ""type"": 0, ""w"": 40.0}, {""id"": 497007222, ""node1"": 29208, ""node2"": 57625, ""type"": 41, ""w"": 39.0}]"
+matière,huile,"[{""id"": 798891757, ""node1"": 29208, ""node2"": 141971, ""type"": 0, ""w"": 23.0}, {""id"": 246258247, ""node1"": 29208, ""node2"": 141971, ""type"": 8, ""w"": 30.0}]"
+huile,remplacement,[]
+remplacement,matière,[]
+matière,solide,"[{""id"": 54695029, ""node1"": 29208, ""node2"": 95404, ""type"": 0, ""w"": 46.0}, {""id"": 54669516, ""node1"": 29208, ""node2"": 95404, ""type"": 5, ""w"": 71.0}, {""id"": 76618681, ""node1"": 29208, ""node2"": 95404, ""type"": 17, ""w"": 102.0}, {""id"": 653269125, ""node1"": 29208, ""node2"": 95404, ""type"": 666, ""w"": 2.0}, {""id"": 3284017, ""node1"": 29208, ""node2"": 95404, ""type"": 777, ""w"": 10.0}]"
+permettre,beurre,[]
+obtenir,texture,[]
+texture,moelleux,"[{""id"": 723393754, ""node1"": 4910, ""node2"": 65767, ""type"": 0, ""w"": 26.0}, {""id"": 651212851, ""node1"": 4910, ""node2"": 65767, ""type"": 666, ""w"": 2.0}]"
+réaliser,gâteau,[]
+gâteau,ange,[]
+gâteau,autre,[]
+gâteau,mousseux,[]
+réaliser,battre,[]
+battre,blanc,[]
+blanc,œuf,"[{""id"": 796769193, ""node1"": 15196, ""node2"": 174124, ""type"": 0, ""w"": 28.0}]"
+monter,que,[]
+gâteau,cuisson,"[{""id"": 99071070, ""node1"": 2149, ""node2"": 60056, ""type"": 0, ""w"": 41.0}]"
+moule,tubulaire,[]
+moule,connaître,[]
+nom,moule,[]
+couche,alterner,[]
+recette,original,[]
+papier,cuisson,[]
+gâteau,adhérer,[]
+paroi,moule,[]
+disposer,gâteau,[]
+disposer,lever,"[{""id"": 613698408, ""node1"": 116780, ""node2"": 51683, ""type"": 5, ""w"": -5.0}]"
+support,refroidissement,[]
+support,retourner,[]
+casser,bulle,[]
+casser,conférer,[]
+donne,teneur,[]
+teneur,élevé,[]
+teneur,huile,[]
+donne,gâteau,[]
+gâteau,moelleux,"[{""id"": 796785847, ""node1"": 2149, ""node2"": 65767, ""type"": 0, ""w"": 22.0}, {""id"": 14805921, ""node1"": 2149, ""node2"": 65767, ""type"": 17, ""w"": 41.0}]"
+gâteau,tendance,[]
+faire,gâteau,[]
+gâteau,beurre,"[{""id"": 765567662, ""node1"": 2149, ""node2"": 140377, ""type"": 0, ""w"": 82.0}, {""id"": 267609, ""node1"": 2149, ""node2"": 140377, ""type"": 28, ""w"": 129.0}]"
+beurre,traditionnel,"[{""id"": 607214954, ""node1"": 140377, ""node2"": 41139, ""type"": 0, ""w"": 27.0}]"
+ingrédient,devoir,[]
+crème,pâtissier,"[{""id"": 561269853, ""node1"": 44001, ""node2"": 31618, ""type"": 0, ""w"": 41.0}]"
+crème,glacé,"[{""id"": 14803746, ""node1"": 44001, ""node2"": 39487, ""type"": 17, ""w"": 28.0}]"

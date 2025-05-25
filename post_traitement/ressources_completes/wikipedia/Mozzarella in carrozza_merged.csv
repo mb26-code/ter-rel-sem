@@ -1,0 +1,72 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+restaurant,quartier,nmod,NOUN,0.4119065999984741,"[{""id"": 98271572, ""node1"": 79954, ""node2"": 1055, ""type"": 0, ""w"": 23.0}, {""id"": 98271600, ""node1"": 79954, ""node2"": 1055, ""type"": 10, ""w"": 23.0}, {""id"": 197903, ""node1"": 79954, ""node2"": 1055, ""type"": 15, ""w"": 99.0}]",r_lieu,99.0
+cuire,il,nsubj,PRON,0.4075803458690643,[],,
+restaurant,cuire,acl:relcl,VERB,0.7501504421234131,"[{""id"": 380394999, ""node1"": 79954, ""node2"": 5115, ""type"": 30, ""w"": 28.0}]",r_lieu_action,28.0
+campagne,siècle,nmod,NOUN,0.4202091991901397,[],,
+enfermer,mozzarella,nsubj:pass,NOUN,0.4981169402599334,[],,
+tranche,pain,nmod,NOUN,0.6442369222640991,"[{""id"": 240074, ""node1"": 143123, ""node2"": 61283, ""type"": 0, ""w"": 221.0}, {""id"": 97833247, ""node1"": 143123, ""node2"": 61283, ""type"": 3, ""w"": 10.0}, {""id"": 9992595, ""node1"": 143123, ""node2"": 61283, ""type"": 10, ""w"": 4.0}, {""id"": 97327248, ""node1"": 143123, ""node2"": 61283, ""type"": 35, ""w"": 30.0}, {""id"": 775213283, ""node1"": 143123, ""node2"": 61283, ""type"": 174, ""w"": 25.0}]",r_associated,221.0
+pain,paysan,amod,NOUN,0.5920669436454773,"[{""id"": 14662406, ""node1"": 61283, ""node2"": 19554, ""type"": 42, ""w"": 32.0}]",r_has_causatif,32.0
+pain,rond,amod,ADJ,0.6409684419631958,"[{""id"": 339595158, ""node1"": 61283, ""node2"": 82147, ""type"": 17, ""w"": 30.0}]",r_carac,30.0
+rappeler,roue,obj,NOUN,0.4312799572944641,[],,
+roue,époque,nmod,NOUN,0.4126833975315094,[],,
+lait,transporter,acl,VERB,0.5693386793136597,"[{""id"": 529565351, ""node1"": 86296, ""node2"": 44654, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+faire,qui,nsubj:pass,PRON,0.4499227106571197,"[{""id"": 729891679, ""node1"": 87528, ""node2"": 114890, ""type"": 9, ""w"": -5.0}]",r_has_part,-5.0
+mozzarella,faire,acl:relcl,VERB,0.603020966053009,[],,
+mozzarella,frais,amod,ADJ,0.498960942029953,"[{""id"": 487106942, ""node1"": 120576, ""node2"": 53495, ""type"": 0, ""w"": 2.0}, {""id"": 24435280, ""node1"": 120576, ""node2"": 53495, ""type"": 17, ""w"": 63.0}]",r_carac,63.0
+mozzarella,consommer,acl,VERB,0.6053134799003601,"[{""id"": 487106993, ""node1"": 120576, ""node2"": 97571, ""type"": 0, ""w"": 1.0}, {""id"": 29344076, ""node1"": 120576, ""node2"": 97571, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+créer,plat,nsubj:pass,NOUN,0.5851317048072815,[],,
+utilisation,reste,nmod,NOUN,0.4663843214511871,[],,
+reste,origine,nmod,NOUN,0.4691199958324432,[],,
+mozzarella,devoir,acl:relcl,VERB,0.5087991952896118,[],,
+reposer,utiliser,advcl,VERB,0.4432307481765747,[],,
+rond,mozzarella,nsubj,NOUN,0.5225452780723572,[],,
+forme,rond,advcl,ADJ,0.4906538724899292,"[{""id"": 130227, ""node1"": 142000, ""node2"": 82147, ""type"": 0, ""w"": 131.0}, {""id"": 104215, ""node1"": 142000, ""node2"": 82147, ""type"": 8, ""w"": 113.0}]",r_associated,131.0
+triangulaire,forme,nsubj,NOUN,0.419808566570282,"[{""id"": 9665893, ""node1"": 77404, ""node2"": 142000, ""type"": 0, ""w"": 38.0}, {""id"": 1577586, ""node1"": 77404, ""node2"": 142000, ""type"": 6, ""w"": -70.0}, {""id"": 33100518, ""node1"": 77404, ""node2"": 142000, ""type"": 23, ""w"": 55.0}]",r_carac-1,55.0
+triangulaire,rectangulaire,amod,NOUN,0.4017666280269623,[],,
+composer,plat,nsubj,NOUN,0.5854783058166504,[],,
+tranche,mozzarella,nmod,NOUN,0.5350761413574219,[],,
+tranche,enfermer,acl,VERB,0.4449192881584167,[],,
+pain,mie,nmod,NOUN,0.5755725502967834,"[{""id"": 96115, ""node1"": 61283, ""node2"": 37905, ""type"": 0, ""w"": 547.0}, {""id"": 246259884, ""node1"": 61283, ""node2"": 37905, ""type"": 8, ""w"": 28.0}, {""id"": 416745, ""node1"": 61283, ""node2"": 37905, ""type"": 9, ""w"": 157.0}, {""id"": 98667958, ""node1"": 61283, ""node2"": 37905, ""type"": 27, ""w"": 24.0}, {""id"": 238490, ""node1"": 61283, ""node2"": 37905, ""type"": 28, ""w"": 159.0}, {""id"": 25778962, ""node1"": 61283, ""node2"": 37905, ""type"": 50, ""w"": 51.0}, {""id"": 1832942, ""node1"": 61283, ""node2"": 37905, ""type"": 666, ""w"": 2.0}]",r_associated,547.0
+tranche,faire,acl:relcl,VERB,0.5534298419952393,[],,
+faire,office,obj,NOUN,0.4528534114360809,[],,
+fils,fromage,nmod,NOUN,0.4818282425403595,[],,
+fils,fondre,acl,VERB,0.4417628645896911,[],,
+tremper,qui,nsubj:pass,PRON,0.4952322244644165,[],,
+tremper,tranche,nsubj:pass,NOUN,0.5808001756668091,[],,
+retirer,croûte,nsubj:pass,NOUN,0.5843467116355896,[],,
+croûte,pain,nmod,NOUN,0.6776736378669739,"[{""id"": 1292136, ""node1"": 41851, ""node2"": 61283, ""type"": 0, ""w"": 219.0}, {""id"": 98282562, ""node1"": 41851, ""node2"": 61283, ""type"": 3, ""w"": 26.0}, {""id"": 9985754, ""node1"": 41851, ""node2"": 61283, ""type"": 10, ""w"": 49.0}, {""id"": 11358395, ""node1"": 41851, ""node2"": 61283, ""type"": 15, ""w"": 38.0}, {""id"": 1585932, ""node1"": 41851, ""node2"": 61283, ""type"": 35, ""w"": 161.0}, {""id"": 376051244, ""node1"": 41851, ""node2"": 61283, ""type"": 51, ""w"": 34.0}, {""id"": 979612029, ""node1"": 41851, ""node2"": 61283, ""type"": 666, ""w"": 3.0}]",r_associated,219.0
+pouvoir,pain,nsubj,NOUN,0.6202273368835449,[],,
+utiliser,pain,obj,NOUN,0.6530843377113342,[],,
+pain,faire,amod,VERB,0.677288830280304,[],,
+avoir,mozzarella,nsubj,NOUN,0.4868114292621612,[],,
+avoir,texture,obj,NOUN,0.4749122858047485,[],,
+texture,croustillant,amod,ADJ,0.5533308982849121,"[{""id"": 723393761, ""node1"": 4910, ""node2"": 16044, ""type"": 0, ""w"": 26.0}, {""id"": 651212849, ""node1"": 4910, ""node2"": 16044, ""type"": 666, ""w"": 3.0}]",r_associated,26.0
+utiliser,huile,nsubj:pass,NOUN,0.5771163702011108,[],,
+huile,olive,nmod,ADJ,0.573360800743103,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+utiliser,ingrédient,nsubj:pass,NOUN,0.578764796257019,[],,
+ingrédient,supplémentaire,amod,ADJ,0.6150429248809814,[],,
+tomate,vert,amod,ADJ,0.5797052383422852,"[{""id"": 1967747, ""node1"": 22138, ""node2"": 26976, ""type"": 17, ""w"": 27.0}, {""id"": 3164033, ""node1"": 22138, ""node2"": 26976, ""type"": 106, ""w"": 13.0}]",r_carac,27.0
+variante,local,amod,ADJ,0.4453431963920593,[],,
+variante,mozzarella,nmod,NOUN,0.5206713676452637,[],,
+forme,rectangulaire,amod,ADJ,0.4582526087760925,"[{""id"": 9903096, ""node1"": 142000, ""node2"": 3278, ""type"": 0, ""w"": 14.0}, {""id"": 423447, ""node1"": 142000, ""node2"": 3278, ""type"": 8, ""w"": -101.0}, {""id"": 373523772, ""node1"": 142000, ""node2"": 3278, ""type"": 17, ""w"": 32.0}]",r_carac,32.0
+pain,blanc,amod,ADJ,0.6564204692840576,"[{""id"": 364170, ""node1"": 61283, ""node2"": 15196, ""type"": 0, ""w"": 54.0}, {""id"": 146682, ""node1"": 61283, ""node2"": 15196, ""type"": 17, ""w"": 132.0}, {""id"": 3161754, ""node1"": 61283, ""node2"": 15196, ""type"": 106, ""w"": 24.0}, {""id"": 1662794, ""node1"": 61283, ""node2"": 15196, ""type"": 666, ""w"": 2.0}]",r_carac,132.0
+ajout,anchois,nmod,NOUN,0.4779569506645202,[],,
+tranche,jambon,nmod,NOUN,0.5794574618339539,"[{""id"": 243905, ""node1"": 143123, ""node2"": 57980, ""type"": 0, ""w"": 71.0}, {""id"": 720817992, ""node1"": 143123, ""node2"": 57980, ""type"": 174, ""w"": 25.0}]",r_associated,71.0
+jambon,cuit,amod,ADJ,0.7174370884895325,"[{""id"": 561078680, ""node1"": 57980, ""node2"": 28105, ""type"": 0, ""w"": 38.0}, {""id"": 380716, ""node1"": 57980, ""node2"": 28105, ""type"": 17, ""w"": 58.0}, {""id"": 1787410, ""node1"": 57980, ""node2"": 28105, ""type"": 666, ""w"": 1.0}]",r_carac,58.0
+moitié,autre,amod,ADJ,0.4709822237491607,"[{""id"": 765505277, ""node1"": 89030, ""node2"": 7574, ""type"": 17, ""w"": 28.0}]",r_carac,28.0
+moitié,tranche,nmod,NOUN,0.4692468643188476,[],,
+tremper,tout,amod,ADJ,0.5919544100761414,[],,
+anchois,tremper,amod,ADJ,0.5991604924201965,[],,
+ajout,pâte,nmod,NOUN,0.636731743812561,[],,
+aller,mozzarella,nsubj,NOUN,0.506663978099823,[],,
+aspect,doré,amod,ADJ,0.4994537830352783,"[{""id"": 98271775, ""node1"": 92662, ""node2"": 47964, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+utilisation,pâte,nmod,NOUN,0.6265420317649841,[],,
+filet,anchois,nmod,NOUN,0.5590523481369019,[],,
+jambon,cuire,acl,VERB,0.7634696364402771,"[{""id"": 93406536, ""node1"": 57980, ""node2"": 5115, ""type"": 26, ""w"": 34.0}]",r_patient-1,34.0
+ajouter,certain,nsubj,PRON,0.4185027480125427,[],,
+variante,tomate,nsubj,NOUN,0.59527188539505,[],,
+tomate,sécher,acl,ADJ,0.6601047515869141,"[{""id"": 421761208, ""node1"": 22138, ""node2"": 56038, ""type"": 0, ""w"": 1.0}, {""id"": 758065756, ""node1"": 22138, ""node2"": 56038, ""type"": 24, ""w"": 30.0}]",r_agent-1,30.0
+ajouter,variante,obj,NOUN,0.4608918726444244,[],,
+variante,plat,nmod,NOUN,0.6098598837852478,[],,
+plat,composer,acl,VERB,0.5854783058166504,[],,
+variante,pain,nmod,NOUN,0.6577990055084229,[],,

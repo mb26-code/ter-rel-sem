@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+soupe,chinois,amod,ADJ,0.6304801106452942,[],,
+soupe,poulet,nmod,NOUN,0.727570652961731,"[{""id"": 561148159, ""node1"": 117152, ""node2"": 146261, ""type"": 0, ""w"": 54.0}, {""id"": 1014151148, ""node1"": 117152, ""node2"": 146261, ""type"": 666, ""w"": 2.0}]",r_associated,54.0
+poulet,ingrédient,nmod,NOUN,0.7190364599227905,"[{""id"": 24929041, ""node1"": 146261, ""node2"": 123418, ""type"": 6, ""w"": 1.0}]",r_isa,1.0
+soupe,huile,amod,NOUN,0.676633894443512,"[{""id"": 3346889, ""node1"": 117152, ""node2"": 141971, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+gingembre,vinaigre,appos,NOUN,0.6640594005584717,"[{""id"": 3573431, ""node1"": 77020, ""node2"": 145443, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+vinaigre,champignon,nmod,NOUN,0.667046844959259,[],,
+vinaigre,noir,amod,ADJ,0.553917407989502,[],,
+gingembre,poivre,amod,NOUN,0.6446689367294312,[],,
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,blanc,nmod,NOUN,0.6804950833320618,"[{""id"": 188293, ""node1"": 13260, ""node2"": 15196, ""type"": 0, ""w"": 55.0}, {""id"": 24901414, ""node1"": 13260, ""node2"": 15196, ""type"": 17, ""w"": 28.0}, {""id"": 3161626, ""node1"": 13260, ""node2"": 15196, ""type"": 106, ""w"": 63.0}, {""id"": 1795757, ""node1"": 13260, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_has_color,63.0
+blanc,poulet,nmod,NOUN,0.6177458167076111,"[{""id"": 9356626, ""node1"": 15196, ""node2"": 146261, ""type"": 0, ""w"": 50.0}, {""id"": 97329786, ""node1"": 15196, ""node2"": 146261, ""type"": 10, ""w"": 29.0}, {""id"": 1933499, ""node1"": 15196, ""node2"": 146261, ""type"": 35, ""w"": 45.0}, {""id"": 14659361, ""node1"": 15196, ""node2"": 146261, ""type"": 42, ""w"": 29.0}, {""id"": 1663131, ""node1"": 15196, ""node2"": 146261, ""type"": 666, ""w"": 1.0}]",r_associated,50.0
+soupe,germe,nmod,NOUN,0.6344922780990601,[],,
+germe,bouillon,nmod,NOUN,0.5628255009651184,[],,
+bouillon,volaille,nmod,NOUN,0.6946349143981934,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+louche,mixeur,nmod,NOUN,0.5896725058555603,[],,
+mixeur,plonger,acl,VERB,0.5584041476249695,[],,
+mixeur,chauffer,acl,VERB,0.6226776838302612,[],,
+mixeur,plat,nmod,ADJ,0.656880259513855,[],,
+mixeur,étape,nmod,NOUN,0.5223461985588074,[],,
+chauffer,huile,obj,NOUN,0.64256751537323,[],,
+revenir,poulet,obj,NOUN,0.6672897338867188,[],,
+revenir,minute,obj,NOUN,0.4577978253364563,[],,
+ajouter,bouillon,obj,NOUN,0.597090482711792,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+goût,piment,nmod,NOUN,0.6322949528694153,"[{""id"": 882213, ""node1"": 119233, ""node2"": 128791, ""type"": 0, ""w"": 35.0}]",r_associated,35.0
+sauce,soja,acl,ADV,0.686366856098175,"[{""id"": 558755719, ""node1"": 141110, ""node2"": 78291, ""type"": 0, ""w"": 41.0}, {""id"": 246329893, ""node1"": 141110, ""node2"": 78291, ""type"": 8, ""w"": 31.0}, {""id"": 651031297, ""node1"": 141110, ""node2"": 78291, ""type"": 666, ""w"": 4.0}]",r_associated,41.0
+cuire,minute,obj,NOUN,0.6918482780456543,[],,

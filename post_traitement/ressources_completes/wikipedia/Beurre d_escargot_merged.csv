@@ -1,0 +1,53 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,beurre,nmod,NOUN,0.6020650267601013,[],,
+beurre,article,nmod,NOUN,0.5998061895370483,[],,
+beurre,voir,acl,VERB,0.5779998302459717,[],,
+voir,beurre,obj,NOUN,0.5779998302459717,[],,
+beurre,ail,nmod,NOUN,0.6213099956512451,"[{""id"": 500926028, ""node1"": 140377, ""node2"": 26979, ""type"": 0, ""w"": 3.0}]",r_associated,3.0
+préparation,beurre,nsubj,NOUN,0.7297064065933228,"[{""id"": 797002494, ""node1"": 33634, ""node2"": 140377, ""type"": 0, ""w"": 25.0}]",r_associated,25.0
+beurre,escargot,nmod,NOUN,0.639205813407898,"[{""id"": 796693589, ""node1"": 140377, ""node2"": 64107, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+demande,préparation,nsubj,NOUN,0.494222491979599,[],,
+préparation,culinaire,amod,ADJ,0.6475791931152344,"[{""id"": 601611802, ""node1"": 33634, ""node2"": 347, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+préparation,traditionnel,amod,ADJ,0.6248403787612915,[],,
+préparation,cuisine,nmod,NOUN,0.6920308470726013,"[{""id"": 2311730, ""node1"": 33634, ""node2"": 16033, ""type"": 0, ""w"": 115.0}, {""id"": 13031130, ""node1"": 33634, ""node2"": 16033, ""type"": 3, ""w"": 63.0}, {""id"": 553973, ""node1"": 33634, ""node2"": 16033, ""type"": 5, ""w"": 87.0}, {""id"": 13031127, ""node1"": 33634, ""node2"": 16033, ""type"": 35, ""w"": 95.0}, {""id"": 14658749, ""node1"": 33634, ""node2"": 16033, ""type"": 41, ""w"": 30.0}, {""id"": 650972228, ""node1"": 33634, ""node2"": 16033, ""type"": 666, ""w"": 4.0}]",r_associated,115.0
+cuisine,français,amod,ADJ,0.6010087132453918,"[{""id"": 940911531, ""node1"": 16033, ""node2"": 144991, ""type"": 17, ""w"": 62.0}]",r_carac,62.0
+préparation,base,nmod,NOUN,0.5450719594955444,[],,
+base,beurre,nmod,NOUN,0.6890740394592285,[],,
+base,ail,nmod,NOUN,0.6236960291862488,[],,
+préparation,utiliser,acl,VERB,0.5494862794876099,[],,
+escargot,cuisine,nmod,NOUN,0.6417412757873535,"[{""id"": 15370862, ""node1"": 64107, ""node2"": 16033, ""type"": 0, ""w"": 272.0}, {""id"": 505340, ""node1"": 64107, ""node2"": 16033, ""type"": 3, ""w"": 270.0}, {""id"": 23136696, ""node1"": 64107, ""node2"": 16033, ""type"": 35, ""w"": 45.0}]",r_associated,272.0
+diplomatie,moment,nmod,NOUN,0.4699165523052215,[],,
+restauration,premier,amod,ADJ,0.4368411600589752,[],,
+moment,restauration,nmod,NOUN,0.4715335071086883,[],,
+cuisinier,célèbre,amod,ADJ,0.4941647350788116,"[{""id"": 372709560, ""node1"": 118790, ""node2"": 64300, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+cuisinier,bourguignon,nmod,ADJ,0.5494095087051392,[],,
+préparer,escargot,obj,NOUN,0.5394483208656311,[],,
+dîner,donner,acl,VERB,0.5154270529747009,[],,
+dîner,Alexandre,appos,PROPN,0.4269284009933471,[],,
+demande,mettre,advcl,VERB,0.437984436750412,[],,
+disposition,dernier,nmod,ADJ,0.4094285368919372,[],,
+baptiser,escargot,obj,NOUN,0.4083751738071441,[],,
+escargot,bourguignon,amod,ADJ,0.460383653640747,"[{""id"": 98280419, ""node1"": 64107, ""node2"": 72370, ""type"": 17, ""w"": 30.0}]",r_carac,30.0
+succès,gastronomique,amod,ADJ,0.4078881442546844,[],,
+emblème,cuisine,nmod,NOUN,0.5871987342834473,[],,
+cuisine,bourguignon,amod,ADJ,0.6526637077331543,"[{""id"": 15304415, ""node1"": 16033, ""node2"": 72370, ""type"": 0, ""w"": 24.0}, {""id"": 15174434, ""node1"": 16033, ""node2"": 72370, ""type"": 27, ""w"": 30.0}]",r_domain-1,30.0
+réaliser,beurre,nsubj:pass,NOUN,0.6867458820343018,[],,
+heure,température,nmod,NOUN,0.4409751892089844,[],,
+façon,homogène,amod,ADJ,0.4471633434295654,"[{""id"": 373217183, ""node1"": 81363, ""node2"": 124759, ""type"": 17, ""w"": 91.0}]",r_carac,91.0
+film,plastique,amod,ADJ,0.4334667026996612,[],,
+pouvoir,classique,nsubj,ADJ,0.4346056282520294,[],,
+classique,cuisine,nmod,NOUN,0.6535153388977051,[],,
+recette,nombreux,amod,ADJ,0.5949440598487854,[],,
+agrémenter,recette,obj,NOUN,0.6549218893051147,[],,
+recette,base,nmod,NOUN,0.6212873458862305,[],,
+base,viande,nmod,NOUN,0.6828669309616089,[],,
+viande,poisson,appos,NOUN,0.7179579734802246,"[{""id"": 2501737, ""node1"": 140100, ""node2"": 68467, ""type"": 0, ""w"": 42.0}, {""id"": 15855284, ""node1"": 140100, ""node2"": 68467, ""type"": 8, ""w"": -25.0}, {""id"": 1029365478, ""node1"": 140100, ""node2"": 68467, ""type"": 67, ""w"": 26.0}, {""id"": 1032955645, ""node1"": 140100, ""node2"": 68467, ""type"": 78, ""w"": 40.0}]",r_associated,42.0
+viande,fruit,appos,NOUN,0.6765453815460205,[],,
+fruit,mer,nmod,PROPN,0.5006869435310364,[],,
+viande,moule,appos,NOUN,0.7101666331291199,[],,
+viande,pâte,appos,NOUN,0.7337999939918518,[],,
+viande,riz,appos,ADV,0.7098746299743652,"[{""id"": 34720047, ""node1"": 140100, ""node2"": 24372, ""type"": 67, ""w"": 43.0}]",r_similar,43.0
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pouvoir,tomate,obj,NOUN,0.6155531406402588,[],,
+tomate,provençale,nmod,NOUN,0.6076468229293823,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,

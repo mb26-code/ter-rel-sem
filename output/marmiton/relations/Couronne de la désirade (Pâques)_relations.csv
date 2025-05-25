@@ -1,0 +1,54 @@
+node1,node2,relations
+couronne,ingrédient,[]
+couronne,rhum,[]
+rhum,levure,[]
+levure,chimique,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]"
+couronne,sucre,[]
+sucre,farine,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]"
+sucre,lait,[]
+sucre,abricot,"[{""id"": 1011319146, ""node1"": 139481, ""node2"": 118502, ""type"": 0, ""w"": 10.0}, {""id"": 9979848, ""node1"": 139481, ""node2"": 118502, ""type"": 10, ""w"": 4.0}]"
+abricot,sirop,"[{""id"": 187532, ""node1"": 118502, ""node2"": 91109, ""type"": 0, ""w"": 53.0}]"
+sirop,sucre,"[{""id"": 217497, ""node1"": 91109, ""node2"": 139481, ""type"": 0, ""w"": 407.0}, {""id"": 415329, ""node1"": 91109, ""node2"": 139481, ""type"": 9, ""w"": 70.0}, {""id"": 1035329517, ""node1"": 91109, ""node2"": 139481, ""type"": 50, ""w"": 31.0}, {""id"": 984864968, ""node1"": 91109, ""node2"": 139481, ""type"": 666, ""w"": 3.0}]"
+sucre,canne,"[{""id"": 107598, ""node1"": 139481, ""node2"": 144267, ""type"": 0, ""w"": 241.0}, {""id"": 160436, ""node1"": 139481, ""node2"": 144267, ""type"": 15, ""w"": 78.0}, {""id"": 1763995, ""node1"": 139481, ""node2"": 144267, ""type"": 666, ""w"": 1.0}]"
+sucre,oeuf,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]"
+oeuf,violette,[]
+titre,saladier,[]
+saladier,four,[]
+four,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,fouet,"[{""id"": 662513346, ""node1"": 51905, ""node2"": 73888, ""type"": 0, ""w"": 22.0}]"
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+fouet,balance,[]
+balance,cuisine,[]
+balance,plat,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]"
+fouet,étape,[]
+saladier,séparer,[]
+séparer,blanc,[]
+blanc,jaune,"[{""id"": 246331, ""node1"": 15196, ""node2"": 86711, ""type"": 0, ""w"": 56.0}]"
+jaune,oeuf,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]"
+mousseux,mélange,[]
+travailler,incorporer,[]
+quantité,farine,[]
+farine,mélanger,"[{""id"": 423997482, ""node1"": 127629, ""node2"": 37151, ""type"": 0, ""w"": 2.0}, {""id"": 373069998, ""node1"": 127629, ""node2"": 37151, ""type"": 26, ""w"": 30.0}]"
+lait,froid,"[{""id"": 276799, ""node1"": 86296, ""node2"": 49803, ""type"": 17, ""w"": 57.0}]"
+blanc,battre,[]
+moule,couronne,[]
+mettre,degré,[]
+cuire,min,[]
+sortir,gâteau,[]
+gâteau,four,"[{""id"": 177242, ""node1"": 2149, ""node2"": 9190, ""type"": 0, ""w"": 73.0}, {""id"": 788828957, ""node1"": 2149, ""node2"": 9190, ""type"": 9, ""w"": -25.0}, {""id"": 1762444, ""node1"": 2149, ""node2"": 9190, ""type"": 15, ""w"": 83.0}, {""id"": 14673604, ""node1"": 2149, ""node2"": 9190, ""type"": 42, ""w"": 34.0}, {""id"": 1762440, ""node1"": 2149, ""node2"": 9190, ""type"": 666, ""w"": 1.0}]"
+chauffer,sirop,[]
+mélanger,sirop,[]
+sirop,brûler,[]
+gâteau,plat,"[{""id"": 9622460, ""node1"": 2149, ""node2"": 36327, ""type"": 0, ""w"": 22.0}, {""id"": 158385, ""node1"": 2149, ""node2"": 36327, ""type"": 6, ""w"": 86.0}, {""id"": 11356470, ""node1"": 2149, ""node2"": 36327, ""type"": 15, ""w"": 39.0}]"
+plat,rond,"[{""id"": 85364816, ""node1"": 36327, ""node2"": 82147, ""type"": 7, ""w"": 31.0}, {""id"": 155709, ""node1"": 36327, ""node2"": 82147, ""type"": 17, ""w"": 60.0}]"
+sirop,chaud,[]
+refroidir,continuer,[]
+arroser,gâteau,[]
+gâteau,temps,[]
+absorber,sirop,[]
+cuillère,eau,"[{""id"": 662508617, ""node1"": 51905, ""node2"": 65012, ""type"": 0, ""w"": 24.0}]"
+eau,chaud,"[{""id"": 915041142, ""node1"": 65012, ""node2"": 19150, ""type"": 0, ""w"": 20.0}, {""id"": 432164, ""node1"": 65012, ""node2"": 19150, ""type"": 17, ""w"": 131.0}]"
+placer,glace,[]
+glace,centre,[]
+décorer,oeuf,[]

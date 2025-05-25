@@ -1,0 +1,30 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,salade,nmod,NOUN,0.6000369191169739,[],,
+salade,parisien,amod,ADJ,0.6097283363342285,[],,
+salade,article,nmod,NOUN,0.5889719128608704,[],,
+voir,salade,obj,NOUN,0.5764347910881042,[],,
+spécialité,salade,nsubj,NOUN,0.650915265083313,[],,
+spécialité,culinaire,amod,ADJ,0.5888378620147705,"[{""id"": 477435, ""node1"": 49537, ""node2"": 347, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+culinaire,traditionnel,amod,ADJ,0.601408839225769,[],,
+spécialité,cuisine,nmod,NOUN,0.6405212879180908,"[{""id"": 477437, ""node1"": 49537, ""node2"": 16033, ""type"": 0, ""w"": 83.0}, {""id"": 473695606, ""node1"": 49537, ""node2"": 16033, ""type"": 3, ""w"": 16.0}, {""id"": 1694092, ""node1"": 49537, ""node2"": 16033, ""type"": 35, ""w"": 80.0}, {""id"": 980188220, ""node1"": 49537, ""node2"": 16033, ""type"": 666, ""w"": 3.0}]",r_associated,83.0
+cuisine,parisien,amod,ADJ,0.5772659182548523,"[{""id"": 597861556, ""node1"": 16033, ""node2"": 109457, ""type"": 27, ""w"": 32.0}]",r_domain-1,32.0
+base,salade,nmod,NOUN,0.6406596302986145,[],,
+salade,composer,acl,VERB,0.6014893054962158,"[{""id"": 97758174, ""node1"": 118908, ""node2"": 54882, ""type"": 38, ""w"": 15.0}]",r_agentif_role,15.0
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+base,jambon,nmod,NOUN,0.6431077718734741,[],,
+jambon,Paris,nmod,PROPN,0.4959637224674225,"[{""id"": 7016992, ""node1"": 57980, ""node2"": 113317, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+base,champignon,nmod,NOUN,0.5731134414672852,[],,
+base,tomate,appos,ADV,0.6311788558959961,[],,
+œuf,dur,amod,ADJ,0.5370863080024719,"[{""id"": 560384151, ""node1"": 174124, ""node2"": 72731, ""type"": 0, ""w"": 67.0}]",r_associated,67.0
+recette,salade,nsubj,NOUN,0.6874119639396667,"[{""id"": 608584968, ""node1"": 120188, ""node2"": 118908, ""type"": 0, ""w"": 47.0}, {""id"": 97977068, ""node1"": 120188, ""node2"": 118908, ""type"": 41, ""w"": 35.0}]",r_associated,47.0
+recette,classique,amod,ADJ,0.6476349234580994,"[{""id"": 31818492, ""node1"": 120188, ""node2"": 131914, ""type"": 17, ""w"": 51.0}]",r_carac,51.0
+recette,restaurant,nmod,NOUN,0.6523241400718689,"[{""id"": 98281077, ""node1"": 120188, ""node2"": 79954, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+restaurant,brasserie,appos,NOUN,0.4400865733623504,"[{""id"": 2494554, ""node1"": 79954, ""node2"": 23605, ""type"": 0, ""w"": 81.0}, {""id"": 253277, ""node1"": 79954, ""node2"": 23605, ""type"": 5, ""w"": 176.0}, {""id"": 361283, ""node1"": 79954, ""node2"": 23605, ""type"": 6, ""w"": -80.0}, {""id"": 2380328, ""node1"": 79954, ""node2"": 23605, ""type"": 8, ""w"": 77.0}, {""id"": 1009915557, ""node1"": 79954, ""node2"": 23605, ""type"": 21, ""w"": 27.0}, {""id"": 619045949, ""node1"": 79954, ""node2"": 23605, ""type"": 27, ""w"": 29.0}, {""id"": 1669544, ""node1"": 79954, ""node2"": 23605, ""type"": 35, ""w"": 51.0}, {""id"": 1029212561, ""node1"": 79954, ""node2"": 23605, ""type"": 67, ""w"": 31.0}]",r_syn,176.0
+composer,variante,nsubj:pass,NOUN,0.4025889933109283,[],,
+variante,jambon,nmod,NOUN,0.5995432734489441,[],,
+variante,beurre,amod,NOUN,0.6845803260803223,[],,
+beurre,emblématique,amod,ADJ,0.6771730780601501,[],,
+recette,composer,acl,VERB,0.5859721899032593,[],,
+feuille,pomme,appos,NOUN,0.5867573618888855,[],,
+recette,œuf,appos,NOUN,0.6006787419319153,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,

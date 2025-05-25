@@ -1,0 +1,61 @@
+head,lemma,dep,pos,sim,relations
+aliment,nom,nsubj,NOUN,0.4384852647781372,[]
+nom,pain,nmod,NOUN,0.5577276349067688,[]
+pain,fabriquer,acl,VERB,0.6464252471923828,[]
+aliment,traditionnel,amod,ADJ,0.6255835294723511,"[{""id"": 588310747, ""node1"": 114637, ""node2"": 41139, ""type"": 17, ""w"": 40.0}]"
+aliment,région,nmod,NOUN,0.5901373028755188,[]
+cultiver,herbe,nsubj:pass,NOUN,0.4518559575080871,[]
+région,cultiver,acl:relcl,VERB,0.4396504461765289,"[{""id"": 377626, ""node1"": 132350, ""node2"": 124394, ""type"": 30, ""w"": 53.0}]"
+aliment,faire,acl:relcl,VERB,0.6529234647750854,[]
+faire,partie,obj,NOUN,0.4993119537830353,[]
+alimentation,base,nmod,NOUN,0.5276394486427307,[]
+alimentation,milieu,nmod,NOUN,0.4863349795341491,[]
+milieu,siècle,nmod,NOUN,0.40152508020401,[]
+feuille,chou,nmod,NOUN,0.5603377223014832,"[{""id"": 283878450, ""node1"": 37993, ""node2"": 67203, ""type"": 0, ""w"": 15.0}, {""id"": 9987771, ""node1"": 37993, ""node2"": 67203, ""type"": 10, ""w"": 14.0}]"
+contenir,saucisse,obj,NOUN,0.5967198014259338,[]
+contenir,dire,advcl,VERB,0.416904091835022,[]
+arriver,maïs,nsubj,NOUN,0.5785875916481018,[]
+cuit,arriver,advcl,VERB,0.6978362798690796,[]
+péninsule,type,appos,NOUN,0.4527866244316101,[]
+type,pain,nmod,NOUN,0.63983154296875,[]
+pain,mixte,amod,ADJ,0.6273947358131409,[]
+faire,orge,nmod,NOUN,0.5601486563682556,[]
+cuit,appeler,advcl,VERB,0.6757219433784485,[]
+faire,référence,obj,NOUN,0.5014191269874573,[]
+faire,détailler,advcl,VERB,0.4732820391654968,"[{""id"": 59643993, ""node1"": 87528, ""node2"": 47845, ""type"": 0, ""w"": 23.0}, {""id"": 54807664, ""node1"": 87528, ""node2"": 47845, ""type"": 5, ""w"": 83.0}, {""id"": 656900305, ""node1"": 87528, ""node2"": 47845, ""type"": 8, ""w"": -32.0}]"
+détailler,obligation,obj,NOUN,0.4098617136478424,[]
+répéter,référence,nsubj:pass,NOUN,0.4178673326969147,[]
+arrivée,nouveau,nmod,NOUN,0.4071118831634521,[]
+arrivée,pain,appos,NOUN,0.6498785018920898,[]
+pain,base,nmod,NOUN,0.6845396757125854,[]
+pain,pain,nmod,NOUN,0.6071630120277405,"[{""id"": 320910, ""node1"": 61283, ""node2"": 61283, ""type"": 19, ""w"": 53.0}, {""id"": 76567430, ""node1"": 61283, ""node2"": 61283, ""type"": 75, ""w"": 43.0}]"
+davantage,endroit,nmod,NOUN,0.4243952333927154,[]
+apparaître,terme,nsubj,NOUN,0.4026955664157867,[]
+faire,qui,nsubj,PRON,0.4499227106571197,"[{""id"": 729891679, ""node1"": 87528, ""node2"": 114890, ""type"": 9, ""w"": -5.0}]"
+faire,mention,obj,NOUN,0.4712834358215332,[]
+mention,tel,amod,ADJ,0.4167646765708923,[]
+pain,maïs,nmod,ADP,0.667571485042572,"[{""id"": 423562079, ""node1"": 61283, ""node2"": 139790, ""type"": 0, ""w"": 18.0}, {""id"": 3376400, ""node1"": 61283, ""node2"": 139790, ""type"": 777, ""w"": 10.0}]"
+rendre,mélange,nsubj,NOUN,0.5044845938682556,[]
+mélange,farine,nmod,NOUN,0.6843199729919434,[]
+farine,blé,nmod,NOUN,0.577633798122406,"[{""id"": 114505, ""node1"": 127629, ""node2"": 32071, ""type"": 0, ""w"": 517.0}, {""id"": 53553413, ""node1"": 127629, ""node2"": 32071, ""type"": 5, ""w"": 71.0}, {""id"": 9855371, ""node1"": 127629, ""node2"": 32071, ""type"": 8, ""w"": 62.0}, {""id"": 102179, ""node1"": 127629, ""node2"": 32071, ""type"": 9, ""w"": 60.0}, {""id"": 120516, ""node1"": 127629, ""node2"": 32071, ""type"": 15, ""w"": -55.0}, {""id"": 390928, ""node1"": 127629, ""node2"": 32071, ""type"": 21, ""w"": 53.0}, {""id"": 11335596, ""node1"": 127629, ""node2"": 32071, ""type"": 28, ""w"": 38.0}, {""id"": 24260246, ""node1"": 127629, ""node2"": 32071, ""type"": 35, ""w"": 125.0}, {""id"": 14674202, ""node1"": 127629, ""node2"": 32071, ""type"": 42, ""w"": 31.0}, {""id"": 1798400, ""node1"": 127629, ""node2"": 32071, ""type"": 666, ""w"": 3.0}]"
+farine,maïs,amod,ADP,0.6313681602478027,"[{""id"": 114506, ""node1"": 127629, ""node2"": 139790, ""type"": 0, ""w"": 61.0}]"
+reste,farine,nmod,NOUN,0.6985620856285095,[]
+placer,pâte,nsubj:pass,NOUN,0.6520282626152039,[]
+moule,pouvoir,acl:relcl,VERB,0.5052990317344666,[]
+recette,traditionnel,amod,ADJ,0.67087721824646,[]
+tranche,chorizo,nmod,ADV,0.597267746925354,[]
+tranche,viande,appos,NOUN,0.6751658320426941,"[{""id"": 240076, ""node1"": 143123, ""node2"": 140100, ""type"": 0, ""w"": 80.0}, {""id"": 97833249, ""node1"": 143123, ""node2"": 140100, ""type"": 3, ""w"": 10.0}, {""id"": 97327249, ""node1"": 143123, ""node2"": 140100, ""type"": 35, ""w"": 26.0}, {""id"": 775213394, ""node1"": 143123, ""node2"": 140100, ""type"": 174, ""w"": 25.0}]"
+contenir,lard,obj,NOUN,0.5673977732658386,[]
+heure,cuisson,nmod,NOUN,0.6459891200065613,[]
+prendre,chou,nsubj,NOUN,0.5667310357093811,"[{""id"": 2126630, ""node1"": 86306, ""node2"": 67203, ""type"": 14, ""w"": 30.0}]"
+chou,entourer,acl:relcl,VERB,0.5386121869087219,[]
+prendre,arôme,obj,NOUN,0.564833402633667,[]
+contrepoint,douceur,nmod,NOUN,0.4449587762355804,[]
+douceur,maïs,nmod,ADP,0.6029608845710754,[]
+faire,puissance,nsubj,NOUN,0.5191416144371033,[]
+faire,substance,nsubj,NOUN,0.5589500665664673,[]
+substance,saucisse,nmod,NOUN,0.5867549777030945,"[{""id"": 783435209, ""node1"": 11358, ""node2"": 77807, ""type"": 8, ""w"": 25.0}]"
+faire,servir,advcl,VERB,0.5072461366653442,"[{""id"": 54319751, ""node1"": 87528, ""node2"": 7888, ""type"": 0, ""w"": 24.0}, {""id"": 53718753, ""node1"": 87528, ""node2"": 7888, ""type"": 5, ""w"": 19.0}]"
+faire,ouvrir,advcl,VERB,0.4385785162448883,[]
+contenu,intérieur,nmod,NOUN,0.4269281923770904,"[{""id"": 812645, ""node1"": 108150, ""node2"": 100432, ""type"": 0, ""w"": 31.0}]"
+pain,cuire,amod,VERB,0.776824951171875,"[{""id"": 100199157, ""node1"": 61283, ""node2"": 5115, ""type"": 0, ""w"": 35.0}, {""id"": 413365261, ""node1"": 61283, ""node2"": 5115, ""type"": 24, ""w"": 100.0}, {""id"": 9008222, ""node1"": 61283, ""node2"": 5115, ""type"": 25, ""w"": 81.0}, {""id"": 1622945, ""node1"": 61283, ""node2"": 5115, ""type"": 26, ""w"": 105.0}]"

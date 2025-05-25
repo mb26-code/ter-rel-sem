@@ -1,0 +1,27 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,sandwich,appos,NOUN,0.4659242928028106,[],,
+sandwich,steak,nmod,NOUN,0.6049960851669312,"[{""id"": 86596411, ""node1"": 1447, ""node2"": 55572, ""type"": 50, ""w"": 31.0}]",r_object>mater,31.0
+tomate,moutarde,appos,ADJ,0.6410946249961853,[],,
+sandwich,sel,nmod,NOUN,0.711122989654541,"[{""id"": 737422452, ""node1"": 1447, ""node2"": 13260, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+sel,baguette,nmod,NOUN,0.7061401605606079,[],,
+titre,four,nmod,NOUN,0.6455731391906738,[],,
+four,couteau,nmod,NOUN,0.6828393340110779,[],,
+four,étape,nmod,NOUN,0.6555838584899902,[],,
+four,200,nmod,NUM,0.5053980350494385,[],,
+cuire,steak,obj,NOUN,0.7575573921203613,"[{""id"": 796846082, ""node1"": 5115, ""node2"": 55572, ""type"": 0, ""w"": 28.0}, {""id"": 15025387, ""node1"": 5115, ""node2"": 55572, ""type"": 13, ""w"": 40.0}, {""id"": 15082745, ""node1"": 5115, ""node2"": 55572, ""type"": 14, ""w"": 35.0}]",r_agent,40.0
+avoir,huile,advcl,NOUN,0.5391544103622437,[],,
+cuisson,désirer,acl,VERB,0.6852123737335205,[],,
+tomate,tranche,nmod,NOUN,0.6014438271522522,"[{""id"": 421761138, ""node1"": 22138, ""node2"": 143123, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+ouvrir,baguette,nsubj,NOUN,0.4658659100532532,[],,
+baguette,deux,nmod,NUM,0.4062903523445129,[],,
+baguette,demi,amod,ADJ,0.4530380964279175,[],,
+mettre,sauce,obj,NOUN,0.6739883422851562,[],,
+disposer,morceau,obj,NOUN,0.5442014336585999,[],,
+morceau,steak,nmod,NOUN,0.6270855069160461,"[{""id"": 10601817, ""node1"": 65364, ""node2"": 55572, ""type"": 0, ""w"": 29.0}, {""id"": 9685515, ""node1"": 65364, ""node2"": 55572, ""type"": 8, ""w"": 43.0}]",r_hypo,43.0
+morceau,autre,amod,PRON,0.5213713645935059,[],,
+mettre,tranche,obj,NOUN,0.4838809669017792,[],,
+tranche,fromage,nmod,NOUN,0.6097967624664307,"[{""id"": 720818623, ""node1"": 143123, ""node2"": 141687, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+fromage,couper,acl,VERB,0.6230878829956055,"[{""id"": 892230492, ""node1"": 141687, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 365853961, ""node1"": 141687, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+morceau,four,nmod,NOUN,0.6999946236610413,[],,
+chauffer,pain,obj,NOUN,0.7041173577308655,[],,
+tranche,tomate,nmod,NOUN,0.6014438271522522,[],,

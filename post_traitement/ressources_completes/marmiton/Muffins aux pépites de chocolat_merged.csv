@@ -1,0 +1,42 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+pépite,chocolat,nmod,NOUN,0.5406539440155029,"[{""id"": 365455, ""node1"": 25082, ""node2"": 34157, ""type"": 0, ""w"": 152.0}, {""id"": 376056261, ""node1"": 25082, ""node2"": 34157, ""type"": 50, ""w"": 35.0}, {""id"": 930408960, ""node1"": 25082, ""node2"": 34157, ""type"": 666, ""w"": 2.0}]",r_associated,152.0
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+levure,beurre,acl,NOUN,0.6823499798774719,[],,
+beurre,cassonade,nmod,NOUN,0.6727638840675354,[],,
+cassonade,oeuf,nmod,NOUN,0.5834254026412964,[],,
+lait,entier,amod,ADJ,0.5518331527709961,"[{""id"": 114016, ""node1"": 86296, ""node2"": 49309, ""type"": 0, ""w"": 134.0}, {""id"": 132413, ""node1"": 86296, ""node2"": 49309, ""type"": 8, ""w"": 111.0}, {""id"": 276797, ""node1"": 86296, ""node2"": 49309, ""type"": 17, ""w"": 80.0}]",r_associated,134.0
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+pâtisserie,moule,nmod,NOUN,0.56337571144104,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]",r_associated,24.0
+four,casserole,nmod,NOUN,0.7147663235664368,[],,
+casserole,cuillère,nmod,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,saladier,nmod,NOUN,0.6106023788452148,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+saladier,balance,nmod,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+four,200,nmod,NUM,0.5053980350494385,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+casserole,fond,nmod,NOUN,0.5823787450790405,"[{""id"": 9995395, ""node1"": 57253, ""node2"": 119272, ""type"": 0, ""w"": 14.0}, {""id"": 2045151, ""node1"": 57253, ""node2"": 119272, ""type"": 9, ""w"": 60.0}]",r_has_part,60.0
+fond,épais,amod,ADJ,0.4744300842285156,[],,
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+mélanger,sucre,obj,NOUN,0.6743173599243164,[],,
+sucre,cassonade,appos,NOUN,0.6493021249771118,"[{""id"": 1014581, ""node1"": 139481, ""node2"": 20622, ""type"": 0, ""w"": 24.0}, {""id"": 54674261, ""node1"": 139481, ""node2"": 20622, ""type"": 5, ""w"": 86.0}, {""id"": 1032969202, ""node1"": 139481, ""node2"": 20622, ""type"": 78, ""w"": 31.0}]",r_syn,86.0
+préparation,farine,amod,NOUN,0.6892698407173157,"[{""id"": 914541350, ""node1"": 33634, ""node2"": 127629, ""type"": 0, ""w"": 20.0}, {""id"": 246259665, ""node1"": 33634, ""node2"": 127629, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+préparation,sucre,nmod,NOUN,0.7013381719589233,[],,
+ajouter,mélange,obj,NOUN,0.5318974852561951,[],,
+mélange,lait,nmod,ADJ,0.6162230372428894,[],,
+mélange,oeuf,nmod,NOUN,0.5729450583457947,[],,
+mélanger,beurre,obj,NOUN,0.6754149198532104,[],,
+devenir,pâte,nsubj,NOUN,0.6388993859291077,[],,
+prendre,farine,obj,NOUN,0.6561289429664612,[],,
+farine,fluide,amod,ADJ,0.6047680974006653,"[{""id"": 430812, ""node1"": 127629, ""node2"": 57625, ""type"": 17, ""w"": 51.0}]",r_carac,51.0
+ajouter,chocolat,obj,NOUN,0.6055095791816711,[],,
+casser,que,obj,PRON,0.4384981989860534,[],,
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+casser,morceau,obj,NOUN,0.5395437479019165,[],,
+casser,faire,advcl,VERB,0.46385258436203,[],,
+verser,préparation,obj,NOUN,0.5208573341369629,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparation,moule,nmod,NOUN,0.5472729206085205,"[{""id"": 601611756, ""node1"": 33634, ""node2"": 143723, ""type"": 0, ""w"": 22.0}]",r_associated,22.0

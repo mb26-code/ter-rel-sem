@@ -1,0 +1,43 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+ingrédient,levure,nmod,NOUN,0.6170762777328491,[],,
+levure,boulanger,nmod,NOUN,0.5430918335914612,"[{""id"": 1769594, ""node1"": 53450, ""node2"": 145285, ""type"": 0, ""w"": 90.0}, {""id"": 376186762, ""node1"": 53450, ""node2"": 145285, ""type"": 25, ""w"": 26.0}]",r_associated,90.0
+boulanger,sec,amod,ADJ,0.4713107347488403,[],,
+boulanger,semoule,nmod,NOUN,0.6347818970680237,[],,
+levure,fin,amod,ADJ,0.541979968547821,[],,
+eau,sel,nmod,NOUN,0.6719006896018982,"[{""id"": 796707616, ""node1"": 65012, ""node2"": 13260, ""type"": 0, ""w"": 32.0}, {""id"": 2123272, ""node1"": 65012, ""node2"": 13260, ""type"": 28, ""w"": 98.0}, {""id"": 602535234, ""node1"": 65012, ""node2"": 13260, ""type"": 777, ""w"": 10.0}]",r_lieu-1,98.0
+eau,fin,amod,NOUN,0.5591328144073486,[],,
+plat,étape,nmod,NOUN,0.5833562016487122,[],,
+passer,semoule,obj,NOUN,0.6500802040100098,[],,
+obtenir,grain,obj,NOUN,0.5167257189750671,[],,
+grain,uniforme,amod,ADJ,0.5106712579727173,[],,
+ajouter,levure,obj,NOUN,0.5709071159362793,[],,
+levure,sec,amod,ADJ,0.5484349131584167,[],,
+ajouter,eau,obj,NOUN,0.5629687905311584,[],,
+eau,tiède,amod,ADJ,0.5831737518310547,"[{""id"": 796965917, ""node1"": 65012, ""node2"": 13843, ""type"": 0, ""w"": 29.0}, {""id"": 128780, ""node1"": 65012, ""node2"": 13843, ""type"": 17, ""w"": 73.0}, {""id"": 600063832, ""node1"": 65012, ""node2"": 13843, ""type"": 27, ""w"": 32.0}]",r_carac,73.0
+semoule,tout,amod,ADJ,0.6495996117591858,[],,
+former,boule,obj,NOUN,0.4745096266269684,"[{""id"": 461428458, ""node1"": 66314, ""node2"": 141883, ""type"": 14, ""w"": 41.0}]",r_patient,41.0
+boule,pâte,nmod,NOUN,0.6151799559593201,"[{""id"": 720819459, ""node1"": 141883, ""node2"": 34069, ""type"": 174, ""w"": 25.0}, {""id"": 4827130, ""node1"": 141883, ""node2"": 34069, ""type"": 777, ""w"": 10.0}]",r_quantificateur-1,25.0
+boule,dense,amod,ADJ,0.4553437232971191,[],,
+reposer,pâte,obj,NOUN,0.6314936280250549,"[{""id"": 9366390, ""node1"": 106663, ""node2"": 34069, ""type"": 0, ""w"": 32.0}, {""id"": 218835, ""node1"": 106663, ""node2"": 34069, ""type"": 13, ""w"": 59.0}, {""id"": 9173399, ""node1"": 106663, ""node2"": 34069, ""type"": 35, ""w"": 31.0}]",r_agent,59.0
+travailler,écraser,advcl,VERB,0.4080487787723541,[],,
+écraser,pâte,obj,NOUN,0.6439622044563293,[],,
+obtenir,texture,obj,NOUN,0.4454701244831085,[],,
+texture,lisse,amod,ADJ,0.4609699249267578,"[{""id"": 723393758, ""node1"": 4910, ""node2"": 140074, ""type"": 0, ""w"": 28.0}, {""id"": 31122166, ""node1"": 4910, ""node2"": 140074, ""type"": 17, ""w"": 23.0}, {""id"": 651212844, ""node1"": 4910, ""node2"": 140074, ""type"": 666, ""w"": 5.0}]",r_associated,28.0
+torchon,propre,amod,ADJ,0.5188657641410828,"[{""id"": 14801365, ""node1"": 87841, ""node2"": 118316, ""type"": 17, ""w"": 30.0}]",r_carac,30.0
+reposer,minute,obj,NOUN,0.4512225389480591,[],,
+récupérer,boule,obj,NOUN,0.4854484498500824,[],,
+taille,même,amod,ADV,0.428550124168396,[],,
+boule,taille,nmod,NOUN,0.482792854309082,[],,
+main,plan,nmod,NOUN,0.4064537584781647,[],,
+travail,propre,amod,ADJ,0.4279972016811371,"[{""id"": 809692703, ""node1"": 70283, ""node2"": 118316, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+blanc,tajine,obj,NOUN,0.6473228335380554,[],,
+terre,cuire,amod,VERB,0.7472566366195679,[],,
+poêle,grand,amod,ADJ,0.628409743309021,[],,
+tournant,minute,nmod,NOUN,0.4297716021537781,[],,
+boule,deuxième,amod,ADJ,0.4928178787231445,[],,
+aide,assiette,nmod,NOUN,0.4903818666934967,[],,
+assiette,fourchette,nmod,NOUN,0.5866177678108215,"[{""id"": 189275, ""node1"": 62735, ""node2"": 134670, ""type"": 0, ""w"": 343.0}, {""id"": 11332369, ""node1"": 62735, ""node2"": 134670, ""type"": 28, ""w"": 39.0}, {""id"": 980808878, ""node1"": 62735, ""node2"": 134670, ""type"": 666, ""w"": 3.0}]",r_associated,343.0
+dorer,face,obj,NOUN,0.479680448770523,[],,
+sortir,feu,obj,NOUN,0.5407412648200989,[],,
+portion,second,amod,ADJ,0.4740945398807525,[],,
+plat,autre,amod,ADJ,0.611096978187561,[],,

@@ -1,0 +1,78 @@
+node1,node2,relations
+titre,bûche,[]
+bûche,orange,[]
+orange,chocolat,[]
+titre,ingrédient,[]
+ingrédient,beurre,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]"
+beurre,sucre,"[{""id"": 500926020, ""node1"": 140377, ""node2"": 139481, ""type"": 0, ""w"": 2.0}]"
+sucre,farine,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]"
+sucre,oeuf,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]"
+oeuf,sucre,"[{""id"": 76133259, ""node1"": 116175, ""node2"": 139481, ""type"": 50, ""w"": 26.0}]"
+sucre,crème,"[{""id"": 915278756, ""node1"": 139481, ""node2"": 44001, ""type"": 0, ""w"": 22.0}]"
+crème,liquide,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]"
+orange,beurre,[]
+beurre,chocolat,"[{""id"": 500926026, ""node1"": 140377, ""node2"": 34157, ""type"": 0, ""w"": 3.0}]"
+sucre,pâtissier,"[{""id"": 822321507, ""node1"": 139481, ""node2"": 31618, ""type"": 0, ""w"": 30.0}, {""id"": 479238496, ""node1"": 139481, ""node2"": 31618, ""type"": 156, ""w"": 30.0}]"
+ingrédient,crème,"[{""id"": 24923429, ""node1"": 123418, ""node2"": 44001, ""type"": 0, ""w"": 15.0}, {""id"": 24850724, ""node1"": 123418, ""node2"": 44001, ""type"": 8, ""w"": 36.0}]"
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+fouet,four,"[{""id"": 288507172, ""node1"": 73888, ""node2"": 9190, ""type"": 0, ""w"": 55.0}]"
+four,papier,[]
+balance,cuisine,[]
+table,induction,[]
+séparer,blanc,[]
+blanc,jaune,"[{""id"": 246331, ""node1"": 15196, ""node2"": 86711, ""type"": 0, ""w"": 56.0}]"
+jaune,oeuf,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]"
+jaune,sucre,[]
+sucre,blanchiment,[]
+incorporer,cuillère,[]
+cuillère,soupe,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]"
+soupe,farine,[]
+farine,complet,"[{""id"": 14803061, ""node1"": 127629, ""node2"": 42645, ""type"": 17, ""w"": 21.0}]"
+cuillère,farine,"[{""id"": 775213356, ""node1"": 51905, ""node2"": 127629, ""type"": 174, ""w"": 25.0}]"
+farine,blanc,"[{""id"": 116083, ""node1"": 127629, ""node2"": 15196, ""type"": 0, ""w"": 91.0}, {""id"": 24901422, ""node1"": 127629, ""node2"": 15196, ""type"": 17, ""w"": 3.0}, {""id"": 3161193, ""node1"": 127629, ""node2"": 15196, ""type"": 106, ""w"": 21.0}]"
+moment,roulé,[]
+ajouter,beurre,"[{""id"": 373014956, ""node1"": 25099, ""node2"": 140377, ""type"": 14, ""w"": 31.0}]"
+ajouter,fondre,[]
+récipient,second,[]
+récipient,blanc,"[{""id"": 3176426, ""node1"": 89628, ""node2"": 15196, ""type"": 106, ""w"": 3.0}]"
+blanc,neige,"[{""id"": 116991, ""node1"": 15196, ""node2"": 3699, ""type"": 0, ""w"": 509.77}, {""id"": 117866, ""node1"": 15196, ""node2"": 3699, ""type"": 23, ""w"": 320.0}, {""id"": 1622496, ""node1"": 15196, ""node2"": 3699, ""type"": 666, ""w"": 12.0}]"
+neige,ferme,[]
+récipient,pincée,[]
+pincée,sel,"[{""id"": 665112730, ""node1"": 122023, ""node2"": 13260, ""type"": 174, ""w"": 40.0}, {""id"": 990072491, ""node1"": 122023, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]"
+préparer,verser,[]
+verser,appareil,"[{""id"": 97862555, ""node1"": 104506, ""node2"": 106265, ""type"": 14, ""w"": 30.0}]"
+plaque,recouvrir,[]
+papier,cuisson,[]
+plaque,thermostat,[]
+préparer,garniture,[]
+préparer,fouetter,[]
+fouetter,crème,"[{""id"": 376239, ""node1"": 45711, ""node2"": 44001, ""type"": 0, ""w"": 82.0}, {""id"": 1833330, ""node1"": 45711, ""node2"": 44001, ""type"": 14, ""w"": 63.0}, {""id"": 14654431, ""node1"": 45711, ""node2"": 44001, ""type"": 41, ""w"": 29.0}, {""id"": 979993414, ""node1"": 45711, ""node2"": 44001, ""type"": 666, ""w"": 3.0}]"
+crème,froid,[]
+crème,sucre,"[{""id"": 561269855, ""node1"": 44001, ""node2"": 139481, ""type"": 0, ""w"": 61.0}]"
+crème,soupe,"[{""id"": 729556221, ""node1"": 44001, ""node2"": 117152, ""type"": 0, ""w"": 25.0}, {""id"": 376035732, ""node1"": 44001, ""node2"": 117152, ""type"": 51, ""w"": 30.0}]"
+obtention,crème,[]
+crème,fouetter,"[{""id"": 2219421, ""node1"": 44001, ""node2"": 45711, ""type"": 0, ""w"": 52.0}, {""id"": 15066415, ""node1"": 44001, ""node2"": 45711, ""type"": 26, ""w"": 30.0}, {""id"": 2311449, ""node1"": 44001, ""node2"": 45711, ""type"": 42, ""w"": 51.0}]"
+ajuster,quantité,[]
+quantité,sucre,[]
+quantité,suivre,[]
+suivre,goût,[]
+génoise,crème,[]
+crème,précaution,[]
+rouler,génoise,[]
+préparer,réserver,"[{""id"": 53730215, ""node1"": 36246, ""node2"": 7006, ""type"": 0, ""w"": 29.0}, {""id"": 53623634, ""node1"": 36246, ""node2"": 7006, ""type"": 5, ""w"": 85.0}]"
+préparer,glaçage,[]
+préparer,chauffer,[]
+reste,gramme,[]
+gramme,chocolat,"[{""id"": 720819429, ""node1"": 140383, ""node2"": 34157, ""type"": 174, ""w"": 25.0}]"
+gramme,beurre,[]
+gramme,soupe,[]
+soupe,creme,[]
+creme,liquide,[]
+préparer,reste,[]
+reste,surplus,"[{""id"": 12291056, ""node1"": 21110, ""node2"": 23615, ""type"": 0, ""w"": 54.0}, {""id"": 590704, ""node1"": 21110, ""node2"": 23615, ""type"": 5, ""w"": 185.0}, {""id"": 653745855, ""node1"": 21110, ""node2"": 23615, ""type"": 666, ""w"": 2.0}]"
+bûche,fois,[]
+éclat,noix,[]
+sucre,glace,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -126.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]"
+frais,heure,[]
+conserver,servir,[]
+bon,appétit,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]"

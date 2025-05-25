@@ -1,0 +1,26 @@
+node1,node2,relations
+bleu,cordon,[]
+bleu,ingrédient,"[{""id"": 24929873, ""node1"": 60, ""node2"": 123418, ""type"": 6, ""w"": 1.0}]"
+ingrédient,beurre,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]"
+farine,blanc,"[{""id"": 116083, ""node1"": 127629, ""node2"": 15196, ""type"": 0, ""w"": 91.0}, {""id"": 24901422, ""node1"": 127629, ""node2"": 15196, ""type"": 17, ""w"": 3.0}, {""id"": 3161193, ""node1"": 127629, ""node2"": 15196, ""type"": 106, ""w"": 21.0}]"
+blanc,poulet,"[{""id"": 9356626, ""node1"": 15196, ""node2"": 146261, ""type"": 0, ""w"": 50.0}, {""id"": 97329786, ""node1"": 15196, ""node2"": 146261, ""type"": 10, ""w"": 29.0}, {""id"": 1933499, ""node1"": 15196, ""node2"": 146261, ""type"": 35, ""w"": 45.0}, {""id"": 14659361, ""node1"": 15196, ""node2"": 146261, ""type"": 42, ""w"": 29.0}, {""id"": 1663131, ""node1"": 15196, ""node2"": 146261, ""type"": 666, ""w"": 1.0}]"
+poulet,bacon,[]
+balance,cuisine,[]
+balance,étape,[]
+tranche,poulet,[]
+tranche,mettre,[]
+mettre,tranche,[]
+tranche,bacon,"[{""id"": 915336570, ""node1"": 143123, ""node2"": 25901, ""type"": 0, ""w"": 20.0}]"
+côté,autre,[]
+poser,tranche,[]
+tranche,fromage,"[{""id"": 720818623, ""node1"": 143123, ""node2"": 141687, ""type"": 174, ""w"": 25.0}]"
+refermer,tout,[]
+tout,plier,[]
+plier,tranche,[]
+prévoir,assiette,[]
+mettre,farine,"[{""id"": 427128973, ""node1"": 132366, ""node2"": 127629, ""type"": 0, ""w"": 26.0}, {""id"": 427128972, ""node1"": 132366, ""node2"": 127629, ""type"": 14, ""w"": 100.0}]"
+oeuf,battre,"[{""id"": 15064344, ""node1"": 116175, ""node2"": 119162, ""type"": 26, ""w"": 34.0}]"
+cuire,le,[]
+cuire,minute,[]
+minute,côté,[]
+peu,beurre,[]

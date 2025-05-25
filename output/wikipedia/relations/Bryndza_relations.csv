@@ -1,0 +1,32 @@
+node1,node2,relations
+modifier,fromage,[]
+base,lait,[]
+lait,brebis,"[{""id"": 124120, ""node1"": 86296, ""node2"": 114015, ""type"": 0, ""w"": 141.0}, {""id"": 223029, ""node1"": 86296, ""node2"": 114015, ""type"": 8, ""w"": -50.0}, {""id"": 76654959, ""node1"": 86296, ""node2"": 114015, ""type"": 54, ""w"": 40.0}]"
+mélange,lait,[]
+lait,vache,"[{""id"": 100641, ""node1"": 86296, ""node2"": 138501, ""type"": 0, ""w"": 431.0}, {""id"": 137749, ""node1"": 86296, ""node2"": 138501, ""type"": 8, ""w"": -60.0}, {""id"": 9976460, ""node1"": 86296, ""node2"": 138501, ""type"": 10, ""w"": 4.0}, {""id"": 11357809, ""node1"": 86296, ""node2"": 138501, ""type"": 15, ""w"": 39.0}, {""id"": 383584, ""node1"": 86296, ""node2"": 138501, ""type"": 22, ""w"": -80.0}, {""id"": 15114456, ""node1"": 86296, ""node2"": 138501, ""type"": 27, ""w"": 28.0}, {""id"": 76654958, ""node1"": 86296, ""node2"": 138501, ""type"": 54, ""w"": 76.0}, {""id"": 1040288386, ""node1"": 86296, ""node2"": 138501, ""type"": 129, ""w"": 29.0}, {""id"": 1522646, ""node1"": 86296, ""node2"": 138501, ""type"": 666, ""w"": 13.0}]"
+devoir,proportion,[]
+proportion,lait,[]
+produit,devoir,[]
+constituer,spécialité,[]
+spécialité,région,"[{""id"": 11357453, ""node1"": 49537, ""node2"": 132350, ""type"": 15, ""w"": 38.0}]"
+mention,forme,[]
+fabrication,premier,[]
+démarrer,fabrication,[]
+fabrication,industriel,"[{""id"": 561382109, ""node1"": 143005, ""node2"": 55133, ""type"": 0, ""w"": 32.0}, {""id"": 1040277506, ""node1"": 143005, ""node2"": 55133, ""type"": 70, ""w"": 20.0}]"
+remonter,démarrer,[]
+base,recette,[]
+recette,usuel,[]
+remonter,base,[]
+lait,croire,[]
+recette,autre,[]
+incorporer,recette,[]
+boisson,régional,[]
+plat,national,[]
+plat,base,[]
+base,morceau,[]
+morceau,pâte,"[{""id"": 720819461, ""node1"": 65364, ""node2"": 34069, ""type"": 174, ""w"": 25.0}]"
+morceau,pomme,[]
+pomme,terre,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+terre,bouillie,[]
+terre,ressembler,[]
+projet,autre,[]

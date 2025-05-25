@@ -1,0 +1,29 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,biscuit,appos,NOUN,0.5244453549385071,[],,
+biscuit,anglais,amod,X,0.5186035633087158,[],,
+biscuit,chocolat,nmod,NOUN,0.5970737338066101,"[{""id"": 362641, ""node1"": 62524, ""node2"": 34157, ""type"": 0, ""w"": 184.0}, {""id"": 77538338, ""node1"": 62524, ""node2"": 34157, ""type"": 50, ""w"": 31.0}, {""id"": 980804710, ""node1"": 62524, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]",r_associated,184.0
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+titre,chocolat,nmod,NOUN,0.5182958245277405,[],,
+titre,pâtissier,amod,ADJ,0.4273173809051513,[],,
+pâtissier,beurre,acl,NOUN,0.6572580933570862,"[{""id"": 958008739, ""node1"": 31618, ""node2"": 140377, ""type"": 155, ""w"": 20.0}]",r_make_use_of,20.0
+beurre,digestif,amod,ADJ,0.6523721218109131,[],,
+titre,raisin,nmod,NOUN,0.5002607107162476,[],,
+raisin,sec,acl,ADJ,0.4996888339519501,"[{""id"": 105224, ""node1"": 93528, ""node2"": 63619, ""type"": 0, ""w"": 62.0}, {""id"": 114116, ""node1"": 93528, ""node2"": 63619, ""type"": 17, ""w"": 60.0}, {""id"": 985028970, ""node1"": 93528, ""node2"": 63619, ""type"": 666, ""w"": 2.0}]",r_carac,60.0
+sucre,brun,amod,VERB,0.5946850776672363,"[{""id"": 182239, ""node1"": 139481, ""node2"": 14189, ""type"": 17, ""w"": 61.0}, {""id"": 3163418, ""node1"": 139481, ""node2"": 14189, ""type"": 106, ""w"": 25.0}]",r_carac,61.0
+casserole,saladier,obj,NOUN,0.6254573464393616,[],,
+saladier,frigo,nmod,NOUN,0.5944403409957886,[],,
+frigo,couteau,nmod,NOUN,0.6097099184989929,[],,
+saladier,planche,appos,NOUN,0.5950928330421448,[],,
+casserole,découper,advcl,VERB,0.6361495852470398,[],,
+découper,balance,obj,NOUN,0.4950466752052307,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+titre,fondre,acl,VERB,0.4839583337306976,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+ajouter,biscuit,obj,NOUN,0.6083923578262329,[],,
+biscuit,écraser,acl,VERB,0.569271981716156,[],,
+moule,petit,amod,ADJ,0.5535162091255188,[],,
+devoir,mélange,nsubj,NOUN,0.4884808361530304,[],,
+ensemble,gramme,nmod,NOUN,0.424984335899353,[],,
+gramme,chocolat,nmod,NOUN,0.5308760404586792,"[{""id"": 720819429, ""node1"": 140383, ""node2"": 34157, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+ensemble,fondre,amod,VERB,0.4765017628669739,[],,

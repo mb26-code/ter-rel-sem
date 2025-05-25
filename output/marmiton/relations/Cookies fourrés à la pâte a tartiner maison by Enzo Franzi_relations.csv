@@ -1,0 +1,74 @@
+node1,node2,relations
+tartiner,maison,[]
+tartiner,ingrédient,[]
+tartiner,sel,[]
+sel,levure,[]
+levure,chimique,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]"
+levure,chocolat,[]
+levure,noir,[]
+tartiner,poudre,[]
+poudre,oeuf,[]
+oeuf,chocolat,"[{""id"": 796685682, ""node1"": 116175, ""node2"": 34157, ""type"": 0, ""w"": 31.0}, {""id"": 472413823, ""node1"": 116175, ""node2"": 34157, ""type"": 50, ""w"": 23.0}]"
+oeuf,lait,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]"
+lait,sucre,[]
+sucre,chocolat,"[{""id"": 104775, ""node1"": 139481, ""node2"": 34157, ""type"": 0, ""w"": 209.0}, {""id"": 106441, ""node1"": 139481, ""node2"": 34157, ""type"": 6, ""w"": -99.0}, {""id"": 9984686, ""node1"": 139481, ""node2"": 34157, ""type"": 10, ""w"": 4.0}, {""id"": 153629, ""node1"": 139481, ""node2"": 34157, ""type"": 15, ""w"": 78.0}, {""id"": 376048866, ""node1"": 139481, ""node2"": 34157, ""type"": 51, ""w"": 28.0}, {""id"": 646152036, ""node1"": 139481, ""node2"": 34157, ""type"": 666, ""w"": 6.0}]"
+sucre,noir,"[{""id"": 97360808, ""node1"": 139481, ""node2"": 64238, ""type"": 106, ""w"": 15.0}]"
+crème,liquide,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]"
+lait,congélateur,[]
+congélateur,four,[]
+four,mixeur,[]
+mixeur,balance,[]
+balance,cuisine,[]
+tartiner,table,"[{""id"": 1915554, ""node1"": 131654, ""node2"": 89591, ""type"": 31, ""w"": 55.0}]"
+table,induction,[]
+mettre,noisette,[]
+four,160,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,[]
+gramme,noisette,[]
+obtention,pâte,[]
+pâte,ajouter,[]
+ajouter,chocolat,[]
+bouillir,crème,"[{""id"": 352516456, ""node1"": 42401, ""node2"": 44001, ""type"": 31, ""w"": 38.0}]"
+verser,crème,[]
+crème,chocolat,"[{""id"": 920607472, ""node1"": 44001, ""node2"": 34157, ""type"": 0, ""w"": 23.0}, {""id"": 987926577, ""node1"": 44001, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]"
+tout,mixer,[]
+moule,silicone,"[{""id"": 99104506, ""node1"": 143723, ""node2"": 132543, ""type"": 50, ""w"": 28.0}, {""id"": 770339472, ""node1"": 143723, ""node2"": 132543, ""type"": 666, ""w"": 3.0}]"
+silicone,rond,[]
+chocolat,cookie,"[{""id"": 561175448, ""node1"": 34157, ""node2"": 162248, ""type"": 0, ""w"": 31.0}, {""id"": 13008292, ""node1"": 34157, ""node2"": 162248, ""type"": 51, ""w"": 61.0}]"
+mélanger,sucre,[]
+mélanger,poudre,[]
+poudre,noisette,[]
+poudre,pommade,[]
+tartiner,obtenir,[]
+obtenir,mélange,[]
+mélange,homogène,"[{""id"": 914526136, ""node1"": 14800, ""node2"": 124759, ""type"": 0, ""w"": 21.0}, {""id"": 33170626, ""node1"": 14800, ""node2"": 124759, ""type"": 17, ""w"": 27.0}]"
+ajouter,oeuf,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]"
+oeuf,ajouter,"[{""id"": 373070045, ""node1"": 116175, ""node2"": 25099, ""type"": 26, ""w"": 30.0}]"
+ajouter,farine,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]"
+obtenir,levure,[]
+ajouter,mélange,[]
+mélange,précédent,[]
+mélange,diviser,"[{""id"": 920534401, ""node1"": 14800, ""node2"": 19675, ""type"": 0, ""w"": 20.0}]"
+diviser,pâte,[]
+cookie,boule,[]
+boule,gramme,[]
+tartiner,insert,[]
+insert,pâte,[]
+placer,insert,[]
+milieu,cookie,[]
+enfermer,cookie,[]
+cookie,manière,[]
+enfermer,insert,[]
+tartiner,avoir,[]
+intérieur,cookie,[]
+cookie,disposer,[]
+disposer,cookie,[]
+feuille,cuisson,[]
+cuire,cookie,[]
+refroidir,minute,[]
+décorer,point,[]
+point,pâte,[]
+refroidir,tartiner,[]
+éclat,noisette,[]
+déguster,que,[]

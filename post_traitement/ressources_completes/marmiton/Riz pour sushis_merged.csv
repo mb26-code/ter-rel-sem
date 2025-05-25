@@ -1,0 +1,34 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+riz,ingrédient,nmod,NOUN,0.6896160840988159,"[{""id"": 15370357, ""node1"": 24372, ""node2"": 123418, ""type"": 0, ""w"": 31.0}, {""id"": 506077, ""node1"": 24372, ""node2"": 123418, ""type"": 3, ""w"": 54.0}]",r_domain,54.0
+riz,sel,nmod,NOUN,0.7465093731880188,"[{""id"": 920059806, ""node1"": 24372, ""node2"": 13260, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+sel,sucre,nmod,NOUN,0.6925632357597351,"[{""id"": 183179, ""node1"": 13260, ""node2"": 139481, ""type"": 0, ""w"": 182.0}, {""id"": 377013894, ""node1"": 13260, ""node2"": 139481, ""type"": 20, ""w"": 30.0}, {""id"": 377000348, ""node1"": 13260, ""node2"": 139481, ""type"": 21, ""w"": 28.0}, {""id"": 1032957125, ""node1"": 13260, ""node2"": 139481, ""type"": 78, ""w"": 32.0}]",r_associated,182.0
+sucre,vinaigre,nmod,NOUN,0.6951253414154053,[],,
+vinaigre,riz,nmod,ADV,0.6922438144683838,"[{""id"": 1023005499, ""node1"": 145443, ""node2"": 24372, ""type"": 0, ""w"": 26.0}, {""id"": 3355970, ""node1"": 145443, ""node2"": 24372, ""type"": 777, ""w"": 10.0}]",r_associated,26.0
+sucre,eau,nmod,NOUN,0.6594484448432922,[],,
+sucre,top,nmod,NOUN,0.5400970578193665,[],,
+casserole,cocotte,nmod,NOUN,0.6444734334945679,"[{""id"": 12325873, ""node1"": 57253, ""node2"": 120952, ""type"": 0, ""w"": 31.0}, {""id"": 67280, ""node1"": 57253, ""node2"": 120952, ""type"": 5, ""w"": 104.0}, {""id"": 98347806, ""node1"": 57253, ""node2"": 120952, ""type"": 8, ""w"": 10.0}]",r_syn,104.0
+minute,couvercle,nmod,NOUN,0.5509920120239258,[],,
+couvercle,saladier,nmod,NOUN,0.6053080558776855,[],,
+saladier,bol,appos,NOUN,0.5367903709411621,"[{""id"": 2284782, ""node1"": 45455, ""node2"": 145405, ""type"": 0, ""w"": 73.0}, {""id"": 979970161, ""node1"": 45455, ""node2"": 145405, ""type"": 666, ""w"": 3.0}]",r_associated,73.0
+bol,cuillère,nmod,NOUN,0.5572551488876343,"[{""id"": 1046576301, ""node1"": 145405, ""node2"": 51905, ""type"": 8, ""w"": 20.0}]",r_hypo,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+laver,fois,nmod,NOUN,0.4705150425434112,[],,
+fois,frotter,acl,VERB,0.4157068133354187,[],,
+laver,laisser,acl,VERB,0.4674450755119324,[],,
+mettre,riz,obj,NOUN,0.6785814762115479,[],,
+eau,tasse,nmod,NOUN,0.5860507488250732,"[{""id"": 914536691, ""node1"": 65012, ""node2"": 146144, ""type"": 0, ""w"": 20.0}, {""id"": 11353687, ""node1"": 65012, ""node2"": 146144, ""type"": 15, ""w"": 38.0}]",r_lieu,38.0
+casserole,profond,amod,ADJ,0.5750002861022949,[],,
+baisser,chaleur,obj,NOUN,0.4809570908546448,"[{""id"": 97747270, ""node1"": 91711, ""node2"": 110910, ""type"": 13, ""w"": 30.0}]",r_agent,30.0
+baisser,couvrir,advcl,VERB,0.4352010190486908,[],,
+couvrir,casserole,obj,NOUN,0.6103931665420532,[],,
+préparer,sushi,obj,NOUN,0.5432714223861694,[],,
+sushi,savoir,acl,VERB,0.495585560798645,[],,
+savoir,mélanger,advcl,VERB,0.4710995256900787,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+mélanger,ingrédient,obj,NOUN,0.6362285614013672,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+prêt,riz,nsubj,NOUN,0.6670249104499817,[],,
+fraîchement,cuire,acl,VERB,0.7265493869781494,[],,
+bol,grand,amod,ADJ,0.516040563583374,[],,
+arroser,sushi,obj,NOUN,0.5644663572311401,[],,
+mélanger,instant,obj,NOUN,0.4833070337772369,[],,

@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,beurre,appos,NOUN,0.7321043014526367,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]",r_associated,69.0
+beurre,sucre,acl,NOUN,0.6973879933357239,"[{""id"": 500926020, ""node1"": 140377, ""node2"": 139481, ""type"": 0, ""w"": 2.0}]",r_associated,2.0
+sucre,farine,nmod,NOUN,0.699601411819458,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]",r_associated,47.0
+sucre,levure,nmod,NOUN,0.6511401534080505,[],,
+levure,muscade,nmod,NOUN,0.6135518550872803,[],,
+noix,oeuf,nmod,NOUN,0.598024308681488,[],,
+oeuf,citron,nmod,NOUN,0.6038509607315063,"[{""id"": 53737936, ""node1"": 116175, ""node2"": 15386, ""type"": 0, ""w"": 44.0}, {""id"": 53614845, ""node1"": 116175, ""node2"": 15386, ""type"": 5, ""w"": 74.0}]",r_syn,74.0
+citron,eau,nmod,NOUN,0.626600980758667,[],,
+titre,confiture,nmod,NOUN,0.5186997056007385,[],,
+confiture,mangue,nmod,NOUN,0.6151015758514404,[],,
+bol,fouet,nmod,NOUN,0.5365910530090332,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 306.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 266.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,306.0
+fouet,saladier,nmod,NOUN,0.5588916540145874,[],,
+saladier,four,nmod,NOUN,0.6991847157478333,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+confiture,obtenir,acl,VERB,0.5499520301818848,[],,
+obtenir,mélange,obj,NOUN,0.4783641993999481,[],,
+mélange,crémeux,amod,ADJ,0.566645622253418,"[{""id"": 31821861, ""node1"": 14800, ""node2"": 72773, ""type"": 17, ""w"": 66.0}]",r_carac,66.0
+ajouter,jaune,obj,NOUN,0.5169243812561035,[],,
+incorporer,mélange,obj,NOUN,0.5238626003265381,"[{""id"": 1313256, ""node1"": 3845, ""node2"": 14800, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+mélange,farine,amod,NOUN,0.6902046799659729,[],,
+reste,ingrédient,nmod,NOUN,0.5645049810409546,[],,
+ingrédient,terminer,acl,VERB,0.6018698811531067,[],,
+incorporer,blanc,obj,NOUN,0.5217159390449524,[],,
+blanc,neige,nmod,NOUN,0.4736866652965545,"[{""id"": 116991, ""node1"": 15196, ""node2"": 3699, ""type"": 0, ""w"": 509.77}, {""id"": 117866, ""node1"": 15196, ""node2"": 3699, ""type"": 23, ""w"": 320.0}, {""id"": 1622496, ""node1"": 15196, ""node2"": 3699, ""type"": 666, ""w"": 12.0}]",r_associated,509.77
+mettre,mélange,obj,NOUN,0.5538657903671265,[],,
+moule,forme,nmod,NOUN,0.5193846225738525,"[{""id"": 934994, ""node1"": 143723, ""node2"": 142000, ""type"": 0, ""w"": 25.0}, {""id"": 53748965, ""node1"": 143723, ""node2"": 142000, ""type"": 5, ""w"": 57.0}, {""id"": 770339478, ""node1"": 143723, ""node2"": 142000, ""type"": 666, ""w"": 2.0}]",r_syn,57.0
+forme,couronne,nmod,NOUN,0.4137251675128937,[],,
+four,moyen,amod,ADJ,0.663184642791748,[],,
+reste,fruit,nmod,NOUN,0.509126603603363,[],,
+gâteau,milieu,nmod,NOUN,0.5955670475959778,[],,
+milieu,cuisson,nmod,NOUN,0.6828808188438416,[],,

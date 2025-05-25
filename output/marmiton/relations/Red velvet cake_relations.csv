@@ -1,0 +1,68 @@
+node1,node2,relations
+colorer,alimentaire,[]
+colorer,vinaigre,[]
+extrait,liquide,[]
+liquide,levure,[]
+levure,beurre,[]
+extrait,sucre,[]
+sucre,farine,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]"
+sucre,lait,[]
+lait,entier,"[{""id"": 114016, ""node1"": 86296, ""node2"": 49309, ""type"": 0, ""w"": 134.0}, {""id"": 132413, ""node1"": 86296, ""node2"": 49309, ""type"": 8, ""w"": 111.0}, {""id"": 276797, ""node1"": 86296, ""node2"": 49309, ""type"": 17, ""w"": 80.0}]"
+lait,cacao,"[{""id"": 415002894, ""node1"": 86296, ""node2"": 68363, ""type"": 0, ""w"": 28.0}, {""id"": 11337293, ""node1"": 86296, ""node2"": 68363, ""type"": 28, ""w"": 38.0}, {""id"": 1046360602, ""node1"": 86296, ""node2"": 68363, ""type"": 666, ""w"": 2.0}]"
+sucre,glace,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -126.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]"
+mascarpone,Philadelphia,[]
+mascarpone,crème,"[{""id"": 2111687, ""node1"": 115657, ""node2"": 44001, ""type"": 0, ""w"": 56.0}, {""id"": 1046576052, ""node1"": 115657, ""node2"": 44001, ""type"": 8, ""w"": 20.0}, {""id"": 989054280, ""node1"": 115657, ""node2"": 44001, ""type"": 666, ""w"": 2.0}]"
+crème,épais,[]
+crème,gelé,[]
+sucre,four,[]
+balance,cuisine,[]
+sucre,étape,[]
+four,180,[]
+sucre,thermostat,[]
+mélanger,lait,"[{""id"": 373014663, ""node1"": 37151, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]"
+lait,vinaigre,[]
+sucre,beurre,[]
+beurre,mou,"[{""id"": 211604, ""node1"": 140377, ""node2"": 26607, ""type"": 17, ""w"": 82.0}]"
+obtention,préparation,[]
+préparation,crémeux,[]
+ajouter,oeuf,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]"
+oeuf,battre,"[{""id"": 15064344, ""node1"": 116175, ""node2"": 119162, ""type"": 26, ""w"": 34.0}]"
+ajouter,farine,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]"
+ajouter,levure,[]
+préparation,homogène,[]
+mélanger,ajouter,[]
+ajouter,colorant,[]
+colorant,rouge,"[{""id"": 558782334, ""node1"": 119998, ""node2"": 86356, ""type"": 0, ""w"": 40.0}, {""id"": 3160996, ""node1"": 119998, ""node2"": 86356, ""type"": 106, ""w"": 3.0}, {""id"": 989786113, ""node1"": 119998, ""node2"": 86356, ""type"": 666, ""w"": 3.0}]"
+verser,préparation,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]"
+préparation,moule,"[{""id"": 601611756, ""node1"": 33634, ""node2"": 143723, ""type"": 0, ""w"": 22.0}]"
+moule,rond,[]
+moule,identique,[]
+cuisson,une,[]
+enfourner,minute,[]
+ajouter,sucre,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]"
+crème,froid,[]
+battre,monter,[]
+monter,préparation,"[{""id"": 1322373, ""node1"": 113767, ""node2"": 33634, ""type"": 0, ""w"": 30.0}]"
+préparation,chantilly,[]
+dressage,gâteau,[]
+gâteau,premier,[]
+déposer,gâteau,[]
+déposer,tartiner,[]
+tartiner,gelée,[]
+gelée,cerise,[]
+couche,bon,[]
+couche,chantilly,[]
+gâteau,second,[]
+couche,différent,[]
+répéter,couche,[]
+gâteau,troisième,[]
+fois,gâteau,[]
+chantilly,dessus,[]
+gâteau,tout,[]
+recouvrir,gâteau,[]
+réserver,minute,[]
+couche,dernier,[]
+déposer,couche,"[{""id"": 432394802, ""node1"": 35714, ""node2"": 19152, ""type"": 14, ""w"": 31.0}]"
+couche,gâteau,[]
+gâteau,juste,[]
+déposer,servir,[]

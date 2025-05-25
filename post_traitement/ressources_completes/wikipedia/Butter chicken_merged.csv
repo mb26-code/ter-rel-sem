@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,gastronomie,obj,NOUN,0.4582444131374359,[],,
+poulet,beurre,nmod,NOUN,0.722252607345581,[],,
+plat,cuisine,nmod,NOUN,0.6855981349945068,"[{""id"": 2142698, ""node1"": 36327, ""node2"": 16033, ""type"": 0, ""w"": 359.0}, {""id"": 505517, ""node1"": 36327, ""node2"": 16033, ""type"": 3, ""w"": 285.0}, {""id"": 128986, ""node1"": 36327, ""node2"": 16033, ""type"": 10, ""w"": 170.0}, {""id"": 145490, ""node1"": 36327, ""node2"": 16033, ""type"": 15, ""w"": 245.0}, {""id"": 376196655, ""node1"": 36327, ""node2"": 16033, ""type"": 16, ""w"": -26.0}, {""id"": 765133729, ""node1"": 36327, ""node2"": 16033, ""type"": 80, ""w"": 26.0}, {""id"": 652234278, ""node1"": 36327, ""node2"": 16033, ""type"": 666, ""w"": 6.0}]",r_associated,359.0
+cuisine,indien,amod,ADJ,0.5758578181266785,[],,
+plat,originaire,amod,ADJ,0.6056763529777527,[],,
+servir,plat,nsubj:pass,NOUN,0.6370052695274353,"[{""id"": 1610963, ""node1"": 7888, ""node2"": 36327, ""type"": 0, ""w"": 122.0}, {""id"": 97862196, ""node1"": 7888, ""node2"": 36327, ""type"": 14, ""w"": 100.0}, {""id"": 134589, ""node1"": 7888, ""node2"": 36327, ""type"": 16, ""w"": 110.0}, {""id"": 376065693, ""node1"": 7888, ""node2"": 36327, ""type"": 31, ""w"": 26.0}, {""id"": 466842766, ""node1"": 7888, ""node2"": 36327, ""type"": 666, ""w"": 2.0}]",r_associated,122.0
+plat,base,nmod,NOUN,0.6491852402687073,[],,
+base,poulet,nmod,NOUN,0.6689716577529907,[],,
+sauce,beurre,nmod,NOUN,0.7691084742546082,"[{""id"": 96714969, ""node1"": 141110, ""node2"": 140377, ""type"": 0, ""w"": 36.0}, {""id"": 96715013, ""node1"": 141110, ""node2"": 140377, ""type"": 9, ""w"": 40.0}]",r_has_part,40.0
+développer,recette,nsubj:pass,NOUN,0.6388726234436035,[],,
+deux,tout,amod,ADJ,0.4169372916221618,[],,
+faire,curry,nsubj:pass,NOUN,0.6990025043487549,[],,
+apparaître,faire,nsubj:pass,VERB,0.452564001083374,"[{""id"": 560842386, ""node1"": 52906, ""node2"": 87528, ""type"": 0, ""w"": 40.0}]",r_associated,40.0
+faire,mélanger,advcl,VERB,0.5462182760238647,[],,
+mélanger,reste,obj,NOUN,0.5489017367362976,[],,
+reste,poulet,nmod,NOUN,0.6539804339408875,[],,
+tomate,riche,appos,ADJ,0.5723960399627686,[],,
+riche,beurre,nmod,NOUN,0.6134253144264221,"[{""id"": 1020306054, ""node1"": 34080, ""node2"": 140377, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+publier,recette,nsubj:pass,NOUN,0.540657103061676,"[{""id"": 569425003, ""node1"": 89502, ""node2"": 120188, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+faire,publier,advcl,VERB,0.4241202175617218,"[{""id"": 12310232, ""node1"": 87528, ""node2"": 89502, ""type"": 0, ""w"": 27.0}, {""id"": 558248, ""node1"": 87528, ""node2"": 89502, ""type"": 5, ""w"": -48.0}]",r_associated,27.0
+publier,poulet,appos,NOUN,0.5916717648506165,[],,
+poulet,cuire,acl,VERB,0.7681868076324463,"[{""id"": 892209526, ""node1"": 146261, ""node2"": 5115, ""type"": 0, ""w"": 20.0}, {""id"": 216454662, ""node1"": 146261, ""node2"": 5115, ""type"": 24, ""w"": 43.0}, {""id"": 96715330, ""node1"": 146261, ""node2"": 5115, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+spécialité,maison,nmod,NOUN,0.5588656663894653,"[{""id"": 558785773, ""node1"": 49537, ""node2"": 45179, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+spécialité,restaurant,nmod,NOUN,0.527938187122345,"[{""id"": 2193662, ""node1"": 49537, ""node2"": 79954, ""type"": 0, ""w"": 51.0}]",r_associated,51.0
+restaurant,indien,amod,ADJ,0.4310620129108429,"[{""id"": 98271621, ""node1"": 79954, ""node2"": 144170, ""type"": 0, ""w"": 31.0}, {""id"": 98271647, ""node1"": 79954, ""node2"": 144170, ""type"": 8, ""w"": 40.0}, {""id"": 215075, ""node1"": 79954, ""node2"": 144170, ""type"": 17, ""w"": 51.0}]",r_carac,51.0
+consommer,trouver,advcl,VERB,0.4928362965583801,[],,
+pain,petit,amod,ADJ,0.6582068800926208,"[{""id"": 12987089, ""node1"": 61283, ""node2"": 55222, ""type"": 17, ""w"": 61.0}]",r_carac,61.0

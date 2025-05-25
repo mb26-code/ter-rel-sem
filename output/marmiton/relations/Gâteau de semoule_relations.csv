@@ -1,0 +1,40 @@
+node1,node2,relations
+titre,gâteau,[]
+gâteau,semoule,[]
+gâteau,ingrédient,[]
+gâteau,beurre,"[{""id"": 765567662, ""node1"": 2149, ""node2"": 140377, ""type"": 0, ""w"": 82.0}, {""id"": 267609, ""node1"": 2149, ""node2"": 140377, ""type"": 28, ""w"": 129.0}]"
+gâteau,sucre,"[{""id"": 136472, ""node1"": 2149, ""node2"": 139481, ""type"": 0, ""w"": 79.0}, {""id"": 34660586, ""node1"": 2149, ""node2"": 139481, ""type"": 8, ""w"": -36.0}, {""id"": 1707132, ""node1"": 2149, ""node2"": 139481, ""type"": 9, ""w"": 34.0}, {""id"": 264027, ""node1"": 2149, ""node2"": 139481, ""type"": 28, ""w"": 128.0}, {""id"": 1609354, ""node1"": 2149, ""node2"": 139481, ""type"": 41, ""w"": -140.0}, {""id"": 2178054, ""node1"": 2149, ""node2"": 139481, ""type"": 50, ""w"": 72.0}, {""id"": 1035329576, ""node1"": 2149, ""node2"": 139481, ""type"": 129, ""w"": 30.0}, {""id"": 1821770, ""node1"": 2149, ""node2"": 139481, ""type"": 666, ""w"": 6.0}]"
+sucre,semoule,"[{""id"": 277256, ""node1"": 139481, ""node2"": 64778, ""type"": 17, ""w"": -94.0}, {""id"": 639101518, ""node1"": 139481, ""node2"": 64778, ""type"": 141, ""w"": 25.0}]"
+sucre,lait,[]
+lait,oeuf,"[{""id"": 920038083, ""node1"": 86296, ""node2"": 116175, ""type"": 0, ""w"": 21.0}, {""id"": 385498014, ""node1"": 86296, ""node2"": 116175, ""type"": 8, ""w"": -25.0}]"
+titre,grille,[]
+grille,pâtisserie,[]
+pâtisserie,moule,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]"
+grille,manquer,[]
+grille,casserole,[]
+casserole,cuillère,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]"
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,four,[]
+four,balance,[]
+balance,cuisine,[]
+balance,étape,[]
+porter,lait,[]
+lait,ébullition,[]
+ébullition,sucre,[]
+gousse,vanille,"[{""id"": 723347912, ""node1"": 3889, ""node2"": 140463, ""type"": 0, ""w"": 27.0}, {""id"": 671656975, ""node1"": 3889, ""node2"": 140463, ""type"": 58, ""w"": 25.0}, {""id"": 714921745, ""node1"": 3889, ""node2"": 140463, ""type"": 666, ""w"": 3.0}]"
+parfum,autre,[]
+titre,parfum,[]
+jeter,semoule,[]
+minute,feu,[]
+feu,doux,[]
+gonfler,semoule,"[{""id"": 770822668, ""node1"": 105710, ""node2"": 64778, ""type"": 13, ""w"": 30.0}]"
+hors,feu,"[{""id"": 561378017, ""node1"": 99013, ""node2"": 143703, ""type"": 0, ""w"": 51.0}]"
+laisser,incorporer,[]
+incorporer,oeuf,[]
+incorporer,mélanger,"[{""id"": 2053223, ""node1"": 3845, ""node2"": 37151, ""type"": 0, ""w"": 58.0}, {""id"": 646340, ""node1"": 3845, ""node2"": 37151, ""type"": 5, ""w"": 142.0}, {""id"": 1009808142, ""node1"": 3845, ""node2"": 37151, ""type"": 666, ""w"": 3.0}]"
+verser,préparation,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]"
+préparation,moule,"[{""id"": 601611756, ""node1"": 33634, ""node2"": 143723, ""type"": 0, ""w"": 22.0}]"
+moule,rectangulaire,"[{""id"": 31819059, ""node1"": 143723, ""node2"": 3278, ""type"": 17, ""w"": 57.0}]"
+four,180,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,[]

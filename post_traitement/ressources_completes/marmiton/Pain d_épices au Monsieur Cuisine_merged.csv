@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,pain,nmod,NOUN,0.6112104654312134,[],,
+pain,épice,nmod,NOUN,0.7047860026359558,[],,
+pain,Monsieur,nmod,NOUN,0.613669216632843,[],,
+Monsieur,cuisine,nmod,NOUN,0.5626035332679749,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,muscade,nmod,NOUN,0.6014970541000366,"[{""id"": 857298008, ""node1"": 139470, ""node2"": 115297, ""type"": 0, ""w"": 20.0}, {""id"": 720818978, ""node1"": 139470, ""node2"": 115297, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+poudre,gingembre,nmod,NOUN,0.630526065826416,[],,
+gingembre,levure,nmod,NOUN,0.6237838864326477,[],,
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+poudre,oeuf,nmod,NOUN,0.588036835193634,[],,
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+lait,sucre,nmod,NOUN,0.6437966823577881,[],,
+sucre,vanillé,amod,ADJ,0.6220211982727051,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]",r_associated,13.0
+sucre,graine,nmod,NOUN,0.6806163191795349,[],,
+sucre,anis,nmod,PROPN,0.601198673248291,[],,
+sucre,vert,amod,PROPN,0.6323696970939636,[],,
+vert,cannelle,amod,ADJ,0.560249388217926,"[{""id"": 509560564, ""node1"": 26976, ""node2"": 112959, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+titre,mélange,nmod,NOUN,0.4629373252391815,"[{""id"": 243409340, ""node1"": 7970, ""node2"": 14800, ""type"": 8, ""w"": 31.0}]",r_hypo,31.0
+mélange,épice,nmod,NOUN,0.6910523176193237,"[{""id"": 925026230, ""node1"": 14800, ""node2"": 146056, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+mélange,four,appos,NOUN,0.7109158635139465,[],,
+four,Monsieur,nmod,NOUN,0.6360695362091064,[],,
+four,saladier,nmod,NOUN,0.6991847157478333,[],,
+saladier,moule,nmod,NOUN,0.56706702709198,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+chauffer,miel,obj,NOUN,0.6516919136047363,[],,
+saladier,mélanger,acl,VERB,0.5846896171569824,"[{""id"": 17857328, ""node1"": 45455, ""node2"": 37151, ""type"": 0, ""w"": 2.0}, {""id"": 72596974, ""node1"": 45455, ""node2"": 37151, ""type"": 24, ""w"": -25.0}, {""id"": 380394138, ""node1"": 45455, ""node2"": 37151, ""type"": 30, ""w"": 26.0}]",r_lieu_action,26.0
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+verser,tout,obj,NOUN,0.5228472352027893,[],,
+cuve,miel,nmod,NOUN,0.6556995511054993,[],,
+trou,bouchon,nmod,NOUN,0.4170037508010864,"[{""id"": 1029015, ""node1"": 115865, ""node2"": 121129, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+bouchon,œuf,nmod,NOUN,0.5282012820243835,[],,
+verser,préparation,obj,NOUN,0.5208573341369629,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparation,moule,nmod,NOUN,0.5472729206085205,"[{""id"": 601611756, ""node1"": 33634, ""node2"": 143723, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+préparation,cake,nmod,ADV,0.5542082786560059,[],,
+pain,refroidir,acl:relcl,VERB,0.6903350949287415,[],,
+patienter,déguster,advcl,VERB,0.4887207150459289,[],,

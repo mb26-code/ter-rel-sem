@@ -1,0 +1,66 @@
+node1,node2,relations
+titre,bûche,[]
+bûche,citron,[]
+extraire,framboise,[]
+framboise,ingrédient,[]
+framboise,levure,[]
+levure,chimique,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]"
+levure,sucre,[]
+sucre,oeuf,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]"
+sucre,zeste,[]
+zeste,citron,"[{""id"": 615058522, ""node1"": 98173, ""node2"": 15386, ""type"": 0, ""w"": 22.0}, {""id"": 9991099, ""node1"": 98173, ""node2"": 15386, ""type"": 10, ""w"": 4.0}, {""id"": 377014851, ""node1"": 98173, ""node2"": 15386, ""type"": 20, ""w"": 34.0}, {""id"": 986046177, ""node1"": 98173, ""node2"": 15386, ""type"": 666, ""w"": 2.0}]"
+sucre,jus,[]
+jus,citron,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]"
+extraire,liquide,[]
+liquide,sucre,"[{""id"": 914413973, ""node1"": 140315, ""node2"": 139481, ""type"": 0, ""w"": 20.0}]"
+sucre,glace,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -126.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]"
+mascarpone,crème,"[{""id"": 2111687, ""node1"": 115657, ""node2"": 44001, ""type"": 0, ""w"": 56.0}, {""id"": 1046576052, ""node1"": 115657, ""node2"": 44001, ""type"": 8, ""w"": 20.0}, {""id"": 989054280, ""node1"": 115657, ""node2"": 44001, ""type"": 666, ""w"": 2.0}]"
+crème,liquide,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]"
+extraire,jus,"[{""id"": 599215017, ""node1"": 103148, ""node2"": 53310, ""type"": 14, ""w"": 31.0}]"
+jus,sucre,"[{""id"": 602097658, ""node1"": 53310, ""node2"": 139481, ""type"": 0, ""w"": 17.0}, {""id"": 580307919, ""node1"": 53310, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]"
+sucre,framboise,[]
+balance,cuisine,[]
+balance,four,[]
+four,réfrigérateur,[]
+réfrigérateur,saladier,[]
+saladier,tamis,[]
+réfrigérateur,bol,[]
+table,induction,[]
+blanchir,mélange,[]
+incorporer,farine,"[{""id"": 423151005, ""node1"": 3845, ""node2"": 127629, ""type"": 0, ""w"": 1.0}]"
+étaler,pâte,"[{""id"": 364779096, ""node1"": 98214, ""node2"": 34069, ""type"": 0, ""w"": 38.0}, {""id"": 243248, ""node1"": 98214, ""node2"": 34069, ""type"": 14, ""w"": 100.0}]"
+plaque,recouvrir,[]
+former,rectangle,[]
+devoir,génoise,[]
+sortie,four,[]
+retourner,génoise,[]
+torchon,propre,"[{""id"": 14801365, ""node1"": 87841, ""node2"": 118316, ""type"": 17, ""w"": 30.0}]"
+enlever,papier,[]
+rouler,génoise,[]
+rouler,prendre,[]
+prendre,forme,"[{""id"": 488344148, ""node1"": 86306, ""node2"": 142000, ""type"": 14, ""w"": 51.0}]"
+forme,roulé,[]
+saladier,grand,"[{""id"": 1077330492, ""node1"": 45455, ""node2"": 23178, ""type"": 0, ""w"": 50.0}, {""id"": 31838076, ""node1"": 45455, ""node2"": 23178, ""type"": 17, ""w"": 60.0}, {""id"": 1668931, ""node1"": 45455, ""node2"": 23178, ""type"": 666, ""w"": 2.0}]"
+consistance,chantilly,[]
+bol,autre,[]
+mélanger,mascarpone,[]
+mascarpone,sucre,[]
+mélanger,extrait,[]
+extrait,vanille,[]
+incorporer,crème,[]
+crème,fouetter,"[{""id"": 2219421, ""node1"": 44001, ""node2"": 45711, ""type"": 0, ""w"": 52.0}, {""id"": 15066415, ""node1"": 44001, ""node2"": 45711, ""type"": 26, ""w"": 30.0}, {""id"": 2311449, ""node1"": 44001, ""node2"": 45711, ""type"": 42, ""w"": 51.0}]"
+incorporer,génoise,[]
+incorporer,délicatement,[]
+étaler,couche,"[{""id"": 560922829, ""node1"": 98214, ""node2"": 19152, ""type"": 0, ""w"": 32.0}]"
+couche,crème,[]
+crème,mascarpone,"[{""id"": 796844750, ""node1"": 44001, ""node2"": 115657, ""type"": 0, ""w"": 21.0}, {""id"": 1032956785, ""node1"": 44001, ""node2"": 115657, ""type"": 78, ""w"": 29.0}]"
+surface,tout,[]
+mascarpone,surface,[]
+disposer,framboise,[]
+framboise,crème,[]
+placer,bûche,[]
+placer,prendre,[]
+saupoudrer,bûche,[]
+bûche,sucre,"[{""id"": 97120942, ""node1"": 45545, ""node2"": 139481, ""type"": 0, ""w"": 52.0}, {""id"": 108067709, ""node1"": 45545, ""node2"": 139481, ""type"": 50, ""w"": 16.0}]"
+ajouter,zeste,[]
+mettre,framboise,[]

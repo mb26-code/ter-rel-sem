@@ -1,0 +1,37 @@
+node1,node2,relations
+tartine,four,[]
+four,tomate,[]
+four,fromage,"[{""id"": 568561917, ""node1"": 9190, ""node2"": 141687, ""type"": 28, ""w"": 15.0}]"
+fromage,ingrédient,"[{""id"": 24850717, ""node1"": 141687, ""node2"": 123418, ""type"": 0, ""w"": 34.0}, {""id"": 24842103, ""node1"": 141687, ""node2"": 123418, ""type"": 6, ""w"": 233.0}]"
+tomate,jambon,"[{""id"": 421761076, ""node1"": 22138, ""node2"": 57980, ""type"": 0, ""w"": 1.0}]"
+fromage,champignon,"[{""id"": 561079463, ""node1"": 141687, ""node2"": 25484, ""type"": 0, ""w"": 42.0}]"
+poivron,salade,"[{""id"": 1944023, ""node1"": 38257, ""node2"": 118908, ""type"": 0, ""w"": 61.0}, {""id"": 1959398, ""node1"": 38257, ""node2"": 118908, ""type"": 10, ""w"": 34.0}, {""id"": 803716977, ""node1"": 38257, ""node2"": 118908, ""type"": 17, ""w"": -5.0}, {""id"": 979323384, ""node1"": 38257, ""node2"": 118908, ""type"": 666, ""w"": 3.0}]"
+salade,champignon,[]
+champignon,frais,[]
+fromage,pignon,[]
+four,couteau,[]
+four,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+table,induction,[]
+couper,champignon,"[{""id"": 93547215, ""node1"": 128828, ""node2"": 25484, ""type"": 14, ""w"": 30.0}]"
+couper,baguette,"[{""id"": 8911600, ""node1"": 128828, ""node2"": 128482, ""type"": 14, ""w"": 30.0}, {""id"": 376201015, ""node1"": 128828, ""node2"": 128482, ""type"": 16, ""w"": 37.0}]"
+couper,jambon,"[{""id"": 31770885, ""node1"": 128828, ""node2"": 57980, ""type"": 14, ""w"": 30.0}]"
+assembler,tartine,[]
+déposer,tranche,[]
+tranche,ingrédient,[]
+opération,bout,[]
+bout,tartine,[]
+four,180,[]
+tartine,plaque,[]
+plat,aller,[]
+salade,couper,[]
+couper,tomate,"[{""id"": 628044027, ""node1"": 128828, ""node2"": 22138, ""type"": 0, ""w"": 27.0}, {""id"": 628044026, ""node1"": 128828, ""node2"": 22138, ""type"": 14, ""w"": 100.0}]"
+ajouter,vinaigrette,[]
+suggestion,vinaigrette,[]
+cuillère,soupe,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]"
+soupe,huile,"[{""id"": 3346889, ""node1"": 117152, ""node2"": 141971, ""type"": 777, ""w"": 9.0}]"
+huile,olive,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]"
+cuillère,cuillère,"[{""id"": 292365, ""node1"": 51905, ""node2"": 51905, ""type"": 19, ""w"": 81.0}]"
+soupe,vinaigre,"[{""id"": 729556147, ""node1"": 117152, ""node2"": 145443, ""type"": 0, ""w"": 30.0}]"
+vinaigre,balsamique,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]"
+vinaigre,sel,"[{""id"": 2147403, ""node1"": 145443, ""node2"": 13260, ""type"": 0, ""w"": 80.0}]"

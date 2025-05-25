@@ -1,0 +1,16 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+base,tomate,nmod,NOUN,0.6311788558959961,[],,
+herbe,originaire,amod,ADJ,0.4348879158496856,[],,
+herbe,Grèce,nmod,PROPN,0.4110743105411529,[],,
+fruit,tomate,nsubj,NOUN,0.5893152952194214,"[{""id"": 1652860, ""node1"": 87286, ""node2"": 22138, ""type"": 0, ""w"": 98.0}, {""id"": 136635, ""node1"": 87286, ""node2"": 22138, ""type"": 8, ""w"": 231.0}, {""id"": 2212817, ""node1"": 87286, ""node2"": 22138, ""type"": 9, ""w"": -35.0}, {""id"": 15173486, ""node1"": 87286, ""node2"": 22138, ""type"": 27, ""w"": -28.0}]",r_hypo,231.0
+fruit,emblématique,amod,ADJ,0.4695017337799072,[],,
+fruit,île,nmod,NOUN,0.4380878210067749,[],,
+fin,siècle,nmod,NOUN,0.429499864578247,[],,
+fruit,cultiver,acl:relcl,VERB,0.4804298281669616,"[{""id"": 798846233, ""node1"": 87286, ""node2"": 124394, ""type"": 0, ""w"": 30.0}, {""id"": 1045718976, ""node1"": 87286, ""node2"": 124394, ""type"": 24, ""w"": 85.0}, {""id"": 94074094, ""node1"": 87286, ""node2"": 124394, ""type"": 26, ""w"": 39.0}]",r_agent-1,85.0
+cultiver,tomate,nsubj,NOUN,0.5778425335884094,"[{""id"": 766545783, ""node1"": 124394, ""node2"": 22138, ""type"": 13, ""w"": 22.0}, {""id"": 94074137, ""node1"": 124394, ""node2"": 22138, ""type"": 14, ""w"": 34.0}]",r_patient,34.0
+herbe,divers,amod,ADJ,0.4616155922412872,[],,
+pâte,former,acl,VERB,0.6145017147064209,"[{""id"": 96931373, ""node1"": 34069, ""node2"": 66314, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+morceau,petit,amod,ADJ,0.5585225224494934,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+morceau,irrégulier,amod,ADJ,0.4817070066928863,[],,
+huile,olive,nmod,ADJ,0.573360800743103,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+ajouter,version,nsubj,NOUN,0.4577342271804809,[],,

@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,salade,appos,NOUN,0.5926524996757507,[],,
+salade,lard,nmod,NOUN,0.6578001976013184,[],,
+salade,mamie,amod,PROPN,0.5825421214103699,[],,
+salade,ingrédient,nmod,NOUN,0.7127874493598938,[],,
+salade,vinaigre,nmod,NOUN,0.7109248638153076,"[{""id"": 385546, ""node1"": 118908, ""node2"": 145443, ""type"": 0, ""w"": 68.0}, {""id"": 97758245, ""node1"": 118908, ""node2"": 145443, ""type"": 9, ""w"": 27.0}]",r_associated,68.0
+vinaigre,alcool,nmod,NOUN,0.5851388573646545,"[{""id"": 606194778, ""node1"": 145443, ""node2"": 47597, ""type"": 0, ""w"": 7.0}, {""id"": 604555619, ""node1"": 145443, ""node2"": 47597, ""type"": 6, ""w"": 32.0}, {""id"": 434562941, ""node1"": 145443, ""node2"": 47597, ""type"": 50, ""w"": 26.0}, {""id"": 72930125, ""node1"": 145443, ""node2"": 47597, ""type"": 777, ""w"": 10.0}]",r_isa,32.0
+vinaigre,huile,amod,NOUN,0.6314905285835266,"[{""id"": 2139914, ""node1"": 145443, ""node2"": 141971, ""type"": 0, ""w"": 86.0}, {""id"": 1046576307, ""node1"": 145443, ""node2"": 141971, ""type"": 8, ""w"": 20.0}]",r_associated,86.0
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+terre,oeuf,nmod,NOUN,0.5886920690536499,[],,
+oeuf,échalote,amod,NOUN,0.5807203650474548,[],,
+oeuf,frisé,amod,ADJ,0.5001846551895142,[],,
+titre,mixeur,nmod,NOUN,0.515876829624176,[],,
+mixeur,saladier,nmod,NOUN,0.581632137298584,[],,
+saladier,couteau,nmod,NOUN,0.6030980348587036,[],,
+saladier,économe,appos,NOUN,0.542054295539856,[],,
+économe,poêle,nmod,NOUN,0.6104288101196289,[],,
+mixeur,cuillère,nmod,NOUN,0.5916650295257568,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+mixeur,cuire,acl,VERB,0.739442765712738,[],,
+cuire,pomme,obj,NOUN,0.7712360620498657,"[{""id"": 195355017, ""node1"": 5115, ""node2"": 37201, ""type"": 13, ""w"": 30.0}, {""id"": 97862229, ""node1"": 5115, ""node2"": 37201, ""type"": 14, ""w"": 30.0}]",r_agent,30.0
+préparer,frisé,obj,ADJ,0.432409405708313,[],,
+cuire,éplucher,advcl,VERB,0.6798201203346252,[],,
+saladier,service,nmod,NOUN,0.5721870064735413,"[{""id"": 1021196406, ""node1"": 45455, ""node2"": 24247, ""type"": 0, ""w"": 31.0}, {""id"": 979970168, ""node1"": 45455, ""node2"": 24247, ""type"": 666, ""w"": 3.0}]",r_associated,31.0
+mettre,échalote,obj,NOUN,0.5825575590133667,[],,
+mettre,frisé,obj,ADJ,0.439924955368042,[],,
+feu,puissant,amod,ADJ,0.5232943296432495,[],,
+cuire,coloré,advcl,ADJ,0.7299614548683167,[],,
+huile,cuisson,nmod,NOUN,0.7301664352416992,"[{""id"": 8556096, ""node1"": 141971, ""node2"": 60056, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+poêle,cuisson,nmod,NOUN,0.7417072057723999,"[{""id"": 33859304, ""node1"": 119686, ""node2"": 60056, ""type"": 0, ""w"": 52.0}, {""id"": 1526741, ""node1"": 119686, ""node2"": 60056, ""type"": 666, ""w"": 1.0}, {""id"": 3716049, ""node1"": 119686, ""node2"": 60056, ""type"": 777, ""w"": 10.0}]",r_associated,52.0
+mettre,vinaigre,obj,NOUN,0.6119012236595154,[],,
+couper,oeuf,obj,NOUN,0.574720561504364,[],,
+imprégner,vinaigre,nsubj,NOUN,0.600558340549469,[],,
+verser,vinaigre,obj,NOUN,0.6104941368103027,"[{""id"": 15085300, ""node1"": 104506, ""node2"": 145443, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+vinaigre,chaud,amod,ADJ,0.6532981991767883,[],,
+verser,répartir,advcl,VERB,0.4286106526851654,[],,

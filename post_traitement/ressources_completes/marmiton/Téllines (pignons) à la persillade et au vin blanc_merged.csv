@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+vin,blanc,amod,ADJ,0.6016787886619568,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,oignon,appos,ADP,0.6626235842704773,"[{""id"": 24923430, ""node1"": 123418, ""node2"": 123307, ""type"": 0, ""w"": 15.0}, {""id"": 24850729, ""node1"": 123418, ""node2"": 123307, ""type"": 8, ""w"": 28.0}]",r_hypo,28.0
+ingrédient,beurre,amod,NOUN,0.7321043014526367,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]",r_associated,69.0
+ingrédient,vin,nmod,NOUN,0.6430637836456299,"[{""id"": 578506260, ""node1"": 123418, ""node2"": 35798, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+top,poêle,nmod,NOUN,0.5366419553756714,[],,
+casserole,saladier,nmod,NOUN,0.6254573464393616,[],,
+saladier,balance,appos,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+casserole,pêcher,amod,VERB,0.5830180048942566,[],,
+aide,petit,amod,ADJ,0.4529123306274414,[],,
+trou,petit,amod,ADJ,0.4532713592052459,"[{""id"": 276277, ""node1"": 115865, ""node2"": 55222, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+aide,trou,nmod,NOUN,0.4331819415092468,[],,
+trou,surface,nmod,NOUN,0.4382910132408142,[],,
+surface,sable,nmod,NOUN,0.5074058771133423,[],,
+eau,robinet,nmod,NOUN,0.5268837213516235,"[{""id"": 111174, ""node1"": 65012, ""node2"": 26519, ""type"": 0, ""w"": 231.0}, {""id"": 2475327, ""node1"": 65012, ""node2"": 26519, ""type"": 10, ""w"": 64.0}, {""id"": 184011, ""node1"": 65012, ""node2"": 26519, ""type"": 15, ""w"": 238.0}, {""id"": 18508186, ""node1"": 65012, ""node2"": 26519, ""type"": 35, ""w"": 51.0}, {""id"": 1046565359, ""node1"": 65012, ""node2"": 26519, ""type"": 156, ""w"": 20.0}, {""id"": 652228203, ""node1"": 65012, ""node2"": 26519, ""type"": 666, ""w"": 16.0}]",r_lieu,238.0
+eau,renouveler,acl,VERB,0.5419057011604309,[],,
+renouveler,eau,obj,NOUN,0.5419057011604309,[],,
+eau,fois,nmod,NOUN,0.5474652051925659,"[{""id"": 1030687311, ""node1"": 65012, ""node2"": 38021, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+ébullition,mélange,nsubj,NOUN,0.5576464533805847,[],,
+cuire,ouvert,advcl,ADJ,0.6731510758399963,[],,
+appétit,bon,amod,ADJ,0.4575223624706268,[],,
+servir,appétit,obj,NOUN,0.5391475558280945,[],,

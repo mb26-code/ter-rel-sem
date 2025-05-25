@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+Zombie,ingrédient,nmod,NOUN,0.430292010307312,[],,
+rhum,blanc,amod,ADJ,0.5540717244148254,"[{""id"": 2557588, ""node1"": 129154, ""node2"": 15196, ""type"": 0, ""w"": 31.0}, {""id"": 1879917, ""node1"": 129154, ""node2"": 15196, ""type"": 17, ""w"": 28.0}, {""id"": 3163810, ""node1"": 129154, ""node2"": 15196, ""type"": 106, ""w"": 15.0}]",r_associated,31.0
+Zombie,liqueur,nmod,NOUN,0.4223918914794922,[],,
+liqueur,abricot,nmod,NOUN,0.5320476293563843,[],,
+Zombie,abricot,appos,NOUN,0.4005346298217773,[],,
+Zombie,jus,appos,NOUN,0.5364183187484741,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+citron,vert,amod,ADJ,0.5348256230354309,"[{""id"": 1559582, ""node1"": 15386, ""node2"": 26976, ""type"": 0, ""w"": 61.0}, {""id"": 1773945, ""node1"": 15386, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3160941, ""node1"": 15386, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]",r_associated,61.0
+jus,sirop,nmod,NOUN,0.5982855558395386,"[{""id"": 29328486, ""node1"": 53310, ""node2"": 91109, ""type"": 0, ""w"": 21.0}, {""id"": 54735672, ""node1"": 53310, ""node2"": 91109, ""type"": 5, ""w"": 75.0}, {""id"": 9985762, ""node1"": 53310, ""node2"": 91109, ""type"": 10, ""w"": 26.0}]",r_syn,75.0
+jus,jus,nmod,NOUN,0.530181884765625,"[{""id"": 311916, ""node1"": 53310, ""node2"": 53310, ""type"": 19, ""w"": 55.0}, {""id"": 475864937, ""node1"": 53310, ""node2"": 53310, ""type"": 170, ""w"": 35.0}]",r_lemma,55.0
+jus,ananas,nmod,NOUN,0.5756807923316956,"[{""id"": 899180188, ""node1"": 53310, ""node2"": 115827, ""type"": 0, ""w"": 22.0}, {""id"": 1055429116, ""node1"": 53310, ""node2"": 115827, ""type"": 666, ""w"": 2.0}]",r_associated,22.0
+sirop,sucre,nmod,NOUN,0.648704469203949,"[{""id"": 217497, ""node1"": 91109, ""node2"": 139481, ""type"": 0, ""w"": 407.0}, {""id"": 415329, ""node1"": 91109, ""node2"": 139481, ""type"": 9, ""w"": 70.0}, {""id"": 1035329517, ""node1"": 91109, ""node2"": 139481, ""type"": 50, ""w"": 31.0}, {""id"": 984864968, ""node1"": 91109, ""node2"": 139481, ""type"": 666, ""w"": 3.0}]",r_associated,407.0
+sucre,canne,nmod,NOUN,0.6069387793540955,"[{""id"": 107598, ""node1"": 139481, ""node2"": 144267, ""type"": 0, ""w"": 241.0}, {""id"": 160436, ""node1"": 139481, ""node2"": 144267, ""type"": 15, ""w"": 78.0}, {""id"": 1763995, ""node1"": 139481, ""node2"": 144267, ""type"": 666, ""w"": 1.0}]",r_associated,241.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+réaliser,recette,obj,NOUN,0.5851512551307678,"[{""id"": 373014759, ""node1"": 4528, ""node2"": 120188, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+recette,Zombie,nmod,PROPN,0.4832063019275665,[],,
+Zombie,verre,nmod,NOUN,0.4832762479782104,[],,
+verser,ingrédient,nsubj,NOUN,0.5961355566978455,[],,
+verre,type,nmod,NOUN,0.5144564509391785,[],,
+décorer,morceau,nmod,NOUN,0.5552163124084473,[],,
+morceau,ananas,nmod,NOUN,0.5826804637908936,[],,
+pincée,sucre,nmod,NOUN,0.6500593423843384,[],,
+sucre,au-dessus,amod,ADV,0.6492688059806824,[],,

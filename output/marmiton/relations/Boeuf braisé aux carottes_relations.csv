@@ -1,0 +1,39 @@
+node1,node2,relations
+titre,boeuf,[]
+boeuf,carotte,[]
+carotte,ingrédient,[]
+boeuf,sel,[]
+sel,poivre,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]"
+poivre,bouillon,[]
+bouillon,boeuf,[]
+boeuf,thym,[]
+boeuf,oignon,[]
+boeuf,matière,[]
+matière,gras,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]"
+matière,concentrer,[]
+tomate,laurier,[]
+poêle,couteau,[]
+poêle,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+poêle,couper,[]
+couper,viande,"[{""id"": 241180, ""node1"": 128828, ""node2"": 140100, ""type"": 0, ""w"": 74.0}, {""id"": 15084106, ""node1"": 128828, ""node2"": 140100, ""type"": 14, ""w"": 100.0}]"
+viande,morceau,"[{""id"": 796691557, ""node1"": 140100, ""node2"": 65364, ""type"": 0, ""w"": 29.0}]"
+morceau,égal,[]
+chauffer,matière,"[{""id"": 560922644, ""node1"": 90994, ""node2"": 29208, ""type"": 0, ""w"": 38.0}]"
+morceau,revenir,[]
+côté,tout,[]
+morceau,retirer,[]
+revenir,oignon,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]"
+morceau,préparer,[]
+préparer,bouillon,[]
+litre,eau,"[{""id"": 2458362, ""node1"": 57416, ""node2"": 65012, ""type"": 0, ""w"": 84.0}, {""id"": 15759326, ""node1"": 57416, ""node2"": 65012, ""type"": 28, ""w"": 10.0}, {""id"": 720818422, ""node1"": 57416, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 980526881, ""node1"": 57416, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]"
+morceau,ajouter,[]
+ajouter,viande,[]
+ajouter,verser,"[{""id"": 12346252, ""node1"": 25099, ""node2"": 104506, ""type"": 0, ""w"": 21.0}, {""id"": 12293759, ""node1"": 25099, ""node2"": 104506, ""type"": 5, ""w"": 82.0}]"
+verser,bouillon,[]
+verser,concentré,[]
+concentré,tomate,[]
+concentré,carotte,[]
+carotte,éplucher,"[{""id"": 796703352, ""node1"": 76234, ""node2"": 59879, ""type"": 0, ""w"": 31.0}, {""id"": 15066170, ""node1"": 76234, ""node2"": 59879, ""type"": 26, ""w"": 31.0}]"
+carotte,ail,[]
+feu,doux,[]

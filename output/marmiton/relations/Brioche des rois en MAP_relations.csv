@@ -1,0 +1,50 @@
+node1,node2,relations
+titre,brioche,[]
+brioche,roi,[]
+brioche,map,[]
+map,ingrédient,[]
+brioche,levure,"[{""id"": 1786479, ""node1"": 140188, ""node2"": 53450, ""type"": 666, ""w"": 1.0}, {""id"": 98608030, ""node1"": 140188, ""node2"": 53450, ""type"": 777, ""w"": 10.0}]"
+levure,sel,[]
+brioche,sucre,"[{""id"": 663769, ""node1"": 140188, ""node2"": 139481, ""type"": 0, ""w"": 39.0}, {""id"": 98291850, ""node1"": 140188, ""node2"": 139481, ""type"": 42, ""w"": 31.0}, {""id"": 1823113, ""node1"": 140188, ""node2"": 139481, ""type"": 666, ""w"": 4.0}]"
+sucre,beurre,[]
+sucre,lait,[]
+lait,oeuf,"[{""id"": 920038083, ""node1"": 86296, ""node2"": 116175, ""type"": 0, ""w"": 21.0}, {""id"": 385498014, ""node1"": 86296, ""node2"": 116175, ""type"": 8, ""w"": -25.0}]"
+oeuf,sucre,"[{""id"": 76133259, ""node1"": 116175, ""node2"": 139481, ""type"": 50, ""w"": 26.0}]"
+sucre,grain,"[{""id"": 1655869, ""node1"": 139481, ""node2"": 57895, ""type"": 0, ""w"": 56.0}, {""id"": 98112976, ""node1"": 139481, ""node2"": 57895, ""type"": 58, ""w"": 26.0}]"
+confiture,abricot,"[{""id"": 411049, ""node1"": 70793, ""node2"": 118502, ""type"": 0, ""w"": 141.0}, {""id"": 11340043, ""node1"": 70793, ""node2"": 118502, ""type"": 28, ""w"": 38.0}]"
+abricot,four,[]
+four,pinceau,[]
+pinceau,casserole,[]
+casserole,balance,[]
+balance,cuisine,[]
+balance,étape,[]
+cuve,machine,[]
+machine,pain,[]
+verser,beurre,[]
+beurre,lait,"[{""id"": 174002, ""node1"": 140377, ""node2"": 86296, ""type"": 0, ""w"": 321.0}, {""id"": 31311291, ""node1"": 140377, ""node2"": 86296, ""type"": 3, ""w"": 32.0}, {""id"": 500924502, ""node1"": 140377, ""node2"": 86296, ""type"": 6, ""w"": 148.0}, {""id"": 385497905, ""node1"": 140377, ""node2"": 86296, ""type"": 8, ""w"": -25.0}, {""id"": 189714, ""node1"": 140377, ""node2"": 86296, ""type"": 9, ""w"": 60.0}, {""id"": 1770015, ""node1"": 140377, ""node2"": 86296, ""type"": 666, ""w"": 6.0}]"
+ajouter,farine,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]"
+levure,farine,"[{""id"": 1788186, ""node1"": 53450, ""node2"": 127629, ""type"": 0, ""w"": 60.0}, {""id"": 1046576042, ""node1"": 53450, ""node2"": 127629, ""type"": 8, ""w"": 20.0}]"
+map,pâte,[]
+map,pizza,[]
+dur,qui,[]
+map,dur,[]
+dur,1h30,[]
+lever,pâte,[]
+cuve,programme,[]
+programme,terminer,[]
+incorporer,fève,[]
+former,boule,"[{""id"": 461428458, ""node1"": 66314, ""node2"": 141883, ""type"": 14, ""w"": 41.0}]"
+façonner,couronne,[]
+jaune,œuf,"[{""id"": 558764775, ""node1"": 86711, ""node2"": 174124, ""type"": 0, ""w"": 36.0}]"
+four,180,[]
+four,200,[]
+four,degré,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,[]
+récipient,eau,[]
+eau,fond,"[{""id"": 98635079, ""node1"": 65012, ""node2"": 119272, ""type"": 0, ""w"": 19.0}, {""id"": 98389618, ""node1"": 65012, ""node2"": 119272, ""type"": 10, ""w"": 30.0}]"
+enfourner,brioche,[]
+cuire,min,[]
+brioche,cuit,[]
+abricot,diluer,[]
+eau,ébullition,"[{""id"": 1030680817, ""node1"": 65012, ""node2"": 83252, ""type"": 0, ""w"": 22.0}, {""id"": 3253715, ""node1"": 65012, ""node2"": 83252, ""type"": 777, ""w"": 7.0}]"
+ajouter,sucre,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]"

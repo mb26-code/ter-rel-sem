@@ -1,0 +1,74 @@
+node1,node2,relations
+tuner,ingrédient,[]
+tuner,huile,[]
+huile,sel,"[{""id"": 569059224, ""node1"": 141971, ""node2"": 13260, ""type"": 0, ""w"": 57.0}]"
+sel,sucre,"[{""id"": 183179, ""node1"": 13260, ""node2"": 139481, ""type"": 0, ""w"": 182.0}, {""id"": 377013894, ""node1"": 13260, ""node2"": 139481, ""type"": 20, ""w"": 30.0}, {""id"": 377000348, ""node1"": 13260, ""node2"": 139481, ""type"": 21, ""w"": 28.0}, {""id"": 1032957125, ""node1"": 13260, ""node2"": 139481, ""type"": 78, ""w"": 32.0}]"
+sucre,vinaigre,[]
+vinaigre,riz,"[{""id"": 1023005499, ""node1"": 145443, ""node2"": 24372, ""type"": 0, ""w"": 26.0}, {""id"": 3355970, ""node1"": 145443, ""node2"": 24372, ""type"": 777, ""w"": 10.0}]"
+tuner,eau,[]
+eau,huile,"[{""id"": 922137128, ""node1"": 65012, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]"
+huile,sésame,"[{""id"": 12295235, ""node1"": 141971, ""node2"": 18404, ""type"": 0, ""w"": 43.0}, {""id"": 580644, ""node1"": 141971, ""node2"": 18404, ""type"": 5, ""w"": 32.0}, {""id"": 88080850, ""node1"": 141971, ""node2"": 18404, ""type"": 35, ""w"": 32.0}, {""id"": 380316783, ""node1"": 141971, ""node2"": 18404, ""type"": 54, ""w"": 34.0}]"
+sésame,thon,[]
+thon,rouge,"[{""id"": 401824, ""node1"": 86754, ""node2"": 86356, ""type"": 0, ""w"": 522.0}, {""id"": 98287448, ""node1"": 86754, ""node2"": 86356, ""type"": 17, ""w"": 21.0}, {""id"": 3161830, ""node1"": 86754, ""node2"": 86356, ""type"": 106, ""w"": 4.0}, {""id"": 2164102, ""node1"": 86754, ""node2"": 86356, ""type"": 666, ""w"": 2.0}]"
+thon,sauce,[]
+thon,doux,[]
+sésame,citron,[]
+eau,avocat,[]
+avocat,coriandre,[]
+coriandre,piment,"[{""id"": 922162957, ""node1"": 61977, ""node2"": 128791, ""type"": 0, ""w"": 20.0}]"
+eau,rouge,"[{""id"": 12981213, ""node1"": 65012, ""node2"": 86356, ""type"": 106, ""w"": 1.0}]"
+graine,sésame,"[{""id"": 797533486, ""node1"": 14469, ""node2"": 18404, ""type"": 0, ""w"": 29.0}, {""id"": 246270686, ""node1"": 14469, ""node2"": 18404, ""type"": 8, ""w"": 32.0}]"
+eau,balance,[]
+balance,cuisine,[]
+cuisine,couvercle,"[{""id"": 15303653, ""node1"": 16033, ""node2"": 89523, ""type"": 0, ""w"": 243.0}, {""id"": 15173457, ""node1"": 16033, ""node2"": 89523, ""type"": 27, ""w"": 22.0}, {""id"": 98290054, ""node1"": 16033, ""node2"": 89523, ""type"": 28, ""w"": 26.0}]"
+couvercle,planche,[]
+balance,découper,[]
+set,poêle,[]
+poêle,saladier,[]
+saladier,plat,"[{""id"": 2181154, ""node1"": 45455, ""node2"": 36327, ""type"": 0, ""w"": 62.0}, {""id"": 1668935, ""node1"": 45455, ""node2"": 36327, ""type"": 666, ""w"": 3.0}]"
+découper,étape,[]
+eau,rincer,"[{""id"": 31129235, ""node1"": 65012, ""node2"": 117283, ""type"": 0, ""w"": 23.0}, {""id"": 75028679, ""node1"": 65012, ""node2"": 117283, ""type"": 24, ""w"": 30.0}, {""id"": 185000, ""node1"": 65012, ""node2"": 117283, ""type"": 25, ""w"": 160.0}, {""id"": 31129234, ""node1"": 65012, ""node2"": 117283, ""type"": 27, ""w"": 23.0}]"
+eau,clair,"[{""id"": 3126135, ""node1"": 65012, ""node2"": 4215, ""type"": 0, ""w"": 27.0}, {""id"": 3180293, ""node1"": 65012, ""node2"": 4215, ""type"": 106, ""w"": 1.0}]"
+trouble,eau,"[{""id"": 217982, ""node1"": 141451, ""node2"": 65012, ""type"": 0, ""w"": 160.0}, {""id"": 514114749, ""node1"": 141451, ""node2"": 65012, ""type"": 23, ""w"": 3.0}]"
+eau,coule,[]
+titre,cuire,[]
+diluer,vinaigre,[]
+absorber,eau,"[{""id"": 417608886, ""node1"": 119570, ""node2"": 65012, ""type"": 0, ""w"": 36.0}, {""id"": 418498301, ""node1"": 119570, ""node2"": 65012, ""type"": 3, ""w"": 31.0}, {""id"": 374234259, ""node1"": 119570, ""node2"": 65012, ""type"": 14, ""w"": 31.0}]"
+éteindre,feu,"[{""id"": 2069969, ""node1"": 107734, ""node2"": 143703, ""type"": 0, ""w"": 129.0}, {""id"": 1375587, ""node1"": 107734, ""node2"": 143703, ""type"": 14, ""w"": 100.0}, {""id"": 376200967, ""node1"": 107734, ""node2"": 143703, ""type"": 16, ""w"": 26.0}, {""id"": 9121021, ""node1"": 107734, ""node2"": 143703, ""type"": 35, ""w"": 105.0}, {""id"": 1057899598, ""node1"": 107734, ""node2"": 143703, ""type"": 666, ""w"": 2.0}]"
+feu,mettre,"[{""id"": 893247072, ""node1"": 143703, ""node2"": 132366, ""type"": 0, ""w"": 20.0}, {""id"": 441608304, ""node1"": 143703, ""node2"": 132366, ""type"": 26, ""w"": 100.0}, {""id"": 392082717, ""node1"": 143703, ""node2"": 132366, ""type"": 30, ""w"": 28.0}]"
+mettre,couvercle,[]
+reposer,minute,[]
+mettre,riz,[]
+ajouter,vinaigre,[]
+absorber,liquide,"[{""id"": 1270774, ""node1"": 119570, ""node2"": 140315, ""type"": 0, ""w"": 33.0}, {""id"": 1713192, ""node1"": 119570, ""node2"": 140315, ""type"": 17, ""w"": -1.0}, {""id"": 989728585, ""node1"": 119570, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]"
+mélanger,absorber,[]
+faire,mouvement,[]
+aérer,riz,[]
+déposer,riz,[]
+plat,rectangulaire,"[{""id"": 76567693, ""node1"": 36327, ""node2"": 3278, ""type"": 0, ""w"": 35.0}]"
+tailler,thon,[]
+tailler,avocat,[]
+tranche,fin,[]
+avocat,tranche,[]
+oignon,primeur,[]
+saladier,mettre,[]
+mettre,saumon,[]
+ajouter,jus,[]
+jus,citron,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]"
+citron,vert,"[{""id"": 1559582, ""node1"": 15386, ""node2"": 26976, ""type"": 0, ""w"": 61.0}, {""id"": 1773945, ""node1"": 15386, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3160941, ""node1"": 15386, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]"
+ajouter,huile,[]
+découper,rectangle,[]
+rectangle,riz,[]
+chauffer,huile,[]
+fond,haut,"[{""id"": 560976637, ""node1"": 119272, ""node2"": 24682, ""type"": 0, ""w"": 37.0}, {""id"": 85355054, ""node1"": 119272, ""node2"": 24682, ""type"": 7, ""w"": 28.0}, {""id"": 104270754, ""node1"": 119272, ""node2"": 24682, ""type"": 10, ""w"": 1.0}, {""id"": 823242731, ""node1"": 119272, ""node2"": 24682, ""type"": 17, ""w"": 26.0}]"
+chauffer,fond,[]
+verser,huile,"[{""id"": 227659, ""node1"": 104506, ""node2"": 141971, ""type"": 14, ""w"": 57.0}, {""id"": 645787360, ""node1"": 104506, ""node2"": 141971, ""type"": 666, ""w"": 2.0}]"
+plonger,rectangle,[]
+rectangle,minute,[]
+minute,doré,[]
+papier,absorber,[]
+dresser,tranche,[]
+tranche,avocat,[]
+tranche,dessus,[]
+décorer,peu,[]
+sésame,noir,[]

@@ -1,0 +1,125 @@
+node1,node2,relations
+désigner,aliment,[]
+aliment,avoir,[]
+viande,rouge,"[{""id"": 212530, ""node1"": 140100, ""node2"": 86356, ""type"": 0, ""w"": 120.0}, {""id"": 373120, ""node1"": 140100, ""node2"": 86356, ""type"": 17, ""w"": 166.0}, {""id"": 3155262, ""node1"": 140100, ""node2"": 86356, ""type"": 106, ""w"": 49.0}, {""id"": 3217156, ""node1"": 140100, ""node2"": 86356, ""type"": 666, ""w"": 1.0}]"
+désigner,steak,[]
+steak,bœuf,"[{""id"": 797509666, ""node1"": 55572, ""node2"": 168216, ""type"": 0, ""w"": 26.0}, {""id"": 97888569, ""node1"": 55572, ""node2"": 168216, ""type"": 6, ""w"": 2.0}, {""id"": 515361116, ""node1"": 55572, ""node2"": 168216, ""type"": 10, ""w"": 27.0}, {""id"": 473769392, ""node1"": 55572, ""node2"": 168216, ""type"": 15, ""w"": 31.0}]"
+bœuf,épaisseur,[]
+épaisseur,variable,[]
+steak,fin,"[{""id"": 52036169, ""node1"": 55572, ""node2"": 144718, ""type"": 17, ""w"": 51.0}]"
+utiliser,couper,[]
+désigner,cuisson,[]
+cuisson,variété,[]
+variété,viande,[]
+viande,bœuf,"[{""id"": 10577328, ""node1"": 140100, ""node2"": 168216, ""type"": 0, ""w"": 59.0}, {""id"": 9627859, ""node1"": 140100, ""node2"": 168216, ""type"": 8, ""w"": 95.0}, {""id"": 15173562, ""node1"": 140100, ""node2"": 168216, ""type"": 27, ""w"": 30.0}, {""id"": 646611390, ""node1"": 140100, ""node2"": 168216, ""type"": 666, ""w"": 1.0}]"
+viande,poulet,"[{""id"": 82327, ""node1"": 140100, ""node2"": 146261, ""type"": 0, ""w"": 797.0}, {""id"": 177877, ""node1"": 140100, ""node2"": 146261, ""type"": 8, ""w"": 186.0}, {""id"": 3109943, ""node1"": 140100, ""node2"": 146261, ""type"": 10, ""w"": 51.0}, {""id"": 15173548, ""node1"": 140100, ""node2"": 146261, ""type"": 27, ""w"": 26.0}, {""id"": 2518169, ""node1"": 140100, ""node2"": 146261, ""type"": 42, ""w"": 63.0}, {""id"": 376041599, ""node1"": 140100, ""node2"": 146261, ""type"": 51, ""w"": 35.0}, {""id"": 645422219, ""node1"": 140100, ""node2"": 146261, ""type"": 666, ""w"": 6.0}]"
+cuisson,Espagne,[]
+désigner,découpe,[]
+découpe,obtenir,[]
+flanc,bœuf,[]
+flanc,couper,[]
+suivre,forme,[]
+forme,côte,[]
+forme,cuire,[]
+sandwich,composer,[]
+tranche,fin,[]
+tranche,veau,"[{""id"": 623096766, ""node1"": 143123, ""node2"": 91311, ""type"": 0, ""w"": 11.0}]"
+tranche,cuire,[]
+plat,ce,[]
+mot,plat,[]
+plat,composer,[]
+filet,viande,"[{""id"": 473046, ""node1"": 42188, ""node2"": 140100, ""type"": 0, ""w"": 57.0}, {""id"": 729611, ""node1"": 42188, ""node2"": 140100, ""type"": 6, ""w"": 51.0}, {""id"": 2125003, ""node1"": 42188, ""node2"": 140100, ""type"": 8, ""w"": 5.0}, {""id"": 418594, ""node1"": 42188, ""node2"": 140100, ""type"": 10, ""w"": -50.0}]"
+viande,grillé,"[{""id"": 2164311, ""node1"": 140100, ""node2"": 141899, ""type"": 17, ""w"": 30.0}]"
+filet,accompagner,[]
+cuire,viande,"[{""id"": 2182411, ""node1"": 5115, ""node2"": 140100, ""type"": 0, ""w"": 73.0}, {""id"": 148035, ""node1"": 5115, ""node2"": 140100, ""type"": 13, ""w"": 100.0}, {""id"": 206249, ""node1"": 5115, ""node2"": 140100, ""type"": 14, ""w"": 100.0}, {""id"": 722712577, ""node1"": 5115, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]"
+cuire,saler,[]
+fois,prêt,[]
+découper,lui,[]
+farine,manioc,"[{""id"": 796713007, ""node1"": 127629, ""node2"": 67691, ""type"": 0, ""w"": 22.0}]"
+spécialité,culinaire,"[{""id"": 477435, ""node1"": 49537, ""node2"": 347, ""type"": 0, ""w"": 32.0}]"
+spécialité,Portugal,[]
+spécialité,région,"[{""id"": 11357453, ""node1"": 49537, ""node2"": 132350, ""type"": 15, ""w"": 38.0}]"
+région,oriental,"[{""id"": 899421407, ""node1"": 132350, ""node2"": 7303, ""type"": 0, ""w"": 20.0}]"
+restaurant,servir,"[{""id"": 368196485, ""node1"": 79954, ""node2"": 7888, ""type"": 0, ""w"": 28.0}, {""id"": 364531283, ""node1"": 79954, ""node2"": 7888, ""type"": 24, ""w"": 100.0}, {""id"": 217247, ""node1"": 79954, ""node2"": 7888, ""type"": 30, ""w"": 217.0}]"
+servir,spécialité,[]
+bœuf,tendre,"[{""id"": 97358740, ""node1"": 168216, ""node2"": 71211, ""type"": 17, ""w"": 31.0}]"
+désigner,cuire,[]
+utiliser,certain,[]
+utiliser,mot,[]
+morceau,nombreux,[]
+morceau,bœuf,[]
+morceau,condition,[]
+cuire,il,[]
+variété,principal,[]
+rapport,chorizo,[]
+bataille,cuisine,[]
+cuire,dernier,[]
+condition,cuire,[]
+plaque,cuisson,"[{""id"": 14676768, ""node1"": 145064, ""node2"": 60056, ""type"": 0, ""w"": 49.0}, {""id"": 97321944, ""node1"": 145064, ""node2"": 60056, ""type"": 3, ""w"": 15.0}, {""id"": 14199213, ""node1"": 145064, ""node2"": 60056, ""type"": 35, ""w"": 47.0}]"
+cuisson,chaud,[]
+générer,croûte,[]
+croûte,externe,[]
+garder,intérieur,[]
+purée,pomme,"[{""id"": 1042429659, ""node1"": 16444, ""node2"": 37201, ""type"": 0, ""w"": 6.0}, {""id"": 8554903, ""node1"": 16444, ""node2"": 37201, ""type"": 50, ""w"": -5.0}]"
+pomme,terre,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+appeler,servir,[]
+œuf,plat,"[{""id"": 1979991, ""node1"": 174124, ""node2"": 36327, ""type"": 0, ""w"": 90.0}]"
+œuf,dessus,[]
+accompagner,grillé,[]
+variété,spécial,[]
+cuire,qui,[]
+pomme,tomate,"[{""id"": 952375914, ""node1"": 37201, ""node2"": 22138, ""type"": 0, ""w"": 10.0}]"
+pomme,Bolivie,[]
+cuire,grillé,"[{""id"": 920596460, ""node1"": 5115, ""node2"": 141899, ""type"": 0, ""w"": 20.0}]"
+riz,battre,[]
+ajouter,sauce,[]
+pincée,sel,"[{""id"": 665112730, ""node1"": 122023, ""node2"": 13260, ""type"": 174, ""w"": 40.0}, {""id"": 990072491, ""node1"": 122023, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]"
+morceau,chorizo,[]
+restaurant,spécialiser,[]
+percer,viande,[]
+fer,long,[]
+placer,qui,[]
+distance,court,[]
+distance,charbon,[]
+tourner,viande,[]
+viande,lui-même,[]
+cuire,lui,[]
+tourner,cuire,[]
+signification,même,"[{""id"": 515206914, ""node1"": 122786, ""node2"": 146381, ""type"": 23, ""w"": 27.0}]"
+filet,mince,"[{""id"": 418104294, ""node1"": 42188, ""node2"": 87702, ""type"": 0, ""w"": 13.0}, {""id"": 107362204, ""node1"": 42188, ""node2"": 87702, ""type"": 17, ""w"": 52.0}]"
+désigner,filet,[]
+filet,bœuf,"[{""id"": 15355743, ""node1"": 42188, ""node2"": 168216, ""type"": 0, ""w"": 28.0}, {""id"": 729598, ""node1"": 42188, ""node2"": 168216, ""type"": 3, ""w"": 54.0}]"
+filet,confectionner,[]
+confectionner,sandwich,[]
+sandwich,nom,[]
+faire,qui,"[{""id"": 729891679, ""node1"": 87528, ""node2"": 114890, ""type"": 9, ""w"": -5.0}]"
+filet,faire,[]
+pain,battre,[]
+appeler,faire,[]
+pain,table,"[{""id"": 123315, ""node1"": 61283, ""node2"": 89591, ""type"": 15, ""w"": 135.0}]"
+pain,langue,[]
+pain,pain,"[{""id"": 320910, ""node1"": 61283, ""node2"": 61283, ""type"": 19, ""w"": 53.0}, {""id"": 76567430, ""node1"": 61283, ""node2"": 61283, ""type"": 75, ""w"": 43.0}]"
+pain,sandwich,"[{""id"": 360919, ""node1"": 61283, ""node2"": 1447, ""type"": 0, ""w"": 322.0}, {""id"": 197227, ""node1"": 61283, ""node2"": 1447, ""type"": 10, ""w"": 63.0}, {""id"": 124111, ""node1"": 61283, ""node2"": 1447, ""type"": 15, ""w"": 78.0}, {""id"": 399399, ""node1"": 61283, ""node2"": 1447, ""type"": 20, ""w"": 51.0}, {""id"": 9008223, ""node1"": 61283, ""node2"": 1447, ""type"": 25, ""w"": 51.0}, {""id"": 2270614, ""node1"": 61283, ""node2"": 1447, ""type"": 30, ""w"": 51.0}, {""id"": 96715921, ""node1"": 61283, ""node2"": 1447, ""type"": 51, ""w"": 15.0}, {""id"": 775104412, ""node1"": 61283, ""node2"": 1447, ""type"": 139, ""w"": 25.0}, {""id"": 1008690757, ""node1"": 61283, ""node2"": 1447, ""type"": 666, ""w"": 3.0}]"
+sandwich,complet,[]
+comprendre,sandwich,[]
+comprendre,plat,[]
+accompagner,steak,[]
+plat,accompagner,[]
+riz,blanc,"[{""id"": 227037, ""node1"": 24372, ""node2"": 15196, ""type"": 0, ""w"": 130.0}, {""id"": 3196075, ""node1"": 24372, ""node2"": 15196, ""type"": 8, ""w"": -66.0}, {""id"": 424371, ""node1"": 24372, ""node2"": 15196, ""type"": 17, ""w"": 150.0}, {""id"": 3163524, ""node1"": 24372, ""node2"": 15196, ""type"": 106, ""w"": 18.0}, {""id"": 1668724, ""node1"": 24372, ""node2"": 15196, ""type"": 666, ""w"": 3.0}]"
+salade,avocat,"[{""id"": 558712512, ""node1"": 118908, ""node2"": 104789, ""type"": 0, ""w"": 46.0}, {""id"": 1037447699, ""node1"": 118908, ""node2"": 104789, ""type"": 666, ""w"": 4.0}]"
+flanc,veau,[]
+veau,couper,[]
+grillé,qui,[]
+connaître,grillé,[]
+salade,pomme,"[{""id"": 97758155, ""node1"": 118908, ""node2"": 37201, ""type"": 0, ""w"": 36.0}, {""id"": 97758156, ""node1"": 118908, ""node2"": 37201, ""type"": 9, ""w"": 31.0}]"
+inclure,sauce,[]
+sauce,traditionnel,[]
+huile,olive,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]"
+huile,vin,[]
+vin,blanc,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]"
+bœuf,grillé,"[{""id"": 602093040, ""node1"": 168216, ""node2"": 141899, ""type"": 17, ""w"": 10.0}, {""id"": 645787868, ""node1"": 168216, ""node2"": 141899, ""type"": 666, ""w"": 2.0}]"
+type,fromage,[]
+fromage,frais,"[{""id"": 198759, ""node1"": 141687, ""node2"": 53495, ""type"": 17, ""w"": 110.0}]"
+frais,typique,[]
+fromage,pays,"[{""id"": 661862213, ""node1"": 141687, ""node2"": 22243, ""type"": 171, ""w"": 30.0}]"
+projet,autre,[]

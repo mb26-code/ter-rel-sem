@@ -1,0 +1,56 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,raclette,nmod,NOUN,0.492190957069397,[],,
+raclette,fromage,acl,NOUN,0.5976725220680237,"[{""id"": 425191, ""node1"": 32204, ""node2"": 141687, ""type"": 0, ""w"": 626.5}, {""id"": 506320, ""node1"": 32204, ""node2"": 141687, ""type"": 3, ""w"": 56.0}, {""id"": 506299, ""node1"": 32204, ""node2"": 141687, ""type"": 6, ""w"": 110.0}, {""id"": 1773643, ""node1"": 32204, ""node2"": 141687, ""type"": 9, ""w"": 26.0}, {""id"": 24775138, ""node1"": 32204, ""node2"": 141687, ""type"": 35, ""w"": 74.0}, {""id"": 73864241, ""node1"": 32204, ""node2"": 141687, ""type"": 50, ""w"": 55.0}, {""id"": 1761947, ""node1"": 32204, ""node2"": 141687, ""type"": 666, ""w"": 11.0}]",r_associated,626.5
+voir,raclette,obj,NOUN,0.4574783146381378,[],,
+fromage,modifier,nsubj,VERB,0.5823603272438049,[],,
+fromage,base,nmod,NOUN,0.6482128500938416,[],,
+base,lait,nmod,NOUN,0.6312020421028137,[],,
+lait,croire,acl,VERB,0.5760230422019958,[],,
+fromage,pâte,nmod,NOUN,0.6909428834915161,"[{""id"": 83648051, ""node1"": 141687, ""node2"": 34069, ""type"": 0, ""w"": 33.0}, {""id"": 96698106, ""node1"": 141687, ""node2"": 34069, ""type"": 9, ""w"": 32.0}, {""id"": 1070020056, ""node1"": 141687, ""node2"": 34069, ""type"": 666, ""w"": 2.0}]",r_has_part,32.0
+fromage,presser,acl,VERB,0.6230915188789368,"[{""id"": 96698035, ""node1"": 141687, ""node2"": 47617, ""type"": 38, ""w"": 15.0}]",r_agentif_role,15.0
+préparation,raclette,nmod,NOUN,0.5635479688644409,"[{""id"": 246227507, ""node1"": 33634, ""node2"": 32204, ""type"": 8, ""w"": 31.0}]",r_hypo,31.0
+fabriquer,fromage,nsubj:pass,NOUN,0.6363376975059509,[],,
+fromage,raclette,nmod,NOUN,0.5976725220680237,"[{""id"": 436582, ""node1"": 141687, ""node2"": 32204, ""type"": 0, ""w"": 158.0}, {""id"": 3142823, ""node1"": 141687, ""node2"": 32204, ""type"": 8, ""w"": 41.0}, {""id"": 9990133, ""node1"": 141687, ""node2"": 32204, ""type"": 10, ""w"": 4.0}, {""id"": 15173529, ""node1"": 141687, ""node2"": 32204, ""type"": 27, ""w"": 32.0}, {""id"": 376049814, ""node1"": 141687, ""node2"": 32204, ""type"": 51, ""w"": 29.0}]",r_associated,158.0
+raclette,lait,nmod,NOUN,0.6149207949638367,"[{""id"": 417833585, ""node1"": 32204, ""node2"": 86296, ""type"": 0, ""w"": 36.0}, {""id"": 417833584, ""node1"": 32204, ""node2"": 86296, ""type"": 3, ""w"": 32.0}]",r_associated,36.0
+période,meilleur,amod,ADJ,0.4380188882350921,[],,
+étendre,période,nsubj,NOUN,0.4174900650978088,[],,
+période,consommation,nmod,NOUN,0.440102070569992,[],,
+fabriquer,étendre,advcl,VERB,0.4152791202068329,[],,
+obtenir,raclette,nsubj,NOUN,0.4960516095161438,[],,
+raclette,Valais,nmod,PROPN,0.4014248847961426,"[{""id"": 3935900, ""node1"": 32204, ""node2"": 44781, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+limiter,production,obj,NOUN,0.4161499142646789,[],,
+production,raclette,nmod,NOUN,0.5102864503860474,[],,
+fabrication,lait,appos,NOUN,0.5733802914619446,[],,
+raclette,coupe,nmod,NOUN,0.5090498924255371,[],,
+terme,attaquer,acl,VERB,0.4098767638206482,[],,
+protection,quantité,nmod,NOUN,0.4776618182659149,[],,
+quantité,important,amod,ADJ,0.4997892081737518,"[{""id"": 899404385, ""node1"": 78869, ""node2"": 9518, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+quantité,fromage,nmod,NOUN,0.681082010269165,[],,
+quantité,raclette,nmod,NOUN,0.570625901222229,[],,
+protection,terme,nmod,NOUN,0.401865005493164,[],,
+raclette,seul,amod,ADJ,0.5132856965065002,[],,
+supprimer,raclette,nsubj:pass,NOUN,0.4609844982624054,[],,
+désigner,raclette,nsubj,NOUN,0.4691028296947479,[],,
+désigner,préparation,obj,NOUN,0.4643727838993072,[],,
+préparation,culinaire,amod,ADJ,0.6475791931152344,"[{""id"": 601611802, ""node1"": 33634, ""node2"": 347, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+rester,terme,nsubj,NOUN,0.4155204594135284,[],,
+terme,raclette,nmod,NOUN,0.5199314951896667,[],,
+fabriquer,rester,advcl,VERB,0.4184955358505249,[],,
+étale,période,nsubj,NOUN,0.4011727571487427,[],,
+période,dégustation,nmod,NOUN,0.5052279233932495,[],,
+dégustation,optimal,amod,ADJ,0.4751304388046264,[],,
+tome,poids,nmod,NOUN,0.4081843793392181,[],,
+poids,moyen,amod,ADJ,0.4577533602714538,"[{""id"": 12077592, ""node1"": 123836, ""node2"": 34933, ""type"": 0, ""w"": 61.0}, {""id"": 12074290, ""node1"": 123836, ""node2"": 34933, ""type"": 8, ""w"": 71.0}]",r_hypo,71.0
+vin,blanc,amod,ADJ,0.5966135263442993,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+vin,fumé,amod,ADJ,0.6205788254737854,[],,
+opération,production,nmod,NOUN,0.4099618196487427,[],,
+production,lait,nmod,NOUN,0.5667347311973572,"[{""id"": 941629926, ""node1"": 13444, ""node2"": 86296, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+comprendre,totalité,obj,NOUN,0.4107945561408996,"[{""id"": 589130268, ""node1"": 131333, ""node2"": 59103, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+provenir,lait,nsubj,NOUN,0.5557899475097656,[],,
+alimentation,vache,nmod,NOUN,0.4452497959136963,"[{""id"": 15276710, ""node1"": 113902, ""node2"": 138501, ""type"": 0, ""w"": 26.0}, {""id"": 15142882, ""node1"": 113902, ""node2"": 138501, ""type"": 27, ""w"": 30.0}]",r_domain-1,30.0
+producteur,laitier,amod,ADJ,0.4574877321720123,[],,
+fabrique,fromage,nsubj,NOUN,0.5843293070793152,[],,
+fromage,lait,nmod,NOUN,0.6050665378570557,"[{""id"": 106089, ""node1"": 141687, ""node2"": 86296, ""type"": 0, ""w"": 420.0}, {""id"": 96698063, ""node1"": 141687, ""node2"": 86296, ""type"": 3, ""w"": 30.0}, {""id"": 96698122, ""node1"": 141687, ""node2"": 86296, ""type"": 6, ""w"": -54.0}, {""id"": 385497933, ""node1"": 141687, ""node2"": 86296, ""type"": 8, ""w"": -26.0}, {""id"": 24567307, ""node1"": 141687, ""node2"": 86296, ""type"": 9, ""w"": 52.0}, {""id"": 665159283, ""node1"": 141687, ""node2"": 86296, ""type"": 17, ""w"": -5.0}, {""id"": 207495, ""node1"": 141687, ""node2"": 86296, ""type"": 21, ""w"": -52.0}, {""id"": 1555514, ""node1"": 141687, ""node2"": 86296, ""type"": 42, ""w"": 173.0}, {""id"": 96698114, ""node1"": 141687, ""node2"": 86296, ""type"": 50, ""w"": 36.0}, {""id"": 1765263, ""node1"": 141687, ""node2"": 86296, ""type"": 666, ""w"": 10.0}]",r_associated,420.0
+pouvoir,fondre,advcl,VERB,0.4732381105422973,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,
+raclette,projet,nmod,NOUN,0.5266281366348267,[],,

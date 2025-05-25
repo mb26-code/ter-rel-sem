@@ -1,0 +1,51 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,gastronomie,obj,NOUN,0.4582444131374359,[],,
+repas,mijoter,acl,VERB,0.6781060695648193,[],,
+base,poulet,nmod,NOUN,0.6689716577529907,[],,
+plat,traditionnel,amod,ADJ,0.6021727323532104,"[{""id"": 93507621, ""node1"": 36327, ""node2"": 41139, ""type"": 17, ""w"": 35.0}]",r_carac,35.0
+plat,belge,amod,ADJ,0.5431063175201416,[],,
+plat,Flandre,nmod,PROPN,0.554237961769104,[],,
+plat,dater,acl,VERB,0.5406129360198975,[],,
+plat,époque,nmod,NOUN,0.6019956469535828,[],,
+époque,moyen,nmod,NOUN,0.4339679777622223,"[{""id"": 1031954645, ""node1"": 81680, ""node2"": 34933, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+plat,âge,nmod,NOUN,0.51493901014328,[],,
+plat,fin,nmod,NOUN,0.6067009568214417,"[{""id"": 560976228, ""node1"": 36327, ""node2"": 144718, ""type"": 0, ""w"": 45.0}, {""id"": 416221, ""node1"": 36327, ""node2"": 144718, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+fin,siècle,nmod,NOUN,0.429499864578247,[],,
+construire,moulin,obj,NOUN,0.4856048226356506,"[{""id"": 2172004, ""node1"": 86571, ""node2"": 21988, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+moulin,eau,nmod,NOUN,0.5772953629493713,"[{""id"": 110930, ""node1"": 21988, ""node2"": 65012, ""type"": 0, ""w"": 143.0}, {""id"": 152732, ""node1"": 21988, ""node2"": 65012, ""type"": 8, ""w"": -60.0}, {""id"": 266529, ""node1"": 21988, ""node2"": 65012, ""type"": 28, ""w"": 89.0}, {""id"": 1021609720, ""node1"": 21988, ""node2"": 65012, ""type"": 666, ""w"": 2.0}]",r_associated,143.0
+construction,moulin,nmod,NOUN,0.4784747660160064,"[{""id"": 10576330, ""node1"": 55137, ""node2"": 21988, ""type"": 0, ""w"": 57.0}, {""id"": 9625308, ""node1"": 55137, ""node2"": 21988, ""type"": 8, ""w"": 21.0}, {""id"": 9974729, ""node1"": 55137, ""node2"": 21988, ""type"": 9, ""w"": 10.0}]",r_associated,57.0
+eau,ce,appos,PRON,0.4450995624065399,[],,
+attirer,poisson,obj,NOUN,0.5463952422142029,[],,
+poisson,eau,nmod,NOUN,0.6107861399650574,"[{""id"": 113133, ""node1"": 68467, ""node2"": 65012, ""type"": 0, ""w"": 158.0}, {""id"": 31128990, ""node1"": 68467, ""node2"": 65012, ""type"": 3, ""w"": 37.0}, {""id"": 24377656, ""node1"": 68467, ""node2"": 65012, ""type"": 9, ""w"": 34.0}, {""id"": 3056696, ""node1"": 68467, ""node2"": 65012, ""type"": 15, ""w"": 80.0}, {""id"": 1032938055, ""node1"": 68467, ""node2"": 65012, ""type"": 75, ""w"": 26.0}, {""id"": 947615799, ""node1"": 68467, ""node2"": 65012, ""type"": 82, ""w"": 39.0}, {""id"": 943379271, ""node1"": 68467, ""node2"": 65012, ""type"": 129, ""w"": 52.0}, {""id"": 788828938, ""node1"": 68467, ""node2"": 65012, ""type"": 155, ""w"": -25.0}, {""id"": 1526159, ""node1"": 68467, ""node2"": 65012, ""type"": 666, ""w"": 14.0}]",r_associated,158.0
+eau,doux,amod,ADJ,0.5891962051391602,[],,
+nombre,pêcheur,nmod,NOUN,0.4001260995864868,[],,
+devenir,poisson,nsubj:pass,NOUN,0.5854412317276001,[],,
+base,plat,nmod,NOUN,0.6491852402687073,"[{""id"": 17077808, ""node1"": 72257, ""node2"": 36327, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+plat,incontournable,amod,ADJ,0.6056951284408569,[],,
+plat,région,nmod,NOUN,0.635219395160675,[],,
+flamand,eau,obj,NOUN,0.5580328702926636,[],,
+signifier,eau,obj,NOUN,0.5466182827949524,[],,
+eau,signifier,acl:relcl,VERB,0.5466182827949524,[],,
+préparer,spécialité,nsubj:pass,NOUN,0.55362868309021,"[{""id"": 273961893, ""node1"": 36246, ""node2"": 49537, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+banquet,préparer,acl:relcl,VERB,0.4968255758285522,"[{""id"": 1369196, ""node1"": 98019, ""node2"": 36246, ""type"": 38, ""w"": 51.0}]",r_agentif_role,51.0
+évoquer,plat,nsubj,NOUN,0.603535532951355,[],,
+détourner,plaine,nsubj:pass,NOUN,0.4130986928939819,[],,
+spécialité,fiancée,appos,NOUN,0.4361283481121063,[],,
+préparer,lui,nsubj,PRON,0.4201748371124267,[],,
+lier,préparer,advcl,VERB,0.4250891208648681,[],,
+quantité,autre,amod,ADJ,0.5259276032447815,[],,
+quantité,grand,amod,ADJ,0.5105735659599304,"[{""id"": 1717406, ""node1"": 78869, ""node2"": 23178, ""type"": 17, ""w"": 10.0}]",r_carac,10.0
+prévision,séjour,nmod,NOUN,0.4159949719905853,[],,
+préparer,pouvoir,advcl,VERB,0.4396844208240509,[],,
+nourrir,rencontrer,advcl,VERB,0.4187842905521393,[],,
+plat,ce,nsubj,PRON,0.418347030878067,[],,
+plat,unique,amod,ADJ,0.603223979473114,[],,
+plat,poulet,nmod,NOUN,0.684086263179779,"[{""id"": 10576818, ""node1"": 36327, ""node2"": 146261, ""type"": 0, ""w"": 51.0}, {""id"": 9626593, ""node1"": 36327, ""node2"": 146261, ""type"": 8, ""w"": 23.0}, {""id"": 93507814, ""node1"": 36327, ""node2"": 146261, ""type"": 9, ""w"": 35.0}, {""id"": 11309177, ""node1"": 36327, ""node2"": 146261, ""type"": 28, ""w"": 41.0}]",r_associated,51.0
+plat,accompagner,acl,VERB,0.613329291343689,[],,
+légume,servir,acl,VERB,0.693774402141571,[],,
+bouillon,dont,nmod,PRON,0.5639854669570923,[],,
+légume,bouillon,acl:relcl,NOUN,0.7052901983261108,"[{""id"": 796689475, ""node1"": 120603, ""node2"": 146582, ""type"": 0, ""w"": 25.0}]",r_associated,25.0
+bouillon,jaune,nmod,NOUN,0.6231206655502319,"[{""id"": 558647544, ""node1"": 146582, ""node2"": 86711, ""type"": 0, ""w"": 27.0}, {""id"": 3215817, ""node1"": 146582, ""node2"": 86711, ""type"": 106, ""w"": 1.0}]",r_associated,27.0
+jaune,œuf,nmod,NOUN,0.529880940914154,"[{""id"": 558764775, ""node1"": 86711, ""node2"": 174124, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+ingrédient,suivant,amod,ADJ,0.523679256439209,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,

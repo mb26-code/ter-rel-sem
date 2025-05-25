@@ -1,0 +1,21 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,sirop,appos,NOUN,0.5721874833106995,[],,
+sirop,rose,nmod,NOUN,0.5881429314613342,"[{""id"": 3161000, ""node1"": 91109, ""node2"": 145583, ""type"": 106, ""w"": 6.0}]",r_has_color,6.0
+sirop,ingrédient,nmod,NOUN,0.658586859703064,[],,
+sirop,sucre,nmod,NOUN,0.648704469203949,"[{""id"": 217497, ""node1"": 91109, ""node2"": 139481, ""type"": 0, ""w"": 407.0}, {""id"": 415329, ""node1"": 91109, ""node2"": 139481, ""type"": 9, ""w"": 70.0}, {""id"": 1035329517, ""node1"": 91109, ""node2"": 139481, ""type"": 50, ""w"": 31.0}, {""id"": 984864968, ""node1"": 91109, ""node2"": 139481, ""type"": 666, ""w"": 3.0}]",r_associated,407.0
+sucre,eau,nmod,NOUN,0.6594484448432922,[],,
+eau,rose,amod,ADJ,0.5732435584068298,"[{""id"": 459007855, ""node1"": 65012, ""node2"": 145583, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+casserole,saladier,obj,NOUN,0.6254573464393616,[],,
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,réfrigérateur,nmod,NOUN,0.5236407518386841,[],,
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[],,
+porter,eau,obj,NOUN,0.5626955032348633,[],,
+eau,mélanger,acl,VERB,0.5894894003868103,[],,
+eau,ébullition,nmod,NOUN,0.5533320903778076,"[{""id"": 1030680817, ""node1"": 65012, ""node2"": 83252, ""type"": 0, ""w"": 22.0}, {""id"": 3253715, ""node1"": 65012, ""node2"": 83252, ""type"": 777, ""w"": 7.0}]",r_associated,22.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+mélanger,ajouter,advcl,VERB,0.476481020450592,[],,
+mélanger,tout,obj,NOUN,0.528428852558136,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]",r_patient,110.0
+avoir,acide,obj,NOUN,0.4559798240661621,[],,

@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+saumon,ciboulette,nmod,NOUN,0.6185569763183594,[],,
+ciboulette,ingrédient,nmod,NOUN,0.6649365425109863,[],,
+ingrédient,poivre,appos,NOUN,0.7064663171768188,"[{""id"": 24923435, ""node1"": 123418, ""node2"": 139597, ""type"": 0, ""w"": 15.0}, {""id"": 24850733, ""node1"": 123418, ""node2"": 139597, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+poivre,beurre,nmod,NOUN,0.71866774559021,"[{""id"": 584573840, ""node1"": 139597, ""node2"": 140377, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+poivre,citron,nmod,NOUN,0.6539869904518127,[],,
+citron,ciboulette,nmod,NOUN,0.616098940372467,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+poivre,étape,nmod,NOUN,0.6137527823448181,[],,
+saumon,chauffer,acl,VERB,0.7088884711265564,[],,
+chauffer,beurre,obj,NOUN,0.7066839933395386,[],,
+fondre,poser,advcl,VERB,0.4701415002346039,[],,
+poser,morceau,obj,NOUN,0.5068401098251343,[],,
+morceau,saumon,nmod,NOUN,0.6526868343353271,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+laisser,tournant,advcl,NOUN,0.4368299841880798,[],,
+tournant,pavé,obj,NOUN,0.4239079356193542,[],,
+cuire,le,obj,PRON,0.4500194191932678,[],,
+côté,tout,amod,ADJ,0.4549163579940796,[],,
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+ajouter,jus,obj,NOUN,0.5800648331642151,[],,
+jus,pavé,nmod,NOUN,0.5701723694801331,[],,
+devoir,saumon,nsubj,NOUN,0.5741589069366455,[],,
+avoir,peau,obj,NOUN,0.4705485701560974,[],,
+peau,croustillant,amod,ADJ,0.5291818976402283,[],,
+peau,peine,nmod,NOUN,0.4654551446437835,[],,
+peine,chaud,amod,ADJ,0.4862746894359588,[],,
+rajouter,pulpe,obj,NOUN,0.5650503635406494,[],,
+pulpe,citron,nmod,NOUN,0.5953801870346069,"[{""id"": 602047701, ""node1"": 85081, ""node2"": 15386, ""type"": 0, ""w"": 30.0}, {""id"": 9991101, ""node1"": 85081, ""node2"": 15386, ""type"": 10, ""w"": 7.0}]",r_associated,30.0
+citron,reste,acl:relcl,VERB,0.6272240877151489,[],,
+servir,rajouter,advcl,VERB,0.4839091002941131,[],,
+rajouter,sauce,obj,NOUN,0.6794921159744263,[],,
+sauce,cuisson,nmod,NOUN,0.7991010546684265,"[{""id"": 651237398, ""node1"": 141110, ""node2"": 60056, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+cuisson,pavé,nmod,NOUN,0.594771683216095,"[{""id"": 920490559, ""node1"": 60056, ""node2"": 105441, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+riz,sauvage,amod,ADJ,0.6661311984062195,"[{""id"": 115326598, ""node1"": 24372, ""node2"": 48496, ""type"": 17, ""w"": 27.0}, {""id"": 4203034, ""node1"": 24372, ""node2"": 48496, ""type"": 777, ""w"": 10.0}]",r_carac,27.0

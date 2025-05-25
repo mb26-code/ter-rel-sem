@@ -1,0 +1,26 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+sel,tomate,nmod,NOUN,0.7264893651008606,[],,
+sel,oignon,nmod,NOUN,0.705348014831543,[],,
+herbe,Provence,nmod,PROPN,0.4220801889896393,[],,
+Provence,citron,nmod,NOUN,0.5469235181808472,[],,
+four,louche,nmod,NOUN,0.7040114402770996,[],,
+mixeur,couteau,nmod,NOUN,0.573357105255127,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+mixeur,étape,nmod,NOUN,0.5223461985588074,[],,
+plat,aller,acl,VERB,0.5960066914558411,[],,
+four,chaud,amod,ADJ,0.6748667359352112,"[{""id"": 363192, ""node1"": 9190, ""node2"": 19150, ""type"": 0, ""w"": 123.0}, {""id"": 376860, ""node1"": 9190, ""node2"": 19150, ""type"": 17, ""w"": 130.0}, {""id"": 11348785, ""node1"": 9190, ""node2"": 19150, ""type"": 28, ""w"": 38.0}, {""id"": 2221131, ""node1"": 9190, ""node2"": 19150, ""type"": 666, ""w"": 1.0}]",r_carac,130.0
+litre,eau,nmod,NOUN,0.5440258383750916,"[{""id"": 2458362, ""node1"": 57416, ""node2"": 65012, ""type"": 0, ""w"": 84.0}, {""id"": 15759326, ""node1"": 57416, ""node2"": 65012, ""type"": 28, ""w"": 10.0}, {""id"": 720818422, ""node1"": 57416, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 980526881, ""node1"": 57416, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]",r_associated,84.0
+tomate,entier,amod,ADJ,0.6028351187705994,[],,
+oignon,couper,acl,VERB,0.596168577671051,"[{""id"": 900892185, ""node1"": 123307, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 31770901, ""node1"": 123307, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 1767208, ""node1"": 123307, ""node2"": 128828, ""type"": 666, ""w"": 2.0}]",r_patient-1,100.0
+mettre,immerger,advcl,VERB,0.409385621547699,[],,
+eau,hauteur,nmod,NOUN,0.5373610854148865,[],,
+eau,besoin,nmod,NOUN,0.5439085960388184,"[{""id"": 1030694961, ""node1"": 65012, ""node2"": 33296, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+peu,sel,nmod,NOUN,0.6607358455657959,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+couper,citron,obj,NOUN,0.6150063872337341,"[{""id"": 15083963, ""node1"": 128828, ""node2"": 15386, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+citron,presser,acl,VERB,0.5677392482757568,"[{""id"": 1559576, ""node1"": 15386, ""node2"": 47617, ""type"": 0, ""w"": 60.0}, {""id"": 268334, ""node1"": 15386, ""node2"": 47617, ""type"": 25, ""w"": -240.0}, {""id"": 2214735, ""node1"": 15386, ""node2"": 47617, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+pouvoir,reste,advcl,VERB,0.4048937559127807,[],,
+mayonnaise,bon,amod,ADJ,0.5064849853515625,[],,
+mayonnaise,ail,nmod,NOUN,0.5850731730461121,[],,
+tomate,cerise,amod,NOUN,0.5635725259780884,"[{""id"": 400423, ""node1"": 22138, ""node2"": 49073, ""type"": 0, ""w"": 84.0}, {""id"": 1029365094, ""node1"": 22138, ""node2"": 49073, ""type"": 67, ""w"": 34.0}]",r_associated,84.0

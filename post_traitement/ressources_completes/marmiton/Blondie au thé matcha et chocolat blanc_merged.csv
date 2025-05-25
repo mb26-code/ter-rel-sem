@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+blanc,sucre,obj,NOUN,0.6460319757461548,"[{""id"": 1823913, ""node1"": 15196, ""node2"": 139481, ""type"": 0, ""w"": 63.0}, {""id"": 1645227, ""node1"": 15196, ""node2"": 139481, ""type"": 23, ""w"": 60.0}, {""id"": 646059355, ""node1"": 15196, ""node2"": 139481, ""type"": 666, ""w"": 4.0}]",r_associated,63.0
+sucre,roux,amod,ADJ,0.5956728458404541,"[{""id"": 121310, ""node1"": 139481, ""node2"": 75869, ""type"": 0, ""w"": 178.0}, {""id"": 2484851, ""node1"": 139481, ""node2"": 75869, ""type"": 8, ""w"": 64.0}, {""id"": 182237, ""node1"": 139481, ""node2"": 75869, ""type"": 17, ""w"": 174.0}, {""id"": 3163417, ""node1"": 139481, ""node2"": 75869, ""type"": 106, ""w"": 21.0}]",r_carac,174.0
+sucre,beurre,nmod,NOUN,0.6973879933357239,[],,
+beurre,oeuf,nmod,NOUN,0.6205570101737976,"[{""id"": 798889058, ""node1"": 140377, ""node2"": 116175, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+oeuf,thé,nmod,NOUN,0.6309564113616943,[],,
+four,micro-onde,nmod,NOUN,0.6579254269599915,"[{""id"": 363193, ""node1"": 9190, ""node2"": 47773, ""type"": 0, ""w"": 80.0}, {""id"": 243399915, ""node1"": 9190, ""node2"": 47773, ""type"": 8, ""w"": 28.0}]",r_associated,80.0
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+four,étape,nmod,NOUN,0.6555838584899902,[],,
+chocolat,blanc,amod,ADJ,0.5557076930999756,"[{""id"": 66662, ""node1"": 34157, ""node2"": 15196, ""type"": 0, ""w"": 491.0}, {""id"": 369243, ""node1"": 34157, ""node2"": 15196, ""type"": 17, ""w"": 121.0}, {""id"": 3161769, ""node1"": 34157, ""node2"": 15196, ""type"": 106, ""w"": 13.0}, {""id"": 1548224, ""node1"": 34157, ""node2"": 15196, ""type"": 666, ""w"": 6.0}]",r_associated,491.0
+pépite,gros,amod,ADJ,0.4427862763404846,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+obtenir,mélange,obj,NOUN,0.4783641993999481,[],,
+mélange,mousseux,amod,ADJ,0.5410990118980408,[],,
+ajouter,oeuf,obj,NOUN,0.5327831506729126,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+incorporer,farine,obj,NOUN,0.6484122276306152,"[{""id"": 423151005, ""node1"": 3845, ""node2"": 127629, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+ajouter,levure,obj,NOUN,0.5709071159362793,[],,
+levure,obtenir,acl,VERB,0.5410547256469727,[],,
+obtenir,pâte,obj,NOUN,0.6173189282417297,[],,
+pâte,homogène,amod,ADJ,0.6105889678001404,"[{""id"": 796702467, ""node1"": 34069, ""node2"": 124759, ""type"": 0, ""w"": 28.0}, {""id"": 372565004, ""node1"": 34069, ""node2"": 124759, ""type"": 17, ""w"": 26.0}]",r_associated,28.0
+ajouter,pépite,obj,NOUN,0.4621942043304443,[],,
+pépite,chocolat,nmod,NOUN,0.5406539440155029,"[{""id"": 365455, ""node1"": 25082, ""node2"": 34157, ""type"": 0, ""w"": 152.0}, {""id"": 376056261, ""node1"": 25082, ""node2"": 34157, ""type"": 50, ""w"": 35.0}, {""id"": 930408960, ""node1"": 25082, ""node2"": 34157, ""type"": 666, ""w"": 2.0}]",r_associated,152.0
+pépite,blanc,amod,ADJ,0.5079315304756165,[],,
+verser,pâte,obj,NOUN,0.6542285084724426,"[{""id"": 373014722, ""node1"": 104506, ""node2"": 34069, ""type"": 14, ""w"": 36.0}]",r_patient,36.0
+moule,plat,amod,ADJ,0.6266494989395142,"[{""id"": 561135048, ""node1"": 143723, ""node2"": 36327, ""type"": 0, ""w"": 58.0}]",r_associated,58.0
+enfourner,minute,obj,NOUN,0.5091933012008667,[],,
+reposer,minute,obj,NOUN,0.4512225389480591,[],,
+sortie,four,nmod,NOUN,0.6299260258674622,[],,
+reposer,déguster,advcl,VERB,0.5078276991844177,[],,

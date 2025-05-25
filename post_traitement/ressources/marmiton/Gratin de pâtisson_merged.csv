@@ -1,0 +1,40 @@
+head,lemma,dep,pos,sim,relation
+titre,gratin,nmod,NOUN,0.4893978536128998,[]
+gratin,ingrédient,nmod,NOUN,0.6309539079666138,[]
+gratin,sucre,nmod,NOUN,0.7299670577049255,[]
+sucre,gruyère,nmod,NOUN,0.6821666955947876,[]
+lait,jaune,nmod,NOUN,0.5952747464179993,"[{""id"": 12979907, ""node1"": 86296, ""node2"": 86711, ""type"": 106, ""w"": 1.0}]"
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]"
+oeuf,ciboulette,nmod,NOUN,0.5558125972747803,[]
+gratin,Plat,nmod,PROPN,0.4779236614704132,"[{""id"": 606766250, ""node1"": 12942, ""node2"": 415256, ""type"": 0, ""w"": 1.0}]"
+gratin,gratin,nmod,NOUN,0.4922143518924713,"[{""id"": 306276, ""node1"": 12942, ""node2"": 12942, ""type"": 19, ""w"": 55.0}]"
+saladier,mixeur,nmod,NOUN,0.581632137298584,[]
+mixeur,four,nmod,NOUN,0.6762216091156006,[]
+four,pinceau,nmod,NOUN,0.6441405415534973,[]
+pinceau,blender,nmod,NOUN,0.471805214881897,[]
+pinceau,chauffer,acl,VERB,0.5544056296348572,[]
+chauffer,balance,obj,NOUN,0.5568371415138245,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+balance,plat,appos,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]"
+balance,étape,nmod,NOUN,0.4149083495140075,[]
+coupez,laver,advcl,VERB,0.4799664914608001,[]
+cuire,Faites,nsubj,PROPN,0.6390437483787537,[]
+minute,verre,nmod,NOUN,0.5375047326087952,"[{""id"": 539972827, ""node1"": 31491, ""node2"": 144497, ""type"": 9, ""w"": -25.0}]"
+verre,eau,nmod,NOUN,0.5749212503433228,"[{""id"": 70610, ""node1"": 144497, ""node2"": 65012, ""type"": 0, ""w"": 314.0}, {""id"": 31129047, ""node1"": 144497, ""node2"": 65012, ""type"": 3, ""w"": 35.0}, {""id"": 10528262, ""node1"": 144497, ""node2"": 65012, ""type"": 9, ""w"": 9.0}, {""id"": 393483, ""node1"": 144497, ""node2"": 65012, ""type"": 28, ""w"": 194.0}, {""id"": 720818421, ""node1"": 144497, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 1523981, ""node1"": 144497, ""node2"": 65012, ""type"": 666, ""w"": 5.0}]"
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]"
+peu,basilic,nmod,NOUN,0.5338976979255676,[]
+battre,jaune,obj,NOUN,0.5006049275398254,[]
+ajouter,gruyère,obj,NOUN,0.556841254234314,[]
+gruyère,râpé,acl,ADV,0.5169720649719238,"[{""id"": 1582298, ""node1"": 54095, ""node2"": 52123, ""type"": 0, ""w"": 140.0}, {""id"": 477608590, ""node1"": 54095, ""node2"": 52123, ""type"": 17, ""w"": 26.0}]"
+battre,blanc,obj,ADJ,0.5040183067321777,[]
+blanc,neige,nmod,NOUN,0.4736866652965545,"[{""id"": 116991, ""node1"": 15196, ""node2"": 3699, ""type"": 0, ""w"": 509.77}, {""id"": 117866, ""node1"": 15196, ""node2"": 3699, ""type"": 23, ""w"": 320.0}, {""id"": 1622496, ""node1"": 15196, ""node2"": 3699, ""type"": 666, ""w"": 12.0}]"
+Mélangez,contenu,nmod,NOUN,0.4139755070209503,[]
+contenu,terrine,nmod,NOUN,0.6094191074371338,[]
+ajouter,beurre,obj,NOUN,0.658586859703064,"[{""id"": 373014956, ""node1"": 25099, ""node2"": 140377, ""type"": 14, ""w"": 31.0}]"
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]"
+beurre,morceau,nmod,NOUN,0.6982128024101257,[]
+plat,aller,acl:relcl,VERB,0.5960066914558411,[]
+gramme,gruyère,nmod,NOUN,0.5208030343055725,[]
+réserver,noisette,obj,NOUN,0.5875546932220459,[]
+noisette,beurre,nmod,NOUN,0.6675335168838501,"[{""id"": 120202, ""node1"": 67819, ""node2"": 140377, ""type"": 0, ""w"": 70.0}, {""id"": 775213357, ""node1"": 67819, ""node2"": 140377, ""type"": 174, ""w"": 25.0}]"
+un,sel,nmod,NOUN,0.5084068775177002,[]

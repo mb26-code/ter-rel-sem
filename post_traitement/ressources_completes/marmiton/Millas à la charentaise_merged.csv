@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+eau,fleur,nmod,NOUN,0.5764890909194946,[],,
+eau,oranger,acl,VERB,0.5404275059700012,[],,
+eau,sucre,nmod,NOUN,0.6594484448432922,[],,
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,farine,nmod,NOUN,0.6485477685928345,"[{""id"": 2206156, ""node1"": 139470, ""node2"": 127629, ""type"": 0, ""w"": 142.0}, {""id"": 362954, ""node1"": 139470, ""node2"": 127629, ""type"": 8, ""w"": 151.0}, {""id"": 9976810, ""node1"": 139470, ""node2"": 127629, ""type"": 10, ""w"": 4.0}, {""id"": 9065573, ""node1"": 139470, ""node2"": 127629, ""type"": 20, ""w"": 51.0}, {""id"": 1590401, ""node1"": 139470, ""node2"": 127629, ""type"": 35, ""w"": 58.0}, {""id"": 1782941, ""node1"": 139470, ""node2"": 127629, ""type"": 666, ""w"": 11.0}]",r_hypo,151.0
+farine,oeuf,nmod,NOUN,0.6328823566436768,"[{""id"": 631637493, ""node1"": 127629, ""node2"": 116175, ""type"": 8, ""w"": 1.0}]",r_hypo,1.0
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+lait,saladier,nmod,NOUN,0.6384831666946411,[],,
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,four,nmod,NOUN,0.7153509855270386,[],,
+four,moule,nmod,NOUN,0.6459261178970337,"[{""id"": 914324367, ""node1"": 9190, ""node2"": 143723, ""type"": 0, ""w"": 20.0}, {""id"": 149292258, ""node1"": 9190, ""node2"": 143723, ""type"": 28, ""w"": 71.0}]",r_lieu-1,71.0
+lait,tarte,nmod,NOUN,0.6912280917167664,[],,
+tarte,moule,nmod,NOUN,0.598731517791748,"[{""id"": 70795, ""node1"": 575, ""node2"": 143723, ""type"": 0, ""w"": 72.0}, {""id"": 1015316074, ""node1"": 575, ""node2"": 143723, ""type"": 666, ""w"": 2.0}]",r_associated,72.0
+poudre,balance,nmod,NOUN,0.5564807653427124,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+balance,saladier,nmod,NOUN,0.5669676065444946,[],,
+balance,mettre,acl,VERB,0.4504947364330292,[],,
+mettre,gramme,obj,NOUN,0.4705629348754883,[],,
+gramme,farine,nmod,NOUN,0.6095054149627686,"[{""id"": 775213298, ""node1"": 140383, ""node2"": 127629, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+gramme,maïs,nmod,ADV,0.5735124945640564,[],,
+gramme,sucre,nmod,NOUN,0.6024630069732666,"[{""id"": 720818120, ""node1"": 140383, ""node2"": 139481, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+saladier,deuxième,amod,ADJ,0.5629813075065613,"[{""id"": 373014662, ""node1"": 45455, ""node2"": 119260, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+mélanger,gramme,obj,NOUN,0.5125049948692322,[],,
+gramme,oeuf,nmod,NOUN,0.5299803614616394,[],,
+gramme,blé,nmod,NOUN,0.5360518097877502,[],,
+bouillir,litre,obj,NOUN,0.5481809973716736,[],,
+litre,lait,nmod,NOUN,0.5534196496009827,"[{""id"": 720818097, ""node1"": 57416, ""node2"": 86296, ""type"": 174, ""w"": 25.0}, {""id"": 1662570, ""node1"": 57416, ""node2"": 86296, ""type"": 666, ""w"": 2.0}]",r_quantificateur-1,25.0
+saladier,premier,amod,ADJ,0.5396136045455933,"[{""id"": 373014661, ""node1"": 45455, ""node2"": 130626, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+saladier,saladier,nmod,NOUN,0.5224628448486328,"[{""id"": 331574, ""node1"": 45455, ""node2"": 45455, ""type"": 19, ""w"": 58.0}]",r_lemma,58.0
+ajouter,arôme,obj,NOUN,0.5423355102539062,[],,
+moule,manquer,acl,VERB,0.5066490769386292,[],,
+tarte,haut,amod,ADJ,0.5724121332168579,[],,

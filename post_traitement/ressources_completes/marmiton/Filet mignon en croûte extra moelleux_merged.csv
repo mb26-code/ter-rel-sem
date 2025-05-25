@@ -1,0 +1,46 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+filet,mignon,amod,ADJ,0.4982842803001404,"[{""id"": 415002564, ""node1"": 42188, ""node2"": 128961, ""type"": 0, ""w"": 27.0}, {""id"": 14805958, ""node1"": 42188, ""node2"": 128961, ""type"": 17, ""w"": 23.0}]",r_associated,27.0
+filet,croûte,nmod,NOUN,0.6069046854972839,[],,
+filet,extra,amod,NOUN,0.4887688159942627,[],,
+filet,moelleux,amod,ADJ,0.5702154636383057,[],,
+filet,ingrédient,nmod,NOUN,0.6121397614479065,[],,
+filet,pâte,nmod,NOUN,0.6884638667106628,[],,
+filet,feuilleter,amod,VERB,0.5230059623718262,[],,
+filet,jambon,nmod,NOUN,0.6218627691268921,"[{""id"": 423998984, ""node1"": 42188, ""node2"": 57980, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+jambon,pâté,nmod,NOUN,0.5999064445495605,"[{""id"": 912500, ""node1"": 57980, ""node2"": 145043, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+pâté,foie,nmod,NOUN,0.5896035432815552,"[{""id"": 142228, ""node1"": 145043, ""node2"": 115155, ""type"": 0, ""w"": 112.0}, {""id"": 251573147, ""node1"": 145043, ""node2"": 115155, ""type"": 666, ""w"": 2.0}]",r_associated,112.0
+foie,jaune,amod,ADJ,0.5906072854995728,[],,
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]",r_associated,598.0
+filet,four,nmod,NOUN,0.6966328024864197,[],,
+four,top,nmod,NOUN,0.5501777529716492,"[{""id"": 509203905, ""node1"": 9190, ""node2"": 61057, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+papier,meilleur,amod,ADJ,0.4798659384250641,[],,
+top,papier,nmod,NOUN,0.4000419974327087,[],,
+couteau,pinceau,nmod,NOUN,0.4793228805065155,"[{""id"": 914434066, ""node1"": 32610, ""node2"": 79400, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+pinceau,plat,nmod,ADJ,0.5899262428283691,"[{""id"": 250683, ""node1"": 79400, ""node2"": 36327, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+four,180,nmod,NUM,0.4979606568813324,[],,
+disposer,feuille,obj,NOUN,0.4872424602508545,[],,
+feuille,papier,nmod,NOUN,0.4767924547195434,"[{""id"": 99562, ""node1"": 37993, ""node2"": 103389, ""type"": 0, ""w"": 667.0}, {""id"": 157352, ""node1"": 37993, ""node2"": 103389, ""type"": 5, ""w"": 169.0}, {""id"": 186644, ""node1"": 37993, ""node2"": 103389, ""type"": 8, ""w"": 134.0}, {""id"": 377011482, ""node1"": 37993, ""node2"": 103389, ""type"": 20, ""w"": 35.0}, {""id"": 246389, ""node1"": 37993, ""node2"": 103389, ""type"": 21, ""w"": 85.0}, {""id"": 665112728, ""node1"": 37993, ""node2"": 103389, ""type"": 174, ""w"": 30.0}, {""id"": 1770446, ""node1"": 37993, ""node2"": 103389, ""type"": 666, ""w"": 7.0}]",r_associated,667.0
+papier,fond,nmod,NOUN,0.5033518671989441,[],,
+fond,plat,nmod,NOUN,0.5886687636375427,"[{""id"": 961890508, ""node1"": 119272, ""node2"": 36327, ""type"": 10, ""w"": 25.0}]",r_holo,25.0
+plat,aller,acl,VERB,0.5960066914558411,[],,
+dérouler,pâte,obj,NOUN,0.6115941405296326,"[{""id"": 31839807, ""node1"": 59830, ""node2"": 34069, ""type"": 14, ""w"": 68.0}]",r_patient,68.0
+pâte,feuilleter,acl,VERB,0.6172106862068176,"[{""id"": 880403533, ""node1"": 34069, ""node2"": 13838, ""type"": 0, ""w"": 20.0}, {""id"": 288441883, ""node1"": 34069, ""node2"": 13838, ""type"": 26, ""w"": 31.0}]",r_patient-1,31.0
+dessus,papier,nmod,NOUN,0.4934993982315063,[],,
+placer,jambon,obj,NOUN,0.624778687953949,[],,
+jambon,croire,acl,VERB,0.581739604473114,[],,
+devoir,jambon,nsubj,NOUN,0.5641896724700928,[],,
+jambon,devoir,acl:relcl,VERB,0.5641896724700928,[],,
+faire,longueur,obj,NOUN,0.4757464230060577,[],,
+longueur,filet,nmod,NOUN,0.5139787197113037,[],,
+filet,possibilité,appos,NOUN,0.5165396928787231,[],,
+tartiner,mettre,advcl,VERB,0.4928508698940277,[],,
+mettre,filet,obj,NOUN,0.5503724813461304,[],,
+pâté,dessus,nmod,NOUN,0.5721079111099243,[],,
+fermer,pâte,obj,NOUN,0.608353316783905,[],,
+aide,couteau,nmod,NOUN,0.4610194563865661,[],,
+aide,faire,acl,VERB,0.4312484562397003,[],,
+faire,trou,obj,NOUN,0.4763500690460205,[],,
+trou,cheminée,appos,NOUN,0.4706421196460724,"[{""id"": 54697253, ""node1"": 115865, ""node2"": 143548, ""type"": 0, ""w"": 32.0}, {""id"": 54666254, ""node1"": 115865, ""node2"": 143548, ""type"": 5, ""w"": 60.0}]",r_syn,60.0
+dessus,pâte,nmod,NOUN,0.6543301343917847,[],,
+mettre,plat,obj,NOUN,0.6154568791389465,"[{""id"": 513445480, ""node1"": 132366, ""node2"": 36327, ""type"": 0, ""w"": 30.0}, {""id"": 559393289, ""node1"": 132366, ""node2"": 36327, ""type"": 14, ""w"": 100.0}, {""id"": 513445479, ""node1"": 132366, ""node2"": 36327, ""type"": 31, ""w"": 26.0}]",r_patient,100.0
+taille,filet,nmod,NOUN,0.5267729759216309,[],,

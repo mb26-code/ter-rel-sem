@@ -1,0 +1,55 @@
+node1,node2,relations
+titre,salade,[]
+salade,pomme,"[{""id"": 97758155, ""node1"": 118908, ""node2"": 37201, ""type"": 0, ""w"": 36.0}, {""id"": 97758156, ""node1"": 118908, ""node2"": 37201, ""type"": 9, ""w"": 31.0}]"
+pomme,terre,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+titre,ingrédient,[]
+ingrédient,sel,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]"
+sel,poivre,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]"
+poivre,moutarde,"[{""id"": 584573808, ""node1"": 139597, ""node2"": 28335, ""type"": 0, ""w"": 17.0}, {""id"": 993686855, ""node1"": 139597, ""node2"": 28335, ""type"": 666, ""w"": 2.0}]"
+vinaigre,ancien,[]
+sel,vinaigre,"[{""id"": 796849792, ""node1"": 13260, ""node2"": 145443, ""type"": 0, ""w"": 28.0}]"
+vinaigre,vin,"[{""id"": 260680, ""node1"": 145443, ""node2"": 35798, ""type"": 0, ""w"": 213.0}, {""id"": 82356060, ""node1"": 145443, ""node2"": 35798, ""type"": 6, ""w"": 36.0}, {""id"": 375688370, ""node1"": 145443, ""node2"": 35798, ""type"": 56, ""w"": 35.0}, {""id"": 1527098, ""node1"": 145443, ""node2"": 35798, ""type"": 666, ""w"": 2.0}]"
+vin,oignon,[]
+vin,pomme,[]
+vin,terre,[]
+vin,échalote,[]
+ingrédient,bol,[]
+bol,saladier,"[{""id"": 796872211, ""node1"": 145405, ""node2"": 45455, ""type"": 0, ""w"": 28.0}, {""id"": 1029292999, ""node1"": 145405, ""node2"": 45455, ""type"": 67, ""w"": 34.0}]"
+bol,étape,[]
+cuire,pomme,"[{""id"": 195355017, ""node1"": 5115, ""node2"": 37201, ""type"": 13, ""w"": 30.0}, {""id"": 97862229, ""node1"": 5115, ""node2"": 37201, ""type"": 14, ""w"": 30.0}]"
+eau,saler,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]"
+minute,cuisson,[]
+cuire,vérifier,[]
+tendre,pomme,[]
+arrêter,tendre,[]
+arrêter,cuisson,"[{""id"": 372620649, ""node1"": 28778, ""node2"": 60056, ""type"": 14, ""w"": 31.0}]"
+cuire,minute,[]
+fois,cuire,[]
+passer,pomme,[]
+pomme,eau,[]
+eau,froid,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]"
+minute,bon,[]
+eau,minute,[]
+devoir,peau,"[{""id"": 981692606, ""node1"": 132443, ""node2"": 109785, ""type"": 9, ""w"": 25.0}]"
+bol,le,[]
+bol,grand,[]
+bol,cuisson,[]
+réserver,tout,[]
+bol,suite,[]
+réserver,préparer,"[{""id"": 54314806, ""node1"": 7006, ""node2"": 36246, ""type"": 0, ""w"": 24.0}, {""id"": 53730216, ""node1"": 7006, ""node2"": 36246, ""type"": 5, ""w"": 108.0}]"
+préparer,sauce,"[{""id"": 395781320, ""node1"": 36246, ""node2"": 141110, ""type"": 0, ""w"": 35.0}, {""id"": 373014451, ""node1"": 36246, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]"
+préparer,moutarde,[]
+moutarde,sel,"[{""id"": 652308756, ""node1"": 28335, ""node2"": 13260, ""type"": 0, ""w"": 21.0}]"
+mélanger,pomme,[]
+pomme,préparation,[]
+préparation,oignon,[]
+préparation,échalote,[]
+sauce,tout,[]
+ajouter,sauce,[]
+sauce,mélanger,"[{""id"": 343034832, ""node1"": 141110, ""node2"": 37151, ""type"": 26, ""w"": 31.0}]"
+préparer,fois,[]
+fois,mélange,[]
+mélange,frais,[]
+portion,deuxième,[]
+préparer,portion,[]
+portion,sauce,[]

@@ -1,0 +1,18 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+sauce,fondue,nmod,NOUN,0.6770695447921753,"[{""id"": 561210101, ""node1"": 141110, ""node2"": 101081, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+sauce,chinois,amod,ADJ,0.6713056564331055,"[{""id"": 651264016, ""node1"": 141110, ""node2"": 59402, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+ingrédient,moutarde,amod,NOUN,0.6919505596160889,[],,
+ingrédient,noix,nmod,NOUN,0.6215821504592896,[],,
+ciboulette,mayonnaise,nmod,ADJ,0.5958099961280823,[],,
+mayonnaise,chinois,nmod,ADJ,0.5294824838638306,[],,
+chinois,appareil,nmod,NOUN,0.4238650798797607,[],,
+appareil,fondre,nmod,VERB,0.5232203602790833,[],,
+chinois,base,nmod,NOUN,0.5113476514816284,[],,
+ingrédient,ajouter,acl,VERB,0.5645265579223633,"[{""id"": 796981624, ""node1"": 123418, ""node2"": 25099, ""type"": 0, ""w"": 25.0}, {""id"": 428901959, ""node1"": 123418, ""node2"": 25099, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+moutarde,fort,amod,ADJ,0.5097417235374451,"[{""id"": 560943338, ""node1"": 28335, ""node2"": 54186, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+sauce,soja,amod,ADV,0.686366856098175,"[{""id"": 558755719, ""node1"": 141110, ""node2"": 78291, ""type"": 0, ""w"": 41.0}, {""id"": 246329893, ""node1"": 141110, ""node2"": 78291, ""type"": 8, ""w"": 31.0}, {""id"": 651031297, ""node1"": 141110, ""node2"": 78291, ""type"": 666, ""w"": 4.0}]",r_associated,41.0
+noix,Grenoble,nmod,PROPN,0.4832087755203247,"[{""id"": 97323048, ""node1"": 30910, ""node2"": 100874, ""type"": 0, ""w"": 31.0}, {""id"": 618672440, ""node1"": 30910, ""node2"": 100874, ""type"": 15, ""w"": 29.0}, {""id"": 613654615, ""node1"": 30910, ""node2"": 100874, ""type"": 171, ""w"": 30.0}, {""id"": 5001233, ""node1"": 30910, ""node2"": 100874, ""type"": 777, ""w"": 10.0}]",r_associated,31.0
+oignon,vert,amod,ADJ,0.5575538873672485,[],,
+ail,haché,acl,ADJ,0.5851322412490845,"[{""id"": 477551860, ""node1"": 26979, ""node2"": 47887, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+ajouter,ingrédient,obj,NOUN,0.5645265579223633,"[{""id"": 9084112, ""node1"": 25099, ""node2"": 123418, ""type"": 0, ""w"": 56.0}, {""id"": 428901945, ""node1"": 25099, ""node2"": 123418, ""type"": 14, ""w"": 100.0}, {""id"": 9084083, ""node1"": 25099, ""node2"": 123418, ""type"": 35, ""w"": 48.0}]",r_patient,100.0
+ingrédient,avoir,acl:relcl,VERB,0.4887773394584656,[],,

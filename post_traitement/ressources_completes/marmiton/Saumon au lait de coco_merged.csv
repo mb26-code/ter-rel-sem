@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+saumon,lait,nmod,NOUN,0.6473257541656494,[],,
+lait,ingrédient,nmod,NOUN,0.6221581101417542,"[{""id"": 15370374, ""node1"": 86296, ""node2"": 123418, ""type"": 0, ""w"": 37.0}, {""id"": 506059, ""node1"": 86296, ""node2"": 123418, ""type"": 3, ""w"": 56.0}]",r_domain,56.0
+lait,coco,nmod,VERB,0.5941302180290222,"[{""id"": 796793155, ""node1"": 86296, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+lait,curry,nmod,NOUN,0.6729019284248352,[],,
+curry,pavé,nmod,NOUN,0.6027504801750183,[],,
+curry,oignon,nmod,NOUN,0.6888878345489502,"[{""id"": 3116775, ""node1"": 82813, ""node2"": 123307, ""type"": 0, ""w"": 75.0}]",r_associated,75.0
+oignon,pulpe,nmod,NOUN,0.6181791424751282,[],,
+oignon,citron,nmod,NOUN,0.6497411727905273,[],,
+oignon,vert,amod,ADJ,0.5575538873672485,[],,
+vert,gingembre,flat:name,NOUN,0.5343576669692993,[],,
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,huile,nmod,NOUN,0.6993125677108765,"[{""id"": 917898976, ""node1"": 13260, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+lait,assiette,appos,NOUN,0.6576542854309082,[],,
+assiette,poêle,nmod,NOUN,0.7043417692184448,[],,
+lait,étape,nmod,NOUN,0.5876578092575073,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+revenir,gingembre,obj,NOUN,0.6310768127441406,[],,
+incorporer,lait,obj,NOUN,0.5882614850997925,[],,
+pulpe,tomate,nmod,NOUN,0.5930618643760681,[],,
+citron,demi,amod,NOUN,0.5252364277839661,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+citron,vert,amod,ADJ,0.5348256230354309,"[{""id"": 1559582, ""node1"": 15386, ""node2"": 26976, ""type"": 0, ""w"": 61.0}, {""id"": 1773945, ""node1"": 15386, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3160941, ""node1"": 15386, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]",r_associated,61.0
+mijoter,minute,obj,NOUN,0.6123385429382324,[],,
+mijoter,surveiller,advcl,VERB,0.5992712378501892,[],,
+surveiller,cuisson,obj,NOUN,0.6946427226066589,"[{""id"": 1007853514, ""node1"": 39170, ""node2"": 60056, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+cuire,saumon,obj,NOUN,0.7792093753814697,"[{""id"": 471842261, ""node1"": 5115, ""node2"": 3361, ""type"": 13, ""w"": 30.0}, {""id"": 426712637, ""node1"": 5115, ""node2"": 3361, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+poêle,autre,amod,ADJ,0.6494198441505432,[],,
+mettre,peu,obj,ADV,0.4481682479381561,[],,
+peu,sauce,nmod,NOUN,0.615455150604248,[],,
+fond,assiette,nmod,NOUN,0.5784623026847839,"[{""id"": 53749231, ""node1"": 119272, ""node2"": 62735, ""type"": 0, ""w"": 22.0}, {""id"": 53602986, ""node1"": 119272, ""node2"": 62735, ""type"": 5, ""w"": 80.0}]",r_syn,80.0
+mettre,disposer,advcl,VERB,0.4183040559291839,"[{""id"": 930323, ""node1"": 132366, ""node2"": 116780, ""type"": 0, ""w"": 93.0}, {""id"": 53610572, ""node1"": 132366, ""node2"": 116780, ""type"": 5, ""w"": 222.0}, {""id"": 1642751, ""node1"": 132366, ""node2"": 116780, ""type"": 35, ""w"": 90.0}, {""id"": 645788261, ""node1"": 132366, ""node2"": 116780, ""type"": 666, ""w"": 2.0}]",r_syn,222.0
+disposer,saumon,obj,NOUN,0.6180517077445984,[],,
+mettre,tranche,obj,NOUN,0.4838809669017792,[],,
+tranche,citron,nmod,NOUN,0.6237561106681824,"[{""id"": 560952309, ""node1"": 143123, ""node2"": 15386, ""type"": 0, ""w"": 37.0}, {""id"": 720817951, ""node1"": 143123, ""node2"": 15386, ""type"": 174, ""w"": 25.0}]",r_associated,37.0
+peu,coriandre,nmod,NOUN,0.5303530693054199,[],,

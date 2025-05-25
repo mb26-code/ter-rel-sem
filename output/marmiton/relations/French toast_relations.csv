@@ -1,0 +1,38 @@
+node1,node2,relations
+extraire,sucre,[]
+sucre,muscade,[]
+sucre,beurre,[]
+beurre,pain,"[{""id"": 284025808, ""node1"": 140377, ""node2"": 61283, ""type"": 0, ""w"": 47.0}, {""id"": 253541329, ""node1"": 140377, ""node2"": 61283, ""type"": 15, ""w"": 4.0}, {""id"": 24969926, ""node1"": 140377, ""node2"": 61283, ""type"": 75, ""w"": 115.0}, {""id"": 652229001, ""node1"": 140377, ""node2"": 61283, ""type"": 666, ""w"": 7.0}, {""id"": 3978113, ""node1"": 140377, ""node2"": 61283, ""type"": 777, ""w"": 10.0}]"
+pain,brioche,"[{""id"": 101731, ""node1"": 61283, ""node2"": 140188, ""type"": 0, ""w"": 55.0}, {""id"": 1020590456, ""node1"": 61283, ""node2"": 140188, ""type"": 8, ""w"": 20.0}]"
+pain,pain,"[{""id"": 320910, ""node1"": 61283, ""node2"": 61283, ""type"": 19, ""w"": 53.0}, {""id"": 76567430, ""node1"": 61283, ""node2"": 61283, ""type"": 75, ""w"": 43.0}]"
+pain,sirop,[]
+pain,oeuf,"[{""id"": 798889056, ""node1"": 61283, ""node2"": 116175, ""type"": 0, ""w"": 21.0}]"
+oeuf,lait,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]"
+lait,cannelle,[]
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 307.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 267.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+fouet,set,[]
+set,poêle,[]
+fouet,casserole,[]
+casserole,pinceau,[]
+pinceau,balance,[]
+balance,cuisine,[]
+balance,assiette,[]
+assiette,assiette,"[{""id"": 281688, ""node1"": 62735, ""node2"": 62735, ""type"": 19, ""w"": 53.0}]"
+assiette,creux,"[{""id"": 9991966, ""node1"": 62735, ""node2"": 53673, ""type"": 0, ""w"": 4.0}, {""id"": 1882219, ""node1"": 62735, ""node2"": 53673, ""type"": 9, ""w"": 90.0}]"
+fouet,étape,[]
+fouet,battre,"[{""id"": 1651351, ""node1"": 73888, ""node2"": 119162, ""type"": 0, ""w"": 85.0}, {""id"": 376731, ""node1"": 73888, ""node2"": 119162, ""type"": 25, ""w"": 160.0}]"
+fouet,oeuf,[]
+fouet,lait,[]
+ajouter,vanille,[]
+ajouter,cannelle,[]
+réserver,préparation,"[{""id"": 1916442, ""node1"": 7006, ""node2"": 33634, ""type"": 14, ""w"": 30.0}]"
+préparation,assiette,[]
+fondre,beurre,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]"
+fondre,tranche,[]
+tranche,pain,"[{""id"": 240074, ""node1"": 143123, ""node2"": 61283, ""type"": 0, ""w"": 221.0}, {""id"": 97833247, ""node1"": 143123, ""node2"": 61283, ""type"": 3, ""w"": 10.0}, {""id"": 9992595, ""node1"": 143123, ""node2"": 61283, ""type"": 10, ""w"": 4.0}, {""id"": 97327248, ""node1"": 143123, ""node2"": 61283, ""type"": 35, ""w"": 30.0}, {""id"": 775213283, ""node1"": 143123, ""node2"": 61283, ""type"": 174, ""w"": 25.0}]"
+dorer,retourner,[]
+dorer,face,[]
+servir,arroser,"[{""id"": 1005645, ""node1"": 7888, ""node2"": 67803, ""type"": 0, ""w"": 21.0}]"
+arroser,sirop,[]
+sirop,érable,"[{""id"": 389230, ""node1"": 91109, ""node2"": 69625, ""type"": 0, ""w"": 134.0}, {""id"": 420294, ""node1"": 91109, ""node2"": 69625, ""type"": 9, ""w"": 54.0}]"
+sirop,chaud,[]

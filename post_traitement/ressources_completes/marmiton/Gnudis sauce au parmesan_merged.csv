@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+farine,ricotta,appos,NOUN,0.6392565369606018,[],,
+ricotta,oeuf,nmod,NOUN,0.5728728771209717,[],,
+oeuf,parmesan,nmod,NOUN,0.5902929902076721,[],,
+oeuf,jeune,amod,ADJ,0.5165465474128723,[],,
+ingrédient,pousse,acl,NOUN,0.5350933074951172,[],,
+pousse,huile,amod,NOUN,0.5676620006561279,[],,
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,crème,obj,NOUN,0.6996400356292725,[],,
+poivre,lait,nmod,NOUN,0.6704593300819397,[],,
+lait,parmesan,nmod,NOUN,0.6233838200569153,"[{""id"": 899286636, ""node1"": 86296, ""node2"": 140416, ""type"": 0, ""w"": 20.0}, {""id"": 480705388, ""node1"": 86296, ""node2"": 140416, ""type"": 8, ""w"": 28.0}, {""id"": 598488262, ""node1"": 86296, ""node2"": 140416, ""type"": 27, ""w"": 29.0}]",r_hypo,28.0
+bol,saladier,nmod,NOUN,0.5367903709411621,"[{""id"": 796872211, ""node1"": 145405, ""node2"": 45455, ""type"": 0, ""w"": 28.0}, {""id"": 1029292999, ""node1"": 145405, ""node2"": 45455, ""type"": 67, ""w"": 34.0}]",r_similar,34.0
+saladier,fouet,nmod,NOUN,0.5588916540145874,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+mélanger,ingrédient,obj,NOUN,0.6362285614013672,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+mélanger,obtenir,advcl,VERB,0.4532898962497711,[],,
+obtenir,pâte,obj,NOUN,0.6173189282417297,[],,
+pâte,homogène,amod,ADJ,0.6105889678001404,"[{""id"": 796702467, ""node1"": 34069, ""node2"": 124759, ""type"": 0, ""w"": 28.0}, {""id"": 372565004, ""node1"": 34069, ""node2"": 124759, ""type"": 17, ""w"": 26.0}]",r_associated,28.0
+réserver,minute,obj,NOUN,0.4441066682338714,[],,
+minute,frais,nmod,NOUN,0.4526909589767456,[],,
+bille,préparation,nmod,NOUN,0.4833754599094391,[],,
+préparer,sauce,obj,NOUN,0.6940045356750488,"[{""id"": 395781320, ""node1"": 36246, ""node2"": 141110, ""type"": 0, ""w"": 35.0}, {""id"": 373014451, ""node1"": 36246, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+chauffer,crème,obj,NOUN,0.6699466705322266,[],,
+ajouter,parmesan,obj,NOUN,0.6033021807670593,[],,
+sauce,nappe,amod,NOUN,0.6460347771644592,"[{""id"": 920065232, ""node1"": 141110, ""node2"": 91043, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+saler,poivrer,advcl,VERB,0.5285379886627197,"[{""id"": 796710265, ""node1"": 15671, ""node2"": 70211, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+Ajoutez,huile,obj,NOUN,0.5403907299041748,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+huile,fouetter,acl,VERB,0.5945291519165039,[],,
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+cuire,il,nsubj,PRON,0.4034532904624939,[],,
+cuire,cuire,advcl,VERB,0.6973201632499695,"[{""id"": 292374, ""node1"": 5115, ""node2"": 5115, ""type"": 19, ""w"": 274.0}]",r_lemma,274.0
+cuire,remonter,advcl,VERB,0.6751520037651062,[],,
+assiette,sauce,nmod,NOUN,0.7285140752792358,"[{""id"": 31849246, ""node1"": 62735, ""node2"": 141110, ""type"": 28, ""w"": 51.0}]",r_lieu-1,51.0

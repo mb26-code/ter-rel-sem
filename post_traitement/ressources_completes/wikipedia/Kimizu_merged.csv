@@ -1,0 +1,17 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,cuisine,obj,NOUN,0.6019042730331421,[],,
+cuisine,japonais,amod,ADJ,0.5706702470779419,[],,
+sauce,sauce,nsubj,NOUN,0.6601590514183044,"[{""id"": 331997, ""node1"": 141110, ""node2"": 141110, ""type"": 19, ""w"": 146.0}]",r_lemma,146.0
+sauce,japonais,amod,ADJ,0.6575504541397095,[],,
+sauce,type,nmod,NOUN,0.6670159101486206,[],,
+utilisation,mayonnaise,nmod,NOUN,0.5660882592201233,[],,
+réaliser,mélanger,advcl,VERB,0.5256962180137634,[],,
+mélanger,ingrédient,obj,NOUN,0.6393055319786072,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ingrédient,jaune,appos,NOUN,0.60291987657547,"[{""id"": 3180284, ""node1"": 123418, ""node2"": 86711, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+jaune,œuf,nmod,NOUN,0.529880940914154,"[{""id"": 558764775, ""node1"": 86711, ""node2"": 174124, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+jaune,vinaigre,nmod,NOUN,0.5905618071556091,[],,
+vinaigre,riz,nmod,NOUN,0.6787238121032715,"[{""id"": 1023005499, ""node1"": 145443, ""node2"": 24372, ""type"": 0, ""w"": 26.0}, {""id"": 3355970, ""node1"": 145443, ""node2"": 24372, ""type"": 777, ""w"": 10.0}]",r_associated,26.0
+jaune,sucre,nmod,NOUN,0.6407406330108643,[],,
+chauffer,bain,nmod,NOUN,0.5753459930419922,[],,
+bain,marier,nmod,VERB,0.5239835381507874,[],,
+consommer,lui,nsubj:pass,PRON,0.4317251145839691,[],,

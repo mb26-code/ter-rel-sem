@@ -1,0 +1,24 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+sel,gros,amod,ADJ,0.6553788781166077,"[{""id"": 188164, ""node1"": 13260, ""node2"": 88096, ""type"": 0, ""w"": 60.0}, {""id"": 645838, ""node1"": 13260, ""node2"": 88096, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,vinaigre,acl,NOUN,0.6644958257675171,"[{""id"": 584573829, ""node1"": 139597, ""node2"": 145443, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+vinaigre,vin,nmod,NOUN,0.6279023885726929,"[{""id"": 260680, ""node1"": 145443, ""node2"": 35798, ""type"": 0, ""w"": 213.0}, {""id"": 82356060, ""node1"": 145443, ""node2"": 35798, ""type"": 6, ""w"": 36.0}, {""id"": 375688370, ""node1"": 145443, ""node2"": 35798, ""type"": 56, ""w"": 35.0}, {""id"": 1527098, ""node1"": 145443, ""node2"": 35798, ""type"": 666, ""w"": 2.0}]",r_associated,213.0
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+couvercle,couteau,nmod,NOUN,0.5890913009643555,[],,
+casserole,réfrigérateur,nmod,NOUN,0.671978771686554,[],,
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[],,
+eau,soupe,nmod,NOUN,0.6488855481147766,"[{""id"": 214806577, ""node1"": 65012, ""node2"": 117152, ""type"": 0, ""w"": 7.0}, {""id"": 214799406, ""node1"": 65012, ""node2"": 117152, ""type"": 10, ""w"": 65.0}, {""id"": 376035727, ""node1"": 65012, ""node2"": 117152, ""type"": 51, ""w"": 28.0}]",r_holo,65.0
+soupe,vinaigre,nmod,NOUN,0.7203998565673828,"[{""id"": 729556147, ""node1"": 117152, ""node2"": 145443, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+eau,propre,amod,ADJ,0.5699223279953003,"[{""id"": 560382204, ""node1"": 65012, ""node2"": 118316, ""type"": 0, ""w"": 34.0}, {""id"": 257404, ""node1"": 65012, ""node2"": 118316, ""type"": 17, ""w"": 54.0}]",r_carac,54.0
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+ajouter,oignon,obj,NOUN,0.585871696472168,[],,
+oignon,jaune,amod,ADJ,0.5888288617134094,"[{""id"": 1780352, ""node1"": 123307, ""node2"": 86711, ""type"": 17, ""w"": 27.0}, {""id"": 3161225, ""node1"": 123307, ""node2"": 86711, ""type"": 106, ""w"": 7.0}, {""id"": 1767145, ""node1"": 123307, ""node2"": 86711, ""type"": 666, ""w"": 2.0}]",r_carac,27.0
+ajouter,cuillère,obj,NOUN,0.5465437173843384,[],,
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+poignée,thym,nmod,NOUN,0.606474757194519,[],,
+porter,tout,obj,NOUN,0.4637970626354217,[],,
+tout,ébullition,nmod,NOUN,0.520694375038147,[],,
+couper,cuisson,obj,NOUN,0.6758419275283813,[],,
+couper,laisser,advcl,VERB,0.4273125827312469,[],,
+laver,tout,obj,NOUN,0.538537859916687,[],,
+tout,réfrigérateur,nmod,NOUN,0.5405703783035278,[],,

@@ -1,0 +1,22 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+Cake,carotte,nmod,NOUN,0.4285265207290649,[],,
+Cake,ingrédient,nmod,NOUN,0.4129388630390167,[],,
+Cake,levure,appos,NOUN,0.4711513221263885,[],,
+levure,sucre,acl,NOUN,0.6511401534080505,[],,
+sucre,banane,nmod,NOUN,0.6657387614250183,[],,
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+oeuf,farine,nmod,NOUN,0.6328823566436768,"[{""id"": 631637492, ""node1"": 116175, ""node2"": 127629, ""type"": 0, ""w"": 2.0}, {""id"": 472413816, ""node1"": 116175, ""node2"": 127629, ""type"": 6, ""w"": 44.0}, {""id"": 283880799, ""node1"": 116175, ""node2"": 127629, ""type"": 78, ""w"": 15.0}]",r_isa,44.0
+farine,complet,amod,ADJ,0.6471722722053528,"[{""id"": 14803061, ""node1"": 127629, ""node2"": 42645, ""type"": 17, ""w"": 21.0}]",r_carac,21.0
+son,blé,nmod,NOUN,0.5519840121269226,"[{""id"": 9973713, ""node1"": 51528, ""node2"": 32071, ""type"": 0, ""w"": 26.0}, {""id"": 54639515, ""node1"": 51528, ""node2"": 32071, ""type"": 5, ""w"": 77.0}, {""id"": 209090, ""node1"": 51528, ""node2"": 32071, ""type"": 10, ""w"": 60.0}]",r_syn,77.0
+oeuf,yaourt,obj,NOUN,0.5764172673225403,"[{""id"": 584561364, ""node1"": 116175, ""node2"": 82320, ""type"": 0, ""w"": 25.0}]",r_associated,25.0
+oeuf,nature,appos,NOUN,0.5514223575592041,[],,
+nature,lait,nmod,NOUN,0.5904673337936401,"[{""id"": 289469024, ""node1"": 143607, ""node2"": 86296, ""type"": 23, ""w"": 26.0}]",r_carac-1,26.0
+lait,cannelle,amod,ADJ,0.6434928774833679,[],,
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+grille,mixeur,nmod,NOUN,0.5897692441940308,[],,
+mixeur,four,nmod,NOUN,0.6762216091156006,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+ajouter,lait,obj,NOUN,0.5957752466201782,"[{""id"": 373014760, ""node1"": 25099, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+four,chaud,amod,ADJ,0.6748667359352112,"[{""id"": 363192, ""node1"": 9190, ""node2"": 19150, ""type"": 0, ""w"": 123.0}, {""id"": 376860, ""node1"": 9190, ""node2"": 19150, ""type"": 17, ""w"": 130.0}, {""id"": 11348785, ""node1"": 9190, ""node2"": 19150, ""type"": 28, ""w"": 38.0}, {""id"": 2221131, ""node1"": 9190, ""node2"": 19150, ""type"": 666, ""w"": 1.0}]",r_carac,130.0
+moule,thermostat,appos,NOUN,0.5431040525436401,[],,

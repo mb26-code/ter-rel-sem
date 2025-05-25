@@ -1,0 +1,130 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+adopter,régime,obj,NOUN,0.4336814284324646,[],,
+régime,végétarien,amod,ADJ,0.4849532842636108,"[{""id"": 34518037, ""node1"": 127867, ""node2"": 101089, ""type"": 17, ""w"": 52.0}]",r_carac,52.0
+limiter,consommation,obj,NOUN,0.4252029061317444,[],,
+consommation,produit,nmod,NOUN,0.4592465758323669,"[{""id"": 1040277481, ""node1"": 57470, ""node2"": 32667, ""type"": 70, ""w"": 20.0}, {""id"": 1046566847, ""node1"": 57470, ""node2"": 32667, ""type"": 175, ""w"": 20.0}, {""id"": 653266346, ""node1"": 57470, ""node2"": 32667, ""type"": 666, ""w"": 10.0}]",r_processus>agent,20.0
+produit,animal,amod,ADJ,0.4289430975914001,"[{""id"": 578505977, ""node1"": 32667, ""node2"": 17559, ""type"": 6, ""w"": -93.0}]",r_isa,-93.0
+consommation,animal,nmod,NOUN,0.4573165476322174,"[{""id"": 799050858, ""node1"": 57470, ""node2"": 17559, ""type"": 0, ""w"": 30.0}, {""id"": 3671203, ""node1"": 57470, ""node2"": 17559, ""type"": 777, ""w"": 10.0}]",r_associated,30.0
+décourager,consommation,obj,NOUN,0.4047907590866089,[],,
+tuer,être,obj,NOUN,0.4016995429992676,"[{""id"": 97862578, ""node1"": 7943, ""node2"": 13369, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+donner,herbe,obj,NOUN,0.4960498809814453,[],,
+produire,graine,obj,NOUN,0.5246608257293701,[],,
+graine,être,acl:relcl,VERB,0.4645296633243561,[],,
+terre,tout,amod,ADJ,0.5722378492355347,[],,
+surface,terre,nmod,NOUN,0.4950118958950043,"[{""id"": 653549884, ""node1"": 45989, ""node2"": 25705, ""type"": 666, ""w"": 3.0}]",r_aki,3.0
+arbre,avoir,acl:relcl,VERB,0.4104949831962585,[],,
+avoir,fruit,obj,NOUN,0.4665964841842651,[],,
+donner,qui,nsubj,PRON,0.4009021520614624,[],,
+fruit,donner,acl:relcl,VERB,0.5051925778388977,[],,
+donner,graine,obj,NOUN,0.5194122195243835,[],,
+vous,nourriture,acl:relcl,NOUN,0.4238239824771881,[],,
+végétarien,idéal,amod,ADJ,0.4146372675895691,[],,
+créature,tout,amod,ADJ,0.5001000165939331,[],,
+consommer,créature,nsubj,NOUN,0.5197539925575256,[],,
+interpréter,consommer,advcl,VERB,0.4620344936847687,[],,
+consommer,végétal,obj,NOUN,0.5883146524429321,[],,
+végétal,interprétation,nmod,NOUN,0.4975079298019409,[],,
+humanité,végétarien,amod,ADJ,0.4700454771518707,"[{""id"": 4023086, ""node1"": 103906, ""node2"": 101089, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+permission,consommer,acl,VERB,0.4543715119361877,[],,
+viande,date,nmod,NOUN,0.5524734854698181,[],,
+végétarien,prophète,nsubj,NOUN,0.408834308385849,[],,
+passage,livre,nmod,NOUN,0.4594180583953857,"[{""id"": 561069208, ""node1"": 64862, ""node2"": 142787, ""type"": 0, ""w"": 52.0}, {""id"": 1008769026, ""node1"": 64862, ""node2"": 142787, ""type"": 666, ""w"": 2.0}]",r_associated,52.0
+respect,vie,nmod,NOUN,0.4027766585350036,"[{""id"": 727656290, ""node1"": 123739, ""node2"": 141659, ""type"": 0, ""w"": 32.0}, {""id"": 727656772, ""node1"": 123739, ""node2"": 141659, ""type"": 3, ""w"": 35.0}]",r_domain,35.0
+prophète,végétarien,amod,ADJ,0.408834308385849,[],,
+critique,point,nmod,NOUN,0.4086147546768188,[],,
+régime,humain,amod,ADJ,0.4486925005912781,[],,
+devenir,animal,nsubj,NOUN,0.4222248494625091,"[{""id"": 473516464, ""node1"": 9626, ""node2"": 17559, ""type"": 13, ""w"": 30.0}]",r_agent,30.0
+boire,vin,obj,NOUN,0.5811640024185181,"[{""id"": 141297, ""node1"": 47918, ""node2"": 35798, ""type"": 0, ""w"": 140.0}, {""id"": 360686, ""node1"": 47918, ""node2"": 35798, ""type"": 14, ""w"": 100.0}, {""id"": 97325762, ""node1"": 47918, ""node2"": 35798, ""type"": 16, ""w"": 21.0}, {""id"": 539966779, ""node1"": 47918, ""node2"": 35798, ""type"": 17, ""w"": -25.0}, {""id"": 1008559759, ""node1"": 47918, ""node2"": 35798, ""type"": 666, ""w"": 3.0}]",r_associated,140.0
+vin,servir,acl,VERB,0.6310115456581116,"[{""id"": 893003457, ""node1"": 35798, ""node2"": 7888, ""type"": 0, ""w"": 20.0}, {""id"": 388855394, ""node1"": 35798, ""node2"": 7888, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+nourrir,soumettre,advcl,VERB,0.4102693200111389,[],,
+fin,jour,nmod,NOUN,0.4445211291313171,[],,
+santé,garçon,nsubj,NOUN,0.4326588809490204,[],,
+santé,meilleur,amod,ADJ,0.418459802865982,[],,
+manger,qui,nsubj,PRON,0.5110785961151123,[],,
+celui,manger,acl:relcl,VERB,0.5463796257972717,[],,
+manger,nourriture,obj,NOUN,0.6120433807373047,"[{""id"": 2137, ""node1"": 130164, ""node2"": 20965, ""type"": 0, ""w"": 566.47}, {""id"": 98289328, ""node1"": 130164, ""node2"": 20965, ""type"": 3, ""w"": 22.0}, {""id"": 54681238, ""node1"": 130164, ""node2"": 20965, ""type"": 5, ""w"": 144.0}, {""id"": 130647, ""node1"": 130164, ""node2"": 20965, ""type"": 14, ""w"": 100.0}, {""id"": 164033, ""node1"": 130164, ""node2"": 20965, ""type"": 16, ""w"": 54.0}, {""id"": 91498429, ""node1"": 130164, ""node2"": 20965, ""type"": 35, ""w"": 40.0}, {""id"": 102054123, ""node1"": 130164, ""node2"": 20965, ""type"": 41, ""w"": 31.0}, {""id"": 102054166, ""node1"": 130164, ""node2"": 20965, ""type"": 42, ""w"": 58.0}, {""id"": 8858981, ""node1"": 130164, ""node2"": 20965, ""type"": 49, ""w"": -5.0}, {""id"": 306205276, ""node1"": 130164, ""node2"": 20965, ""type"": 129, ""w"": 36.0}, {""id"": 1824691, ""node1"": 130164, ""node2"": 20965, ""type"": 666, ""w"": 10.0}]",r_associated,566.47
+droit,manger,acl,VERB,0.5012445449829102,[],,
+avoir,nourriture,obj,NOUN,0.4884779751300812,[],,
+nourriture,vous,nmod,PRON,0.4238239824771881,[],,
+animal,tout,amod,ADJ,0.5101210474967957,[],,
+animal,terre,nmod,NOUN,0.5179315805435181,"[{""id"": 9974024, ""node1"": 17559, ""node2"": 25705, ""type"": 0, ""w"": 30.0}, {""id"": 222018, ""node1"": 17559, ""node2"": 25705, ""type"": 10, ""w"": 56.0}, {""id"": 8558255, ""node1"": 17559, ""node2"": 25705, ""type"": 15, ""w"": 35.0}]",r_holo,56.0
+permettre,son,iobj,PRON,0.4098447859287262,[],,
+herbe,vert,amod,ADJ,0.4881101846694946,"[{""id"": 69710, ""node1"": 138874, ""node2"": 26976, ""type"": 0, ""w"": 166.0}, {""id"": 54683135, ""node1"": 138874, ""node2"": 26976, ""type"": 5, ""w"": 80.0}, {""id"": 243397971, ""node1"": 138874, ""node2"": 26976, ""type"": 8, ""w"": 31.0}, {""id"": 14806057, ""node1"": 138874, ""node2"": 26976, ""type"": 17, ""w"": 21.0}, {""id"": 3154699, ""node1"": 138874, ""node2"": 26976, ""type"": 106, ""w"": 48.0}, {""id"": 653277072, ""node1"": 138874, ""node2"": 26976, ""type"": 666, ""w"": 7.0}]",r_associated,166.0
+consommation,seul,amod,ADJ,0.4696921408176422,[],,
+moment,consommation,nmod,NOUN,0.5156599283218384,[],,
+animal,vivre,acl,VERB,0.4672962725162506,"[{""id"": 418415649, ""node1"": 17559, ""node2"": 2442, ""type"": 0, ""w"": 28.0}, {""id"": 1577830, ""node1"": 17559, ""node2"": 2442, ""type"": 24, ""w"": 100.0}]",r_agent-1,100.0
+consommation,reste,nmod,VERB,0.5172396302223206,[],,
+consommation,jour,nmod,NOUN,0.4520137012004852,[],,
+interdire,consommation,obj,NOUN,0.4030102491378784,[],,
+consommation,viande,nmod,NOUN,0.6809430718421936,"[{""id"": 799194673, ""node1"": 57470, ""node2"": 140100, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+pouvoir,que,obj,PRON,0.4044603109359741,[],,
+avoir,viande,obj,NOUN,0.6508083343505859,[],,
+viande,caractère,nmod,NOUN,0.7099199295043945,[],,
+promouvoir,végétarien,advcl,ADJ,0.4693006575107574,[],,
+juif,tout,amod,ADJ,0.4285272657871246,[],,
+faire,éloge,obj,NOUN,0.4607829451560974,[],,
+végétarien,autre,amod,ADJ,0.5209888219833374,[],,
+devenir,végétarien,obj,NOUN,0.4644416570663452,[],,
+livre,premier,amod,ADJ,0.4337981939315796,"[{""id"": 372655577, ""node1"": 142787, ""node2"": 130626, ""type"": 17, ""w"": 116.0}]",r_carac,116.0
+compiler,livre,nsubj:pass,NOUN,0.4230827093124389,[],,
+livre,cuisine,nmod,NOUN,0.6082427501678467,"[{""id"": 796690394, ""node1"": 142787, ""node2"": 16033, ""type"": 0, ""w"": 27.0}, {""id"": 661863037, ""node1"": 142787, ""node2"": 16033, ""type"": 142, ""w"": 30.0}]",r_has_topic,30.0
+cuisine,juif,amod,ADJ,0.4674468338489532,[],,
+produit,tout,amod,ADJ,0.4931631684303283,[],,
+éviter,produit,obj,NOUN,0.4271262288093567,[],,
+produit,origine,nmod,NOUN,0.4072543680667877,"[{""id"": 319668183, ""node1"": 32667, ""node2"": 46994, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+origine,animal,amod,ADJ,0.4189746677875519,[],,
+populaire,décrire,advcl,VERB,0.4098887145519256,[],,
+capitale,vegan,amod,ADJ,0.4317695200443268,[],,
+réduire,consommation,obj,NOUN,0.4651074707508087,"[{""id"": 552862338, ""node1"": 120230, ""node2"": 57470, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+souffrance,animal,amod,ADJ,0.4018815159797668,[],,
+raison,cruauté,nmod,NOUN,0.4135381579399109,[],,
+donner,végétarien,nsubj,NOUN,0.5166248083114624,[],,
+végétarien,contemporain,amod,ADJ,0.4560616612434387,[],,
+donner,argument,obj,NOUN,0.4033446311950683,[],,
+conservation,ressource,nmod,NOUN,0.4565373361110687,[],,
+consommation,masse,nmod,NOUN,0.4384972155094147,[],,
+masse,viande,nmod,NOUN,0.6401326060295105,[],,
+produit,autre,amod,ADJ,0.4623294472694397,[],,
+élevage,industriel,amod,ADJ,0.401124358177185,"[{""id"": 372241342, ""node1"": 18412, ""node2"": 55133, ""type"": 17, ""w"": 41.0}]",r_carac,41.0
+vitesse,grand,amod,ADJ,0.4591453075408935,[],,
+abattoir,vitesse,nmod,NOUN,0.436094582080841,[],,
+industrie,viande,nmod,NOUN,0.6743689775466919,[],,
+représenter,régime,nsubj,NOUN,0.4368956089019775,[],,
+représenter,gaspillage,obj,NOUN,0.4211951792240143,[],,
+terre,énergie,nmod,NOUN,0.524264395236969,"[{""id"": 943477495, ""node1"": 25705, ""node2"": 108673, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+terre,régime,nmod,NOUN,0.5571174025535583,[],,
+enregistrer,végétarien,obj,NOUN,0.450283795595169,[],,
+maintenir,santé,obj,NOUN,0.4166280031204223,[],,
+faire,mal,obj,NOUN,0.4292334318161011,"[{""id"": 416156, ""node1"": 87528, ""node2"": 4078, ""type"": 14, ""w"": 53.0}]",r_patient,53.0
+bénéfice,régime,nmod,NOUN,0.410449355840683,[],,
+plaider,végétarien,nsubj,NOUN,0.4120080173015594,[],,
+fondre,plaider,advcl,VERB,0.4504238069057464,[],,
+épuisement,ressource,nmod,NOUN,0.404801994562149,"[{""id"": 799199466, ""node1"": 4139, ""node2"": 49307, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+ressource,naturel,amod,ADJ,0.4430740177631378,"[{""id"": 651114156, ""node1"": 49307, ""node2"": 20579, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+exemple,consommation,nmod,NOUN,0.4463292062282562,[],,
+sacrifice,autre,amod,ADJ,0.457695871591568,[],,
+cher,viande,nsubj,NOUN,0.5864765644073486,"[{""id"": 97408687, ""node1"": 23433, ""node2"": 140100, ""type"": 23, ""w"": 26.0}]",r_carac-1,26.0
+problème,santé,nmod,NOUN,0.4174870550632477,"[{""id"": 558644582, ""node1"": 7190, ""node2"": 38157, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+problème,viande,nmod,NOUN,0.7074904441833496,[],,
+consommation,repas,nmod,NOUN,0.5729216933250427,"[{""id"": 628069443, ""node1"": 57470, ""node2"": 74736, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+fondre,membre,nsubj,NOUN,0.4199216067790985,[],,
+devoir,fondre,advcl,VERB,0.4657358229160309,[],,
+fondre,considérer,advcl,VERB,0.4797854125499725,[],,
+forme,végétarien,appos,NOUN,0.5400330424308777,[],,
+manger,produit,obj,NOUN,0.5926599502563477,"[{""id"": 579854027, ""node1"": 130164, ""node2"": 32667, ""type"": 13, ""w"": -30.0}]",r_agent,-30.0
+fondre,opposer,advcl,VERB,0.4408150017261505,[],,
+utilisation,produit,nmod,NOUN,0.4080479145050049,[],,
+devoir,rouleau,nsubj,NOUN,0.4116018414497375,[],,
+utilisation,corne,nmod,NOUN,0.4099775552749634,[],,
+corne,animal,nmod,NOUN,0.427359938621521,"[{""id"": 2201796, ""node1"": 140039, ""node2"": 17559, ""type"": 0, ""w"": 75.0}, {""id"": 97415087, ""node1"": 140039, ""node2"": 17559, ""type"": 10, ""w"": 29.0}, {""id"": 994674377, ""node1"": 140039, ""node2"": 17559, ""type"": 666, ""w"": 2.0}]",r_associated,75.0
+idéologie,végétarien,amod,ADJ,0.4784832000732422,[],,
+celui,fabriquer,acl,VERB,0.4142531752586365,[],,
+peau,animal,nmod,NOUN,0.4818109273910522,"[{""id"": 135482, ""node1"": 109785, ""node2"": 17559, ""type"": 10, ""w"": 63.0}]",r_holo,63.0
+créer,coutume,nsubj:pass,NOUN,0.4147419035434723,[],,
+coutume,manger,acl,VERB,0.589366614818573,[],,
+manger,aliment,obj,NOUN,0.645270049571991,"[{""id"": 129344, ""node1"": 130164, ""node2"": 114637, ""type"": 0, ""w"": 628.37}, {""id"": 12195585, ""node1"": 130164, ""node2"": 114637, ""type"": 5, ""w"": 126.0}, {""id"": 506502305, ""node1"": 130164, ""node2"": 114637, ""type"": 13, ""w"": 100.0}, {""id"": 165988, ""node1"": 130164, ""node2"": 114637, ""type"": 14, ""w"": 100.0}]",r_associated,628.37
+aliment,origine,nmod,NOUN,0.5517926812171936,"[{""id"": 533130008, ""node1"": 114637, ""node2"": 46994, ""type"": 153, ""w"": 38.0}]",r_has_prop,38.0
+fête,juif,amod,ADJ,0.4243465363979339,[],,
+produit,laitier,amod,ADJ,0.4826900959014892,"[{""id"": 1924594, ""node1"": 32667, ""node2"": 10201, ""type"": 0, ""w"": 58.0}]",r_associated,58.0
+miel,Roch,nmod,PROPN,0.4328028857707977,[],,
+consommation,bol,nmod,NOUN,0.5502487421035767,[],,

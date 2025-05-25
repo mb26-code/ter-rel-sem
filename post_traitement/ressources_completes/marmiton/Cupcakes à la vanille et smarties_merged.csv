@@ -1,0 +1,41 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,levure,appos,NOUN,0.6170762777328491,[],,
+levure,farine,amod,NOUN,0.6151298880577087,"[{""id"": 1788186, ""node1"": 53450, ""node2"": 127629, ""type"": 0, ""w"": 60.0}, {""id"": 1046576042, ""node1"": 53450, ""node2"": 127629, ""type"": 8, ""w"": 20.0}]",r_associated,60.0
+ingrédient,extraire,acl,VERB,0.5502373576164246,[],,
+sucre,beurre,amod,NOUN,0.6973879933357239,[],,
+beurre,oeuf,nmod,NOUN,0.6205570101737976,"[{""id"": 798889058, ""node1"": 140377, ""node2"": 116175, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+oeuf,amande,nmod,NOUN,0.5567412972450256,[],,
+amande,poudre,nmod,NOUN,0.5705900192260742,[],,
+poudre,mini,nmod,NOUN,0.5130509734153748,[],,
+sucre,sucre,nmod,NOUN,0.6199788451194763,"[{""id"": 335264, ""node1"": 139481, ""node2"": 139481, ""type"": 19, ""w"": 142.0}, {""id"": 93901596, ""node1"": 139481, ""node2"": 139481, ""type"": 50, ""w"": -27.0}, {""id"": 376041081, ""node1"": 139481, ""node2"": 139481, ""type"": 51, ""w"": 28.0}]",r_lemma,142.0
+sucre,glace,nmod,NOUN,0.651667594909668,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -126.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]",r_associated,111.0
+ingrédient,extrait,acl,NOUN,0.4984522461891174,[],,
+titre,grille,nmod,NOUN,0.4488788545131683,[],,
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+grille,moule,nmod,NOUN,0.5495657920837402,[],,
+four,saladier,nmod,NOUN,0.6991847157478333,[],,
+saladier,fouet,nmod,NOUN,0.5588916540145874,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+fouet,cuillère,nmod,NOUN,0.5491861701011658,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,poche,appos,NOUN,0.4640150368213653,"[{""id"": 434923682, ""node1"": 51905, ""node2"": 139906, ""type"": 5, ""w"": 52.0}]",r_syn,52.0
+fouet,balance,nmod,NOUN,0.4882497191429138,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+fouet,étape,nmod,NOUN,0.4946097731590271,[],,
+battre,beurre,obj,NOUN,0.6182277798652649,"[{""id"": 2120025, ""node1"": 119162, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+beurre,mou,amod,ADJ,0.4953928291797638,"[{""id"": 211604, ""node1"": 140377, ""node2"": 26607, ""type"": 17, ""w"": 82.0}]",r_carac,82.0
+ajouter,extrait,obj,NOUN,0.4049940109252929,[],,
+extrait,vanille,nmod,NOUN,0.5278633236885071,[],,
+ajouter,oeuf,obj,NOUN,0.5327831506729126,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ajouter,poudre,obj,NOUN,0.5711148977279663,[],,
+poudre,amande,nmod,NOUN,0.5705900192260742,[],,
+quantité,goût,nmod,NOUN,0.586993396282196,[],,
+enfourner,surveiller,advcl,VERB,0.4922719597816467,[],,
+surveiller,cuisson,obj,NOUN,0.6946427226066589,"[{""id"": 1007853514, ""node1"": 39170, ""node2"": 60056, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+cuillère,mélanger,acl,VERB,0.6018561720848083,"[{""id"": 8865393, ""node1"": 51905, ""node2"": 37151, ""type"": 0, ""w"": 16.0}, {""id"": 140516, ""node1"": 51905, ""node2"": 37151, ""type"": 25, ""w"": 731.0}]",r_instr-1,731.0
+mélanger,mascarpone,obj,NOUN,0.5860960483551025,[],,
+mascarpone,extrait,nmod,NOUN,0.5206380486488342,[],,
+sucre,façon,nmod,NOUN,0.6809220910072327,[],,
+sucre,rendre,acl,VERB,0.6236082911491394,[],,
+seringue,culinaire,amod,ADJ,0.5824444890022278,[],,
