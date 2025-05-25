@@ -1,4 +1,4 @@
-import os
+
 
 import discord
 from discord.ext import commands
@@ -7,6 +7,7 @@ import io
 import contextlib
 from dotenv import load_dotenv
 from ngo import process_text, load_word2vec_model, load_relation_types
+import os
 
 load_dotenv()
 intents = discord.Intents.default()
@@ -235,5 +236,5 @@ async def executer_script_et_envoyer_csv(ctx, *, message: str):
     except Exception as e:
         await ctx.send(f"Erreur lors de l'exécution : {e}")
 
-# Lancer le bot
-bot.run("MTM3MDM3NTE5MTU0NDQ2NzQ2Ng.GA87T5.kE498SuVMivtGp_mq3CdCOqZ_gKWH_AjkebuV0")
+load_dotenv()
+bot.run(os.getenv("DISCORD_TOKEN"))
