@@ -24,7 +24,7 @@ import requests
 # Import configurations
 from configs import (
     BASE_JDM_URL, BASE_DIR, PATH_RELATIONS_TYPES, SPACY_MODEL,
-    WORD2VEC_MODEL_PATH, LIMIT_WORD2VEC, THRESHOLD, INTERESTING_DEPS, 
+    FASTTEXT_MODEL_PATH, LIMIT_FASTTEXT, THRESHOLD, INTERESTING_DEPS, 
     PIVOTS, RELATION_PRIORITY, DEFAULT_RELATION_PRIORITY, LOGGING_CONFIG, Colors
 )
 
@@ -107,23 +107,23 @@ def extract_pairs(tokens):
             pairs.append((head.lemma, tok.lemma, tok.dep, tok.pos))
     return pairs
 
-def load_word2vec_model(model_path=WORD2VEC_MODEL_PATH, limit=LIMIT_WORD2VEC):
+def load_fasttext_model(model_path=FASTTEXT_MODEL_PATH, limit=LIMIT_FASTTEXT):
     """
-    Charger le modèle Word2Vec
+    Charger le modèle FastText
     """
     try:
         model_path = os.path.join(BASE_DIR, model_path)
         if not os.path.exists(model_path):
-            print(f"Erreur : Modèle Word2Vec non trouvé à {model_path}")
+            print(f"Erreur : Modèle FastText non trouvé à {model_path}")
             print("Veuillez le télécharger avec : wget -c \"https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.fr.300.vec.gz\"")
             return None
             
-        print(f"Chargement du modèle Word2Vec depuis {model_path}...")
+        print(f"Chargement du modèle FastText depuis {model_path}...")
         model = KeyedVectors.load_word2vec_format(model_path, binary=False, limit=limit)
-        print(f"Modèle Word2Vec chargé avec succès avec {len(model.key_to_index)} termes")
+        print(f"Modèle FastText chargé avec succès avec {len(model.key_to_index)} termes")
         return model
     except Exception as e:
-        print(f"Erreur lors du chargement du modèle Word2Vec : {e}")
+        print(f"Erreur lors du chargement du modèle FastText : {e}")
         return None
 
 def pair_vector(model, h, lemma):
@@ -274,14 +274,21 @@ def select_best_relation(db_entry):
     if new_relation and not best_relation:
         return new_relation, str(new_w) if new_w is not None else ''
     
-    # Si les deux relations existent, prendre celle avec le poids le plus élevé
+    # Si les deux relations existent, appliquer les règles
     if best_relation and new_relation and best_w is not None and new_w is not None:
+        # Règle 1: Prendre le poids le plus élevé
         if new_w > best_w:
             print(f"Choix de new_relation: {new_relation} (poids: {new_w}) > best_relation: {best_relation} (poids: {best_w})")
             return new_relation, str(new_w)
-        else:
-            print(f"Choix de best_relation: {best_relation} (poids: {best_w}) >= new_relation: {new_relation} (poids: {new_w})")
-            return best_relation, str(best_w)
+        
+        # Règle 2: Si best_relation est r_associated et son poids < 1.1 * new_relation_w
+        if best_relation == 'r_associated' and best_w < 1.1 * new_w:
+            print(f"Choix de new_relation: {new_relation} car best_relation est r_associated et {best_w} < 1.5 * {new_w}")
+            return new_relation, str(new_w)
+        
+        # Sinon, garder best_relation
+        print(f"Choix de best_relation: {best_relation} (poids: {best_w})")
+        return best_relation, str(best_w)
     
     # Fallback: retourner best_relation s'il existe
     if best_relation:
@@ -504,7 +511,7 @@ def main():
     parser = argparse.ArgumentParser(description='Extraire les relations sémantiques d\'un texte d\'entrée.')
     parser.add_argument('--text', '-t', type=str, help='Texte à traiter')
     parser.add_argument('--file', '-f', type=str, help='Fichier contenant le texte à traiter')
-    parser.add_argument('--no-model', action='store_true', help='Ignorer le filtrage Word2Vec (plus rapide mais moins précis)')
+    parser.add_argument('--no-model', action='store_true', help='Ignorer le filtrage FastText (plus rapide mais moins précis)')
     parser.add_argument('--threshold', type=float, default=THRESHOLD, help=f'Seuil de similarité (défaut : {THRESHOLD})')
     parser.add_argument('--output', '-o', type=str, help='Chemin du fichier CSV de sortie')
     parser.add_argument('--output-dir', '-d', default='output', type=str, help='Répertoire de sortie pour les fichiers CSV (nom de fichier dérivé du fichier d\'entrée)')
@@ -547,9 +554,9 @@ def main():
     # Charger le modèle si nécessaire
     model = None
     if not args.no_model:
-        model = load_word2vec_model()
+        model = load_fasttext_model()
         if model is None:
-            print("Avertissement : Exécution sans filtrage Word2Vec")
+            print("Avertissement : Exécution sans filtrage FastText")
 
     # Mettre à jour le seuil si spécifié
     if args.threshold != THRESHOLD:

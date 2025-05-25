@@ -16,8 +16,8 @@ PATH_RELATIONS_TYPES = os.path.join(BASE_DIR, "../post_traitement/relations_type
 SPACY_MODEL = "fr_core_news_lg"
 
 # Word2Vec configuration
-WORD2VEC_MODEL_PATH = 'cc.fr.300.vec.gz'
-LIMIT_WORD2VEC = 50000  # Limite pour éviter de charger trop de mots
+FASTTEXT_MODEL_PATH = 'cc.fr.300.vec.gz'
+LIMIT_FASTTEXT = 50000  # Limite pour éviter de charger trop de mots
 
 # Similarity threshold
 THRESHOLD = 0.5

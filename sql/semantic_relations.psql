@@ -8,6 +8,8 @@ CREATE TABLE semantic_relations (
     relations JSONB DEFAULT '[]',
     best_relation TEXT,
     best_relation_w FLOAT4,
+    new_relation TEXT,
+    new_relation_w FLOAT4,
     CONSTRAINT check_relations_best_relation CHECK (
         (relations IS NULL AND best_relation IS NULL) OR
         (relations IS NOT NULL AND best_relation IS NOT NULL) OR
@@ -15,14 +17,14 @@ CREATE TABLE semantic_relations (
     )
 );
 
--- Indice pour rechercher une paire
+-- Index for faster lookups on nodes
 CREATE INDEX idx_semantic_relations_nodes ON semantic_relations(node1, node2);
 
--- Indice pour rechercher dans le json de `relations`
--- SELECT node1, node2, relations 
--- FROM semantic_relations 
--- WHERE relations @> '[{"type": "hypernym"}]';
+-- Index for JSON queries
 CREATE INDEX idx_semantic_relations_jsonb ON semantic_relations USING GIN (relations);
 
--- Indice pour filtrer des meilleures relations
+-- Index for filtering by relation type
 CREATE INDEX idx_semantic_relations_best_relation ON semantic_relations(best_relation);
+
+-- Index for filtering by new relation type
+CREATE INDEX idx_semantic_relations_new_relation ON semantic_relations(new_relation);
