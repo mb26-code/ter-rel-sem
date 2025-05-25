@@ -1,0 +1,13 @@
+node1,node2,dep,pos,sim,relations,best_relation,best_relation_w,new_relation,new_relation_w,source,filtrage
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""w"": 598, ""id"": 104631, ""type"": 0, ""node1"": 86711, ""node2"": 116175}, {""w"": 29, ""id"": 31299418, ""type"": 3, ""node1"": 86711, ""node2"": 116175}, {""w"": 109, ""id"": 2350883, ""type"": 10, ""node1"": 86711, ""node2"": 116175}, {""w"": 118, ""id"": 131637, ""type"": 15, ""node1"": 86711, ""node2"": 116175}, {""w"": 300, ""id"": 120267, ""type"": 23, ""node1"": 86711, ""node2"": 116175}, {""w"": 58, ""id"": 2254559, ""type"": 54, ""node1"": 86711, ""node2"": 116175}]",r_associated,598,,,database,oui
+monter,blanc,obj,NOUN,0.5055097341537476,[],,,,,database_no_relation,oui
+mélanger,jaune,obj,NOUN,0.5585520267486572,[],,,,,database_no_relation,oui
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""w"": 2, ""id"": 1768889, ""type"": 666, ""node1"": 53450, ""node2"": 123153}]",r_aki,2,,,database,oui
+neige,petit,amod,ADJ,0.5172819495201111,[],,,,,no_relation,oui
+casser,blanc,obj,NOUN,0.5271337032318115,[],,,,,database_no_relation,oui
+verser,cannelle,obj,ADJ,0.6287669539451599,[],,,,,database_no_relation,oui
+verser,préparation,obj,NOUN,0.5208573341369629,"[{""w"": 30, ""id"": 72653246, ""type"": 0, ""node1"": 104506, ""node2"": 33634}, {""w"": 100, ""id"": 478294173, ""type"": 14, ""node1"": 104506, ""node2"": 33634}]",r_patient,100,,,database,oui
+préparation,celui-ci,nmod,PRON,0.5343815684318542,[],,,,,no_relation,oui
+vérifier,cuisson,obj,NOUN,0.6534045934677124,"[{""w"": 64, ""id"": 31862099, ""type"": 14, ""node1"": 76431, ""node2"": 60056}]",r_patient,64,,,database,oui
+cuisson,planter,acl,VERB,0.6939831972122192,[],,,,,database_no_relation,oui
+planter,couteau,obj,NOUN,0.5039401650428772,"[{""w"": 20, ""id"": 899960476, ""type"": 0, ""node1"": 4993, ""node2"": 32610}, {""w"": 53, ""id"": 31862076, ""type"": 14, ""node1"": 4993, ""node2"": 32610}, {""w"": 26, ""id"": 376201239, ""type"": 16, ""node1"": 4993, ""node2"": 32610}]",r_patient,53,,,database,oui
