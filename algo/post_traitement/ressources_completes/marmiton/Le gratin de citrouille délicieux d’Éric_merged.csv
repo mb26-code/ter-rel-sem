@@ -1,0 +1,40 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+gratin,citrouille,nmod,NOUN,0.6112254858016968,[],,
+citrouille,délicieux,amod,ADJ,0.6361389756202698,[],,
+gratin,gruyère,nmod,NOUN,0.5780057907104492,"[{""id"": 607823224, ""node1"": 12942, ""node2"": 54095, ""type"": 0, ""w"": 26.0}, {""id"": 606747321, ""node1"": 12942, ""node2"": 54095, ""type"": 9, ""w"": 51.0}]",r_has_part,51.0
+beurre,muscade,nmod,NOUN,0.670015275478363,[],,
+oeuf,mélange,nmod,NOUN,0.5729450583457947,[],,
+Plat,gratin,nmod,NOUN,0.4779236614704132,[],,
+Plat,four,nmod,NOUN,0.6130218505859375,[],,
+Plat,couteau,nmod,NOUN,0.49477618932724,[],,
+Plat,fouet,nmod,NOUN,0.53190016746521,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+fouet,cuillère,nmod,NOUN,0.5491861701011658,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,chauffer,acl,VERB,0.652341902256012,[],,
+chauffer,balance,obj,NOUN,0.5568371415138245,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+four,210,nmod,NUM,0.4737946689128876,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+couper,citrouille,obj,NOUN,0.5498422384262085,[],,
+cube,gros,amod,ADJ,0.4745939373970032,[],,
+citrouille,cube,nmod,NOUN,0.5157384872436523,[],,
+verser,farine,obj,NOUN,0.6472393274307251,"[{""id"": 25676320, ""node1"": 104506, ""node2"": 127629, ""type"": 14, ""w"": 40.0}]",r_patient,40.0
+œuf,entier,amod,ADJ,0.5101135969161987,[],,
+persil,haché,amod,ADJ,0.5771787762641907,"[{""id"": 8222864, ""node1"": 135982, ""node2"": 47887, ""type"": 666, ""w"": 1.0}]",r_aki,1.0
+muscade,moulin,nmod,NOUN,0.5750706195831299,[],,
+muscade,baie,amod,NOUN,0.4414174854755401,[],,
+mélanger,tout,obj,NOUN,0.528428852558136,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]",r_patient,110.0
+tout,aide,nmod,NOUN,0.454414039850235,[],,
+aide,fouet,nmod,NOUN,0.4524300992488861,[],,
+verser,purée,obj,NOUN,0.6513752341270447,[],,
+purée,citrouille,nmod,NOUN,0.6510319113731384,[],,
+purée,préparation,nmod,NOUN,0.6667780876159668,"[{""id"": 920477127, ""node1"": 16444, ""node2"": 33634, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+verser,tout,obj,NOUN,0.5228472352027893,[],,
+tout,moule,nmod,NOUN,0.5652627348899841,[],,
+moule,gratin,nmod,NOUN,0.5707870125770569,[],,
+ajouter,noisette,obj,NOUN,0.574908435344696,[],,
+noisette,beurre,nmod,NOUN,0.6675335168838501,"[{""id"": 120202, ""node1"": 67819, ""node2"": 140377, ""type"": 0, ""w"": 70.0}, {""id"": 775213357, ""node1"": 67819, ""node2"": 140377, ""type"": 174, ""w"": 25.0}]",r_associated,70.0
+saupoudrer,chapelure,obj,NOUN,0.624013364315033,[],,

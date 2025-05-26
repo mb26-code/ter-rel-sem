@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+recette,italien,amod,ADJ,0.5773410201072693,[],,
+recette,crème,nmod,NOUN,0.6664758324623108,"[{""id"": 99097422, ""node1"": 120188, ""node2"": 44001, ""type"": 0, ""w"": 18.0}, {""id"": 98724024, ""node1"": 120188, ""node2"": 44001, ""type"": 9, ""w"": 22.0}, {""id"": 13099876, ""node1"": 120188, ""node2"": 44001, ""type"": 28, ""w"": 34.0}, {""id"": 98281072, ""node1"": 120188, ""node2"": 44001, ""type"": 50, ""w"": 31.0}]",r_lieu-1,34.0
+ingrédient,poivre,appos,NOUN,0.7064663171768188,"[{""id"": 24923435, ""node1"": 123418, ""node2"": 139597, ""type"": 0, ""w"": 15.0}, {""id"": 24850733, ""node1"": 123418, ""node2"": 139597, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+poivre,pâte,nmod,NOUN,0.7343641519546509,"[{""id"": 584573801, ""node1"": 139597, ""node2"": 34069, ""type"": 0, ""w"": 16.0}]",r_associated,16.0
+poivre,poitrine,nmod,NOUN,0.6095934510231018,[],,
+poivre,fumé,amod,ADJ,0.595227837562561,[],,
+fumé,oeuf,nmod,NOUN,0.5788801312446594,[],,
+ingrédient,étape,nmod,NOUN,0.4697338342666626,[],,
+ingrédient,préparer,acl,VERB,0.6240276098251343,[],,
+préparer,sauce,obj,NOUN,0.6940045356750488,"[{""id"": 395781320, ""node1"": 36246, ""node2"": 141110, ""type"": 0, ""w"": 35.0}, {""id"": 373014451, ""node1"": 36246, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+battre,jaune,obj,NOUN,0.5006049275398254,[],,
+jaune,œuf,nmod,NOUN,0.524957537651062,"[{""id"": 558764775, ""node1"": 86711, ""node2"": 174124, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+gramme,râpé,acl,ADV,0.5260376930236816,[],,
+obtenir,pâte,obj,NOUN,0.6173189282417297,[],,
+pâte,homogène,amod,ADJ,0.6105889678001404,"[{""id"": 796702467, ""node1"": 34069, ""node2"": 124759, ""type"": 0, ""w"": 28.0}, {""id"": 372565004, ""node1"": 34069, ""node2"": 124759, ""type"": 17, ""w"": 26.0}]",r_associated,28.0
+découper,poitrine,obj,NOUN,0.4894288778305053,[],,
+poitrine,fumé,amod,ADJ,0.5047934651374817,[],,
+poêle,chaud,amod,ADJ,0.6645733714103699,"[{""id"": 278998504, ""node1"": 119686, ""node2"": 19150, ""type"": 0, ""w"": 26.0}, {""id"": 3078839, ""node1"": 119686, ""node2"": 19150, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+eau,poitrine,nmod,NOUN,0.5614948272705078,[],,
+ajouter,pâte,obj,NOUN,0.6482475399971008,[],,
+pâte,chaud,amod,ADJ,0.6844469308853149,[],,
+pâte,sauce,nmod,NOUN,0.7205467820167542,"[{""id"": 651002087, ""node1"": 34069, ""node2"": 141110, ""type"": 666, ""w"": 3.0}]",r_aki,3.0
+réchauffer,sauce,obj,NOUN,0.7271950840950012,[],,
+mélanger,reste,obj,NOUN,0.5285565853118896,[],,
+reste,pâte,nmod,NOUN,0.6521061062812805,[],,
+mélanger,jeter,advcl,VERB,0.4854415357112884,[],,
+jeter,gras,obj,NOUN,0.5492854118347168,[],,
+donner,consistance,obj,NOUN,0.4127334058284759,[],,
+ajouter,sauce,obj,NOUN,0.6714595556259155,[],,
+ajouter,peu,obj,ADV,0.4455879032611847,[],,

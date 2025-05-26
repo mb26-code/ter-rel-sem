@@ -1,0 +1,55 @@
+node1,node2,relations
+nid,ingrédient,[]
+nid,chocolat,[]
+nid,noir,"[{""id"": 13683752, ""node1"": 64116, ""node2"": 64238, ""type"": 106, ""w"": 1.0}]"
+sucre,poudre,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]"
+poudre,beurre,[]
+nid,café,[]
+café,oeuf,[]
+oeuf,oeuf,"[{""id"": 319594, ""node1"": 116175, ""node2"": 116175, ""type"": 19, ""w"": 59.0}, {""id"": 93902125, ""node1"": 116175, ""node2"": 116175, ""type"": 50, ""w"": 28.0}, {""id"": 376040711, ""node1"": 116175, ""node2"": 116175, ""type"": 51, ""w"": 35.0}]"
+oeuf,four,[]
+four,saladier,[]
+saladier,tamis,[]
+aluminium,pinceau,[]
+pinceau,balance,[]
+balance,cuisine,[]
+titre,moule,[]
+moule,forme,"[{""id"": 934994, ""node1"": 143723, ""node2"": 142000, ""type"": 0, ""w"": 25.0}, {""id"": 53748965, ""node1"": 143723, ""node2"": 142000, ""type"": 5, ""w"": 57.0}, {""id"": 770339478, ""node1"": 143723, ""node2"": 142000, ""type"": 666, ""w"": 2.0}]"
+forme,couronne,[]
+mélanger,jaune,[]
+jaune,oeuf,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]"
+devenir,mélange,[]
+devenir,paille,[]
+mélanger,faire,[]
+fondre,chocolat,"[{""id"": 28589116, ""node1"": 16480, ""node2"": 34157, ""type"": 0, ""w"": 63.0}, {""id"": 24768886, ""node1"": 16480, ""node2"": 34157, ""type"": 13, ""w"": 30.0}, {""id"": 1011304980, ""node1"": 16480, ""node2"": 34157, ""type"": 14, ""w"": 30.0}, {""id"": 1009801551, ""node1"": 16480, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]"
+mou,chocolat,[]
+ajouter,beurre,"[{""id"": 373014956, ""node1"": 25099, ""node2"": 140377, ""type"": 14, ""w"": 31.0}]"
+morceau,petit,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]"
+beurre,morceau,[]
+mélanger,obtenir,[]
+obtenir,pâte,[]
+pâte,lisse,"[{""id"": 532329951, ""node1"": 34069, ""node2"": 140074, ""type"": 17, ""w"": 32.0}]"
+ajouter,mélange,[]
+mélange,préparation,"[{""id"": 12288644, ""node1"": 14800, ""node2"": 33634, ""type"": 0, ""w"": 24.0}, {""id"": 595101, ""node1"": 14800, ""node2"": 33634, ""type"": 5, ""w"": 83.0}]"
+préparation,oeuf,[]
+incorporer,farine,"[{""id"": 423151005, ""node1"": 3845, ""node2"": 127629, ""type"": 0, ""w"": 1.0}]"
+battre,blanc,[]
+blanc,neige,"[{""id"": 116991, ""node1"": 15196, ""node2"": 3699, ""type"": 0, ""w"": 509.77}, {""id"": 117866, ""node1"": 15196, ""node2"": 3699, ""type"": 23, ""w"": 320.0}, {""id"": 1622496, ""node1"": 15196, ""node2"": 3699, ""type"": 666, ""w"": 12.0}]"
+neige,ferme,[]
+délicatement,préparation,[]
+verser,pâte,"[{""id"": 373014722, ""node1"": 104506, ""node2"": 34069, ""type"": 14, ""w"": 36.0}]"
+cuire,min,[]
+couvrir,gâteau,"[{""id"": 723788504, ""node1"": 119824, ""node2"": 2149, ""type"": 0, ""w"": 26.0}, {""id"": 723788503, ""node1"": 119824, ""node2"": 2149, ""type"": 14, ""w"": 100.0}]"
+gâteau,papier,[]
+papier,aluminium,"[{""id"": 796957362, ""node1"": 103389, ""node2"": 95561, ""type"": 0, ""w"": 26.0}]"
+dessus,tendance,[]
+couvrir,dorer,[]
+dorer,trop,"[{""id"": 12020588, ""node1"": 67147, ""node2"": 6226, ""type"": 34, ""w"": 51.0}]"
+laisser,gâteau,[]
+gâteau,refroidir,"[{""id"": 99071073, ""node1"": 2149, ""node2"": 126973, ""type"": 24, ""w"": 40.0}]"
+oeuf,petit,"[{""id"": 422852, ""node1"": 116175, ""node2"": 55222, ""type"": 17, ""w"": 54.0}]"
+centre,oeuf,[]
+sujet,sucre,[]
+sucre,coloré,[]
+crème,anglais,[]
+crème,café,"[{""id"": 11477518, ""node1"": 44001, ""node2"": 66324, ""type"": 0, ""w"": 54.0}, {""id"": 573613, ""node1"": 44001, ""node2"": 66324, ""type"": 5, ""w"": 85.0}, {""id"": 9899180, ""node1"": 44001, ""node2"": 66324, ""type"": 6, ""w"": 101.0}, {""id"": 14797292, ""node1"": 44001, ""node2"": 66324, ""type"": 23, ""w"": 22.0}, {""id"": 987926578, ""node1"": 44001, ""node2"": 66324, ""type"": 666, ""w"": 2.0}]"

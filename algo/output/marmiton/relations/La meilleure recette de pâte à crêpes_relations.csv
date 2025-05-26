@@ -1,0 +1,41 @@
+node1,node2,relations
+recette,meilleur,[]
+recette,pâte,"[{""id"": 920490589, ""node1"": 120188, ""node2"": 34069, ""type"": 0, ""w"": 20.0}, {""id"": 97977015, ""node1"": 120188, ""node2"": 34069, ""type"": 41, ""w"": 26.0}]"
+recette,crêpe,"[{""id"": 914769981, ""node1"": 120188, ""node2"": 17186, ""type"": 0, ""w"": 20.0}]"
+crêpe,ingrédient,[]
+crêpe,beurre,"[{""id"": 1926977, ""node1"": 17186, ""node2"": 140377, ""type"": 0, ""w"": 56.0}, {""id"": 1024605409, ""node1"": 17186, ""node2"": 140377, ""type"": 666, ""w"": 2.0}]"
+crêpe,sucre,"[{""id"": 362159, ""node1"": 17186, ""node2"": 139481, ""type"": 0, ""w"": 343.0}, {""id"": 98284703, ""node1"": 17186, ""node2"": 139481, ""type"": 28, ""w"": 30.0}, {""id"": 1024605401, ""node1"": 17186, ""node2"": 139481, ""type"": 666, ""w"": 3.0}]"
+sucre,farine,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]"
+sucre,oeuf,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]"
+oeuf,lait,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]"
+lait,louche,[]
+louche,fouet,[]
+fouet,cuisine,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 307.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 267.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+fouet,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,poêle,[]
+crêpe,crêpe,"[{""id"": 1077682175, ""node1"": 17186, ""node2"": 17186, ""type"": 0, ""w"": 30.0}, {""id"": 292067, ""node1"": 17186, ""node2"": 17186, ""type"": 19, ""w"": 60.0}]"
+crêpe,saladier,[]
+saladier,balance,[]
+balance,cuisine,[]
+crêpe,étape,[]
+mettre,farine,"[{""id"": 427128973, ""node1"": 132366, ""node2"": 127629, ""type"": 0, ""w"": 26.0}, {""id"": 427128972, ""node1"": 132366, ""node2"": 127629, ""type"": 14, ""w"": 100.0}]"
+former,puits,[]
+déposer,oeuf,[]
+oeuf,entier,[]
+déposer,sucre,[]
+fouet,ajouter,[]
+obtenir,pâte,[]
+consistance,liquide,"[{""id"": 97120590, ""node1"": 29223, ""node2"": 140315, ""type"": 0, ""w"": 21.0}, {""id"": 97120602, ""node1"": 29223, ""node2"": 140315, ""type"": 17, ""w"": 27.0}, {""id"": 652227838, ""node1"": 29223, ""node2"": 140315, ""type"": 666, ""w"": 6.0}]"
+liquide,épais,"[{""id"": 796853662, ""node1"": 140315, ""node2"": 55342, ""type"": 0, ""w"": 24.0}, {""id"": 82506, ""node1"": 140315, ""node2"": 55342, ""type"": 7, ""w"": 62.0}]"
+chauffer,poêle,[]
+aide,papier,[]
+papier,essuie,[]
+papier,tout,[]
+verser,louche,"[{""id"": 154210, ""node1"": 104506, ""node2"": 124144, ""type"": 16, ""w"": 60.0}]"
+louche,pâte,"[{""id"": 415002984, ""node1"": 124144, ""node2"": 34069, ""type"": 0, ""w"": 26.0}]"
+cuire,lui,[]
+crêpe,tout,[]
+cuire,crêpe,"[{""id"": 478063340, ""node1"": 5115, ""node2"": 17186, ""type"": 0, ""w"": 36.0}, {""id"": 478063339, ""node1"": 5115, ""node2"": 17186, ""type"": 13, ""w"": 100.0}]"
+crêpe,feu,[]
+feu,doux,[]

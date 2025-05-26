@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+sel,beurre,acl,NOUN,0.7119027376174927,"[{""id"": 29328492, ""node1"": 13260, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 9986817, ""node1"": 13260, ""node2"": 140377, ""type"": 10, ""w"": 35.0}]",r_holo,35.0
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]",r_associated,598.0
+oeuf,sucre,appos,NOUN,0.6437758803367615,"[{""id"": 76133259, ""node1"": 116175, ""node2"": 139481, ""type"": 50, ""w"": 26.0}]",r_object>mater,26.0
+blanc,oeuf,nmod,NOUN,0.5395181179046631,"[{""id"": 215721, ""node1"": 15196, ""node2"": 116175, ""type"": 0, ""w"": 84.0}, {""id"": 31299415, ""node1"": 15196, ""node2"": 116175, ""type"": 3, ""w"": 32.0}, {""id"": 76136326, ""node1"": 15196, ""node2"": 116175, ""type"": 10, ""w"": 26.0}, {""id"": 373603, ""node1"": 15196, ""node2"": 116175, ""type"": 23, ""w"": 110.0}, {""id"": 91492401, ""node1"": 15196, ""node2"": 116175, ""type"": 35, ""w"": 54.0}]",r_carac-1,110.0
+oeuf,arôme,nmod,NOUN,0.5896756052970886,[],,
+arôme,pistache,nmod,NOUN,0.5792483687400818,[],,
+pistache,arôme,nmod,NOUN,0.5792483687400818,[],,
+arôme,noisette,nmod,NOUN,0.5703646540641785,[],,
+noisette,arôme,amod,NOUN,0.5703646540641785,[],,
+titre,tamis,nmod,NOUN,0.468590646982193,[],,
+tamis,saladier,nmod,NOUN,0.5371009111404419,[],,
+saladier,four,nmod,NOUN,0.6991847157478333,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+titre,pâte,nmod,NOUN,0.6394232511520386,[],,
+mélanger,ajouter,advcl,VERB,0.476481020450592,[],,
+mélanger,beurre,nsubj,NOUN,0.6754149198532104,[],,
+beurre,fondre,acl,VERB,0.643409252166748,"[{""id"": 652231036, ""node1"": 140377, ""node2"": 16480, ""type"": 0, ""w"": 21.0}, {""id"": 24771033, ""node1"": 140377, ""node2"": 16480, ""type"": 24, ""w"": 137.0}, {""id"": 1886772, ""node1"": 140377, ""node2"": 16480, ""type"": 26, ""w"": 33.0}]",r_agent-1,137.0
+mélanger,jaune,nsubj,NOUN,0.5585520267486572,[],,
+obtenir,pâte,obj,NOUN,0.6173189282417297,[],,
+moule,petit,amod,ADJ,0.5535162091255188,[],,
+moule,métal,nmod,NOUN,0.5381603240966797,[],,
+obtenir,farce,nsubj,NOUN,0.5294239521026611,[],,
+farce,Mélangez,acl,PROPN,0.5294004082679749,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+Mélangez,ingrédient,obj,NOUN,0.5091764330863953,[],,
+obtenir,mélange,obj,NOUN,0.4783641993999481,[],,
+mélange,souple,amod,ADJ,0.490175187587738,[],,
+mélange,pâte,nmod,NOUN,0.6656798720359802,"[{""id"": 899287391, ""node1"": 14800, ""node2"": 34069, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+mélange,placer,acl,VERB,0.5466325283050537,[],,
+four,c,nmod,NOUN,0.4225132167339325,[],,
+obtenir,couleur,obj,NOUN,0.4278659224510193,[],,
+couleur,doré,amod,ADJ,0.4999752938747406,"[{""id"": 797004655, ""node1"": 40056, ""node2"": 47964, ""type"": 0, ""w"": 22.0}, {""id"": 242864260, ""node1"": 40056, ""node2"": 47964, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+cuisson,tremper,amod,VERB,0.7301366925239563,[],,
+cuisson,miel,nmod,NOUN,0.7306360006332397,[],,
+miel,chaud,amod,ADJ,0.6328001022338867,[],,
+gâteau,refroidir,acl,VERB,0.6427270770072937,"[{""id"": 99071073, ""node1"": 2149, ""node2"": 126973, ""type"": 24, ""w"": 40.0}]",r_agent-1,40.0

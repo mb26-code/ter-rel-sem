@@ -1,0 +1,44 @@
+node1,node2,relations
+Charlotte,fruit,[]
+fruit,exotique,[]
+titre,ingrédient,[]
+ingrédient,farine,"[{""id"": 561306446, ""node1"": 123418, ""node2"": 127629, ""type"": 0, ""w"": 39.0}, {""id"": 243153377, ""node1"": 123418, ""node2"": 127629, ""type"": 8, ""w"": 42.0}]"
+farine,sucre,"[{""id"": 189887, ""node1"": 127629, ""node2"": 139481, ""type"": 0, ""w"": 63.0}]"
+ingrédient,extraire,[]
+lait,jaune,"[{""id"": 12979907, ""node1"": 86296, ""node2"": 86711, ""type"": 106, ""w"": 1.0}]"
+jaune,oeuf,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]"
+oeuf,biscuit,"[{""id"": 376049395, ""node1"": 116175, ""node2"": 62524, ""type"": 51, ""w"": 34.0}]"
+lait,cuillère,"[{""id"": 97056171, ""node1"": 86296, ""node2"": 51905, ""type"": 58, ""w"": 30.0}]"
+cuillère,fruit,[]
+lait,moule,[]
+moule,charlotte,"[{""id"": 558702306, ""node1"": 143723, ""node2"": 71783, ""type"": 0, ""w"": 27.0}]"
+moule,saladier,[]
+ingrédient,casserole,[]
+casserole,balance,[]
+balance,cuisine,[]
+balance,réfrigérateur,[]
+réfrigérateur,étape,[]
+réfrigérateur,ouvrir,"[{""id"": 15066875, ""node1"": 128721, ""node2"": 54271, ""type"": 26, ""w"": 60.0}, {""id"": 13501055, ""node1"": 128721, ""node2"": 54271, ""type"": 30, ""w"": 131.0}]"
+réfrigérateur,boîte,[]
+boîte,conserve,"[{""id"": 2457653, ""node1"": 7575, ""node2"": 144639, ""type"": 0, ""w"": 87.0}, {""id"": 97318713, ""node1"": 7575, ""node2"": 144639, ""type"": 5, ""w"": 29.0}, {""id"": 400272, ""node1"": 7575, ""node2"": 144639, ""type"": 28, ""w"": 79.0}, {""id"": 1710631, ""node1"": 7575, ""node2"": 144639, ""type"": 35, ""w"": 86.0}, {""id"": 1814184, ""node1"": 7575, ""node2"": 144639, ""type"": 42, ""w"": 70.0}, {""id"": 726552696, ""node1"": 7575, ""node2"": 144639, ""type"": 666, ""w"": 2.0}]"
+conserver,jus,"[{""id"": 519932527, ""node1"": 42089, ""node2"": 53310, ""type"": 14, ""w"": 56.0}]"
+tremper,biscuit,"[{""id"": 1652067, ""node1"": 119858, ""node2"": 62524, ""type"": 0, ""w"": 71.0}, {""id"": 477351197, ""node1"": 119858, ""node2"": 62524, ""type"": 14, ""w"": 100.0}]"
+biscuit,jus,[]
+mettre,lait,[]
+casser,oeuf,"[{""id"": 796687958, ""node1"": 63509, ""node2"": 116175, ""type"": 0, ""w"": 28.0}, {""id"": 213740960, ""node1"": 63509, ""node2"": 116175, ""type"": 14, ""w"": 100.0}]"
+oeuf,séparer,[]
+séparer,blanc,[]
+blanc,jaune,"[{""id"": 246331, ""node1"": 15196, ""node2"": 86711, ""type"": 0, ""w"": 56.0}]"
+travailler,jaune,"[{""id"": 520526815, ""node1"": 69550, ""node2"": 86711, ""type"": 13, ""w"": 67.0}]"
+faire,pâte,"[{""id"": 97862385, ""node1"": 87528, ""node2"": 34069, ""type"": 14, ""w"": 32.0}]"
+faire,ruban,[]
+ajouter,farine,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]"
+verser,lait,"[{""id"": 2147735, ""node1"": 104506, ""node2"": 86296, ""type"": 14, ""w"": 30.0}, {""id"": 645787359, ""node1"": 104506, ""node2"": 86296, ""type"": 666, ""w"": 2.0}]"
+lait,bouillir,"[{""id"": 14379701, ""node1"": 86296, ""node2"": 42401, ""type"": 0, ""w"": 73.0}, {""id"": 608004717, ""node1"": 86296, ""node2"": 42401, ""type"": 9, ""w"": -5.0}, {""id"": 15074480, ""node1"": 86296, ""node2"": 42401, ""type"": 26, ""w"": 30.0}, {""id"": 380404032, ""node1"": 86296, ""node2"": 42401, ""type"": 30, ""w"": 26.0}]"
+tournant,retirer,[]
+refroidir,crème,[]
+ajouter,fruit,[]
+mettre,mélange,[]
+mélange,fruit,[]
+fruit,crème,[]
+intérieur,charlotte,[]

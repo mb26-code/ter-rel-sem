@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+saumon,four,nmod,NOUN,0.7271221280097961,"[{""id"": 333960542, ""node1"": 3361, ""node2"": 9190, ""type"": 15, ""w"": 35.0}]",r_lieu,35.0
+four,carotte,nmod,NOUN,0.7476786375045776,[],,
+saumon,ingrédient,nmod,NOUN,0.6859332919120789,"[{""id"": 15370354, ""node1"": 3361, ""node2"": 123418, ""type"": 0, ""w"": 48.0}, {""id"": 506080, ""node1"": 3361, ""node2"": 123418, ""type"": 3, ""w"": 52.0}, {""id"": 24842104, ""node1"": 3361, ""node2"": 123418, ""type"": 6, ""w"": 110.0}]",r_isa,110.0
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+poivre,pavé,nmod,NOUN,0.5709877610206604,"[{""id"": 920490548, ""node1"": 139597, ""node2"": 105441, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+pavé,saumon,nmod,ADV,0.5164445042610168,"[{""id"": 796695771, ""node1"": 105441, ""node2"": 3361, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+poivre,jus,nmod,NOUN,0.6398287415504456,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+poivre,aluminium,nmod,NOUN,0.6480932235717773,[],,
+aluminium,four,nmod,NOUN,0.6745204925537109,[],,
+table,induction,amod,NOUN,0.5181390047073364,[],,
+plaque,aller,acl,VERB,0.4935675859451294,[],,
+plaque,verser,acl,VERB,0.5599062442779541,[],,
+verser,fond,obj,NOUN,0.5028901696205139,[],,
+fond,eau,nmod,NOUN,0.581144392490387,"[{""id"": 96691076, ""node1"": 119272, ""node2"": 65012, ""type"": 0, ""w"": 37.0}, {""id"": 98303780, ""node1"": 119272, ""node2"": 65012, ""type"": 9, ""w"": 30.0}]",r_associated,37.0
+faire,lit,obj,NOUN,0.4666892290115356,"[{""id"": 15085197, ""node1"": 87528, ""node2"": 71578, ""type"": 14, ""w"": 30.0}, {""id"": 376067141, ""node1"": 87528, ""node2"": 71578, ""type"": 31, ""w"": 26.0}]",r_patient,30.0
+lit,légume,nmod,NOUN,0.5531465411186218,[],,
+légume,plaque,nmod,NOUN,0.7083650231361389,[],,
+lit,carotte,nmod,NOUN,0.500801146030426,[],,
+filet,huile,nmod,NOUN,0.6150403022766113,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+déposer,pavé,obj,NOUN,0.4488129913806915,[],,
+pavé,dessus,nmod,ADV,0.428540289402008,[],,
+Asperger,huile,nmod,NOUN,0.5721979141235352,[],,
+pavé,cuillère,nmod,NOUN,0.5079612135887146,[],,
+cuillère,soupe,acl,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+soupe,jus,nmod,NOUN,0.6563526391983032,[],,
+pavé,rondelle,nmod,NOUN,0.468702495098114,[],,
+rondelle,citron,nmod,NOUN,0.5871434807777405,"[{""id"": 798896119, ""node1"": 71106, ""node2"": 15386, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+branche,thym,nmod,NOUN,0.5575745105743408,[],,
+déposer,saler,obj,VERB,0.553035318851471,[],,
+recouvrir,tout,obj,NOUN,0.4995563328266144,[],,
+tout,feuille,nmod,NOUN,0.5441249012947083,[],,
+feuille,aluminium,nmod,NOUN,0.5004525184631348,[],,

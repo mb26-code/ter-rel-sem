@@ -1,0 +1,43 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+colorer,alimentaire,amod,ADJ,0.6131971478462219,[],,
+colorer,sucre,obj,NOUN,0.6876815557479858,[],,
+sucre,sel,nmod,NOUN,0.6925632357597351,"[{""id"": 83941, ""node1"": 139481, ""node2"": 13260, ""type"": 0, ""w"": 401.0}, {""id"": 1046576271, ""node1"": 139481, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 1895756, ""node1"": 139481, ""node2"": 13260, ""type"": 20, ""w"": 51.0}, {""id"": 1376354, ""node1"": 139481, ""node2"": 13260, ""type"": 21, ""w"": 60.0}]",r_associated,401.0
+sucre,cabillaud,nmod,NOUN,0.7163689136505127,[],,
+cabillaud,blanc,amod,NOUN,0.5665788054466248,"[{""id"": 730454239, ""node1"": 9046, ""node2"": 15196, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+blanc,oeuf,nmod,NOUN,0.5395181179046631,"[{""id"": 215721, ""node1"": 15196, ""node2"": 116175, ""type"": 0, ""w"": 84.0}, {""id"": 31299415, ""node1"": 15196, ""node2"": 116175, ""type"": 3, ""w"": 32.0}, {""id"": 76136326, ""node1"": 15196, ""node2"": 116175, ""type"": 10, ""w"": 26.0}, {""id"": 373603, ""node1"": 15196, ""node2"": 116175, ""type"": 23, ""w"": 110.0}, {""id"": 91492401, ""node1"": 15196, ""node2"": 116175, ""type"": 35, ""w"": 54.0}]",r_carac-1,110.0
+oeuf,saladier,nmod,NOUN,0.5662417411804199,[],,
+saladier,film,appos,NOUN,0.4984114468097687,[],,
+film,alimentaire,amod,ADJ,0.4283865392208099,[],,
+film,planche,appos,NOUN,0.4427988529205322,[],,
+découper,chauffer,advcl,VERB,0.5612485408782959,[],,
+chauffer,balance,obj,NOUN,0.5568371415138245,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+saladier,grand,amod,ADJ,0.534858763217926,"[{""id"": 1077330492, ""node1"": 45455, ""node2"": 23178, ""type"": 0, ""w"": 50.0}, {""id"": 31838076, ""node1"": 45455, ""node2"": 23178, ""type"": 17, ""w"": 60.0}, {""id"": 1668931, ""node1"": 45455, ""node2"": 23178, ""type"": 666, ""w"": 2.0}]",r_carac,60.0
+remplir,saladier,obj,NOUN,0.5269458293914795,[],,
+saladier,eau,nmod,NOUN,0.6073445677757263,[],,
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+couper,chair,obj,NOUN,0.5305777192115784,[],,
+chair,poisson,nmod,NOUN,0.5929728746414185,"[{""id"": 1054282, ""node1"": 61835, ""node2"": 68467, ""type"": 0, ""w"": 33.0}, {""id"": 10004374, ""node1"": 61835, ""node2"": 68467, ""type"": 10, ""w"": 4.0}]",r_associated,33.0
+refroidir,morceau,nsubj:pass,NOUN,0.6202425360679626,[],,
+mettre,poisson,obj,NOUN,0.6411139965057373,[],,
+mettre,sucre,obj,NOUN,0.6608524322509766,"[{""id"": 374875286, ""node1"": 132366, ""node2"": 139481, ""type"": 0, ""w"": 40.0}, {""id"": 374875285, ""node1"": 132366, ""node2"": 139481, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+devoir,pâte,nsubj,NOUN,0.6336450576782227,[],,
+pâte,obtenir,acl,VERB,0.6173189282417297,[],,
+séparer,pâte,obj,NOUN,0.6333370208740234,[],,
+ajouter,colorant,obj,NOUN,0.5416777729988098,[],,
+colorant,moitié,nmod,NOUN,0.5810440182685852,[],,
+obtenir,couleur,obj,NOUN,0.4278659224510193,[],,
+couleur,rose,amod,ADJ,0.4510179460048675,"[{""id"": 100728, ""node1"": 40056, ""node2"": 145583, ""type"": 0, ""w"": 381.0}, {""id"": 273987, ""node1"": 40056, ""node2"": 145583, ""type"": 8, ""w"": 83.0}, {""id"": 3174411, ""node1"": 40056, ""node2"": 145583, ""type"": 17, ""w"": 35.0}, {""id"": 98296546, ""node1"": 40056, ""node2"": 145583, ""type"": 23, ""w"": 23.0}, {""id"": 3160156, ""node1"": 40056, ""node2"": 145583, ""type"": 106, ""w"": 12.0}, {""id"": 653264988, ""node1"": 40056, ""node2"": 145583, ""type"": 666, ""w"": 14.0}]",r_associated,381.0
+étaler,pâte,obj,NOUN,0.6019123196601868,"[{""id"": 364779096, ""node1"": 98214, ""node2"": 34069, ""type"": 0, ""w"": 38.0}, {""id"": 243248, ""node1"": 98214, ""node2"": 34069, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+pâte,blanc,amod,ADJ,0.6680126786231995,"[{""id"": 24915936, ""node1"": 34069, ""node2"": 15196, ""type"": 17, ""w"": 3.0}, {""id"": 96931366, ""node1"": 34069, ""node2"": 15196, ""type"": 50, ""w"": 15.0}, {""id"": 3161017, ""node1"": 34069, ""node2"": 15196, ""type"": 106, ""w"": 6.0}]",r_object>mater,15.0
+planche,recouvrir,acl,VERB,0.5087419152259827,[],,
+pâte,rose,amod,ADJ,0.6338914632797241,[],,
+pâte,premier,amod,ADJ,0.6375023722648621,[],,
+rouler,pâte,obj,NOUN,0.6297280192375183,"[{""id"": 722424074, ""node1"": 231, ""node2"": 34069, ""type"": 0, ""w"": 26.0}, {""id"": 31816332, ""node1"": 231, ""node2"": 34069, ""type"": 14, ""w"": 53.0}, {""id"": 653385767, ""node1"": 231, ""node2"": 34069, ""type"": 666, ""w"": 2.0}]",r_patient,53.0
+aide,film,nmod,NOUN,0.4222098588943481,[],,
+cuire,rouleau,obj,NOUN,0.7246781587600708,[],,
+film,plastique,amod,ADJ,0.4269080460071563,[],,
+minute,vapeur,nmod,NOUN,0.5486836433410645,[],,
+laisser,découper,acl,VERB,0.4390368163585663,[],,
+moment,servir,acl,VERB,0.4804177582263946,[],,

@@ -1,0 +1,27 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,casserole,nmod,NOUN,0.5580013990402222,[],,
+casserole,fouet,nmod,NOUN,0.5830783247947693,[],,
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,305.0
+fouet,cuillère,nmod,NOUN,0.5491861701011658,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,saladier,nmod,NOUN,0.6106023788452148,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+saladier,balance,nmod,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+titre,bouillir,nmod,VERB,0.5746515989303589,[],,
+bouillir,litre,obj,NOUN,0.5481809973716736,[],,
+litre,lait,nmod,NOUN,0.5534196496009827,"[{""id"": 720818097, ""node1"": 57416, ""node2"": 86296, ""type"": 174, ""w"": 25.0}, {""id"": 1662570, ""node1"": 57416, ""node2"": 86296, ""type"": 666, ""w"": 2.0}]",r_quantificateur-1,25.0
+lait,brebis,nmod,NOUN,0.5101701021194458,"[{""id"": 124120, ""node1"": 86296, ""node2"": 114015, ""type"": 0, ""w"": 141.0}, {""id"": 223029, ""node1"": 86296, ""node2"": 114015, ""type"": 8, ""w"": -50.0}, {""id"": 76654959, ""node1"": 86296, ""node2"": 114015, ""type"": 54, ""w"": 40.0}]",r_associated,141.0
+casserole,attention,appos,NOUN,0.5869799256324768,[],,
+bouillir,retirer,advcl,VERB,0.5712902545928955,[],,
+lait,vache,nmod,NOUN,0.5126246213912964,"[{""id"": 100641, ""node1"": 86296, ""node2"": 138501, ""type"": 0, ""w"": 431.0}, {""id"": 137749, ""node1"": 86296, ""node2"": 138501, ""type"": 8, ""w"": -60.0}, {""id"": 9976460, ""node1"": 86296, ""node2"": 138501, ""type"": 10, ""w"": 4.0}, {""id"": 11357809, ""node1"": 86296, ""node2"": 138501, ""type"": 15, ""w"": 39.0}, {""id"": 383584, ""node1"": 86296, ""node2"": 138501, ""type"": 22, ""w"": -80.0}, {""id"": 15114456, ""node1"": 86296, ""node2"": 138501, ""type"": 27, ""w"": 28.0}, {""id"": 76654958, ""node1"": 86296, ""node2"": 138501, ""type"": 54, ""w"": 76.0}, {""id"": 1040288386, ""node1"": 86296, ""node2"": 138501, ""type"": 129, ""w"": 29.0}, {""id"": 1522646, ""node1"": 86296, ""node2"": 138501, ""type"": 666, ""w"": 13.0}]",r_associated,431.0
+refroidir,lait,obj,NOUN,0.6208069920539856,[],,
+degré,lait,nsubj,NOUN,0.5455748438835144,[],,
+ajouter,goutte,obj,NOUN,0.5042680501937866,[],,
+heure,température,nmod,NOUN,0.4050560295581817,[],,
+mie,pain,nmod,NOUN,0.5814495086669922,"[{""id"": 377332, ""node1"": 37905, ""node2"": 61283, ""type"": 0, ""w"": 145.0}, {""id"": 96639071, ""node1"": 37905, ""node2"": 61283, ""type"": 3, ""w"": 26.0}, {""id"": 96639075, ""node1"": 37905, ""node2"": 61283, ""type"": 6, ""w"": 48.0}, {""id"": 9985753, ""node1"": 37905, ""node2"": 61283, ""type"": 10, ""w"": 48.0}, {""id"": 11358396, ""node1"": 37905, ""node2"": 61283, ""type"": 15, ""w"": 38.0}, {""id"": 25183388, ""node1"": 37905, ""node2"": 61283, ""type"": 35, ""w"": 52.0}, {""id"": 376051245, ""node1"": 37905, ""node2"": 61283, ""type"": 51, ""w"": 29.0}, {""id"": 979307703, ""node1"": 37905, ""node2"": 61283, ""type"": 666, ""w"": 2.0}]",r_associated,145.0
+pain,mélanger,acl,VERB,0.7036371231079102,[],,
+cela,préférer,acl:relcl,VERB,0.4148929417133331,[],,
+faire,part,obj,NOUN,0.4497864544391632,[],,
+prononcer,goût,nsubj:pass,NOUN,0.5232970118522644,[],,
+goût,lait,nmod,NOUN,0.641680121421814,[],,

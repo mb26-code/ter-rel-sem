@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+confiture,ingrédient,nmod,NOUN,0.7005497217178345,"[{""id"": 15370391, ""node1"": 70793, ""node2"": 123418, ""type"": 0, ""w"": 39.0}, {""id"": 506041, ""node1"": 70793, ""node2"": 123418, ""type"": 3, ""w"": 52.0}]",r_domain,52.0
+ingrédient,sucre,acl,NOUN,0.7083083987236023,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]",r_associated,70.0
+sucre,roux,amod,ADP,0.5956728458404541,"[{""id"": 121310, ""node1"": 139481, ""node2"": 75869, ""type"": 0, ""w"": 178.0}, {""id"": 2484851, ""node1"": 139481, ""node2"": 75869, ""type"": 8, ""w"": 64.0}, {""id"": 182237, ""node1"": 139481, ""node2"": 75869, ""type"": 17, ""w"": 174.0}, {""id"": 3163417, ""node1"": 139481, ""node2"": 75869, ""type"": 106, ""w"": 21.0}]",r_carac,174.0
+sucre,eau,nmod,NOUN,0.6594484448432922,[],,
+eau,confiture,nmod,NOUN,0.611621081829071,[],,
+confiture,congélateur,nmod,NOUN,0.648638129234314,[],,
+congélateur,saladier,nmod,NOUN,0.5942626595497131,[],,
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+cueillir,gramme,obj,NOUN,0.4551087021827698,[],,
+gramme,mûr,nmod,ADJ,0.4057315587997436,[],,
+attendre,gelée,obj,NOUN,0.5247970819473267,[],,
+manger,tout,nsubj:pass,DET,0.5843202471733093,[],,
+avoir,manger,obj,VERB,0.4832533895969391,[],,
+congélateur,impératif,appos,NOUN,0.4842168390750885,[],,
+fruit,tout,amod,ADJ,0.5248923301696777,[],,
+sortir,fruit,obj,NOUN,0.4880435466766357,[],,
+fruit,congélateur,nmod,NOUN,0.5405791401863098,[],,
+gelée,lui,nsubj,PRON,0.4945809245109558,[],,
+froid,gelée,advcl,NOUN,0.5469081401824951,"[{""id"": 140322, ""node1"": 49803, ""node2"": 47620, ""type"": 0, ""w"": 82.0}, {""id"": 54679082, ""node1"": 49803, ""node2"": 47620, ""type"": 5, ""w"": 67.0}, {""id"": 251582, ""node1"": 49803, ""node2"": 47620, ""type"": 8, ""w"": 101.0}, {""id"": 940917734, ""node1"": 49803, ""node2"": 47620, ""type"": 23, ""w"": 46.0}, {""id"": 96925242, ""node1"": 49803, ""node2"": 47620, ""type"": 41, ""w"": 46.0}]",r_hypo,101.0
+récipient,confiture,nmod,NOUN,0.6964765191078186,[],,
+moment,question,acl:relcl,NOUN,0.4212459921836853,[],,
+attendre,mûres,nsubj,PRON,0.4278821647167206,[],,
+obtenir,gramme,obj,NOUN,0.4150589406490326,[],,
+gramme,jus,nmod,NOUN,0.5759802460670471,[],,
+jus,mûres,nmod,PRON,0.5640795826911926,[],,
+ajouter,jus,obj,NOUN,0.5800648331642151,[],,
+cuire,temps,obj,NOUN,0.698011040687561,"[{""id"": 1011357542, ""node1"": 5115, ""node2"": 13861, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+mélange,dernier,amod,ADJ,0.5100038051605225,[],,
+verser,mélange,obj,NOUN,0.5440542697906494,[],,
+mélange,mélange,nmod,NOUN,0.5063043236732483,"[{""id"": 315781, ""node1"": 14800, ""node2"": 14800, ""type"": 19, ""w"": 54.0}]",r_lemma,54.0
+bouillir,min,obj,NOUN,0.4103961288928985,[],,
+liqueur,noyau,nmod,NOUN,0.4866217970848083,[],,
+perdre,rien,nsubj,PRON,0.4095406830310821,[],,

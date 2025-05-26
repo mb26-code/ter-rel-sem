@@ -1,0 +1,84 @@
+head,lemma,dep,pos,sim,relations
+recette,cuisine,nmod,NOUN,0.6953886151313782,"[{""id"": 361077, ""node1"": 120188, ""node2"": 16033, ""type"": 0, ""w"": 416.0}, {""id"": 452909, ""node1"": 120188, ""node2"": 16033, ""type"": 3, ""w"": 258.0}, {""id"": 98281069, ""node1"": 120188, ""node2"": 16033, ""type"": 10, ""w"": 22.0}, {""id"": 539971129, ""node1"": 120188, ""node2"": 16033, ""type"": 15, ""w"": -24.0}, {""id"": 1576779, ""node1"": 120188, ""node2"": 16033, ""type"": 35, ""w"": 130.0}, {""id"": 752130352, ""node1"": 120188, ""node2"": 16033, ""type"": 666, ""w"": 4.0}]"
+cuisine,traditionnel,amod,ADJ,0.6699821352958679,"[{""id"": 601188829, ""node1"": 16033, ""node2"": 41139, ""type"": 0, ""w"": 29.0}]"
+cuisine,peuple,nmod,NOUN,0.5671164989471436,"[{""id"": 428534916, ""node1"": 16033, ""node2"": 136785, ""type"": 0, ""w"": 23.0}, {""id"": 3242533, ""node1"": 16033, ""node2"": 136785, ""type"": 777, ""w"": 6.0}]"
+peuple,base,nmod,NOUN,0.5075131058692932,[]
+base,graisse,nmod,NOUN,0.6082738041877747,[]
+graisse,animal,amod,ADJ,0.5654335618019104,"[{""id"": 576941060, ""node1"": 124071, ""node2"": 17559, ""type"": 0, ""w"": 44.0}]"
+peuple,viande,nmod,NOUN,0.6373761892318726,[]
+viande,sécher,acl,VERB,0.7283660173416138,[]
+valeur,grand,amod,ADJ,0.4554240107536316,[]
+vie,nomade,amod,ADJ,0.4258067309856415,[]
+moelle,animal,amod,ADJ,0.4798900783061981,"[{""id"": 558715372, ""node1"": 119571, ""node2"": 17559, ""type"": 0, ""w"": 47.0}, {""id"": 8521184, ""node1"": 119571, ""node2"": 17559, ""type"": 15, ""w"": -40.0}]"
+moelle,viande,nmod,NOUN,0.6216514706611633,"[{""id"": 747548102, ""node1"": 119571, ""node2"": 140100, ""type"": 0, ""w"": 45.0}]"
+obtenir,mélanger,advcl,VERB,0.4698809087276459,[]
+mélanger,ingrédient,obj,NOUN,0.6393055319786072,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]"
+obtenir,espèce,obj,NOUN,0.4099227786064148,[]
+espèce,pain,nmod,NOUN,0.6672117114067078,[]
+pâté,avoir,acl:relcl,VERB,0.5647315382957458,[]
+conserver,dizaine,obj,NOUN,0.442209780216217,[]
+varier,ingrédient,nsubj,NOUN,0.5506758689880371,[]
+ingrédient,utiliser,acl,VERB,0.578764796257019,[]
+siècle,recette,nmod,NOUN,0.5872021913528442,[]
+travailler,femme,nsubj,NOUN,0.4089556634426117,"[{""id"": 1798640, ""node1"": 69550, ""node2"": 61490, ""type"": 0, ""w"": 70.0}, {""id"": 135445, ""node1"": 69550, ""node2"": 61490, ""type"": 13, ""w"": 100.0}, {""id"": 958782385, ""node1"": 69550, ""node2"": 61490, ""type"": 24, ""w"": -25.0}]"
+faire,qui,nsubj,PRON,0.4499227106571197,"[{""id"": 729891679, ""node1"": 87528, ""node2"": 114890, ""type"": 9, ""w"": -5.0}]"
+façon,suivant,amod,ADJ,0.429356962442398,[]
+faire,viande,obj,NOUN,0.7241941690444946,[]
+faire,sécher,advcl,VERB,0.5418292880058289,[]
+tranche,mince,amod,ADJ,0.4563208520412445,"[{""id"": 438147, ""node1"": 143123, ""node2"": 87702, ""type"": 0, ""w"": 30.0}, {""id"": 108810970, ""node1"": 143123, ""node2"": 87702, ""type"": 17, ""w"": 28.0}]"
+préparation,mettre,acl:relcl,VERB,0.5291237235069275,[]
+coup,fléau,nmod,NOUN,0.40061816573143,[]
+réduire,lui,nsubj:pass,PRON,0.4115049242973327,[]
+fragment,petit,amod,ADJ,0.470201700925827,"[{""id"": 373181760, ""node1"": 135504, ""node2"": 55222, ""type"": 17, ""w"": 26.0}]"
+fondre,graisse,obj,NOUN,0.6070354580879211,[]
+viande,écraser,acl,VERB,0.6998924612998962,[]
+sac,cuir,nmod,NOUN,0.4647132754325866,"[{""id"": 2291647, ""node1"": 40635, ""node2"": 39149, ""type"": 0, ""w"": 30.0}, {""id"": 223662, ""node1"": 40635, ""node2"": 39149, ""type"": 9, ""w"": 90.0}, {""id"": 11346357, ""node1"": 40635, ""node2"": 39149, ""type"": 28, ""w"": 38.0}, {""id"": 1746096, ""node1"": 40635, ""node2"": 39149, ""type"": 50, ""w"": 45.0}]"
+jeter,graisse,obj,NOUN,0.5587706565856934,[]
+remuer,tout,nsubj,PRON,0.5682188272476196,[]
+façon,refroidir,acl,VERB,0.5518832802772522,[]
+remuer,résulter,advcl,VERB,0.4726974070072174,[]
+espèce,gâteau,nmod,NOUN,0.6145286560058594,[]
+gâteau,solide,amod,ADJ,0.6008093953132629,"[{""id"": 4449968, ""node1"": 2149, ""node2"": 95404, ""type"": 777, ""w"": 9.0}]"
+ressembler,goût,nsubj,NOUN,0.5523616075515747,[]
+celui,mélange,nmod,NOUN,0.486869752407074,[]
+mélange,chapelure,nmod,NOUN,0.6641645431518555,[]
+point,finir,acl,VERB,0.4607086181640625,"[{""id"": 415003487, ""node1"": 36372, ""node2"": 116753, ""type"": 0, ""w"": 26.0}]"
+faire,espèce,obj,NOUN,0.5120444297790527,[]
+espèce,fin,amod,ADJ,0.4631852507591247,[]
+faire,employer,advcl,VERB,0.4679150283336639,"[{""id"": 863074, ""node1"": 87528, ""node2"": 63483, ""type"": 0, ""w"": 26.0}]"
+graisse,meilleur,amod,ADJ,0.5838401317596436,[]
+ajouter,baie,obj,NOUN,0.4017947912216186,[]
+mets,excellent,amod,ADJ,0.485080748796463,[]
+mets,plat,acl:relcl,NOUN,0.6046876311302185,"[{""id"": 1621771, ""node1"": 114839, ""node2"": 36327, ""type"": 0, ""w"": -103.0}, {""id"": 566546, ""node1"": 114839, ""node2"": 36327, ""type"": 5, ""w"": -107.0}, {""id"": 109951103, ""node1"": 114839, ""node2"": 36327, ""type"": 6, ""w"": -42.0}, {""id"": 782144944, ""node1"": 114839, ""node2"": 36327, ""type"": 8, ""w"": 25.0}, {""id"": 499483205, ""node1"": 114839, ""node2"": 36327, ""type"": 35, ""w"": 33.0}, {""id"": 988951704, ""node1"": 114839, ""node2"": 36327, ""type"": 666, ""w"": 2.0}]"
+plat,typique,amod,ADJ,0.6110854148864746,"[{""id"": 93507384, ""node1"": 36327, ""node2"": 133589, ""type"": 17, ""w"": 36.0}]"
+plat,consommer,acl,VERB,0.6571562886238098,"[{""id"": 96713033, ""node1"": 36327, ""node2"": 97571, ""type"": 26, ""w"": 38.0}]"
+raison,conservation,nmod,NOUN,0.444775640964508,[]
+mets,utiliser,advcl,VERB,0.4823591709136963,[]
+eau,chaud,amod,ADJ,0.6119096279144287,"[{""id"": 915041142, ""node1"": 65012, ""node2"": 19150, ""type"": 0, ""w"": 20.0}, {""id"": 432164, ""node1"": 65012, ""node2"": 19150, ""type"": 17, ""w"": 131.0}]"
+emmener,faire,advcl,VERB,0.4249617457389831,"[{""id"": 405240876, ""node1"": 34939, ""node2"": 87528, ""type"": 0, ""w"": 11.0}]"
+faire,soupe,obj,NOUN,0.6815975308418274,[]
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+invention,valeur,nmod,NOUN,0.4279799461364746,[]
+moyen,transport,nmod,NOUN,0.4377674460411072,"[{""id"": 9900286, ""node1"": 34933, ""node2"": 13712, ""type"": 0, ""w"": 14.0}, {""id"": 215373, ""node1"": 34933, ""node2"": 13712, ""type"": 8, ""w"": 101.0}, {""id"": 653727291, ""node1"": 34933, ""node2"": 13712, ""type"": 666, ""w"": 2.0}]"
+poids,médiocre,amod,ADJ,0.4280192852020263,[]
+quantité,grand,amod,ADJ,0.5105735659599304,"[{""id"": 1717406, ""node1"": 78869, ""node2"": 23178, ""type"": 17, ""w"": 10.0}]"
+contenir,quantité,obj,NOUN,0.4772158563137054,[]
+quantité,nourriture,nmod,NOUN,0.5783197283744812,[]
+réussir,homme,nsubj,NOUN,0.4212128818035126,"[{""id"": 206586, ""node1"": 54003, ""node2"": 74860, ""type"": 13, ""w"": 140.0}]"
+morceau,faible,amod,ADJ,0.5275307893753052,[]
+dévorer,morceau,obj,NOUN,0.592581033706665,[]
+moitié,mort,nmod,NOUN,0.4110705256462097,"[{""id"": 316967940, ""node1"": 89030, ""node2"": 122864, ""type"": 17, ""w"": 26.0}]"
+moitié,faim,nmod,NOUN,0.4800850749015808,[]
+plat,petit,amod,ADJ,0.626983106136322,[]
+servir,qui,nsubj:pass,PRON,0.4501188993453979,[]
+servir,nous,iobj,PRON,0.4043311774730682,[]
+nourriture,autre,amod,ADJ,0.5668411254882812,[]
+avoir,nourriture,obj,NOUN,0.4884779751300812,[]
+manger,qui,nsubj,PRON,0.5110785961151123,[]
+manger,habituer,advcl,VERB,0.513578474521637,[]
+celui,manger,acl:relcl,VERB,0.5463796257972717,[]
+chose,autre,amod,ADJ,0.4707652032375335,"[{""id"": 906732439, ""node1"": 109527, ""node2"": 7574, ""type"": 0, ""w"": 20.0}]"
+manger,chose,obj,NOUN,0.6111084222793579,"[{""id"": 233129644, ""node1"": 130164, ""node2"": 109527, ""type"": 0, ""w"": 24.0}, {""id"": 637540774, ""node1"": 130164, ""node2"": 109527, ""type"": 13, ""w"": -25.0}]"
+chose,repas,nmod,NOUN,0.6177065372467041,[]
+mal,bon,amod,ADJ,0.4247986078262329,"[{""id"": 2260516, ""node1"": 4078, ""node2"": 144229, ""type"": 0, ""w"": 38.0}, {""id"": 186592, ""node1"": 4078, ""node2"": 144229, ""type"": 7, ""w"": 59.0}]"
+mal,estomac,nmod,NOUN,0.4190228581428528,"[{""id"": 915423363, ""node1"": 4078, ""node2"": 101938, ""type"": 0, ""w"": 20.0}]"

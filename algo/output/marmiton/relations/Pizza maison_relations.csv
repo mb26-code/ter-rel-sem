@@ -1,0 +1,94 @@
+node1,node2,relations
+titre,maison,[]
+maison,ingrédient,[]
+maison,fromage,[]
+fromage,râpé,"[{""id"": 12302415, ""node1"": 141687, ""node2"": 52123, ""type"": 0, ""w"": 35.0}, {""id"": 570495, ""node1"": 141687, ""node2"": 52123, ""type"": 5, ""w"": 34.0}, {""id"": 25028576, ""node1"": 141687, ""node2"": 52123, ""type"": 8, ""w"": 26.0}, {""id"": 383306, ""node1"": 141687, ""node2"": 52123, ""type"": 17, ""w"": 129.0}]"
+tomate,poivre,"[{""id"": 421761048, ""node1"": 22138, ""node2"": 139597, ""type"": 0, ""w"": 1.0}]"
+poivre,sel,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]"
+bicarbonate,levure,[]
+levure,farine,"[{""id"": 1788186, ""node1"": 53450, ""node2"": 127629, ""type"": 0, ""w"": 60.0}, {""id"": 1046576042, ""node1"": 53450, ""node2"": 127629, ""type"": 8, ""w"": 20.0}]"
+bicarbonate,pizza,[]
+bicarbonate,eau,"[{""id"": 317576568, ""node1"": 25858, ""node2"": 65012, ""type"": 15, ""w"": 35.0}, {""id"": 942599666, ""node1"": 25858, ""node2"": 65012, ""type"": 666, ""w"": 2.0}]"
+eau,viande,"[{""id"": 104937409, ""node1"": 65012, ""node2"": 140100, ""type"": 28, ""w"": 3.0}]"
+viande,herbe,[]
+herbe,Provence,[]
+eau,olive,[]
+olive,noir,"[{""id"": 722424118, ""node1"": 238, ""node2"": 64238, ""type"": 0, ""w"": 28.0}, {""id"": 3175057, ""node1"": 238, ""node2"": 64238, ""type"": 106, ""w"": 3.0}, {""id"": 672025994, ""node1"": 238, ""node2"": 64238, ""type"": 666, ""w"": 4.0}]"
+bicarbonate,sel,"[{""id"": 553967205, ""node1"": 25858, ""node2"": 13260, ""type"": 0, ""w"": 30.0}, {""id"": 82476653, ""node1"": 25858, ""node2"": 13260, ""type"": 6, ""w"": 38.0}]"
+sel,paprika,[]
+saladier,cuillère,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]"
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,four,[]
+four,rouleau,[]
+paprika,top,[]
+papier,meilleur,[]
+top,papier,[]
+couvercle,pinceau,[]
+balance,cuisine,[]
+table,induction,[]
+placer,gramme,[]
+gramme,farine,"[{""id"": 775213298, ""node1"": 140383, ""node2"": 127629, ""type"": 174, ""w"": 25.0}]"
+bicarbonate,soude,[]
+bicarbonate,pincée,[]
+pincée,sel,"[{""id"": 665112730, ""node1"": 122023, ""node2"": 13260, ""type"": 174, ""w"": 40.0}, {""id"": 990072491, ""node1"": 122023, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]"
+celui,poivre,[]
+ajouter,paprika,[]
+sel,ail,[]
+remuer,verser,[]
+verser,moitié,[]
+verser,reste,[]
+reste,eau,[]
+collant,pâte,"[{""id"": 980212869, ""node1"": 50437, ""node2"": 34069, ""type"": 666, ""w"": 3.0}]"
+utiliser,collant,[]
+verser,utiliser,[]
+utiliser,mélanger,[]
+mélanger,tout,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]"
+obtenir,pâte,[]
+pâte,collant,[]
+reste,farine,[]
+ajouter,mélanger,[]
+opération,farine,[]
+obtenir,boule,[]
+boule,pâte,"[{""id"": 720819459, ""node1"": 141883, ""node2"": 34069, ""type"": 174, ""w"": 25.0}, {""id"": 4827130, ""node1"": 141883, ""node2"": 34069, ""type"": 777, ""w"": 10.0}]"
+colle,que,[]
+boule,colle,[]
+mettre,peu,[]
+peu,farine,[]
+fond,saladier,[]
+remettre,boule,[]
+remettre,dedans,[]
+torchon,propre,"[{""id"": 14801365, ""node1"": 87841, ""node2"": 118316, ""type"": 17, ""w"": 30.0}]"
+reposer,pâte,"[{""id"": 9366390, ""node1"": 106663, ""node2"": 34069, ""type"": 0, ""w"": 32.0}, {""id"": 218835, ""node1"": 106663, ""node2"": 34069, ""type"": 13, ""w"": 59.0}, {""id"": 9173399, ""node1"": 106663, ""node2"": 34069, ""type"": 35, ""w"": 31.0}]"
+reposer,heure,[]
+reposer,presser,[]
+préparation,pizza,"[{""id"": 601611816, ""node1"": 33634, ""node2"": 109533, ""type"": 0, ""w"": 31.0}]"
+mettre,four,[]
+étaler,peu,[]
+sortir,saladier,[]
+rouleau,pâtisserie,"[{""id"": 34655902, ""node1"": 59019, ""node2"": 25966, ""type"": 0, ""w"": 31.0}]"
+rouleau,faire,[]
+faire,disque,[]
+rouleau,poser,[]
+poser,pâte,[]
+rouleau,former,[]
+dessous,papier,[]
+défaut,farine,[]
+reste,pâte,[]
+rouleau,reste,[]
+étaler,sauce,"[{""id"": 31735797, ""node1"": 98214, ""node2"": 141110, ""type"": 14, ""w"": 30.0}]"
+sauce,tomate,"[{""id"": 2221325, ""node1"": 141110, ""node2"": 22138, ""type"": 0, ""w"": 74.0}, {""id"": 10528848, ""node1"": 141110, ""node2"": 22138, ""type"": 9, ""w"": 26.0}, {""id"": 11333947, ""node1"": 141110, ""node2"": 22138, ""type"": 28, ""w"": 38.0}, {""id"": 96715050, ""node1"": 141110, ""node2"": 22138, ""type"": 50, ""w"": 16.0}, {""id"": 651031294, ""node1"": 141110, ""node2"": 22138, ""type"": 666, ""w"": 4.0}]"
+voir,pâte,[]
+épaisseur,sauce,[]
+viande,surface,[]
+faite,couvrir,[]
+surface,tout,[]
+couvrir,surface,[]
+placer,olive,[]
+pincée,bel,[]
+pincée,herbe,[]
+milieu,four,[]
+pâte,moelleux,[]
+sortir,pizza,[]
+fondre,fromage,"[{""id"": 102294612, ""node1"": 16480, ""node2"": 141687, ""type"": 0, ""w"": 62.0}, {""id"": 98285435, ""node1"": 16480, ""node2"": 141687, ""type"": 13, ""w"": 31.0}]"
+sortir,fondre,[]
+faire,bulle,[]

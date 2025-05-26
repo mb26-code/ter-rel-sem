@@ -1,0 +1,21 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+lait,ingrédient,nmod,NOUN,0.6221581101417542,"[{""id"": 15370374, ""node1"": 86296, ""node2"": 123418, ""type"": 0, ""w"": 37.0}, {""id"": 506059, ""node1"": 86296, ""node2"": 123418, ""type"": 3, ""w"": 56.0}]",r_domain,56.0
+oeuf,sucre,nmod,NOUN,0.6437758803367615,"[{""id"": 76133259, ""node1"": 116175, ""node2"": 139481, ""type"": 50, ""w"": 26.0}]",r_object>mater,26.0
+sucre,lait,nmod,NOUN,0.6437966823577881,[],,
+lait,entier,amod,ADJ,0.5518331527709961,"[{""id"": 114016, ""node1"": 86296, ""node2"": 49309, ""type"": 0, ""w"": 134.0}, {""id"": 132413, ""node1"": 86296, ""node2"": 49309, ""type"": 8, ""w"": 111.0}, {""id"": 276797, ""node1"": 86296, ""node2"": 49309, ""type"": 17, ""w"": 80.0}]",r_associated,134.0
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+four,casserole,nmod,NOUN,0.7147663235664368,[],,
+casserole,bol,nmod,NOUN,0.5670263171195984,[],,
+bol,cuillère,nmod,NOUN,0.5572551488876343,"[{""id"": 1046576301, ""node1"": 145405, ""node2"": 51905, ""type"": 8, ""w"": 20.0}]",r_hypo,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+chauffer,lait,obj,NOUN,0.6334350109100342,"[{""id"": 31845126, ""node1"": 90994, ""node2"": 86296, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+mélanger,oeuf,obj,NOUN,0.5539453625679016,[],,
+plat,aller,acl:relcl,VERB,0.5960066914558411,[],,
+mettre,lait,obj,NOUN,0.6112686395645142,[],,
+ajouter,oeuf,obj,NOUN,0.5327831506729126,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+cuire,jaune,obj,NOUN,0.7354980707168579,[],,

@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+mettre,velouté,nsubj,NOUN,0.5785007476806641,[],,
+velouté,ingrédient,nmod,NOUN,0.6268470287322998,[],,
+velouté,persil,nmod,NOUN,0.621315062046051,[],,
+velouté,pomme,nmod,NOUN,0.6291032433509827,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,cube,nmod,NOUN,0.5789888501167297,[],,
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+bouillon,lait,appos,NOUN,0.6349389553070068,"[{""id"": 558647530, ""node1"": 146582, ""node2"": 86296, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+lait,eau,nmod,NOUN,0.6201539039611816,"[{""id"": 423451320, ""node1"": 86296, ""node2"": 65012, ""type"": 0, ""w"": 57.0}, {""id"": 386065416, ""node1"": 86296, ""node2"": 65012, ""type"": 6, ""w"": -25.0}, {""id"": 123522, ""node1"": 86296, ""node2"": 65012, ""type"": 9, ""w"": 170.0}, {""id"": 1745868, ""node1"": 86296, ""node2"": 65012, ""type"": 50, ""w"": 32.0}, {""id"": 97056207, ""node1"": 86296, ""node2"": 65012, ""type"": 78, ""w"": 30.0}, {""id"": 3262481, ""node1"": 86296, ""node2"": 65012, ""type"": 777, ""w"": 5.0}]",r_has_part,170.0
+velouté,louche,appos,NOUN,0.590481698513031,[],,
+louche,mixeur,nmod,NOUN,0.5896725058555603,[],,
+mixeur,couteau,nmod,NOUN,0.573357105255127,[],,
+mixeur,mixeur,nmod,NOUN,0.488496869802475,"[{""id"": 316851, ""node1"": 78314, ""node2"": 78314, ""type"": 19, ""w"": 51.0}]",r_lemma,51.0
+mixeur,étape,nmod,NOUN,0.5223461985588074,[],,
+velouté,couper,acl,VERB,0.5881831049919128,[],,
+couper,pomme,obj,NOUN,0.5794677734375,"[{""id"": 31836584, ""node1"": 128828, ""node2"": 37201, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+pomme,morceau,nmod,NOUN,0.6182215809822083,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+mettre,ingrédient,obj,NOUN,0.5923328399658203,[],,
+eau,cube,nmod,NOUN,0.5758882164955139,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+mettre,mixer,obj,VERB,0.5198382139205933,[],,
+mixer,tout,nmod,NOUN,0.5551751852035522,[],,
+ajouter,lait,obj,NOUN,0.5957752466201782,"[{""id"": 373014760, ""node1"": 25099, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0

@@ -1,0 +1,18 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,glace,nmod,NOUN,0.5293558239936829,[],,
+glace,fraise,nmod,NOUN,0.5609514117240906,"[{""id"": 106727, ""node1"": 141964, ""node2"": 16242, ""type"": 0, ""w"": 146.0}, {""id"": 11313878, ""node1"": 141964, ""node2"": 16242, ""type"": 28, ""w"": 40.0}, {""id"": 653268671, ""node1"": 141964, ""node2"": 16242, ""type"": 666, ""w"": 4.0}]",r_associated,146.0
+coulis,fraise,nmod,NOUN,0.5707610845565796,"[{""id"": 796855604, ""node1"": 10401, ""node2"": 16242, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+fraise,maison,nmod,NOUN,0.5792822241783142,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,crème,acl,NOUN,0.6610228419303894,"[{""id"": 24923429, ""node1"": 123418, ""node2"": 44001, ""type"": 0, ""w"": 15.0}, {""id"": 24850724, ""node1"": 123418, ""node2"": 44001, ""type"": 8, ""w"": 36.0}]",r_hypo,36.0
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+crème,sucre,acl,NOUN,0.7060490250587463,"[{""id"": 561269855, ""node1"": 44001, ""node2"": 139481, ""type"": 0, ""w"": 61.0}]",r_associated,61.0
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,fraise,nmod,NOUN,0.5944597125053406,[],,
+ingrédient,fraise,amod,ADJ,0.6214956045150757,[],,
+fourchette,balance,nmod,NOUN,0.4832910895347595,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,assiette,appos,NOUN,0.5656145215034485,[],,
+assiette,étape,nmod,NOUN,0.483820229768753,[],,
+lave,fraise,obj,NOUN,0.5071824789047241,[],,
+coulis,venir,acl:relcl,VERB,0.5575820803642273,[],,

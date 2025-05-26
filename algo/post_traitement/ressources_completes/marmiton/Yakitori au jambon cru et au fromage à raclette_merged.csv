@@ -1,0 +1,23 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+jambon,croire,acl,VERB,0.581739604473114,[],,
+fromage,raclette,nmod,NOUN,0.6013568043708801,"[{""id"": 436582, ""node1"": 141687, ""node2"": 32204, ""type"": 0, ""w"": 158.0}, {""id"": 3142823, ""node1"": 141687, ""node2"": 32204, ""type"": 8, ""w"": 41.0}, {""id"": 9990133, ""node1"": 141687, ""node2"": 32204, ""type"": 10, ""w"": 4.0}, {""id"": 15173529, ""node1"": 141687, ""node2"": 32204, ""type"": 27, ""w"": 32.0}, {""id"": 376049814, ""node1"": 141687, ""node2"": 32204, ""type"": 51, ""w"": 29.0}]",r_associated,158.0
+jambon,ingrédient,nmod,NOUN,0.6781305074691772,"[{""id"": 24850707, ""node1"": 57980, ""node2"": 123418, ""type"": 0, ""w"": 27.0}, {""id"": 24842129, ""node1"": 57980, ""node2"": 123418, ""type"": 6, ""w"": 177.0}]",r_isa,177.0
+miel,sésame,appos,NOUN,0.621407687664032,[],,
+sésame,raclette,nmod,NOUN,0.6136572360992432,[],,
+raclette,jambon,nmod,NOUN,0.5874394774436951,"[{""id"": 1584711, ""node1"": 32204, ""node2"": 57980, ""type"": 0, ""w"": 180.0}]",r_associated,180.0
+jambon,mélanger,acl,VERB,0.6757081151008606,[],,
+obtenir,miel,nsubj,NOUN,0.5766265988349915,[],,
+obtenir,marinade,obj,NOUN,0.6055620312690735,[],,
+déposer,tranche,obj,NOUN,0.461878627538681,[],,
+tranche,jambon,nmod,NOUN,0.5780830979347229,"[{""id"": 243905, ""node1"": 143123, ""node2"": 57980, ""type"": 0, ""w"": 71.0}, {""id"": 720817992, ""node1"": 143123, ""node2"": 57980, ""type"": 174, ""w"": 25.0}]",r_associated,71.0
+couper,fromage,obj,NOUN,0.6230878829956055,"[{""id"": 365853942, ""node1"": 128828, ""node2"": 141687, ""type"": 0, ""w"": 29.0}, {""id"": 365853940, ""node1"": 128828, ""node2"": 141687, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+fromage,longueur,nmod,NOUN,0.6068150997161865,[],,
+longueur,brochette,nmod,NOUN,0.4618173241615295,[],,
+jambon,autour,amod,ADV,0.5864841341972351,[],,
+cuire,brochette,obj,NOUN,0.737999439239502,[],,
+brochette,côté,nmod,NOUN,0.4879667460918426,[],,
+poêle,chaud,amod,ADJ,0.6645733714103699,"[{""id"": 278998504, ""node1"": 119686, ""node2"": 19150, ""type"": 0, ""w"": 26.0}, {""id"": 3078839, ""node1"": 119686, ""node2"": 19150, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+fondre,fromage,nsubj:pass,NOUN,0.6491246819496155,"[{""id"": 102294612, ""node1"": 16480, ""node2"": 141687, ""type"": 0, ""w"": 62.0}, {""id"": 98285435, ""node1"": 16480, ""node2"": 141687, ""type"": 13, ""w"": 31.0}]",r_associated,62.0
+verser,reste,obj,NOUN,0.494085282087326,[],,
+reste,sauce,nmod,NOUN,0.6750603318214417,[],,
+graine,sésame,nmod,NOUN,0.5720810890197754,"[{""id"": 797533486, ""node1"": 14469, ""node2"": 18404, ""type"": 0, ""w"": 29.0}, {""id"": 246270686, ""node1"": 14469, ""node2"": 18404, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0

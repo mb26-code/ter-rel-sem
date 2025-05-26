@@ -1,0 +1,26 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,salade,appos,NOUN,0.5926524996757507,[],,
+salade,coco,nmod,NOUN,0.6583226919174194,[],,
+coco,Paimpol,nmod,PROPN,0.4814589917659759,[],,
+salade,betterave,nmod,NOUN,0.6537039875984192,"[{""id"": 700630719, ""node1"": 118908, ""node2"": 20232, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+betterave,ingrédient,nmod,NOUN,0.6692503690719604,"[{""id"": 591004121, ""node1"": 20232, ""node2"": 123418, ""type"": 0, ""w"": 1.0}, {""id"": 591003876, ""node1"": 20232, ""node2"": 123418, ""type"": 6, ""w"": 42.0}]",r_isa,42.0
+salade,sel,nmod,NOUN,0.7604894042015076,"[{""id"": 97758126, ""node1"": 118908, ""node2"": 13260, ""type"": 0, ""w"": 27.0}, {""id"": 97758127, ""node1"": 118908, ""node2"": 13260, ""type"": 9, ""w"": 32.0}, {""id"": 5292757, ""node1"": 118908, ""node2"": 13260, ""type"": 777, ""w"": 7.0}]",r_has_part,32.0
+sel,poivre,acl,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,vinaigre,acl,NOUN,0.6644958257675171,"[{""id"": 584573829, ""node1"": 139597, ""node2"": 145443, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+salade,bouquet,nmod,NOUN,0.6220892071723938,[],,
+bouquet,garni,amod,ADJ,0.4469667077064514,[],,
+bouquet,huile,acl,NOUN,0.6044185757637024,[],,
+casserole,couteau,nmod,NOUN,0.6493775248527527,[],,
+salade,mettre,acl,VERB,0.6556519269943237,[],,
+mettre,coco,obj,NOUN,0.5958015322685242,[],,
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+eau,oignon,nmod,NOUN,0.6199138164520264,[],,
+devoir,coco,nsubj,NOUN,0.5469312071800232,[],,
+détailler,betterave,obj,NOUN,0.5790523886680603,[],,
+fois,coco,nmod,NOUN,0.5568452477455139,[],,
+coco,cuire,acl,VERB,0.7561575174331665,[],,
+laisser,égoutter,advcl,VERB,0.4538509249687195,[],,
+ajouter,betterave,obj,NOUN,0.5817685723304749,[],,
+huile,vinaigre,nmod,NOUN,0.6314905285835266,"[{""id"": 165631, ""node1"": 141971, ""node2"": 145443, ""type"": 0, ""w"": 108.0}, {""id"": 1029365121, ""node1"": 141971, ""node2"": 145443, ""type"": 67, ""w"": 33.0}, {""id"": 1032957258, ""node1"": 141971, ""node2"": 145443, ""type"": 78, ""w"": 34.0}, {""id"": 1793560, ""node1"": 141971, ""node2"": 145443, ""type"": 666, ""w"": 1.0}]",r_associated,108.0
+arroser,coco,obj,NOUN,0.5934191346168518,[],,
+ajouter,salade,obj,NOUN,0.6491708159446716,[],,

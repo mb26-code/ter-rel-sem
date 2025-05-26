@@ -1,0 +1,41 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,alimentation,obj,NOUN,0.410456508398056,[],,
+cuisine,japonais,amod,ADJ,0.5706702470779419,[],,
+partager,connaissance,obj,NOUN,0.4124003052711487,"[{""id"": 929699725, ""node1"": 122353, ""node2"": 104243, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+trouver,sauce,obj,NOUN,0.6913107633590698,[],,
+sauce,épicé,amod,ADJ,0.6996961832046509,"[{""id"": 939870949, ""node1"": 141110, ""node2"": 81389, ""type"": 0, ""w"": 30.0}, {""id"": 1012592145, ""node1"": 141110, ""node2"": 81389, ""type"": 9, ""w"": -30.0}, {""id"": 96715034, ""node1"": 141110, ""node2"": 81389, ""type"": 17, ""w"": 21.0}]",r_associated,30.0
+sauce,appeler,acl,VERB,0.6375914812088013,[],,
+sauce,article,nmod,NOUN,0.6360673904418945,[],,
+voir,Fondue,obj,PROPN,0.4203191995620727,[],,
+plat,japonais,amod,ADJ,0.5805410146713257,"[{""id"": 93508125, ""node1"": 36327, ""node2"": 34713, ""type"": 17, ""w"": 35.0}]",r_carac,35.0
+plat,appeler,acl,VERB,0.5979531407356262,[],,
+fondre,japonais,amod,ADJ,0.5061772465705872,[],,
+sorte,fondue,acl,NOUN,0.5712080597877502,[],,
+cuire,bœuf,obj,NOUN,0.7431524395942688,"[{""id"": 97739904, ""node1"": 5115, ""node2"": 168216, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+légume,cru,amod,ADJ,0.5495258569717407,"[{""id"": 362119, ""node1"": 120603, ""node2"": 39901, ""type"": 17, ""w"": 53.0}]",r_carac,53.0
+cuire,arroser,advcl,VERB,0.6951250433921814,[],,
+sauce,composer,acl,VERB,0.6542585492134094,[],,
+couper,viande,nsubj:pass,NOUN,0.6744248270988464,"[{""id"": 241180, ""node1"": 128828, ""node2"": 140100, ""type"": 0, ""w"": 74.0}, {""id"": 15084106, ""node1"": 128828, ""node2"": 140100, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+viande,bœuf,nmod,NOUN,0.636695384979248,"[{""id"": 10577328, ""node1"": 140100, ""node2"": 168216, ""type"": 0, ""w"": 59.0}, {""id"": 9627859, ""node1"": 140100, ""node2"": 168216, ""type"": 8, ""w"": 95.0}, {""id"": 15173562, ""node1"": 140100, ""node2"": 168216, ""type"": 27, ""w"": 30.0}, {""id"": 646611390, ""node1"": 140100, ""node2"": 168216, ""type"": 666, ""w"": 1.0}]",r_hypo,95.0
+faire,couper,advcl,VERB,0.4977108240127563,"[{""id"": 78612895, ""node1"": 87528, ""node2"": 128828, ""type"": 0, ""w"": 24.0}, {""id"": 54846265, ""node1"": 87528, ""node2"": 128828, ""type"": 5, ""w"": 55.0}]",r_syn,55.0
+tranche,fin,amod,ADJ,0.4591284096240997,[],,
+ingrédient,autre,amod,ADJ,0.5639666318893433,[],,
+pouvoir,ingrédient,nsubj,NOUN,0.547187864780426,[],,
+chou,chinois,amod,ADJ,0.5354672074317932,"[{""id"": 97869643, ""node1"": 67203, ""node2"": 59402, ""type"": 17, ""w"": 4.0}]",r_carac,4.0
+chou,marmite,nmod,NOUN,0.6524059176445007,[],,
+marmite,spécial,amod,ADJ,0.6493772268295288,[],,
+marmite,fonte,nmod,NOUN,0.5908481478691101,"[{""id"": 376056076, ""node1"": 146096, ""node2"": 111654, ""type"": 50, ""w"": 26.0}]",r_object>mater,26.0
+chou,appeler,acl,VERB,0.5268568396568298,[],,
+centre,table,nmod,NOUN,0.5145027041435242,[],,
+faire,chacun,nsubj,PRON,0.4816852211952209,[],,
+cuire,aliment,obj,NOUN,0.7773678302764893,"[{""id"": 9359360, ""node1"": 5115, ""node2"": 114637, ""type"": 0, ""w"": 32.0}, {""id"": 141746047, ""node1"": 5115, ""node2"": 114637, ""type"": 13, ""w"": 100.0}, {""id"": 174974604, ""node1"": 5115, ""node2"": 114637, ""type"": 14, ""w"": 100.0}, {""id"": 2462753, ""node1"": 5115, ""node2"": 114637, ""type"": 35, ""w"": 32.0}, {""id"": 4216683, ""node1"": 5115, ""node2"": 114637, ""type"": 777, ""w"": 10.0}]",r_agent,100.0
+aliment,choix,nmod,NOUN,0.5197317600250244,[],,
+aliment,marmite,nmod,NOUN,0.7449432611465454,[],,
+récipient,petit,amod,ADJ,0.602883517742157,[],,
+récipient,individuel,amod,ADJ,0.5649632811546326,[],,
+casser,œuf,nsubj,NOUN,0.5439227223396301,[],,
+récipient,casser,acl:relcl,VERB,0.5869712829589844,"[{""id"": 2517134, ""node1"": 89628, ""node2"": 63509, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+plat,ce,nsubj,PRON,0.418347030878067,[],,
+plat,famille,nmod,NOUN,0.612501859664917,"[{""id"": 770612943, ""node1"": 36327, ""node2"": 98300, ""type"": 0, ""w"": 56.0}]",r_associated,56.0
+famille,savoureux,amod,ADJ,0.496912807226181,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,

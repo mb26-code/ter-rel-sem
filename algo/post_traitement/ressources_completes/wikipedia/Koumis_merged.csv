@@ -1,0 +1,50 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,boisson,obj,NOUN,0.5278740525245667,[],,
+partager,connaissance,obj,NOUN,0.4124003052711487,"[{""id"": 929699725, ""node1"": 122353, ""node2"": 104243, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+boisson,base,nmod,NOUN,0.582430362701416,[],,
+base,lait,nmod,NOUN,0.6312020421028137,[],,
+boisson,originaire,amod,ADJ,0.5374329090118408,[],,
+dosage,faible,amod,ADJ,0.4576520919799804,[],,
+comprendre,dosage,obj,NOUN,0.4717061519622803,[],,
+dosage,alcool,nmod,NOUN,0.5125146508216858,[],,
+fort,goût,nsubj,NOUN,0.5082874298095703,"[{""id"": 14787059, ""node1"": 54186, ""node2"": 119233, ""type"": 23, ""w"": 32.0}]",r_carac-1,32.0
+goût,particulier,amod,ADJ,0.5415915846824646,"[{""id"": 472676719, ""node1"": 119233, ""node2"": 85169, ""type"": 17, ""w"": 36.0}]",r_carac,36.0
+pouvoir,boisson,nsubj,NOUN,0.5526491403579712,[],,
+goût,pouvoir,acl,VERB,0.5266979336738586,[],,
+procédé,traditionnel,amod,ADJ,0.4534847438335418,[],,
+procédé,préparation,nmod,NOUN,0.5002416372299194,[],,
+coutume,associer,amod,ADJ,0.4345501363277435,[],,
+reste,dont,nmod,PRON,0.438297688961029,[],,
+provenir,reste,nsubj,NOUN,0.4377796947956085,[],,
+lait,jument,nmod,NOUN,0.504279613494873,"[{""id"": 423451273, ""node1"": 86296, ""node2"": 6070, ""type"": 0, ""w"": 12.0}, {""id"": 3262416, ""node1"": 86296, ""node2"": 6070, ""type"": 777, ""w"": 5.0}]",r_associated,12.0
+lait,nomade,nmod,NOUN,0.5646217465400696,[],,
+provenir,production,nsubj,NOUN,0.4071345031261444,[],,
+production,traditionnel,amod,ADJ,0.5271143913269043,[],,
+lait,vache,nmod,NOUN,0.5106161832809448,"[{""id"": 100641, ""node1"": 86296, ""node2"": 138501, ""type"": 0, ""w"": 431.0}, {""id"": 137749, ""node1"": 86296, ""node2"": 138501, ""type"": 8, ""w"": -60.0}, {""id"": 9976460, ""node1"": 86296, ""node2"": 138501, ""type"": 10, ""w"": 4.0}, {""id"": 11357809, ""node1"": 86296, ""node2"": 138501, ""type"": 15, ""w"": 39.0}, {""id"": 383584, ""node1"": 86296, ""node2"": 138501, ""type"": 22, ""w"": -80.0}, {""id"": 15114456, ""node1"": 86296, ""node2"": 138501, ""type"": 27, ""w"": 28.0}, {""id"": 76654958, ""node1"": 86296, ""node2"": 138501, ""type"": 54, ""w"": 76.0}, {""id"": 1040288386, ""node1"": 86296, ""node2"": 138501, ""type"": 129, ""w"": 29.0}, {""id"": 1522646, ""node1"": 86296, ""node2"": 138501, ""type"": 666, ""w"": 13.0}]",r_associated,431.0
+quantité,grand,amod,ADJ,0.5105735659599304,"[{""id"": 1717406, ""node1"": 78869, ""node2"": 23178, ""type"": 17, ""w"": 10.0}]",r_carac,10.0
+considérer,boisson,nsubj:pass,NOUN,0.5611432790756226,[],,
+dire,vin,obj,NOUN,0.6220128536224365,[],,
+vin,lait,nmod,NOUN,0.6348287463188171,"[{""id"": 385497895, ""node1"": 35798, ""node2"": 86296, ""type"": 8, ""w"": -25.0}]",r_hypo,-25.0
+moitié,second,amod,ADJ,0.4340190887451172,[],,
+multiplier,travail,nsubj,NOUN,0.4174495339393616,[],,
+travail,scientifique,amod,ADJ,0.4079045951366424,[],,
+maladie,nombreux,amod,ADJ,0.4088487029075622,[],,
+vouloir,tradition,nsubj,NOUN,0.4410772323608398,[],,
+offrir,bol,obj,NOUN,0.5273926258087158,"[{""id"": 376199975, ""node1"": 89749, ""node2"": 145405, ""type"": 16, ""w"": 30.0}]",r_instr,30.0
+bol,invité,nmod,NOUN,0.5243419408798218,[],,
+battre,lait,nsubj:pass,NOUN,0.5921490788459778,"[{""id"": 478484742, ""node1"": 119162, ""node2"": 86296, ""type"": 0, ""w"": 34.0}, {""id"": 478484741, ""node1"": 119162, ""node2"": 86296, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+sac,cuir,nmod,NOUN,0.4647132754325866,"[{""id"": 2291647, ""node1"": 40635, ""node2"": 39149, ""type"": 0, ""w"": 30.0}, {""id"": 223662, ""node1"": 40635, ""node2"": 39149, ""type"": 9, ""w"": 90.0}, {""id"": 11346357, ""node1"": 40635, ""node2"": 39149, ""type"": 28, ""w"": 38.0}, {""id"": 1746096, ""node1"": 40635, ""node2"": 39149, ""type"": 50, ""w"": 45.0}]",r_has_part,90.0
+cuir,cheval,nmod,NOUN,0.4498214721679687,"[{""id"": 558702683, ""node1"": 39149, ""node2"": 145246, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+récipient,autre,amod,ADJ,0.5696918964385986,[],,
+boisson,apprécier,acl,VERB,0.5674634575843811,[],,
+version,spécial,amod,ADJ,0.461920291185379,[],,
+donner,désert,nsubj,NOUN,0.4661305248737335,[],,
+désert,noir,amod,ADJ,0.4447334706783294,[],,
+désert,tirer,acl,VERB,0.4329396486282348,[],,
+traite,cheval,nmod,NOUN,0.4173431992530823,"[{""id"": 683693295, ""node1"": 19454, ""node2"": 145246, ""type"": 0, ""w"": 35.0}]",r_associated,35.0
+désert,lait,appos,NOUN,0.5761943459510803,[],,
+mettre,produit,nsubj:pass,NOUN,0.4777511060237884,[],,
+produit,substitution,nmod,NOUN,0.4411623775959015,"[{""id"": 83648551, ""node1"": 32667, ""node2"": 12957, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+substitution,industriel,amod,ADJ,0.4566153287887573,[],,
+produit,base,nmod,NOUN,0.5113966464996338,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,

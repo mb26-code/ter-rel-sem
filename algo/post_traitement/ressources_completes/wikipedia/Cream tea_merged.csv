@@ -1,0 +1,8 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,gastronomie,obj,NOUN,0.4582444131374359,[],,
+collation,prendre,acl,VERB,0.482246458530426,[],,
+prendre,forme,obj,NOUN,0.4647745192050934,"[{""id"": 488344148, ""node1"": 86306, ""node2"": 142000, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+forme,thé,nmod,NOUN,0.5879011154174805,[],,
+thé,prendre,acl,VERB,0.5585640668869019,"[{""id"": 906030393, ""node1"": 143378, ""node2"": 86306, ""type"": 0, ""w"": 20.0}, {""id"": 477985918, ""node1"": 143378, ""node2"": 86306, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+confiture,fraise,nmod,NOUN,0.5717098116874695,"[{""id"": 138285, ""node1"": 70793, ""node2"": 16242, ""type"": 0, ""w"": 281.0}, {""id"": 1786545, ""node1"": 70793, ""node2"": 16242, ""type"": 666, ""w"": 1.0}]",r_associated,281.0
+préparer,préparer,advcl,VERB,0.4565593302249908,"[{""id"": 325850, ""node1"": 36246, ""node2"": 36246, ""type"": 19, ""w"": 56.0}]",r_lemma,56.0

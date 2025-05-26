@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,chocolat,nmod,NOUN,0.6857289671897888,[],,
+ingrédient,lait,nmod,NOUN,0.6221581101417542,"[{""id"": 15303738, ""node1"": 123418, ""node2"": 86296, ""type"": 0, ""w"": 28.0}, {""id"": 15173662, ""node1"": 123418, ""node2"": 86296, ""type"": 27, ""w"": -24.0}]",r_associated,28.0
+ingrédient,extraire,acl,VERB,0.5502373576164246,[],,
+extraire,noix,obj,NOUN,0.5494071841239929,[],,
+lait,coco,amod,ADV,0.5941302180290222,"[{""id"": 796793155, ""node1"": 86296, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+crème,lait,nmod,NOUN,0.6247590780258179,"[{""id"": 405907, ""node1"": 44001, ""node2"": 86296, ""type"": 0, ""w"": 138.0}, {""id"": 96714537, ""node1"": 44001, ""node2"": 86296, ""type"": 3, ""w"": 28.0}, {""id"": 96714538, ""node1"": 44001, ""node2"": 86296, ""type"": 6, ""w"": 45.0}, {""id"": 373392830, ""node1"": 44001, ""node2"": 86296, ""type"": 8, ""w"": -25.0}, {""id"": 589351631, ""node1"": 44001, ""node2"": 86296, ""type"": 9, ""w"": -5.0}, {""id"": 9980417, ""node1"": 44001, ""node2"": 86296, ""type"": 10, ""w"": 4.0}, {""id"": 12987054, ""node1"": 44001, ""node2"": 86296, ""type"": 15, ""w"": 59.0}, {""id"": 1577895, ""node1"": 44001, ""node2"": 86296, ""type"": 21, ""w"": 80.0}, {""id"": 1869736, ""node1"": 44001, ""node2"": 86296, ""type"": 42, ""w"": 60.0}, {""id"": 376037426, ""node1"": 44001, ""node2"": 86296, ""type"": 51, ""w"": 34.0}, {""id"": 1764138, ""node1"": 44001, ""node2"": 86296, ""type"": 666, ""w"": 7.0}]",r_associated,138.0
+lait,concentrer,acl,VERB,0.5701926946640015,[],,
+extraire,film,appos,NOUN,0.4048539996147156,[],,
+film,alimentaire,amod,ADJ,0.4283865392208099,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+four,réfrigérateur,nmod,NOUN,0.6547004580497742,[],,
+réfrigérateur,saladier,nmod,NOUN,0.5889169573783875,[],,
+saladier,fourchette,appos,NOUN,0.5964536666870117,[],,
+saladier,plat,nmod,ADJ,0.6500786542892456,"[{""id"": 2181154, ""node1"": 45455, ""node2"": 36327, ""type"": 0, ""w"": 62.0}, {""id"": 1668935, ""node1"": 45455, ""node2"": 36327, ""type"": 666, ""w"": 3.0}]",r_associated,62.0
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[],,
+ingrédient,mélanger,acl,VERB,0.6362285614013672,"[{""id"": 770758779, ""node1"": 123418, ""node2"": 37151, ""type"": 26, ""w"": 31.0}]",r_patient-1,31.0
+mélanger,noix,obj,NOUN,0.6137244701385498,[],,
+noix,coco,nmod,ADV,0.5701965689659119,"[{""id"": 1924690, ""node1"": 30910, ""node2"": 145904, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+crème,coco,acl,ADV,0.6196759939193726,[],,
+titre,lait,nmod,NOUN,0.5577202439308167,[],,
+lait,concentré,amod,ADJ,0.5687405467033386,"[{""id"": 421005940, ""node1"": 86296, ""node2"": 120287, ""type"": 0, ""w"": 2.0}]",r_associated,2.0
+lait,huile,appos,NOUN,0.6405364274978638,[],,
+huile,coco,amod,ADV,0.6010280847549438,"[{""id"": 669863245, ""node1"": 141971, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+vanille,liquide,amod,ADJ,0.6113808155059814,[],,
+verser,pâte,obj,NOUN,0.6542285084724426,"[{""id"": 373014722, ""node1"": 104506, ""node2"": 34069, ""type"": 14, ""w"": 36.0}]",r_patient,36.0
+plat,filmer,acl,VERB,0.5844360589981079,[],,
+réfrigérateur,minute,nmod,NOUN,0.4894644021987915,[],,
+fondre,chocolat,obj,NOUN,0.5867562890052795,"[{""id"": 28589116, ""node1"": 16480, ""node2"": 34157, ""type"": 0, ""w"": 63.0}, {""id"": 24768886, ""node1"": 16480, ""node2"": 34157, ""type"": 13, ""w"": 30.0}, {""id"": 1011304980, ""node1"": 16480, ""node2"": 34157, ""type"": 14, ""w"": 30.0}, {""id"": 1009801551, ""node1"": 16480, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]",r_associated,63.0
+couper,pâte,obj,NOUN,0.6448031663894653,[],,
+chocolat,fondre,acl,VERB,0.5867562890052795,"[{""id"": 561175449, ""node1"": 34157, ""node2"": 16480, ""type"": 0, ""w"": 35.0}, {""id"": 24771039, ""node1"": 34157, ""node2"": 16480, ""type"": 24, ""w"": 220.0}, {""id"": 1011192542, ""node1"": 34157, ""node2"": 16480, ""type"": 26, ""w"": 30.0}]",r_agent-1,220.0
+dessin,dessus,nmod,NOUN,0.4125675857067108,[],,
+aide,fourchette,nmod,NOUN,0.4181736707687378,[],,
+grille,frais,nmod,NOUN,0.4999600052833557,[],,

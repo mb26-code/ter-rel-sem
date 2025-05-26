@@ -8,3 +8,11 @@ corpus/wikipedia/*
 #pour commit le sous-dossier "corpus/marmiton" mais pas les fichiers qu'il contient
 corpus/marmiton/*
 !corpus/marmiton/.gitkeep
+
+# Mac OS
+.DS_Store
+algo/.DS_Store
+algo/post_traitement/.DS_Store
+algo/output/wikipedia/.DS_Store
+algo/extraction_relations/cc.fr.300.vec.gz
+algo/extraction_relations/output/*

@@ -1,0 +1,43 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,soupe,nmod,NOUN,0.601783037185669,[],,
+soupe,complet,amod,ADJ,0.639999270439148,[],,
+soupe,hiver,nmod,NOUN,0.5890513062477112,"[{""id"": 208630, ""node1"": 117152, ""node2"": 75068, ""type"": 0, ""w"": 85.0}, {""id"": 652275843, ""node1"": 117152, ""node2"": 75068, ""type"": 666, ""w"": 3.0}]",r_associated,85.0
+hiver,ingrédient,nmod,NOUN,0.5016562938690186,[],,
+hiver,poivre,appos,NOUN,0.6118053197860718,[],,
+poivre,muscade,nmod,NOUN,0.6142682433128357,"[{""id"": 920103858, ""node1"": 139597, ""node2"": 115297, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+poivre,cassé,amod,ADJ,0.5681707262992859,[],,
+hiver,courge,nmod,NOUN,0.5587440133094788,[],,
+hiver,lait,nmod,NOUN,0.576547384262085,[],,
+soupe,huile,acl,NOUN,0.676633894443512,"[{""id"": 3346889, ""node1"": 117152, ""node2"": 141971, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+titre,louche,appos,NOUN,0.4507164061069488,[],,
+louche,mixeur,nmod,NOUN,0.5896725058555603,[],,
+mixeur,plonger,acl,VERB,0.5584041476249695,[],,
+mixeur,chauffer,acl,VERB,0.6226776838302612,[],,
+chauffer,couteau,obj,NOUN,0.6349921822547913,[],,
+couteau,économe,nmod,NOUN,0.5018488168716431,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]",r_hypo,76.0
+économe,mixeur,nmod,NOUN,0.538520872592926,[],,
+mixeur,bol,nmod,NOUN,0.5581084489822388,"[{""id"": 539977939, ""node1"": 78314, ""node2"": 145405, ""type"": 58, ""w"": -25.0}]",r_quantificateur,-25.0
+titre,cuire,acl,VERB,0.7010467648506165,[],,
+cuire,pois,obj,NOUN,0.6990182995796204,[],,
+pois,cassé,acl,ADJ,0.4897261559963226,"[{""id"": 2132213, ""node1"": 97846, ""node2"": 74259, ""type"": 0, ""w"": 62.0}]",r_associated,62.0
+cuire,volume,obj,NOUN,0.7034350633621216,[],,
+volume,eau,nmod,NOUN,0.5477495789527893,"[{""id"": 30986586, ""node1"": 130885, ""node2"": 65012, ""type"": 0, ""w"": 35.0}, {""id"": 30984090, ""node1"": 130885, ""node2"": 65012, ""type"": 3, ""w"": 30.0}]",r_associated,35.0
+eau,tout,amod,ADJ,0.58939129114151,[],,
+absorber,eau,obj,NOUN,0.5363561511039734,"[{""id"": 417608886, ""node1"": 119570, ""node2"": 65012, ""type"": 0, ""w"": 36.0}, {""id"": 418498301, ""node1"": 119570, ""node2"": 65012, ""type"": 3, ""w"": 31.0}, {""id"": 374234259, ""node1"": 119570, ""node2"": 65012, ""type"": 14, ""w"": 31.0}]",r_associated,36.0
+éplucher,courge,obj,NOUN,0.6035500764846802,"[{""id"": 478793457, ""node1"": 59879, ""node2"": 28560, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+ajouter,courge,obj,NOUN,0.6352290511131287,[],,
+lait,fonction,nmod,NOUN,0.58894944190979,[],,
+épaisseur,soupe,nmod,NOUN,0.6469064950942993,[],,
+soupe,désirer,acl,VERB,0.6445302367210388,[],,
+attache,cela,nsubj,PRON,0.415327250957489,[],,
+cuire,courge,nsubj:pass,NOUN,0.7785418629646301,[],,
+couteau,pointu,amod,ADJ,0.482959508895874,"[{""id"": 118099, ""node1"": 32610, ""node2"": 132632, ""type"": 0, ""w"": 74.0}, {""id"": 98295368, ""node1"": 32610, ""node2"": 132632, ""type"": 17, ""w"": 22.0}, {""id"": 653260657, ""node1"": 32610, ""node2"": 132632, ""type"": 666, ""w"": 3.0}]",r_associated,74.0
+couteau,pénétrer,acl,VERB,0.5006923079490662,"[{""id"": 376182953, ""node1"": 32610, ""node2"": 21845, ""type"": 25, ""w"": 27.0}]",r_instr-1,27.0
+mixer,soupe,obj,NOUN,0.675954282283783,"[{""id"": 108069054, ""node1"": 12170, ""node2"": 117152, ""type"": 0, ""w"": 64.0}, {""id"": 214952107, ""node1"": 12170, ""node2"": 117152, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+cuire,ajouter,advcl,VERB,0.695756196975708,[],,
+noix,muscade,nmod,NOUN,0.5663605332374573,"[{""id"": 796773628, ""node1"": 30910, ""node2"": 115297, ""type"": 0, ""w"": 29.0}]",r_associated,29.0
+noix,sauce,appos,NOUN,0.6910692453384399,[],,
+filet,huile,nmod,NOUN,0.6150403022766113,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+cuire,servir,advcl,VERB,0.7140127420425415,[],,
+servir,saupoudrer,obj,ADV,0.5305911898612976,[],,

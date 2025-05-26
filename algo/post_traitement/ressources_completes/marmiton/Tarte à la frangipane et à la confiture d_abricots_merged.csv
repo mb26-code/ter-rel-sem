@@ -1,0 +1,43 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+confiture,abricot,nmod,NOUN,0.5505228042602539,"[{""id"": 411049, ""node1"": 70793, ""node2"": 118502, ""type"": 0, ""w"": 141.0}, {""id"": 11340043, ""node1"": 70793, ""node2"": 118502, ""type"": 28, ""w"": 38.0}]",r_associated,141.0
+abricot,ingrédient,nmod,NOUN,0.5764672756195068,[],,
+abricot,sucre,appos,NOUN,0.6467581391334534,"[{""id"": 9979847, ""node1"": 118502, ""node2"": 139481, ""type"": 0, ""w"": 14.0}, {""id"": 181619, ""node1"": 118502, ""node2"": 139481, ""type"": 9, ""w"": 90.0}]",r_has_part,90.0
+sucre,glace,nmod,NOUN,0.651667594909668,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -126.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]",r_associated,111.0
+sucre,extraire,amod,VERB,0.6370642185211182,[],,
+amande,amer,amod,ADJ,0.4998033344745636,"[{""id"": 32026728, ""node1"": 28557, ""node2"": 97910, ""type"": 17, ""w"": 21.0}]",r_carac,21.0
+sucre,sucre,amod,NOUN,0.6199788451194763,"[{""id"": 335264, ""node1"": 139481, ""node2"": 139481, ""type"": 19, ""w"": 142.0}, {""id"": 93901596, ""node1"": 139481, ""node2"": 139481, ""type"": 50, ""w"": -27.0}, {""id"": 376041081, ""node1"": 139481, ""node2"": 139481, ""type"": 51, ""w"": 28.0}]",r_lemma,142.0
+sucre,beurre,nmod,NOUN,0.6973879933357239,[],,
+sucre,pâte,nmod,NOUN,0.7055894136428833,"[{""id"": 1011319149, ""node1"": 139481, ""node2"": 34069, ""type"": 0, ""w"": 10.0}, {""id"": 376037855, ""node1"": 139481, ""node2"": 34069, ""type"": 51, ""w"": 35.0}]",r_mater>object,35.0
+sucre,feuilleter,amod,VERB,0.6479068994522095,[],,
+tarte,confiture,nmod,NOUN,0.6382361650466919,"[{""id"": 588370923, ""node1"": 575, ""node2"": 70793, ""type"": 0, ""w"": 127.0}, {""id"": 241281777, ""node1"": 575, ""node2"": 70793, ""type"": 28, ""w"": 2.0}]",r_associated,127.0
+abricot,oeuf,obj,NOUN,0.5373929738998413,[],,
+oeuf,noix,nmod,NOUN,0.598024308681488,[],,
+noix,farine,nmod,NOUN,0.6502245664596558,[],,
+casserole,saladier,nmod,NOUN,0.6254573464393616,[],,
+saladier,four,nmod,NOUN,0.6991847157478333,[],,
+four,fourchette,nmod,NOUN,0.6831614375114441,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+blanc,jaune,nmod,NOUN,0.4685034155845642,"[{""id"": 246331, ""node1"": 15196, ""node2"": 86711, ""type"": 0, ""w"": 56.0}]",r_associated,56.0
+mélanger,jaune,obj,NOUN,0.5585520267486572,[],,
+jaune,sucre,nmod,NOUN,0.6481616497039795,[],,
+fondre,poudre,nsubj,NOUN,0.593189001083374,[],,
+poudre,amande,nmod,NOUN,0.5705900192260742,[],,
+mélanger,fondre,advcl,VERB,0.5295987725257874,"[{""id"": 937512, ""node1"": 37151, ""node2"": 16480, ""type"": 0, ""w"": 32.0}, {""id"": 54439653, ""node1"": 37151, ""node2"": 16480, ""type"": 5, ""w"": 93.0}]",r_syn,93.0
+placer,extrait,nsubj,NOUN,0.4339456558227539,[],,
+extrait,amande,nmod,NOUN,0.4902372062206268,[],,
+amande,neige,nmod,NOUN,0.5255689024925232,[],,
+placer,pâte,obj,NOUN,0.6444304585456848,[],,
+aide,fourchette,nmod,NOUN,0.4181736707687378,[],,
+étaler,confiture,obj,NOUN,0.5524501204490662,"[{""id"": 12052842, ""node1"": 98214, ""node2"": 70793, ""type"": 0, ""w"": 74.0}, {""id"": 220536, ""node1"": 98214, ""node2"": 70793, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparation,pâte,nmod,NOUN,0.6407255530357361,"[{""id"": 920490588, ""node1"": 33634, ""node2"": 34069, ""type"": 0, ""w"": 20.0}, {""id"": 246257612, ""node1"": 33634, ""node2"": 34069, ""type"": 8, ""w"": 43.0}]",r_hypo,43.0
+four,200,nmod,NUM,0.5053980350494385,[],,
+cuire,tarte,obj,NOUN,0.7676823139190674,"[{""id"": 366203028, ""node1"": 5115, ""node2"": 575, ""type"": 0, ""w"": 34.0}, {""id"": 15083668, ""node1"": 5115, ""node2"": 575, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+glaçage,Mélangez,appos,PROPN,0.5080483555793762,[],,
+Mélangez,sucre,obj,NOUN,0.6073954105377197,[],,
+peu,eau,nmod,NOUN,0.5583444833755493,[],,
+obtenir,pâte,obj,NOUN,0.6173189282417297,[],,
+pâte,épais,amod,ADJ,0.6241465210914612,"[{""id"": 96931429, ""node1"": 34069, ""node2"": 55342, ""type"": 17, ""w"": 23.0}]",r_carac,23.0
+glaçage,tarte,nmod,NOUN,0.6346149444580078,[],,
+tarte,chaud,amod,ADJ,0.685809314250946,"[{""id"": 2481733, ""node1"": 575, ""node2"": 19150, ""type"": 17, ""w"": 30.0}]",r_carac,30.0

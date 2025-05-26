@@ -1,0 +1,21 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+hors,noir,amod,ADJ,0.4502172470092773,"[{""id"": 561378023, ""node1"": 99013, ""node2"": 64238, ""type"": 0, ""w"": 47.0}]",r_associated,47.0
+ingrédient,lieu,appos,NOUN,0.4700241386890411,"[{""id"": 15303736, ""node1"": 123418, ""node2"": 135190, ""type"": 0, ""w"": 30.0}, {""id"": 569277402, ""node1"": 123418, ""node2"": 135190, ""type"": 8, ""w"": 45.0}, {""id"": 15173660, ""node1"": 123418, ""node2"": 135190, ""type"": 27, ""w"": -30.0}]",r_hypo,45.0
+lieu,noir,amod,ADJ,0.4406268298625946,"[{""id"": 142345, ""node1"": 135190, ""node2"": 64238, ""type"": 0, ""w"": 89.0}, {""id"": 9641643, ""node1"": 135190, ""node2"": 64238, ""type"": 8, ""w"": 32.0}, {""id"": 229793, ""node1"": 135190, ""node2"": 64238, ""type"": 17, ""w"": 62.0}, {""id"": 3163455, ""node1"": 135190, ""node2"": 64238, ""type"": 106, ""w"": 19.0}]",r_associated,89.0
+crevette,sauce,amod,NOUN,0.691152811050415,"[{""id"": 988032453, ""node1"": 106607, ""node2"": 141110, ""type"": 666, ""w"": 3.0}]",r_aki,3.0
+ingrédient,baguette,nmod,NOUN,0.6464614868164062,[],,
+ingrédient,étape,appos,NOUN,0.4697338342666626,[],,
+ingrédient,préparer,acl,ADP,0.6240276098251343,[],,
+préparer,sauce,obj,NOUN,0.6940045356750488,"[{""id"": 395781320, ""node1"": 36246, ""node2"": 141110, ""type"": 0, ""w"": 35.0}, {""id"": 373014451, ""node1"": 36246, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparer,hollandais,amod,ADJ,0.4726298451423645,[],,
+mettre,crevette,obj,NOUN,0.570980966091156,[],,
+lieu,morceau,nmod,NOUN,0.4585759341716766,"[{""id"": 914939420, ""node1"": 135190, ""node2"": 65364, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+tôle,grand,amod,ADJ,0.5320625305175781,[],,
+deux,tôle,nmod,NOUN,0.4583198130130768,[],,
+tôle,biscuit,nmod,NOUN,0.5619392395019531,[],,
+verser,préparation,obj,NOUN,0.5208573341369629,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparation,sauce,nmod,NOUN,0.6986916661262512,"[{""id"": 9903071, ""node1"": 33634, ""node2"": 141110, ""type"": 0, ""w"": 54.0}, {""id"": 422811, ""node1"": 33634, ""node2"": 141110, ""type"": 8, ""w"": 63.0}]",r_hypo,63.0
+préparation,pain,nmod,NOUN,0.677780270576477,"[{""id"": 601611809, ""node1"": 33634, ""node2"": 61283, ""type"": 0, ""w"": 42.0}]",r_associated,42.0
+verser,mettre,advcl,VERB,0.4680196940898895,"[{""id"": 54310633, ""node1"": 104506, ""node2"": 132366, ""type"": 0, ""w"": 23.0}, {""id"": 53740702, ""node1"": 104506, ""node2"": 132366, ""type"": 5, ""w"": 86.0}]",r_syn,86.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+morceau,lieu,nmod,NOUN,0.4585759341716766,"[{""id"": 560988018, ""node1"": 65364, ""node2"": 135190, ""type"": 0, ""w"": 68.0}]",r_associated,68.0

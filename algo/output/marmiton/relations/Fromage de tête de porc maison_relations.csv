@@ -1,0 +1,56 @@
+node1,node2,relations
+fromage,tête,[]
+tête,porc,"[{""id"": 602021694, ""node1"": 144846, ""node2"": 71135, ""type"": 0, ""w"": 15.0}, {""id"": 10122555, ""node1"": 144846, ""node2"": 71135, ""type"": 10, ""w"": 9.0}]"
+porc,maison,[]
+fromage,ingrédient,"[{""id"": 24850717, ""node1"": 141687, ""node2"": 123418, ""type"": 0, ""w"": 34.0}, {""id"": 24842103, ""node1"": 141687, ""node2"": 123418, ""type"": 6, ""w"": 233.0}]"
+sel,gros,"[{""id"": 188164, ""node1"": 13260, ""node2"": 88096, ""type"": 0, ""w"": 60.0}, {""id"": 645838, ""node1"": 13260, ""node2"": 88096, ""type"": 17, ""w"": 60.0}]"
+fromage,sel,"[{""id"": 24569973, ""node1"": 141687, ""node2"": 13260, ""type"": 0, ""w"": 22.0}, {""id"": 24567308, ""node1"": 141687, ""node2"": 13260, ""type"": 9, ""w"": 51.0}, {""id"": 96698082, ""node1"": 141687, ""node2"": 13260, ""type"": 50, ""w"": 27.0}]"
+sel,poireau,[]
+sel,poivre,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]"
+poivre,persil,[]
+fromage,vinaigre,"[{""id"": 3317011, ""node1"": 141687, ""node2"": 145443, ""type"": 777, ""w"": 8.0}]"
+vinaigre,vin,"[{""id"": 260680, ""node1"": 145443, ""node2"": 35798, ""type"": 0, ""w"": 213.0}, {""id"": 82356060, ""node1"": 145443, ""node2"": 35798, ""type"": 6, ""w"": 36.0}, {""id"": 375688370, ""node1"": 145443, ""node2"": 35798, ""type"": 56, ""w"": 35.0}, {""id"": 1527098, ""node1"": 145443, ""node2"": 35798, ""type"": 666, ""w"": 2.0}]"
+vin,porc,[]
+vin,langue,"[{""id"": 665745540, ""node1"": 35798, ""node2"": 52119, ""type"": 0, ""w"": 21.0}]"
+langue,vin,[]
+vin,blanc,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]"
+vin,sec,"[{""id"": 558785883, ""node1"": 35798, ""node2"": 63619, ""type"": 0, ""w"": 55.0}]"
+vinaigre,bouquet,[]
+bouquet,garni,[]
+casserole,moule,[]
+saladier,bol,"[{""id"": 2284782, ""node1"": 45455, ""node2"": 145405, ""type"": 0, ""w"": 73.0}, {""id"": 979970161, ""node1"": 45455, ""node2"": 145405, ""type"": 666, ""w"": 3.0}]"
+bol,étape,[]
+fromage,rincer,[]
+rincer,tête,[]
+langue,eau,"[{""id"": 23229182, ""node1"": 52119, ""node2"": 65012, ""type"": 15, ""w"": 31.0}]"
+eau,frais,[]
+tremper,heure,[]
+eau,froid,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]"
+ajouter,disposer,[]
+marmite,grand,[]
+disposer,marmite,[]
+disposer,couvrir,"[{""id"": 54304424, ""node1"": 116780, ""node2"": 119824, ""type"": 0, ""w"": 30.0}, {""id"": 53757528, ""node1"": 116780, ""node2"": 119824, ""type"": 5, ""w"": 85.0}]"
+ajouter,élément,[]
+élément,bouillon,[]
+poignée,petit,[]
+poignée,sel,[]
+baisser,feu,[]
+cuire,heure,[]
+retirer,langue,[]
+égoutter,tête,[]
+chair,récupérer,[]
+casserole,petit,[]
+mettre,vin,[]
+reste,vinaigre,[]
+poivre,faire,[]
+moitié,feu,[]
+feu,doux,[]
+mélanger,tout,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]"
+terrine,cake,[]
+terrine,viande,"[{""id"": 892829958, ""node1"": 111516, ""node2"": 140100, ""type"": 0, ""w"": 21.0}, {""id"": 1017994613, ""node1"": 111516, ""node2"": 140100, ""type"": 50, ""w"": 27.0}, {""id"": 988706512, ""node1"": 111516, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]"
+réduction,vin,[]
+bol,petit,[]
+Ajoutez,bol,[]
+bol,bouillon,[]
+bouillon,cuisson,"[{""id"": 8798118, ""node1"": 146582, ""node2"": 60056, ""type"": 0, ""w"": 6.0}]"
+cuisson,tête,[]

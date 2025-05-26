@@ -1,0 +1,49 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,rouille,nmod,NOUN,0.4514230191707611,[],,
+rouille,facile,amod,ADJ,0.4602836966514587,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,sel,appos,NOUN,0.6997572183609009,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+ingrédient,poulpe,appos,NOUN,0.586702823638916,[],,
+titre,bouquet,nmod,NOUN,0.4125308692455292,[],,
+bouquet,garni,amod,ADJ,0.4469667077064514,[],,
+bouquet,concentrer,acl,VERB,0.449175626039505,[],,
+tomate,pomme,amod,NOUN,0.6068177223205566,"[{""id"": 417790520, ""node1"": 22138, ""node2"": 37201, ""type"": 0, ""w"": 15.0}]",r_associated,15.0
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+casserole,set,obj,NOUN,0.4378535151481628,[],,
+casserole,louche,obj,NOUN,0.5996624231338501,"[{""id"": 17498824, ""node1"": 57253, ""node2"": 124144, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+louche,mixeur,nmod,NOUN,0.5896725058555603,[],,
+mixeur,couteau,nmod,NOUN,0.573357105255127,[],,
+couteau,économe,nmod,NOUN,0.5018488168716431,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]",r_hypo,76.0
+mixeur,étape,nmod,NOUN,0.5223461985588074,[],,
+cuire,poulpe,obj,NOUN,0.72565758228302,[],,
+poulpe,couper,acl,VERB,0.5268400311470032,[],,
+eau,tiède,amod,ADJ,0.5831737518310547,"[{""id"": 796965917, ""node1"": 65012, ""node2"": 13843, ""type"": 0, ""w"": 29.0}, {""id"": 128780, ""node1"": 65012, ""node2"": 13843, ""type"": 17, ""w"": 73.0}, {""id"": 600063832, ""node1"": 65012, ""node2"": 13843, ""type"": 27, ""w"": 32.0}]",r_carac,73.0
+eau,feuille,nmod,NOUN,0.5719302296638489,"[{""id"": 92682401, ""node1"": 65012, ""node2"": 37993, ""type"": 28, ""w"": 4.0}]",r_lieu-1,4.0
+feuille,laurier,nmod,NOUN,0.4908609986305237,"[{""id"": 15624759, ""node1"": 37993, ""node2"": 114548, ""type"": 0, ""w"": 29.0}, {""id"": 14620301, ""node1"": 37993, ""node2"": 114548, ""type"": 10, ""w"": 36.0}]",r_holo,36.0
+eau,thym,nmod,NOUN,0.6566281318664551,[],,
+gousse,ail,nmod,NOUN,0.5501744151115417,"[{""id"": 1841967, ""node1"": 3889, ""node2"": 26979, ""type"": 0, ""w"": 58.0}, {""id"": 665112731, ""node1"": 3889, ""node2"": 26979, ""type"": 174, ""w"": 40.0}, {""id"": 714921743, ""node1"": 3889, ""node2"": 26979, ""type"": 666, ""w"": 3.0}]",r_associated,58.0
+salé,petit,amod,ADJ,0.6185298562049866,[],,
+revenir,couper,advcl,VERB,0.4592203795909881,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+revenir,ajouter,advcl,VERB,0.4373447000980377,[],,
+revenir,gousse,obj,NOUN,0.5327615141868591,[],,
+gousse,haché,acl,ADJ,0.5432020425796509,[],,
+gousse,persil,nmod,NOUN,0.5697336196899414,[],,
+gousse,laurier,appos,NOUN,0.5073029398918152,[],,
+concentré,tomate,nmod,NOUN,0.6039107441902161,[],,
+passer,cuire,advcl,VERB,0.690819501876831,[],,
+passer,préparation,obj,NOUN,0.5082688927650452,[],,
+ajouter,louche,obj,NOUN,0.5061096549034119,[],,
+louche,eau,nmod,NOUN,0.5861531496047974,"[{""id"": 96723681, ""node1"": 124144, ""node2"": 65012, ""type"": 28, ""w"": 31.0}, {""id"": 7644778, ""node1"": 124144, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]",r_lieu-1,31.0
+eau,cuisson,nmod,NOUN,0.6715990304946899,"[{""id"": 489016047, ""node1"": 65012, ""node2"": 60056, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+cuisson,poulpe,nmod,NOUN,0.6984311938285828,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+pomme,couper,acl,VERB,0.5794677734375,"[{""id"": 31839899, ""node1"": 37201, ""node2"": 128828, ""type"": 26, ""w"": 64.0}]",r_patient-1,64.0
+morceau,gros,amod,ADJ,0.4822109341621399,[],,
+cuire,le,obj,PRON,0.4500194191932678,[],,
+eau,poulpe,nmod,NOUN,0.5905449986457825,[],,
+cuire,lui,nsubj:pass,PRON,0.6200059056282043,[],,
+reste,préparation,nmod,NOUN,0.5082931518554688,[],,
+mayonnaise,ail,nmod,AUX,0.5850731730461121,[],,
+préparation,tiède,amod,ADJ,0.5999394655227661,[],,

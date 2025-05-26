@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,cuisine,obj,NOUN,0.6019042730331421,[],,
+pâtisserie,eau,nmod,NOUN,0.6095578670501709,"[{""id"": 957282646, ""node1"": 25966, ""node2"": 65012, ""type"": 0, ""w"": 22.0}, {""id"": 462782147, ""node1"": 25966, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]",r_associated,22.0
+sorte,pâte,nmod,NOUN,0.6653091311454773,[],,
+sorte,riz,nmod,NOUN,0.6971141695976257,[],,
+riz,cuire,amod,VERB,0.7525243759155273,"[{""id"": 561294219, ""node1"": 24372, ""node2"": 5115, ""type"": 0, ""w"": 39.0}, {""id"": 31823713, ""node1"": 24372, ""node2"": 5115, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+sorte,vapeur,nmod,NOUN,0.5994589328765869,[],,
+sorte,partie,nmod,NOUN,0.4697328805923462,[],,
+partie,cuisine,nmod,NOUN,0.6150622963905334,[],,
+cuisine,Singapour,nmod,PROPN,0.5752129554748535,"[{""id"": 428535278, ""node1"": 16033, ""node2"": 119820, ""type"": 0, ""w"": 8.0}, {""id"": 83794323, ""node1"": 16033, ""node2"": 119820, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+farine,riz,nmod,NOUN,0.6880448460578918,"[{""id"": 423997352, ""node1"": 127629, ""node2"": 24372, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+mélanger,eau,nsubj:pass,NOUN,0.5951334238052368,[],,
+mélanger,former,advcl,VERB,0.4532047212123871,[],,
+placer,lui,nsubj:pass,PRON,0.4069560468196869,[],,
+récipient,petit,amod,ADJ,0.602883517742157,[],,
+récipient,forme,nmod,NOUN,0.5639658570289612,[],,
+forme,bol,nmod,NOUN,0.5603101849555969,[],,
+placer,prendre,advcl,VERB,0.4263812005519867,[],,
+prendre,forme,obj,NOUN,0.4647745192050934,"[{""id"": 488344148, ""node1"": 86306, ""node2"": 142000, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+forme,caractéristique,amod,ADJ,0.428578644990921,"[{""id"": 373114389, ""node1"": 142000, ""node2"": 87150, ""type"": 17, ""w"": 106.0}]",r_carac,106.0
+servir,gâteau,nsubj:pass,NOUN,0.6561538577079773,"[{""id"": 99077307, ""node1"": 7888, ""node2"": 2149, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+élément,populaire,amod,ADJ,0.4527062475681305,[],,
+déjeuner,petit,amod,ADJ,0.5158843398094177,"[{""id"": 12233362, ""node1"": 78845, ""node2"": 55222, ""type"": 0, ""w"": 34.0}, {""id"": 706705, ""node1"": 78845, ""node2"": 55222, ""type"": 5, ""w"": 27.0}]",r_associated,34.0
+élément,déjeuner,nmod,NOUN,0.5332643389701843,[],,
+élément,Singapour,nmod,PROPN,0.4276654422283172,[],,

@@ -1,0 +1,47 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,poulet,nmod,NOUN,0.5722964406013489,[],,
+poulet,citron,nmod,NOUN,0.6714823246002197,[],,
+citron,ingrédient,nmod,NOUN,0.6618138551712036,[],,
+titre,sel,nmod,NOUN,0.6524047255516052,[],,
+sel,poivre,acl,NOUN,0.6562960147857666,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,farine,nmod,NOUN,0.714920699596405,[],,
+poivre,blé,nmod,NOUN,0.5967937111854553,[],,
+titre,crème,nmod,NOUN,0.5810406804084778,[],,
+crème,poulet,nmod,NOUN,0.6939483284950256,[],,
+poulet,entier,amod,ADJ,0.5897768139839172,[],,
+crème,vin,amod,NOUN,0.6820714473724365,[],,
+vin,blanc,amod,ADJ,0.5966135263442993,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+titre,eau,nmod,NOUN,0.5673993229866028,"[{""id"": 368369040, ""node1"": 7970, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+eau,citron,appos,NOUN,0.6274375915527344,"[{""id"": 190529862, ""node1"": 65012, ""node2"": 15386, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+eau,beurre,amod,NOUN,0.6659050583839417,[],,
+couteau,marmite,nmod,NOUN,0.6699411869049072,[],,
+couvercle,cuillère,nmod,NOUN,0.6151049137115479,[],,
+cuillère,bois,nmod,NOUN,0.5890449285507202,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,planche,nmod,NOUN,0.5684601068496704,[],,
+cuillère,découper,acl,VERB,0.5791822075843811,[],,
+découper,balance,obj,NOUN,0.5031365156173706,[],,
+balance,cuisine,nmod,NOUN,0.6009083986282349,[],,
+balance,étape,nmod,NOUN,0.4731250703334808,[],,
+balance,commencer,acl,VERB,0.4610281884670257,[],,
+commencer,découper,advcl,VERB,0.4618091583251953,[],,
+découper,poulet,obj,NOUN,0.6462233662605286,"[{""id"": 273145, ""node1"": 45686, ""node2"": 146261, ""type"": 0, ""w"": 57.0}, {""id"": 344379915, ""node1"": 45686, ""node2"": 146261, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+revenir,morceau,obj,NOUN,0.5926900506019592,[],,
+morceau,poulet,nmod,NOUN,0.662783145904541,"[{""id"": 775213395, ""node1"": 65364, ""node2"": 146261, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+beurre,feu,nmod,NOUN,0.636816143989563,[],,
+feu,moyen,amod,ADJ,0.5622571110725403,[],,
+ajouter,coloré,advcl,ADJ,0.5001966953277588,[],,
+ajouter,échalote,obj,NOUN,0.5641784071922302,[],,
+bout,minute,nmod,NOUN,0.4638167321681976,[],,
+ajouter,farine,obj,NOUN,0.6637072563171387,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ajouter,vin,obj,NOUN,0.6184956431388855,[],,
+mélanger,tout,obj,NOUN,0.5503163933753967,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]",r_patient,110.0
+mélanger,obtenir,advcl,VERB,0.4698809087276459,[],,
+obtenir,sauce,obj,NOUN,0.6787638068199158,"[{""id"": 373013766, ""node1"": 102671, ""node2"": 141110, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+sauce,homogène,amod,ADJ,0.6680773496627808,[],,
+cuire,minute,obj,NOUN,0.7055090665817261,[],,
+ajouter,jus,obj,NOUN,0.579009473323822,[],,
+jus,citron,nmod,NOUN,0.5810989141464233,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+crème,frais,amod,ADJ,0.5870347619056702,[],,
+mijoter,minute,obj,NOUN,0.6281461119651794,[],,
+servir,accompagner,acl,VERB,0.4603842794895172,[],,
+riz,frais,amod,ADJ,0.6633402109146118,[],,

@@ -1,0 +1,32 @@
+head,lemma,dep,pos,sim,relation
+nid,ingrédient,nmod,NOUN,0.4277175068855285,[]
+nid,beurre,amod,NOUN,0.495170384645462,[]
+beurre,sucre,acl,NOUN,0.6973879933357239,"[{""id"": 500926020, ""node1"": 140377, ""node2"": 139481, ""type"": 0, ""w"": 2.0}]"
+sucre,miel,amod,ADJ,0.6510892510414124,"[{""id"": 101425, ""node1"": 139481, ""node2"": 136055, ""type"": 0, ""w"": 86.0}, {""id"": 514429712, ""node1"": 139481, ""node2"": 136055, ""type"": 51, ""w"": 27.0}, {""id"": 1029365120, ""node1"": 139481, ""node2"": 136055, ""type"": 67, ""w"": 35.0}, {""id"": 1032956771, ""node1"": 139481, ""node2"": 136055, ""type"": 78, ""w"": 29.0}, {""id"": 646152034, ""node1"": 139481, ""node2"": 136055, ""type"": 666, ""w"": 7.0}]"
+nid,pâte,amod,NOUN,0.558342456817627,[]
+brioche,amande,nmod,NOUN,0.6026446223258972,"[{""id"": 580539431, ""node1"": 140188, ""node2"": 28557, ""type"": 0, ""w"": 35.0}]"
+amande,crème,amod,NOUN,0.5983988642692566,[]
+crème,pâtissier,amod,ADJ,0.6173038482666016,"[{""id"": 561269853, ""node1"": 44001, ""node2"": 31618, ""type"": 0, ""w"": 41.0}]"
+brioche,moule,nmod,NOUN,0.5927215218544006,"[{""id"": 580539438, ""node1"": 140188, ""node2"": 143723, ""type"": 0, ""w"": 39.0}]"
+moule,tarte,nmod,NOUN,0.598731517791748,"[{""id"": 201624, ""node1"": 143723, ""node2"": 575, ""type"": 0, ""w"": 130.0}]"
+brioche,rouleau,nmod,NOUN,0.5886921286582947,[]
+rouleau,pâtisserie,nmod,NOUN,0.510869026184082,"[{""id"": 34655902, ""node1"": 59019, ""node2"": 25966, ""type"": 0, ""w"": 31.0}]"
+pâtisserie,casserole,appos,NOUN,0.7126062512397766,[]
+casserole,four,nmod,NOUN,0.7147663235664368,[]
+four,couvercle,nmod,NOUN,0.6759926676750183,[]
+couvercle,couteau,nmod,NOUN,0.5890913009643555,[]
+couvercle,balance,nmod,NOUN,0.5437039136886597,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+rouleau,étape,nmod,NOUN,0.4153213798999786,[]
+abaisser,pâte,obj,NOUN,0.6263210773468018,"[{""id"": 273961073, ""node1"": 108664, ""node2"": 34069, ""type"": 0, ""w"": 51.0}, {""id"": 216670777, ""node1"": 108664, ""node2"": 34069, ""type"": 14, ""w"": 100.0}]"
+pâte,brioche,nmod,NOUN,0.6476731300354004,"[{""id"": 799190678, ""node1"": 34069, ""node2"": 140188, ""type"": 0, ""w"": 21.0}, {""id"": 8151869, ""node1"": 34069, ""node2"": 140188, ""type"": 777, ""w"": 10.0}]"
+pâte,moule,nmod,NOUN,0.626121997833252,"[{""id"": 31821230, ""node1"": 34069, ""node2"": 143723, ""type"": 15, ""w"": 52.0}]"
+casserole,gramme,nmod,NOUN,0.5767041444778442,[]
+gramme,beurre,nmod,NOUN,0.6074452996253967,[]
+gramme,sucre,nmod,NOUN,0.6024630069732666,"[{""id"": 720818120, ""node1"": 140383, ""node2"": 139481, ""type"": 174, ""w"": 25.0}]"
+gramme,miel,nmod,NOUN,0.5774697065353394,[]
+gramme,amande,nmod,NOUN,0.5312894582748413,[]
+four,moyen,amod,ADJ,0.663184642791748,[]
+garnir,crème,obj,NOUN,0.6265023350715637,[]
+garnir,surface,obj,NOUN,0.5283612012863159,[]
+surface,couper,acl,VERB,0.492333710193634,[]

@@ -1,0 +1,49 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+recette,portugais,amod,ADJ,0.6065749526023865,[],,
+ingrédient,oignon,appos,ADP,0.6567068099975586,"[{""id"": 24923430, ""node1"": 123418, ""node2"": 123307, ""type"": 0, ""w"": 15.0}, {""id"": 24850729, ""node1"": 123418, ""node2"": 123307, ""type"": 8, ""w"": 28.0}]",r_hypo,28.0
+ingrédient,coriandre,appos,NOUN,0.6818774938583374,[],,
+coriandre,feuille,nmod,NOUN,0.5934115648269653,"[{""id"": 12412141, ""node1"": 61977, ""node2"": 37993, ""type"": 0, ""w"": 61.0}]",r_associated,61.0
+feuille,laurier,nmod,PROPN,0.4919538497924804,"[{""id"": 15624759, ""node1"": 37993, ""node2"": 114548, ""type"": 0, ""w"": 29.0}, {""id"": 14620301, ""node1"": 37993, ""node2"": 114548, ""type"": 10, ""w"": 36.0}]",r_holo,36.0
+coriandre,poulpe,nmod,NOUN,0.57172691822052,[],,
+ingrédient,tomate,nmod,NOUN,0.6893576979637146,"[{""id"": 24923444, ""node1"": 123418, ""node2"": 22138, ""type"": 0, ""w"": 15.0}, {""id"": 24850720, ""node1"": 123418, ""node2"": 22138, ""type"": 8, ""w"": 30.0}]",r_hypo,30.0
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+couteau,moule,nmod,NOUN,0.5597949624061584,[],,
+moule,tarte,nmod,NOUN,0.5975601077079773,"[{""id"": 201624, ""node1"": 143723, ""node2"": 575, ""type"": 0, ""w"": 130.0}]",r_associated,130.0
+cuillère,bois,nmod,NOUN,0.5890449285507202,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,pinceau,appos,NOUN,0.5115469694137573,[],,
+pinceau,planche,nmod,NOUN,0.4728540778160095,[],,
+pinceau,découper,acl,VERB,0.4713239073753357,[],,
+découper,étape,obj,NOUN,0.4833098649978637,[],,
+éliminer,déchet,obj,NOUN,0.4254295229911804,[],,
+déchet,bec,appos,NOUN,0.456295907497406,[],,
+cuire,poulpe,obj,NOUN,0.7174718379974365,[],,
+eau,saler,amod,ADJ,0.6469343900680542,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+eau,oignon,nmod,ADV,0.620817244052887,[],,
+eau,couper,acl,VERB,0.5869547128677368,"[{""id"": 376164896, ""node1"": 65012, ""node2"": 128828, ""type"": 25, ""w"": 32.0}]",r_instr-1,32.0
+variable,temps,nsubj,NOUN,0.4708866477012634,"[{""id"": 368545, ""node1"": 6651, ""node2"": 13861, ""type"": 0, ""w"": 53.0}]",r_associated,53.0
+eau,compte,acl,VERB,0.5437556505203247,[],,
+morceau,moyen,amod,ADJ,0.5508471131324768,[],,
+cuire,le,obj,PRON,0.4550628960132599,[],,
+pomme,cuire,acl,VERB,0.7674765586853027,"[{""id"": 195277465, ""node1"": 37201, ""node2"": 5115, ""type"": 24, ""w"": 31.0}, {""id"": 96711599, ""node1"": 37201, ""node2"": 5115, ""type"": 26, ""w"": 55.0}]",r_patient-1,55.0
+cuire,enlever,advcl,VERB,0.6757940053939819,[],,
+enlever,peau,obj,NOUN,0.4956804513931274,"[{""id"": 15076500, ""node1"": 82345, ""node2"": 109785, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+fois,cuire,acl,VERB,0.6819664835929871,[],,
+devoir,couteau,nsubj,NOUN,0.4968730211257934,[],,
+poêle,grand,amod,ADJ,0.6330270171165466,[],,
+revenir,oignon,obj,NOUN,0.612179696559906,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+fond,huile,nmod,NOUN,0.6093328595161438,[],,
+huile,olive,nmod,NOUN,0.573360800743103,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+prendre,couleur,obj,NOUN,0.5080233812332153,[],,
+ajouter,tomate,obj,NOUN,0.6339743733406067,"[{""id"": 1035582956, ""node1"": 25099, ""node2"": 22138, ""type"": 13, ""w"": 29.0}]",r_agent,29.0
+tomate,couper,acl,VERB,0.630133867263794,"[{""id"": 920912564, ""node1"": 22138, ""node2"": 128828, ""type"": 0, ""w"": 21.0}, {""id"": 628044041, ""node1"": 22138, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+ajouter,pomme,obj,NOUN,0.6086653470993042,[],,
+dorer,minute,obj,NOUN,0.5546267628669739,[],,
+mélanger,rajouter,advcl,VERB,0.50924152135849,[],,
+rajouter,poulpe,obj,NOUN,0.5139170289039612,[],,
+mélanger,délicatement,obj,ADV,0.5466454029083252,"[{""id"": 373014854, ""node1"": 37151, ""node2"": 81791, ""type"": 34, ""w"": 26.0}]",r_manner,26.0
+sel,convenance,nmod,NOUN,0.6628161668777466,[],,
+fleur,sel,nmod,NOUN,0.6602649688720703,"[{""id"": 796703205, ""node1"": 28985, ""node2"": 13260, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+sel,préférence,nmod,NOUN,0.6682748198509216,[],,
+ajouter,coriandre,obj,NOUN,0.5915305614471436,[],,
+mélanger,fois,obj,NOUN,0.4901976585388183,[],,
+conseiller,que,obj,PRON,0.4022995233535766,[],,

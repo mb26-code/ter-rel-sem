@@ -1,0 +1,50 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+pâte,amande,nmod,NOUN,0.6341812610626221,"[{""id"": 796691772, ""node1"": 34069, ""node2"": 28557, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+pâte,eau,nmod,NOUN,0.6791620850563049,"[{""id"": 12437285, ""node1"": 34069, ""node2"": 65012, ""type"": 0, ""w"": 59.0}, {""id"": 96931365, ""node1"": 34069, ""node2"": 65012, ""type"": 50, ""w"": 15.0}, {""id"": 650992493, ""node1"": 34069, ""node2"": 65012, ""type"": 666, ""w"": 5.0}]",r_associated,59.0
+eau,rose,nmod,NOUN,0.5732435584068298,"[{""id"": 459007855, ""node1"": 65012, ""node2"": 145583, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+pâte,sucre,nmod,NOUN,0.7055894136428833,"[{""id"": 96931421, ""node1"": 34069, ""node2"": 139481, ""type"": 50, ""w"": 30.0}]",r_object>mater,30.0
+sucre,glace,nmod,NOUN,0.651667594909668,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -126.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]",r_associated,111.0
+sucre,beurre,acl,NOUN,0.6973879933357239,[],,
+beurre,amande,nmod,NOUN,0.6594622731208801,"[{""id"": 500926022, ""node1"": 140377, ""node2"": 28557, ""type"": 0, ""w"": 3.0}]",r_associated,3.0
+sucre,confiture,amod,NOUN,0.6927701830863953,"[{""id"": 244457, ""node1"": 139481, ""node2"": 70793, ""type"": 0, ""w"": 58.0}, {""id"": 1656503, ""node1"": 139481, ""node2"": 70793, ""type"": 20, ""w"": 59.0}, {""id"": 651011196, ""node1"": 139481, ""node2"": 70793, ""type"": 666, ""w"": 2.0}]",r_has_magn,59.0
+confiture,cerise,nmod,NOUN,0.530124843120575,"[{""id"": 796780717, ""node1"": 70793, ""node2"": 49073, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+cerise,eau,appos,NOUN,0.5867905020713806,"[{""id"": 4040953, ""node1"": 49073, ""node2"": 65012, ""type"": 777, ""w"": 5.0}]",r_wiki,5.0
+eau,colorer,acl,VERB,0.6099345684051514,[],,
+colorer,four,nmod,NOUN,0.7091436386108398,[],,
+four,top,nmod,NOUN,0.5501777529716492,"[{""id"": 509203905, ""node1"": 9190, ""node2"": 61057, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+saladier,tamis,nmod,NOUN,0.5371009111404419,[],,
+saladier,poche,appos,NOUN,0.508141279220581,[],,
+poche,balance,nmod,NOUN,0.4087292850017547,"[{""id"": 54692522, ""node1"": 139906, ""node2"": 145190, ""type"": 0, ""w"": 22.0}, {""id"": 54673051, ""node1"": 139906, ""node2"": 145190, ""type"": 5, ""w"": 75.0}]",r_syn,75.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+table,induction,amod,NOUN,0.5181390047073364,[],,
+mélanger,poudre,obj,NOUN,0.6086491346359253,[],,
+poudre,amande,nmod,NOUN,0.5705900192260742,[],,
+ajouter,beurre,obj,NOUN,0.658586859703064,"[{""id"": 373014956, ""node1"": 25099, ""node2"": 140377, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+obtenir,masse,obj,NOUN,0.4028903245925903,[],,
+obtenir,pâte,obj,NOUN,0.6173189282417297,[],,
+pâte,collant,amod,ADJ,0.6284778118133545,[],,
+quantité,faible,amod,ADJ,0.4230814278125763,"[{""id"": 899389093, ""node1"": 78869, ""node2"": 50268, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+suffire,quantité,nsubj,NOUN,0.4417760968208313,"[{""id"": 341316761, ""node1"": 39550, ""node2"": 78869, ""type"": 0, ""w"": 14.0}, {""id"": 1073768261, ""node1"": 39550, ""node2"": 78869, ""type"": 666, ""w"": 2.0}]",r_associated,14.0
+quantité,eau,nmod,NOUN,0.5596113204956055,[],,
+ajouter,poudre,obj,NOUN,0.5711148977279663,[],,
+amande,colorant,nmod,NOUN,0.5830684304237366,[],,
+colorant,choix,nmod,NOUN,0.4810028076171875,[],,
+équivalent,noix,nmod,NOUN,0.5501437783241272,[],,
+noix,pâte,nmod,NOUN,0.6763495802879333,[],,
+noix,amande,nmod,NOUN,0.5749162435531616,"[{""id"": 138356, ""node1"": 30910, ""node2"": 28557, ""type"": 0, ""w"": 54.0}, {""id"": 968498767, ""node1"": 30910, ""node2"": 28557, ""type"": 666, ""w"": 3.0}]",r_associated,54.0
+former,boule,obj,NOUN,0.4745096266269684,"[{""id"": 461428458, ""node1"": 66314, ""node2"": 141883, ""type"": 14, ""w"": 41.0}]",r_patient,41.0
+former,cavité,obj,NOUN,0.4161035716533661,[],,
+cavité,appuyer,acl,VERB,0.409758448600769,[],,
+doigt,petit,amod,ADJ,0.4428950250148773,"[{""id"": 796856198, ""node1"": 62706, ""node2"": 55222, ""type"": 0, ""w"": 22.0}, {""id"": 3182887, ""node1"": 62706, ""node2"": 55222, ""type"": 17, ""w"": 35.0}]",r_carac,35.0
+pouvoir,pâte,nsubj,NOUN,0.6342818737030029,[],,
+pouvoir,plaque,obj,NOUN,0.4960008859634399,[],,
+plaque,aller,acl,VERB,0.4935675859451294,[],,
+épuisement,pâte,nmod,NOUN,0.6278958320617676,[],,
+poche,petit,amod,ADJ,0.4657206535339355,[],,
+amande,confiture,nmod,NOUN,0.5916533470153809,[],,
+amande,creux,nmod,NOUN,0.5083130598068237,[],,
+cuire,c,obj,NOUN,0.4126093685626983,[],,
+cuire,déformation,obj,NOUN,0.7132909297943115,[],,
+déformation,pâte,nmod,NOUN,0.6147835850715637,[],,
+amande,devoir,amod,ADJ,0.5190287232398987,[],,
+aller,pâte,nsubj,NOUN,0.6216835975646973,[],,

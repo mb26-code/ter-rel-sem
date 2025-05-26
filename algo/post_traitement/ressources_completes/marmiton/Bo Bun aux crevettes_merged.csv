@@ -1,0 +1,57 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+coriandre,vinaigre,acl,NOUN,0.6785361170768738,[],,
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,carotte,amod,NOUN,0.6183044910430908,[],,
+poudre,rose,amod,ADJ,0.5352180004119873,"[{""id"": 28298059, ""node1"": 139470, ""node2"": 145583, ""type"": 106, ""w"": 1.0}]",r_has_color,1.0
+concombre,radis,obj,NOUN,0.4971347451210022,[],,
+concombre,long,amod,ADJ,0.4666792750358581,"[{""id"": 110142, ""node1"": 31570, ""node2"": 84432, ""type"": 0, ""w"": 70.0}, {""id"": 1782438, ""node1"": 31570, ""node2"": 84432, ""type"": 666, ""w"": 3.0}]",r_associated,70.0
+eau,menthe,acl,VERB,0.5923354625701904,[],,
+eau,grillé,amod,ADJ,0.6454381346702576,"[{""id"": 914823271, ""node1"": 65012, ""node2"": 141899, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+concombre,bol,obj,NOUN,0.548167884349823,[],,
+bol,casserole,nmod,NOUN,0.5670263171195984,[],,
+concombre,balance,obj,NOUN,0.5346765518188477,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+balance,carotte,appos,NOUN,0.5528950095176697,[],,
+verser,verre,obj,NOUN,0.5500485897064209,"[{""id"": 384991, ""node1"": 104506, ""node2"": 144497, ""type"": 0, ""w"": 70.0}, {""id"": 220538, ""node1"": 104506, ""node2"": 144497, ""type"": 14, ""w"": 60.0}, {""id"": 154209, ""node1"": 104506, ""node2"": 144497, ""type"": 16, ""w"": 80.0}, {""id"": 391688, ""node1"": 104506, ""node2"": 144497, ""type"": 31, ""w"": 110.0}]",r_action_lieu,110.0
+verre,vinaigre,nmod,NOUN,0.5983397364616394,[],,
+vinaigre,riz,nmod,NOUN,0.6922438144683838,"[{""id"": 1023005499, ""node1"": 145443, ""node2"": 24372, ""type"": 0, ""w"": 26.0}, {""id"": 3355970, ""node1"": 145443, ""node2"": 24372, ""type"": 777, ""w"": 10.0}]",r_associated,26.0
+volume,même,amod,ADJ,0.4242924451828003,[],,
+verre,volume,nmod,NOUN,0.4983753859996795,"[{""id"": 3470530, ""node1"": 144497, ""node2"": 130885, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+volume,eau,nmod,NOUN,0.5477495789527893,"[{""id"": 30986586, ""node1"": 130885, ""node2"": 65012, ""type"": 0, ""w"": 35.0}, {""id"": 30984090, ""node1"": 130885, ""node2"": 65012, ""type"": 3, ""w"": 30.0}]",r_associated,35.0
+càs,sucre,nmod,NOUN,0.5163859128952026,[],,
+chauffer,dissoudre,advcl,VERB,0.5169824957847595,[],,
+dissoudre,sucre,obj,NOUN,0.6331807374954224,"[{""id"": 1377943, ""node1"": 90446, ""node2"": 139481, ""type"": 0, ""w"": 32.0}, {""id"": 1053467445, ""node1"": 90446, ""node2"": 139481, ""type"": 666, ""w"": 2.0}]",r_associated,32.0
+éteindre,feu,obj,NOUN,0.5080100297927856,"[{""id"": 2069969, ""node1"": 107734, ""node2"": 143703, ""type"": 0, ""w"": 129.0}, {""id"": 1375587, ""node1"": 107734, ""node2"": 143703, ""type"": 14, ""w"": 100.0}, {""id"": 376200967, ""node1"": 107734, ""node2"": 143703, ""type"": 16, ""w"": 26.0}, {""id"": 9121021, ""node1"": 107734, ""node2"": 143703, ""type"": 35, ""w"": 105.0}, {""id"": 1057899598, ""node1"": 107734, ""node2"": 143703, ""type"": 666, ""w"": 2.0}]",r_associated,129.0
+laver,concombre,nsubj,NOUN,0.5488225817680359,[],,
+laver,herbe,obj,NOUN,0.5306339859962463,[],,
+prélever,feuille,obj,NOUN,0.4825729727745056,[],,
+feuille,basilic,nmod,NOUN,0.5825510621070862,"[{""id"": 98620683, ""node1"": 37993, ""node2"": 112671, ""type"": 0, ""w"": 18.0}, {""id"": 97419090, ""node1"": 37993, ""node2"": 112671, ""type"": 10, ""w"": 27.0}]",r_holo,27.0
+casserole,petit,amod,ADJ,0.6468310356140137,[],,
+poisson,sauce,amod,NOUN,0.757826030254364,"[{""id"": 423999116, ""node1"": 68467, ""node2"": 141110, ""type"": 0, ""w"": 4.0}]",r_associated,4.0
+verser,poisson,obj,NOUN,0.643119215965271,[],,
+ajouter,jus,obj,NOUN,0.5800648331642151,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+eau,obtenir,acl,VERB,0.5427676439285278,[],,
+obtenir,mélange,obj,NOUN,0.4783641993999481,[],,
+gousse,ail,nmod,ADV,0.5501744151115417,"[{""id"": 1841967, ""node1"": 3889, ""node2"": 26979, ""type"": 0, ""w"": 58.0}, {""id"": 665112731, ""node1"": 3889, ""node2"": 26979, ""type"": 174, ""w"": 40.0}, {""id"": 714921743, ""node1"": 3889, ""node2"": 26979, ""type"": 666, ""w"": 3.0}]",r_associated,58.0
+enlever,germe,obj,NOUN,0.4647262394428253,[],,
+ajouter,mélange,obj,NOUN,0.5318974852561951,[],,
+mélange,piment,nmod,NOUN,0.6597400903701782,[],,
+volume,grand,amod,ADJ,0.4097053706645965,"[{""id"": 2183077, ""node1"": 130885, ""node2"": 23178, ""type"": 0, ""w"": 61.0}]",r_associated,61.0
+conserver,carapace,obj,NOUN,0.4843464493751526,[],,
+retirer,tube,obj,NOUN,0.4137801826000213,[],,
+munir,bol,nmod,NOUN,0.5209878087043762,[],,
+déposer,portion,obj,NOUN,0.5213146805763245,[],,
+entourer,rondelle,nmod,NOUN,0.4486010670661926,[],,
+rondelle,radis,nmod,NOUN,0.5295279622077942,[],,
+salade,mélanger,acl,VERB,0.7004945874214172,"[{""id"": 1898840, ""node1"": 118908, ""node2"": 37151, ""type"": 42, ""w"": 150.0}]",r_has_causatif,150.0
+herbe,aromatique,amod,ADJ,0.4987115561962127,"[{""id"": 374762, ""node1"": 138874, ""node2"": 67664, ""type"": 17, ""w"": 83.0}, {""id"": 653275255, ""node1"": 138874, ""node2"": 67664, ""type"": 666, ""w"": 9.0}]",r_carac,83.0
+déposer,crevette,obj,NOUN,0.5390895009040833,[],,
+crevette,dessus,nmod,NOUN,0.573590874671936,[],,
+dressage,saupoudrer,acl,VERB,0.5159547328948975,[],,
+servir,sauce,obj,NOUN,0.6936730742454529,[],,
+dose,envie,nmod,NOUN,0.4414265751838684,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+ingrédient,bol,nmod,NOUN,0.5688884854316711,[],,
+mélanger,déguster,advcl,VERB,0.6037304401397705,[],,

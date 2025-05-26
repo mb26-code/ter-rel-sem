@@ -1,0 +1,42 @@
+head,lemma,dep,pos,sim,relation
+titre,pièce,nmod,NOUN,0.4212274849414825,"[{""id"": 53771237, ""node1"": 7970, ""node2"": 96851, ""type"": 0, ""w"": 29.0}, {""id"": 53574991, ""node1"": 7970, ""node2"": 96851, ""type"": 5, ""w"": 158.0}]"
+pièce,boeuf,nmod,NOUN,0.5824252963066101,[]
+pièce,sauce,nmod,NOUN,0.6503049731254578,[]
+sauce,chocolat,nmod,NOUN,0.7437312602996826,[]
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[]
+ingrédient,beurre,appos,NOUN,0.7321043014526367,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]"
+beurre,doux,amod,ADJ,0.5886080861091614,"[{""id"": 1632570, ""node1"": 140377, ""node2"": 74183, ""type"": 0, ""w"": 111.0}, {""id"": 211606, ""node1"": 140377, ""node2"": 74183, ""type"": 17, ""w"": 80.0}, {""id"": 652229002, ""node1"": 140377, ""node2"": 74183, ""type"": 666, ""w"": 2.0}]"
+titre,sucre,nmod,NOUN,0.6168144345283508,[]
+sucre,glace,nmod,NOUN,0.651667594909668,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -126.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]"
+sucre,vin,nmod,NOUN,0.681702196598053,[]
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]"
+poudre,cuillère,nmod,NOUN,0.6090611219406128,"[{""id"": 765218102, ""node1"": 139470, ""node2"": 51905, ""type"": 58, ""w"": 30.0}]"
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+saladier,balance,nmod,NOUN,0.5669676065444946,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+cuillère,verser,acl,VERB,0.554061770439148,"[{""id"": 662508856, ""node1"": 51905, ""node2"": 104506, ""type"": 0, ""w"": 26.0}, {""id"": 190198, ""node1"": 51905, ""node2"": 104506, ""type"": 25, ""w"": 211.0}]"
+verser,chocolat,obj,NOUN,0.591842770576477,[]
+poudre,fond,nmod,NOUN,0.5793318152427673,"[{""id"": 76416365, ""node1"": 139470, ""node2"": 119272, ""type"": 0, ""w"": 28.0}, {""id"": 58150265, ""node1"": 139470, ""node2"": 119272, ""type"": 9, ""w"": 26.0}]"
+fond,verre,nmod,NOUN,0.5332586169242859,"[{""id"": 9988078, ""node1"": 119272, ""node2"": 144497, ""type"": 10, ""w"": 4.0}]"
+ajouter,vin,obj,NOUN,0.6198925375938416,[]
+mélanger,prendre,advcl,VERB,0.4902891516685486,[]
+prendre,soin,obj,NOUN,0.4055182933807373,[]
+dissoudre,poudre,obj,NOUN,0.5364559888839722,[]
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]"
+sentir,note,obj,NOUN,0.4310235977172851,[]
+ajouter,thym,obj,NOUN,0.5940713882446289,[]
+mettre,poêle,obj,NOUN,0.6587198972702026,[]
+ajouter,beurre,obj,NOUN,0.658586859703064,"[{""id"": 373014956, ""node1"": 25099, ""node2"": 140377, ""type"": 14, ""w"": 31.0}]"
+fondre,beurre,nsubj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]"
+verser,fondre,advcl,VERB,0.4997918307781219,[]
+verser,mélange,obj,NOUN,0.5440542697906494,[]
+mélange,chocolat,nmod,NOUN,0.6509661078453064,"[{""id"": 941666523, ""node1"": 14800, ""node2"": 34157, ""type"": 0, ""w"": 20.0}]"
+poser,pièce,obj,NOUN,0.4554606676101684,[]
+pièce,bœuf,nmod,ADV,0.5890517234802246,[]
+pièce,dessus,nmod,ADV,0.4780662059783935,[]
+conserver,intérieur,obj,NOUN,0.4308359026908874,[]
+intérieur,fondre,amod,VERB,0.5098589062690735,[]
+accompagnement,type,nmod,NOUN,0.4297742545604706,[]
+accompagnement,pomme,nmod,NOUN,0.5847163200378418,[]
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+pomme,riz,amod,ADV,0.704151451587677,[]

@@ -1,0 +1,21 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+cake,vegan,amod,ADJ,0.5240718126296997,[],,
+ingrédient,banane,appos,NOUN,0.647196352481842,"[{""id"": 578773781, ""node1"": 123418, ""node2"": 34046, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+banane,sucre,appos,NOUN,0.6657387614250183,[],,
+sucre,farine,nmod,NOUN,0.699601411819458,"[{""id"": 558788619, ""node1"": 139481, ""node2"": 127629, ""type"": 0, ""w"": 47.0}]",r_associated,47.0
+sucre,chocolat,nmod,NOUN,0.6538985371589661,"[{""id"": 104775, ""node1"": 139481, ""node2"": 34157, ""type"": 0, ""w"": 209.0}, {""id"": 106441, ""node1"": 139481, ""node2"": 34157, ""type"": 6, ""w"": -99.0}, {""id"": 9984686, ""node1"": 139481, ""node2"": 34157, ""type"": 10, ""w"": 4.0}, {""id"": 153629, ""node1"": 139481, ""node2"": 34157, ""type"": 15, ""w"": 78.0}, {""id"": 376048866, ""node1"": 139481, ""node2"": 34157, ""type"": 51, ""w"": 28.0}, {""id"": 646152036, ""node1"": 139481, ""node2"": 34157, ""type"": 666, ""w"": 6.0}]",r_associated,209.0
+ingrédient,poudre,nmod,NOUN,0.6428405046463013,[],,
+poudre,lait,nmod,NOUN,0.6032078266143799,"[{""id"": 798069862, ""node1"": 139470, ""node2"": 86296, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+lait,végétal,amod,ADJ,0.593098521232605,"[{""id"": 97133882, ""node1"": 86296, ""node2"": 136507, ""type"": 0, ""w"": 16.0}, {""id"": 395858565, ""node1"": 86296, ""node2"": 136507, ""type"": 666, ""w"": 1.0}]",r_associated,16.0
+lait,huile,amod,NOUN,0.6405364274978638,[],,
+ingrédient,étape,nmod,NOUN,0.4697338342666626,[],,
+mélanger,ingrédient,obj,NOUN,0.6362285614013672,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ingrédient,sec,acl,ADJ,0.5127678513526917,[],,
+rajouter,lait,obj,NOUN,0.5941195487976074,"[{""id"": 509280847, ""node1"": 87561, ""node2"": 86296, ""type"": 0, ""w"": 26.0}, {""id"": 2255284, ""node1"": 87561, ""node2"": 86296, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+huile,continuer,acl,VERB,0.581057608127594,[],,
+mélanger,incorporer,acl,VERB,0.4769802093505859,"[{""id"": 9357211, ""node1"": 37151, ""node2"": 3845, ""type"": 0, ""w"": 64.0}, {""id"": 646361, ""node1"": 37151, ""node2"": 3845, ""type"": 5, ""w"": 160.0}, {""id"": 2073046, ""node1"": 37151, ""node2"": 3845, ""type"": 35, ""w"": 60.0}, {""id"": 1045903631, ""node1"": 37151, ""node2"": 3845, ""type"": 666, ""w"": 2.0}]",r_syn,160.0
+incorporer,moitié,obj,NOUN,0.4731312990188598,[],,
+moitié,banane,nmod,NOUN,0.5508506298065186,[],,
+banane,écraser,acl,VERB,0.557830274105072,"[{""id"": 98292343, ""node1"": 34046, ""node2"": 52004, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+four,micro-ondes,nmod,ADV,0.6501899361610413,"[{""id"": 364530, ""node1"": 9190, ""node2"": 92541, ""type"": 0, ""w"": 61.0}, {""id"": 1029292990, ""node1"": 9190, ""node2"": 92541, ""type"": 67, ""w"": 27.0}, {""id"": 1032954530, ""node1"": 9190, ""node2"": 92541, ""type"": 78, ""w"": 31.0}]",r_associated,61.0
+refroidir,minute,obj,NOUN,0.509716272354126,[],,

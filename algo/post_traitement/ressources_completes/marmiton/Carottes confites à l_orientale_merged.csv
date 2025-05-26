@@ -1,0 +1,25 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+carotte,confit,amod,ADJ,0.6427220106124878,[],,
+oriental,ingrédient,nmod,NOUN,0.5349196791648865,[],,
+carotte,beurre,appos,NOUN,0.7147682905197144,[],,
+beurre,carotte,appos,NOUN,0.7147682905197144,"[{""id"": 500926101, ""node1"": 140377, ""node2"": 76234, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+carotte,coriandre,nmod,NOUN,0.6334542632102966,[],,
+coriandre,grain,nmod,NOUN,0.6048089861869812,[],,
+grain,couteau,nmod,NOUN,0.5937798619270325,[],,
+couteau,économe,appos,NOUN,0.5018488168716431,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]",r_hypo,76.0
+grain,casserole,nmod,NOUN,0.653601884841919,[],,
+casserole,couvercle,nmod,NOUN,0.6508210897445679,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]",r_has_part,100.0
+couvercle,planche,nmod,NOUN,0.5579204559326172,[],,
+casserole,découper,advcl,VERB,0.6361495852470398,[],,
+découper,balance,obj,NOUN,0.4950466752052307,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+rondelle,fin,amod,ADJ,0.4580791592597961,[],,
+découper,rondelle,obj,NOUN,0.4998629093170166,"[{""id"": 915206987, ""node1"": 45686, ""node2"": 71106, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+ajouter,carotte,obj,NOUN,0.5934749245643616,[],,
+ajouter,cumin,obj,NOUN,0.5990602970123291,[],,
+cumin,grain,nmod,NOUN,0.6114656925201416,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+devoir,carotte,nsubj,NOUN,0.5211536884307861,[],,

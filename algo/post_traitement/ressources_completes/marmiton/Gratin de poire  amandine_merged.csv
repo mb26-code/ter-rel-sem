@@ -1,0 +1,49 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,gratin,nmod,NOUN,0.4893978536128998,[],,
+gratin,poire,nmod,NOUN,0.5985069870948792,[],,
+gratin,ingrédient,nmod,NOUN,0.6309539079666138,[],,
+gratin,crème,amod,NOUN,0.6292306780815125,"[{""id"": 883162, ""node1"": 12942, ""node2"": 44001, ""type"": 0, ""w"": 43.0}, {""id"": 53604728, ""node1"": 12942, ""node2"": 44001, ""type"": 5, ""w"": 107.0}, {""id"": 97126797, ""node1"": 12942, ""node2"": 44001, ""type"": 9, ""w"": 31.0}]",r_syn,107.0
+crème,beurre,nmod,NOUN,0.6757769584655762,"[{""id"": 405906, ""node1"": 44001, ""node2"": 140377, ""type"": 0, ""w"": 73.0}, {""id"": 9980280, ""node1"": 44001, ""node2"": 140377, ""type"": 10, ""w"": 4.0}, {""id"": 1836384, ""node1"": 44001, ""node2"": 140377, ""type"": 21, ""w"": 60.0}, {""id"": 306776452, ""node1"": 44001, ""node2"": 140377, ""type"": 666, ""w"": 2.0}]",r_associated,73.0
+gratin,sucre,nmod,NOUN,0.7299670577049255,[],,
+sucre,poire,amod,NOUN,0.6734382510185242,"[{""id"": 914973949, ""node1"": 139481, ""node2"": 146033, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+sucre,alcool,nmod,NOUN,0.6231129765510559,"[{""id"": 8792327, ""node1"": 139481, ""node2"": 47597, ""type"": 0, ""w"": 5.0}]",r_associated,5.0
+alcool,poire,nmod,NOUN,0.568427562713623,"[{""id"": 10744430, ""node1"": 47597, ""node2"": 146033, ""type"": 0, ""w"": 55.0}, {""id"": 9819579, ""node1"": 47597, ""node2"": 146033, ""type"": 8, ""w"": 59.0}, {""id"": 3371232, ""node1"": 47597, ""node2"": 146033, ""type"": 777, ""w"": 1.0}]",r_hypo,59.0
+poire,amande,nmod,NOUN,0.5492987632751465,[],,
+amande,poudre,nmod,NOUN,0.5705900192260742,[],,
+poudre,oeuf,nmod,NOUN,0.588036835193634,[],,
+oeuf,glace,amod,NOUN,0.6021866798400879,[],,
+oeuf,poire,nmod,NOUN,0.5867596864700317,[],,
+poire,Plat,nmod,PROPN,0.533126950263977,[],,
+Plat,gratin,nmod,NOUN,0.4779236614704132,[],,
+poire,bol,nmod,NOUN,0.5858661532402039,[],,
+bol,cuillère,nmod,NOUN,0.5572551488876343,"[{""id"": 1046576301, ""node1"": 145405, ""node2"": 51905, ""type"": 8, ""w"": 20.0}]",r_hypo,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,four,nmod,NOUN,0.7153509855270386,[],,
+four,couteau,nmod,NOUN,0.6828393340110779,[],,
+couteau,économe,nmod,NOUN,0.5018488168716431,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]",r_hypo,76.0
+économe,couvercle,nmod,NOUN,0.5389436483383179,[],,
+gratin,casserole,nmod,NOUN,0.6515781879425049,[],,
+casserole,balance,obj,NOUN,0.5916885137557983,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,assiette,nmod,NOUN,0.5656145215034485,[],,
+assiette,étape,nmod,NOUN,0.483820229768753,[],,
+mettre,gramme,obj,NOUN,0.4705629348754883,[],,
+gramme,beurre,nmod,NOUN,0.6074452996253967,[],,
+titre,poudre,nmod,NOUN,0.5323982834815979,[],,
+poudre,amande,nmod,NOUN,0.5705900192260742,[],,
+poudre,bol,nmod,NOUN,0.5927612781524658,[],,
+mélanger,minute,obj,NOUN,0.5259966850280762,[],,
+équivalent,assiette,nmod,NOUN,0.5915563702583313,[],,
+assiette,dessert,nmod,NOUN,0.6457520723342896,"[{""id"": 558775186, ""node1"": 62735, ""node2"": 38557, ""type"": 0, ""w"": 45.0}, {""id"": 3152742, ""node1"": 62735, ""node2"": 38557, ""type"": 28, ""w"": 91.0}]",r_lieu-1,91.0
+équivalent,forme,nmod,NOUN,0.4092357456684112,[],,
+forme,rosace,nmod,NOUN,0.4275672733783722,[],,
+crème,amande,nmod,NOUN,0.5983988642692566,[],,
+chauffer,alcool,obj,NOUN,0.590344250202179,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+ajouter,incorporer,advcl,VERB,0.4083676636219024,"[{""id"": 558788102, ""node1"": 25099, ""node2"": 3845, ""type"": 0, ""w"": 37.0}]",r_associated,37.0
+incorporer,reste,obj,NOUN,0.4724568128585815,[],,
+reste,beurre,nmod,NOUN,0.6629992127418518,[],,
+beurre,petit,amod,ADJ,0.6663225889205933,[],,
+servir,gratin,obj,NOUN,0.5925602316856384,[],,
+gratin,entourer,acl,VERB,0.5264575481414795,[],,
+boule,glace,nmod,NOUN,0.5476489067077637,"[{""id"": 243451, ""node1"": 141883, ""node2"": 141964, ""type"": 0, ""w"": 101.0}, {""id"": 9903174, ""node1"": 141883, ""node2"": 141964, ""type"": 6, ""w"": 13.0}, {""id"": 4985394, ""node1"": 141883, ""node2"": 141964, ""type"": 9, ""w"": 5.0}, {""id"": 720819380, ""node1"": 141883, ""node2"": 141964, ""type"": 174, ""w"": 25.0}]",r_associated,101.0

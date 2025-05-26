@@ -1,0 +1,62 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,burger,nmod,NOUN,0.4781421422958374,[],,
+burger,confit,nmod,NOUN,0.6074530482292175,[],,
+confit,canard,nmod,NOUN,0.5780603289604187,"[{""id"": 270089, ""node1"": 95692, ""node2"": 7769, ""type"": 0, ""w"": 162.0}, {""id"": 1650858, ""node1"": 95692, ""node2"": 7769, ""type"": 6, ""w"": -154.0}, {""id"": 2408093, ""node1"": 95692, ""node2"": 7769, ""type"": 23, ""w"": 32.0}, {""id"": 699766117, ""node1"": 95692, ""node2"": 7769, ""type"": 666, ""w"": 2.0}]",r_associated,162.0
+canard,ingrédient,nmod,NOUN,0.6462898254394531,[],,
+burger,poivre,acl,NOUN,0.6833549737930298,[],,
+poivre,vinaigre,acl,NOUN,0.6644958257675171,"[{""id"": 584573829, ""node1"": 139597, ""node2"": 145443, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+vinaigre,balsamique,amod,ADJ,0.5980404615402222,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]",r_associated,166.0
+burger,vin,nmod,NOUN,0.6358930468559265,"[{""id"": 1017857031, ""node1"": 138357, ""node2"": 35798, ""type"": 0, ""w"": 20.0}, {""id"": 907830089, ""node1"": 138357, ""node2"": 35798, ""type"": 3, ""w"": 15.0}]",r_associated,20.0
+comté,pain,nmod,NOUN,0.5920426845550537,[],,
+cuisse,canard,nmod,PROPN,0.5198010802268982,"[{""id"": 185097, ""node1"": 58876, ""node2"": 7769, ""type"": 0, ""w"": 81.0}, {""id"": 377011018, ""node1"": 58876, ""node2"": 7769, ""type"": 20, ""w"": 27.0}]",r_associated,81.0
+canard,échalote,nmod,NOUN,0.5996865630149841,[],,
+crème,épais,amod,ADJ,0.5873329043388367,[],,
+set,poêle,obj,NOUN,0.5301709771156311,[],,
+économe,four,nmod,NOUN,0.6647013425827026,[],,
+plaque,meilleur,amod,ADJ,0.5153307318687439,[],,
+top,plaque,nmod,NOUN,0.4243907332420349,[],,
+plaque,four,nmod,NOUN,0.6611073017120361,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+four,saladier,nmod,NOUN,0.6991847157478333,[],,
+saladier,aluminium,appos,NOUN,0.5885482430458069,[],,
+aluminium,balance,nmod,NOUN,0.4969750940799713,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+marier,cuisse,nsubj,NOUN,0.4701296091079712,[],,
+cuisse,bain,nmod,NOUN,0.530063807964325,[],,
+quart,tout,amod,ADJ,0.4479947984218597,"[{""id"": 396579, ""node1"": 115401, ""node2"": 136232, ""type"": 7, ""w"": 58.0}, {""id"": 377019022, ""node1"": 115401, ""node2"": 136232, ""type"": 20, ""w"": 28.0}]",r_anto,58.0
+garder,graisse,obj,NOUN,0.5724443793296814,[],,
+garder,utiliser,advcl,VERB,0.4043522775173187,[],,
+utiliser,huile,obj,NOUN,0.5718182921409607,[],,
+recette,autre,amod,ADJ,0.6014071106910706,[],,
+regarder,recette,obj,NOUN,0.5716965794563293,[],,
+enlever,peau,obj,NOUN,0.4885257482528686,"[{""id"": 15076500, ""node1"": 82345, ""node2"": 109785, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+steak,canard,nmod,NOUN,0.6225305199623108,[],,
+réserver,rondelle,obj,NOUN,0.5192990899085999,[],,
+rondelle,oignon,nmod,NOUN,0.5958291888237,[],,
+reste,oignon,nmod,NOUN,0.6120868921279907,[],,
+peu,graisse,nmod,NOUN,0.5399132966995239,[],,
+graisse,canard,nmod,NOUN,0.6196781396865845,[],,
+ajouter,canard,obj,NOUN,0.5718864798545837,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+réduire,remuer,advcl,VERB,0.4963341951370239,[],,
+remuer,temps,obj,NOUN,0.5274296998977661,[],,
+absorber,vin,nsubj:pass,NOUN,0.6164588332176208,[],,
+former,steak,obj,NOUN,0.5954183340072632,[],,
+aide,cercle,nmod,NOUN,0.4086242914199829,[],,
+cercle,dressage,nmod,NOUN,0.4195263981819153,[],,
+papier,alu,amod,ADJ,0.4648590087890625,[],,
+papier,steak,nmod,NOUN,0.6199023127555847,[],,
+pain,dessous,nmod,NOUN,0.6450076103210449,[],,
+fromage,couper,acl,VERB,0.6230878829956055,"[{""id"": 892230492, ""node1"": 141687, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 365853961, ""node1"": 141687, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+enfourner,pain,obj,NOUN,0.6818543076515198,[],,
+fondre,fromage,nsubj,NOUN,0.6491246819496155,"[{""id"": 102294612, ""node1"": 16480, ""node2"": 141687, ""type"": 0, ""w"": 62.0}, {""id"": 98285435, ""node1"": 16480, ""node2"": 141687, ""type"": 13, ""w"": 31.0}]",r_associated,62.0
+enfourner,fondre,advcl,VERB,0.5573232173919678,[],,
+pain,grille,amod,NOUN,0.6474882364273071,[],,
+mettre,steak,obj,NOUN,0.633103609085083,"[{""id"": 546227639, ""node1"": 132366, ""node2"": 55572, ""type"": 0, ""w"": 30.0}, {""id"": 546227638, ""node1"": 132366, ""node2"": 55572, ""type"": 31, ""w"": 28.0}]",r_associated,30.0
+ajouter,peu,obj,ADV,0.4455879032611847,[],,
+rondelle,croire,acl,VERB,0.4748523533344269,[],,
+dessus,pain,nmod,NOUN,0.6567698121070862,[],,
+pain,sauce,nmod,NOUN,0.7790783643722534,"[{""id"": 921783716, ""node1"": 61283, ""node2"": 141110, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+dessus,réaliser,acl,VERB,0.4712746441364288,[],,
+réaliser,mélanger,advcl,VERB,0.5094538331031799,[],,
+mélanger,vinaigre,obj,NOUN,0.6564185619354248,"[{""id"": 15085301, ""node1"": 37151, ""node2"": 145443, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+fermer,burger,obj,NOUN,0.4864103496074676,[],,

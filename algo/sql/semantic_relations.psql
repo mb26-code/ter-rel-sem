@@ -1,0 +1,30 @@
+CREATE TABLE semantic_relations (
+    id SERIAL PRIMARY KEY,
+    node1 TEXT NOT NULL,
+    node2 TEXT NOT NULL,
+    dep TEXT,
+    pos TEXT,
+    sim FLOAT8,
+    relations JSONB DEFAULT '[]',
+    best_relation TEXT,
+    best_relation_w FLOAT4,
+    new_relation TEXT,
+    new_relation_w FLOAT4,
+    CONSTRAINT check_relations_best_relation CHECK (
+        (relations IS NULL AND best_relation IS NULL) OR
+        (relations IS NOT NULL AND best_relation IS NOT NULL) OR
+        (relations = '[]')
+    )
+);
+
+-- Index for faster lookups on nodes
+CREATE INDEX idx_semantic_relations_nodes ON semantic_relations(node1, node2);
+
+-- Index for JSON queries
+CREATE INDEX idx_semantic_relations_jsonb ON semantic_relations USING GIN (relations);
+
+-- Index for filtering by relation type
+CREATE INDEX idx_semantic_relations_best_relation ON semantic_relations(best_relation);
+
+-- Index for filtering by new relation type
+CREATE INDEX idx_semantic_relations_new_relation ON semantic_relations(new_relation);

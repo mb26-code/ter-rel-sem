@@ -1,0 +1,179 @@
+node1,node2,relations
+préparation,base,[]
+base,pain,[]
+pain,blé,"[{""id"": 82408, ""node1"": 61283, ""node2"": 32071, ""type"": 0, ""w"": 250.0}, {""id"": 238487, ""node1"": 61283, ""node2"": 32071, ""type"": 28, ""w"": 158.0}, {""id"": 14674201, ""node1"": 61283, ""node2"": 32071, ""type"": 42, ""w"": 35.0}, {""id"": 25778957, ""node1"": 61283, ""node2"": 32071, ""type"": 50, ""w"": 51.0}, {""id"": 402912582, ""node1"": 61283, ""node2"": 32071, ""type"": 129, ""w"": 45.0}, {""id"": 1832939, ""node1"": 61283, ""node2"": 32071, ""type"": 666, ""w"": 1.0}]"
+préparation,orge,[]
+bouillon,viande,"[{""id"": 558647534, ""node1"": 146582, ""node2"": 140100, ""type"": 0, ""w"": 28.0}, {""id"": 1033715516, ""node1"": 146582, ""node2"": 140100, ""type"": 28, ""w"": 26.0}, {""id"": 1071673578, ""node1"": 146582, ""node2"": 140100, ""type"": 666, ""w"": 2.0}, {""id"": 4238168, ""node1"": 146582, ""node2"": 140100, ""type"": 777, ""w"": 10.0}]"
+préparation,mouton,[]
+remonter,plat,"[{""id"": 560977020, ""node1"": 18699, ""node2"": 36327, ""type"": 0, ""w"": 32.0}]"
+couscous,pain,[]
+couscous,cuire,"[{""id"": 98284184, ""node1"": 35814, ""node2"": 5115, ""type"": 26, ""w"": 39.0}]"
+vapeur,cuisine,"[{""id"": 991644805, ""node1"": 98392, ""node2"": 16033, ""type"": 0, ""w"": 22.0}, {""id"": 207759, ""node1"": 98392, ""node2"": 16033, ""type"": 15, ""w"": 138.0}]"
+ensemble,plat,[]
+ensemble,trancher,[]
+action,main,"[{""id"": 54832746, ""node1"": 112929, ""node2"": 81934, ""type"": 0, ""w"": 23.0}, {""id"": 54771055, ""node1"": 112929, ""node2"": 81934, ""type"": 5, ""w"": 76.0}, {""id"": 579363811, ""node1"": 112929, ""node2"": 81934, ""type"": 9, ""w"": -25.0}]"
+action,disperser,[]
+tremper,terme,[]
+posséder,plat,[]
+viande,fumé,[]
+pain,blanc,"[{""id"": 364170, ""node1"": 61283, ""node2"": 15196, ""type"": 0, ""w"": 54.0}, {""id"": 146682, ""node1"": 61283, ""node2"": 15196, ""type"": 17, ""w"": 132.0}, {""id"": 3161754, ""node1"": 61283, ""node2"": 15196, ""type"": 106, ""w"": 24.0}, {""id"": 1662794, ""node1"": 61283, ""node2"": 15196, ""type"": 666, ""w"": 2.0}]"
+pain,trancher,"[{""id"": 796697577, ""node1"": 61283, ""node2"": 32322, ""type"": 0, ""w"": 24.0}, {""id"": 1923009, ""node1"": 61283, ""node2"": 32322, ""type"": 25, ""w"": 70.0}, {""id"": 15067253, ""node1"": 61283, ""node2"": 32322, ""type"": 26, ""w"": 100.0}]"
+devoir,bouillie,[]
+bouillie,farine,"[{""id"": 59699752, ""node1"": 113977, ""node2"": 127629, ""type"": 0, ""w"": 29.0}, {""id"": 53775595, ""node1"": 113977, ""node2"": 127629, ""type"": 5, ""w"": 43.0}]"
+bouillie,miel,"[{""id"": 4635463, ""node1"": 113977, ""node2"": 136055, ""type"": 777, ""w"": 10.0}]"
+origine,bouillie,[]
+mettre,accent,[]
+base,farine,[]
+rencontrer,pain,[]
+vendre,qui,[]
+forme,brique,[]
+nuit,temps,"[{""id"": 9622173, ""node1"": 39192, ""node2"": 13861, ""type"": 0, ""w"": 40.0}, {""id"": 418448663, ""node1"": 39192, ""node2"": 13861, ""type"": 3, ""w"": 30.0}, {""id"": 148649, ""node1"": 39192, ""node2"": 13861, ""type"": 6, ""w"": 65.0}, {""id"": 3572168, ""node1"": 39192, ""node2"": 13861, ""type"": 777, ""w"": 9.0}]"
+donne,recette,[]
+tenir,plat,[]
+plat,nommer,[]
+apporter,valeur,"[{""id"": 980189528, ""node1"": 49739, ""node2"": 19504, ""type"": 666, ""w"": 3.0}]"
+dire,qui,[]
+dire,consommer,[]
+femme,autre,[]
+prophète,plat,[]
+plat,national,[]
+plat,premier,[]
+commencer,repas,[]
+plat,tout,[]
+plat,autre,[]
+attribuer,spécialité,[]
+spécialité,obtenir,[]
+obtenir,cuisiner,[]
+régaler,qui,[]
+empereur,régaler,[]
+spécialité,note,[]
+note,conformité,[]
+spécialité,conception,[]
+conception,diététique,[]
+chaud,soupe,"[{""id"": 920490928, ""node1"": 19150, ""node2"": 117152, ""type"": 0, ""w"": 21.0}, {""id"": 14752991, ""node1"": 19150, ""node2"": 117152, ""type"": 23, ""w"": 23.0}]"
+humidité,corps,[]
+corps,sec,[]
+bouillon,partie,[]
+donne,bouillon,[]
+viande,gras,"[{""id"": 9988181, ""node1"": 140100, ""node2"": 56362, ""type"": 0, ""w"": 52.0}, {""id"": 1610470, ""node1"": 140100, ""node2"": 56362, ""type"": 9, ""w"": 45.0}, {""id"": 2501747, ""node1"": 140100, ""node2"": 56362, ""type"": 17, ""w"": 37.0}, {""id"": 103293265, ""node1"": 140100, ""node2"": 56362, ""type"": 27, ""w"": 36.0}, {""id"": 11347060, ""node1"": 140100, ""node2"": 56362, ""type"": 28, ""w"": 38.0}, {""id"": 646610948, ""node1"": 140100, ""node2"": 56362, ""type"": 666, ""w"": 1.0}, {""id"": 3246624, ""node1"": 140100, ""node2"": 56362, ""type"": 777, ""w"": 7.0}]"
+bouillon,légume,"[{""id"": 152250, ""node1"": 146582, ""node2"": 120603, ""type"": 0, ""w"": 55.0}]"
+légume,vinaigre,"[{""id"": 3861827, ""node1"": 120603, ""node2"": 145443, ""type"": 777, ""w"": 10.0}]"
+partie,liaison,[]
+liaison,pain,"[{""id"": 109918147, ""node1"": 74260, ""node2"": 61283, ""type"": 777, ""w"": 10.0}]"
+partie,siècle,[]
+donne,dizaine,[]
+dizaine,recette,[]
+syrien,soupe,[]
+soupe,viande,"[{""id"": 561115565, ""node1"": 117152, ""node2"": 140100, ""type"": 0, ""w"": 53.0}, {""id"": 1046076855, ""node1"": 117152, ""node2"": 140100, ""type"": 20, ""w"": 26.0}, {""id"": 216637768, ""node1"": 117152, ""node2"": 140100, ""type"": 50, ""w"": 15.0}, {""id"": 3346879, ""node1"": 117152, ""node2"": 140100, ""type"": 777, ""w"": 9.0}]"
+viande,mouton,"[{""id"": 132971, ""node1"": 140100, ""node2"": 145295, ""type"": 0, ""w"": 501.0}, {""id"": 203085, ""node1"": 140100, ""node2"": 145295, ""type"": 8, ""w"": 194.0}, {""id"": 9986768, ""node1"": 140100, ""node2"": 145295, ""type"": 10, ""w"": -2.0}, {""id"": 420877, ""node1"": 140100, ""node2"": 145295, ""type"": 20, ""w"": 57.0}, {""id"": 15173551, ""node1"": 140100, ""node2"": 145295, ""type"": 27, ""w"": 23.0}]"
+soupe,base,[]
+base,lait,[]
+syrien,pain,[]
+trouver,que,[]
+trouver,recette,[]
+recette,instructif,[]
+consacrer,part,[]
+soupe,chapitre,[]
+porter,attention,[]
+attention,recette,[]
+qualité,bouillon,[]
+base,tête,[]
+base,veau,[]
+tête,mouton,"[{""id"": 9976120, ""node1"": 144846, ""node2"": 145295, ""type"": 10, ""w"": 9.0}]"
+façon,faire,"[{""id"": 2217884, ""node1"": 81363, ""node2"": 87528, ""type"": 0, ""w"": 80.0}, {""id"": 707778, ""node1"": 81363, ""node2"": 87528, ""type"": 5, ""w"": 143.0}, {""id"": 1063188, ""node1"": 81363, ""node2"": 87528, ""type"": 40, ""w"": 58.0}, {""id"": 648981668, ""node1"": 81363, ""node2"": 87528, ""type"": 99, ""w"": 27.0}]"
+faire,pain,[]
+pain,levain,"[{""id"": 84867, ""node1"": 61283, ""node2"": 106702, ""type"": 0, ""w"": 201.0}, {""id"": 25778965, ""node1"": 61283, ""node2"": 106702, ""type"": 50, ""w"": 51.0}, {""id"": 275129715, ""node1"": 61283, ""node2"": 106702, ""type"": 129, ""w"": 55.0}, {""id"": 1805123, ""node1"": 61283, ""node2"": 106702, ""type"": 666, ""w"": 1.0}]"
+pain,fin,[]
+pain,poulet,[]
+galette,farine,"[{""id"": 98286711, ""node1"": 28590, ""node2"": 127629, ""type"": 0, ""w"": 31.0}, {""id"": 1009399447, ""node1"": 28590, ""node2"": 127629, ""type"": 666, ""w"": 2.0}]"
+galette,cuire,[]
+galette,semoule,[]
+cuite,dont,[]
+faire,cuite,[]
+cuite,four,[]
+œuf,battre,[]
+fève,cuire,[]
+farine,dont,[]
+farine,cuit,[]
+farine,blé,"[{""id"": 114505, ""node1"": 127629, ""node2"": 32071, ""type"": 0, ""w"": 517.0}, {""id"": 53553413, ""node1"": 127629, ""node2"": 32071, ""type"": 5, ""w"": 71.0}, {""id"": 9855371, ""node1"": 127629, ""node2"": 32071, ""type"": 8, ""w"": 62.0}, {""id"": 102179, ""node1"": 127629, ""node2"": 32071, ""type"": 9, ""w"": 60.0}, {""id"": 120516, ""node1"": 127629, ""node2"": 32071, ""type"": 15, ""w"": -55.0}, {""id"": 390928, ""node1"": 127629, ""node2"": 32071, ""type"": 21, ""w"": 53.0}, {""id"": 11335596, ""node1"": 127629, ""node2"": 32071, ""type"": 28, ""w"": 38.0}, {""id"": 24260246, ""node1"": 127629, ""node2"": 32071, ""type"": 35, ""w"": 125.0}, {""id"": 14674202, ""node1"": 127629, ""node2"": 32071, ""type"": 42, ""w"": 31.0}, {""id"": 1798400, ""node1"": 127629, ""node2"": 32071, ""type"": 666, ""w"": 3.0}]"
+farine,former,[]
+former,sorte,[]
+faire,percevoir,[]
+importance,plat,[]
+plat,base,[]
+plat,Catherine,[]
+plat,comporter,[]
+comporter,mie,[]
+recette,Anonyme,[]
+plat,mentionner,[]
+richesse,graisse,[]
+graisse,bouillon,[]
+veau,gras,[]
+moelle,marmite,[]
+marmite,neuf,[]
+marmite,sel,[]
+moelle,coriandre,[]
+coriandre,graine,"[{""id"": 609050361, ""node1"": 61977, ""node2"": 14469, ""type"": 0, ""w"": 41.0}]"
+safran,cannelle,"[{""id"": 765583863, ""node1"": 84746, ""node2"": 112959, ""type"": 0, ""w"": 55.0}]"
+jus,gras,"[{""id"": 3195891, ""node1"": 53310, ""node2"": 56362, ""type"": 17, ""w"": 28.0}]"
+farine,meilleur,[]
+mettre,excellent,[]
+avoir,bouillon,[]
+pain,plat,"[{""id"": 584201432, ""node1"": 61283, ""node2"": 36327, ""type"": 0, ""w"": 21.0}, {""id"": 371948031, ""node1"": 61283, ""node2"": 36327, ""type"": 17, ""w"": 35.0}]"
+levain,cuire,[]
+pain,plaque,[]
+mentionner,pain,[]
+pain,orge,"[{""id"": 423562078, ""node1"": 61283, ""node2"": 54538, ""type"": 0, ""w"": 18.0}, {""id"": 3376399, ""node1"": 61283, ""node2"": 54538, ""type"": 777, ""w"": 10.0}]"
+pouvoir,bouillon,[]
+plat,viande,"[{""id"": 9901808, ""node1"": 36327, ""node2"": 140100, ""type"": 0, ""w"": 27.0}, {""id"": 360230, ""node1"": 36327, ""node2"": 140100, ""type"": 8, ""w"": 250.0}, {""id"": 10527677, ""node1"": 36327, ""node2"": 140100, ""type"": 9, ""w"": 14.0}, {""id"": 1679895, ""node1"": 36327, ""node2"": 140100, ""type"": 28, ""w"": 170.0}, {""id"": 270876712, ""node1"": 36327, ""node2"": 140100, ""type"": 50, ""w"": 27.0}, {""id"": 4235079, ""node1"": 36327, ""node2"": 140100, ""type"": 777, ""w"": 10.0}]"
+plat,légume,"[{""id"": 93553592, ""node1"": 36327, ""node2"": 120603, ""type"": 0, ""w"": 9.0}, {""id"": 10527468, ""node1"": 36327, ""node2"": 120603, ""type"": 9, ""w"": 14.0}, {""id"": 1679894, ""node1"": 36327, ""node2"": 120603, ""type"": 28, ""w"": 129.0}]"
+plat,jus,[]
+jus,court,[]
+jus,servir,[]
+disposer,vinaigre,[]
+absorption,pain,[]
+pain,tremper,"[{""id"": 796709520, ""node1"": 61283, ""node2"": 119858, ""type"": 0, ""w"": 26.0}, {""id"": 13712024, ""node1"": 61283, ""node2"": 119858, ""type"": 25, ""w"": 61.0}, {""id"": 15067890, ""node1"": 61283, ""node2"": 119858, ""type"": 26, ""w"": 100.0}]"
+absorption,bouillon,[]
+prêt,disposer,[]
+prêt,morceau,[]
+morceau,viande,"[{""id"": 179412, ""node1"": 65364, ""node2"": 140100, ""type"": 0, ""w"": 83.0}, {""id"": 1007988744, ""node1"": 65364, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]"
+morceau,autour,[]
+adaptation,local,[]
+truffe,yaourt,[]
+légume,bouillir,[]
+pain,écraser,[]
+pain,pain,"[{""id"": 320910, ""node1"": 61283, ""node2"": 61283, ""type"": 19, ""w"": 53.0}, {""id"": 76567430, ""node1"": 61283, ""node2"": 61283, ""type"": 75, ""w"": 43.0}]"
+Golfe,pain,[]
+remplacer,pain,"[{""id"": 606779931, ""node1"": 52286, ""node2"": 61283, ""type"": 14, ""w"": 31.0}]"
+crêpe,fin,[]
+viande,poulet,"[{""id"": 82327, ""node1"": 140100, ""node2"": 146261, ""type"": 0, ""w"": 797.0}, {""id"": 177877, ""node1"": 140100, ""node2"": 146261, ""type"": 8, ""w"": 186.0}, {""id"": 3109943, ""node1"": 140100, ""node2"": 146261, ""type"": 10, ""w"": 51.0}, {""id"": 15173548, ""node1"": 140100, ""node2"": 146261, ""type"": 27, ""w"": 26.0}, {""id"": 2518169, ""node1"": 140100, ""node2"": 146261, ""type"": 42, ""w"": 63.0}, {""id"": 376041599, ""node1"": 140100, ""node2"": 146261, ""type"": 51, ""w"": 35.0}, {""id"": 645422219, ""node1"": 140100, ""node2"": 146261, ""type"": 666, ""w"": 6.0}]"
+plat,griller,[]
+plat,de,[]
+pain,appeler,[]
+soupe,pain,"[{""id"": 1010362, ""node1"": 117152, ""node2"": 61283, ""type"": 0, ""w"": 37.0}, {""id"": 97760197, ""node1"": 117152, ""node2"": 61283, ""type"": 3, ""w"": 30.0}, {""id"": 96653711, ""node1"": 117152, ""node2"": 61283, ""type"": 6, ""w"": 15.0}, {""id"": 1046076861, ""node1"": 117152, ""node2"": 61283, ""type"": 20, ""w"": 30.0}, {""id"": 97412182, ""node1"": 117152, ""node2"": 61283, ""type"": 35, ""w"": 21.0}]"
+forme,arabe,[]
+avoir,cuisine,[]
+cuisine,islamique,"[{""id"": 416819246, ""node1"": 16033, ""node2"": 84340, ""type"": 17, ""w"": 66.0}]"
+chrétien,moyen,[]
+pain,âge,[]
+pain,grillé,"[{""id"": 1782545, ""node1"": 61283, ""node2"": 141899, ""type"": 17, ""w"": 80.0}]"
+huile,olive,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]"
+collation,petit-déjeuner,[]
+collation,faire,[]
+pain,frais,"[{""id"": 373839, ""node1"": 61283, ""node2"": 53495, ""type"": 17, ""w"": 61.0}]"
+morceau,mélanger,[]
+terminer,banquet,[]
+apporter,chaise,[]
+mettre,chacun,[]
+bouché,gros,[]
+avaler,bouché,[]
+tout,mordre,[]
+avoir,que,"[{""id"": 728838359, ""node1"": 31641, ""node2"": 136224, ""type"": 6, ""w"": -5.0}, {""id"": 728841048, ""node1"": 31641, ""node2"": 136224, ""type"": 9, ""w"": -5.0}]"
+répondre,son,[]
+prendre,ville,"[{""id"": 449601961, ""node1"": 86306, ""node2"": 136786, ""type"": 0, ""w"": 27.0}, {""id"": 449601960, ""node1"": 86306, ""node2"": 136786, ""type"": 14, ""w"": 100.0}, {""id"": 14462834, ""node1"": 86306, ""node2"": 136786, ""type"": 31, ""w"": 53.0}]"
+influence,grand,[]
+distribuer,premier,[]
+distribuer,espèce,[]
+espèce,soupe,[]
+soupe,appeler,[]
+espèce,composer,[]

@@ -1,0 +1,58 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,cuisine,obj,NOUN,0.6019042730331421,[],,
+gâteau,italien,amod,ADJ,0.5611539483070374,[],,
+gâteau,originaire,amod,ADJ,0.5906165242195129,[],,
+gâteau,Sicile,nmod,PROPN,0.5486960411071777,[],,
+gâteau,base,nmod,NOUN,0.642233669757843,[],,
+base,ricotta,nmod,NOUN,0.5938344597816467,[],,
+gâteau,ricotta,appos,NOUN,0.6292809247970581,[],,
+ricotta,brebis,nmod,PRON,0.4449121356010437,"[{""id"": 1705909, ""node1"": 225304, ""node2"": 114015, ""type"": 0, ""w"": 57.0}]",r_associated,57.0
+gâteau,biscuit,nmod,NOUN,0.602919340133667,"[{""id"": 131040, ""node1"": 2149, ""node2"": 62524, ""type"": 0, ""w"": 496.0}, {""id"": 596043, ""node1"": 2149, ""node2"": 62524, ""type"": 5, ""w"": 97.0}, {""id"": 34663311, ""node1"": 2149, ""node2"": 62524, ""type"": 6, ""w"": 494.0}, {""id"": 8864747, ""node1"": 2149, ""node2"": 62524, ""type"": 8, ""w"": 49.0}, {""id"": 412659, ""node1"": 2149, ""node2"": 62524, ""type"": 21, ""w"": 109.0}, {""id"": 495021862, ""node1"": 2149, ""node2"": 62524, ""type"": 35, ""w"": 415.0}, {""id"": 775110147, ""node1"": 2149, ""node2"": 62524, ""type"": 74, ""w"": 25.0}, {""id"": 307131383, ""node1"": 2149, ""node2"": 62524, ""type"": 666, ""w"": 1.0}]",r_isa,494.0
+biscuit,type,nmod,NOUN,0.5593932271003723,[],,
+gâteau,pâte,nmod,NOUN,0.6782779693603516,"[{""id"": 390332, ""node1"": 2149, ""node2"": 34069, ""type"": 0, ""w"": 59.0}, {""id"": 10532130, ""node1"": 2149, ""node2"": 34069, ""type"": 9, ""w"": 29.0}, {""id"": 97978610, ""node1"": 2149, ""node2"": 34069, ""type"": 42, ""w"": 34.0}, {""id"": 1821769, ""node1"": 2149, ""node2"": 34069, ""type"": 666, ""w"": 1.0}]",r_associated,59.0
+pâte,amande,nmod,NOUN,0.6331775784492493,"[{""id"": 796691772, ""node1"": 34069, ""node2"": 28557, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+amande,fruit,nmod,NOUN,0.5489270091056824,"[{""id"": 159136, ""node1"": 28557, ""node2"": 87286, ""type"": 0, ""w"": 95.0}, {""id"": 469153, ""node1"": 28557, ""node2"": 87286, ""type"": 3, ""w"": 38.0}, {""id"": 506377, ""node1"": 28557, ""node2"": 87286, ""type"": 6, ""w"": 116.0}, {""id"": 404677, ""node1"": 28557, ""node2"": 87286, ""type"": 10, ""w"": 53.0}, {""id"": 15809950, ""node1"": 28557, ""node2"": 87286, ""type"": 35, ""w"": 65.0}, {""id"": 962115932, ""node1"": 28557, ""node2"": 87286, ""type"": 666, ""w"": 2.0}]",r_isa,116.0
+glaçage,sucre,nmod,NOUN,0.6400003433227539,"[{""id"": 987837420, ""node1"": 103796, ""node2"": 139481, ""type"": 666, ""w"": 3.0}, {""id"": 7422844, ""node1"": 103796, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+gâteau,préparer,acl,VERB,0.6370327472686768,"[{""id"": 899284057, ""node1"": 2149, ""node2"": 36246, ""type"": 0, ""w"": 20.0}, {""id"": 99071057, ""node1"": 2149, ""node2"": 36246, ""type"": 26, ""w"": 100.0}, {""id"": 348325820, ""node1"": 2149, ""node2"": 36246, ""type"": 38, ""w"": 31.0}]",r_patient-1,100.0
+introduire,canne,obj,NOUN,0.5123698115348816,[],,
+canne,sucre,nmod,NOUN,0.5958884954452515,"[{""id"": 235647, ""node1"": 144267, ""node2"": 139481, ""type"": 0, ""w"": 140.0}, {""id"": 11347553, ""node1"": 144267, ""node2"": 139481, ""type"": 28, ""w"": 38.0}]",r_associated,140.0
+introduire,orange,advcl,NOUN,0.4961908757686615,[],,
+orange,amer,amod,ADJ,0.4699035882949829,"[{""id"": 799190717, ""node1"": 145382, ""node2"": 97910, ""type"": 0, ""w"": 30.0}, {""id"": 97410380, ""node1"": 145382, ""node2"": 97910, ""type"": 17, ""w"": 7.0}]",r_associated,30.0
+amande,Sicile,nmod,PROPN,0.4634691178798675,[],,
+amande,date,acl:relcl,VERB,0.4645593166351318,[],,
+pâte,période,nmod,NOUN,0.6412567496299744,[],,
+période,normand,amod,ADJ,0.4078791439533233,[],,
+remplacer,pâte,obj,NOUN,0.6440065503120422,[],,
+apporter,espagnol,nsubj,NOUN,0.41081303358078,[],,
+apporter,génoise,obj,NOUN,0.5106074213981628,[],,
+faire,fruit,nsubj,NOUN,0.5568544864654541,"[{""id"": 319664976, ""node1"": 87528, ""node2"": 87286, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+faire,apparition,obj,NOUN,0.4795658886432647,[],,
+glacé,lui,nsubj,PRON,0.4492603540420532,[],,
+proche,glacé,advcl,ADJ,0.4232237040996551,[],,
+faire,proche,advcl,ADJ,0.4671312868595123,[],,
+simplicité,apparente,amod,NOUN,0.4019111692905426,[],,
+faire,simplicité,obj,NOUN,0.512633740901947,[],,
+simplicité,recette,nmod,NOUN,0.6026343703269958,[],,
+variante,local,amod,ADJ,0.4453431963920593,[],,
+présence,couche,nmod,NOUN,0.4597097337245941,[],,
+présence,génoise,nmod,NOUN,0.4793325960636139,[],,
+partie,seul,amod,ADJ,0.4485124051570892,[],,
+version,partie,nmod,NOUN,0.4326123595237732,[],,
+aller,décor,nsubj,NOUN,0.4901430904865265,[],,
+tranche,orange,nmod,NOUN,0.5042698383331299,"[{""id"": 560952311, ""node1"": 143123, ""node2"": 145382, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+motif,sucre,nmod,NOUN,0.589102566242218,[],,
+sucre,glace,nmod,NOUN,0.6416636109352112,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -125.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]",r_associated,111.0
+aller,perle,obj,NOUN,0.4789726138114929,[],,
+perle,coloré,acl,ADJ,0.5097357034683228,[],,
+ingrédient,supplémentaire,amod,ADJ,0.6150429248809814,[],,
+ingrédient,pistache,nmod,NOUN,0.6532016396522522,[],,
+eau,fleur,nmod,NOUN,0.5818017721176147,[],,
+eau,oranger,acl,VERB,0.5439842939376831,[],,
+fête,ville,nmod,NOUN,0.4254107177257538,"[{""id"": 975222899, ""node1"": 144647, ""node2"": 136786, ""type"": 0, ""w"": 26.0}, {""id"": 147305, ""node1"": 144647, ""node2"": 136786, ""type"": 15, ""w"": 88.0}]",r_lieu,88.0
+forme,portion,nmod,NOUN,0.5166596174240112,[],,
+portion,individuel,amod,ADJ,0.5185039043426514,[],,
+portion,forme,nmod,NOUN,0.5166596174240112,[],,
+crème,glaçage,nmod,NOUN,0.6167022585868835,[],,
+glaçage,blanc,amod,ADJ,0.5707231163978577,[],,
+biscuit,Agathe,nmod,PROPN,0.4479834735393524,[],,
+biscuit,arracher,acl:relcl,VERB,0.5653106570243835,[],,

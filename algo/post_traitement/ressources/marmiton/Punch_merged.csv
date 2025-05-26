@@ -1,0 +1,24 @@
+head,lemma,dep,pos,sim,relation
+Punch,ingrédient,nmod,NOUN,0.4311687350273132,[]
+Punch,sucre,nmod,NOUN,0.5430006980895996,[]
+sucre,canne,nmod,NOUN,0.6069387793540955,"[{""id"": 107598, ""node1"": 139481, ""node2"": 144267, ""type"": 0, ""w"": 241.0}, {""id"": 160436, ""node1"": 139481, ""node2"": 144267, ""type"": 15, ""w"": 78.0}, {""id"": 1763995, ""node1"": 139481, ""node2"": 144267, ""type"": 666, ""w"": 1.0}]"
+sucre,jus,acl:relcl,NOUN,0.6386624574661255,[]
+jus,orange,nmod,NOUN,0.5570237040519714,"[{""id"": 237499, ""node1"": 53310, ""node2"": 145382, ""type"": 0, ""w"": 204.0}, {""id"": 10003691, ""node1"": 53310, ""node2"": 145382, ""type"": 10, ""w"": 28.0}, {""id"": 3171890, ""node1"": 53310, ""node2"": 145382, ""type"": 106, ""w"": 5.0}, {""id"": 1771771, ""node1"": 53310, ""node2"": 145382, ""type"": 666, ""w"": 6.0}]"
+jus,jus,nmod,NOUN,0.530181884765625,"[{""id"": 311916, ""node1"": 53310, ""node2"": 53310, ""type"": 19, ""w"": 55.0}, {""id"": 475864937, ""node1"": 53310, ""node2"": 53310, ""type"": 170, ""w"": 35.0}]"
+jus,mangue,nmod,NOUN,0.6037947535514832,"[{""id"": 91195875, ""node1"": 53310, ""node2"": 54862, ""type"": 0, ""w"": 53.0}]"
+mangue,jus,nmod,NOUN,0.6037947535514832,"[{""id"": 1619052, ""node1"": 54862, ""node2"": 53310, ""type"": 0, ""w"": 66.0}, {""id"": 1582526, ""node1"": 54862, ""node2"": 53310, ""type"": 666, ""w"": 1.0}]"
+jus,abricot,acl,NOUN,0.567959725856781,"[{""id"": 1804427, ""node1"": 53310, ""node2"": 118502, ""type"": 0, ""w"": 57.0}, {""id"": 9979850, ""node1"": 53310, ""node2"": 118502, ""type"": 10, ""w"": 4.0}]"
+jus,marmite,appos,NOUN,0.6555790901184082,[]
+marmite,saladier,nmod,NOUN,0.6751908659934998,[]
+saladier,réfrigérateur,nmod,NOUN,0.5889169573783875,[]
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[]
+saladier,grand,amod,ADJ,0.534858763217926,"[{""id"": 1077330492, ""node1"": 45455, ""node2"": 23178, ""type"": 0, ""w"": 50.0}, {""id"": 31838076, ""node1"": 45455, ""node2"": 23178, ""type"": 17, ""w"": 60.0}, {""id"": 1668931, ""node1"": 45455, ""node2"": 23178, ""type"": 666, ""w"": 2.0}]"
+titre,saladier,nmod,NOUN,0.5138511061668396,[]
+saladier,pouvoir,acl,VERB,0.5470828413963318,[]
+contenir,litre,obj,NOUN,0.4501732885837555,[]
+contenir,marmite,obj,NOUN,0.6296607851982117,[]
+ingrédient,tout,amod,ADJ,0.580045223236084,[]
+verser,ingrédient,obj,NOUN,0.5961355566978455,[]
+ingrédient,banane,nmod,NOUN,0.647196352481842,"[{""id"": 578773781, ""node1"": 123418, ""node2"": 34046, ""type"": 8, ""w"": 26.0}]"
+banane,couper,acl,VERB,0.5668771266937256,[]
+réserver,heure,obj,NOUN,0.409327745437622,[]

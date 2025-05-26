@@ -1,0 +1,27 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,fondue,nmod,NOUN,0.5169522166252136,[],,
+fondue,chocolat,nmod,NOUN,0.5988595485687256,"[{""id"": 473560385, ""node1"": 101081, ""node2"": 34157, ""type"": 0, ""w"": 35.0}, {""id"": 473560386, ""node1"": 101081, ""node2"": 34157, ""type"": 3, ""w"": 15.0}, {""id"": 473560387, ""node1"": 101081, ""node2"": 34157, ""type"": 35, ""w"": 30.0}, {""id"": 987502645, ""node1"": 101081, ""node2"": 34157, ""type"": 666, ""w"": 2.0}]",r_associated,35.0
+fondue,maison,nmod,NOUN,0.585209310054779,[],,
+maison,ingrédient,nmod,NOUN,0.6622379422187805,[],,
+fondue,beurre,nmod,NOUN,0.673985481262207,[],,
+beurre,chocolat,nmod,NOUN,0.6671400666236877,"[{""id"": 500926026, ""node1"": 140377, ""node2"": 34157, ""type"": 0, ""w"": 3.0}]",r_associated,3.0
+beurre,noir,amod,ADJ,0.6023449301719666,"[{""id"": 24959078, ""node1"": 140377, ""node2"": 64238, ""type"": 17, ""w"": 37.0}, {""id"": 3179787, ""node1"": 140377, ""node2"": 64238, ""type"": 106, ""w"": 1.0}]",r_carac,37.0
+crème,liquide,amod,ADJ,0.6173139810562134,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]",r_carac,52.0
+noir,lait,obj,NOUN,0.5775170922279358,[],,
+lait,brioche,nmod,NOUN,0.6458631157875061,"[{""id"": 914939080, ""node1"": 86296, ""node2"": 140188, ""type"": 0, ""w"": 20.0}, {""id"": 376037506, ""node1"": 86296, ""node2"": 140188, ""type"": 51, ""w"": 43.0}]",r_mater>object,43.0
+ananas,citron,appos,NOUN,0.5805214643478394,[],,
+appareil,fondre,nmod,VERB,0.5232203602790833,[],,
+appareil,casserole,nmod,NOUN,0.6145895719528198,"[{""id"": 96714739, ""node1"": 106265, ""node2"": 57253, ""type"": 15, ""w"": 24.0}]",r_lieu,24.0
+casserole,balance,obj,NOUN,0.5916885137557983,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+mettre,chocolat,obj,NOUN,0.5905454754829407,[],,
+chauffer,feu,nmod,NOUN,0.5678098797798157,"[{""id"": 2215957, ""node1"": 90994, ""node2"": 143703, ""type"": 0, ""w"": 103.0}, {""id"": 178590, ""node1"": 90994, ""node2"": 143703, ""type"": 13, ""w"": 60.0}, {""id"": 204286, ""node1"": 90994, ""node2"": 143703, ""type"": 16, ""w"": 170.0}, {""id"": 14673047, ""node1"": 90994, ""node2"": 143703, ""type"": 42, ""w"": 26.0}, {""id"": 1662440, ""node1"": 90994, ""node2"": 143703, ""type"": 666, ""w"": 4.0}]",r_instr,170.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+fondre,chocolat,obj,NOUN,0.5867562890052795,"[{""id"": 28589116, ""node1"": 16480, ""node2"": 34157, ""type"": 0, ""w"": 63.0}, {""id"": 24768886, ""node1"": 16480, ""node2"": 34157, ""type"": 13, ""w"": 30.0}, {""id"": 1011304980, ""node1"": 16480, ""node2"": 34157, ""type"": 14, ""w"": 30.0}, {""id"": 1009801551, ""node1"": 16480, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]",r_associated,63.0
+incorporer,beurre,obj,NOUN,0.6613820195198059,"[{""id"": 423151029, ""node1"": 3845, ""node2"": 140377, ""type"": 0, ""w"": 1.0}, {""id"": 470589786, ""node1"": 3845, ""node2"": 140377, ""type"": 14, ""w"": 76.0}]",r_patient,76.0
+tremper,morceau,obj,NOUN,0.6189184784889221,[],,
+morceau,fruit,nmod,NOUN,0.5414688587188721,"[{""id"": 1007988743, ""node1"": 65364, ""node2"": 87286, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+bout,brioche,nmod,NOUN,0.5625514388084412,[],,
+bout,sauce,nmod,NOUN,0.6573815941810608,[],,
+sauce,chocolat,nmod,NOUN,0.7437312602996826,[],,

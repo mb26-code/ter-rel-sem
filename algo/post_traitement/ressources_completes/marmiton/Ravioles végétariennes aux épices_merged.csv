@@ -1,0 +1,40 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+épice,ingrédient,nmod,NOUN,0.676430344581604,"[{""id"": 12305173, ""node1"": 146056, ""node2"": 123418, ""type"": 0, ""w"": 34.0}, {""id"": 565492, ""node1"": 146056, ""node2"": 123418, ""type"": 5, ""w"": 83.0}, {""id"": 24929909, ""node1"": 146056, ""node2"": 123418, ""type"": 6, ""w"": 1.0}]",r_syn,83.0
+gingembre,épice,nmod,NOUN,0.6768013834953308,"[{""id"": 1869381, ""node1"": 77020, ""node2"": 146056, ""type"": 0, ""w"": 365.0}, {""id"": 1639497, ""node1"": 77020, ""node2"": 146056, ""type"": 6, ""w"": 117.0}, {""id"": 652131796, ""node1"": 77020, ""node2"": 146056, ""type"": 666, ""w"": 3.0}]",r_associated,365.0
+gingembre,gingembre,nmod,NOUN,0.5676917433738708,"[{""id"": 305449, ""node1"": 77020, ""node2"": 77020, ""type"": 19, ""w"": 58.0}]",r_lemma,58.0
+sésame,feuille,nmod,NOUN,0.5917820334434509,[],,
+protéine,champignon,nmod,NOUN,0.5324629545211792,[],,
+protéine,huile,acl,NOUN,0.5754477977752686,[],,
+pépin,raisin,nmod,NOUN,0.4464874863624573,"[{""id"": 119295, ""node1"": 143219, ""node2"": 93528, ""type"": 0, ""w"": 138.0}, {""id"": 1988000, ""node1"": 143219, ""node2"": 93528, ""type"": 10, ""w"": 60.0}, {""id"": 124319, ""node1"": 143219, ""node2"": 93528, ""type"": 15, ""w"": 78.0}]",r_associated,138.0
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,préparation,appos,NOUN,0.6044019460678101,"[{""id"": 662513350, ""node1"": 51905, ""node2"": 33634, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+préparation,farce,nmod,NOUN,0.5677170157432556,"[{""id"": 601611629, ""node1"": 33634, ""node2"": 36354, ""type"": 0, ""w"": 29.0}, {""id"": 616543913, ""node1"": 33634, ""node2"": 36354, ""type"": 8, ""w"": 1.0}]",r_associated,29.0
+eau,chaud,amod,ADJ,0.6026924252510071,"[{""id"": 915041142, ""node1"": 65012, ""node2"": 19150, ""type"": 0, ""w"": 20.0}, {""id"": 432164, ""node1"": 65012, ""node2"": 19150, ""type"": 17, ""w"": 131.0}]",r_carac,131.0
+eau,minute,nmod,NOUN,0.5597324967384338,[],,
+mélanger,huile,obj,NOUN,0.6307845115661621,"[{""id"": 376200336, ""node1"": 37151, ""node2"": 141971, ""type"": 16, ""w"": 26.0}]",r_instr,26.0
+ajouter,graine,obj,NOUN,0.5452349185943604,[],,
+graine,sésame,nmod,NOUN,0.5720810890197754,"[{""id"": 797533486, ""node1"": 14469, ""node2"": 18404, ""type"": 0, ""w"": 29.0}, {""id"": 246270686, ""node1"": 14469, ""node2"": 18404, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+graine,goût,nmod,NOUN,0.6096903085708618,[],,
+mettre,protéine,obj,NOUN,0.5196389555931091,[],,
+laisser,minute,obj,NOUN,0.4280168712139129,[],,
+couper,préparer,advcl,VERB,0.4796249568462372,[],,
+préparer,champignon,obj,NOUN,0.608714759349823,[],,
+peu,huile,nmod,NOUN,0.5692240595817566,[],,
+incorporer,champignon,obj,NOUN,0.5941410660743713,[],,
+champignon,finement,amod,ADJ,0.5390019416809082,[],,
+farce,épice,nmod,NOUN,0.6916853785514832,[],,
+passer,farce,obj,NOUN,0.5784330368041992,[],,
+prendre,feuille,obj,NOUN,0.4766469001770019,[],,
+préparation,ton,amod,DET,0.4177801311016083,[],,
+tas,petit,amod,ADJ,0.4517754316329956,[],,
+poser,tas,obj,NOUN,0.4252572953701019,[],,
+tas,farce,nmod,NOUN,0.5215215682983398,[],,
+tas,milieu,nmod,NOUN,0.4185942113399505,[],,
+mouiller,bord,obj,NOUN,0.4488683640956878,[],,
+peu,eau,nmod,NOUN,0.5583444833755493,[],,
+feuille,second,amod,ADJ,0.4590654671192169,[],,
+poser,feuille,obj,NOUN,0.4619184136390686,[],,
+bouillir,eau,nmod,NOUN,0.6033914685249329,"[{""id"": 2243409, ""node1"": 42401, ""node2"": 65012, ""type"": 0, ""w"": 37.0}, {""id"": 418498333, ""node1"": 42401, ""node2"": 65012, ""type"": 3, ""w"": 32.0}, {""id"": 2243394, ""node1"": 42401, ""node2"": 65012, ""type"": 13, ""w"": 175.0}, {""id"": 153578, ""node1"": 42401, ""node2"": 65012, ""type"": 14, ""w"": 270.0}, {""id"": 352516461, ""node1"": 42401, ""node2"": 65012, ""type"": 31, ""w"": 31.0}, {""id"": 979642032, ""node1"": 42401, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]",r_patient,270.0
+salade,possible,amod,ADJ,0.6405982971191406,[],,
+salade,asiatique,amod,ADJ,0.6334006786346436,[],,

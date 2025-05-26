@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,boulette,nmod,NOUN,0.4638309478759765,[],,
+boulette,bœuf,nmod,NOUN,0.6084173917770386,[],,
+boulette,pulpe,nmod,NOUN,0.5680617094039917,[],,
+pulpe,ingrédient,nmod,NOUN,0.5999835133552551,[],,
+boulette,beurre,acl,NOUN,0.7156381011009216,[],,
+boulette,boeuf,nmod,NOUN,0.5982236862182617,[],,
+boeuf,lait,nmod,NOUN,0.629802405834198,"[{""id"": 602098046, ""node1"": 47417, ""node2"": 86296, ""type"": 0, ""w"": 61.0}]",r_associated,61.0
+lait,oeuf,nmod,NOUN,0.590930700302124,"[{""id"": 920038083, ""node1"": 86296, ""node2"": 116175, ""type"": 0, ""w"": 21.0}, {""id"": 385498014, ""node1"": 86296, ""node2"": 116175, ""type"": 8, ""w"": -25.0}]",r_associated,21.0
+boeuf,bouillon,nmod,NOUN,0.6349595785140991,[],,
+bouillon,légume,nmod,NOUN,0.7116243243217468,"[{""id"": 152250, ""node1"": 146582, ""node2"": 120603, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+légume,farine,amod,NOUN,0.7762234807014465,[],,
+farine,basilic,appos,NOUN,0.7256449460983276,[],,
+basilic,huile,amod,NOUN,0.6442691683769226,"[{""id"": 561291291, ""node1"": 112671, ""node2"": 141971, ""type"": 0, ""w"": 42.0}]",r_associated,42.0
+basilic,sel,nmod,NOUN,0.6894136667251587,[],,
+boulette,balance,nmod,NOUN,0.5058777928352356,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+boulette,louche,nmod,NOUN,0.5389823317527771,[],,
+louche,bol,nmod,NOUN,0.5387833118438721,[],,
+bol,étape,nmod,NOUN,0.5393725633621216,[],,
+boulette,verser,acl,VERB,0.5622831583023071,[],,
+verser,chapelure,obj,NOUN,0.6107303500175476,[],,
+travailler,viande,obj,NOUN,0.7002330422401428,[],,
+travailler,sel,obj,NOUN,0.669741153717041,[],,
+ajouter,chapelure,obj,NOUN,0.6182978749275208,[],,
+ajouter,ingrédient,obj,NOUN,0.5645265579223633,"[{""id"": 9084112, ""node1"": 25099, ""node2"": 123418, ""type"": 0, ""w"": 56.0}, {""id"": 428901945, ""node1"": 25099, ""node2"": 123418, ""type"": 14, ""w"": 100.0}, {""id"": 9084083, ""node1"": 25099, ""node2"": 123418, ""type"": 35, ""w"": 48.0}]",r_patient,100.0
+ingrédient,obtenir,acl,VERB,0.5142080187797546,[],,
+obtenir,pâte,obj,NOUN,0.6173189282417297,[],,
+former,boulette,obj,NOUN,0.4797645807266235,[],,
+boulette,viande,nmod,NOUN,0.6934407949447632,"[{""id"": 158031, ""node1"": 112360, ""node2"": 140100, ""type"": 0, ""w"": 82.0}, {""id"": 1013983190, ""node1"": 112360, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]",r_associated,82.0
+verser,pulpe,obj,NOUN,0.5719118714332581,[],,
+pulpe,tomate,nmod,NOUN,0.5930618643760681,[],,
+feuille,basilic,nmod,NOUN,0.5825510621070862,"[{""id"": 98620683, ""node1"": 37993, ""node2"": 112671, ""type"": 0, ""w"": 18.0}, {""id"": 97419090, ""node1"": 37993, ""node2"": 112671, ""type"": 10, ""w"": 27.0}]",r_holo,27.0
+verser,louche,obj,NOUN,0.5099107623100281,"[{""id"": 154210, ""node1"": 104506, ""node2"": 124144, ""type"": 16, ""w"": 60.0}]",r_instr,60.0
+louche,bouillon,nmod,NOUN,0.6199405789375305,"[{""id"": 720819546, ""node1"": 124144, ""node2"": 146582, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+servir,boulette,obj,NOUN,0.5919816493988037,[],,
+viande,chaud,amod,ADJ,0.7223507165908813,[],,

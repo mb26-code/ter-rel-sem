@@ -1,0 +1,32 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,salade,appos,NOUN,0.5926524996757507,[],,
+salade,chou,nmod,NOUN,0.6346002221107483,"[{""id"": 97758180, ""node1"": 118908, ""node2"": 67203, ""type"": 0, ""w"": 35.0}, {""id"": 97758181, ""node1"": 118908, ""node2"": 67203, ""type"": 9, ""w"": 26.0}, {""id"": 1032956558, ""node1"": 118908, ""node2"": 67203, ""type"": 78, ""w"": 29.0}, {""id"": 1813877, ""node1"": 118908, ""node2"": 67203, ""type"": 666, ""w"": 1.0}]",r_associated,35.0
+chou,blanc,amod,ADJ,0.5721359848976135,"[{""id"": 415001988, ""node1"": 67203, ""node2"": 15196, ""type"": 0, ""w"": 26.0}, {""id"": 3210237, ""node1"": 67203, ""node2"": 15196, ""type"": 106, ""w"": 17.0}]",r_associated,26.0
+salade,ingrédient,nmod,NOUN,0.7127874493598938,[],,
+salade,sel,nmod,NOUN,0.7604894042015076,"[{""id"": 97758126, ""node1"": 118908, ""node2"": 13260, ""type"": 0, ""w"": 27.0}, {""id"": 97758127, ""node1"": 118908, ""node2"": 13260, ""type"": 9, ""w"": 32.0}, {""id"": 5292757, ""node1"": 118908, ""node2"": 13260, ""type"": 777, ""w"": 7.0}]",r_has_part,32.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,vinaigre,nmod,NOUN,0.6644958257675171,"[{""id"": 584573829, ""node1"": 139597, ""node2"": 145443, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+vinaigre,vin,nmod,NOUN,0.6279023885726929,"[{""id"": 260680, ""node1"": 145443, ""node2"": 35798, ""type"": 0, ""w"": 213.0}, {""id"": 82356060, ""node1"": 145443, ""node2"": 35798, ""type"": 6, ""w"": 36.0}, {""id"": 375688370, ""node1"": 145443, ""node2"": 35798, ""type"": 56, ""w"": 35.0}, {""id"": 1527098, ""node1"": 145443, ""node2"": 35798, ""type"": 666, ""w"": 2.0}]",r_associated,213.0
+vin,moutarde,amod,NOUN,0.6383224129676819,[],,
+titre,raisin,nmod,NOUN,0.5002607107162476,[],,
+raisin,sec,acl,ADJ,0.4996888339519501,"[{""id"": 105224, ""node1"": 93528, ""node2"": 63619, ""type"": 0, ""w"": 62.0}, {""id"": 114116, ""node1"": 93528, ""node2"": 63619, ""type"": 17, ""w"": 60.0}, {""id"": 985028970, ""node1"": 93528, ""node2"": 63619, ""type"": 666, ""w"": 2.0}]",r_carac,60.0
+sec,mayonnaise,obj,ADJ,0.509698212146759,[],,
+saladier,couteau,nmod,NOUN,0.6030980348587036,[],,
+couteau,bol,nmod,NOUN,0.5557995438575745,[],,
+bol,cuillère,nmod,NOUN,0.5572551488876343,"[{""id"": 1046576301, ""node1"": 145405, ""node2"": 51905, ""type"": 8, ""w"": 20.0}]",r_hypo,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,couvercle,nmod,NOUN,0.6197326183319092,[],,
+saladier,couper,acl,VERB,0.5821525454521179,[],,
+couper,chou,obj,NOUN,0.5729162693023682,[],,
+chou,fin,amod,NOUN,0.5480157732963562,[],,
+mélanger,vinaigre,obj,NOUN,0.6564185619354248,"[{""id"": 15085301, ""node1"": 37151, ""node2"": 145443, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+saler,poivrer,advcl,VERB,0.5285379886627197,"[{""id"": 796710265, ""node1"": 15671, ""node2"": 70211, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+ajouter,sauce,obj,NOUN,0.6714595556259155,[],,
+film,cuisine,nmod,NOUN,0.5374331474304199,[],,
+mettre,heure,obj,NOUN,0.4267167150974273,[],,
+rendre,chou,obj,NOUN,0.5390459299087524,[],,
+couper,pomme,obj,NOUN,0.5794677734375,"[{""id"": 31836584, ""node1"": 128828, ""node2"": 37201, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+saladier,contenir,acl,VERB,0.5647119283676147,"[{""id"": 1077330491, ""node1"": 45455, ""node2"": 34519, ""type"": 0, ""w"": 50.0}, {""id"": 72596978, ""node1"": 45455, ""node2"": 34519, ""type"": 24, ""w"": 185.0}]",r_agent-1,185.0
+contenir,chou,obj,NOUN,0.5543791055679321,[],,
+mettre,mayonnaise,obj,NOUN,0.5537521243095398,[],,
+laisser,servir,advcl,VERB,0.4503558874130249,[],,

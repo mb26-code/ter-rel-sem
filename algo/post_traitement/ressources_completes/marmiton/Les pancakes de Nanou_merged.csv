@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+ingrédient,beurre,amod,NOUN,0.7321043014526367,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]",r_associated,69.0
+beurre,sel,nmod,NOUN,0.7119027376174927,"[{""id"": 9986816, ""node1"": 140377, ""node2"": 13260, ""type"": 0, ""w"": 43.0}, {""id"": 649508, ""node1"": 140377, ""node2"": 13260, ""type"": 9, ""w"": 56.0}, {""id"": 3979381, ""node1"": 140377, ""node2"": 13260, ""type"": 777, ""w"": 10.0}]",r_has_part,56.0
+ingrédient,sucre,nmod,NOUN,0.7083083987236023,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]",r_associated,70.0
+sucre,bicarbonate,nmod,NOUN,0.6519715189933777,[],,
+bicarbonate,levure,nmod,NOUN,0.561332106590271,[],,
+sucre,lait,nmod,NOUN,0.6437966823577881,[],,
+oeuf,grille,appos,NOUN,0.5867830514907837,[],,
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+pâtisserie,saladier,nmod,NOUN,0.647153377532959,[],,
+grille,cuillère,nmod,NOUN,0.574907660484314,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,set,nmod,NOUN,0.4149639010429382,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+oeuf,poêle,obj,NOUN,0.6757453680038452,"[{""id"": 115024, ""node1"": 116175, ""node2"": 119686, ""type"": 15, ""w"": 78.0}]",r_lieu,78.0
+crêpe,balance,obj,NOUN,0.5917694568634033,"[{""id"": 347084028, ""node1"": 17186, ""node2"": 145190, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+balance,saladier,nmod,NOUN,0.5669676065444946,[],,
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+mélanger,sucre,obj,NOUN,0.6743173599243164,[],,
+sucre,creuser,acl,VERB,0.6469541192054749,[],,
+creuser,puits,obj,NOUN,0.4050007462501526,"[{""id"": 433899975, ""node1"": 129264, ""node2"": 94602, ""type"": 0, ""w"": 33.0}, {""id"": 395319440, ""node1"": 129264, ""node2"": 94602, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+saladier,autre,amod,ADJ,0.5685320496559143,[],,
+saladier,mélanger,acl,VERB,0.5846896171569824,"[{""id"": 17857328, ""node1"": 45455, ""node2"": 37151, ""type"": 0, ""w"": 2.0}, {""id"": 72596974, ""node1"": 45455, ""node2"": 37151, ""type"": 24, ""w"": -25.0}, {""id"": 380394138, ""node1"": 45455, ""node2"": 37151, ""type"": 30, ""w"": 26.0}]",r_lieu_action,26.0
+mélanger,lait,obj,NOUN,0.6098827719688416,"[{""id"": 373014663, ""node1"": 37151, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+travailler,pâte,obj,NOUN,0.6185374855995178,"[{""id"": 243714, ""node1"": 69550, ""node2"": 34069, ""type"": 14, ""w"": 61.0}]",r_patient,61.0
+ajouter,agrémenter,advcl,VERB,0.4201446175575256,"[{""id"": 797877146, ""node1"": 25099, ""node2"": 43437, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+agrémenter,préparation,obj,NOUN,0.5264800786972046,[],,
+poêle,chaud,amod,ADJ,0.6645733714103699,"[{""id"": 278998504, ""node1"": 119686, ""node2"": 19150, ""type"": 0, ""w"": 26.0}, {""id"": 3078839, ""node1"": 119686, ""node2"": 19150, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+sirop,érable,nmod,NOUN,0.5714671611785889,"[{""id"": 389230, ""node1"": 91109, ""node2"": 69625, ""type"": 0, ""w"": 134.0}, {""id"": 420294, ""node1"": 91109, ""node2"": 69625, ""type"": 9, ""w"": 54.0}]",r_associated,134.0
+morceau,beurre,nmod,NOUN,0.6982128024101257,[],,
+morceau,laisse,acl:relcl,VERB,0.4926027059555053,[],,

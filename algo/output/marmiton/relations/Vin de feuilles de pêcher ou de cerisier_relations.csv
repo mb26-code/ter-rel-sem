@@ -1,0 +1,31 @@
+node1,node2,relations
+titre,vin,[]
+vin,feuille,[]
+feuille,pêcher,"[{""id"": 283878398, ""node1"": 37993, ""node2"": 26507, ""type"": 0, ""w"": 10.0}, {""id"": 9986305, ""node1"": 37993, ""node2"": 26507, ""type"": 10, ""w"": 9.0}]"
+vin,ingrédient,"[{""id"": 578506236, ""node1"": 35798, ""node2"": 123418, ""type"": 6, ""w"": 69.0}]"
+vin,sucre,"[{""id"": 716283715, ""node1"": 35798, ""node2"": 139481, ""type"": 0, ""w"": 22.0}, {""id"": 525755342, ""node1"": 35798, ""node2"": 139481, ""type"": 777, ""w"": 10.0}]"
+sucre,vin,[]
+sucre,rouge,[]
+titre,feuille,"[{""id"": 1022997, ""node1"": 7970, ""node2"": 37993, ""type"": 0, ""w"": 26.0}]"
+pêcher,sucre,"[{""id"": 558788226, ""node1"": 26507, ""node2"": 139481, ""type"": 0, ""w"": 31.0}]"
+titre,alcool,"[{""id"": 282742543, ""node1"": 7970, ""node2"": 47597, ""type"": 0, ""w"": 30.0}, {""id"": 283022055, ""node1"": 7970, ""node2"": 47597, ""type"": 3, ""w"": 10.0}, {""id"": 282593782, ""node1"": 7970, ""node2"": 47597, ""type"": 35, ""w"": 15.0}]"
+alcool,feuille,"[{""id"": 3367156, ""node1"": 47597, ""node2"": 37993, ""type"": 777, ""w"": 1.0}]"
+grand,récipient,[]
+récipient,balance,[]
+balance,cuisine,[]
+récipient,étape,[]
+sécher,feuille,[]
+cueillir,litre,[]
+litre,vin,"[{""id"": 15759327, ""node1"": 57416, ""node2"": 35798, ""type"": 0, ""w"": 23.0}, {""id"": 53608835, ""node1"": 57416, ""node2"": 35798, ""type"": 5, ""w"": 64.0}, {""id"": 4788012, ""node1"": 57416, ""node2"": 35798, ""type"": 777, ""w"": 10.0}]"
+litre,ôter,[]
+ôter,verre,[]
+récipient,grand,[]
+mettre,récipient,[]
+récipient,fermer,"[{""id"": 2124429, ""node1"": 89628, ""node2"": 24346, ""type"": 25, ""w"": 57.0}]"
+mettre,feuille,[]
+retirer,feuille,[]
+ajouter,sucre,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]"
+ajouter,alcool,[]
+alcool,choisir,[]
+faire,rustique,[]
+tourne,cave,[]

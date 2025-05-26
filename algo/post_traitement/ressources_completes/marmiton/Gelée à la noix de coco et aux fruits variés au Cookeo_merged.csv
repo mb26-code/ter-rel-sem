@@ -1,0 +1,19 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+gelée,noix,nmod,NOUN,0.6063041090965271,[],,
+noix,coco,nmod,ADV,0.5701965689659119,"[{""id"": 1924690, ""node1"": 30910, ""node2"": 145904, ""type"": 0, ""w"": 55.0}]",r_associated,55.0
+fruit,varier,amod,ADJ,0.5017845034599304,[],,
+noix,lait,nmod,NOUN,0.6229388117790222,[],,
+lait,fruit,nmod,NOUN,0.596720814704895,"[{""id"": 386067310, ""node1"": 86296, ""node2"": 87286, ""type"": 6, ""w"": -25.0}]",r_isa,-25.0
+fruit,sucre,acl,NOUN,0.6387148499488831,"[{""id"": 415317, ""node1"": 87286, ""node2"": 139481, ""type"": 0, ""w"": 93.0}, {""id"": 2150566, ""node1"": 87286, ""node2"": 139481, ""type"": 9, ""w"": 26.0}]",r_associated,93.0
+sucre,arôme,nmod,NOUN,0.6362144351005554,[],,
+lait,coco,amod,ADV,0.5941302180290222,"[{""id"": 796793155, ""node1"": 86296, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+verser,lait,obj,NOUN,0.5939220190048218,"[{""id"": 2147735, ""node1"": 104506, ""node2"": 86296, ""type"": 14, ""w"": 30.0}, {""id"": 645787359, ""node1"": 104506, ""node2"": 86296, ""type"": 666, ""w"": 2.0}]",r_patient,30.0
+verser,coco,advcl,ADV,0.6037113666534424,[],,
+ébullition,mode,nmod,NOUN,0.4503464996814728,[],,
+mode,dorer,acl,VERB,0.5564908385276794,[],,
+maintenir,ébullition,obj,NOUN,0.4579057097434997,[],,
+ébullition,minute,nmod,NOUN,0.4616620540618896,[],,
+déposer,fruit,obj,NOUN,0.5090960264205933,[],,
+verser,préparation,obj,NOUN,0.5208573341369629,"[{""id"": 72653246, ""node1"": 104506, ""node2"": 33634, ""type"": 0, ""w"": 30.0}, {""id"": 478294173, ""node1"": 104506, ""node2"": 33634, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparation,lait,nmod,NOUN,0.607883095741272,[],,

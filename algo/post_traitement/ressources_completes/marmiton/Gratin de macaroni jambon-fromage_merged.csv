@@ -1,0 +1,22 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,gratin,nmod,NOUN,0.4893978536128998,[],,
+gratin,fromage,amod,NOUN,0.6454901099205017,"[{""id"": 606743266, ""node1"": 12942, ""node2"": 141687, ""type"": 0, ""w"": 28.0}, {""id"": 1017994592, ""node1"": 12942, ""node2"": 141687, ""type"": 50, ""w"": 27.0}, {""id"": 738616302, ""node1"": 12942, ""node2"": 141687, ""type"": 666, ""w"": 2.0}, {""id"": 6655985, ""node1"": 12942, ""node2"": 141687, ""type"": 777, ""w"": 10.0}]",r_associated,28.0
+fromage,ingrédient,nmod,NOUN,0.7009125351905823,"[{""id"": 24850717, ""node1"": 141687, ""node2"": 123418, ""type"": 0, ""w"": 34.0}, {""id"": 24842103, ""node1"": 141687, ""node2"": 123418, ""type"": 6, ""w"": 233.0}]",r_isa,233.0
+gratin,jambon,nmod,NOUN,0.619747519493103,"[{""id"": 606742012, ""node1"": 12942, ""node2"": 57980, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+jambon,blanc,amod,ADJ,0.6019902229309082,"[{""id"": 368564, ""node1"": 57980, ""node2"": 15196, ""type"": 0, ""w"": 67.0}, {""id"": 380715, ""node1"": 57980, ""node2"": 15196, ""type"": 17, ""w"": 51.0}, {""id"": 3163497, ""node1"": 57980, ""node2"": 15196, ""type"": 106, ""w"": 13.0}]",r_associated,67.0
+crème,frais,amod,ADJ,0.5796430110931396,[],,
+crème,épais,amod,ADJ,0.5873329043388367,[],,
+Plat,gratin,nmod,NOUN,0.4779236614704132,[],,
+Plat,four,nmod,NOUN,0.6130218505859375,[],,
+four,saladier,nmod,NOUN,0.6991847157478333,[],,
+saladier,balance,nmod,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+couper,jambon,obj,NOUN,0.6028013229370117,"[{""id"": 31770885, ""node1"": 128828, ""node2"": 57980, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+reste,égoutter,nmod,VERB,0.5279121398925781,[],,
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+reste,beurre,nmod,NOUN,0.6629992127418518,[],,
+reste,cuire,acl,VERB,0.7218451499938965,[],,
+cuire,tout,obj,NOUN,0.7203893661499023,[],,
+reste,servez,appos,NOUN,0.4759428203105926,[],,
+servez,chaud,amod,ADJ,0.5323237776756287,[],,

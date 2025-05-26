@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,salade,appos,NOUN,0.5926524996757507,[],,
+salade,pâte,nmod,NOUN,0.7069150805473328,"[{""id"": 97758148, ""node1"": 118908, ""node2"": 34069, ""type"": 0, ""w"": 28.0}, {""id"": 97758149, ""node1"": 118908, ""node2"": 34069, ""type"": 9, ""w"": 26.0}]",r_associated,28.0
+salade,jambon,nmod,NOUN,0.6796677708625793,[],,
+oignon,moutarde,amod,NOUN,0.6431501507759094,[],,
+moutarde,ingrédient,nmod,NOUN,0.6919505596160889,[],,
+poivre,moutarde,amod,NOUN,0.6478980779647827,"[{""id"": 584573808, ""node1"": 139597, ""node2"": 28335, ""type"": 0, ""w"": 17.0}, {""id"": 993686855, ""node1"": 139597, ""node2"": 28335, ""type"": 666, ""w"": 2.0}]",r_associated,17.0
+poivre,vinaigre,acl,NOUN,0.6644958257675171,"[{""id"": 584573829, ""node1"": 139597, ""node2"": 145443, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+vinaigre,huile,amod,NOUN,0.6314905285835266,"[{""id"": 2139914, ""node1"": 145443, ""node2"": 141971, ""type"": 0, ""w"": 86.0}, {""id"": 1046576307, ""node1"": 145443, ""node2"": 141971, ""type"": 8, ""w"": 20.0}]",r_associated,86.0
+salade,oignon,appos,NOUN,0.6955708861351013,"[{""id"": 429982183, ""node1"": 118908, ""node2"": 123307, ""type"": 0, ""w"": 23.0}, {""id"": 97758222, ""node1"": 118908, ""node2"": 123307, ""type"": 9, ""w"": 27.0}, {""id"": 675297508, ""node1"": 118908, ""node2"": 123307, ""type"": 666, ""w"": 2.0}]",r_has_part,27.0
+oignon,jambon,nmod,NOUN,0.6423314809799194,[],,
+salade,tricolore,amod,ADJ,0.638405442237854,[],,
+salade,concombre,nmod,NOUN,0.6306709051132202,"[{""id"": 1652827, ""node1"": 118908, ""node2"": 31570, ""type"": 0, ""w"": 141.0}, {""id"": 765200128, ""node1"": 118908, ""node2"": 31570, ""type"": 50, ""w"": 27.0}, {""id"": 675297497, ""node1"": 118908, ""node2"": 31570, ""type"": 666, ""w"": 11.0}]",r_associated,141.0
+salade,mayonnaise,nmod,ADJ,0.652815580368042,"[{""id"": 97758212, ""node1"": 118908, ""node2"": 111055, ""type"": 0, ""w"": 16.0}]",r_associated,16.0
+salade,ciboulette,nmod,NOUN,0.6360832452774048,"[{""id"": 700630710, ""node1"": 118908, ""node2"": 131816, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+saladier,couteau,nmod,NOUN,0.6030980348587036,[],,
+saladier,mixeur,nmod,NOUN,0.581632137298584,[],,
+mixeur,Spatule,nmod,PROPN,0.4687243103981018,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+cuillère,préparer,acl,VERB,0.5998276472091675,[],,
+préparer,vinaigrette,obj,NOUN,0.6360166668891907,"[{""id"": 438786344, ""node1"": 36246, ""node2"": 47740, ""type"": 0, ""w"": 28.0}, {""id"": 15084894, ""node1"": 36246, ""node2"": 47740, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+préparer,mélanger,advcl,VERB,0.5422113537788391,[],,
+mélanger,huile,obj,NOUN,0.6307845115661621,"[{""id"": 376200336, ""node1"": 37151, ""node2"": 141971, ""type"": 16, ""w"": 26.0}]",r_instr,26.0
+huile,salade,nmod,NOUN,0.6778484582901001,"[{""id"": 2259674, ""node1"": 141971, ""node2"": 118908, ""type"": 0, ""w"": 34.0}, {""id"": 98727893, ""node1"": 141971, ""node2"": 118908, ""type"": 10, ""w"": 35.0}, {""id"": 1008788223, ""node1"": 141971, ""node2"": 118908, ""type"": 666, ""w"": 3.0}]",r_holo,35.0
+top,vinaigre,appos,NOUN,0.4518167674541473,[],,
+moutarde,mayonnaise,appos,NOUN,0.5991662740707397,"[{""id"": 2181240, ""node1"": 28335, ""node2"": 111055, ""type"": 0, ""w"": 90.0}, {""id"": 115083520, ""node1"": 28335, ""node2"": 111055, ""type"": 10, ""w"": 30.0}, {""id"": 438969100, ""node1"": 28335, ""node2"": 111055, ""type"": 51, ""w"": 15.0}]",r_associated,90.0
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+pâte,dent,amod,ADJ,0.6100888848304749,[],,
+égoutter,maïs,obj,NOUN,0.608219563961029,[],,
+tailler,jambon,nmod,NOUN,0.5952386856079102,[],,
+couper,concombre,obj,NOUN,0.529761552810669,[],,
+tomate,petit,nmod,ADJ,0.6660115122795105,"[{""id"": 1525081, ""node1"": 22138, ""node2"": 55222, ""type"": 666, ""w"": 1.0}]",r_aki,1.0
+oignon,printemps,nmod,NOUN,0.5824404954910278,[],,
+mettre,tout,obj,NOUN,0.4651019871234894,[],,
+rectifier,assaisonnement,obj,NOUN,0.5303710103034973,"[{""id"": 15080476, ""node1"": 36001, ""node2"": 15763, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+cuisine,bon,amod,ADJ,0.5517529845237732,[],,
+cuisine,appétit,nmod,NOUN,0.6415145993232727,"[{""id"": 15231200, ""node1"": 16033, ""node2"": 3467, ""type"": 0, ""w"": 248.0}, {""id"": 15095416, ""node1"": 16033, ""node2"": 3467, ""type"": 27, ""w"": 24.0}]",r_associated,248.0

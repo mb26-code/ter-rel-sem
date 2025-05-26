@@ -1,0 +1,63 @@
+head,lemma,dep,pos,sim,relations
+type,bouillon,nmod,NOUN,0.5941833853721619,[]
+bouillon,clair,amod,ADJ,0.5498531460762024,"[{""id"": 1022007617, ""node1"": 146582, ""node2"": 4215, ""type"": 17, ""w"": 37.0}]"
+type,réaliser,acl,VERB,0.4630254805088043,[]
+ingrédient,différent,amod,ADJ,0.5678439140319824,[]
+ingrédient,sécher,acl,VERB,0.6327908039093018,[]
+servir,utiliser,advcl,VERB,0.4631436467170715,"[{""id"": 5220169, ""node1"": 7888, ""node2"": 62611, ""type"": 0, ""w"": 114.0}, {""id"": 12197862, ""node1"": 7888, ""node2"": 62611, ""type"": 5, ""w"": 35.0}, {""id"": 1665497, ""node1"": 7888, ""node2"": 62611, ""type"": 35, ""w"": 105.0}]"
+base,cuisine,nmod,NOUN,0.6276524066925049,[]
+cuisine,japonais,amod,ADJ,0.5706702470779419,[]
+élaboration,soupe,nmod,NOUN,0.6506871581077576,[]
+soupe,sauce,nmod,NOUN,0.7085306644439697,[]
+préparation,nombreux,amod,ADJ,0.4633688330650329,[]
+préparation,mijoter,acl,VERB,0.6816293597221375,"[{""id"": 21131215, ""node1"": 33634, ""node2"": 24589, ""type"": 0, ""w"": 29.0}]"
+apporter,saveur,obj,NOUN,0.5841315388679504,[]
+saveur,aliment,nmod,NOUN,0.6727639436721802,"[{""id"": 748592237, ""node1"": 71872, ""node2"": 114637, ""type"": 0, ""w"": 33.0}, {""id"": 665004966, ""node1"": 71872, ""node2"": 114637, ""type"": 173, ""w"": 45.0}, {""id"": 1773700, ""node1"": 71872, ""node2"": 114637, ""type"": 666, ""w"": 1.0}]"
+exister,type,obj,NOUN,0.4178110063076019,[]
+ingrédient,qui,nmod,PRON,0.46613210439682,[]
+forme,fréquent,amod,ADJ,0.445654422044754,[]
+ingrédient,tout,amod,ADJ,0.6054088473320007,[]
+point,ingrédient,nsubj,NOUN,0.5367870330810547,[]
+point,commun,amod,ADJ,0.4168392717838287,[]
+contenir,que,obj,PRON,0.4319092035293579,[]
+eau,source,nmod,NOUN,0.5267837643623352,"[{""id"": 149530, ""node1"": 65012, ""node2"": 99014, ""type"": 0, ""w"": 205.0}, {""id"": 4145504, ""node1"": 65012, ""node2"": 99014, ""type"": 10, ""w"": 51.0}, {""id"": 418747, ""node1"": 65012, ""node2"": 99014, ""type"": 21, ""w"": 56.0}, {""id"": 31129295, ""node1"": 65012, ""node2"": 99014, ""type"": 27, ""w"": 26.0}, {""id"": 1811940, ""node1"": 65012, ""node2"": 99014, ""type"": 42, ""w"": 60.0}, {""id"": 76680425, ""node1"": 65012, ""node2"": 99014, ""type"": 54, ""w"": 30.0}, {""id"": 653547447, ""node1"": 65012, ""node2"": 99014, ""type"": 666, ""w"": 6.0}]"
+eau,filtrer,acl,VERB,0.5360041260719299,"[{""id"": 31129293, ""node1"": 65012, ""node2"": 62259, ""type"": 0, ""w"": 22.0}, {""id"": 1019098849, ""node1"": 65012, ""node2"": 62259, ""type"": 26, ""w"": 33.0}, {""id"": 31129292, ""node1"": 65012, ""node2"": 62259, ""type"": 27, ""w"": 26.0}]"
+obtenir,bouillon,obj,NOUN,0.5926970839500427,[]
+bouillon,limpide,amod,ADJ,0.5391510725021362,[]
+pouvoir,infusion,nsubj,NOUN,0.5318280458450317,[]
+tremper,algue,obj,NOUN,0.5412083864212036,[]
+eau,froid,amod,ADJ,0.5897504091262817,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]"
+eau,veille,nmod,NOUN,0.5835682153701782,[]
+veille,préparation,nmod,NOUN,0.4984892606735229,[]
+eau,diffuser,acl,VERB,0.5538163781166077,[]
+diffuser,saveur,obj,NOUN,0.5600025057792664,[]
+chauffe,température,nmod,NOUN,0.534695029258728,"[{""id"": 984488469, ""node1"": 85723, ""node2"": 40531, ""type"": 666, ""w"": 3.0}]"
+pouvoir,technique,nsubj,NOUN,0.408439040184021,[]
+bouillon,subtil,amod,ADJ,0.5851955413818359,[]
+utiliser,chauffer,advcl,VERB,0.5369318127632141,[]
+réaliser,infusion,nsubj:pass,NOUN,0.5714885592460632,[]
+porter,réaliser,advcl,VERB,0.4228902161121368,[]
+porter,ingrédient,nsubj:pass,NOUN,0.5810620784759521,[]
+ébullition,eau,nmod,NOUN,0.5620709657669067,"[{""id"": 984351079, ""node1"": 83252, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]"
+varier,température,nsubj,NOUN,0.4652784168720245,"[{""id"": 957403044, ""node1"": 124763, ""node2"": 40531, ""type"": 14, ""w"": 33.0}]"
+température,chauffe,nmod,NOUN,0.534695029258728,[]
+varier,proche,advcl,ADJ,0.4045711159706116,[]
+algue,éviter,acl,VERB,0.4819600582122803,[]
+éviter,bouillon,obj,NOUN,0.5796619653701782,[]
+minute,autre,nmod,ADJ,0.4760573208332062,[]
+exister,préparation,obj,NOUN,0.472959816455841,[]
+préparation,industriel,amod,ADJ,0.5627865195274353,[]
+préparation,poudre,nmod,NOUN,0.6129447817802429,[]
+utiliser,qui,nsubj:pass,PRON,0.4023291170597076,[]
+préparation,utiliser,acl:relcl,VERB,0.5494862794876099,[]
+préparation,rapide,amod,ADJ,0.4677415192127228,[]
+utiliser,ingrédient,nsubj:pass,NOUN,0.578764796257019,[]
+utiliser,préparer,advcl,VERB,0.4703598916530609,[]
+préparer,bouillon,obj,NOUN,0.6670754551887512,[]
+bouillon,saveur,nmod,NOUN,0.7080093622207642,"[{""id"": 1003111717, ""node1"": 146582, ""node2"": 71872, ""type"": 666, ""w"": 3.0}]"
+saveur,délicat,amod,ADJ,0.5991489887237549,[]
+bouillon,appeler,acl,VERB,0.5433287620544434,[]
+bouillon,second,amod,ADJ,0.5684032440185547,[]
+servir,qui,nsubj,PRON,0.4501188993453979,[]
+bouillon,servir,acl:relcl,VERB,0.653500497341156,[]
+préparation,soupe,nmod,NOUN,0.6810060739517212,"[{""id"": 601611819, ""node1"": 33634, ""node2"": 117152, ""type"": 0, ""w"": 37.0}]"

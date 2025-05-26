@@ -1,0 +1,76 @@
+node1,node2,relations
+casserole,agneau,[]
+agneau,ingrédient,[]
+agneau,oignon,[]
+oignon,coriandre,[]
+coriandre,curcuma,[]
+coriandre,gingembre,[]
+sel,gros,"[{""id"": 188164, ""node1"": 13260, ""node2"": 88096, ""type"": 0, ""w"": 60.0}, {""id"": 645838, ""node1"": 13260, ""node2"": 88096, ""type"": 17, ""w"": 60.0}]"
+gingembre,sel,[]
+poivre,sel,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]"
+sel,poitrine,[]
+poitrine,agneau,"[{""id"": 98633769, ""node1"": 46889, ""node2"": 128646, ""type"": 0, ""w"": 22.0}, {""id"": 98312111, ""node1"": 46889, ""node2"": 128646, ""type"": 10, ""w"": 27.0}]"
+sel,échalote,[]
+échalote,huile,[]
+bol,saladier,"[{""id"": 796872211, ""node1"": 145405, ""node2"": 45455, ""type"": 0, ""w"": 28.0}, {""id"": 1029292999, ""node1"": 145405, ""node2"": 45455, ""type"": 67, ""w"": 34.0}]"
+bol,set,[]
+set,poêle,[]
+poêle,couvercle,[]
+bol,étape,[]
+bouillir,casserole,"[{""id"": 796851865, ""node1"": 42401, ""node2"": 57253, ""type"": 0, ""w"": 29.0}, {""id"": 372836, ""node1"": 42401, ""node2"": 57253, ""type"": 14, ""w"": 60.0}, {""id"": 979642036, ""node1"": 42401, ""node2"": 57253, ""type"": 666, ""w"": 3.0}]"
+casserole,eau,"[{""id"": 96542705, ""node1"": 57253, ""node2"": 65012, ""type"": 0, ""w"": 19.0}, {""id"": 22760525, ""node1"": 57253, ""node2"": 65012, ""type"": 28, ""w"": 34.0}, {""id"": 96542704, ""node1"": 57253, ""node2"": 65012, ""type"": 666, ""w"": 1.0}]"
+eau,sel,"[{""id"": 796707616, ""node1"": 65012, ""node2"": 13260, ""type"": 0, ""w"": 32.0}, {""id"": 2123272, ""node1"": 65012, ""node2"": 13260, ""type"": 28, ""w"": 98.0}, {""id"": 602535234, ""node1"": 65012, ""node2"": 13260, ""type"": 777, ""w"": 10.0}]"
+eau,faire,"[{""id"": 1030693332, ""node1"": 65012, ""node2"": 87528, ""type"": 0, ""w"": 20.0}]"
+cuire,riz,"[{""id"": 426022657, ""node1"": 5115, ""node2"": 24372, ""type"": 0, ""w"": 36.0}, {""id"": 31820394, ""node1"": 5115, ""node2"": 24372, ""type"": 14, ""w"": 100.0}]"
+cuire,fois,"[{""id"": 72773965, ""node1"": 5115, ""node2"": 38021, ""type"": 34, ""w"": -25.0}]"
+kilo,agneau,[]
+morceau,moyen,[]
+réserver,revenir,[]
+filet,huile,[]
+huile,olive,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]"
+réserver,gousse,[]
+gousse,ail,"[{""id"": 1841967, ""node1"": 3889, ""node2"": 26979, ""type"": 0, ""w"": 58.0}, {""id"": 665112731, ""node1"": 3889, ""node2"": 26979, ""type"": 174, ""w"": 40.0}, {""id"": 714921743, ""node1"": 3889, ""node2"": 26979, ""type"": 666, ""w"": 3.0}]"
+cuillère,demi,[]
+réserver,cuillère,[]
+cuillère,gingembre,[]
+cuillère,poudre,"[{""id"": 662515170, ""node1"": 51905, ""node2"": 139470, ""type"": 0, ""w"": 24.0}, {""id"": 775213368, ""node1"": 51905, ""node2"": 139470, ""type"": 174, ""w"": 25.0}]"
+peu,poivre,[]
+cuillère,mortier,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,obtention,[]
+obtention,pâte,[]
+morceau,petit,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]"
+bol,ajouter,[]
+épice,tout,[]
+ajouter,épice,[]
+ajouter,piment,[]
+piment,doux,"[{""id"": 2160983, ""node1"": 128791, ""node2"": 74183, ""type"": 0, ""w"": 42.0}, {""id"": 96712636, ""node1"": 128791, ""node2"": 74183, ""type"": 17, ""w"": 29.0}]"
+mélanger,reste,[]
+reste,gingembre,[]
+mélanger,tout,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]"
+poêle,creux,[]
+marmite,petit,[]
+marmite,faire,[]
+revenir,viande,[]
+filet,ajouter,[]
+ajouter,oignon,[]
+commencer,viande,[]
+ajouter,commencer,[]
+eau,hauteur,[]
+hauteur,viande,[]
+feu,doux,[]
+mijoter,minute,[]
+cuisson,agneau,[]
+cuire,qui,[]
+cuisson,cuire,"[{""id"": 11974101, ""node1"": 60056, ""node2"": 5115, ""type"": 0, ""w"": 59.0}, {""id"": 31766094, ""node1"": 60056, ""node2"": 5115, ""type"": 35, ""w"": 56.0}, {""id"": 1060064, ""node1"": 60056, ""node2"": 5115, ""type"": 40, ""w"": 53.0}, {""id"": 213740713, ""node1"": 60056, ""node2"": 5115, ""type"": 63, ""w"": 35.0}, {""id"": 648850288, ""node1"": 60056, ""node2"": 5115, ""type"": 99, ""w"": 26.0}]"
+dur,viande,[]
+nécessiter,plat,[]
+minimum,sauce,[]
+couvrir,assiette,[]
+assiette,riz,"[{""id"": 539973838, ""node1"": 62735, ""node2"": 24372, ""type"": 28, ""w"": -25.0}]"
+feuille,coriandre,"[{""id"": 797250853, ""node1"": 37993, ""node2"": 61977, ""type"": 0, ""w"": 24.0}, {""id"": 403056603, ""node1"": 37993, ""node2"": 61977, ""type"": 777, ""w"": 10.0}]"
+pâte,piment,[]
+piment,vert,"[{""id"": 2160977, ""node1"": 128791, ""node2"": 26976, ""type"": 0, ""w"": 69.0}, {""id"": 8552901, ""node1"": 128791, ""node2"": 26976, ""type"": 17, ""w"": 24.0}, {""id"": 3193282, ""node1"": 128791, ""node2"": 26976, ""type"": 106, ""w"": 1.0}, {""id"": 723379915, ""node1"": 128791, ""node2"": 26976, ""type"": 666, ""w"": 3.0}]"
+piment,oiseau,"[{""id"": 2160988, ""node1"": 128791, ""node2"": 140176, ""type"": 0, ""w"": 29.0}]"
+déguster,aimer,"[{""id"": 603069152, ""node1"": 80710, ""node2"": 64325, ""type"": 0, ""w"": 37.0}]"
+aimer,piquant,[]

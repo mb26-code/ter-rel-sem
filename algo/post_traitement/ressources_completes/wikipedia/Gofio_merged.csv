@@ -1,0 +1,79 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+donner,référence,obj,NOUN,0.4324645698070526,[],,
+aliment,cuisine,nmod,NOUN,0.7372966408729553,"[{""id"": 12195588, ""node1"": 114637, ""node2"": 16033, ""type"": 0, ""w"": 257.0}, {""id"": 14687041, ""node1"": 114637, ""node2"": 16033, ""type"": 3, ""w"": 253.0}, {""id"": 1728111, ""node1"": 114637, ""node2"": 16033, ""type"": 5, ""w"": -109.0}, {""id"": 8793049, ""node1"": 114637, ""node2"": 16033, ""type"": 10, ""w"": 26.0}, {""id"": 135846, ""node1"": 114637, ""node2"": 16033, ""type"": 15, ""w"": 268.0}, {""id"": 722255231, ""node1"": 114637, ""node2"": 16033, ""type"": 666, ""w"": 3.0}]",r_lieu,268.0
+cuisine,origine,nmod,NOUN,0.6007724404335022,"[{""id"": 957325642, ""node1"": 16033, ""node2"": 46994, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+origine,consommer,acl,VERB,0.509655773639679,[],,
+élément,base,nmod,NOUN,0.5150342583656311,[],,
+base,régime,nmod,NOUN,0.530369758605957,[],,
+régime,alimentaire,amod,ADJ,0.4811001420021057,"[{""id"": 33159082, ""node1"": 127867, ""node2"": 16746, ""type"": 0, ""w"": 35.0}, {""id"": 16007682, ""node1"": 127867, ""node2"": 16746, ""type"": 35, ""w"": 32.0}]",r_associated,35.0
+île,tout,amod,ADJ,0.4349543154239654,[],,
+symbole,essentiel,amod,ADJ,0.4117726385593414,[],,
+ajouter,développer,advcl,VERB,0.4172926545143127,"[{""id"": 753742, ""node1"": 25099, ""node2"": 84874, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+développer,variante,obj,NOUN,0.4307831823825836,[],,
+variante,base,nmod,NOUN,0.4934647679328918,[],,
+base,orge,nmod,NOUN,0.5511175394058228,[],,
+développer,racine,obj,NOUN,0.4154827892780304,[],,
+ingrédient,nouveau,amod,ADJ,0.597446620464325,[],,
+ajouter,ingrédient,obj,NOUN,0.5776577591896057,"[{""id"": 9084112, ""node1"": 25099, ""node2"": 123418, ""type"": 0, ""w"": 56.0}, {""id"": 428901945, ""node1"": 25099, ""node2"": 123418, ""type"": 14, ""w"": 100.0}, {""id"": 9084083, ""node1"": 25099, ""node2"": 123418, ""type"": 35, ""w"": 48.0}]",r_patient,100.0
+ingrédient,seigle,nmod,NOUN,0.5838103890419006,[],,
+mélange,fève,nmod,NOUN,0.5820082426071167,[],,
+fève,grillé,amod,ADJ,0.5931104421615601,[],,
+mélange,pierre,nmod,NOUN,0.5980561375617981,[],,
+mélange,ajouter,acl:relcl,VERB,0.5439569354057312,[],,
+ajouter,pincée,obj,NOUN,0.4964291453361511,[],,
+pincée,sel,nmod,NOUN,0.6516760587692261,"[{""id"": 665112730, ""node1"": 122023, ""node2"": 13260, ""type"": 174, ""w"": 40.0}, {""id"": 990072491, ""node1"": 122023, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]",r_quantificateur-1,40.0
+connaître,variante,nsubj:pass,NOUN,0.4406309425830841,[],,
+base,maïs,nmod,ADP,0.6168699264526367,[],,
+base,pauvreté,nsubj,NOUN,0.4863840937614441,[],,
+courant,famine,nsubj,NOUN,0.4242929816246032,[],,
+époque,base,acl:relcl,NOUN,0.4757766127586365,[],,
+base,alimentation,nmod,NOUN,0.5276394486427307,[],,
+alimentation,cause,nmod,NOUN,0.4789000451564789,[],,
+alimentation,richesse,nmod,NOUN,0.4781211018562317,[],,
+richesse,vitamine,nmod,NOUN,0.4498259723186493,[],,
+bateau,nombreux,amod,ADJ,0.4337016642093658,[],,
+bateau,quitter,acl:relcl,VERB,0.4158280789852142,"[{""id"": 437531986, ""node1"": 107150, ""node2"": 39199, ""type"": 0, ""w"": 40.0}, {""id"": 14843234, ""node1"": 107150, ""node2"": 39199, ""type"": 24, ""w"": 100.0}]",r_agent-1,100.0
+essentiel,approvisionnement,nsubj,NOUN,0.412834495306015,[],,
+période,long,amod,ADJ,0.4190114736557007,[],,
+aliment,contenir,acl:relcl,VERB,0.5745642185211182,"[{""id"": 485542226, ""node1"": 114637, ""node2"": 34519, ""type"": 0, ""w"": 34.0}, {""id"": 485542225, ""node1"": 114637, ""node2"": 34519, ""type"": 24, ""w"": 100.0}]",r_agent-1,100.0
+contenir,vitamine,obj,NOUN,0.4715694785118103,[],,
+vitamine,protéine,appos,NOUN,0.4376748502254486,[],,
+vitamine,essentiel,amod,ADJ,0.4627383351325989,"[{""id"": 417814528, ""node1"": 140397, ""node2"": 124060, ""type"": 0, ""w"": 12.0}]",r_associated,12.0
+alimentation,quotidien,amod,ADJ,0.4960388839244842,[],,
+contenir,colorant,obj,NOUN,0.5328362584114075,[],,
+colorant,artificiel,amod,ADJ,0.4975318014621734,[],,
+sac,capacité,nmod,NOUN,0.4564352333545685,[],,
+celui,farine,nmod,NOUN,0.6127083897590637,[],,
+teinte,foncé,amod,ADJ,0.4003277122974396,"[{""id"": 12129857, ""node1"": 17226, ""node2"": 43203, ""type"": 0, ""w"": 54.0}, {""id"": 11526734, ""node1"": 17226, ""node2"": 43203, ""type"": 17, ""w"": 56.0}, {""id"": 3175558, ""node1"": 17226, ""node2"": 43203, ""type"": 106, ""w"": 606.0}]",r_has_color,606.0
+teinte,composition,nmod,NOUN,0.4330715239048004,[],,
+changer,façon,nsubj,NOUN,0.4610110521316528,[],,
+façon,consommer,acl,VERB,0.5159994959831238,[],,
+habitude,manger,acl,VERB,0.5719186663627625,[],,
+manger,nourriture,obj,NOUN,0.6120433807373047,"[{""id"": 2137, ""node1"": 130164, ""node2"": 20965, ""type"": 0, ""w"": 566.47}, {""id"": 98289328, ""node1"": 130164, ""node2"": 20965, ""type"": 3, ""w"": 22.0}, {""id"": 54681238, ""node1"": 130164, ""node2"": 20965, ""type"": 5, ""w"": 144.0}, {""id"": 130647, ""node1"": 130164, ""node2"": 20965, ""type"": 14, ""w"": 100.0}, {""id"": 164033, ""node1"": 130164, ""node2"": 20965, ""type"": 16, ""w"": 54.0}, {""id"": 91498429, ""node1"": 130164, ""node2"": 20965, ""type"": 35, ""w"": 40.0}, {""id"": 102054123, ""node1"": 130164, ""node2"": 20965, ""type"": 41, ""w"": 31.0}, {""id"": 102054166, ""node1"": 130164, ""node2"": 20965, ""type"": 42, ""w"": 58.0}, {""id"": 8858981, ""node1"": 130164, ""node2"": 20965, ""type"": 49, ""w"": -5.0}, {""id"": 306205276, ""node1"": 130164, ""node2"": 20965, ""type"": 129, ""w"": 36.0}, {""id"": 1824691, ""node1"": 130164, ""node2"": 20965, ""type"": 666, ""w"": 10.0}]",r_associated,566.47
+nourriture,mélanger,acl,VERB,0.6595216989517212,"[{""id"": 15073472, ""node1"": 20965, ""node2"": 37151, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+forme,basique,amod,ADJ,0.4929995536804199,"[{""id"": 372646058, ""node1"": 142000, ""node2"": 85574, ""type"": 17, ""w"": 31.0}]",r_carac,31.0
+agrémenter,lait,nmod,NOUN,0.6113611459732056,[],,
+lait,miel,nmod,NOUN,0.5962585806846619,"[{""id"": 915307886, ""node1"": 86296, ""node2"": 136055, ""type"": 0, ""w"": 20.0}, {""id"": 386065420, ""node1"": 86296, ""node2"": 136055, ""type"": 6, ""w"": -25.0}, {""id"": 97056211, ""node1"": 86296, ""node2"": 136055, ""type"": 78, ""w"": 28.0}]",r_cohypo,28.0
+utiliser,sac,obj,NOUN,0.4615256190299988,[],,
+manière,même,amod,ADJ,0.430447369813919,[],,
+cuisine,moderne,amod,ADJ,0.58589106798172,"[{""id"": 179385, ""node1"": 16033, ""node2"": 136307, ""type"": 17, ""w"": 96.0}]",r_carac,96.0
+dessert,divers,amod,ADJ,0.5256351232528687,[],,
+préparation,dessert,nmod,NOUN,0.6433907151222229,"[{""id"": 10575336, ""node1"": 33634, ""node2"": 38557, ""type"": 0, ""w"": 58.0}, {""id"": 9622583, ""node1"": 33634, ""node2"": 38557, ""type"": 8, ""w"": 21.0}]",r_associated,58.0
+crème,glacé,amod,ADJ,0.5751900672912598,"[{""id"": 14803746, ""node1"": 44001, ""node2"": 39487, ""type"": 17, ""w"": 28.0}]",r_carac,28.0
+cultiver,fruit,nsubj,NOUN,0.4804298281669616,"[{""id"": 94074121, ""node1"": 124394, ""node2"": 87286, ""type"": 0, ""w"": 34.0}, {""id"": 1047029593, ""node1"": 124394, ""node2"": 87286, ""type"": 13, ""w"": 30.0}, {""id"": 94074120, ""node1"": 124394, ""node2"": 87286, ""type"": 14, ""w"": 38.0}]",r_patient,38.0
+mélanger,cultiver,advcl,VERB,0.4903882443904876,[],,
+bouillon,poisson,nmod,NOUN,0.703558623790741,"[{""id"": 558647540, ""node1"": 146582, ""node2"": 68467, ""type"": 0, ""w"": 27.0}, {""id"": 4238170, ""node1"": 146582, ""node2"": 68467, ""type"": 777, ""w"": 10.0}]",r_associated,27.0
+constituer,plat,obj,NOUN,0.6060614585876465,[],,
+plat,appeler,acl,VERB,0.5979531407356262,[],,
+mélanger,façon,nsubj,NOUN,0.5448105931282043,[],,
+façon,courant,amod,ADJ,0.4607600271701813,[],,
+industriel,plupart,nsubj,NOUN,0.4087429046630859,[],,
+plupart,production,nmod,NOUN,0.4017543196678161,[],,
+exister,moulin,obj,NOUN,0.4773754775524139,[],,
+moulin,recevoir,acl:relcl,VERB,0.4899970591068268,[],,
+mélange,courant,acl,ADJ,0.5210863351821899,[],,
+celui,blé,nmod,NOUN,0.5127817392349243,[],,
+utiliser,préparer,advcl,VERB,0.4703598916530609,[],,
+préparer,version,obj,NOUN,0.5098615884780884,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,
+version,projet,nmod,NOUN,0.4090653657913208,[],,

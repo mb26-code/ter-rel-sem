@@ -1,0 +1,46 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,gratin,nmod,NOUN,0.4893978536128998,[],,
+gratin,banane,nmod,NOUN,0.6226708292961121,[],,
+gratin,jaune,amod,NOUN,0.5886989235877991,"[{""id"": 606766304, ""node1"": 12942, ""node2"": 86711, ""type"": 0, ""w"": 1.0}, {""id"": 3191016, ""node1"": 12942, ""node2"": 86711, ""type"": 106, ""w"": 2.0}]",r_has_color,2.0
+gratin,ingrédient,nmod,NOUN,0.6309539079666138,[],,
+gratin,pied,nmod,NOUN,0.5219922661781311,[],,
+gratin,fromage,nmod,NOUN,0.6454901099205017,"[{""id"": 606743266, ""node1"": 12942, ""node2"": 141687, ""type"": 0, ""w"": 28.0}, {""id"": 1017994592, ""node1"": 12942, ""node2"": 141687, ""type"": 50, ""w"": 27.0}, {""id"": 738616302, ""node1"": 12942, ""node2"": 141687, ""type"": 666, ""w"": 2.0}, {""id"": 6655985, ""node1"": 12942, ""node2"": 141687, ""type"": 777, ""w"": 10.0}]",r_associated,28.0
+lait,Plat,nmod,PROPN,0.5868500471115112,[],,
+lait,gratin,nmod,NOUN,0.6502888798713684,"[{""id"": 98625081, ""node1"": 86296, ""node2"": 12942, ""type"": 0, ""w"": 18.0}, {""id"": 97754769, ""node1"": 86296, ""node2"": 12942, ""type"": 10, ""w"": 31.0}]",r_holo,31.0
+lait,couteau,nmod,NOUN,0.6318866610527039,[],,
+lait,cuillère,nmod,NOUN,0.6296454668045044,"[{""id"": 97056171, ""node1"": 86296, ""node2"": 51905, ""type"": 58, ""w"": 30.0}]",r_quantificateur,30.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+fromage,poêle,nmod,NOUN,0.7368649840354919,[],,
+gratin,four,nmod,NOUN,0.6803157329559326,"[{""id"": 1831101, ""node1"": 12942, ""node2"": 9190, ""type"": 0, ""w"": 56.0}, {""id"": 97126803, ""node1"": 12942, ""node2"": 9190, ""type"": 15, ""w"": 31.0}, {""id"": 14673979, ""node1"": 12942, ""node2"": 9190, ""type"": 42, ""w"": 27.0}]",r_associated,56.0
+casserole,pinceau,obj,NOUN,0.5712795853614807,[],,
+pinceau,balance,nmod,NOUN,0.4696744382381439,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+gratin,étape,nmod,NOUN,0.5125875473022461,[],,
+gratin,couper,acl,VERB,0.5759840607643127,"[{""id"": 606766372, ""node1"": 12942, ""node2"": 128828, ""type"": 0, ""w"": 1.0}, {""id"": 1818477, ""node1"": 12942, ""node2"": 128828, ""type"": 38, ""w"": 109.0}]",r_agentif_role,109.0
+couper,banane,obj,NOUN,0.5668771266937256,[],,
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+eau,minute,nmod,NOUN,0.5597324967384338,[],,
+devoir,banane,nsubj,NOUN,0.533811628818512,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+oignon,fin,nmod,NOUN,0.5517643094062805,[],,
+ail,écraser,acl,VERB,0.5606361031532288,"[{""id"": 906193744, ""node1"": 26979, ""node2"": 52004, ""type"": 0, ""w"": 20.0}, {""id"": 98571281, ""node1"": 26979, ""node2"": 52004, ""type"": 26, ""w"": 40.0}]",r_patient-1,40.0
+beurre,couleur,nmod,NOUN,0.6903361082077026,"[{""id"": 9361831, ""node1"": 140377, ""node2"": 40056, ""type"": 0, ""w"": 76.0}, {""id"": 3158518, ""node1"": 140377, ""node2"": 40056, ""type"": 6, ""w"": 139.0}, {""id"": 3165065, ""node1"": 140377, ""node2"": 40056, ""type"": 35, ""w"": 55.0}]",r_isa,139.0
+couleur,blond,amod,ADJ,0.456315279006958,"[{""id"": 10873812, ""node1"": 40056, ""node2"": 26117, ""type"": 0, ""w"": 57.0}, {""id"": 9856401, ""node1"": 40056, ""node2"": 26117, ""type"": 8, ""w"": 63.0}, {""id"": 6253548, ""node1"": 40056, ""node2"": 26117, ""type"": 777, ""w"": 6.0}]",r_hypo,63.0
+rajouter,farine,obj,NOUN,0.6688616275787354,[],,
+ajouter,lait,obj,NOUN,0.5957752466201782,"[{""id"": 373014760, ""node1"": 25099, ""node2"": 86296, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+lait,petit,amod,ADJ,0.603304922580719,"[{""id"": 1794036, ""node1"": 86296, ""node2"": 55222, ""type"": 666, ""w"": 1.0}]",r_aki,1.0
+aller,sauce,nsubj,NOUN,0.6488229036331177,[],,
+rajouter,moitié,obj,NOUN,0.4699799418449402,[],,
+moitié,fromage,nmod,NOUN,0.6209864020347595,[],,
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+étaler,couche,obj,NOUN,0.4545030295848846,"[{""id"": 560922829, ""node1"": 98214, ""node2"": 19152, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+couche,sauce,nmod,NOUN,0.6504489779472351,[],,
+étaler,disposer,advcl,VERB,0.413329929113388,"[{""id"": 213486873, ""node1"": 98214, ""node2"": 116780, ""type"": 57, ""w"": 34.0}]",r_implication,34.0
+disposer,couche,obj,NOUN,0.4651126265525818,[],,
+couche,banane,nmod,NOUN,0.5485387444496155,[],,
+banane,couper,acl,VERB,0.5668771266937256,[],,
+couche,rondelle,nmod,NOUN,0.4812822937965393,[],,
+remplir,plat,obj,NOUN,0.5932102799415588,"[{""id"": 376200275, ""node1"": 95980, ""node2"": 36327, ""type"": 16, ""w"": 28.0}]",r_instr,28.0
+reste,fromage,nmod,NOUN,0.6215431690216064,[],,
+reste,dorer,acl,VERB,0.553179919719696,[],,

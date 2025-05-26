@@ -1,0 +1,32 @@
+head,lemma,dep,pos,sim,relations
+modifier,fromage,obj,NOUN,0.5823603272438049,[]
+base,lait,nmod,NOUN,0.6312020421028137,[]
+lait,brebis,nmod,PRON,0.5062044858932495,"[{""id"": 124120, ""node1"": 86296, ""node2"": 114015, ""type"": 0, ""w"": 141.0}, {""id"": 223029, ""node1"": 86296, ""node2"": 114015, ""type"": 8, ""w"": -50.0}, {""id"": 76654959, ""node1"": 86296, ""node2"": 114015, ""type"": 54, ""w"": 40.0}]"
+mélange,lait,nmod,NOUN,0.6114028692245483,[]
+lait,vache,nmod,NOUN,0.5106161832809448,"[{""id"": 100641, ""node1"": 86296, ""node2"": 138501, ""type"": 0, ""w"": 431.0}, {""id"": 137749, ""node1"": 86296, ""node2"": 138501, ""type"": 8, ""w"": -60.0}, {""id"": 9976460, ""node1"": 86296, ""node2"": 138501, ""type"": 10, ""w"": 4.0}, {""id"": 11357809, ""node1"": 86296, ""node2"": 138501, ""type"": 15, ""w"": 39.0}, {""id"": 383584, ""node1"": 86296, ""node2"": 138501, ""type"": 22, ""w"": -80.0}, {""id"": 15114456, ""node1"": 86296, ""node2"": 138501, ""type"": 27, ""w"": 28.0}, {""id"": 76654958, ""node1"": 86296, ""node2"": 138501, ""type"": 54, ""w"": 76.0}, {""id"": 1040288386, ""node1"": 86296, ""node2"": 138501, ""type"": 129, ""w"": 29.0}, {""id"": 1522646, ""node1"": 86296, ""node2"": 138501, ""type"": 666, ""w"": 13.0}]"
+devoir,proportion,nsubj,NOUN,0.4085178077220917,[]
+proportion,lait,nmod,NOUN,0.5766645073890686,[]
+produit,devoir,acl:relcl,VERB,0.4093368351459503,[]
+constituer,spécialité,obj,NOUN,0.4811536073684692,[]
+spécialité,région,nmod,NOUN,0.438637375831604,"[{""id"": 11357453, ""node1"": 49537, ""node2"": 132350, ""type"": 15, ""w"": 38.0}]"
+mention,forme,nmod,NOUN,0.416096419095993,[]
+fabrication,premier,amod,ADJ,0.4521782100200653,[]
+démarrer,fabrication,nsubj,NOUN,0.4748604595661163,[]
+fabrication,industriel,amod,ADJ,0.4401054084300995,"[{""id"": 561382109, ""node1"": 143005, ""node2"": 55133, ""type"": 0, ""w"": 32.0}, {""id"": 1040277506, ""node1"": 143005, ""node2"": 55133, ""type"": 70, ""w"": 20.0}]"
+remonter,démarrer,advcl,VERB,0.4005628228187561,[]
+base,recette,nsubj,NOUN,0.6212873458862305,[]
+recette,usuel,amod,ADJ,0.5818114280700684,[]
+remonter,base,obj,NOUN,0.5095277428627014,[]
+lait,croire,acl,VERB,0.5760230422019958,[]
+recette,autre,amod,ADJ,0.6219144463539124,[]
+incorporer,recette,nsubj,NOUN,0.656539797782898,[]
+boisson,régional,amod,ADJ,0.535789430141449,[]
+plat,national,amod,ADJ,0.5658581852912903,[]
+plat,base,nmod,NOUN,0.6491852402687073,[]
+base,morceau,nmod,NOUN,0.5915573239326477,[]
+morceau,pâte,nmod,NOUN,0.6742053627967834,"[{""id"": 720819461, ""node1"": 65364, ""node2"": 34069, ""type"": 174, ""w"": 25.0}]"
+morceau,pomme,nmod,NOUN,0.6207137703895569,[]
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]"
+terre,bouillie,amod,NOUN,0.6047148704528809,[]
+terre,ressembler,acl,VERB,0.5309445858001709,[]
+projet,autre,amod,ADJ,0.4316383004188537,[]

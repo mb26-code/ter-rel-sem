@@ -1,0 +1,24 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,cuisine,obj,NOUN,0.6019042730331421,[],,
+cuisine,japonais,amod,ADJ,0.5706702470779419,[],,
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+purée,pomme,nmod,NOUN,0.6487348079681396,"[{""id"": 1042429659, ""node1"": 16444, ""node2"": 37201, ""type"": 0, ""w"": 6.0}, {""id"": 8554903, ""node1"": 16444, ""node2"": 37201, ""type"": 50, ""w"": -5.0}]",r_associated,6.0
+viande,bœuf,nmod,NOUN,0.636695384979248,"[{""id"": 10577328, ""node1"": 140100, ""node2"": 168216, ""type"": 0, ""w"": 59.0}, {""id"": 9627859, ""node1"": 140100, ""node2"": 168216, ""type"": 8, ""w"": 95.0}, {""id"": 15173562, ""node1"": 140100, ""node2"": 168216, ""type"": 27, ""w"": 30.0}, {""id"": 646611390, ""node1"": 140100, ""node2"": 168216, ""type"": 666, ""w"": 1.0}]",r_hypo,95.0
+viande,haché,amod,ADJ,0.6585910320281982,[],,
+oignon,cuire,amod,VERB,0.7494687438011169,"[{""id"": 8526807, ""node1"": 123307, ""node2"": 5115, ""type"": 26, ""w"": 35.0}]",r_patient-1,35.0
+fois,mélanger,acl,VERB,0.4901976585388183,[],,
+boulette,gros,amod,ADJ,0.4849841296672821,[],,
+boulette,main,nmod,NOUN,0.4588895142078399,[],,
+mélange,farine,nmod,NOUN,0.6843199729919434,[],,
+jaune,œuf,nmod,NOUN,0.529880940914154,"[{""id"": 558764775, ""node1"": 86711, ""node2"": 174124, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+livre,guide,appos,NOUN,0.4089682102203369,"[{""id"": 919682, ""node1"": 142787, ""node2"": 114975, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+guide,méthode,nmod,NOUN,0.4277200400829315,[],,
+méthode,cuisine,nmod,NOUN,0.6264303922653198,[],,
+cuisine,occidental,amod,ADJ,0.6064602136611938,[],,
+cuisine,simple,amod,ADJ,0.629690945148468,"[{""id"": 400600535, ""node1"": 16033, ""node2"": 53269, ""type"": 17, ""w"": 62.0}]",r_carac,62.0
+livre,nommer,acl,VERB,0.4225290715694427,[],,
+curry,exemple,nmod,NOUN,0.6438202857971191,[],,
+garniture,autre,amod,ADJ,0.5940848588943481,[],,
+garniture,potiron,appos,NOUN,0.6963294744491577,[],,
+garniture,crème,appos,NOUN,0.6413903832435608,[],,
+crème,végétarien,amod,ADJ,0.6454182267189026,[],,

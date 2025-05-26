@@ -1,0 +1,50 @@
+node1,node2,relations
+titre,gâteau,[]
+pistache,ingrédient,[]
+farine,sucre,"[{""id"": 189887, ""node1"": 127629, ""node2"": 139481, ""type"": 0, ""w"": 63.0}]"
+sucre,levure,[]
+levure,chimique,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]"
+gâteau,sel,"[{""id"": 267607, ""node1"": 2149, ""node2"": 13260, ""type"": 28, ""w"": 79.0}]"
+sel,beurre,"[{""id"": 29328492, ""node1"": 13260, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 9986817, ""node1"": 13260, ""node2"": 140377, ""type"": 10, ""w"": 35.0}]"
+beurre,oeuf,"[{""id"": 798889058, ""node1"": 140377, ""node2"": 116175, ""type"": 0, ""w"": 27.0}]"
+oeuf,lait,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]"
+lait,arôme,[]
+arôme,pistache,[]
+gâteau,grille,[]
+grille,pâtisserie,[]
+pâtisserie,moule,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]"
+grille,manquer,[]
+manquer,four,[]
+four,saladier,[]
+saladier,couteau,[]
+four,balance,[]
+balance,cuisine,[]
+balance,étape,[]
+four,180,[]
+gâteau,degré,[]
+gâteau,thermostat,[]
+mélanger,oeuf,[]
+fondre,lait,[]
+mélanger,fondre,"[{""id"": 937512, ""node1"": 37151, ""node2"": 16480, ""type"": 0, ""w"": 32.0}, {""id"": 54439653, ""node1"": 37151, ""node2"": 16480, ""type"": 5, ""w"": 93.0}]"
+saladier,autre,[]
+mélanger,farine,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]"
+mélanger,sucre,[]
+verser,mélange,[]
+mélange,liquide,"[{""id"": 559129685, ""node1"": 14800, ""node2"": 140315, ""type"": 0, ""w"": 58.0}, {""id"": 653268744, ""node1"": 14800, ""node2"": 140315, ""type"": 666, ""w"": 2.0}, {""id"": 3276935, ""node1"": 14800, ""node2"": 140315, ""type"": 777, ""w"": 10.0}]"
+mélange,mélange,"[{""id"": 315781, ""node1"": 14800, ""node2"": 14800, ""type"": 19, ""w"": 54.0}]"
+mélange,sec,[]
+mélanger,tout,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]"
+cuillère,travailler,[]
+travailler,préparation,[]
+obtenir,texture,[]
+texture,rustique,[]
+mélanger,couper,"[{""id"": 54629781, ""node1"": 37151, ""node2"": 128828, ""type"": 0, ""w"": 24.0}, {""id"": 54618240, ""node1"": 37151, ""node2"": 128828, ""type"": 5, ""w"": 78.0}]"
+incorporer,kiwi,[]
+moule,manqué,"[{""id"": 799188855, ""node1"": 143723, ""node2"": 143990, ""type"": 0, ""w"": 24.0}]"
+enfourner,minute,[]
+aide,couteau,[]
+vérifier,cuisson,"[{""id"": 31862099, ""node1"": 76431, ""node2"": 60056, ""type"": 14, ""w"": 64.0}]"
+cuisson,gâteau,"[{""id"": 558759492, ""node1"": 60056, ""node2"": 2149, ""type"": 0, ""w"": 37.0}]"
+ressortir,pointe,[]
+cuire,ressortir,[]
+ressortir,gâteau,[]

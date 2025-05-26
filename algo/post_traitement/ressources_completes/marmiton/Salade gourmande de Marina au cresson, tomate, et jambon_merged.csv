@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+salade,gourmand,amod,ADJ,0.6693388223648071,[],,
+salade,Marina,nmod,PROPN,0.5151981711387634,[],,
+jambon,ingrédient,nmod,NOUN,0.6781305074691772,"[{""id"": 24850707, ""node1"": 57980, ""node2"": 123418, ""type"": 0, ""w"": 27.0}, {""id"": 24842129, ""node1"": 57980, ""node2"": 123418, ""type"": 6, ""w"": 177.0}]",r_isa,177.0
+vinaigre,balsamique,amod,ADJ,0.5980404615402222,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]",r_associated,166.0
+tomate,sel,appos,NOUN,0.7264893651008606,"[{""id"": 421761153, ""node1"": 22138, ""node2"": 13260, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+salade,framboise,amod,ADJ,0.647818386554718,[],,
+salade,pain,nmod,NOUN,0.7251226305961609,[],,
+pain,mie,nmod,NOUN,0.5814495086669922,"[{""id"": 96115, ""node1"": 61283, ""node2"": 37905, ""type"": 0, ""w"": 547.0}, {""id"": 246259884, ""node1"": 61283, ""node2"": 37905, ""type"": 8, ""w"": 28.0}, {""id"": 416745, ""node1"": 61283, ""node2"": 37905, ""type"": 9, ""w"": 157.0}, {""id"": 98667958, ""node1"": 61283, ""node2"": 37905, ""type"": 27, ""w"": 24.0}, {""id"": 238490, ""node1"": 61283, ""node2"": 37905, ""type"": 28, ""w"": 159.0}, {""id"": 25778962, ""node1"": 61283, ""node2"": 37905, ""type"": 50, ""w"": 51.0}, {""id"": 1832942, ""node1"": 61283, ""node2"": 37905, ""type"": 666, ""w"": 2.0}]",r_associated,547.0
+mie,jambon,nmod,NOUN,0.5670813918113708,[],,
+jambon,croire,acl,VERB,0.581739604473114,[],,
+jambon,huile,amod,NOUN,0.6804931163787842,[],,
+bol,couteau,nmod,NOUN,0.5557995438575745,[],,
+couteau,four,nmod,NOUN,0.6828393340110779,[],,
+four,fourchette,nmod,NOUN,0.6831614375114441,[],,
+four,planche,nmod,NOUN,0.6710441708564758,[],,
+huile,découper,advcl,VERB,0.6284905076026917,[],,
+découper,étape,obj,NOUN,0.4244579374790191,[],,
+découper,tomate,obj,NOUN,0.6376076936721802,[],,
+bol,petit,amod,ADJ,0.5434224009513855,[],,
+mettre,tranche,obj,NOUN,0.4838809669017792,[],,
+tranche,pain,nmod,NOUN,0.6442368030548096,"[{""id"": 240074, ""node1"": 143123, ""node2"": 61283, ""type"": 0, ""w"": 221.0}, {""id"": 97833247, ""node1"": 143123, ""node2"": 61283, ""type"": 3, ""w"": 10.0}, {""id"": 9992595, ""node1"": 143123, ""node2"": 61283, ""type"": 10, ""w"": 4.0}, {""id"": 97327248, ""node1"": 143123, ""node2"": 61283, ""type"": 35, ""w"": 30.0}, {""id"": 775213283, ""node1"": 143123, ""node2"": 61283, ""type"": 174, ""w"": 25.0}]",r_associated,221.0
+fois,doré,amod,ADJ,0.4967719614505768,[],,
+tartiner,huile,obj,NOUN,0.5996035933494568,"[{""id"": 376196787, ""node1"": 131654, ""node2"": 141971, ""type"": 16, ""w"": 26.0}]",r_instr,26.0
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+carré,petit,amod,ADJ,0.4807125926017761,"[{""id"": 133945, ""node1"": 22120, ""node2"": 55222, ""type"": 17, ""w"": 70.0}]",r_carac,70.0
+couper,carré,obj,NOUN,0.4736614227294922,[],,
+carré,manière,nmod,NOUN,0.4541944563388824,[],,
+laver,salade,obj,NOUN,0.6390455961227417,"[{""id"": 31820823, ""node1"": 143876, ""node2"": 118908, ""type"": 14, ""w"": 55.0}]",r_patient,55.0
+ajouter,jambon,obj,NOUN,0.6169880032539368,[],,
+verser,filet,obj,NOUN,0.5606366395950317,[],,
+filet,huile,nmod,NOUN,0.6150403022766113,[],,
+saupoudrer,herbe,nmod,NOUN,0.5246991515159607,[],,
+herbe,aromatique,amod,ADJ,0.4987115561962127,"[{""id"": 374762, ""node1"": 138874, ""node2"": 67664, ""type"": 17, ""w"": 83.0}, {""id"": 653275255, ""node1"": 138874, ""node2"": 67664, ""type"": 666, ""w"": 9.0}]",r_carac,83.0
+pincée,sel,nmod,NOUN,0.6588193774223328,"[{""id"": 665112730, ""node1"": 122023, ""node2"": 13260, ""type"": 174, ""w"": 40.0}, {""id"": 990072491, ""node1"": 122023, ""node2"": 13260, ""type"": 666, ""w"": 2.0}]",r_quantificateur-1,40.0

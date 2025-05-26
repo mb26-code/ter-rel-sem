@@ -1,0 +1,28 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+foie,gras,amod,ADJ,0.5544026494026184,"[{""id"": 102370, ""node1"": 115155, ""node2"": 56362, ""type"": 0, ""w"": 70.0}, {""id"": 157174, ""node1"": 115155, ""node2"": 56362, ""type"": 17, ""w"": 61.0}, {""id"": 1764999, ""node1"": 115155, ""node2"": 56362, ""type"": 666, ""w"": 1.0}]",r_associated,70.0
+foie,ingrédient,nmod,NOUN,0.6078405380249023,[],,
+oeuf,pain,nmod,NOUN,0.6695903539657593,"[{""id"": 96638699, ""node1"": 116175, ""node2"": 61283, ""type"": 0, ""w"": 42.0}]",r_associated,42.0
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+titre,saladier,nmod,NOUN,0.5138511061668396,[],,
+saladier,mixeur,nmod,NOUN,0.581632137298584,[],,
+mixeur,four,nmod,NOUN,0.6762216091156006,[],,
+titre,préparer,acl,VERB,0.4304305016994476,[],,
+préparer,farce,obj,NOUN,0.576904833316803,[],,
+préparer,mixer,advcl,VERB,0.5370362997055054,"[{""id"": 437526582, ""node1"": 36246, ""node2"": 12170, ""type"": 0, ""w"": 26.0}, {""id"": 437526581, ""node1"": 36246, ""node2"": 12170, ""type"": 16, ""w"": 32.0}]",r_instr,32.0
+mixer,mélanger,advcl,VERB,0.5150790810585022,"[{""id"": 931821, ""node1"": 12170, ""node2"": 37151, ""type"": 0, ""w"": 84.0}, {""id"": 12321303, ""node1"": 12170, ""node2"": 37151, ""type"": 5, ""w"": 89.0}, {""id"": 376186994, ""node1"": 12170, ""node2"": 37151, ""type"": 25, ""w"": 35.0}, {""id"": 91492864, ""node1"": 12170, ""node2"": 37151, ""type"": 35, ""w"": 45.0}, {""id"": 213486559, ""node1"": 12170, ""node2"": 37151, ""type"": 57, ""w"": 29.0}, {""id"": 1014852542, ""node1"": 12170, ""node2"": 37151, ""type"": 666, ""w"": 2.0}]",r_syn,89.0
+mélanger,viande,obj,NOUN,0.756519615650177,[],,
+viande,pain,appos,NOUN,0.7309975624084473,"[{""id"": 425976230, ""node1"": 140100, ""node2"": 61283, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+mettre,farce,obj,NOUN,0.5730605721473694,[],,
+préparer,huile,obj,NOUN,0.6293447017669678,[],,
+herbe,autre,amod,ADJ,0.4647101163864136,[],,
+herbe,Provence,nmod,PROPN,0.4220801889896393,[],,
+herbe,truffe,nmod,NOUN,0.5507795214653015,[],,
+mettre,reste,obj,NOUN,0.4542144536972046,[],,
+reste,truffe,nmod,NOUN,0.599022626876831,[],,
+truffe,découper,acl,VERB,0.6252268552780151,[],,
+reposer,heure,obj,NOUN,0.4106099009513855,[],,
+imprégner,parfum,nsubj,NOUN,0.4669550955295563,[],,
+four,thermostat,nmod,NOUN,0.6374015808105469,"[{""id"": 391935, ""node1"": 9190, ""node2"": 130331, ""type"": 0, ""w"": 54.0}, {""id"": 115475, ""node1"": 9190, ""node2"": 130331, ""type"": 9, ""w"": 165.0}, {""id"": 1026722506, ""node1"": 9190, ""node2"": 130331, ""type"": 82, ""w"": 30.0}]",r_has_part,165.0
+mettre,heure,obj,NOUN,0.4267167150974273,[],,
+mettre,arroser,advcl,VERB,0.4683837890625,[],,
+jus,cuisson,nmod,NOUN,0.6731067299842834,[],,

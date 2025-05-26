@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+lait,maman,nmod,NOUN,0.5743288397789001,[],,
+maman,ingrédient,nmod,NOUN,0.5392165184020996,[],,
+lait,orange,appos,NOUN,0.599168598651886,[],,
+orange,sucre,nmod,NOUN,0.6487499475479126,[],,
+sucre,lait,nmod,NOUN,0.6437966823577881,[],,
+lait,blanc,amod,ADJ,0.5954586267471313,"[{""id"": 114020, ""node1"": 86296, ""node2"": 15196, ""type"": 0, ""w"": 177.0}, {""id"": 215565, ""node1"": 86296, ""node2"": 15196, ""type"": 9, ""w"": 59.0}, {""id"": 276801, ""node1"": 86296, ""node2"": 15196, ""type"": 17, ""w"": 129.0}, {""id"": 3162455, ""node1"": 86296, ""node2"": 15196, ""type"": 106, ""w"": 87.0}, {""id"": 1522645, ""node1"": 86296, ""node2"": 15196, ""type"": 666, ""w"": 16.0}]",r_associated,177.0
+sucre,vanillé,amod,ADJ,0.6220211982727051,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]",r_associated,13.0
+sucre,citron,nmod,NOUN,0.6847571134567261,"[{""id"": 292123774, ""node1"": 139481, ""node2"": 15386, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+casserole,couteau,nmod,NOUN,0.6493775248527527,[],,
+couteau,lot,nmod,NOUN,0.4050438702106476,[],,
+couteau,cuillère,nmod,NOUN,0.5726497173309326,"[{""id"": 116903, ""node1"": 32610, ""node2"": 51905, ""type"": 0, ""w"": 80.0}, {""id"": 539956577, ""node1"": 32610, ""node2"": 51905, ""type"": 25, ""w"": -25.0}]",r_associated,80.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+bouillir,lait,obj,NOUN,0.646347165107727,"[{""id"": 797436792, ""node1"": 42401, ""node2"": 86296, ""type"": 0, ""w"": 28.0}, {""id"": 153576, ""node1"": 42401, ""node2"": 86296, ""type"": 14, ""w"": 160.0}, {""id"": 352516472, ""node1"": 42401, ""node2"": 86296, ""type"": 31, ""w"": 29.0}]",r_patient,160.0
+zeste,choix,nmod,NOUN,0.4802066087722778,[],,
+faire,attention,appos,NOUN,0.4588907361030578,"[{""id"": 1051672226, ""node1"": 87528, ""node2"": 44007, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+faire,ruban,obj,NOUN,0.4931843876838684,[],,
+ruban,long,amod,ADJ,0.4163059890270233,"[{""id"": 561370143, ""node1"": 98544, ""node2"": 84432, ""type"": 0, ""w"": 35.0}]",r_associated,35.0
+faire,retirer,advcl,VERB,0.44416144490242,[],,
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+jeter,lait,nsubj,NOUN,0.5980654358863831,"[{""id"": 97862152, ""node1"": 48625, ""node2"": 86296, ""type"": 14, ""w"": 32.0}]",r_patient,32.0
+lait,bout,nmod,NOUN,0.5798055529594421,[],,
+jeter,riz,obj,NOUN,0.6781878471374512,[],,
+baisser,feu,obj,NOUN,0.552813708782196,[],,
+devoir,riz,nsubj,NOUN,0.6619561314582825,[],,
+couper,feu,obj,NOUN,0.5596455335617065,[],,
+aller,riz,nsubj,NOUN,0.6685390472412109,[],,
+lait,refroidir,acl,VERB,0.6208069920539856,[],,
+servir,dessert,obj,NOUN,0.5882477760314941,"[{""id"": 15082569, ""node1"": 7888, ""node2"": 38557, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+dessert,tiède,amod,ADJ,0.640022873878479,[],,
+zeste,citron,nmod,NOUN,0.5487085580825806,"[{""id"": 615058522, ""node1"": 98173, ""node2"": 15386, ""type"": 0, ""w"": 22.0}, {""id"": 9991099, ""node1"": 98173, ""node2"": 15386, ""type"": 10, ""w"": 4.0}, {""id"": 377014851, ""node1"": 98173, ""node2"": 15386, ""type"": 20, ""w"": 34.0}, {""id"": 986046177, ""node1"": 98173, ""node2"": 15386, ""type"": 666, ""w"": 2.0}]",r_has_magn,34.0
+citron,vert,amod,ADJ,0.5348256230354309,"[{""id"": 1559582, ""node1"": 15386, ""node2"": 26976, ""type"": 0, ""w"": 61.0}, {""id"": 1773945, ""node1"": 15386, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3160941, ""node1"": 15386, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]",r_associated,61.0
+zeste,décorer,acl,VERB,0.5334931015968323,[],,
+décorer,dessus,obj,NOUN,0.4814939200878143,[],,

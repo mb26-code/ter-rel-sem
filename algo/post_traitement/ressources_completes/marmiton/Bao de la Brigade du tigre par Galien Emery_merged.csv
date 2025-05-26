@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+titre,sel,nmod,NOUN,0.6557343602180481,[],,
+sel,huile,amod,NOUN,0.6993125677108765,"[{""id"": 917898976, ""node1"": 13260, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+sel,sucre,nmod,NOUN,0.6925632357597351,"[{""id"": 183179, ""node1"": 13260, ""node2"": 139481, ""type"": 0, ""w"": 182.0}, {""id"": 377013894, ""node1"": 13260, ""node2"": 139481, ""type"": 20, ""w"": 30.0}, {""id"": 377000348, ""node1"": 13260, ""node2"": 139481, ""type"": 21, ""w"": 28.0}, {""id"": 1032957125, ""node1"": 13260, ""node2"": 139481, ""type"": 78, ""w"": 32.0}]",r_associated,182.0
+sucre,levure,nmod,NOUN,0.6511401534080505,[],,
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+lait,huile,amod,NOUN,0.6405364274978638,[],,
+huile,sésame,nmod,NOUN,0.6178574562072754,"[{""id"": 12295235, ""node1"": 141971, ""node2"": 18404, ""type"": 0, ""w"": 43.0}, {""id"": 580644, ""node1"": 141971, ""node2"": 18404, ""type"": 5, ""w"": 32.0}, {""id"": 88080850, ""node1"": 141971, ""node2"": 18404, ""type"": 35, ""w"": 32.0}, {""id"": 380316783, ""node1"": 141971, ""node2"": 18404, ""type"": 54, ""w"": 34.0}]",r_associated,43.0
+sésame,piment,amod,ADV,0.6391745805740356,"[{""id"": 941908119, ""node1"": 18404, ""node2"": 128791, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+sésame,sauce,amod,NOUN,0.7172216176986694,[],,
+mélange,épice,nmod,NOUN,0.6910523176193237,"[{""id"": 925026230, ""node1"": 14800, ""node2"": 146056, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+épice,four,appos,NOUN,0.7764711976051331,[],,
+four,planche,nmod,NOUN,0.6710441708564758,[],,
+découper,blender,obj,NOUN,0.5404122471809387,[],,
+découper,chauffer,advcl,VERB,0.5612485408782959,[],,
+découper,table,obj,NOUN,0.5419426560401917,"[{""id"": 269726, ""node1"": 45686, ""node2"": 89591, ""type"": 31, ""w"": 51.0}]",r_action_lieu,51.0
+table,induction,amod,NOUN,0.5181390047073364,[],,
+produit,tout,amod,ADJ,0.4655885696411133,[],,
+produit,sec,acl,ADJ,0.4523860812187195,[],,
+chauffer,lait,nmod,NOUN,0.6334350109100342,"[{""id"": 31845126, ""node1"": 90994, ""node2"": 86296, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+lait,maximum,appos,NOUN,0.5731260180473328,[],,
+verser,lait,obj,NOUN,0.5939220190048218,"[{""id"": 2147735, ""node1"": 104506, ""node2"": 86296, ""type"": 14, ""w"": 30.0}, {""id"": 645787359, ""node1"": 104506, ""node2"": 86296, ""type"": 666, ""w"": 2.0}]",r_patient,30.0
+lait,levure,nmod,NOUN,0.6250109076499939,[],,
+cuve,batteur,nmod,NOUN,0.5436963438987732,"[{""id"": 96921046, ""node1"": 115250, ""node2"": 29241, ""type"": 0, ""w"": 16.0}, {""id"": 96921056, ""node1"": 115250, ""node2"": 29241, ""type"": 10, ""w"": 21.0}]",r_holo,21.0
+batteur,lait,nmod,NOUN,0.589461088180542,[],,
+étaler,pâte,obj,NOUN,0.6019123196601868,"[{""id"": 364779096, ""node1"": 98214, ""node2"": 34069, ""type"": 0, ""w"": 38.0}, {""id"": 243248, ""node1"": 98214, ""node2"": 34069, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+mélanger,sauce,obj,NOUN,0.7105662822723389,"[{""id"": 343034831, ""node1"": 37151, ""node2"": 141110, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+sauce,poudre,appos,NOUN,0.7114208340644836,"[{""id"": 651265018, ""node1"": 141110, ""node2"": 139470, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+poudre,piment,nmod,NOUN,0.6525683403015137,[],,
+mélanger,mélange,obj,NOUN,0.5358791947364807,"[{""id"": 1323622, ""node1"": 37151, ""node2"": 14800, ""type"": 0, ""w"": 78.0}, {""id"": 85385033, ""node1"": 37151, ""node2"": 14800, ""type"": 5, ""w"": -8.0}, {""id"": 209064, ""node1"": 37151, ""node2"": 14800, ""type"": 14, ""w"": 58.0}, {""id"": 1752765, ""node1"": 37151, ""node2"": 14800, ""type"": 22, ""w"": 60.0}, {""id"": 1065179, ""node1"": 37151, ""node2"": 14800, ""type"": 39, ""w"": 52.0}, {""id"": 648838887, ""node1"": 37151, ""node2"": 14800, ""type"": 99, ""w"": 36.0}, {""id"": 1793597, ""node1"": 37151, ""node2"": 14800, ""type"": 666, ""w"": 2.0}]",r_associated,78.0
+pellicule,fin,amod,ADJ,0.4285062849521637,[],,
+pellicule,pâte,nmod,NOUN,0.6136053204536438,[],,
+pousser,minute,obj,NOUN,0.4317981302738189,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+panier,vapeur,amod,NOUN,0.5399869680404663,[],,
+four,vapeur,amod,ADJ,0.6942451000213623,[],,

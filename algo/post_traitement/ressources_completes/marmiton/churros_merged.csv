@@ -1,0 +1,41 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,sel,nmod,NOUN,0.6845535635948181,"[{""id"": 941870202, ""node1"": 139470, ""node2"": 13260, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+sel,beurre,amod,NOUN,0.7119027376174927,"[{""id"": 29328492, ""node1"": 13260, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 9986817, ""node1"": 13260, ""node2"": 140377, ""type"": 10, ""w"": 35.0}]",r_holo,35.0
+titre,eau,nmod,NOUN,0.5551659464836121,"[{""id"": 368369040, ""node1"": 7970, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+eau,oeuf,nmod,NOUN,0.6093990802764893,"[{""id"": 386183819, ""node1"": 65012, ""node2"": 116175, ""type"": 28, ""w"": 27.0}, {""id"": 376049523, ""node1"": 65012, ""node2"": 116175, ""type"": 51, ""w"": 26.0}]",r_lieu-1,27.0
+eau,huile,amod,NOUN,0.5881909728050232,"[{""id"": 922137128, ""node1"": 65012, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+huile,pépin,nmod,NOUN,0.5148436427116394,"[{""id"": 915396892, ""node1"": 141971, ""node2"": 143219, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+pépin,raisin,nmod,NOUN,0.4464874863624573,"[{""id"": 119295, ""node1"": 143219, ""node2"": 93528, ""type"": 0, ""w"": 138.0}, {""id"": 1988000, ""node1"": 143219, ""node2"": 93528, ""type"": 10, ""w"": 60.0}, {""id"": 124319, ""node1"": 143219, ""node2"": 93528, ""type"": 15, ""w"": 78.0}]",r_associated,138.0
+titre,casserole,nmod,NOUN,0.5580013990402222,[],,
+casserole,saladier,obj,NOUN,0.6254573464393616,[],,
+saladier,tamis,nmod,NOUN,0.5371009111404419,[],,
+casserole,top,obj,NOUN,0.4402943253517151,[],,
+papier,meilleur,amod,ADJ,0.4798659384250641,[],,
+top,papier,nmod,NOUN,0.4000419974327087,[],,
+pinceau,cuillère,nmod,NOUN,0.5075318813323975,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,douille,nmod,NOUN,0.4838835597038269,[],,
+cuillère,millimètre,nmod,NOUN,0.4791401028633117,[],,
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,assiette,appos,NOUN,0.5656145215034485,[],,
+assiette,étape,nmod,NOUN,0.483820229768753,[],,
+titre,bouillir,nmod,VERB,0.5746515989303589,[],,
+bouillir,eau,obj,NOUN,0.6033914685249329,"[{""id"": 2243409, ""node1"": 42401, ""node2"": 65012, ""type"": 0, ""w"": 37.0}, {""id"": 418498333, ""node1"": 42401, ""node2"": 65012, ""type"": 3, ""w"": 32.0}, {""id"": 2243394, ""node1"": 42401, ""node2"": 65012, ""type"": 13, ""w"": 175.0}, {""id"": 153578, ""node1"": 42401, ""node2"": 65012, ""type"": 14, ""w"": 270.0}, {""id"": 352516461, ""node1"": 42401, ""node2"": 65012, ""type"": 31, ""w"": 31.0}, {""id"": 979642032, ""node1"": 42401, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]",r_patient,270.0
+eau,beurre,nmod,NOUN,0.664980947971344,[],,
+pincée,sucre,nmod,NOUN,0.6500593423843384,[],,
+eau,remuer,acl,VERB,0.6087642312049866,[],,
+obtenir,pâte,obj,NOUN,0.6173189282417297,[],,
+pâte,épais,amod,ADJ,0.6241465210914612,"[{""id"": 96931429, ""node1"": 34069, ""node2"": 55342, ""type"": 17, ""w"": 23.0}]",r_carac,23.0
+texture,homogène,amod,ADJ,0.4608420133590698,"[{""id"": 796925256, ""node1"": 4910, ""node2"": 124759, ""type"": 0, ""w"": 26.0}, {""id"": 615072627, ""node1"": 4910, ""node2"": 124759, ""type"": 17, ""w"": 30.0}]",r_carac,30.0
+œuf,battre,acl,VERB,0.5265821218490601,[],,
+laisser,pâte,obj,NOUN,0.6335045099258423,[],,
+reposer,heure,obj,NOUN,0.4106099009513855,[],,
+chauffer,huile,obj,NOUN,0.64256751537323,[],,
+huile,degré,nmod,NOUN,0.5531445741653442,[],,
+mettre,pâte,obj,NOUN,0.6384987831115723,[],,
+presser,bande,nmod,NOUN,0.4072418808937073,[],,
+bande,pâte,nmod,NOUN,0.5705278515815735,[],,
+dorer,laisser,obj,VERB,0.4993822574615478,[],,
+papier,absorber,acl,VERB,0.4968288838863373,[],,

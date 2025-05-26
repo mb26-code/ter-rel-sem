@@ -1,0 +1,55 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+Parmentier,canard,nmod,NOUN,0.5065104365348816,[],,
+Parmentier,confit,amod,ADJ,0.5608395338058472,[],,
+Parmentier,purée,appos,NOUN,0.6368129849433899,[],,
+purée,haricot,nmod,NOUN,0.6528477072715759,[],,
+Parmentier,ingrédient,nmod,NOUN,0.5734128355979919,[],,
+Parmentier,thym,amod,ADV,0.576715350151062,[],,
+Parmentier,oignon,acl,NOUN,0.5693582892417908,[],,
+oignon,cuisse,nmod,NOUN,0.581159770488739,[],,
+cuisse,canard,nmod,PROPN,0.5198010802268982,"[{""id"": 185097, ""node1"": 58876, ""node2"": 7769, ""type"": 0, ""w"": 81.0}, {""id"": 377011018, ""node1"": 58876, ""node2"": 7769, ""type"": 20, ""w"": 27.0}]",r_associated,81.0
+oignon,foie,nmod,NOUN,0.6311519145965576,[],,
+Parmentier,haricot,nmod,NOUN,0.5005929470062256,[],,
+Parmentier,crème,nmod,NOUN,0.6069732308387756,[],,
+crème,liquide,amod,ADJ,0.6173139810562134,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]",r_carac,52.0
+Parmentier,huile,amod,NOUN,0.5815300345420837,[],,
+Parmentier,poêle,nmod,NOUN,0.6437547206878662,[],,
+Parmentier,wok,nmod,NUM,0.6007174849510193,[],,
+Parmentier,cuillère,nmod,NOUN,0.5567456483840942,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,mixeur,nmod,NOUN,0.5916650295257568,[],,
+mixeur,Plat,nmod,PROPN,0.5372246503829956,[],,
+Plat,gratin,nmod,NOUN,0.4779236614704132,[],,
+mixeur,couvercle,nmod,NOUN,0.585760772228241,[],,
+couvercle,saladier,nmod,NOUN,0.6053080558776855,[],,
+couvercle,four,nmod,NOUN,0.6759926676750183,[],,
+poêle,feu,nmod,NOUN,0.623403787612915,"[{""id"": 12351768, ""node1"": 119686, ""node2"": 143703, ""type"": 0, ""w"": 31.0}, {""id"": 12199892, ""node1"": 119686, ""node2"": 143703, ""type"": 5, ""w"": 35.0}, {""id"": 1786279, ""node1"": 119686, ""node2"": 143703, ""type"": 666, ""w"": 1.0}]",r_syn,35.0
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+graisse,canard,nmod,NOUN,0.6196781396865845,[],,
+carotte,thym,appos,NOUN,0.6303088665008545,[],,
+cuire,oignon,nsubj:pass,NOUN,0.7573981881141663,"[{""id"": 15079626, ""node1"": 5115, ""node2"": 123307, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+ce,cuire,acl,VERB,0.456451803445816,[],,
+ajouter,viande,obj,NOUN,0.7162638902664185,[],,
+ajouter,mélanger,advcl,VERB,0.476481020450592,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+stopper,feu,obj,NOUN,0.5240678191184998,[],,
+mixer,haricot,nsubj,NOUN,0.5995355844497681,[],,
+plat,gratin,nmod,NOUN,0.6157448291778564,"[{""id"": 415003453, ""node1"": 36327, ""node2"": 12942, ""type"": 0, ""w"": 28.0}, {""id"": 246264043, ""node1"": 36327, ""node2"": 12942, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+plat,couvrir,acl,VERB,0.6204286217689514,[],,
+couvrir,fond,obj,NOUN,0.4974351227283478,[],,
+fond,mélange,nmod,NOUN,0.5410748720169067,[],,
+mélange,viande,nmod,NOUN,0.7630858421325684,[],,
+saupoudrer,chapelure,nmod,NOUN,0.624013364315033,[],,
+surface,huile,nmod,NOUN,0.5795624852180481,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+four,chaud,amod,ADJ,0.6748667359352112,"[{""id"": 363192, ""node1"": 9190, ""node2"": 19150, ""type"": 0, ""w"": 123.0}, {""id"": 376860, ""node1"": 9190, ""node2"": 19150, ""type"": 17, ""w"": 130.0}, {""id"": 11348785, ""node1"": 9190, ""node2"": 19150, ""type"": 28, ""w"": 38.0}, {""id"": 2221131, ""node1"": 9190, ""node2"": 19150, ""type"": 666, ""w"": 1.0}]",r_carac,130.0
+four,180,appos,NUM,0.4979606568813324,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+devoir,croûte,nsubj,NOUN,0.5684247016906738,[],,
+servir,chaud,amod,ADJ,0.5655732154846191,[],,
+servir,accompagner,advcl,VERB,0.4404352605342865,[],,
+balsamique,huile,nmod,NOUN,0.6164727210998535,[],,
+balsamique,noix,nmod,NOUN,0.5926686525344849,[],,
+balsamique,sel,nmod,NOUN,0.6809523105621338,[],,
+poivre,moulin,nmod,NOUN,0.6073857545852661,"[{""id"": 10530093, ""node1"": 139597, ""node2"": 21988, ""type"": 0, ""w"": 31.0}, {""id"": 1603821, ""node1"": 139597, ""node2"": 21988, ""type"": 10, ""w"": 53.0}, {""id"": 11358278, ""node1"": 139597, ""node2"": 21988, ""type"": 15, ""w"": 38.0}]",r_holo,53.0

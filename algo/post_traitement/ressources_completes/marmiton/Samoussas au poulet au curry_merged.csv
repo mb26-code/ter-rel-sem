@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+curry,ingrédient,nmod,NOUN,0.6966756582260132,[],,
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,curry,nmod,NOUN,0.7383365035057068,[],,
+curry,oignon,nmod,ADP,0.6888878345489502,"[{""id"": 3116775, ""node1"": 82813, ""node2"": 123307, ""type"": 0, ""w"": 75.0}]",r_associated,75.0
+curry,blanc,amod,ADJ,0.6556650996208191,[],,
+blanc,poulet,nmod,NOUN,0.6177458167076111,"[{""id"": 9356626, ""node1"": 15196, ""node2"": 146261, ""type"": 0, ""w"": 50.0}, {""id"": 97329786, ""node1"": 15196, ""node2"": 146261, ""type"": 10, ""w"": 29.0}, {""id"": 1933499, ""node1"": 15196, ""node2"": 146261, ""type"": 35, ""w"": 45.0}, {""id"": 14659361, ""node1"": 15196, ""node2"": 146261, ""type"": 42, ""w"": 29.0}, {""id"": 1663131, ""node1"": 15196, ""node2"": 146261, ""type"": 666, ""w"": 1.0}]",r_associated,50.0
+pois,petit,amod,ADJ,0.5441179871559143,"[{""id"": 1743094, ""node1"": 97846, ""node2"": 55222, ""type"": 0, ""w"": 105.0}, {""id"": 1525554, ""node1"": 97846, ""node2"": 55222, ""type"": 666, ""w"": 2.0}]",r_associated,105.0
+curry,pois,appos,NOUN,0.6136117577552795,[],,
+papier,meilleur,amod,ADJ,0.4798659384250641,[],,
+top,papier,nmod,NOUN,0.4000419974327087,[],,
+four,planche,nmod,NOUN,0.6710441708564758,[],,
+table,induction,amod,NOUN,0.5181390047073364,[],,
+couper,oignon,obj,NOUN,0.596168577671051,"[{""id"": 435065584, ""node1"": 128828, ""node2"": 123307, ""type"": 0, ""w"": 29.0}, {""id"": 31770866, ""node1"": 128828, ""node2"": 123307, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+cuillère,huile,nmod,NOUN,0.612982988357544,"[{""id"": 775213351, ""node1"": 51905, ""node2"": 141971, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+huile,cuisson,nmod,NOUN,0.7301664352416992,"[{""id"": 8556096, ""node1"": 141971, ""node2"": 60056, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+utiliser,huile,obj,NOUN,0.5718182921409607,[],,
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+découper,blanc,obj,NOUN,0.5381458401679993,[],,
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+retirer,graisse,obj,NOUN,0.5665618777275085,[],,
+graisse,agréable,acl:relcl,ADJ,0.6081842184066772,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+ajouter,curry,obj,NOUN,0.6705759763717651,"[{""id"": 31845118, ""node1"": 25099, ""node2"": 82813, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+commencer,poulet,nsubj,NOUN,0.6555604338645935,[],,
+ajouter,pois,obj,NOUN,0.5312543511390686,[],,
+emballage,feuille,nmod,NOUN,0.4713562726974487,[],,
+feuille,brick,nmod,NOUN,0.4436377286911011,[],,
+devoir,garniture,nsubj,NOUN,0.5275971293449402,[],,
+mettre,garniture,obj,NOUN,0.5955256819725037,"[{""id"": 361411717, ""node1"": 132366, ""node2"": 57803, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+garniture,centre,nmod,NOUN,0.5539156794548035,[],,
+plier,feuille,obj,NOUN,0.4318964183330536,"[{""id"": 2219355, ""node1"": 23919, ""node2"": 37993, ""type"": 0, ""w"": 52.0}, {""id"": 222987, ""node1"": 23919, ""node2"": 37993, ""type"": 14, ""w"": 100.0}, {""id"": 376067667, ""node1"": 23919, ""node2"": 37993, ""type"": 31, ""w"": 30.0}]",r_patient,100.0
+feuille,carré,nmod,NOUN,0.4758000373840332,"[{""id"": 905647478, ""node1"": 37993, ""node2"": 22120, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+placer,brick,obj,PROPN,0.4619289934635162,[],,
+plaque,recouvrir,acl,VERB,0.5361502170562744,[],,
+four,min,nmod,NOUN,0.5254760980606079,[],,
+mettre,thermostat,obj,NOUN,0.5112968683242798,[],,

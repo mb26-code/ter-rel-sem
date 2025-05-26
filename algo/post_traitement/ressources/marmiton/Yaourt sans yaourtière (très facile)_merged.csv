@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relation
+titre,yaourt,nmod,NOUN,0.5099049210548401,[]
+yaourt,facile,amod,ADJ,0.5598340034484863,[]
+yaourt,ingrédient,nmod,NOUN,0.6232267022132874,[]
+yaourt,lait,appos,NOUN,0.5797099471092224,"[{""id"": 120512, ""node1"": 82320, ""node2"": 86296, ""type"": 0, ""w"": 137.0}, {""id"": 31177905, ""node1"": 82320, ""node2"": 86296, ""type"": 3, ""w"": 38.0}, {""id"": 24419596, ""node1"": 82320, ""node2"": 86296, ""type"": 6, ""w"": 245.0}, {""id"": 385497931, ""node1"": 82320, ""node2"": 86296, ""type"": 8, ""w"": -25.0}, {""id"": 274167920, ""node1"": 82320, ""node2"": 86296, ""type"": 9, ""w"": 17.0}, {""id"": 413715, ""node1"": 82320, ""node2"": 86296, ""type"": 21, ""w"": 84.0}, {""id"": 10638507, ""node1"": 82320, ""node2"": 86296, ""type"": 50, ""w"": 35.0}, {""id"": 1046682595, ""node1"": 82320, ""node2"": 86296, ""type"": 54, ""w"": 20.0}, {""id"": 1865773, ""node1"": 82320, ""node2"": 86296, ""type"": 666, ""w"": 29.0}]"
+lait,entier,amod,ADJ,0.5518331527709961,"[{""id"": 114016, ""node1"": 86296, ""node2"": 49309, ""type"": 0, ""w"": 134.0}, {""id"": 132413, ""node1"": 86296, ""node2"": 49309, ""type"": 8, ""w"": 111.0}, {""id"": 276797, ""node1"": 86296, ""node2"": 49309, ""type"": 17, ""w"": 80.0}]"
+yaourt,nature,appos,NOUN,0.5493549108505249,"[{""id"": 10638425, ""node1"": 82320, ""node2"": 143607, ""type"": 0, ""w"": 92.0}, {""id"": 1691067, ""node1"": 82320, ""node2"": 143607, ""type"": 17, ""w"": 97.0}, {""id"": 1065206415, ""node1"": 82320, ""node2"": 143607, ""type"": 666, ""w"": 2.0}]"
+nature,lait,nmod,NOUN,0.5904673337936401,"[{""id"": 289469024, ""node1"": 143607, ""node2"": 86296, ""type"": 23, ""w"": 26.0}]"
+yaourt,poudre,nmod,NOUN,0.6278145909309387,[]
+poudre,entier,amod,ADJ,0.544916570186615,[]
+four,casserole,nmod,NOUN,0.7147663235664368,[]
+casserole,fouet,nmod,NOUN,0.5830783247947693,[]
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 305.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 265.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]"
+cuisine,saladier,nmod,NOUN,0.6925616264343262,"[{""id"": 47300451, ""node1"": 16033, ""node2"": 45455, ""type"": 0, ""w"": 30.0}, {""id"": 47300450, ""node1"": 16033, ""node2"": 45455, ""type"": 27, ""w"": 21.0}]"
+saladier,couvercle,nmod,NOUN,0.6053080558776855,[]
+couvercle,balance,nmod,NOUN,0.5437039136886597,[]
+balance,cuisine,nmod,NOUN,0.5991910099983215,[]
+fouet,réfrigérateur,nmod,NOUN,0.5126871466636658,[]
+réfrigérateur,étape,nmod,NOUN,0.4274937808513641,[]
+porter,lait,obj,NOUN,0.5895253419876099,[]
+retirer,feu,obj,NOUN,0.5417822003364563,[]
+refroidir,lait,nsubj,NOUN,0.6208069920539856,[]
+aide,fouet,nmod,NOUN,0.4524300992488861,[]
+mélanger,obtenir,advcl,VERB,0.4532898962497711,[]
+obtenir,mélange,obj,NOUN,0.4783641993999481,[]
+mélange,homogène,amod,ADJ,0.4782799482345581,"[{""id"": 914526136, ""node1"": 14800, ""node2"": 124759, ""type"": 0, ""w"": 21.0}, {""id"": 33170626, ""node1"": 14800, ""node2"": 124759, ""type"": 17, ""w"": 27.0}]"
+moment,sucre,nmod,NOUN,0.6695204377174377,[]
+yaourt,vanillé,amod,ADJ,0.5754117369651794,[]
+yaourt,ajouter,acl,VERB,0.5681745409965515,"[{""id"": 274167914, ""node1"": 82320, ""node2"": 25099, ""type"": 26, ""w"": 30.0}]"
+sucre,vanillé,amod,ADJ,0.6220211982727051,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]"
+mettre,sachet,obj,NOUN,0.5227101445198059,[]
+sachet,sucre,nmod,NOUN,0.6602502465248108,"[{""id"": 720818405, ""node1"": 112386, ""node2"": 139481, ""type"": 174, ""w"": 25.0}, {""id"": 723812101, ""node1"": 112386, ""node2"": 139481, ""type"": 666, ""w"": 2.0}]"
+question,goût,nmod,NOUN,0.5539090633392334,[]
+goût,personnel,amod,ADJ,0.5250500440597534,"[{""id"": 31851502, ""node1"": 119233, ""node2"": 2553, ""type"": 17, ""w"": 30.0}]"
+verser,liquide,obj,NOUN,0.5274866223335266,"[{""id"": 1352184, ""node1"": 104506, ""node2"": 140315, ""type"": 0, ""w"": 78.0}, {""id"": 220541, ""node1"": 104506, ""node2"": 140315, ""type"": 14, ""w"": 100.0}, {""id"": 376199214, ""node1"": 104506, ""node2"": 140315, ""type"": 16, ""w"": 30.0}, {""id"": 645787352, ""node1"": 104506, ""node2"": 140315, ""type"": 666, ""w"": 4.0}]"
+pot,individuel,amod,ADJ,0.4917016923427582,[]
+refermer,couvercle,obj,NOUN,0.4600522220134735,[]
+couvercle,aller,acl,VERB,0.5004818439483643,[]

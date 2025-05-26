@@ -1,0 +1,22 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,beurre,nmod,NOUN,0.6020650267601013,[],,
+beurre,escargot,nmod,NOUN,0.639205813407898,"[{""id"": 796693589, ""node1"": 140377, ""node2"": 64107, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+beurre,modifier,nsubj,VERB,0.603534996509552,[],,
+modifier,beurre,obj,NOUN,0.603534996509552,[],,
+beurre,ail,nmod,NOUN,0.6213099956512451,"[{""id"": 500926028, ""node1"": 140377, ""node2"": 26979, ""type"": 0, ""w"": 3.0}]",r_associated,3.0
+beurre,composer,acl,VERB,0.6463956832885742,[],,
+association,beurre,nsubj,NOUN,0.6635625958442688,[],,
+beurre,doux,amod,ADJ,0.5858895778656006,"[{""id"": 1632570, ""node1"": 140377, ""node2"": 74183, ""type"": 0, ""w"": 111.0}, {""id"": 211606, ""node1"": 140377, ""node2"": 74183, ""type"": 17, ""w"": 80.0}, {""id"": 652229002, ""node1"": 140377, ""node2"": 74183, ""type"": 666, ""w"": 2.0}]",r_associated,111.0
+association,soupe,nmod,NOUN,0.6145793199539185,[],,
+soupe,ail,nmod,ADV,0.6407797336578369,"[{""id"": 729556071, ""node1"": 117152, ""node2"": 26979, ""type"": 0, ""w"": 33.0}]",r_associated,33.0
+soupe,frais,amod,NOUN,0.6394872069358826,[],,
+relever,viande,obj,NOUN,0.7030790448188782,[],,
+viande,grillé,amod,ADJ,0.719925582408905,"[{""id"": 2164311, ""node1"": 140100, ""node2"": 141899, ""type"": 17, ""w"": 30.0}]",r_carac,30.0
+mets,autre,amod,ADJ,0.5137988328933716,[],,
+livre,recette,nmod,NOUN,0.5988067388534546,"[{""id"": 797511876, ""node1"": 142787, ""node2"": 120188, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+livre,paraître,acl,VERB,0.4110333025455475,"[{""id"": 797001843, ""node1"": 142787, ""node2"": 8797, ""type"": 0, ""w"": 26.0}, {""id"": 218353880, ""node1"": 142787, ""node2"": 8797, ""type"": 24, ""w"": 30.0}]",r_agent-1,30.0
+base,sauce,nsubj,NOUN,0.6639491319656372,[],,
+sauce,beurre,nmod,NOUN,0.7691084742546082,"[{""id"": 96714969, ""node1"": 141110, ""node2"": 140377, ""type"": 0, ""w"": 36.0}, {""id"": 96715013, ""node1"": 141110, ""node2"": 140377, ""type"": 9, ""w"": 40.0}]",r_has_part,40.0
+pouvoir,base,advcl,VERB,0.4960993528366089,[],,
+confection,beurre,nmod,NOUN,0.7056142687797546,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,

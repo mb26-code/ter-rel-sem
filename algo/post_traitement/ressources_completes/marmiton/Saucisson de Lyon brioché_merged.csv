@@ -1,0 +1,46 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,saucisson,nmod,NOUN,0.4862902164459228,[],,
+beurre,tendre,amod,ADJ,0.6567766666412354,"[{""id"": 172916, ""node1"": 140377, ""node2"": 71211, ""type"": 17, ""w"": 90.0}]",r_carac,90.0
+sucre,levure,nmod,NOUN,0.6511401534080505,[],,
+sucre,feuille,nmod,NOUN,0.6661063432693481,[],,
+feuille,laurier,nmod,PROPN,0.4908609986305237,"[{""id"": 15624759, ""node1"": 37993, ""node2"": 114548, ""type"": 0, ""w"": 29.0}, {""id"": 14620301, ""node1"": 37993, ""node2"": 114548, ""type"": 10, ""w"": 36.0}]",r_holo,36.0
+feuille,saucisson,nmod,VERB,0.5973354578018188,[],,
+saucisson,oeuf,nmod,NOUN,0.5754523277282715,"[{""id"": 666201348, ""node1"": 34296, ""node2"": 116175, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+sucre,saladier,nmod,NOUN,0.6957500576972961,[],,
+saladier,cuillère,nmod,NOUN,0.6106023788452148,"[{""id"": 591359667, ""node1"": 45455, ""node2"": 51905, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+casserole,moule,nmod,NOUN,0.5965444445610046,[],,
+cake,four,appos,NOUN,0.6546434164047241,"[{""id"": 561291406, ""node1"": 28945, ""node2"": 9190, ""type"": 0, ""w"": 33.0}, {""id"": 583219224, ""node1"": 28945, ""node2"": 9190, ""type"": 5, ""w"": -5.0}, {""id"": 623131366, ""node1"": 28945, ""node2"": 9190, ""type"": 15, ""w"": 32.0}]",r_lieu,32.0
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+titre,mélanger,acl,VERB,0.4706915318965912,[],,
+mélanger,farine,obj,NOUN,0.6720532178878784,"[{""id"": 373004383, ""node1"": 37151, ""node2"": 127629, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+mélanger,levure,obj,NOUN,0.5925063490867615,[],,
+incorporer,beurre,obj,NOUN,0.6613820195198059,"[{""id"": 423151029, ""node1"": 3845, ""node2"": 140377, ""type"": 0, ""w"": 1.0}, {""id"": 470589786, ""node1"": 3845, ""node2"": 140377, ""type"": 14, ""w"": 76.0}]",r_patient,76.0
+beurre,mou,amod,ADJ,0.4953928291797638,"[{""id"": 211604, ""node1"": 140377, ""node2"": 26607, ""type"": 17, ""w"": 82.0}]",r_carac,82.0
+boule,bel,amod,ADJ,0.425535649061203,[],,
+obtention,boule,nmod,NOUN,0.4779263436794281,[],,
+poser,temps,obj,NOUN,0.4292679131031036,[],,
+temps,cuire,acl,VERB,0.698011040687561,[],,
+cuire,saucisson,obj,NOUN,0.7717756032943726,[],,
+casserole,grand,amod,ADJ,0.5876413583755493,[],,
+remplir,casserole,obj,NOUN,0.5616362690925598,"[{""id"": 97862165, ""node1"": 95980, ""node2"": 57253, ""type"": 14, ""w"": 30.0}, {""id"": 635020080, ""node1"": 95980, ""node2"": 57253, ""type"": 31, ""w"": 26.0}]",r_patient,30.0
+casserole,eau,nmod,NOUN,0.6077002882957458,"[{""id"": 96542705, ""node1"": 57253, ""node2"": 65012, ""type"": 0, ""w"": 19.0}, {""id"": 22760525, ""node1"": 57253, ""node2"": 65012, ""type"": 28, ""w"": 34.0}, {""id"": 96542704, ""node1"": 57253, ""node2"": 65012, ""type"": 666, ""w"": 1.0}]",r_lieu-1,34.0
+remplir,jeter,advcl,VERB,0.4128193855285644,[],,
+jeter,oignon,obj,NOUN,0.5891644358634949,[],,
+oignon,couper,acl,VERB,0.596168577671051,"[{""id"": 900892185, ""node1"": 123307, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 31770901, ""node1"": 123307, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 1767208, ""node1"": 123307, ""node2"": 128828, ""type"": 666, ""w"": 2.0}]",r_patient-1,100.0
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+varier,cuisson,nsubj,NOUN,0.6587015390396118,[],,
+cuire,varier,advcl,VERB,0.6798170208930969,[],,
+taille,saucisson,nmod,NOUN,0.5419062376022339,[],,
+retirer,peau,obj,NOUN,0.4902960956096649,[],,
+peau,saucisson,nmod,NOUN,0.5385754704475403,"[{""id"": 796703506, ""node1"": 109785, ""node2"": 34296, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+étaler,pâte,obj,NOUN,0.6019123196601868,"[{""id"": 364779096, ""node1"": 98214, ""node2"": 34069, ""type"": 0, ""w"": 38.0}, {""id"": 243248, ""node1"": 98214, ""node2"": 34069, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+poser,saucisson,obj,NOUN,0.525346040725708,[],,
+saucisson,pâte,nmod,NOUN,0.6774102449417114,[],,
+disposer,tout,obj,NOUN,0.4742641150951385,[],,
+moule,cake,nmod,NOUN,0.5423397421836853,"[{""id"": 272916, ""node1"": 143723, ""node2"": 28945, ""type"": 0, ""w"": 60.0}, {""id"": 583219247, ""node1"": 143723, ""node2"": 28945, ""type"": 28, ""w"": 27.0}]",r_associated,60.0
+enfourner,saucisson,obj,NOUN,0.6255364418029785,[],,
+brioche,180,nmod,NUM,0.401418924331665,[],,
+brioche,degré,nmod,NOUN,0.5373232364654541,[],,
+enfourner,thermostat,appos,NOUN,0.5461767911911011,[],,

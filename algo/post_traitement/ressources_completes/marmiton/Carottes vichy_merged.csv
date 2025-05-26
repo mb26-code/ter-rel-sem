@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,carotte,nmod,NOUN,0.5166646838188171,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,sucre,appos,NOUN,0.7083083987236023,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]",r_associated,70.0
+sucre,beurre,nmod,NOUN,0.6973879933357239,[],,
+sucre,bouillon,nmod,NOUN,0.7342697381973267,[],,
+bouillon,poule,nmod,NOUN,0.5475077629089355,[],,
+couteau,économe,nmod,NOUN,0.5018488168716431,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]",r_hypo,76.0
+économe,casserole,nmod,NOUN,0.571812093257904,[],,
+casserole,couvercle,obj,NOUN,0.6508210897445679,"[{""id"": 1739356, ""node1"": 57253, ""node2"": 89523, ""type"": 0, ""w"": 55.0}, {""id"": 409984, ""node1"": 57253, ""node2"": 89523, ""type"": 9, ""w"": 100.0}, {""id"": 2029148, ""node1"": 57253, ""node2"": 89523, ""type"": 666, ""w"": 1.0}]",r_has_part,100.0
+poêle,cuillère,nmod,NOUN,0.66766756772995,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+rondelle,petit,amod,ADJ,0.549956738948822,"[{""id"": 417861738, ""node1"": 71106, ""node2"": 55222, ""type"": 0, ""w"": 12.0}, {""id"": 9106735, ""node1"": 71106, ""node2"": 55222, ""type"": 666, ""w"": 1.0}]",r_associated,12.0
+carotte,rondelle,nmod,NOUN,0.5535646677017212,"[{""id"": 915206997, ""node1"": 76234, ""node2"": 71106, ""type"": 0, ""w"": 20.0}, {""id"": 31838017, ""node1"": 76234, ""node2"": 71106, ""type"": 58, ""w"": 66.0}]",r_quantificateur,66.0
+casserole,préparer,acl,VERB,0.6656357645988464,"[{""id"": 905996954, ""node1"": 57253, ""node2"": 36246, ""type"": 0, ""w"": 20.0}, {""id"": 477633590, ""node1"": 57253, ""node2"": 36246, ""type"": 30, ""w"": 26.0}, {""id"": 1858506, ""node1"": 57253, ""node2"": 36246, ""type"": 37, ""w"": 60.0}]",r_telic_role,60.0
+préparer,bouillon,obj,NOUN,0.6509688496589661,[],,
+bouillon,poulet,nmod,NOUN,0.6923155188560486,"[{""id"": 558647557, ""node1"": 146582, ""node2"": 146261, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+devoir,quantité,nsubj,NOUN,0.4533934295177459,[],,
+quantité,eau,nmod,NOUN,0.5596113204956055,[],,
+suffisant,recouvrir,advcl,VERB,0.4342915713787079,[],,
+recouvrir,carotte,obj,NOUN,0.6228286027908325,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+mousse,léger,amod,ADJ,0.4876366853713989,"[{""id"": 417887280, ""node1"": 134158, ""node2"": 143256, ""type"": 0, ""w"": 13.0}, {""id"": 1908795, ""node1"": 134158, ""node2"": 143256, ""type"": 17, ""w"": 26.0}]",r_carac,26.0
+obtention,mousse,nmod,NOUN,0.4745067656040191,[],,
+ajouter,carotte,obj,NOUN,0.5934749245643616,[],,
+ajouter,bouillon,obj,NOUN,0.597090482711792,[],,
+devoir,carotte,nsubj,NOUN,0.5211536884307861,[],,
+feu,petit,amod,ADJ,0.5734477639198303,"[{""id"": 2278793, ""node1"": 143703, ""node2"": 55222, ""type"": 17, ""w"": 30.0}]",r_carac,30.0
+laisser,feu,obj,NOUN,0.5448397397994995,[],,
+laisser,couvrir,advcl,VERB,0.4146642982959747,[],,

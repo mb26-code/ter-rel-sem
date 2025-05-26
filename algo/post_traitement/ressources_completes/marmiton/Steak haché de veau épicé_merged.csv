@@ -1,0 +1,39 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+veau,ingrédient,nmod,NOUN,0.6231942176818848,"[{""id"": 578518146, ""node1"": 91311, ""node2"": 123418, ""type"": 6, ""w"": 30.0}]",r_isa,30.0
+veau,oeuf,nmod,NOUN,0.6027881503105164,[],,
+oeuf,herbe,nmod,NOUN,0.5455087423324585,[],,
+herbe,huile,amod,NOUN,0.5625268220901489,"[{""id"": 941867120, ""node1"": 138874, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+poivre,cuillère,nmod,NOUN,0.680923342704773,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,mixeur,nmod,NOUN,0.5916650295257568,[],,
+mixeur,saladier,nmod,NOUN,0.581632137298584,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+mixeur,étape,nmod,NOUN,0.5223461985588074,[],,
+herbe,frais,amod,ADJ,0.477321058511734,"[{""id"": 992283068, ""node1"": 138874, ""node2"": 53495, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+ajouter,mélanger,advcl,VERB,0.476481020450592,[],,
+mélanger,tout,obj,NOUN,0.528428852558136,"[{""id"": 166642, ""node1"": 37151, ""node2"": 136232, ""type"": 14, ""w"": 110.0}]",r_patient,110.0
+ajouter,cuillère,obj,NOUN,0.5465437173843384,[],,
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+soupe,huile,nmod,NOUN,0.676633894443512,"[{""id"": 3346889, ""node1"": 117152, ""node2"": 141971, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+frigo,min,nmod,NOUN,0.4369140565395355,[],,
+préparer,viande,obj,NOUN,0.7278119921684265,"[{""id"": 369574992, ""node1"": 36246, ""node2"": 140100, ""type"": 0, ""w"": 31.0}, {""id"": 122111141, ""node1"": 36246, ""node2"": 140100, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+séparer,viande,obj,NOUN,0.6826486587524414,[],,
+ajouter,oeuf,obj,NOUN,0.5327831506729126,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+incorporer,moitié,obj,NOUN,0.4731312990188598,[],,
+moitié,farine,nmod,NOUN,0.6394578814506531,[],,
+mélanger,viande,obj,NOUN,0.756519615650177,[],,
+viande,préparation,nmod,NOUN,0.7364691495895386,"[{""id"": 11476670, ""node1"": 140100, ""node2"": 33634, ""type"": 0, ""w"": 55.0}, {""id"": 9903073, ""node1"": 140100, ""node2"": 33634, ""type"": 6, ""w"": 13.0}]",r_associated,55.0
+préparation,épice,nmod,NOUN,0.6807007789611816,"[{""id"": 601611808, ""node1"": 33634, ""node2"": 146056, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+ajouter,reste,obj,NOUN,0.454963743686676,[],,
+reste,farine,nmod,NOUN,0.6895829439163208,[],,
+reste,fonction,nmod,NOUN,0.4460864663124084,[],,
+fonction,humidité,nmod,NOUN,0.4138816595077514,[],,
+humidité,mélange,nmod,NOUN,0.5280871391296387,[],,
+vérifier,assaisonnement,obj,NOUN,0.4943651258945465,[],,
+préparer,galette,obj,NOUN,0.6095974445343018,[],,
+galette,compact,amod,ADJ,0.5361436009407043,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+filet,huile,nmod,NOUN,0.6150403022766113,[],,
+retourner,steak,obj,NOUN,0.5977177023887634,"[{""id"": 133540, ""node1"": 103323, ""node2"": 55572, ""type"": 14, ""w"": 58.0}]",r_patient,58.0
+steak,maximum,amod,ADJ,0.6060241460800171,[],,

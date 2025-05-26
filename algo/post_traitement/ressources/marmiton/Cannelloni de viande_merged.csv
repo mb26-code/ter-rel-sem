@@ -1,0 +1,45 @@
+head,lemma,dep,pos,sim,relation
+sel,poivre,acl,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]"
+poivre,oeuf,nmod,NOUN,0.646331787109375,"[{""id"": 798889061, ""node1"": 139597, ""node2"": 116175, ""type"": 0, ""w"": 23.0}]"
+oeuf,viande,amod,NOUN,0.671256959438324,"[{""id"": 799194672, ""node1"": 116175, ""node2"": 140100, ""type"": 0, ""w"": 29.0}]"
+oeuf,haché,amod,ADJ,0.5664389729499817,[]
+sel,saucisse,nmod,NOUN,0.7153053283691406,"[{""id"": 553967592, ""node1"": 13260, ""node2"": 77807, ""type"": 0, ""w"": 31.0}]"
+set,poêle,nmod,NOUN,0.5301709771156311,[]
+pinceau,robot,nmod,NOUN,0.4772313833236694,[]
+pinceau,pâtissier,amod,ADJ,0.4552018046379089,[]
+pinceau,cuillère,nmod,NOUN,0.5075318813323975,[]
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,saladier,nmod,NOUN,0.6106023788452148,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]"
+saladier,four,nmod,NOUN,0.6991847157478333,[]
+four,cuillère,nmod,NOUN,0.7153509855270386,[]
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]"
+cuillère,étape,nmod,NOUN,0.4685819745063782,[]
+chauffer,huile,amod,NOUN,0.64256751537323,[]
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]"
+dorer,oignon,obj,NOUN,0.6056223511695862,"[{""id"": 1021986507, ""node1"": 67147, ""node2"": 123307, ""type"": 0, ""w"": 40.0}, {""id"": 93571698, ""node1"": 67147, ""node2"": 123307, ""type"": 13, ""w"": 30.0}, {""id"": 93547211, ""node1"": 67147, ""node2"": 123307, ""type"": 14, ""w"": 30.0}]"
+dorer,min,obj,NOUN,0.4383701980113983,[]
+feu,doux,amod,ADJ,0.5496628284454346,[]
+dorer,remuer,advcl,VERB,0.5522658824920654,[]
+remuer,temps,obj,NOUN,0.5274296998977661,[]
+mélanger,viande,obj,NOUN,0.756519615650177,[]
+viande,haché,amod,ADJ,0.6638813018798828,[]
+chair,saucisse,nmod,NOUN,0.5549935698509216,"[{""id"": 10009740, ""node1"": 61835, ""node2"": 77807, ""type"": 10, ""w"": 4.0}]"
+aide,robot,nmod,NOUN,0.4581281542778015,[]
+viande,œuf,appos,NOUN,0.6335146427154541,[]
+cuire,tout,obj,NOUN,0.7203893661499023,[]
+min,bon,amod,ADJ,0.4137984216213226,[]
+égoutter,plus,obj,ADV,0.4623489081859588,[]
+plus,jus,nmod,NOUN,0.5587049126625061,[]
+jus,possible,amod,ADJ,0.5563667416572571,[]
+fond,plat,nmod,NOUN,0.5886687636375427,"[{""id"": 961890508, ""node1"": 119272, ""node2"": 36327, ""type"": 10, ""w"": 25.0}]"
+déposer,farce,obj,NOUN,0.558472216129303,[]
+farce,obtenir,acl,VERB,0.5294239521026611,[]
+aide,cuillère,nmod,NOUN,0.45757657289505,[]
+verser,reste,obj,NOUN,0.494085282087326,[]
+reste,sauce,nmod,NOUN,0.6750603318214417,[]
+tout,mozzarella,nmod,NOUN,0.580348551273346,[]
+four,180,nmod,NUM,0.4979606568813324,[]
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]"
+four,c,nmod,NOUN,0.4225132167339325,[]
+reposer,servir,advcl,VERB,0.4678449928760528,[]
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]"

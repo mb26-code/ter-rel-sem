@@ -1,0 +1,45 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,galette,nmod,NOUN,0.4977174997329712,"[{""id"": 941628754, ""node1"": 7970, ""node2"": 28590, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+galette,pomme,nmod,NOUN,0.6057263612747192,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,beurre,appos,NOUN,0.7321043014526367,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]",r_associated,69.0
+ingrédient,pâte,nmod,NOUN,0.6811284422874451,"[{""id"": 243486587, ""node1"": 123418, ""node2"": 34069, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+ingrédient,feuilleter,acl,VERB,0.5610232353210449,[],,
+pomme,sauce,amod,NOUN,0.7067611813545227,[],,
+ingrédient,caramel,appos,NOUN,0.6865902543067932,[],,
+caramel,jaune,amod,ADJ,0.5897892117500305,"[{""id"": 8536166, ""node1"": 67525, ""node2"": 86711, ""type"": 106, ""w"": 2.0}]",r_has_color,2.0
+jaune,oeuf,nmod,NOUN,0.5280547142028809,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]",r_associated,598.0
+titre,fève,nmod,NOUN,0.5135901570320129,[],,
+four,couteau,nmod,NOUN,0.6828393340110779,[],,
+four,balance,nmod,NOUN,0.6809696555137634,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+pomme,retirer,acl,VERB,0.5813402533531189,[],,
+fondre,beurre,obj,NOUN,0.643409252166748,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]",r_agent,35.0
+ajouter,pomme,obj,NOUN,0.602749228477478,[],,
+ajouter,caramel,obj,NOUN,0.6213465332984924,"[{""id"": 376190767, ""node1"": 25099, ""node2"": 67525, ""type"": 16, ""w"": 30.0}]",r_instr,30.0
+étaler,laisser,amod,VERB,0.4054059088230133,[],,
+étaler,pâte,obj,NOUN,0.6019123196601868,"[{""id"": 364779096, ""node1"": 98214, ""node2"": 34069, ""type"": 0, ""w"": 38.0}, {""id"": 243248, ""node1"": 98214, ""node2"": 34069, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+pâte,feuilleté,amod,ADJ,0.626322329044342,"[{""id"": 879773673, ""node1"": 34069, ""node2"": 43380, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+aide,fourchette,nmod,NOUN,0.4181736707687378,[],,
+déposer,préparation,obj,NOUN,0.4822165966033935,[],,
+cacher,fève,obj,NOUN,0.5199909210205078,"[{""id"": 33191917, ""node1"": 30316, ""node2"": 65956, ""type"": 14, ""w"": 64.0}]",r_patient,64.0
+mouiller,bord,obj,NOUN,0.4488683640956878,[],,
+bord,pâte,nmod,NOUN,0.6313428282737732,[],,
+eau,recouvrir,acl,VERB,0.5683361291885376,"[{""id"": 1030660857, ""node1"": 65012, ""node2"": 26206, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+recouvrir,tout,obj,NOUN,0.4995563328266144,[],,
+pâte,deuxième,amod,ADJ,0.6267107129096985,[],,
+souder,pâte,obj,NOUN,0.6084628105163574,[],,
+four,180,nmod,NUM,0.4979606568813324,[],,
+four,degré,nmod,NOUN,0.6147381663322449,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4225132167339325,[],,
+aide,couteau,nmod,NOUN,0.4610194563865661,[],,
+aide,faire,acl,VERB,0.4312484562397003,[],,
+faire,trait,obj,NOUN,0.4520726203918457,[],,
+dessus,pâte,nmod,NOUN,0.6543301343917847,[],,
+dessus,galette,nmod,NOUN,0.5743367671966553,[],,
+jaune,œuf,nmod,NOUN,0.524957537651062,"[{""id"": 558764775, ""node1"": 86711, ""node2"": 174124, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+dorer,tout,obj,NOUN,0.5732940435409546,[],,
+minute,cuisson,appos,NOUN,0.6456773281097412,[],,
+refroidir,lui,nsubj,PRON,0.4321464300155639,[],,
+refroidir,déguster,advcl,VERB,0.5801787376403809,[],,

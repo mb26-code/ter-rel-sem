@@ -1,0 +1,18 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+pâte,thon,nmod,NOUN,0.6914450526237488,[],,
+thon,ingrédient,nmod,NOUN,0.6298080086708069,"[{""id"": 24920603, ""node1"": 86754, ""node2"": 123418, ""type"": 6, ""w"": 12.0}]",r_isa,12.0
+pâte,sel,nmod,NOUN,0.7470165491104126,"[{""id"": 384021, ""node1"": 34069, ""node2"": 13260, ""type"": 0, ""w"": 67.0}, {""id"": 96931368, ""node1"": 34069, ""node2"": 13260, ""type"": 50, ""w"": 15.0}, {""id"": 650992494, ""node1"": 34069, ""node2"": 13260, ""type"": 666, ""w"": 4.0}]",r_associated,67.0
+sel,poivre,acl,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,gruyère,nmod,NOUN,0.6444509029388428,[],,
+crème,pâte,nmod,NOUN,0.6638638377189636,"[{""id"": 821216, ""node1"": 44001, ""node2"": 34069, ""type"": 0, ""w"": 27.0}, {""id"": 376037836, ""node1"": 44001, ""node2"": 34069, ""type"": 51, ""w"": 42.0}]",r_mater>object,42.0
+casserole,set,nmod,NOUN,0.4378535151481628,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+set,cuillère,nmod,NOUN,0.4149639010429382,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+type,pâte,nmod,NOUN,0.6441636681556702,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+ajouter,thon,obj,NOUN,0.6033825278282166,[],,
+ajouter,concentré,obj,NOUN,0.4534747898578644,[],,
+concentré,tomate,nmod,NOUN,0.6039107441902161,[],,
+ajouter,gruyère,obj,NOUN,0.556841254234314,[],,

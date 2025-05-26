@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,préparation,nmod,NOUN,0.4173219501972198,[],,
+préparation,fondue,nmod,NOUN,0.5622397661209106,"[{""id"": 601611780, ""node1"": 33634, ""node2"": 101081, ""type"": 0, ""w"": 35.0}]",r_associated,35.0
+préparation,chinois,amod,ADJ,0.4798487424850464,[],,
+préparation,facile,amod,ADJ,0.4658113121986389,[],,
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,clou,nmod,NOUN,0.4862898588180542,[],,
+clou,girofle,nmod,ADP,0.4290643036365509,"[{""id"": 9902807, ""node1"": 11651, ""node2"": 43873, ""type"": 0, ""w"": 55.0}, {""id"": 413873, ""node1"": 11651, ""node2"": 43873, ""type"": 8, ""w"": 111.0}]",r_hypo,111.0
+clou,curry,nmod,NOUN,0.6006376147270203,[],,
+curry,bouillon,nmod,NOUN,0.6987237930297852,"[{""id"": 914309702, ""node1"": 82813, ""node2"": 146582, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+bouillon,poule,nmod,NOUN,0.5475077629089355,[],,
+poule,légume,nmod,NOUN,0.6132266521453857,[],,
+appareil,fondre,acl,VERB,0.5232203602790833,[],,
+appareil,bol,nmod,NOUN,0.5229878425598145,"[{""id"": 96714779, ""node1"": 106265, ""node2"": 145405, ""type"": 15, ""w"": 26.0}]",r_lieu,26.0
+bol,étape,nmod,NOUN,0.5393725633621216,[],,
+appareil,mettre,acl,VERB,0.4692486226558685,[],,
+chauffer,litre,obj,NOUN,0.5375440120697021,[],,
+litre,eau,nmod,NOUN,0.5440258383750916,"[{""id"": 2458362, ""node1"": 57416, ""node2"": 65012, ""type"": 0, ""w"": 84.0}, {""id"": 15759326, ""node1"": 57416, ""node2"": 65012, ""type"": 28, ""w"": 10.0}, {""id"": 720818422, ""node1"": 57416, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 980526881, ""node1"": 57416, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]",r_associated,84.0
+eau,bouillon,nmod,NOUN,0.6091527938842773,"[{""id"": 32079803, ""node1"": 65012, ""node2"": 146582, ""type"": 0, ""w"": 26.0}, {""id"": 32063699, ""node1"": 65012, ""node2"": 146582, ""type"": 10, ""w"": 26.0}, {""id"": 600063504, ""node1"": 65012, ""node2"": 146582, ""type"": 27, ""w"": 26.0}]",r_holo,26.0
+eau,cube,nmod,NOUN,0.5758882164955139,[],,
+incorporer,julienne,obj,NOUN,0.4398353099822998,[],,
+julienne,légume,nmod,NOUN,0.583620548248291,"[{""id"": 88952329, ""node1"": 139629, ""node2"": 120603, ""type"": 0, ""w"": 47.0}, {""id"": 1051933443, ""node1"": 139629, ""node2"": 120603, ""type"": 3, ""w"": 20.0}, {""id"": 24951902, ""node1"": 139629, ""node2"": 120603, ""type"": 35, ""w"": 45.0}, {""id"": 993690668, ""node1"": 139629, ""node2"": 120603, ""type"": 666, ""w"": 2.0}]",r_associated,47.0
+clou,oignon,nmod,NOUN,0.5263824462890625,[],,
+oignon,couper,acl,VERB,0.596168577671051,"[{""id"": 900892185, ""node1"": 123307, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 31770901, ""node1"": 123307, ""node2"": 128828, ""type"": 26, ""w"": 100.0}, {""id"": 1767208, ""node1"": 123307, ""node2"": 128828, ""type"": 666, ""w"": 2.0}]",r_patient-1,100.0
+clou,sauce,appos,NOUN,0.6082103848457336,[],,
+sauce,soja,acl,NOUN,0.686366856098175,"[{""id"": 558755719, ""node1"": 141110, ""node2"": 78291, ""type"": 0, ""w"": 41.0}, {""id"": 246329893, ""node1"": 141110, ""node2"": 78291, ""type"": 8, ""w"": 31.0}, {""id"": 651031297, ""node1"": 141110, ""node2"": 78291, ""type"": 666, ""w"": 4.0}]",r_associated,41.0
+laisser,mijoter,obj,VERB,0.5789923667907715,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+verser,contenu,obj,NOUN,0.4781818091869354,[],,
+contenu,bol,nmod,NOUN,0.5260675549507141,"[{""id"": 799190483, ""node1"": 108150, ""node2"": 145405, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+bol,fondue,acl,NOUN,0.5817564725875854,[],,
+cuire,boeuf,obj,NOUN,0.7634778618812561,"[{""id"": 98317209, ""node1"": 5115, ""node2"": 47417, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+cuire,poulet,obj,NOUN,0.778136670589447,"[{""id"": 364585547, ""node1"": 5115, ""node2"": 146261, ""type"": 0, ""w"": 30.0}, {""id"": 216454663, ""node1"": 5115, ""node2"": 146261, ""type"": 13, ""w"": 40.0}, {""id"": 97862716, ""node1"": 5115, ""node2"": 146261, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+poulet,chair,nmod,NOUN,0.6056862473487854,"[{""id"": 418523593, ""node1"": 146261, ""node2"": 61835, ""type"": 0, ""w"": 3.0}, {""id"": 3175639, ""node1"": 146261, ""node2"": 61835, ""type"": 106, ""w"": 6.0}, {""id"": 5007811, ""node1"": 146261, ""node2"": 61835, ""type"": 777, ""w"": 6.0}]",r_has_color,6.0
+chair,ferme,amod,ADJ,0.4924193322658539,[],,
+cuire,saumon,appos,NOUN,0.7792093753814697,"[{""id"": 471842261, ""node1"": 5115, ""node2"": 3361, ""type"": 13, ""w"": 30.0}, {""id"": 426712637, ""node1"": 5115, ""node2"": 3361, ""type"": 14, ""w"": 31.0}]",r_patient,31.0

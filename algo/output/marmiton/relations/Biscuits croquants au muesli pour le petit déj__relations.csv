@@ -1,0 +1,42 @@
+node1,node2,relations
+titre,biscuit,[]
+biscuit,croquant,"[{""id"": 798729039, ""node1"": 62524, ""node2"": 96376, ""type"": 0, ""w"": 23.0}, {""id"": 246299896, ""node1"": 62524, ""node2"": 96376, ""type"": 8, ""w"": 38.0}, {""id"": 77538473, ""node1"": 62524, ""node2"": 96376, ""type"": 17, ""w"": 27.0}]"
+déj,petit,[]
+titre,ingrédient,[]
+ingrédient,beurre,"[{""id"": 2293218, ""node1"": 123418, ""node2"": 140377, ""type"": 0, ""w"": 69.0}, {""id"": 9665896, ""node1"": 123418, ""node2"": 140377, ""type"": 8, ""w"": 54.0}, {""id"": 15173690, ""node1"": 123418, ""node2"": 140377, ""type"": 27, ""w"": -24.0}]"
+beurre,miel,"[{""id"": 500926057, ""node1"": 140377, ""node2"": 136055, ""type"": 0, ""w"": 4.0}]"
+miel,liquide,"[{""id"": 62362311, ""node1"": 136055, ""node2"": 140315, ""type"": 0, ""w"": 97.0}, {""id"": 2045771, ""node1"": 136055, ""node2"": 140315, ""type"": 17, ""w"": 35.0}, {""id"": 1939698, ""node1"": 136055, ""node2"": 140315, ""type"": 666, ""w"": 6.0}]"
+titre,sucre,[]
+sucre,canne,"[{""id"": 107598, ""node1"": 139481, ""node2"": 144267, ""type"": 0, ""w"": 241.0}, {""id"": 160436, ""node1"": 139481, ""node2"": 144267, ""type"": 15, ""w"": 78.0}, {""id"": 1763995, ""node1"": 139481, ""node2"": 144267, ""type"": 666, ""w"": 1.0}]"
+sucre,grille,[]
+grille,pâtisserie,[]
+pièce,four,[]
+four,micro-onde,"[{""id"": 363193, ""node1"": 9190, ""node2"": 47773, ""type"": 0, ""w"": 80.0}, {""id"": 243399915, ""node1"": 9190, ""node2"": 47773, ""type"": 8, ""w"": 28.0}]"
+micro-onde,saladier,[]
+pièce,casserole,[]
+casserole,cuillère,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]"
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,top,[]
+papier,meilleur,[]
+top,papier,[]
+balance,cuisine,[]
+balance,étape,[]
+four,150,[]
+pièce,thermostat,[]
+fondre,beurre,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]"
+ingrédient,tout,[]
+verser,ingrédient,[]
+ingrédient,minute,[]
+reposer,préparation,"[{""id"": 12983122, ""node1"": 106663, ""node2"": 33634, ""type"": 13, ""w"": 51.0}]"
+tas,petit,[]
+faire,tas,[]
+plat,papier,[]
+plat,utiliser,"[{""id"": 93507608, ""node1"": 36327, ""node2"": 62611, ""type"": 26, ""w"": 34.0}]"
+utiliser,plaque,[]
+plaque,four,"[{""id"": 9977205, ""node1"": 145064, ""node2"": 9190, ""type"": 10, ""w"": 4.0}, {""id"": 7612093, ""node1"": 145064, ""node2"": 9190, ""type"": 777, ""w"": 10.0}]"
+enfourner,doré,[]
+éteindre,four,[]
+porte,four,"[{""id"": 9977242, ""node1"": 143613, ""node2"": 9190, ""type"": 10, ""w"": 21.0}]"
+laisser,biscuit,[]
+nuit,tout,[]
+nuit,four,[]

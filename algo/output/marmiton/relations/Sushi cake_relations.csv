@@ -1,0 +1,37 @@
+node1,node2,relations
+Sushi,ingrédient,[]
+avocat,grille,[]
+grille,pâtisserie,[]
+pâtisserie,casserole,[]
+casserole,couteau,[]
+couteau,saladier,[]
+saladier,économe,[]
+économe,couvercle,[]
+couvercle,pinceau,[]
+pinceau,étape,[]
+cuire,riz,"[{""id"": 426022657, ""node1"": 5115, ""node2"": 24372, ""type"": 0, ""w"": 36.0}, {""id"": 31820394, ""node1"": 5115, ""node2"": 24372, ""type"": 14, ""w"": 100.0}]"
+avocat,casserole,[]
+casserole,eau,"[{""id"": 96542705, ""node1"": 57253, ""node2"": 65012, ""type"": 0, ""w"": 19.0}, {""id"": 22760525, ""node1"": 57253, ""node2"": 65012, ""type"": 28, ""w"": 34.0}, {""id"": 96542704, ""node1"": 57253, ""node2"": 65012, ""type"": 666, ""w"": 1.0}]"
+eau,saler,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]"
+détailler,saumon,[]
+détailler,cube,[]
+graine,sésame,"[{""id"": 797533486, ""node1"": 14469, ""node2"": 18404, ""type"": 0, ""w"": 29.0}, {""id"": 246270686, ""node1"": 14469, ""node2"": 18404, ""type"": 8, ""w"": 32.0}]"
+éplucher,avocat,"[{""id"": 1056062648, ""node1"": 59879, ""node2"": 104789, ""type"": 13, ""w"": 16.0}, {""id"": 31848775, ""node1"": 59879, ""node2"": 104789, ""type"": 14, ""w"": 59.0}]"
+pièce,rectangle,[]
+pièce,format,[]
+pièce,dresser,[]
+dresser,sushi,[]
+étaler,feuille,[]
+feuille,algue,"[{""id"": 3766115, ""node1"": 37993, ""node2"": 124531, ""type"": 777, ""w"": 8.0}]"
+couche,riz,[]
+disposer,rondelle,[]
+rondelle,concombre,"[{""id"": 561206407, ""node1"": 71106, ""node2"": 31570, ""type"": 0, ""w"": 41.0}]"
+feuille,nouveau,[]
+recouvrir,riz,[]
+disposer,saumon,[]
+couvrir,riz,[]
+couvrir,disposer,"[{""id"": 53757527, ""node1"": 119824, ""node2"": 116780, ""type"": 0, ""w"": 27.0}, {""id"": 53594485, ""node1"": 119824, ""node2"": 116780, ""type"": 5, ""w"": 73.0}]"
+couvrir,couche,"[{""id"": 989765799, ""node1"": 119824, ""node2"": 19152, ""type"": 666, ""w"": 2.0}]"
+couche,terminer,[]
+réserver,frais,"[{""id"": 373014550, ""node1"": 7006, ""node2"": 53495, ""type"": 31, ""w"": 26.0}]"
+frais,attendre,[]

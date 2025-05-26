@@ -1,0 +1,36 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,salade,nmod,NOUN,0.5926524996757507,[],,
+salade,russe,amod,ADJ,0.5368970632553101,[],,
+salade,venue,acl,NOUN,0.5639224648475647,[],,
+vinaigre,balsamique,amod,ADJ,0.5980404615402222,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]",r_associated,166.0
+vinaigre,moutarde,amod,ADJ,0.6449266076087952,"[{""id"": 921470213, ""node1"": 145443, ""node2"": 28335, ""type"": 0, ""w"": 21.0}, {""id"": 3355918, ""node1"": 145443, ""node2"": 28335, ""type"": 777, ""w"": 10.0}]",r_associated,21.0
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+pomme,thon,appos,NOUN,0.6386212110519409,[],,
+thon,oeuf,nmod,NOUN,0.6093491911888123,[],,
+pomme,olive,nmod,NOUN,0.637131929397583,[],,
+olive,blanc,amod,ADJ,0.5881714820861816,[],,
+blanc,mayonnaise,obj,ADJ,0.5796825885772705,[],,
+économe,couteau,nmod,NOUN,0.5018488168716431,"[{""id"": 11472222, ""node1"": 14706, ""node2"": 32610, ""type"": 0, ""w"": 51.0}, {""id"": 9916571, ""node1"": 14706, ""node2"": 32610, ""type"": 6, ""w"": 55.0}, {""id"": 539969426, ""node1"": 14706, ""node2"": 32610, ""type"": 35, ""w"": -25.0}, {""id"": 1786595, ""node1"": 14706, ""node2"": 32610, ""type"": 666, ""w"": 5.0}]",r_isa,55.0
+économe,casserole,nmod,NOUN,0.571812093257904,[],,
+éplucher,pomme,obj,NOUN,0.5793353319168091,"[{""id"": 399665, ""node1"": 59879, ""node2"": 37201, ""type"": 0, ""w"": 54.0}, {""id"": 423699, ""node1"": 59879, ""node2"": 37201, ""type"": 14, ""w"": 100.0}, {""id"": 980640573, ""node1"": 59879, ""node2"": 37201, ""type"": 666, ""w"": 2.0}]",r_patient,100.0
+volume,grand,amod,ADJ,0.4097053706645965,"[{""id"": 2183077, ""node1"": 130885, ""node2"": 23178, ""type"": 0, ""w"": 61.0}]",r_associated,61.0
+volume,eau,nmod,NOUN,0.5477495789527893,"[{""id"": 30986586, ""node1"": 130885, ""node2"": 65012, ""type"": 0, ""w"": 35.0}, {""id"": 30984090, ""node1"": 130885, ""node2"": 65012, ""type"": 3, ""w"": 30.0}]",r_associated,35.0
+eau,ébullition,nmod,NOUN,0.5533320903778076,"[{""id"": 1030680817, ""node1"": 65012, ""node2"": 83252, ""type"": 0, ""w"": 22.0}, {""id"": 3253715, ""node1"": 65012, ""node2"": 83252, ""type"": 777, ""w"": 7.0}]",r_associated,22.0
+plonger,pomme,obj,NOUN,0.6027659773826599,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+ressortir,pointe,nsubj,NOUN,0.4241241812705993,[],,
+pointe,couteau,nmod,NOUN,0.4962367117404938,"[{""id"": 8856589, ""node1"": 141611, ""node2"": 32610, ""type"": 0, ""w"": 16.0}, {""id"": 251482, ""node1"": 141611, ""node2"": 32610, ""type"": 10, ""w"": 53.0}]",r_holo,53.0
+cuire,lui,nsubj:pass,PRON,0.6200059056282043,[],,
+ce,cuire,acl,VERB,0.456451803445816,[],,
+cuire,oeuf,obj,NOUN,0.7018415927886963,"[{""id"": 477428805, ""node1"": 5115, ""node2"": 116175, ""type"": 0, ""w"": 35.0}, {""id"": 206246, ""node1"": 5115, ""node2"": 116175, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+eau,refroidir,acl,VERB,0.5886602997779846,"[{""id"": 797883220, ""node1"": 65012, ""node2"": 126973, ""type"": 0, ""w"": 23.0}, {""id"": 14834819, ""node1"": 65012, ""node2"": 126973, ""type"": 24, ""w"": 30.0}, {""id"": 15049668, ""node1"": 65012, ""node2"": 126973, ""type"": 26, ""w"": 30.0}]",r_agent-1,30.0
+couper,poivron,nmod,NOUN,0.6246095895767212,"[{""id"": 15085692, ""node1"": 128828, ""node2"": 38257, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+morceau,petit,amod,ADJ,0.542499840259552,"[{""id"": 558707704, ""node1"": 65364, ""node2"": 55222, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+olive,morceau,nmod,NOUN,0.6383317708969116,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+mettre,ingrédient,obj,NOUN,0.5923328399658203,[],,
+ingrédient,ensemble,amod,NOUN,0.5373786091804504,[],,
+ajouter,mayonnaise,obj,NOUN,0.55241459608078,[],,
+servir,frais,amod,ADJ,0.4840525686740875,"[{""id"": 560379713, ""node1"": 7888, ""node2"": 53495, ""type"": 0, ""w"": 31.0}]",r_associated,31.0
+plat,unique,amod,ADJ,0.5951599478721619,[],,

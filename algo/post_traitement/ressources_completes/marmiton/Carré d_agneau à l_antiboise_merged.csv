@@ -1,0 +1,41 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,carré,nmod,NOUN,0.4027160406112671,[],,
+carré,agneau,nmod,NOUN,0.5074310898780823,"[{""id"": 98637369, ""node1"": 22120, ""node2"": 128646, ""type"": 0, ""w"": 18.0}, {""id"": 98312707, ""node1"": 22120, ""node2"": 128646, ""type"": 10, ""w"": 26.0}]",r_holo,26.0
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,sel,appos,NOUN,0.6997572183609009,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]",r_hypo,27.0
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,persil,nmod,NOUN,0.6417090892791748,[],,
+ingrédient,oignon,appos,NOUN,0.6626235842704773,"[{""id"": 24923430, ""node1"": 123418, ""node2"": 123307, ""type"": 0, ""w"": 15.0}, {""id"": 24850729, ""node1"": 123418, ""node2"": 123307, ""type"": 8, ""w"": 28.0}]",r_hypo,28.0
+oignon,tomate,nmod,NOUN,0.6465381383895874,[],,
+oignon,huile,acl,NOUN,0.633205235004425,"[{""id"": 3937482, ""node1"": 123307, ""node2"": 141971, ""type"": 777, ""w"": 1.0}]",r_wiki,1.0
+oignon,crème,nmod,NOUN,0.682665228843689,[],,
+crème,anchois,nmod,NOUN,0.633527398109436,[],,
+anchois,carré,appos,NOUN,0.5383456349372864,[],,
+ingrédient,couteau,appos,NOUN,0.6389530301094055,[],,
+couteau,mixeur,nmod,NOUN,0.573357105255127,[],,
+mixeur,set,nmod,NOUN,0.4433817863464355,[],,
+mixeur,poêle,nmod,NOUN,0.675652265548706,[],,
+mixeur,pinceau,nmod,NOUN,0.5178923606872559,[],,
+pinceau,cuillère,nmod,NOUN,0.5075318813323975,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,four,nmod,NOUN,0.7153509855270386,[],,
+four,plat,nmod,ADJ,0.711601734161377,"[{""id"": 218402, ""node1"": 9190, ""node2"": 36327, ""type"": 0, ""w"": 54.0}, {""id"": 1612283, ""node1"": 9190, ""node2"": 36327, ""type"": 28, ""w"": 125.0}, {""id"": 1013894208, ""node1"": 9190, ""node2"": 36327, ""type"": 666, ""w"": 2.0}]",r_lieu-1,125.0
+ingrédient,étape,nmod,NOUN,0.4697338342666626,[],,
+chauffer,cuillère,obj,NOUN,0.652341902256012,[],,
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+soupe,huile,nmod,NOUN,0.676633894443512,"[{""id"": 3346889, ""node1"": 117152, ""node2"": 141971, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+huile,olive,nmod,NOUN,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+cuillère,revenir,acl,VERB,0.6038067936897278,[],,
+revenir,ail,obj,NOUN,0.5784251093864441,[],,
+chauffer,faire,advcl,VERB,0.5420644879341125,[],,
+faire,coulis,obj,NOUN,0.6211971640586853,[],,
+laisser,mijoter,obj,VERB,0.5789923667907715,[],,
+laisser,minute,obj,NOUN,0.4280168712139129,[],,
+mélanger,crème,obj,NOUN,0.6372199058532715,"[{""id"": 31849058, ""node1"": 37151, ""node2"": 44001, ""type"": 14, ""w"": 51.0}]",r_patient,51.0
+enfourner,thermostat,appos,NOUN,0.5461767911911011,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+cuire,arroser,advcl,VERB,0.6963884830474854,[],,
+disposer,viande,obj,NOUN,0.7105640769004822,[],,
+viande,couper,acl,VERB,0.6744567155838013,"[{""id"": 796696872, ""node1"": 140100, ""node2"": 128828, ""type"": 0, ""w"": 27.0}, {""id"": 2194964, ""node1"": 140100, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+coulis,tomate,nmod,NOUN,0.6366809606552124,"[{""id"": 798889036, ""node1"": 10401, ""node2"": 22138, ""type"": 0, ""w"": 31.0}, {""id"": 1072261196, ""node1"": 10401, ""node2"": 22138, ""type"": 666, ""w"": 2.0}]",r_associated,31.0
+tomate,persil,nmod,NOUN,0.6483615636825562,[],,

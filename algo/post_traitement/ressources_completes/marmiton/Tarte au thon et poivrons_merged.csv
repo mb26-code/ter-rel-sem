@@ -1,0 +1,43 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+tarte,thon,nmod,NOUN,0.6651405096054077,[],,
+tarte,ingrédient,nmod,NOUN,0.6982564926147461,"[{""id"": 588372722, ""node1"": 575, ""node2"": 123418, ""type"": 0, ""w"": 2.0}]",r_associated,2.0
+tarte,sel,nmod,NOUN,0.7710812091827393,"[{""id"": 413304, ""node1"": 575, ""node2"": 13260, ""type"": 28, ""w"": 79.0}]",r_lieu-1,79.0
+sel,beurre,nmod,NOUN,0.7119027376174927,"[{""id"": 29328492, ""node1"": 13260, ""node2"": 140377, ""type"": 0, ""w"": 30.0}, {""id"": 9986817, ""node1"": 13260, ""node2"": 140377, ""type"": 10, ""w"": 35.0}]",r_holo,35.0
+sel,oeuf,nmod,NOUN,0.6938258409500122,[],,
+oeuf,eau,nmod,NOUN,0.6093990802764893,"[{""id"": 386067341, ""node1"": 116175, ""node2"": 65012, ""type"": 15, ""w"": 30.0}, {""id"": 76133634, ""node1"": 116175, ""node2"": 65012, ""type"": 50, ""w"": 35.0}, {""id"": 109918850, ""node1"": 116175, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]",r_object>mater,35.0
+eau,thym,nmod,NOUN,0.6566281318664551,[],,
+poivre,sel,nmod,NOUN,0.6705341935157776,"[{""id"": 12368540, ""node1"": 139597, ""node2"": 13260, ""type"": 0, ""w"": 52.0}, {""id"": 1074615768, ""node1"": 139597, ""node2"": 13260, ""type"": 6, ""w"": -25.0}, {""id"": 1046576040, ""node1"": 139597, ""node2"": 13260, ""type"": 8, ""w"": 20.0}, {""id"": 288425680, ""node1"": 139597, ""node2"": 13260, ""type"": 35, ""w"": 51.0}, {""id"": 770758757, ""node1"": 139597, ""node2"": 13260, ""type"": 75, ""w"": 27.0}]",r_associated,52.0
+sel,oignon,nmod,ADP,0.705348014831543,[],,
+poivron,thon,nmod,NOUN,0.613631010055542,[],,
+thon,oeuf,nmod,NOUN,0.6093491911888123,[],,
+oeuf,épice,nmod,NOUN,0.6682895421981812,[],,
+épice,indien,amod,ADJ,0.5973781943321228,[],,
+sel,moule,nmod,NOUN,0.7226617336273193,[],,
+sel,tarte,nmod,NOUN,0.7710812091827393,"[{""id"": 11357331, ""node1"": 13260, ""node2"": 575, ""type"": 15, ""w"": 38.0}]",r_lieu,38.0
+saladier,four,nmod,NOUN,0.6991847157478333,[],,
+four,étape,nmod,NOUN,0.6555838584899902,[],,
+tarte,revenir,acl,VERB,0.6586063504219055,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+poivron,couper,acl,VERB,0.6246095895767212,"[{""id"": 1944126, ""node1"": 38257, ""node2"": 128828, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+mélange,cela,nsubj,PRON,0.5076276063919067,[],,
+herbe,Provence,nmod,PROPN,0.4220801889896393,[],,
+curry,épice,nmod,NOUN,0.7071870565414429,"[{""id"": 1639570, ""node1"": 82813, ""node2"": 146056, ""type"": 0, ""w"": 188.0}, {""id"": 1639553, ""node1"": 82813, ""node2"": 146056, ""type"": 6, ""w"": 120.0}, {""id"": 3116760, ""node1"": 82813, ""node2"": 146056, ""type"": 35, ""w"": 57.0}]",r_associated,188.0
+curry,Inde,nmod,PROPN,0.5024567246437073,"[{""id"": 3116777, ""node1"": 82813, ""node2"": 138879, ""type"": 0, ""w"": 39.0}, {""id"": 765200431, ""node1"": 82813, ""node2"": 138879, ""type"": 15, ""w"": 45.0}, {""id"": 1046682388, ""node1"": 82813, ""node2"": 138879, ""type"": 54, ""w"": 20.0}, {""id"": 766984411, ""node1"": 82813, ""node2"": 138879, ""type"": 171, ""w"": 40.0}, {""id"": 961875281, ""node1"": 82813, ""node2"": 138879, ""type"": 666, ""w"": 3.0}]",r_lieu,45.0
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+faire,pâte,obj,NOUN,0.662661075592041,"[{""id"": 97862385, ""node1"": 87528, ""node2"": 34069, ""type"": 14, ""w"": 32.0}]",r_patient,32.0
+tarte,rapide,amod,ADJ,0.5950207114219666,[],,
+cuire,tarte,obj,NOUN,0.7676823139190674,"[{""id"": 366203028, ""node1"": 5115, ""node2"": 575, ""type"": 0, ""w"": 34.0}, {""id"": 15083668, ""node1"": 5115, ""node2"": 575, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+baisser,four,obj,NOUN,0.6724411845207214,[],,
+température,moment,nmod,NOUN,0.4828653037548065,[],,
+moment,enfourner,acl,VERB,0.5294733643531799,[],,
+trou,petit,amod,ADJ,0.4532713592052459,"[{""id"": 276277, ""node1"": 115865, ""node2"": 55222, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+faire,trou,obj,NOUN,0.4763500690460205,[],,
+oublier,mettre,advcl,VERB,0.4236021637916565,[],,
+ajouter,poivron,obj,NOUN,0.6378853917121887,[],,
+poivron,tarte,nmod,NOUN,0.7063221335411072,"[{""id"": 920040193, ""node1"": 38257, ""node2"": 575, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+cuire,il,nsubj:pass,PRON,0.4034532904624939,[],,
+un,cuire,acl:relcl,VERB,0.4432603120803833,[],,
+mettre,poivron,nsubj,NOUN,0.6354591846466064,[],,
+oeuf,battre,acl,VERB,0.5256416201591492,"[{""id"": 15064344, ""node1"": 116175, ""node2"": 119162, ""type"": 26, ""w"": 34.0}]",r_patient-1,34.0
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]",r_carac-1,5.0

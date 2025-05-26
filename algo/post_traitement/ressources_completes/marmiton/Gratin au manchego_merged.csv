@@ -1,0 +1,30 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,gratin,nmod,NOUN,0.4893978536128998,[],,
+gratin,ingrédient,nmod,NOUN,0.6309539079666138,[],,
+gratin,sel,nmod,NOUN,0.7350955009460449,[],,
+sel,poivre,acl,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,poireau,nmod,NOUN,0.6779045462608337,[],,
+poireau,pomme,nmod,NOUN,0.6132715344429016,[],,
+poireau,terre,nmod,NOUN,0.6064334511756897,"[{""id"": 423098, ""node1"": 130303, ""node2"": 25705, ""type"": 0, ""w"": 58.0}]",r_associated,58.0
+gratin,Plat,nmod,PROPN,0.4779236614704132,"[{""id"": 606766250, ""node1"": 12942, ""node2"": 415256, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+Plat,gratin,nmod,NOUN,0.4779236614704132,[],,
+casserole,four,nmod,NOUN,0.7147663235664368,[],,
+gratin,étape,flat:name,NOUN,0.5125875473022461,[],,
+pomme,terre,nmod,NOUN,0.5497229695320129,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+cuire,le,obj,PRON,0.4500194191932678,[],,
+eau,min,nmod,NOUN,0.4966203570365906,[],,
+chauffer,huile,obj,NOUN,0.64256751537323,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+revenir,poireau,obj,NOUN,0.620061993598938,[],,
+poireau,feu,nmod,NOUN,0.6042407751083374,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+cuire,poireau,nsubj:pass,NOUN,0.7599535584449768,[],,
+enlever,peau,obj,NOUN,0.4885257482528686,"[{""id"": 15076500, ""node1"": 82345, ""node2"": 109785, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+peau,chorizo,nmod,ADV,0.5817298889160156,"[{""id"": 31873886, ""node1"": 109785, ""node2"": 51767, ""type"": 0, ""w"": 23.0}, {""id"": 31871773, ""node1"": 109785, ""node2"": 51767, ""type"": 10, ""w"": 65.0}]",r_holo,65.0
+tranche,fin,amod,ADJ,0.4211523532867431,[],,
+peau,tranche,nmod,NOUN,0.4807881712913513,[],,
+tranche,chorizo,nmod,ADV,0.5975377559661865,[],,
+mettre,pomme,obj,NOUN,0.6015596985816956,[],,
+four,180,nmod,NUM,0.4979606568813324,[],,
+mettre,degré,obj,NOUN,0.4046871662139892,[],,
+mettre,thermostat,appos,NOUN,0.5112968683242798,[],,

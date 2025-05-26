@@ -1,0 +1,40 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,gastronomie,obj,NOUN,0.4582444131374359,[],,
+désigner,aliment,obj,NOUN,0.5388067960739136,[],,
+aliment,préparer,acl,VERB,0.6599458456039429,"[{""id"": 352318309, ""node1"": 114637, ""node2"": 36246, ""type"": 26, ""w"": 31.0}, {""id"": 1923343, ""node1"": 114637, ""node2"": 36246, ""type"": 38, ""w"": 35.0}]",r_agentif_role,35.0
+cuisine,espagnol,amod,ADJ,0.5692596435546875,[],,
+désigner,plat,obj,NOUN,0.5982265472412109,[],,
+plat,typique,amod,ADJ,0.6110854148864746,"[{""id"": 93507384, ""node1"": 36327, ""node2"": 133589, ""type"": 17, ""w"": 36.0}]",r_carac,36.0
+plat,Castille,nmod,PROPN,0.5807031989097595,[],,
+composer,plat,nsubj,NOUN,0.5854783058166504,[],,
+viande,porc,nmod,NOUN,0.6425091028213501,"[{""id"": 163100, ""node1"": 140100, ""node2"": 71135, ""type"": 0, ""w"": 719.0}, {""id"": 9926333, ""node1"": 140100, ""node2"": 71135, ""type"": 6, ""w"": -20.0}, {""id"": 159577, ""node1"": 140100, ""node2"": 71135, ""type"": 8, ""w"": 174.0}, {""id"": 390246, ""node1"": 140100, ""node2"": 71135, ""type"": 10, ""w"": 70.0}, {""id"": 15173549, ""node1"": 140100, ""node2"": 71135, ""type"": 27, ""w"": 23.0}, {""id"": 376040808, ""node1"": 140100, ""node2"": 71135, ""type"": 51, ""w"": 35.0}, {""id"": 99763096, ""node1"": 140100, ""node2"": 71135, ""type"": 666, ""w"": 6.0}]",r_associated,719.0
+huile,olive,nmod,ADJ,0.573360800743103,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+comprendre,variété,obj,NOUN,0.4529862999916076,[],,
+variété,plat,nmod,NOUN,0.6324909329414368,"[{""id"": 797931008, ""node1"": 17138, ""node2"": 36327, ""type"": 0, ""w"": 25.0}]",r_associated,25.0
+boule,pomme,nmod,NOUN,0.5835261940956116,"[{""id"": 783565, ""node1"": 141883, ""node2"": 37201, ""type"": 0, ""w"": 23.0}, {""id"": 53732404, ""node1"": 141883, ""node2"": 37201, ""type"": 5, ""w"": 138.0}]",r_syn,138.0
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+peau,porc,nmod,NOUN,0.5994859933853149,"[{""id"": 429692249, ""node1"": 109785, ""node2"": 71135, ""type"": 0, ""w"": 40.0}, {""id"": 54670201, ""node1"": 109785, ""node2"": 71135, ""type"": 5, ""w"": 61.0}, {""id"": 10256338, ""node1"": 109785, ""node2"": 71135, ""type"": 10, ""w"": 11.0}]",r_syn,61.0
+party,autre,amod,ADJ,0.4255907237529754,[],,
+party,préparer,acl,VERB,0.4519869685173034,[],,
+manière,différent,amod,ADJ,0.4140377938747406,[],,
+élaborer,plat,nsubj:pass,NOUN,0.6131144762039185,[],,
+banane,ingrédient,nmod,NOUN,0.645889937877655,"[{""id"": 578773660, ""node1"": 34046, ""node2"": 123418, ""type"": 6, ""w"": 29.0}]",r_isa,29.0
+servir,vendeur,nsubj,NOUN,0.4887237846851349,"[{""id"": 1013411433, ""node1"": 7888, ""node2"": 110925, ""type"": 13, ""w"": 30.0}]",r_agent,30.0
+servir,jus,obj,NOUN,0.5997622609138489,[],,
+jus,fruit,nmod,NOUN,0.5476160049438477,"[{""id"": 237500, ""node1"": 53310, ""node2"": 87286, ""type"": 0, ""w"": 208.0}, {""id"": 210856, ""node1"": 53310, ""node2"": 87286, ""type"": 9, ""w"": -60.0}, {""id"": 1965659, ""node1"": 53310, ""node2"": 87286, ""type"": 10, ""w"": 63.0}, {""id"": 1051892064, ""node1"": 53310, ""node2"": 87286, ""type"": 13, ""w"": 15.0}, {""id"": 24414181, ""node1"": 53310, ""node2"": 87286, ""type"": 35, ""w"": 48.0}, {""id"": 1771770, ""node1"": 53310, ""node2"": 87286, ""type"": 666, ""w"": 4.0}]",r_associated,208.0
+fruit,passion,nmod,NOUN,0.4916583299636841,"[{""id"": 640137315, ""node1"": 87286, ""node2"": 39448, ""type"": 0, ""w"": 26.0}, {""id"": 14799317, ""node1"": 87286, ""node2"": 39448, ""type"": 23, ""w"": 21.0}]",r_associated,26.0
+jus,ananas,nmod,NOUN,0.5677444934844971,"[{""id"": 899180188, ""node1"": 53310, ""node2"": 115827, ""type"": 0, ""w"": 22.0}, {""id"": 1055429116, ""node1"": 53310, ""node2"": 115827, ""type"": 666, ""w"": 2.0}]",r_associated,22.0
+jus,coco,nmod,ADV,0.6089275479316711,[],,
+servir,boisson,obj,NOUN,0.6101801991462708,"[{""id"": 97862085, ""node1"": 7888, ""node2"": 113547, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+boisson,base,nmod,NOUN,0.582430362701416,[],,
+base,graine,nmod,NOUN,0.5713212490081787,[],,
+graine,sésame,nmod,NOUN,0.5712265372276306,"[{""id"": 797533486, ""node1"": 14469, ""node2"": 18404, ""type"": 0, ""w"": 29.0}, {""id"": 246270686, ""node1"": 14469, ""node2"": 18404, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0
+party,petit,amod,ADJ,0.4760316908359527,[],,
+party,porc,nmod,NOUN,0.5777022242546082,[],,
+décrire,chose,obj,NOUN,0.4757192134857178,[],,
+bouillir,élément,obj,NOUN,0.6503934264183044,[],,
+désigner,restaurant,obj,NOUN,0.4338986873626709,[],,
+servir,qui,nsubj,PRON,0.4501188993453979,[],,
+restaurant,servir,acl:relcl,VERB,0.5626118779182434,"[{""id"": 368196485, ""node1"": 79954, ""node2"": 7888, ""type"": 0, ""w"": 28.0}, {""id"": 364531283, ""node1"": 79954, ""node2"": 7888, ""type"": 24, ""w"": 100.0}, {""id"": 217247, ""node1"": 79954, ""node2"": 7888, ""type"": 30, ""w"": 217.0}]",r_lieu_action,217.0
+servir,type,obj,NOUN,0.514524519443512,[],,
+type,nourriture,nmod,NOUN,0.5385614037513733,[],,

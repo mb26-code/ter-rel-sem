@@ -1,0 +1,37 @@
+node1,node2,relations
+financier,ingrédient,[]
+financier,beurre,[]
+financier,amande,"[{""id"": 97369138, ""node1"": 87644, ""node2"": 28557, ""type"": 0, ""w"": 31.0}, {""id"": 4947937, ""node1"": 87644, ""node2"": 28557, ""type"": 777, ""w"": 10.0}]"
+amande,poudre,[]
+poudre,cassonade,[]
+cassonade,blanc,[]
+blanc,oeuf,"[{""id"": 215721, ""node1"": 15196, ""node2"": 116175, ""type"": 0, ""w"": 84.0}, {""id"": 31299415, ""node1"": 15196, ""node2"": 116175, ""type"": 3, ""w"": 32.0}, {""id"": 76136326, ""node1"": 15196, ""node2"": 116175, ""type"": 10, ""w"": 26.0}, {""id"": 373603, ""node1"": 15196, ""node2"": 116175, ""type"": 23, ""w"": 110.0}, {""id"": 91492401, ""node1"": 15196, ""node2"": 116175, ""type"": 35, ""w"": 54.0}]"
+oeuf,arôme,[]
+cassonade,citron,[]
+financier,moule,[]
+moule,financier,[]
+financier,cuillère,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,saladier,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]"
+casserole,four,[]
+four,balance,[]
+balance,cuisine,[]
+balance,étape,[]
+financier,terrine,[]
+titre,mélanger,[]
+mélanger,sucre,[]
+poudre,amande,[]
+fondre,beurre,"[{""id"": 24768980, ""node1"": 16480, ""node2"": 140377, ""type"": 13, ""w"": 35.0}, {""id"": 15086091, ""node1"": 16480, ""node2"": 140377, ""type"": 14, ""w"": 30.0}]"
+monter,blanc,[]
+neige,ferme,[]
+blanc,neige,"[{""id"": 116991, ""node1"": 15196, ""node2"": 3699, ""type"": 0, ""w"": 509.77}, {""id"": 117866, ""node1"": 15196, ""node2"": 3699, ""type"": 23, ""w"": 320.0}, {""id"": 1622496, ""node1"": 15196, ""node2"": 3699, ""type"": 666, ""w"": 12.0}]"
+blanc,mélange,[]
+mélange,sec,[]
+ajouter,beurre,"[{""id"": 373014956, ""node1"": 25099, ""node2"": 140377, ""type"": 14, ""w"": 31.0}]"
+cuillère,arôme,[]
+arôme,citron,[]
+cuillère,goût,"[{""id"": 662504424, ""node1"": 51905, ""node2"": 119233, ""type"": 0, ""w"": 31.0}]"
+cuire,min,[]
+cuire,surveiller,[]
+surveiller,cuisson,"[{""id"": 1007853514, ""node1"": 39170, ""node2"": 60056, ""type"": 14, ""w"": 31.0}]"
+cuire,cela,[]

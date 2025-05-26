@@ -1,0 +1,30 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+micro-ondes,ingrédient,nmod,NOUN,0.6658557057380676,[],,
+micro-ondes,levure,nmod,NOUN,0.6076186895370483,[],,
+levure,chimique,amod,ADJ,0.5426356792449951,"[{""id"": 1768889, ""node1"": 53450, ""node2"": 123153, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+levure,beurre,acl,NOUN,0.6823499798774719,[],,
+levure,sucre,amod,NOUN,0.6511401534080505,[],,
+sucre,poudre,nmod,NOUN,0.6670448184013367,"[{""id"": 101820, ""node1"": 139481, ""node2"": 139470, ""type"": 0, ""w"": 604.0}, {""id"": 251577, ""node1"": 139481, ""node2"": 139470, ""type"": 6, ""w"": 61.0}, {""id"": 144132, ""node1"": 139481, ""node2"": 139470, ""type"": 8, ""w"": -75.0}, {""id"": 9971698, ""node1"": 139481, ""node2"": 139470, ""type"": 9, ""w"": 10.0}, {""id"": 9979137, ""node1"": 139481, ""node2"": 139470, ""type"": 10, ""w"": 30.0}, {""id"": 1763997, ""node1"": 139481, ""node2"": 139470, ""type"": 666, ""w"": 3.0}]",r_associated,604.0
+poudre,cacao,nmod,NOUN,0.5677515864372253,"[{""id"": 2206155, ""node1"": 139470, ""node2"": 68363, ""type"": 0, ""w"": 140.0}, {""id"": 9901243, ""node1"": 139470, ""node2"": 68363, ""type"": 6, ""w"": 13.0}, {""id"": 243491488, ""node1"": 139470, ""node2"": 68363, ""type"": 8, ""w"": 27.0}, {""id"": 653303599, ""node1"": 139470, ""node2"": 68363, ""type"": 666, ""w"": 10.0}]",r_associated,140.0
+cacao,oeuf,appos,NOUN,0.5905804634094238,[],,
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+tartiner,micro-onde,obj,NOUN,0.5935783386230469,[],,
+micro-onde,grille,nmod,NOUN,0.5651800036430359,[],,
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+pâtisserie,saladier,nmod,NOUN,0.647153377532959,[],,
+grille,cuillère,nmod,NOUN,0.574907660484314,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,balance,nmod,NOUN,0.5329062342643738,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+tasse,moyen,amod,ADJ,0.54993736743927,[],,
+tasse,passer,acl:relcl,VERB,0.5476875901222229,[],,
+mélanger,ingrédient,obj,NOUN,0.6362285614013672,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+ingrédient,sec,acl,ADJ,0.5127678513526917,[],,
+saladier,petit,amod,ADJ,0.5893993377685547,[],,
+saladier,farine,appos,NOUN,0.6789005398750305,[],,
+ajouter,oeuf,obj,NOUN,0.5327831506729126,"[{""id"": 373014565, ""node1"": 25099, ""node2"": 116175, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+devoir,pâte,nsubj,NOUN,0.6336450576782227,[],,
+pâte,obtenir,acl,VERB,0.6173189282417297,[],,
+cuire,laisser,advcl,VERB,0.663643479347229,[],,
+refroidir,peu,obj,ADV,0.490559458732605,[],,

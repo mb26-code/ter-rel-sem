@@ -1,0 +1,26 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+tomate,courgette,appos,NOUN,0.6284899711608887,[],,
+clou,girofle,nmod,ADP,0.4290643036365509,"[{""id"": 9902807, ""node1"": 11651, ""node2"": 43873, ""type"": 0, ""w"": 55.0}, {""id"": 413873, ""node1"": 11651, ""node2"": 43873, ""type"": 8, ""w"": 111.0}]",r_hypo,111.0
+clou,coriandre,appos,NOUN,0.5020247101783752,[],,
+coriandre,curry,nmod,NOUN,0.6611345410346985,"[{""id"": 561269668, ""node1"": 61977, ""node2"": 82813, ""type"": 0, ""w"": 41.0}, {""id"": 479632388, ""node1"": 61977, ""node2"": 82813, ""type"": 10, ""w"": 32.0}]",r_associated,41.0
+curry,gingembre,nmod,NOUN,0.664743959903717,"[{""id"": 3116771, ""node1"": 82813, ""node2"": 77020, ""type"": 0, ""w"": 36.0}]",r_associated,36.0
+gingembre,oignon,flat:name,ADP,0.6462072134017944,[],,
+curry,huile,amod,NOUN,0.7108530402183533,[],,
+curry,poivre,nmod,NOUN,0.6854056119918823,"[{""id"": 3116767, ""node1"": 82813, ""node2"": 139597, ""type"": 0, ""w"": 75.0}]",r_associated,75.0
+patate,doux,amod,ADJ,0.5360471606254578,[],,
+clou,jus,acl,NOUN,0.5704215168952942,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+couvercle,étape,nmod,NOUN,0.4822983145713806,[],,
+clou,revenir,acl,VERB,0.433032751083374,[],,
+ajouter,ail,obj,NOUN,0.5651978254318237,[],,
+revenir,minute,obj,NOUN,0.4577978253364563,[],,
+ajouter,patate,obj,NOUN,0.5843206644058228,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,
+ajouter,courgette,obj,NOUN,0.6024848818778992,[],,
+jus,tomate,nmod,NOUN,0.6210813522338867,"[{""id"": 899180270, ""node1"": 53310, ""node2"": 22138, ""type"": 0, ""w"": 23.0}, {""id"": 980320657, ""node1"": 53310, ""node2"": 22138, ""type"": 666, ""w"": 3.0}]",r_associated,23.0
+tomate,vert,amod,ADJ,0.5801488161087036,"[{""id"": 1967747, ""node1"": 22138, ""node2"": 26976, ""type"": 17, ""w"": 27.0}, {""id"": 3164033, ""node1"": 22138, ""node2"": 26976, ""type"": 106, ""w"": 13.0}]",r_carac,27.0
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+cuire,légume,nsubj:pass,NOUN,0.8064759373664856,"[{""id"": 796715114, ""node1"": 5115, ""node2"": 120603, ""type"": 0, ""w"": 26.0}, {""id"": 148033, ""node1"": 5115, ""node2"": 120603, ""type"": 13, ""w"": 53.0}, {""id"": 234259, ""node1"": 5115, ""node2"": 120603, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+ce,cuire,acl,VERB,0.456451803445816,[],,
+lait,coco,acl,VERB,0.5941302180290222,"[{""id"": 796793155, ""node1"": 86296, ""node2"": 145904, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+cours,cuisson,nmod,NOUN,0.6082334518432617,[],,

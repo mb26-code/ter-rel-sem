@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+velouté,courge,nmod,NOUN,0.6377263069152832,[],,
+velouté,sel,nmod,NOUN,0.7175381183624268,[],,
+sel,poivre,amod,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+poivre,courge,nmod,NOUN,0.7231526374816895,[],,
+velouté,brique,amod,NOUN,0.5995556712150574,"[{""id"": 86439317, ""node1"": 83664, ""node2"": 41894, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+velouté,louche,appos,NOUN,0.590481698513031,[],,
+louche,mixeur,nmod,NOUN,0.5896725058555603,[],,
+mixeur,plonger,acl,VERB,0.5584041476249695,[],,
+plonger,casserole,obj,NOUN,0.6076292395591736,[],,
+casserole,saladier,obj,NOUN,0.6254573464393616,[],,
+casserole,couper,acl,VERB,0.6099616289138794,"[{""id"": 596711113, ""node1"": 57253, ""node2"": 128828, ""type"": 30, ""w"": -25.0}]",r_lieu_action,-25.0
+cube,gros,amod,ADJ,0.4745939373970032,[],,
+casserole,courge,obj,NOUN,0.6999331116676331,[],,
+morceau,courge,nmod,NOUN,0.6762072443962097,[],,
+morceau,eau,nmod,NOUN,0.6057385206222534,[],,
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+velouté,porter,acl,VERB,0.5390200614929199,[],,
+minute,cocotte,amod,NOUN,0.5547523498535156,"[{""id"": 418389, ""node1"": 31491, ""node2"": 120952, ""type"": 0, ""w"": 60.0}, {""id"": 539971619, ""node1"": 31491, ""node2"": 120952, ""type"": 21, ""w"": -25.0}]",r_associated,60.0
+devoir,morceau,nsubj,NOUN,0.4880733489990234,[],,
+tendre,vérifier,advcl,VERB,0.4142214357852936,[],,
+bouillir,peu,obj,ADV,0.5459186434745789,[],,
+recouvrir,champignon,obj,NOUN,0.5742732286453247,[],,
+recouvrir,moelleux,advcl,ADJ,0.545190155506134,[],,
+eau,min,nmod,NOUN,0.4966203570365906,[],,
+pouvoir,champignon,nsubj,NOUN,0.4808105230331421,[],,
+cuire,pouvoir,advcl,VERB,0.6887212991714478,[],,
+vif,min,obj,NOUN,0.4065090119838714,[],,
+cuire,mettre,advcl,VERB,0.6797534227371216,[],,
+mettre,eau,obj,NOUN,0.5746321082115173,"[{""id"": 437548164, ""node1"": 132366, ""node2"": 65012, ""type"": 0, ""w"": 28.0}, {""id"": 437548163, ""node1"": 132366, ""node2"": 65012, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+eau,champignon,acl:relcl,NOUN,0.5842656493186951,[],,
+champignon,baigner,acl,VERB,0.5053864121437073,[],,
+avoir,morceau,obj,NOUN,0.4641084671020508,[],,
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+cuire,min,obj,NOUN,0.5212259888648987,[],,
+feu,moyen,amod,ADJ,0.5528092384338379,[],,
+cuire,mélanger,advcl,VERB,0.7139929533004761,[],,

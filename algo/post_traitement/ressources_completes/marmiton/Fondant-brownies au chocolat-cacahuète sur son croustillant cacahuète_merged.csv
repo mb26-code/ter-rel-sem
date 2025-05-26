@@ -1,0 +1,32 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+croustillant,ingrédient,nmod,NOUN,0.652415931224823,[],,
+ingrédient,chocolat,appos,NOUN,0.6857289671897888,[],,
+ingrédient,pâtissier,amod,ADJ,0.5819535255432129,[],,
+ingrédient,sucre,appos,NOUN,0.7083083987236023,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]",r_associated,70.0
+sucre,beurre,nmod,NOUN,0.6973879933357239,[],,
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+sucre,couteau,nmod,NOUN,0.6995149254798889,[],,
+sucre,four,nmod,NOUN,0.7770997881889343,[],,
+four,saladier,nmod,NOUN,0.6991847157478333,[],,
+pièce,balance,nmod,NOUN,0.4534409344196319,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+balance,étape,nmod,NOUN,0.4149083495140075,[],,
+balance,mortier,nmod,NOUN,0.48532235622406,[],,
+gramme,sucre,nmod,NOUN,0.6024630069732666,"[{""id"": 720818120, ""node1"": 140383, ""node2"": 139481, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+gramme,farine,nmod,NOUN,0.6095054149627686,"[{""id"": 775213298, ""node1"": 140383, ""node2"": 127629, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+couper,gramme,obj,NOUN,0.5053040385246277,[],,
+gramme,beurre,nmod,NOUN,0.6074452996253967,[],,
+préparation,œuf,nmod,NOUN,0.5338891744613647,[],,
+solide,pâte,nsubj,NOUN,0.6268324851989746,"[{""id"": 539347668, ""node1"": 95404, ""node2"": 34069, ""type"": 23, ""w"": 26.0}]",r_carac-1,26.0
+Prenez,moule,obj,NOUN,0.4667410850524902,[],,
+emporter,pièce,obj,NOUN,0.4488125443458557,[],,
+étaler,pâte,obj,NOUN,0.6019123196601868,"[{""id"": 364779096, ""node1"": 98214, ""node2"": 34069, ""type"": 0, ""w"": 38.0}, {""id"": 243248, ""node1"": 98214, ""node2"": 34069, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+fondre,chocolat,obj,NOUN,0.5867562890052795,"[{""id"": 28589116, ""node1"": 16480, ""node2"": 34157, ""type"": 0, ""w"": 63.0}, {""id"": 24768886, ""node1"": 16480, ""node2"": 34157, ""type"": 13, ""w"": 30.0}, {""id"": 1011304980, ""node1"": 16480, ""node2"": 34157, ""type"": 14, ""w"": 30.0}, {""id"": 1009801551, ""node1"": 16480, ""node2"": 34157, ""type"": 666, ""w"": 3.0}]",r_associated,63.0
+gramme,rester,acl,VERB,0.4408146142959595,[],,
+fondre,casser,advcl,VERB,0.4819565117359161,[],,
+casser,œuf,obj,NOUN,0.5383567810058594,[],,
+ajouter,chocolat,obj,NOUN,0.6055095791816711,[],,
+sucre,gramme,nmod,NOUN,0.6024630069732666,"[{""id"": 1913810, ""node1"": 139481, ""node2"": 140383, ""type"": 58, ""w"": 35.0}]",r_quantificateur,35.0
+plat,four,nmod,NOUN,0.711601734161377,"[{""id"": 796694692, ""node1"": 36327, ""node2"": 9190, ""type"": 0, ""w"": 25.0}, {""id"": 539961893, ""node1"": 36327, ""node2"": 9190, ""type"": 10, ""w"": -25.0}, {""id"": 3150650, ""node1"": 36327, ""node2"": 9190, ""type"": 15, ""w"": 71.0}]",r_lieu,71.0
+four,avoir,acl:relcl,VERB,0.646382212638855,[],,

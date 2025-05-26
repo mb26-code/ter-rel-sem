@@ -1,0 +1,21 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+titre,jambon,nmod,NOUN,0.5508906245231628,[],,
+jambon,blanc,amod,ADJ,0.6019902229309082,"[{""id"": 368564, ""node1"": 57980, ""node2"": 15196, ""type"": 0, ""w"": 67.0}, {""id"": 380715, ""node1"": 57980, ""node2"": 15196, ""type"": 17, ""w"": 51.0}, {""id"": 3163497, ""node1"": 57980, ""node2"": 15196, ""type"": 106, ""w"": 13.0}]",r_associated,67.0
+titre,huile,amod,NOUN,0.5533830523490906,[],,
+titre,roquette,nmod,NOUN,0.4666337668895721,[],,
+roquette,basilic,nmod,NOUN,0.5573135018348694,[],,
+pinceau,couteau,nmod,NOUN,0.4793228805065155,"[{""id"": 558826967, ""node1"": 79400, ""node2"": 32610, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+pinceau,mixeur,nmod,NOUN,0.5178923606872559,[],,
+mixeur,four,nmod,NOUN,0.6762216091156006,[],,
+four,étape,nmod,NOUN,0.6555838584899902,[],,
+pinceau,couper,acl,VERB,0.4754942059516907,[],,
+couper,pain,obj,NOUN,0.6540286540985107,"[{""id"": 365440568, ""node1"": 128828, ""node2"": 61283, ""type"": 0, ""w"": 31.0}, {""id"": 31770882, ""node1"": 128828, ""node2"": 61283, ""type"": 14, ""w"": 100.0}, {""id"": 376198958, ""node1"": 128828, ""node2"": 61283, ""type"": 16, ""w"": 29.0}, {""id"": 376067866, ""node1"": 128828, ""node2"": 61283, ""type"": 31, ""w"": 28.0}]",r_patient,100.0
+morceau,huile,nmod,NOUN,0.6408088803291321,[],,
+huile,olive,amod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+pinceau,alimentaire,amod,ADJ,0.4899396300315857,[],,
+couper,tomate,obj,NOUN,0.6290057301521301,"[{""id"": 628044027, ""node1"": 128828, ""node2"": 22138, ""type"": 0, ""w"": 27.0}, {""id"": 628044026, ""node1"": 128828, ""node2"": 22138, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+tomate,tranche,nmod,NOUN,0.6014438271522522,"[{""id"": 421761138, ""node1"": 22138, ""node2"": 143123, ""type"": 0, ""w"": 1.0}]",r_associated,1.0
+tranche,jambon,nmod,NOUN,0.5780830979347229,"[{""id"": 243905, ""node1"": 143123, ""node2"": 57980, ""type"": 0, ""w"": 71.0}, {""id"": 720817992, ""node1"": 143123, ""node2"": 57980, ""type"": 174, ""w"": 25.0}]",r_associated,71.0
+tranche,mozzarella,nmod,NOUN,0.5301165580749512,[],,
+roquette,dessus,nmod,NOUN,0.5097220540046692,[],,

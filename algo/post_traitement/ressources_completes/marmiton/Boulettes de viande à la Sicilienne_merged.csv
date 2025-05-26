@@ -1,0 +1,52 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,boulette,nmod,NOUN,0.4638309478759765,[],,
+boulette,viande,nmod,NOUN,0.6934407949447632,"[{""id"": 158031, ""node1"": 112360, ""node2"": 140100, ""type"": 0, ""w"": 82.0}, {""id"": 1013983190, ""node1"": 112360, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]",r_associated,82.0
+boulette,ingrédient,nmod,NOUN,0.6591418385505676,[],,
+boulette,sel,nmod,NOUN,0.695354700088501,[],,
+sel,poivre,acl,NOUN,0.6705341935157776,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]",r_associated,495.0
+boulette,boeuf,nmod,NOUN,0.5982236862182617,[],,
+boeuf,oeuf,nmod,NOUN,0.6008726954460144,[],,
+boeuf,basilic,amod,PROPN,0.6228764653205872,[],,
+boeuf,menthe,acl,VERB,0.6303116679191589,[],,
+boeuf,huile,amod,NOUN,0.6595109701156616,"[{""id"": 941866985, ""node1"": 47417, ""node2"": 141971, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+boulette,saladier,nmod,NOUN,0.622624397277832,[],,
+saladier,set,appos,NOUN,0.4222391545772552,[],,
+boulette,poêle,nmod,NOUN,0.6690402626991272,[],,
+boulette,étape,nmod,NOUN,0.4395588338375091,[],,
+ingrédient,tout,amod,ADJ,0.580045223236084,[],,
+ingrédient,saladier,nmod,NOUN,0.6509284973144531,[],,
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+poêle,grand,amod,ADJ,0.628409743309021,[],,
+chauffer,aide,obj,NOUN,0.4763544797897339,[],,
+cuillère,grand,amod,ADJ,0.5641725063323975,[],,
+aide,cuillère,nmod,NOUN,0.45757657289505,[],,
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+prélever,quantité,obj,NOUN,0.4796808063983917,"[{""id"": 1046287606, ""node1"": 27502, ""node2"": 78869, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+quantité,farce,nmod,NOUN,0.57809978723526,[],,
+farce,suffisant,amod,ADJ,0.537311315536499,[],,
+quantité,former,acl,VERB,0.4584219753742218,[],,
+former,boulette,obj,NOUN,0.4797645807266235,[],,
+boulette,creux,nmod,NOUN,0.4770441055297851,[],,
+boulette,main,nmod,NOUN,0.4425475597381592,[],,
+manière,grand-mère,nmod,NOUN,0.4472774565219879,[],,
+baisser,dont,iobj,PRON,0.42128387093544,[],,
+poêle,baisser,acl:relcl,VERB,0.6522793769836426,[],,
+baisser,feu,obj,NOUN,0.552813708782196,[],,
+éviter,cuisson,obj,NOUN,0.6464766263961792,[],,
+cuisson,rapide,amod,ADJ,0.6360381841659546,"[{""id"": 31834087, ""node1"": 60056, ""node2"": 110732, ""type"": 17, ""w"": 59.0}]",r_carac,59.0
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+aspect,léger,amod,ADJ,0.4103616178035736,[],,
+aspect,doré,amod,ADJ,0.4904544651508331,"[{""id"": 98271775, ""node1"": 92662, ""node2"": 47964, ""type"": 17, ""w"": 27.0}]",r_carac,27.0
+sortir,huile,obj,NOUN,0.5957436561584473,[],,
+papier,absorber,acl,VERB,0.4968288838863373,[],,
+égoutter,dresser,advcl,VERB,0.4796488285064697,[],,
+prêt,déguster,advcl,VERB,0.5029605031013489,[],,
+cuisson,deuxième,amod,ADJ,0.7099628448486328,[],,
+appliquer,cuisson,obj,NOUN,0.6855863928794861,[],,
+pouvoir,mijoter,advcl,VERB,0.5942068099975586,[],,
+mijoter,min,obj,NOUN,0.4553591310977936,[],,
+coulis,simple,amod,ADJ,0.5960429310798645,[],,
+coulis,tomate,nmod,NOUN,0.6366809606552124,"[{""id"": 798889036, ""node1"": 10401, ""node2"": 22138, ""type"": 0, ""w"": 31.0}, {""id"": 1072261196, ""node1"": 10401, ""node2"": 22138, ""type"": 666, ""w"": 2.0}]",r_associated,31.0
+coulis,accompagner,acl:relcl,VERB,0.5668626427650452,[],,
+accompagner,plat,obj,NOUN,0.6060267686843872,[],,
+plat,dent,amod,ADJ,0.6124738454818726,[],,

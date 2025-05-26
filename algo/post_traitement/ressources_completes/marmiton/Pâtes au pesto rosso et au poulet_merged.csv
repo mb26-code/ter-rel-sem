@@ -1,0 +1,19 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,pâte,nmod,NOUN,0.6394232511520386,[],,
+pâte,pesto,nmod,NOUN,0.6702281832695007,[],,
+poulet,ingrédient,nmod,NOUN,0.7190364599227905,"[{""id"": 24929041, ""node1"": 146261, ""node2"": 123418, ""type"": 6, ""w"": 1.0}]",r_isa,1.0
+pâte,crème,amod,NOUN,0.6638638377189636,"[{""id"": 975998, ""node1"": 34069, ""node2"": 44001, ""type"": 0, ""w"": 24.0}, {""id"": 96931482, ""node1"": 34069, ""node2"": 44001, ""type"": 50, ""w"": 28.0}]",r_object>mater,28.0
+pesto,top,nmod,NOUN,0.4972236752510071,[],,
+top,poêle,nmod,NOUN,0.5366419553756714,[],,
+cuire,pâte,obj,NOUN,0.7488689422607422,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]",r_patient,35.0
+fin,minute,nmod,NOUN,0.4153892695903778,[],,
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+cuisson,pâte,nmod,NOUN,0.7189537286758423,"[{""id"": 915053269, ""node1"": 60056, ""node2"": 34069, ""type"": 0, ""w"": 20.0}, {""id"": 376106703, ""node1"": 60056, ""node2"": 34069, ""type"": 109, ""w"": 29.0}]",r_has_predecesseur-time,29.0
+pesto,faire,acl,VERB,0.629175066947937,[],,
+revenir,poulet,obj,NOUN,0.6672897338867188,[],,
+incorporer,crème,obj,NOUN,0.6097753047943115,[],,
+incorporer,pesto,obj,NOUN,0.5955473184585571,[],,
+feu,doux,amod,ADJ,0.5496628284454346,[],,
+ajouter,pâte,obj,NOUN,0.6482475399971008,[],,
+pâte,égoutter,acl,VERB,0.6485137343406677,[],,
+cuire,minute,obj,NOUN,0.6918482780456543,[],,

@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,sucre,appos,NOUN,0.7083083987236023,"[{""id"": 2293217, ""node1"": 123418, ""node2"": 139481, ""type"": 0, ""w"": 70.0}, {""id"": 584064239, ""node1"": 123418, ""node2"": 139481, ""type"": 6, ""w"": -5.0}, {""id"": 9621636, ""node1"": 123418, ""node2"": 139481, ""type"": 8, ""w"": 27.0}, {""id"": 15173636, ""node1"": 123418, ""node2"": 139481, ""type"": 27, ""w"": 30.0}]",r_associated,70.0
+sucre,oeuf,nmod,NOUN,0.6437758803367615,"[{""id"": 376049526, ""node1"": 139481, ""node2"": 116175, ""type"": 51, ""w"": 41.0}]",r_mater>object,41.0
+oeuf,cacao,nmod,NOUN,0.5905804634094238,[],,
+oeuf,crème,amod,NOUN,0.6166951060295105,"[{""id"": 798892970, ""node1"": 116175, ""node2"": 44001, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+crème,liquide,amod,ADJ,0.6173139810562134,"[{""id"": 96714687, ""node1"": 44001, ""node2"": 140315, ""type"": 0, ""w"": 35.0}, {""id"": 96714688, ""node1"": 44001, ""node2"": 140315, ""type"": 6, ""w"": 33.0}, {""id"": 31815506, ""node1"": 44001, ""node2"": 140315, ""type"": 17, ""w"": 52.0}, {""id"": 306776466, ""node1"": 44001, ""node2"": 140315, ""type"": 666, ""w"": 3.0}]",r_carac,52.0
+sucre,lait,nmod,NOUN,0.6437966823577881,[],,
+lait,biscuit,nmod,NOUN,0.6131711006164551,"[{""id"": 920547021, ""node1"": 86296, ""node2"": 62524, ""type"": 0, ""w"": 21.0}, {""id"": 386065404, ""node1"": 86296, ""node2"": 62524, ""type"": 6, ""w"": -25.0}, {""id"": 97056195, ""node1"": 86296, ""node2"": 62524, ""type"": 78, ""w"": 29.0}]",r_cohypo,29.0
+casserole,moule,nmod,NOUN,0.5965444445610046,[],,
+cake,four,appos,NOUN,0.6546434164047241,"[{""id"": 561291406, ""node1"": 28945, ""node2"": 9190, ""type"": 0, ""w"": 33.0}, {""id"": 583219224, ""node1"": 28945, ""node2"": 9190, ""type"": 5, ""w"": -5.0}, {""id"": 623131366, ""node1"": 28945, ""node2"": 9190, ""type"": 15, ""w"": 32.0}]",r_lieu,32.0
+four,mixeur,nmod,NOUN,0.6762216091156006,[],,
+mixeur,cuillère,nmod,NOUN,0.5916650295257568,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,fouet,nmod,NOUN,0.5491861701011658,"[{""id"": 662513346, ""node1"": 51905, ""node2"": 73888, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+fouet,cuisine,nmod,NOUN,0.6215970516204834,"[{""id"": 2421862, ""node1"": 73888, ""node2"": 16033, ""type"": 0, ""w"": 307.0}, {""id"": 452879, ""node1"": 73888, ""node2"": 16033, ""type"": 3, ""w"": 267.0}, {""id"": 72783259, ""node1"": 73888, ""node2"": 16033, ""type"": 15, ""w"": 38.0}, {""id"": 1019771975, ""node1"": 73888, ""node2"": 16033, ""type"": 17, ""w"": -5.0}]",r_associated,307.0
+fouet,balance,nmod,NOUN,0.4882497191429138,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+fouet,étape,nmod,NOUN,0.4946097731590271,[],,
+faire,caramel,obj,NOUN,0.6460314393043518,[],,
+moule,cake,nmod,NOUN,0.5423397421836853,"[{""id"": 272916, ""node1"": 143723, ""node2"": 28945, ""type"": 0, ""w"": 60.0}, {""id"": 583219247, ""node1"": 143723, ""node2"": 28945, ""type"": 28, ""w"": 27.0}]",r_associated,60.0
+casserole,faire,acl,VERB,0.637271523475647,[],,
+faire,lait,obj,NOUN,0.6273744702339172,[],,
+mettre,oeuf,obj,NOUN,0.557662844657898,[],,
+laisser,ajouter,advcl,VERB,0.4014033377170563,[],,
+ajouter,sucre,obj,NOUN,0.6556426286697388,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+sucre,battre,acl,VERB,0.6310595273971558,[],,
+battre,tout,obj,ADV,0.4781191945075989,[],,
+tout,ajouter,acl,VERB,0.4717709124088287,[],,
+ajouter,cacao,obj,NOUN,0.5547364354133606,[],,
+tout,mélanger,acl,VERB,0.528428852558136,"[{""id"": 15074002, ""node1"": 136232, ""node2"": 37151, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+ajouter,crème,obj,NOUN,0.610580325126648,[],,
+ajouter,mixer,advcl,VERB,0.5028379559516907,[],,
+mixer,tout,obj,NOUN,0.5551751852035522,[],,
+tout,verser,acl,VERB,0.5228472352027893,[],,
+marier,degré,obj,NOUN,0.4089077115058899,[],,
+refroidir,nuit,obj,NOUN,0.4608571231365204,[],,
+nuit,frigo,nmod,NOUN,0.5112811923027039,[],,

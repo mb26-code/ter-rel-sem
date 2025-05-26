@@ -1,0 +1,56 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+spécialité,culinaire,amod,ADJ,0.5888378620147705,"[{""id"": 477435, ""node1"": 49537, ""node2"": 347, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+spécialité,traditionnel,amod,ADJ,0.5539761781692505,[],,
+spécialité,cuisine,nmod,NOUN,0.6405212879180908,"[{""id"": 477437, ""node1"": 49537, ""node2"": 16033, ""type"": 0, ""w"": 83.0}, {""id"": 473695606, ""node1"": 49537, ""node2"": 16033, ""type"": 3, ""w"": 16.0}, {""id"": 1694092, ""node1"": 49537, ""node2"": 16033, ""type"": 35, ""w"": 80.0}, {""id"": 980188220, ""node1"": 49537, ""node2"": 16033, ""type"": 666, ""w"": 3.0}]",r_associated,83.0
+cuisine,Provence,nmod,PROPN,0.560310423374176,"[{""id"": 428535133, ""node1"": 16033, ""node2"": 133003, ""type"": 0, ""w"": 93.0}, {""id"": 8394093, ""node1"": 16033, ""node2"": 133003, ""type"": 777, ""w"": 6.0}]",r_associated,93.0
+soupe,poisson,nmod,NOUN,0.7111983895301819,"[{""id"": 217748, ""node1"": 117152, ""node2"": 68467, ""type"": 0, ""w"": 73.0}, {""id"": 8332961, ""node1"": 117152, ""node2"": 68467, ""type"": 9, ""w"": 40.0}]",r_associated,73.0
+poisson,accompagner,acl,VERB,0.6430233716964722,"[{""id"": 474142308, ""node1"": 68467, ""node2"": 85830, ""type"": 26, ""w"": 31.0}]",r_patient-1,31.0
+morceau,poisson,nmod,NOUN,0.6589497923851013,[],,
+pomme,terre,nmod,NOUN,0.5521974563598633,"[{""id"": 34768529, ""node1"": 37201, ""node2"": 25705, ""type"": 0, ""w"": 39.0}]",r_associated,39.0
+proposer,provençal,appos,NOUN,0.4066742956638336,[],,
+abaisser,ébullition,obj,NOUN,0.4667879045009613,[],,
+trouver,provençal,nsubj,NOUN,0.4457964897155761,[],,
+provençal,qui,nmod,PRON,0.4007944762706756,[],,
+provençal,référence,nmod,NOUN,0.4326638877391815,[],,
+provençal,cuisson,nmod,NOUN,0.6913577318191528,[],,
+provençal,récipient,nmod,NOUN,0.5540868043899536,[],,
+récipient,poser,acl,VERB,0.5435197353363037,[],,
+Grèce,recette,nmod,NOUN,0.4746094644069671,[],,
+recette,soupe,nmod,NOUN,0.7075814604759216,"[{""id"": 920490924, ""node1"": 120188, ""node2"": 117152, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+soupe,nom,nmod,NOUN,0.5309364795684814,[],,
+Grèce,safran,nmod,NOUN,0.4359248876571655,[],,
+poisson,pêcheur,nmod,NOUN,0.5184702277183533,"[{""id"": 140842, ""node1"": 68467, ""node2"": 143187, ""type"": 0, ""w"": 121.0}, {""id"": 583015979, ""node1"": 68467, ""node2"": 143187, ""type"": 5, ""w"": -5.0}, {""id"": 775214910, ""node1"": 68467, ""node2"": 143187, ""type"": 54, ""w"": 25.0}, {""id"": 1032938094, ""node1"": 68467, ""node2"": 143187, ""type"": 55, ""w"": 26.0}, {""id"": 1032938043, ""node1"": 68467, ""node2"": 143187, ""type"": 156, ""w"": 26.0}]",r_associated,121.0
+soupe,pauvre,nmod,NOUN,0.6132032871246338,[],,
+soupe,réaliser,acl,VERB,0.6671342849731445,[],,
+poisson,roche,nmod,NOUN,0.5593571662902832,"[{""id"": 798727514, ""node1"": 68467, ""node2"": 137312, ""type"": 0, ""w"": 22.0}, {""id"": 245338077, ""node1"": 68467, ""node2"": 137312, ""type"": 8, ""w"": 35.0}]",r_hypo,35.0
+soupe,rester,acl,VERB,0.6388884782791138,[],,
+fond,panier,nmod,NOUN,0.4777299463748932,[],,
+pêche,petit,amod,ADJ,0.5451341867446899,[],,
+retour,pêche,nmod,NOUN,0.4573442935943603,[],,
+poisson,pêcher,acl,VERB,0.5222692489624023,"[{""id"": 423999225, ""node1"": 68467, ""node2"": 26507, ""type"": 0, ""w"": 11.0}, {""id"": 2484894, ""node1"": 68467, ""node2"": 26507, ""type"": 26, ""w"": 100.0}, {""id"": 1762288, ""node1"": 68467, ""node2"": 26507, ""type"": 666, ""w"": 2.0}]",r_patient-1,100.0
+pêcher,cuire,advcl,VERB,0.6768211722373962,[],,
+vin,blanc,amod,ADJ,0.5966135263442993,"[{""id"": 61837, ""node1"": 35798, ""node2"": 15196, ""type"": 0, ""w"": 534.0}, {""id"": 54666180, ""node1"": 35798, ""node2"": 15196, ""type"": 5, ""w"": 76.0}, {""id"": 3170069, ""node1"": 35798, ""node2"": 15196, ""type"": 8, ""w"": 66.0}, {""id"": 8997815, ""node1"": 35798, ""node2"": 15196, ""type"": 17, ""w"": 39.0}, {""id"": 31148619, ""node1"": 35798, ""node2"": 15196, ""type"": 27, ""w"": 23.0}, {""id"": 3160066, ""node1"": 35798, ""node2"": 15196, ""type"": 106, ""w"": 6.0}, {""id"": 1526707, ""node1"": 35798, ""node2"": 15196, ""type"": 666, ""w"": 4.0}]",r_associated,534.0
+huile,olive,nmod,NOUN,0.573360800743103,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+servir,lui,nsubj:pass,PRON,0.4226152002811432,[],,
+appréciation,restaurateur,nmod,NOUN,0.4022172093391418,[],,
+temps,bouillon,appos,NOUN,0.6220088005065918,[],,
+temps,faire,acl:relcl,VERB,0.5143951773643494,[],,
+faire,frotter,appos,VERB,0.4865634441375732,"[{""id"": 54695322, ""node1"": 87528, ""node2"": 7427, ""type"": 0, ""w"": 28.0}, {""id"": 54669049, ""node1"": 87528, ""node2"": 7427, ""type"": 5, ""w"": 101.0}]",r_syn,101.0
+assiette,creux,amod,ADJ,0.5253553986549377,"[{""id"": 9991966, ""node1"": 62735, ""node2"": 53673, ""type"": 0, ""w"": 4.0}, {""id"": 1882219, ""node1"": 62735, ""node2"": 53673, ""type"": 9, ""w"": 90.0}]",r_has_part,90.0
+servir,poisson,obj,NOUN,0.6749269366264343,"[{""id"": 28751868, ""node1"": 7888, ""node2"": 68467, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+qualité,premier,amod,ADJ,0.4222493171691894,"[{""id"": 1011773068, ""node1"": 48513, ""node2"": 130626, ""type"": 0, ""w"": 46.0}]",r_associated,46.0
+fraîcheur,qualité,nsubj,NOUN,0.4504350125789642,"[{""id"": 283886091, ""node1"": 132080, ""node2"": 48513, ""type"": 0, ""w"": 11.0}, {""id"": 96620074, ""node1"": 132080, ""node2"": 48513, ""type"": 6, ""w"": 30.0}]",r_isa,30.0
+vif,nommer,acl,VERB,0.4240959584712982,[],,
+restaurateur,principal,amod,ADJ,0.4211114346981048,[],,
+définir,ingrédient,obj,NOUN,0.4939281046390533,[],,
+ingrédient,établir,acl:relcl,VERB,0.5183455944061279,[],,
+réaction,restaurateur,nmod,NOUN,0.4431168437004089,[],,
+servir,qui,nsubj,PRON,0.4501188993453979,[],,
+restaurateur,servir,acl:relcl,VERB,0.5233892798423767,"[{""id"": 766169824, ""node1"": 121433, ""node2"": 7888, ""type"": 24, ""w"": 30.0}]",r_agent-1,30.0
+restauration,touristique,amod,ADJ,0.4154444336891174,[],,
+restaurateur,cours,appos,NOUN,0.4170747697353363,[],,
+importer,soupe,obj,NOUN,0.6308315396308899,[],,
+nature,véritable,amod,ADJ,0.4616583883762359,[],,
+ignorance,nature,nmod,NOUN,0.4022959768772125,[],,
+nature,recette,nmod,NOUN,0.6235842108726501,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,

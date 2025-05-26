@@ -1,0 +1,60 @@
+node1,node2,relations
+mini,burger,[]
+burger,veau,[]
+mini,ingrédient,[]
+mini,haché,[]
+haché,veau,"[{""id"": 496732662, ""node1"": 47887, ""node2"": 91311, ""type"": 0, ""w"": 16.0}, {""id"": 496732663, ""node1"": 47887, ""node2"": 91311, ""type"": 23, ""w"": 18.0}]"
+pain,petit,"[{""id"": 12987089, ""node1"": 61283, ""node2"": 55222, ""type"": 17, ""w"": 61.0}]"
+façon,pain,[]
+pain,burger,"[{""id"": 28540722, ""node1"": 61283, ""node2"": 138357, ""type"": 0, ""w"": 24.0}, {""id"": 28517502, ""node1"": 61283, ""node2"": 138357, ""type"": 10, ""w"": 31.0}]"
+burger,champignon,[]
+comté,salade,"[{""id"": 98727894, ""node1"": 144697, ""node2"": 118908, ""type"": 10, ""w"": 28.0}]"
+comté,oignon,[]
+oignon,rouge,"[{""id"": 96738908, ""node1"": 123307, ""node2"": 86356, ""type"": 17, ""w"": 31.0}, {""id"": 3161226, ""node1"": 123307, ""node2"": 86356, ""type"": 106, ""w"": 3.0}]"
+oignon,sucre,[]
+sucre,brun,"[{""id"": 182239, ""node1"": 139481, ""node2"": 14189, ""type"": 17, ""w"": 61.0}, {""id"": 3163418, ""node1"": 139481, ""node2"": 14189, ""type"": 106, ""w"": 25.0}]"
+vinaigre,balsamique,"[{""id"": 2132353, ""node1"": 145443, ""node2"": 37458, ""type"": 0, ""w"": 166.0}, {""id"": 1928285, ""node1"": 145443, ""node2"": 37458, ""type"": 666, ""w"": 1.0}]"
+pain,grille,[]
+grille,saladier,[]
+saladier,balance,[]
+balance,cuisine,[]
+grille,étape,[]
+grille,mélanger,[]
+mélanger,haché,[]
+boule,gramme,[]
+utiliser,pièce,[]
+détailler,haché,[]
+veau,manière,[]
+faite,revenir,[]
+huile,olive,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]"
+commencer,oignon,[]
+ajouter,commencer,[]
+ajouter,sucre,"[{""id"": 374361321, ""node1"": 25099, ""node2"": 139481, ""type"": 14, ""w"": 31.0}]"
+poursuivre,cuisson,[]
+cuisson,minute,[]
+minute,mélanger,[]
+couper,champignon,"[{""id"": 93547215, ""node1"": 128828, ""node2"": 25484, ""type"": 14, ""w"": 30.0}]"
+filet,huile,[]
+filet,minute,[]
+récupérer,réserver,[]
+réserver,champignon,[]
+récupérer,poêle,[]
+cuire,viande,"[{""id"": 2182411, ""node1"": 5115, ""node2"": 140100, ""type"": 0, ""w"": 73.0}, {""id"": 148035, ""node1"": 5115, ""node2"": 140100, ""type"": 13, ""w"": 100.0}, {""id"": 206249, ""node1"": 5115, ""node2"": 140100, ""type"": 14, ""w"": 100.0}, {""id"": 722712577, ""node1"": 5115, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]"
+chauffer,saisir,[]
+dernier,feu,[]
+feu,vif,"[{""id"": 418102926, ""node1"": 143703, ""node2"": 80204, ""type"": 0, ""w"": 13.0}, {""id"": 221184, ""node1"": 143703, ""node2"": 80204, ""type"": 17, ""w"": 52.0}]"
+feu,côté,[]
+finir,cuisson,[]
+cuisson,steak,"[{""id"": 796846085, ""node1"": 60056, ""node2"": 55572, ""type"": 0, ""w"": 21.0}]"
+cuisson,feu,"[{""id"": 53757049, ""node1"": 60056, ""node2"": 143703, ""type"": 0, ""w"": 22.0}, {""id"": 53594904, ""node1"": 60056, ""node2"": 143703, ""type"": 5, ""w"": 65.0}, {""id"": 14675290, ""node1"": 60056, ""node2"": 143703, ""type"": 42, ""w"": 35.0}, {""id"": 1066090857, ""node1"": 60056, ""node2"": 143703, ""type"": 129, ""w"": 28.0}]"
+feu,doux,[]
+chauffer,pain,[]
+étaler,couche,"[{""id"": 560922829, ""node1"": 98214, ""node2"": 19152, ""type"": 0, ""w"": 32.0}]"
+couche,pain,[]
+étaler,déposer,[]
+déposer,cuillère,[]
+cuillère,oignon,[]
+rondelle,steak,[]
+steak,veau,"[{""id"": 14637189, ""node1"": 55572, ""node2"": 91311, ""type"": 0, ""w"": 28.0}, {""id"": 13009922, ""node1"": 55572, ""node2"": 91311, ""type"": 10, ""w"": 71.0}]"
+cuillère,champignon,[]
+refermer,burger,[]

@@ -1,0 +1,49 @@
+node1,node2,relations
+fruit,mer,[]
+fruit,ingrédient,[]
+ingrédient,sel,"[{""id"": 24923431, ""node1"": 123418, ""node2"": 13260, ""type"": 0, ""w"": 17.0}, {""id"": 24850731, ""node1"": 123418, ""node2"": 13260, ""type"": 8, ""w"": 27.0}]"
+sel,poivre,"[{""id"": 125169, ""node1"": 13260, ""node2"": 139597, ""type"": 0, ""w"": 495.0}, {""id"": 1029365119, ""node1"": 13260, ""node2"": 139597, ""type"": 67, ""w"": 28.0}, {""id"": 74985058, ""node1"": 13260, ""node2"": 139597, ""type"": 75, ""w"": 160.0}, {""id"": 1032956770, ""node1"": 13260, ""node2"": 139597, ""type"": 78, ""w"": 39.0}, {""id"": 652227840, ""node1"": 13260, ""node2"": 139597, ""type"": 666, ""w"": 2.0}]"
+poivre,fruit,"[{""id"": 15026229, ""node1"": 139597, ""node2"": 87286, ""type"": 0, ""w"": 29.0}, {""id"": 14806198, ""node1"": 139597, ""node2"": 87286, ""type"": 6, ""w"": 109.0}]"
+fruit,feuilletée,[]
+feuilletée,oeuf,[]
+oeuf,noix,[]
+oeuf,crevette,[]
+four,moule,"[{""id"": 914324367, ""node1"": 9190, ""node2"": 143723, ""type"": 0, ""w"": 20.0}, {""id"": 149292258, ""node1"": 9190, ""node2"": 143723, ""type"": 28, ""w"": 71.0}]"
+four,tarte,"[{""id"": 209910, ""node1"": 9190, ""node2"": 575, ""type"": 0, ""w"": 61.0}, {""id"": 2290225, ""node1"": 9190, ""node2"": 575, ""type"": 28, ""w"": 98.0}]"
+tarte,fourchette,[]
+fourchette,saladier,[]
+saladier,pinceau,[]
+pinceau,étape,[]
+utiliser,produit,[]
+produit,congeler,[]
+produit,ajouter,[]
+ajouter,jus,[]
+saler,poivrer,"[{""id"": 796710265, ""node1"": 15671, ""node2"": 70211, ""type"": 0, ""w"": 22.0}]"
+ajouter,peu,[]
+peu,poivre,[]
+mettre,revenir,[]
+revenir,champignon,[]
+moule,tarte,"[{""id"": 201624, ""node1"": 143723, ""node2"": 575, ""type"": 0, ""w"": 130.0}]"
+moule,placer,[]
+placer,pâte,[]
+pâte,feuilleté,"[{""id"": 879773673, ""node1"": 34069, ""node2"": 43380, ""type"": 0, ""w"": 20.0}]"
+mettre,mélange,[]
+mélange,refroidir,[]
+bord,pâte,[]
+peu,mélange,[]
+mélange,jaune,[]
+mélange,oeuf,[]
+oeuf,eau,"[{""id"": 386067341, ""node1"": 116175, ""node2"": 65012, ""type"": 15, ""w"": 30.0}, {""id"": 76133634, ""node1"": 116175, ""node2"": 65012, ""type"": 50, ""w"": 35.0}, {""id"": 109918850, ""node1"": 116175, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]"
+pâte,deuxième,[]
+mettre,pâte,[]
+mettre,faire,[]
+faire,dessin,"[{""id"": 653277332, ""node1"": 87528, ""node2"": 98596, ""type"": 666, ""w"": 2.0}]"
+faire,trou,[]
+trou,cheminée,"[{""id"": 54697253, ""node1"": 115865, ""node2"": 143548, ""type"": 0, ""w"": 32.0}, {""id"": 54666254, ""node1"": 115865, ""node2"": 143548, ""type"": 5, ""w"": 60.0}]"
+trou,milieu,[]
+dessin,petit,"[{""id"": 417218, ""node1"": 98596, ""node2"": 55222, ""type"": 17, ""w"": 53.0}]"
+dessin,dessus,[]
+reste,eau,[]
+eau,jaune,"[{""id"": 98628743, ""node1"": 65012, ""node2"": 86711, ""type"": 0, ""w"": 18.0}, {""id"": 97755612, ""node1"": 65012, ""node2"": 86711, ""type"": 10, ""w"": 30.0}, {""id"": 479177773, ""node1"": 65012, ""node2"": 86711, ""type"": 17, ""w"": 30.0}, {""id"": 376037830, ""node1"": 65012, ""node2"": 86711, ""type"": 51, ""w"": 35.0}]"
+jaune,oeuf,"[{""id"": 104631, ""node1"": 86711, ""node2"": 116175, ""type"": 0, ""w"": 598.0}, {""id"": 31299418, ""node1"": 86711, ""node2"": 116175, ""type"": 3, ""w"": 29.0}, {""id"": 2350883, ""node1"": 86711, ""node2"": 116175, ""type"": 10, ""w"": 109.0}, {""id"": 131637, ""node1"": 86711, ""node2"": 116175, ""type"": 15, ""w"": 118.0}, {""id"": 120267, ""node1"": 86711, ""node2"": 116175, ""type"": 23, ""w"": 300.0}, {""id"": 2254559, ""node1"": 86711, ""node2"": 116175, ""type"": 54, ""w"": 58.0}]"
+cuire,thermostat,[]

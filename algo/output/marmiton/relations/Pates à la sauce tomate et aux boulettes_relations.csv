@@ -1,0 +1,27 @@
+node1,node2,relations
+titre,pate,[]
+pate,sauce,[]
+sauce,tomate,"[{""id"": 2221325, ""node1"": 141110, ""node2"": 22138, ""type"": 0, ""w"": 74.0}, {""id"": 10528848, ""node1"": 141110, ""node2"": 22138, ""type"": 9, ""w"": 26.0}, {""id"": 11333947, ""node1"": 141110, ""node2"": 22138, ""type"": 28, ""w"": 38.0}, {""id"": 96715050, ""node1"": 141110, ""node2"": 22138, ""type"": 50, ""w"": 16.0}, {""id"": 651031294, ""node1"": 141110, ""node2"": 22138, ""type"": 666, ""w"": 4.0}]"
+titre,ingrédient,[]
+titre,persil,[]
+titre,boulette,[]
+boulette,viande,"[{""id"": 158031, ""node1"": 112360, ""node2"": 140100, ""type"": 0, ""w"": 82.0}, {""id"": 1013983190, ""node1"": 112360, ""node2"": 140100, ""type"": 666, ""w"": 2.0}]"
+titre,casserole,[]
+set,poêle,[]
+poêle,couteau,[]
+set,mixeur,[]
+mixeur,plat,[]
+mixeur,étape,[]
+cuire,pâte,"[{""id"": 97862163, ""node1"": 5115, ""node2"": 34069, ""type"": 14, ""w"": 35.0}]"
+couper,oignon,"[{""id"": 435065584, ""node1"": 128828, ""node2"": 123307, ""type"": 0, ""w"": 29.0}, {""id"": 31770866, ""node1"": 128828, ""node2"": 123307, ""type"": 14, ""w"": 100.0}]"
+oignon,doré,"[{""id"": 477556851, ""node1"": 123307, ""node2"": 47964, ""type"": 17, ""w"": 26.0}]"
+incorporer,boulette,[]
+boulette,poêle,[]
+prendre,plat,"[{""id"": 368488351, ""node1"": 86306, ""node2"": 36327, ""type"": 0, ""w"": 28.0}, {""id"": 368488350, ""node1"": 86306, ""node2"": 36327, ""type"": 14, ""w"": 100.0}]"
+prendre,verser,[]
+verser,pate,[]
+pate,boulette,[]
+boulette,oignon,[]
+verser,coulis,[]
+coulis,sauce,"[{""id"": 817060, ""node1"": 10401, ""node2"": 141110, ""type"": 0, ""w"": 33.0}, {""id"": 1072261193, ""node1"": 10401, ""node2"": 141110, ""type"": 666, ""w"": 2.0}]"
+bon,appétit,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]"

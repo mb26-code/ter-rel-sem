@@ -1,0 +1,30 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+mixeur,plonger,acl,VERB,0.5584041476249695,[],,
+mixeur,chauffer,acl,VERB,0.6226776838302612,[],,
+chauffer,couteau,obj,NOUN,0.6349921822547913,[],,
+casserole,cuillère,nmod,NOUN,0.6258264183998108,"[{""id"": 922009782, ""node1"": 57253, ""node2"": 51905, ""type"": 0, ""w"": 20.0}, {""id"": 596712176, ""node1"": 57253, ""node2"": 51905, ""type"": 16, ""w"": -25.0}]",r_associated,20.0
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,saladier,nmod,NOUN,0.6106023788452148,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+saladier,bol,nmod,NOUN,0.5367903709411621,"[{""id"": 2284782, ""node1"": 45455, ""node2"": 145405, ""type"": 0, ""w"": 73.0}, {""id"": 979970161, ""node1"": 45455, ""node2"": 145405, ""type"": 666, ""w"": 3.0}]",r_associated,73.0
+casserole,chauffer,advcl,VERB,0.666526198387146,"[{""id"": 96542707, ""node1"": 57253, ""node2"": 90994, ""type"": 0, ""w"": 17.0}, {""id"": 1684713, ""node1"": 57253, ""node2"": 90994, ""type"": 37, ""w"": 120.0}, {""id"": 96542706, ""node1"": 57253, ""node2"": 90994, ""type"": 666, ""w"": 1.0}]",r_telic_role,120.0
+chauffer,étape,obj,NOUN,0.4912289679050445,[],,
+cuire,légume,obj,NOUN,0.8064759373664856,"[{""id"": 796715114, ""node1"": 5115, ""node2"": 120603, ""type"": 0, ""w"": 26.0}, {""id"": 148033, ""node1"": 5115, ""node2"": 120603, ""type"": 13, ""w"": 53.0}, {""id"": 234259, ""node1"": 5115, ""node2"": 120603, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+légume,désirer,acl:relcl,VERB,0.6208381652832031,[],,
+couper,tofu,obj,NOUN,0.633814811706543,[],,
+cube,petit,amod,ADJ,0.5087730884552002,[],,
+tofu,cube,nmod,NOUN,0.6046690344810486,[],,
+réduire,feu,nmod,NOUN,0.5594683289527893,[],,
+feu,minimum,nmod,NOUN,0.5431857109069824,[],,
+verser,peu,obj,ADV,0.4855603873729706,[],,
+peu,bouillon,nmod,NOUN,0.5373464822769165,[],,
+ajouter,goûter,obj,NOUN,0.5673956274986267,[],,
+devoir,mélange,nsubj,NOUN,0.4884808361530304,[],,
+bol,individuel,amod,ADJ,0.5205103754997253,[],,
+bol,disposer,acl,VERB,0.5322176218032837,[],,
+manière,légume,nmod,NOUN,0.6447902321815491,[],,
+légume,cuire,acl,VERB,0.8064759373664856,"[{""id"": 660236, ""node1"": 120603, ""node2"": 5115, ""type"": 0, ""w"": 31.0}, {""id"": 14845362, ""node1"": 120603, ""node2"": 5115, ""type"": 24, ""w"": 30.0}, {""id"": 15071520, ""node1"": 120603, ""node2"": 5115, ""type"": 26, ""w"": 33.0}]",r_patient-1,33.0
+pincée,personne,nmod,NOUN,0.4622269868850708,"[{""id"": 514146292, ""node1"": 122023, ""node2"": 116477, ""type"": 23, ""w"": 3.0}]",r_carac-1,3.0
+dessus,doucement,amod,ADV,0.4520481824874878,[],,
+verser,soupe,obj,NOUN,0.6456459760665894,"[{""id"": 437840925, ""node1"": 104506, ""node2"": 117152, ""type"": 0, ""w"": 27.0}, {""id"": 437840924, ""node1"": 104506, ""node2"": 117152, ""type"": 14, ""w"": 100.0}, {""id"": 1046684355, ""node1"": 104506, ""node2"": 117152, ""type"": 31, ""w"": 21.0}]",r_patient,100.0
+saupoudrer,ensemble,obj,NOUN,0.501130223274231,[],,
+ensemble,soupçon,nmod,NOUN,0.4011272192001343,[],,

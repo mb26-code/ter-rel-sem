@@ -1,0 +1,33 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+concerner,fromage,obj,NOUN,0.5820378661155701,[],,
+modifier,blanchir,advcl,VERB,0.4068809449672699,[],,
+raison,couleur,nmod,NOUN,0.4706551134586334,"[{""id"": 54632055, ""node1"": 39301, ""node2"": 40056, ""type"": 0, ""w"": 21.0}, {""id"": 54611632, ""node1"": 39301, ""node2"": 40056, ""type"": 5, ""w"": 63.0}]",r_syn,63.0
+couleur,croûte,nmod,NOUN,0.5850705504417419,[],,
+fromage,bière,nmod,NOUN,0.6155387759208679,[],,
+type,fromage,nmod,NOUN,0.5783327221870422,[],,
+fromage,lait,nmod,NOUN,0.6050665378570557,"[{""id"": 106089, ""node1"": 141687, ""node2"": 86296, ""type"": 0, ""w"": 420.0}, {""id"": 96698063, ""node1"": 141687, ""node2"": 86296, ""type"": 3, ""w"": 30.0}, {""id"": 96698122, ""node1"": 141687, ""node2"": 86296, ""type"": 6, ""w"": -54.0}, {""id"": 385497933, ""node1"": 141687, ""node2"": 86296, ""type"": 8, ""w"": -26.0}, {""id"": 24567307, ""node1"": 141687, ""node2"": 86296, ""type"": 9, ""w"": 52.0}, {""id"": 665159283, ""node1"": 141687, ""node2"": 86296, ""type"": 17, ""w"": -5.0}, {""id"": 207495, ""node1"": 141687, ""node2"": 86296, ""type"": 21, ""w"": -52.0}, {""id"": 1555514, ""node1"": 141687, ""node2"": 86296, ""type"": 42, ""w"": 173.0}, {""id"": 96698114, ""node1"": 141687, ""node2"": 86296, ""type"": 50, ""w"": 36.0}, {""id"": 1765263, ""node1"": 141687, ""node2"": 86296, ""type"": 666, ""w"": 10.0}]",r_associated,420.0
+lait,vache,nmod,NOUN,0.5106161832809448,"[{""id"": 100641, ""node1"": 86296, ""node2"": 138501, ""type"": 0, ""w"": 431.0}, {""id"": 137749, ""node1"": 86296, ""node2"": 138501, ""type"": 8, ""w"": -60.0}, {""id"": 9976460, ""node1"": 86296, ""node2"": 138501, ""type"": 10, ""w"": 4.0}, {""id"": 11357809, ""node1"": 86296, ""node2"": 138501, ""type"": 15, ""w"": 39.0}, {""id"": 383584, ""node1"": 86296, ""node2"": 138501, ""type"": 22, ""w"": -80.0}, {""id"": 15114456, ""node1"": 86296, ""node2"": 138501, ""type"": 27, ""w"": 28.0}, {""id"": 76654958, ""node1"": 86296, ""node2"": 138501, ""type"": 54, ""w"": 76.0}, {""id"": 1040288386, ""node1"": 86296, ""node2"": 138501, ""type"": 129, ""w"": 29.0}, {""id"": 1522646, ""node1"": 86296, ""node2"": 138501, ""type"": 666, ""w"": 13.0}]",r_associated,431.0
+vache,originaire,amod,ADJ,0.4020690321922302,[],,
+lait,Allemagne,nmod,PROPN,0.5306413173675537,[],,
+type,connaître,acl,VERB,0.4501825869083404,[],,
+produire,fromage,advcl,NOUN,0.6263010501861572,[],,
+fromage,piquant,amod,ADJ,0.6670858860015869,[],,
+environnement,humide,amod,ADJ,0.4318867027759552,"[{""id"": 93777817, ""node1"": 117325, ""node2"": 76183, ""type"": 17, ""w"": 23.0}]",r_carac,23.0
+partager,dont,nsubj,PRON,0.4162018001079559,[],,
+fromage,partager,acl:relcl,VERB,0.6526021361351013,[],,
+odeur,même,amod,ADJ,0.5112006664276123,[],,
+partager,odeur,obj,NOUN,0.509432315826416,[],,
+odeur,puissant,amod,ADJ,0.4670758247375488,[],,
+douceur,goût,nmod,NOUN,0.5735605359077454,"[{""id"": 451909, ""node1"": 26173, ""node2"": 119233, ""type"": 0, ""w"": 26.0}, {""id"": 97734009, ""node1"": 26173, ""node2"": 119233, ""type"": 6, ""w"": 1.0}]",r_associated,26.0
+consomment,amateur,nsubj,NOUN,0.4329755008220672,[],,
+consomment,tremper,advcl,ADJ,0.5523619651794434,[],,
+trouver,beaucoup,nsubj,PRON,0.4095952808856964,[],,
+trouver,servir,advcl,VERB,0.4669224917888641,[],,
+tranche,petit,amod,ADJ,0.541646420955658,[],,
+tranche,seigle,nmod,NOUN,0.5338593125343323,[],,
+tranche,oignon,nmod,NOUN,0.5988919138908386,[],,
+fromage,habituel,amod,ADJ,0.630696177482605,[],,
+fromage,pub,nmod,NOUN,0.4677342772483825,[],,
+restaurant,République,nmod,PROPN,0.4380012154579162,[],,
+pain,nombreux,amod,ADJ,0.6296306252479553,[],,
+accompagner,pain,obj,NOUN,0.6508470773696899,[],,

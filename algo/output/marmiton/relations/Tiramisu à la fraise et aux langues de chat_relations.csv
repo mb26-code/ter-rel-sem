@@ -1,0 +1,46 @@
+node1,node2,relations
+langue,chat,"[{""id"": 222645, ""node1"": 52119, ""node2"": 150, ""type"": 0, ""w"": 56.0}, {""id"": 9975996, ""node1"": 52119, ""node2"": 150, ""type"": 10, ""w"": 64.0}, {""id"": 11357202, ""node1"": 52119, ""node2"": 150, ""type"": 15, ""w"": 38.0}]"
+chat,ingrédient,"[{""id"": 543155377, ""node1"": 150, ""node2"": 123418, ""type"": 6, ""w"": -314.0}]"
+langue,sucre,[]
+sucre,langue,[]
+chat,oeuf,"[{""id"": 940947439, ""node1"": 150, ""node2"": 116175, ""type"": 53, ""w"": -25.0}]"
+sucre,mascarpone,[]
+mascarpone,sucre,[]
+sucre,vanillé,"[{""id"": 9901819, ""node1"": 139481, ""node2"": 19738, ""type"": 0, ""w"": 13.0}, {""id"": 360676, ""node1"": 139481, ""node2"": 19738, ""type"": 8, ""w"": -101.0}]"
+sucre,menthe,[]
+cuillère,bois,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]"
+cuillère,saladier,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]"
+saladier,couteau,[]
+saladier,planche,[]
+cuillère,découper,[]
+découper,réfrigérateur,[]
+réfrigérateur,étape,[]
+réfrigérateur,langue,[]
+fond,verre,"[{""id"": 9988078, ""node1"": 119272, ""node2"": 144497, ""type"": 10, ""w"": 4.0}]"
+faire,coulis,[]
+coulis,fraise,"[{""id"": 796855604, ""node1"": 10401, ""node2"": 16242, ""type"": 0, ""w"": 23.0}]"
+feuille,menthe,"[{""id"": 29327658, ""node1"": 37993, ""node2"": 97057, ""type"": 0, ""w"": 30.0}, {""id"": 9980624, ""node1"": 37993, ""node2"": 97057, ""type"": 10, ""w"": 34.0}]"
+placer,coulis,[]
+coulis,dessus,[]
+dessus,langue,[]
+garder,reste,[]
+reste,décoration,[]
+séparer,jaune,[]
+blanc,neige,"[{""id"": 116991, ""node1"": 15196, ""node2"": 3699, ""type"": 0, ""w"": 509.77}, {""id"": 117866, ""node1"": 15196, ""node2"": 3699, ""type"": 23, ""w"": 320.0}, {""id"": 1622496, ""node1"": 15196, ""node2"": 3699, ""type"": 666, ""w"": 12.0}]"
+mélanger,mascarpone,[]
+incorporer,blanc,[]
+mélanger,obtenir,[]
+obtenir,mélange,[]
+couche,premier,[]
+mettre,couche,[]
+couche,mélange,[]
+fraise,morceau,[]
+dessus,mélange,[]
+couche,second,[]
+remettre,couche,[]
+décorer,finir,[]
+décorer,verre,[]
+reste,coulis,[]
+placer,feuille,[]
+placer,verre,[]
+verre,minimum,[]

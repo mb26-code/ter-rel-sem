@@ -1,0 +1,20 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+base,déposer,acl:relcl,VERB,0.5285317897796631,[],,
+déposer,garniture,obj,NOUN,0.5719324350357056,[],,
+garniture,viande,nmod,NOUN,0.7468153238296509,"[{""id"": 115433869, ""node1"": 57803, ""node2"": 140100, ""type"": 9, ""w"": 36.0}]",r_has_part,36.0
+garniture,poulet,nmod,NOUN,0.7072861790657043,[],,
+orange,amer,amod,ADJ,0.4699035882949829,"[{""id"": 799190717, ""node1"": 145382, ""node2"": 97910, ""type"": 0, ""w"": 30.0}, {""id"": 97410380, ""node1"": 145382, ""node2"": 97910, ""type"": 17, ""w"": 7.0}]",r_associated,30.0
+poulet,accompagner,acl,VERB,0.6428658962249756,[],,
+accompagner,oignon,nmod,NOUN,0.6020673513412476,[],,
+oignon,rouge,amod,ADJ,0.5772435665130615,"[{""id"": 96738908, ""node1"": 123307, ""node2"": 86356, ""type"": 17, ""w"": 31.0}, {""id"": 3161226, ""node1"": 123307, ""node2"": 86356, ""type"": 106, ""w"": 3.0}]",r_carac,31.0
+oignon,coloré,amod,ADJ,0.6014089584350586,[],,
+liste,ingrédient,nmod,NOUN,0.4886722266674042,[],,
+tradition,populaire,amod,ADJ,0.4222209751605987,"[{""id"": 96365706, ""node1"": 45722, ""node2"": 19960, ""type"": 17, ""w"": 9.0}]",r_carac,9.0
+cuisinier,installer,acl,VERB,0.5102074146270752,[],,
+devenir,mettre,nsubj:pass,VERB,0.422334760427475,[],,
+pain,don,nmod,NOUN,0.528384268283844,"[{""id"": 878789142, ""node1"": 61283, ""node2"": 17324, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+devenir,pan,appos,NOUN,0.4142228960990906,[],,
+pan,don,nmod,NOUN,0.4037446081638336,[],,
+histoire,même,amod,ADJ,0.452991247177124,"[{""id"": 515206917, ""node1"": 146367, ""node2"": 146381, ""type"": 23, ""w"": -35.0}]",r_carac-1,-35.0
+version,premier,amod,ADJ,0.4193755388259887,[],,
+remplacer,pain,nsubj:pass,NOUN,0.6389615535736084,"[{""id"": 606779931, ""node1"": 52286, ""node2"": 61283, ""type"": 14, ""w"": 31.0}]",r_patient,31.0

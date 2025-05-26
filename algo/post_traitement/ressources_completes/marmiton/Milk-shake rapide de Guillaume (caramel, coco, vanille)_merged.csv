@@ -1,0 +1,17 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+Guillaume,caramel,appos,NOUN,0.5210090279579163,[],,
+Guillaume,coco,amod,ADV,0.4991400241851806,[],,
+ingrédient,glace,appos,NOUN,0.6449928283691406,[],,
+ingrédient,noix,nmod,NOUN,0.6215821504592896,[],,
+noix,glace,nmod,NOUN,0.6120505332946777,"[{""id"": 12995099, ""node1"": 30910, ""node2"": 141964, ""type"": 15, ""w"": 69.0}]",r_lieu,69.0
+noix,lait,acl:relcl,NOUN,0.6229388117790222,[],,
+lait,mixeur,nmod,NOUN,0.6297132968902588,[],,
+mixeur,blender,amod,VERB,0.5062692165374756,"[{""id"": 918274140, ""node1"": 78314, ""node2"": 1979239, ""type"": 0, ""w"": 21.0}, {""id"": 1029360733, ""node1"": 78314, ""node2"": 1979239, ""type"": 67, ""w"": 31.0}, {""id"": 1032954527, ""node1"": 78314, ""node2"": 1979239, ""type"": 78, ""w"": 26.0}]",r_similar,31.0
+ingrédient,étape,nmod,NOUN,0.4697338342666626,[],,
+ingrédient,blender,nmod,NOUN,0.5870354771614075,[],,
+ingrédient,mettre,acl,VERB,0.5923328399658203,[],,
+mettre,caramel,obj,NOUN,0.6295360326766968,[],,
+lait,convenance,nmod,NOUN,0.5843318700790405,[],,
+mixer,tout,obj,NOUN,0.5551751852035522,[],,
+liquide,glace,nsubj,NOUN,0.5870288610458374,[],,
+mixer,liquide,advcl,ADJ,0.5902761816978455,"[{""id"": 1014852547, ""node1"": 12170, ""node2"": 140315, ""type"": 666, ""w"": 2.0}]",r_aki,2.0

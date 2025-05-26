@@ -1,0 +1,38 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+préparation,viande,nmod,NOUN,0.7435807585716248,"[{""id"": 9903072, ""node1"": 33634, ""node2"": 140100, ""type"": 0, ""w"": 23.0}, {""id"": 422812, ""node1"": 33634, ""node2"": 140100, ""type"": 8, ""w"": 101.0}]",r_hypo,101.0
+viande,bœuf,nmod,NOUN,0.636695384979248,"[{""id"": 10577328, ""node1"": 140100, ""node2"": 168216, ""type"": 0, ""w"": 59.0}, {""id"": 9627859, ""node1"": 140100, ""node2"": 168216, ""type"": 8, ""w"": 95.0}, {""id"": 15173562, ""node1"": 140100, ""node2"": 168216, ""type"": 27, ""w"": 30.0}, {""id"": 646611390, ""node1"": 140100, ""node2"": 168216, ""type"": 666, ""w"": 1.0}]",r_hypo,95.0
+préparation,crue,amod,NOUN,0.5106337070465088,[],,
+préparation,couper,acl,VERB,0.5394223928451538,[],,
+tranche,fin,amod,ADJ,0.4591284096240997,[],,
+base,tomate,nmod,NOUN,0.6311788558959961,[],,
+tomate,crue,amod,NOUN,0.5716863870620728,"[{""id"": 1038623458, ""node1"": 22138, ""node2"": 26809, ""type"": 0, ""w"": 22.0}]",r_associated,22.0
+base,légume,appos,NOUN,0.6855320930480957,[],,
+légume,cru,amod,ADJ,0.5495258569717407,"[{""id"": 362119, ""node1"": 120603, ""node2"": 39901, ""type"": 17, ""w"": 53.0}]",r_carac,53.0
+légume,mixer,acl,VERB,0.6773965358734131,"[{""id"": 15067032, ""node1"": 120603, ""node2"": 12170, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+venir,mot,nsubj,NOUN,0.4188452363014221,[],,
+type,pain,nmod,NOUN,0.63983154296875,[],,
+pain,similaire,amod,ADJ,0.6296041011810303,[],,
+type,celui,nmod,PRON,0.4101026356220245,[],,
+celui,préparer,advcl,VERB,0.46605184674263,[],,
+cuisine,tomate,nmod,NOUN,0.7221258282661438,"[{""id"": 15230424, ""node1"": 16033, ""node2"": 22138, ""type"": 0, ""w"": 276.0}, {""id"": 15094628, ""node1"": 16033, ""node2"": 22138, ""type"": 27, ""w"": 37.0}, {""id"": 11333961, ""node1"": 16033, ""node2"": 22138, ""type"": 28, ""w"": 38.0}, {""id"": 3242557, ""node1"": 16033, ""node2"": 22138, ""type"": 777, ""w"": 6.0}]",r_associated,276.0
+cuisine,grec,amod,ADJ,0.4040005803108215,"[{""id"": 920914285, ""node1"": 16033, ""node2"": 126963, ""type"": 0, ""w"": 20.0}, {""id"": 597861610, ""node1"": 16033, ""node2"": 126963, ""type"": 27, ""w"": 29.0}]",r_domain-1,29.0
+cuisine,antique,amod,ADJ,0.5719380378723145,[],,
+arriver,recette,nsubj,NOUN,0.6380178332328796,[],,
+recette,estival,amod,ADJ,0.5806596279144287,[],,
+recette,rafraîchissant,amod,ADJ,0.6414231061935425,[],,
+origine,préparer,acl,VERB,0.5028423070907593,[],,
+arriver,allongé,amod,ADJ,0.405909776687622,[],,
+eau,tomate,nmod,NOUN,0.6432404518127441,[],,
+mie,pain,nmod,NOUN,0.5755725502967834,"[{""id"": 377332, ""node1"": 37905, ""node2"": 61283, ""type"": 0, ""w"": 145.0}, {""id"": 96639071, ""node1"": 37905, ""node2"": 61283, ""type"": 3, ""w"": 26.0}, {""id"": 96639075, ""node1"": 37905, ""node2"": 61283, ""type"": 6, ""w"": 48.0}, {""id"": 9985753, ""node1"": 37905, ""node2"": 61283, ""type"": 10, ""w"": 48.0}, {""id"": 11358396, ""node1"": 37905, ""node2"": 61283, ""type"": 15, ""w"": 38.0}, {""id"": 25183388, ""node1"": 37905, ""node2"": 61283, ""type"": 35, ""w"": 52.0}, {""id"": 376051245, ""node1"": 37905, ""node2"": 61283, ""type"": 51, ""w"": 29.0}, {""id"": 979307703, ""node1"": 37905, ""node2"": 61283, ""type"": 666, ""w"": 2.0}]",r_associated,145.0
+légume,tel,amod,ADJ,0.5569634437561035,[],,
+pouvoir,préparation,nsubj,NOUN,0.4887123703956604,[],,
+préparation,liquide,amod,ADJ,0.6113793253898621,[],,
+mixer,laisser,advcl,VERB,0.5219038724899292,[],,
+laisser,heure,obj,NOUN,0.4456153810024261,[],,
+heure,réfrigérateur,nmod,NOUN,0.4700503647327423,[],,
+mixer,mélange,nsubj:pass,NOUN,0.5635688304901123,"[{""id"": 1321739, ""node1"": 12170, ""node2"": 14800, ""type"": 0, ""w"": 56.0}]",r_associated,56.0
+non,légume,nmod,NOUN,0.5342503786087036,[],,
+légume,couper,acl,VERB,0.6505833268165588,"[{""id"": 900892207, ""node1"": 120603, ""node2"": 128828, ""type"": 0, ""w"": 20.0}, {""id"": 8555448, ""node1"": 120603, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+variante,traditionnel,amod,ADJ,0.4730587899684906,[],,
+variante,régional,amod,ADJ,0.4017947018146515,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,

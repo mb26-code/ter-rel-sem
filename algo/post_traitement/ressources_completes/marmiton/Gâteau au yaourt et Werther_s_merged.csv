@@ -1,0 +1,22 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,gâteau,nmod,NOUN,0.5333040952682495,[],,
+gâteau,yaourt,nmod,NOUN,0.6149443984031677,[],,
+sucre,beurre,nmod,NOUN,0.6973879933357239,[],,
+sucre,yaourt,nmod,NOUN,0.666106641292572,"[{""id"": 411396, ""node1"": 139481, ""node2"": 82320, ""type"": 0, ""w"": 53.0}]",r_associated,53.0
+yaourt,levure,nmod,NOUN,0.6032495498657227,[],,
+levure,oeuf,nmod,NOUN,0.5973623394966125,[],,
+oeuf,lait,nmod,NOUN,0.590930700302124,"[{""id"": 588348000, ""node1"": 116175, ""node2"": 86296, ""type"": 0, ""w"": 47.0}, {""id"": 386065476, ""node1"": 116175, ""node2"": 86296, ""type"": 6, ""w"": -25.0}, {""id"": 283880823, ""node1"": 116175, ""node2"": 86296, ""type"": 78, ""w"": 35.0}]",r_associated,47.0
+lait,bonbon,nmod,NOUN,0.5996405482292175,[],,
+bonbon,caramel,amod,ADJ,0.5663315653800964,"[{""id"": 98932, ""node1"": 120500, ""node2"": 67525, ""type"": 0, ""w"": 328.0}, {""id"": 564809, ""node1"": 120500, ""node2"": 67525, ""type"": 5, ""w"": 124.0}, {""id"": 2048690, ""node1"": 120500, ""node2"": 67525, ""type"": 8, ""w"": 190.0}, {""id"": 5712664, ""node1"": 120500, ""node2"": 67525, ""type"": 21, ""w"": -30.0}, {""id"": 2434055, ""node1"": 120500, ""node2"": 67525, ""type"": 50, ""w"": 21.0}, {""id"": 1793792, ""node1"": 120500, ""node2"": 67525, ""type"": 666, ""w"": 1.0}]",r_associated,328.0
+sucre,grille,nmod,NOUN,0.7015109062194824,[],,
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+pâtisserie,moule,nmod,NOUN,0.56337571144104,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]",r_associated,24.0
+grille,manquer,acl,VERB,0.4866251647472381,[],,
+sucre,casserole,nmod,NOUN,0.7403047680854797,[],,
+casserole,saladier,nmod,NOUN,0.6254573464393616,[],,
+saladier,plat,nmod,ADJ,0.6500786542892456,"[{""id"": 2181154, ""node1"": 45455, ""node2"": 36327, ""type"": 0, ""w"": 62.0}, {""id"": 1668935, ""node1"": 45455, ""node2"": 36327, ""type"": 666, ""w"": 3.0}]",r_associated,62.0
+verser,fondre,advcl,VERB,0.4997918307781219,[],,
+reste,préparation,nmod,NOUN,0.5082931518554688,[],,
+préparation,mélanger,acl,VERB,0.5913197994232178,"[{""id"": 920566822, ""node1"": 33634, ""node2"": 37151, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+vérifier,cuisson,obj,NOUN,0.6534045934677124,"[{""id"": 31862099, ""node1"": 76431, ""node2"": 60056, ""type"": 14, ""w"": 64.0}]",r_patient,64.0
+cuire,laisser,advcl,VERB,0.663643479347229,[],,

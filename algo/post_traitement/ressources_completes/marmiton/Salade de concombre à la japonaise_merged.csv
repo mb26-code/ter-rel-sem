@@ -1,0 +1,39 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,salade,appos,NOUN,0.5926524996757507,[],,
+salade,concombre,nmod,NOUN,0.6306709051132202,"[{""id"": 1652827, ""node1"": 118908, ""node2"": 31570, ""type"": 0, ""w"": 141.0}, {""id"": 765200128, ""node1"": 118908, ""node2"": 31570, ""type"": 50, ""w"": 27.0}, {""id"": 675297497, ""node1"": 118908, ""node2"": 31570, ""type"": 666, ""w"": 11.0}]",r_associated,141.0
+ingrédient,japonais,amod,ADJ,0.5312828421592712,[],,
+salade,ingrédient,nmod,NOUN,0.7127874493598938,[],,
+sel,gros,amod,ADJ,0.6553788781166077,"[{""id"": 188164, ""node1"": 13260, ""node2"": 88096, ""type"": 0, ""w"": 60.0}, {""id"": 645838, ""node1"": 13260, ""node2"": 88096, ""type"": 17, ""w"": 60.0}]",r_carac,60.0
+salade,sel,nmod,NOUN,0.7604894042015076,"[{""id"": 97758126, ""node1"": 118908, ""node2"": 13260, ""type"": 0, ""w"": 27.0}, {""id"": 97758127, ""node1"": 118908, ""node2"": 13260, ""type"": 9, ""w"": 32.0}, {""id"": 5292757, ""node1"": 118908, ""node2"": 13260, ""type"": 777, ""w"": 7.0}]",r_has_part,32.0
+sel,sucre,nmod,NOUN,0.6925632357597351,"[{""id"": 183179, ""node1"": 13260, ""node2"": 139481, ""type"": 0, ""w"": 182.0}, {""id"": 377013894, ""node1"": 13260, ""node2"": 139481, ""type"": 20, ""w"": 30.0}, {""id"": 377000348, ""node1"": 13260, ""node2"": 139481, ""type"": 21, ""w"": 28.0}, {""id"": 1032957125, ""node1"": 13260, ""node2"": 139481, ""type"": 78, ""w"": 32.0}]",r_associated,182.0
+sucre,glace,nmod,NOUN,0.651667594909668,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -126.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]",r_associated,111.0
+sucre,vinaigre,nmod,NOUN,0.6951253414154053,[],,
+vinaigre,concombre,nmod,NOUN,0.6322829723358154,"[{""id"": 796711723, ""node1"": 145443, ""node2"": 31570, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+salade,algue,nmod,NOUN,0.5849177837371826,"[{""id"": 796700578, ""node1"": 118908, ""node2"": 124531, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+algue,japonais,amod,ADJ,0.4562961757183075,[],,
+couteau,économe,nmod,NOUN,0.5018488168716431,"[{""id"": 9916570, ""node1"": 32610, ""node2"": 14706, ""type"": 0, ""w"": 23.0}, {""id"": 2386429, ""node1"": 32610, ""node2"": 14706, ""type"": 8, ""w"": 76.0}]",r_hypo,76.0
+économe,saladier,nmod,NOUN,0.542054295539856,[],,
+économe,cuillère,nmod,NOUN,0.534529447555542,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,couvercle,nmod,NOUN,0.6197326183319092,[],,
+couvercle,balance,nmod,NOUN,0.5437039136886597,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+cuisine,frigo,nmod,NOUN,0.6375747919082642,"[{""id"": 118986, ""node1"": 16033, ""node2"": 45624, ""type"": 0, ""w"": 305.0}, {""id"": 9973132, ""node1"": 16033, ""node2"": 45624, ""type"": 9, ""w"": 10.0}, {""id"": 15222678, ""node1"": 16033, ""node2"": 45624, ""type"": 27, ""w"": 27.0}, {""id"": 151638, ""node1"": 16033, ""node2"": 45624, ""type"": 28, ""w"": 868.0}]",r_lieu-1,868.0
+frigo,étape,nmod,NOUN,0.5452443957328796,[],,
+éplucher,concombre,obj,NOUN,0.5237706899642944,"[{""id"": 796693211, ""node1"": 59879, ""node2"": 31570, ""type"": 0, ""w"": 26.0}]",r_associated,26.0
+rendre,concombre,nsubj,NOUN,0.476076990365982,[],,
+rendre,eau,obj,NOUN,0.5431551933288574,"[{""id"": 31838005, ""node1"": 65447, ""node2"": 65012, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+rincer,enlever,advcl,VERB,0.4280808866024017,"[{""id"": 588799173, ""node1"": 117283, ""node2"": 82345, ""type"": 0, ""w"": 34.0}]",r_associated,34.0
+enlever,excédent,obj,NOUN,0.4232338368892669,[],,
+excédent,sel,nmod,NOUN,0.6519420742988586,[],,
+sauce,japonais,amod,ADJ,0.6580168604850769,[],,
+mélanger,cuillère,obj,NOUN,0.6018561720848083,"[{""id"": 3121051, ""node1"": 37151, ""node2"": 51905, ""type"": 0, ""w"": 41.0}, {""id"": 148627, ""node1"": 37151, ""node2"": 51905, ""type"": 16, ""w"": 194.0}]",r_instr,194.0
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+soupe,sauce,nmod,NOUN,0.7104631662368774,[],,
+cuillère,soja,amod,ADV,0.6406779289245605,[],,
+soupe,vinaigre,nmod,NOUN,0.7203998565673828,"[{""id"": 729556147, ""node1"": 117152, ""node2"": 145443, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+vinaigre,riz,nmod,NOUN,0.6922438144683838,"[{""id"": 1023005499, ""node1"": 145443, ""node2"": 24372, ""type"": 0, ""w"": 26.0}, {""id"": 3355970, ""node1"": 145443, ""node2"": 24372, ""type"": 777, ""w"": 10.0}]",r_associated,26.0
+soupe,sucre,nmod,NOUN,0.7634108662605286,[],,
+ajouter,morceau,obj,NOUN,0.5419883728027344,[],,
+morceau,algue,nmod,NOUN,0.5475980639457703,[],,
+déguster,frais,amod,ADJ,0.4997856318950653,"[{""id"": 31814607, ""node1"": 80710, ""node2"": 53495, ""type"": 34, ""w"": 59.0}]",r_manner,59.0

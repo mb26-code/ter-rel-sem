@@ -1,0 +1,47 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+mettre,titre,nsubj,NOUN,0.4057502150535583,[],,
+titre,gâteau,nmod,NOUN,0.5333040952682495,[],,
+gâteau,yaourt,nmod,NOUN,0.6149443984031677,[],,
+yaourt,amande,nmod,NOUN,0.5846318602561951,[],,
+éclat,chocolat,nmod,NOUN,0.5059620141983032,[],,
+amande,ingrédient,nmod,NOUN,0.5978695750236511,"[{""id"": 559137438, ""node1"": 28557, ""node2"": 123418, ""type"": 0, ""w"": 32.0}]",r_associated,32.0
+amande,chocolat,nmod,NOUN,0.5824542045593262,[],,
+amande,noir,amod,ADJ,0.5295476913452148,[],,
+levure,huile,amod,NOUN,0.6309573650360107,[],,
+yaourt,yaourt,appos,NOUN,0.509727954864502,"[{""id"": 342012, ""node1"": 82320, ""node2"": 82320, ""type"": 19, ""w"": 66.0}, {""id"": 583514468, ""node1"": 82320, ""node2"": 82320, ""type"": 35, ""w"": -244.0}]",r_lemma,66.0
+yaourt,oeuf,nmod,NOUN,0.5764172673225403,[],,
+gâteau,grille,nmod,NOUN,0.6220863461494446,[],,
+grille,pâtisserie,nmod,NOUN,0.5746439099311829,[],,
+pâtisserie,moule,nmod,NOUN,0.56337571144104,"[{""id"": 601493745, ""node1"": 25966, ""node2"": 143723, ""type"": 0, ""w"": 24.0}, {""id"": 3393675, ""node1"": 25966, ""node2"": 143723, ""type"": 777, ""w"": 8.0}]",r_associated,24.0
+grille,manquer,acl,VERB,0.4866251647472381,[],,
+manquer,four,obj,NOUN,0.6675082445144653,[],,
+four,cuillère,nmod,NOUN,0.7153509855270386,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+cuillère,saladier,nmod,NOUN,0.6106023788452148,"[{""id"": 920094994, ""node1"": 51905, ""node2"": 45455, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+saladier,balance,nmod,NOUN,0.5669676065444946,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,plat,nmod,ADJ,0.6195622682571411,"[{""id"": 798729099, ""node1"": 145190, ""node2"": 36327, ""type"": 0, ""w"": 28.0}]",r_associated,28.0
+cuillère,étape,nmod,NOUN,0.4685819745063782,[],,
+four,200,nmod,NUM,0.5053980350494385,[],,
+gâteau,thermostat,appos,NOUN,0.6439028382301331,[],,
+mettre,yaourt,obj,NOUN,0.5839630365371704,[],,
+plat,creux,amod,ADJ,0.5428500771522522,"[{""id"": 85364791, ""node1"": 36327, ""node2"": 53673, ""type"": 7, ""w"": 36.0}, {""id"": 248860, ""node1"": 36327, ""node2"": 53673, ""type"": 17, ""w"": 80.0}]",r_carac,80.0
+laver,pot,obj,NOUN,0.5666152238845825,[],,
+ingrédient,autre,amod,ADJ,0.5450181365013123,[],,
+mélanger,yaourt,obj,NOUN,0.6041830778121948,"[{""id"": 310228473, ""node1"": 37151, ""node2"": 82320, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+oeuf,entier,amod,ADJ,0.513298749923706,[],,
+ajouter,farine,obj,NOUN,0.6640971302986145,"[{""id"": 373014569, ""node1"": 25099, ""node2"": 127629, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+incorporer,huile,obj,NOUN,0.5889466404914856,[],,
+huile,obtention,nmod,NOUN,0.541336715221405,[],,
+obtention,mélange,nmod,NOUN,0.4869552552700043,[],,
+mélange,uniforme,amod,ADJ,0.502922773361206,[],,
+incorporer,couper,advcl,VERB,0.4587921500205993,[],,
+carré,petit,amod,ADJ,0.4807125926017761,"[{""id"": 133945, ""node1"": 22120, ""node2"": 55222, ""type"": 17, ""w"": 70.0}]",r_carac,70.0
+couper,carré,obj,NOUN,0.4736614227294922,[],,
+carré,uniforme,amod,NOUN,0.4126830697059631,[],,
+arôme,amande,nmod,NOUN,0.557174026966095,[],,
+verser,mélange,obj,NOUN,0.5440542697906494,[],,
+surface,tout,amod,ADJ,0.5027230978012085,[],,
+mélange,surface,nmod,NOUN,0.5667339563369751,[],,
+déguster,froid,obj,ADJ,0.5593343377113342,"[{""id"": 405871111, ""node1"": 80710, ""node2"": 49803, ""type"": 34, ""w"": 26.0}]",r_manner,26.0
+dégustation,bon,amod,ADJ,0.4751738309860229,"[{""id"": 561348579, ""node1"": 107364, ""node2"": 144229, ""type"": 0, ""w"": 31.0}]",r_associated,31.0

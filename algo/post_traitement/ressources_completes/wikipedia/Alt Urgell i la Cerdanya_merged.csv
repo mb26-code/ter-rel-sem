@@ -1,0 +1,44 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+fromage,modifier,nsubj,VERB,0.5823603272438049,[],,
+fromage,espagnol,amod,ADJ,0.5708305239677429,"[{""id"": 3317045, ""node1"": 141687, ""node2"": 65586, ""type"": 777, ""w"": 8.0}]",r_wiki,8.0
+fromage,fabriquer,acl,VERB,0.6363376975059509,[],,
+fromage,comarque,nmod,NOUN,0.4522854089736938,[],,
+fromage,pâte,nmod,NOUN,0.6909428834915161,"[{""id"": 83648051, ""node1"": 141687, ""node2"": 34069, ""type"": 0, ""w"": 33.0}, {""id"": 96698106, ""node1"": 141687, ""node2"": 34069, ""type"": 9, ""w"": 32.0}, {""id"": 1070020056, ""node1"": 141687, ""node2"": 34069, ""type"": 666, ""w"": 2.0}]",r_has_part,32.0
+fromage,presser,acl,VERB,0.6230915188789368,"[{""id"": 96698035, ""node1"": 141687, ""node2"": 47617, ""type"": 38, ""w"": 15.0}]",r_agentif_role,15.0
+lait,vache,nmod,NOUN,0.5106161832809448,"[{""id"": 100641, ""node1"": 86296, ""node2"": 138501, ""type"": 0, ""w"": 431.0}, {""id"": 137749, ""node1"": 86296, ""node2"": 138501, ""type"": 8, ""w"": -60.0}, {""id"": 9976460, ""node1"": 86296, ""node2"": 138501, ""type"": 10, ""w"": 4.0}, {""id"": 11357809, ""node1"": 86296, ""node2"": 138501, ""type"": 15, ""w"": 39.0}, {""id"": 383584, ""node1"": 86296, ""node2"": 138501, ""type"": 22, ""w"": -80.0}, {""id"": 15114456, ""node1"": 86296, ""node2"": 138501, ""type"": 27, ""w"": 28.0}, {""id"": 76654958, ""node1"": 86296, ""node2"": 138501, ""type"": 54, ""w"": 76.0}, {""id"": 1040288386, ""node1"": 86296, ""node2"": 138501, ""type"": 129, ""w"": 29.0}, {""id"": 1522646, ""node1"": 86296, ""node2"": 138501, ""type"": 666, ""w"": 13.0}]",r_associated,431.0
+clair,croûte,nsubj,NOUN,0.5600740909576416,[],,
+pâte,tendre,amod,ADJ,0.6511337757110596,[],,
+couleur,crème,amod,NOUN,0.5960732102394104,"[{""id"": 10873763, ""node1"": 40056, ""node2"": 44001, ""type"": 0, ""w"": 63.0}, {""id"": 9856485, ""node1"": 40056, ""node2"": 44001, ""type"": 8, ""w"": 63.0}, {""id"": 15196618, ""node1"": 40056, ""node2"": 44001, ""type"": 27, ""w"": -21.0}]",r_hypo,63.0
+avoir,teneur,obj,NOUN,0.4448152184486389,[],,
+teneur,matière,nmod,NOUN,0.4744452238082886,[],,
+matière,gras,amod,ADJ,0.5509254336357117,"[{""id"": 909483172, ""node1"": 29208, ""node2"": 56362, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+teneur,extrait,nmod,NOUN,0.4330091178417206,[],,
+fabriquer,fromage,nsubj:pass,NOUN,0.6363376975059509,[],,
+cave,humide,amod,ADJ,0.4876972734928131,"[{""id"": 404176, ""node1"": 104756, ""node2"": 76183, ""type"": 0, ""w"": 230.0}, {""id"": 1684386, ""node1"": 104756, ""node2"": 76183, ""type"": 17, ""w"": 132.0}, {""id"": 2279215, ""node1"": 104756, ""node2"": 76183, ""type"": 666, ""w"": 1.0}]",r_associated,230.0
+cave,humidité,appos,NOUN,0.4622203409671783,"[{""id"": 3152489, ""node1"": 104756, ""node2"": 120565, ""type"": 0, ""w"": 69.0}, {""id"": 259852, ""node1"": 104756, ""node2"": 120565, ""type"": 9, ""w"": 59.0}, {""id"": 86026510, ""node1"": 104756, ""node2"": 120565, ""type"": 28, ""w"": 28.0}, {""id"": 646146130, ""node1"": 104756, ""node2"": 120565, ""type"": 666, ""w"": 8.0}]",r_associated,69.0
+frais,température,appos,NOUN,0.4656439423561096,"[{""id"": 2414214, ""node1"": 53495, ""node2"": 40531, ""type"": 0, ""w"": 62.0}, {""id"": 615058135, ""node1"": 53495, ""node2"": 40531, ""type"": 3, ""w"": 28.0}, {""id"": 25730094, ""node1"": 53495, ""node2"": 40531, ""type"": 35, ""w"": 46.0}, {""id"": 980326353, ""node1"": 53495, ""node2"": 40531, ""type"": 666, ""w"": 2.0}]",r_associated,62.0
+jour,minimum,amod,ADJ,0.4180826246738434,[],,
+ferment,aromatique,amod,ADJ,0.5092104077339172,[],,
+tradition,région,nsubj,NOUN,0.4367132484912872,"[{""id"": 922080154, ""node1"": 45722, ""node2"": 132350, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+région,production,nmod,NOUN,0.4275683164596557,"[{""id"": 667107242, ""node1"": 132350, ""node2"": 13444, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+production,fromage,nmod,NOUN,0.6364901661872864,[],,
+tradition,viticole,nmod,ADJ,0.4262143671512604,[],,
+tradition,début,nmod,NOUN,0.4383373260498047,[],,
+pousser,épidémie,nsubj,NOUN,0.4188880026340484,[],,
+début,pousser,acl:relcl,VERB,0.412846952676773,[],,
+pousser,paysan,obj,NOUN,0.4047255516052246,"[{""id"": 14662280, ""node1"": 78635, ""node2"": 19554, ""type"": 42, ""w"": 31.0}]",r_has_causatif,31.0
+abandonner,vigne,obj,NOUN,0.430436223745346,[],,
+commencer,fabrication,obj,NOUN,0.4829872548580169,[],,
+fabrication,fromage,nmod,NOUN,0.6255550384521484,"[{""id"": 14659156, ""node1"": 143005, ""node2"": 141687, ""type"": 41, ""w"": 63.0}]",r_has_conseq,63.0
+coopérative,produire,acl:relcl,VERB,0.4094171226024627,[],,
+produire,fromage,obj,NOUN,0.6263010501861572,[],,
+fromage,fromage,nsubj,NOUN,0.5942317843437195,"[{""id"": 304209, ""node1"": 141687, ""node2"": 141687, ""type"": 19, ""w"": 251.0}]",r_lemma,251.0
+fromage,principal,amod,ADJ,0.6249688267707825,[],,
+fonder,fromage,advcl,NOUN,0.5084869265556335,[],,
+fromage,vendre,acl,VERB,0.563674807548523,"[{""id"": 901160684, ""node1"": 141687, ""node2"": 54438, ""type"": 0, ""w"": 20.0}, {""id"": 437371178, ""node1"": 141687, ""node2"": 54438, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+ville,grand,amod,ADJ,0.4242014586925506,"[{""id"": 415004011, ""node1"": 136786, ""node2"": 23178, ""type"": 0, ""w"": 26.0}, {""id"": 14805835, ""node1"": 136786, ""node2"": 23178, ""type"": 17, ""w"": 55.0}]",r_carac,55.0
+moment,acquérir,acl:relcl,VERB,0.4215097427368164,[],,
+protéger,fromage,nsubj:pass,NOUN,0.5955682396888733,[],,
+produit,autre,amod,ADJ,0.4623294472694397,[],,
+produit,laitier,amod,ADJ,0.4826900959014892,"[{""id"": 1924594, ""node1"": 32667, ""node2"": 10201, ""type"": 0, ""w"": 58.0}]",r_associated,58.0
+nom,beurre,appos,NOUN,0.5032929182052612,[],,

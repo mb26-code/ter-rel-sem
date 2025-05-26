@@ -1,0 +1,35 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+recette,original,amod,ADJ,0.5799373388290405,[],,
+recette,typique,amod,ADJ,0.641959547996521,[],,
+trouver,origine,obj,NOUN,0.4078374803066253,"[{""id"": 932194247, ""node1"": 48704, ""node2"": 46994, ""type"": 14, ""w"": 36.0}]",r_patient,36.0
+origine,plat,nmod,NOUN,0.6086809635162354,[],,
+plat,typique,amod,ADJ,0.6110854148864746,"[{""id"": 93507384, ""node1"": 36327, ""node2"": 133589, ""type"": 17, ""w"": 36.0}]",r_carac,36.0
+vie,professionnel,amod,ADJ,0.4193377792835235,[],,
+tranche,jambon,nmod,NOUN,0.5794574618339539,"[{""id"": 243905, ""node1"": 143123, ""node2"": 57980, ""type"": 0, ""w"": 71.0}, {""id"": 720817992, ""node1"": 143123, ""node2"": 57980, ""type"": 174, ""w"": 25.0}]",r_associated,71.0
+jambon,sec,amod,ADJ,0.5457347631454468,[],,
+marque,jambon,nmod,NOUN,0.5710693597793579,[],,
+tranche,exemple,nmod,NOUN,0.4367868304252624,[],,
+tranche,tomate,nmod,NOUN,0.6047259569168091,[],,
+tranche,poivron,nmod,NOUN,0.6194333434104919,[],,
+poivron,vert,amod,PROPN,0.5607750415802002,"[{""id"": 273172, ""node1"": 38257, ""node2"": 26976, ""type"": 0, ""w"": 151.0}, {""id"": 1944117, ""node1"": 38257, ""node2"": 26976, ""type"": 17, ""w"": 36.0}, {""id"": 3154905, ""node1"": 38257, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]",r_associated,151.0
+type,poivron,nsubj,NOUN,0.6049208045005798,[],,
+poivron,utiliser,acl,VERB,0.6543295383453369,[],,
+type,italien,amod,ADJ,0.4360958933830261,[],,
+type,long,amod,ADJ,0.4505946338176727,[],,
+accompagner,sandwich,nsubj:pass,NOUN,0.5597827434539795,"[{""id"": 372584507, ""node1"": 85830, ""node2"": 1447, ""type"": 14, ""w"": 36.0}]",r_patient,36.0
+servir,qui,nsubj:pass,PRON,0.4501188993453979,[],,
+sauce,servir,acl:relcl,VERB,0.7006121277809143,[],,
+bol,séparer,acl,VERB,0.5488332509994507,[],,
+servir,pouvoir,advcl,VERB,0.4424028396606445,[],,
+servir,souhaiter,advcl,VERB,0.4460762441158294,[],,
+servir,personne,nsubj,NOUN,0.4865208268165588,"[{""id"": 370879701, ""node1"": 7888, ""node2"": 116477, ""type"": 13, ""w"": 100.0}]",r_agent,100.0
+servir,servir,advcl,VERB,0.4595994651317596,"[{""id"": 333001, ""node1"": 7888, ""node2"": 7888, ""type"": 19, ""w"": 57.0}]",r_lemma,57.0
+accompagner,plat,nsubj:pass,NOUN,0.613329291343689,[],,
+apparaître,variante,nsubj:pass,NOUN,0.4133355021476745,"[{""id"": 992853251, ""node1"": 52906, ""node2"": 109297, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+variante,recette,nmod,NOUN,0.5686603784561157,[],,
+recette,traditionnel,amod,ADJ,0.67087721824646,[],,
+proposer,menu,nsubj,NOUN,0.4508252739906311,[],,
+menu,bar,nmod,NOUN,0.4353741705417633,[],,
+blanc,poulet,nmod,NOUN,0.6087594628334045,"[{""id"": 9356626, ""node1"": 15196, ""node2"": 146261, ""type"": 0, ""w"": 50.0}, {""id"": 97329786, ""node1"": 15196, ""node2"": 146261, ""type"": 10, ""w"": 29.0}, {""id"": 1933499, ""node1"": 15196, ""node2"": 146261, ""type"": 35, ""w"": 45.0}, {""id"": 14659361, ""node1"": 15196, ""node2"": 146261, ""type"": 42, ""w"": 29.0}, {""id"": 1663131, ""node1"": 15196, ""node2"": 146261, ""type"": 666, ""w"": 1.0}]",r_associated,50.0
+omelette,français,amod,ADJ,0.5769068002700806,"[{""id"": 1051323339, ""node1"": 45481, ""node2"": 144991, ""type"": 666, ""w"": 2.0}]",r_aki,2.0
+projet,autre,amod,ADJ,0.4316383004188537,[],,

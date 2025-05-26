@@ -1,0 +1,37 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+donner,référence,obj,NOUN,0.4324645698070526,[],,
+disposer,dessert,acl:relcl,NOUN,0.5858639478683472,[],,
+dessert,région,nmod,NOUN,0.548001766204834,[],,
+base,pomme,nmod,NOUN,0.6038941740989685,[],,
+spécialité,région,nmod,NOUN,0.438637375831604,"[{""id"": 11357453, ""node1"": 49537, ""node2"": 132350, ""type"": 15, ""w"": 38.0}]",r_lieu,38.0
+base,pays,nmod,NOUN,0.480658084154129,[],,
+pomme,entier,amod,ADJ,0.5824886560440063,[],,
+pomme,préférence,nmod,NOUN,0.5668577551841736,[],,
+fleur,bel,amod,ADJ,0.4253264367580414,[],,
+fleur,éplucher,amod,ADJ,0.5595692992210388,[],,
+fleur,débarrasser,acl,VERB,0.5166841149330139,[],,
+partie,dont,nmod,PRON,0.4107829332351684,"[{""id"": 797550306, ""node1"": 3233, ""node2"": 128170, ""type"": 0, ""w"": 24.0}]",r_associated,24.0
+partie,côté,nmod,NOUN,0.4584811627864837,"[{""id"": 952736, ""node1"": 3233, ""node2"": 138419, ""type"": 0, ""w"": 27.0}, {""id"": 59523011, ""node1"": 3233, ""node2"": 138419, ""type"": 5, ""w"": 88.0}]",r_syn,88.0
+côté,queue,nmod,NOUN,0.5148342847824097,[],,
+obtenir,base,obj,NOUN,0.4960383474826813,[],,
+base,stable,amod,ADJ,0.4582505524158478,[],,
+recouvrir,pomme,nsubj:pass,NOUN,0.6060970425605774,[],,
+remplir,partie,nsubj:pass,NOUN,0.4432048499584198,[],,
+partie,pomme,nmod,NOUN,0.5862981081008911,[],,
+mélange,sucre,nmod,NOUN,0.6710066795349121,[],,
+cannelle,poudre,nmod,NOUN,0.6258927583694458,"[{""id"": 214231, ""node1"": 112959, ""node2"": 139470, ""type"": 0, ""w"": 52.0}]",r_associated,52.0
+préparer,fruit,nsubj,NOUN,0.5517265796661377,"[{""id"": 1047029605, ""node1"": 36246, ""node2"": 87286, ""type"": 13, ""w"": 30.0}, {""id"": 122111142, ""node1"": 36246, ""node2"": 87286, ""type"": 14, ""w"": 30.0}]",r_agent,30.0
+recouvrir,préparer,advcl,VERB,0.5179710388183594,[],,
+pâte,levée,amod,NOUN,0.5744487047195435,"[{""id"": 797242475, ""node1"": 34069, ""node2"": 7494, ""type"": 0, ""w"": 29.0}, {""id"": 8151866, ""node1"": 34069, ""node2"": 7494, ""type"": 777, ""w"": 10.0}]",r_associated,29.0
+pâte,feuilleté,amod,ADJ,0.6289114356040955,"[{""id"": 879773673, ""node1"": 34069, ""node2"": 43380, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+pâte,doré,amod,ADJ,0.6598479151725769,[],,
+pâte,œuf,nmod,NOUN,0.6425352096557617,[],,
+œuf,battre,acl,VERB,0.532994270324707,[],,
+four,degré,nmod,NOUN,0.6222909688949585,"[{""id"": 107015150, ""node1"": 9190, ""node2"": 121359, ""type"": 0, ""w"": 38.0}]",r_associated,38.0
+four,c,nmod,NOUN,0.4229496419429779,[],,
+trentaine,minute,nmod,NOUN,0.4077412486076355,[],,
+saupoudrer,lui,nsubj:pass,PRON,0.4415628314018249,[],,
+sucre,glace,nmod,NOUN,0.6416636109352112,"[{""id"": 134502, ""node1"": 139481, ""node2"": 141964, ""type"": 0, ""w"": 111.0}, {""id"": 144135, ""node1"": 139481, ""node2"": 141964, ""type"": 8, ""w"": -80.0}, {""id"": 186736, ""node1"": 139481, ""node2"": 141964, ""type"": 17, ""w"": -125.0}, {""id"": 639101499, ""node1"": 139481, ""node2"": 141964, ""type"": 141, ""w"": 25.0}, {""id"": 1763994, ""node1"": 139481, ""node2"": 141964, ""type"": 666, ""w"": 1.0}]",r_associated,111.0
+bâton,cannelle,nmod,NOUN,0.521001398563385,"[{""id"": 796695507, ""node1"": 114900, ""node2"": 112959, ""type"": 0, ""w"": 21.0}, {""id"": 720818246, ""node1"": 114900, ""node2"": 112959, ""type"": 174, ""w"": 25.0}]",r_quantificateur-1,25.0
+apparent,dessert,nsubj,NOUN,0.539840817451477,[],,
+projet,autre,amod,ADJ,0.4316383004188537,[],,

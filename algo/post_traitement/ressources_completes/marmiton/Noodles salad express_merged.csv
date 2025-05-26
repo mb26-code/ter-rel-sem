@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+express,ingrédient,nmod,NOUN,0.5198296308517456,[],,
+carotte,vinaigre,acl,NOUN,0.679278552532196,[],,
+vinaigre,huile,amod,NOUN,0.6314905285835266,"[{""id"": 2139914, ""node1"": 145443, ""node2"": 141971, ""type"": 0, ""w"": 86.0}, {""id"": 1046576307, ""node1"": 145443, ""node2"": 141971, ""type"": 8, ""w"": 20.0}]",r_associated,86.0
+huile,sésame,nmod,NOUN,0.6178574562072754,"[{""id"": 12295235, ""node1"": 141971, ""node2"": 18404, ""type"": 0, ""w"": 43.0}, {""id"": 580644, ""node1"": 141971, ""node2"": 18404, ""type"": 5, ""w"": 32.0}, {""id"": 88080850, ""node1"": 141971, ""node2"": 18404, ""type"": 35, ""w"": 32.0}, {""id"": 380316783, ""node1"": 141971, ""node2"": 18404, ""type"": 54, ""w"": 34.0}]",r_associated,43.0
+sésame,gingembre,nmod,NOUN,0.6100141406059265,[],,
+gingembre,piment,appos,ADV,0.6384522318840027,"[{""id"": 922162956, ""node1"": 77020, ""node2"": 128791, ""type"": 0, ""w"": 21.0}]",r_associated,21.0
+carotte,coriandre,obj,NOUN,0.6334542632102966,[],,
+vert,sésame,nmod,NOUN,0.5346518754959106,[],,
+concombre,balance,obj,NOUN,0.5346765518188477,[],,
+balance,cuisine,nmod,NOUN,0.5991910099983215,[],,
+balance,saladier,appos,NOUN,0.5669676065444946,[],,
+concombre,assiette,nmod,NOUN,0.6529688239097595,[],,
+plate,assiette,nmod,NOUN,0.5182678699493408,"[{""id"": 796697403, ""node1"": 36050, ""node2"": 62735, ""type"": 0, ""w"": 26.0}, {""id"": 14796475, ""node1"": 36050, ""node2"": 62735, ""type"": 23, ""w"": 30.0}, {""id"": 653733494, ""node1"": 36050, ""node2"": 62735, ""type"": 666, ""w"": 3.0}]",r_carac-1,30.0
+assiette,étape,nmod,NOUN,0.483820229768753,[],,
+plate,cuire,acl,VERB,0.7036130428314209,[],,
+saladier,déposer,acl,VERB,0.5475505590438843,[],,
+déposer,pâte,obj,NOUN,0.6274656057357788,"[{""id"": 97862127, ""node1"": 35714, ""node2"": 34069, ""type"": 14, ""w"": 30.0}]",r_patient,30.0
+déposer,soja,obj,NOUN,0.6071340441703796,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+citron,vert,amod,ADJ,0.5348256230354309,"[{""id"": 1559582, ""node1"": 15386, ""node2"": 26976, ""type"": 0, ""w"": 61.0}, {""id"": 1773945, ""node1"": 15386, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3160941, ""node1"": 15386, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]",r_associated,61.0
+carotte,spaghetti,nmod,NOUN,0.6297775506973267,[],,
+verser,sauce,obj,NOUN,0.6628547310829163,"[{""id"": 478293932, ""node1"": 104506, ""node2"": 141110, ""type"": 0, ""w"": 28.0}, {""id"": 478293931, ""node1"": 104506, ""node2"": 141110, ""type"": 14, ""w"": 100.0}]",r_patient,100.0
+déposer,carotte,obj,NOUN,0.5750679969787598,[],,
+déposer,concombre,obj,NOUN,0.5298859477043152,[],,
+oignon,frais,amod,ADJ,0.5593145489692688,[],,
+réserver,peu,obj,ADV,0.4536187350749969,[],,
+préparation,dressage,nmod,NOUN,0.4686642289161682,[],,
+plat,préférence,nmod,NOUN,0.6102733612060547,[],,
+feuille,coriandre,nmod,NOUN,0.5904175043106079,"[{""id"": 797250853, ""node1"": 37993, ""node2"": 61977, ""type"": 0, ""w"": 24.0}, {""id"": 403056603, ""node1"": 37993, ""node2"": 61977, ""type"": 777, ""w"": 10.0}]",r_associated,24.0
+graine,sésame,nmod,NOUN,0.5720810890197754,"[{""id"": 797533486, ""node1"": 14469, ""node2"": 18404, ""type"": 0, ""w"": 29.0}, {""id"": 246270686, ""node1"": 14469, ""node2"": 18404, ""type"": 8, ""w"": 32.0}]",r_hypo,32.0

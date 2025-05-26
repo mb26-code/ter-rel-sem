@@ -1,0 +1,57 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+soupe,crevette,nmod,NOUN,0.6681584119796753,[],,
+gingembre,ingrédient,nmod,NOUN,0.6763731837272644,[],,
+gingembre,gingembre,appos,NOUN,0.5676917433738708,"[{""id"": 305449, ""node1"": 77020, ""node2"": 77020, ""type"": 19, ""w"": 58.0}]",r_lemma,58.0
+gingembre,sel,nmod,NOUN,0.690368115901947,[],,
+gingembre,crevette,appos,NOUN,0.6303811073303223,[],,
+gingembre,eau,nmod,NOUN,0.612858772277832,[],,
+eau,sauce,nmod,NOUN,0.6823158860206604,"[{""id"": 98623326, ""node1"": 65012, ""node2"": 141110, ""type"": 0, ""w"": 17.0}, {""id"": 97415122, ""node1"": 65012, ""node2"": 141110, ""type"": 10, ""w"": 28.0}]",r_holo,28.0
+vert,citron,nsubj,NOUN,0.5348256230354309,"[{""id"": 508477114, ""node1"": 26976, ""node2"": 15386, ""type"": 0, ""w"": 26.0}, {""id"": 14792901, ""node1"": 26976, ""node2"": 15386, ""type"": 23, ""w"": 52.0}, {""id"": 370807296, ""node1"": 26976, ""node2"": 15386, ""type"": 777, ""w"": 10.0}]",r_carac-1,52.0
+gingembre,vert,appos,PROPN,0.5343576669692993,[],,
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+bouillon,lait,appos,NOUN,0.6349389553070068,"[{""id"": 558647530, ""node1"": 146582, ""node2"": 86296, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+gingembre,louche,appos,NOUN,0.6341361403465271,[],,
+gingembre,mixeur,nmod,NOUN,0.6272212862968445,[],,
+mixeur,plonger,acl,VERB,0.5584041476249695,[],,
+crevette,chauffer,acl,VERB,0.6771386861801147,[],,
+mixeur,cuillère,nmod,NOUN,0.5916650295257568,[],,
+cuillère,bois,nmod,NOUN,0.5910300612449646,"[{""id"": 423608378, ""node1"": 51905, ""node2"": 96256, ""type"": 0, ""w"": 41.0}, {""id"": 1977342, ""node1"": 51905, ""node2"": 96256, ""type"": 50, ""w"": 27.0}, {""id"": 3906289, ""node1"": 51905, ""node2"": 96256, ""type"": 777, ""w"": 9.0}]",r_associated,41.0
+soupe,casserole,nmod,NOUN,0.7045059204101562,"[{""id"": 617138971, ""node1"": 117152, ""node2"": 57253, ""type"": 0, ""w"": 32.0}, {""id"": 104955547, ""node1"": 117152, ""node2"": 57253, ""type"": 15, ""w"": 29.0}]",r_associated,32.0
+placer,crevette,obj,NOUN,0.5603700280189514,[],,
+châtaigne,eau,nmod,NOUN,0.5896368026733398,"[{""id"": 218186789, ""node1"": 120225, ""node2"": 65012, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+châtaigne,jus,nmod,NOUN,0.5977484583854675,[],,
+châtaigne,tiers,appos,NOUN,0.4650115370750427,[],,
+tiers,verre,nmod,NOUN,0.4697399139404297,[],,
+cuillère,soupe,nmod,NOUN,0.6452588438987732,"[{""id"": 139567, ""node1"": 51905, ""node2"": 117152, ""type"": 0, ""w"": 288.0}, {""id"": 960354064, ""node1"": 51905, ""node2"": 117152, ""type"": 82, ""w"": 33.0}, {""id"": 1912589, ""node1"": 51905, ""node2"": 117152, ""type"": 666, ""w"": 6.0}]",r_associated,288.0
+soupe,sauce,nmod,NOUN,0.7104631662368774,[],,
+cuillère,saler,amod,ADJ,0.6272552609443665,[],,
+ajouter,jus,obj,NOUN,0.5800648331642151,[],,
+jus,citron,nmod,NOUN,0.5887953042984009,"[{""id"": 1718366, ""node1"": 53310, ""node2"": 15386, ""type"": 0, ""w"": 91.0}, {""id"": 9625998, ""node1"": 53310, ""node2"": 15386, ""type"": 8, ""w"": 22.0}, {""id"": 376199014, ""node1"": 53310, ""node2"": 15386, ""type"": 16, ""w"": -42.0}, {""id"": 765133846, ""node1"": 53310, ""node2"": 15386, ""type"": 80, ""w"": 26.0}, {""id"": 651234559, ""node1"": 53310, ""node2"": 15386, ""type"": 666, ""w"": 3.0}]",r_associated,91.0
+citron,vert,amod,ADJ,0.5348256230354309,"[{""id"": 1559582, ""node1"": 15386, ""node2"": 26976, ""type"": 0, ""w"": 61.0}, {""id"": 1773945, ""node1"": 15386, ""node2"": 26976, ""type"": 17, ""w"": 26.0}, {""id"": 3160941, ""node1"": 15386, ""node2"": 26976, ""type"": 106, ""w"": 10.0}]",r_associated,61.0
+tourner,mélanger,advcl,VERB,0.4971266984939575,"[{""id"": 2583574, ""node1"": 38673, ""node2"": 37151, ""type"": 0, ""w"": 51.0}, {""id"": 78380455, ""node1"": 38673, ""node2"": 37151, ""type"": 35, ""w"": 29.0}]",r_associated,51.0
+mélanger,ingrédient,obj,NOUN,0.6362285614013672,"[{""id"": 8839347, ""node1"": 37151, ""node2"": 123418, ""type"": 0, ""w"": 2.0}, {""id"": 775449836, ""node1"": 37151, ""node2"": 123418, ""type"": 14, ""w"": 31.0}]",r_patient,31.0
+centre,feuille,nmod,NOUN,0.4625463783740997,[],,
+placer,cuillère,obj,NOUN,0.5473253130912781,[],,
+cuillère,café,nmod,NOUN,0.592677116394043,"[{""id"": 163839, ""node1"": 51905, ""node2"": 66324, ""type"": 0, ""w"": 180.0}, {""id"": 11354840, ""node1"": 51905, ""node2"": 66324, ""type"": 15, ""w"": 39.0}, {""id"": 720818158, ""node1"": 51905, ""node2"": 66324, ""type"": 174, ""w"": 25.0}]",r_associated,180.0
+bourse,petit,amod,ADJ,0.456020325422287,"[{""id"": 417992336, ""node1"": 145817, ""node2"": 55222, ""type"": 0, ""w"": 13.0}]",r_associated,13.0
+forme,bourse,nmod,NOUN,0.4012190103530884,[],,
+échapper,farce,nsubj,NOUN,0.5299266576766968,[],,
+eau,saler,amod,ADJ,0.6464982628822327,"[{""id"": 31773665, ""node1"": 65012, ""node2"": 15671, ""type"": 26, ""w"": 30.0}]",r_patient-1,30.0
+fin,cuisson,nmod,NOUN,0.5646086931228638,[],,
+eau,froid,amod,ADJ,0.5808660984039307,"[{""id"": 432163, ""node1"": 65012, ""node2"": 49803, ""type"": 17, ""w"": 74.0}]",r_carac,74.0
+important,faire,advcl,VERB,0.4502488970756531,[],,
+bouillir,cube,obj,NOUN,0.5841245055198669,[],,
+cube,volaille,nmod,NOUN,0.5664888620376587,[],,
+cube,litre,nmod,NOUN,0.4806960821151733,"[{""id"": 920504434, ""node1"": 6041, ""node2"": 57416, ""type"": 0, ""w"": 20.0}]",r_associated,20.0
+litre,eau,nmod,NOUN,0.5440258383750916,"[{""id"": 2458362, ""node1"": 57416, ""node2"": 65012, ""type"": 0, ""w"": 84.0}, {""id"": 15759326, ""node1"": 57416, ""node2"": 65012, ""type"": 28, ""w"": 10.0}, {""id"": 720818422, ""node1"": 57416, ""node2"": 65012, ""type"": 174, ""w"": 25.0}, {""id"": 980526881, ""node1"": 57416, ""node2"": 65012, ""type"": 666, ""w"": 3.0}]",r_associated,84.0
+moment,servir,acl,VERB,0.4804177582263946,[],,
+bouillon,chaud,amod,ADJ,0.6419912576675415,"[{""id"": 152253, ""node1"": 146582, ""node2"": 19150, ""type"": 0, ""w"": 71.0}, {""id"": 8793877, ""node1"": 146582, ""node2"": 19150, ""type"": 17, ""w"": 45.0}]",r_associated,71.0
+moment,tout,amod,DET,0.4416181743144989,[],,
+cuire,il,nsubj,PRON,0.4034532904624939,[],,
+ajouter,cuillère,obj,NOUN,0.5465437173843384,[],,
+soupe,huile,nmod,NOUN,0.676633894443512,"[{""id"": 3346889, ""node1"": 117152, ""node2"": 141971, ""type"": 777, ""w"": 9.0}]",r_wiki,9.0
+huile,sésame,nmod,NOUN,0.6178574562072754,"[{""id"": 12295235, ""node1"": 141971, ""node2"": 18404, ""type"": 0, ""w"": 43.0}, {""id"": 580644, ""node1"": 141971, ""node2"": 18404, ""type"": 5, ""w"": 32.0}, {""id"": 88080850, ""node1"": 141971, ""node2"": 18404, ""type"": 35, ""w"": 32.0}, {""id"": 380316783, ""node1"": 141971, ""node2"": 18404, ""type"": 54, ""w"": 34.0}]",r_associated,43.0
+sésame,bouillon,nmod,NOUN,0.664727509021759,[],,
+bouillon,volaille,nmod,NOUN,0.6946349143981934,"[{""id"": 4238162, ""node1"": 146582, ""node2"": 70493, ""type"": 777, ""w"": 10.0}]",r_wiki,10.0
+bouillon,moment,nmod,NOUN,0.6088111996650696,[],,
+bon,appétit,obj,NOUN,0.4575223624706268,"[{""id"": 2304181, ""node1"": 144229, ""node2"": 3467, ""type"": 23, ""w"": 5.0}]",r_carac-1,5.0

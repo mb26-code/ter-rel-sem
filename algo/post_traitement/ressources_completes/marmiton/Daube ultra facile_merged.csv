@@ -1,0 +1,31 @@
+head,lemma,dep,pos,sim,relations,relation_name,w
+titre,ingrédient,nmod,NOUN,0.4716755747795105,[],,
+ingrédient,crème,amod,NOUN,0.6610228419303894,"[{""id"": 24923429, ""node1"": 123418, ""node2"": 44001, ""type"": 0, ""w"": 15.0}, {""id"": 24850724, ""node1"": 123418, ""node2"": 44001, ""type"": 8, ""w"": 36.0}]",r_hypo,36.0
+ingrédient,vin,nmod,NOUN,0.6430637836456299,"[{""id"": 578506260, ""node1"": 123418, ""node2"": 35798, ""type"": 8, ""w"": 26.0}]",r_hypo,26.0
+vin,rouge,amod,ADJ,0.599454402923584,"[{""id"": 61835, ""node1"": 35798, ""node2"": 86356, ""type"": 0, ""w"": 517.0}, {""id"": 556239, ""node1"": 35798, ""node2"": 86356, ""type"": 5, ""w"": 122.0}, {""id"": 9857786, ""node1"": 35798, ""node2"": 86356, ""type"": 8, ""w"": 139.0}, {""id"": 14806149, ""node1"": 35798, ""node2"": 86356, ""type"": 17, ""w"": 71.0}, {""id"": 31149018, ""node1"": 35798, ""node2"": 86356, ""type"": 27, ""w"": 22.0}, {""id"": 3154292, ""node1"": 35798, ""node2"": 86356, ""type"": 106, ""w"": 12.0}, {""id"": 1526706, ""node1"": 35798, ""node2"": 86356, ""type"": 666, ""w"": 8.0}]",r_associated,517.0
+ingrédient,olive,nmod,NOUN,0.6296951770782471,"[{""id"": 24925661, ""node1"": 123418, ""node2"": 238, ""type"": 0, ""w"": 15.0}, {""id"": 24864625, ""node1"": 123418, ""node2"": 238, ""type"": 8, ""w"": 29.0}]",r_hypo,29.0
+olive,noir,amod,ADJ,0.5621392130851746,"[{""id"": 722424118, ""node1"": 238, ""node2"": 64238, ""type"": 0, ""w"": 28.0}, {""id"": 3175057, ""node1"": 238, ""node2"": 64238, ""type"": 106, ""w"": 3.0}, {""id"": 672025994, ""node1"": 238, ""node2"": 64238, ""type"": 666, ""w"": 4.0}]",r_associated,28.0
+ingrédient,cube,acl:relcl,NOUN,0.5473321080207825,[],,
+cube,bouillon,nmod,NOUN,0.5364071130752563,"[{""id"": 98292423, ""node1"": 6041, ""node2"": 146582, ""type"": 0, ""w"": 30.0}]",r_associated,30.0
+bouillon,huile,amod,NOUN,0.6829477548599243,"[{""id"": 558647559, ""node1"": 146582, ""node2"": 141971, ""type"": 0, ""w"": 27.0}]",r_associated,27.0
+ingrédient,set,nmod,NOUN,0.4041900932788849,[],,
+set,poêle,nmod,NOUN,0.5301709771156311,[],,
+revenir,oignon,obj,NOUN,0.6089184284210205,"[{""id"": 31815154, ""node1"": 59241, ""node2"": 123307, ""type"": 14, ""w"": 56.0}]",r_patient,56.0
+huile,olive,nmod,ADJ,0.577674388885498,"[{""id"": 143577, ""node1"": 141971, ""node2"": 238, ""type"": 0, ""w"": 441.0}, {""id"": 580646, ""node1"": 141971, ""node2"": 238, ""type"": 5, ""w"": 35.0}, {""id"": 214590, ""node1"": 141971, ""node2"": 238, ""type"": 8, ""w"": 101.0}, {""id"": 9972834, ""node1"": 141971, ""node2"": 238, ""type"": 9, ""w"": 10.0}, {""id"": 96691611, ""node1"": 141971, ""node2"": 238, ""type"": 35, ""w"": 34.0}, {""id"": 1808072, ""node1"": 141971, ""node2"": 238, ""type"": 42, ""w"": 92.0}, {""id"": 653727906, ""node1"": 141971, ""node2"": 238, ""type"": 666, ""w"": 5.0}]",r_associated,441.0
+rajouter,viande,obj,NOUN,0.7282408475875854,[],,
+viande,couper,acl,VERB,0.6744567155838013,"[{""id"": 796696872, ""node1"": 140100, ""node2"": 128828, ""type"": 0, ""w"": 27.0}, {""id"": 2194964, ""node1"": 140100, ""node2"": 128828, ""type"": 26, ""w"": 100.0}]",r_patient-1,100.0
+doré,viande,nsubj,NOUN,0.6744937300682068,[],,
+mettre,ail,obj,NOUN,0.5832958817481995,[],,
+carotte,couper,acl,VERB,0.5670887231826782,"[{""id"": 93434679, ""node1"": 76234, ""node2"": 128828, ""type"": 26, ""w"": 34.0}]",r_patient-1,34.0
+ajouter,olive,obj,NOUN,0.5773881077766418,[],,
+préparer,bouillon,obj,NOUN,0.6509688496589661,[],,
+bouillon,cube,nmod,NOUN,0.5364071130752563,"[{""id"": 799190726, ""node1"": 146582, ""node2"": 6041, ""type"": 0, ""w"": 23.0}]",r_associated,23.0
+ajouter,branche,obj,NOUN,0.4429201781749725,[],,
+branche,thym,nmod,NOUN,0.5575745105743408,[],,
+réduire,feu,obj,NOUN,0.5594683289527893,[],,
+laisser,mijoter,obj,VERB,0.5789923667907715,[],,
+mijoter,1h30,nmod,NUM,0.5347746014595032,[],,
+fin,mettre,acl,VERB,0.4256326854228973,[],,
+mettre,cuillère,obj,NOUN,0.5546635389328003,[],,
+soupe,crème,nmod,NOUN,0.6830318570137024,"[{""id"": 729556086, ""node1"": 117152, ""node2"": 44001, ""type"": 0, ""w"": 36.0}, {""id"": 216637777, ""node1"": 117152, ""node2"": 44001, ""type"": 50, ""w"": 32.0}, {""id"": 663289934, ""node1"": 117152, ""node2"": 44001, ""type"": 666, ""w"": 4.0}]",r_associated,36.0
+crème,frais,amod,ADJ,0.5796430110931396,[],,
