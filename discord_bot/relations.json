@@ -1,0 +1,106 @@
+[
+  {
+    "Nom technique":"r_carac",
+    "Nom lisible":"caractéristique",
+    "Exemple":"eau → froide",
+    "Type":"Adjectival \/ Qualitatif",
+    "id":17,
+    "help":"Pour un terme donné, souvent un objet, il est demandé d'en énumérer les caractéristiques (adjectifs) possibles\/typiques."
+  },
+  {
+    "Nom technique":"r_isa",
+    "Nom lisible":"générique",
+    "Exemple":"camembert → fromage",
+    "Type":"Taxonomique",
+    "id":6,
+    "help":"Il est demandé d'énumérer les génériques\/hyperonymes du terme."
+  },
+  {
+    "Nom technique":"r_has_part",
+    "Nom lisible":"a pour partie",
+    "Exemple":"tartiflette → pomme de terre",
+    "Type":"Méronymie",
+    "id":9,
+    "help":"Il faut donner des parties\/constituants\/éléments (méronymes) du mot cible."
+  },
+  {
+    "Nom technique":"r_associated",
+    "Nom lisible":"idée associée",
+    "Exemple":"barbecue → été",
+    "Type":"Association libre",
+    "id":0,
+    "help":"Il est demandé d'énumérer les termes les plus étroitement associés au mot cible. Ce mot vous fait penser à quoi ?"
+  },
+  {
+    "Nom technique":"r_domain",
+    "Nom lisible":"domaine",
+    "Exemple":"levure → pâtisserie",
+    "Type":"Domaine thématique",
+    "id":3,
+    "help":"Il est demandé de fournir des domaines relatifs au mot cible (ex. 'pâtisserie' pour 'levure')."
+  },
+  {
+    "Nom technique":"r_mode_cuisson",
+    "Nom lisible":"mode de cuisson",
+    "Exemple":"poisson → grillé",
+    "Type":"Fonctionnelle",
+    "id":1000,
+    "help":"Mode ou technique de cuisson associée à un aliment ou plat (ex : saumon → grillé)."
+  },
+  {
+    "Nom technique":"r_duree_cuisson",
+    "Nom lisible":"durée de cuisson",
+    "Exemple":"gâteau → 45 minutes",
+    "Type":"Temporelle",
+    "id":1001,
+    "help":"Durée de cuisson typique associée à une préparation (ex : gâteau → 45 minutes)."
+  },
+  {
+    "Nom technique":"r_quantite",
+    "Nom lisible":"quantité",
+    "Exemple":"250g → farine",
+    "Type":"Quantitative",
+    "id":1002,
+    "help":"Quantité typique associée à un ingrédient dans une recette (ex : 250g → farine)."
+  },
+  {
+    "Nom technique":"r_unite",
+    "Nom lisible":"unité de mesure",
+    "Exemple":"pincée → sel",
+    "Type":"Quantitative",
+    "id":1003,
+    "help":"Unité de mesure typique pour une quantité (ex : pincée → sel)."
+  },
+  {
+    "Nom technique":"r_assaisonne_avec",
+    "Nom lisible":"assaisonné avec",
+    "Exemple":"salade → vinaigrette",
+    "Type":"Fonctionnelle",
+    "id":1004,
+    "help":"Élément d’assaisonnement utilisé avec un aliment ou plat (ex : soupe → poivre)."
+  },
+  {
+    "Nom technique":"r_utilise_pour",
+    "Nom lisible":"utilisé pour",
+    "Exemple":"fouet → battre les œufs",
+    "Type":"Fonctionnelle",
+    "id":1005,
+    "help":"Indique l’usage ou l’objectif d’un ingrédient ou ustensile (ex : fouet → battre les œufs)."
+  },
+  {
+    "Nom technique":"r_succession_etape",
+    "Nom lisible":"succession d'étapes",
+    "Exemple":"faire revenir → ajouter les tomates",
+    "Type":"Procédurale",
+    "id":1006,
+    "help":"Ordre d'exécution entre deux étapes culinaires (ex : faire revenir → ajouter les tomates)."
+  },
+  {
+    "Nom technique":"r_conservation",
+    "Nom lisible":"conservation",
+    "Exemple":"yaourt → au frais",
+    "Type":"Pratique",
+    "id":1007,
+    "help":"Méthode ou condition de conservation typique d'un aliment (ex : yaourt → au frais)."
+  }
+]
