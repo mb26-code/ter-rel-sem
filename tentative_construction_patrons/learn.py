@@ -4,10 +4,10 @@ C'est une idée qui nous semblait bonne lorsqu'on l'a conceptualisé mais qui au
 
 Une fois lancé, ce script remplit une base de données associée: 
 Le but étant de s'en servir comme "mémoire" de l'algorithme d'extraction de relations.
-Pour cela, l'entièreté du corpus est traitée en faisant appel à l'API JDM pour déduire des patrons potentiels permettant de trouver des relations.
+Pour cela, l'entièreté du corpus est traitée en faisant appel à l'API JDM pour déduire des patrons potentiels permettant de trouver des relations de certains types.
 
 Notes :
-- Ce script suppose que le schéma de la base de données a déjà été défini (voir "ini_db.sql").
+- Ce script suppose que le schéma de la base de données a déjà été défini (voir "init_db.sql").
 - À chaque exécution, il efface tous les tuples de la BDD pour la remplir à partir de zéro (il n'augmente pas la mémoire de l'algorithme, mais la construit)
 - Une fois cette mémoire établie, elle servira à extraire des relations à partir de textes.
 """
