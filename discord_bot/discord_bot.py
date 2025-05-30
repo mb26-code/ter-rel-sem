@@ -6,7 +6,7 @@ import requests
 import io
 import contextlib
 from dotenv import load_dotenv
-from ngo import process_text, load_word2vec_model, load_relation_types
+from discord_bot.algo_bot import process_text, load_word2vec_model, load_relation_types
 import os
 
 load_dotenv()

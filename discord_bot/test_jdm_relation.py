@@ -1,7 +1,7 @@
 import requests
 import json
 from configs import BASE_JDM_URL, PATH_RELATIONS_TYPES
-from ngo import select_best_jdm_relation
+from discord_bot.algo_bot import select_best_jdm_relation
 
 def query_jdm_api(head, lemma):
     try:
