@@ -9,7 +9,7 @@ Projet réalisé dans le cadre des T.E.R. 2025 de Master 1 Informatique (parcour
 - Créer une base de données structurée de relations sémantiques.
 - Proposer une interface simple de démonstration à travers un bot Discord.
 
-## Membres du projet
+## Membres du groupe "Les Élémen-TER":
 
 - Ngo Hoai Nguyen
 - Marc Mathieu
