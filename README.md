@@ -1,6 +1,6 @@
 # Extraction de relations sémantiques dans des textes culinaires
 
-Ce projet a été réalisé dans le cadre du T.E.R. de Master 1 Informatique (parcours ICo) à l’Université de Montpellier. Il porte sur l’extraction de relations sémantiques à partir de textes en français dans le domaine de la gastronomie.
+Projet réalisé dans le cadre des T.E.R. 2025 de Master 1 Informatique (parcours "ICo") à l’Université de Montpellier. Il porte sur l’extraction de relations sémantiques à partir de textes en français dans le domaine de la gastronomie.
 
 ## Objectifs
 
@@ -11,12 +11,12 @@ Ce projet a été réalisé dans le cadre du T.E.R. de Master 1 Informatique (pa
 
 ## Membres du projet
 
-- Ngo Hoai Nguyen 
-- Marc Mathieu 
-- Mehdi Bakhtar 
-- Florian Lachièze 
+- Ngo Hoai Nguyen
+- Marc Mathieu
+- Mehdi Bakhtar
+- Florian Lachièze
 
-## Fonctionnalités principales
+## Détails sur le fonctionnement et fonctionnalités
 
 - Extraction de textes culinaires depuis Wikipedia et Marmiton.
 - Traitement linguistique via spaCy (analyse morpho-syntaxique).
@@ -24,7 +24,7 @@ Ce projet a été réalisé dans le cadre du T.E.R. de Master 1 Informatique (pa
 - Interrogation de l’API JeuxDeMots pour obtenir ou valider les relations.
 - Génération automatique de fichiers CSV contenant les relations extraites.
 - Stockage des relations dans une base PostgreSQL via Supabase.
-- Interface Discord interactive pour l’analyse en ligne.
+- Interface Discord interactive.
 
 
 ### Prérequis
