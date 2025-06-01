@@ -328,7 +328,7 @@ def process_text(text, model=None, relation_types=None):
     for pairs in all_pairs:
         flat_pairs.extend(pairs)
 
-    print(f"Extrait {len(flat_pairs)} paires linguistiques")
+    print(f"Extrait {len(flat_pairs)} paires linguistiques \n")
 
     # Si le modèle est disponible, filtrer les paires par similarité au domaine
     filtered = []
@@ -347,6 +347,8 @@ def process_text(text, model=None, relation_types=None):
                 sim = cosine_sim(domain_centroid, vec)
                 filtered.append((h, lemma, dep, pos, sim))
 
+        print("--------------")
+
         print(f"Filtré à {len(filtered)} paires avec des mots dans le modèle")
 
     # Interroger la base de données Supabase pour les relations
@@ -355,9 +357,12 @@ def process_text(text, model=None, relation_types=None):
     if model is not None:
         pairs_to_query = [(h, lemma) for h, lemma, dep, pos, sim in filtered if sim >= THRESHOLD]
         print(f"Interrogation de la base de données pour {len(pairs_to_query)} paires (similarité ≥ {THRESHOLD})")
+        print("------------  \n")
     else:
         pairs_to_query = [(h, lemma) for h, lemma, _, _ in flat_pairs]
         print(f"Interrogation de la base de données pour toutes les {len(pairs_to_query)} paires (pas de filtrage)")
+
+        print("------------  \n")
 
     # Supprimer les doublons avant d'interroger la base
     seen_pairs = set()
@@ -427,7 +432,7 @@ def process_text(text, model=None, relation_types=None):
                     source = "database"
                     db_found_count += 1
                     db_found_pairs.append((h, lemma, calculated_best_relation, calculated_best_relation_w))
-                    print(f"✓ Base: {h} → {calculated_best_relation} → {lemma} (poids: {calculated_best_relation_w})")
+                    print(f"✓ Base: {h} → {calculated_best_relation} → {lemma} (poids: {calculated_best_relation_w}) \n")
                     # Utiliser les valeurs calculées pour l'affichage
                     best_relation = calculated_best_relation
                     best_relation_w = calculated_best_relation_w
@@ -435,12 +440,12 @@ def process_text(text, model=None, relation_types=None):
                     source = "database_no_relation"
                     no_relation_count += 1
                     no_relation_pairs.append((h, lemma, "database"))
-                    print(f"✗ Base: {h} → {lemma} (entrée trouvée mais aucune relation)")
+                    print(f"✗ Base: {h} → {lemma} (entrée trouvée mais aucune relation) \n")
                     best_relation = ""
                     best_relation_w = ""
             else:
                 # Si la paire n'existe pas dans la base, interroger l'API JdM
-                print(f"? Paire non trouvée dans la base: {h} → {lemma}. Interrogation de l'API JdM...")
+                print(f"? Paire non trouvée dans la base: {h} → {lemma}. Interrogation de l'API JdM... \n")
 
                 # Initialiser new_relation et new_relation_w comme vides pour les données JdM
                 new_relation = ""
@@ -467,9 +472,9 @@ def process_text(text, model=None, relation_types=None):
                     no_relation_count += 1
                     no_relation_pairs.append((h, lemma, "jdm"))
                     if not jdm_relations:
-                        print(f"✗ JdM: {h} → {lemma} (aucune relation trouvée)")
+                        print(f"✗ JdM: {h} → {lemma} (aucune relation trouvée) \n")
                     else:
-                        print(f"✗ JdM: {h} → {lemma} (relations trouvées mais aucun type de relation valide)")
+                        print(f"✗ JdM: {h} → {lemma} (relations trouvées mais aucun type de relation valide) \n")
 
             # Ajouter aux résultats qu'il y ait des relations ou non
             pair_info = {
@@ -505,7 +510,7 @@ def process_text(text, model=None, relation_types=None):
     print(f"Relations trouvées dans la base de données: {db_found_count}")
     print(f"Relations trouvées dans JdM: {jdm_found_count}")
     print(f"Paires sans relation: {no_relation_count}")
-    print(f"Taux de succès global: {((db_found_count + jdm_found_count) / len(unique_pairs) * 100):.1f}%")
+    print(f"Taux de succès global: {((db_found_count + jdm_found_count) / len(unique_pairs) * 100):.1f}%") if len(unique_pairs) > 0 else print("Aucune paire unique trouvée.")
 
     # Affichage détaillé optionnel des paires sans relation (limité pour éviter le spam)
     if no_relation_pairs and len(no_relation_pairs) <= 20:
@@ -619,7 +624,7 @@ def main():
 
                 })
 
-        print(f"\nRelations sauvegardées dans {output_file}")
+        #print(f"\nRelations sauvegardées dans {output_file}")
 
     # Afficher les résultats
     if results:
@@ -632,7 +637,7 @@ def main():
         jdm_relations = [p for p in pairs_with_relations if p.get('source') == 'jdm']
 
         print(f"  - Relations de la base de données: {len(db_relations)}")
-        print(f"  - Relations de JdM: {len(jdm_relations)}")
+        print(f"  - Relations de JdM: {len(jdm_relations)} \n")
 
         # Afficher seulement la meilleure relation pour chaque paire
         for i, pair in enumerate(pairs_with_relations):
