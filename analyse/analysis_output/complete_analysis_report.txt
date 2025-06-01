@@ -1,15 +1,15 @@
 ================================================================================
 RAPPORT COMPLET - ANALYSE DES RELATIONS SÉMANTIQUES
 ================================================================================
-Date d'analyse: 2025-05-24 22:24:42
+Date d'analyse: 2025-05-26 01:25:12
 
 RÉSUMÉ EXÉCUTIF
 ----------------------------------------
-• Total des paires analysées: 221,131
-• Paires avec relations: 10,374 (4.7%)
+• Total des paires analysées: 56,999
+• Paires avec relations: 10,374 (18.2%)
 • Total des relations individuelles: 19,766
 • Types de relations uniques utilisés: 96
-• Nouvelles relations identifiées: 169,852 (76.8%)
+• Nouvelles relations identifiées: 169,852 (298.0%)
 
 
 ================================================================================
@@ -41,70 +41,12 @@ Type     Nom                  Label                     Count    %        Poids 
 
 
 ================================================================================
-SECTION 2: PAIRES DE MOTS LES PLUS FRÉQUENTES
-================================================================================
---------------------------------------------------------------------------------
-Paire                                    Freq   Relation             Poids  Sim   
---------------------------------------------------------------------------------
-soupe → crème                            1      r_associated         36.0   0.683 
-pomme → terre                            1      r_associated         39.0   0.550 
-beurre → chaud                           1      r_associated         21.0   0.673 
-eau → litre                              1      r_quantificateur     44.0   0.544 
-morceau → petit                          1      r_associated         27.0   0.542 
-cuire → pomme                            1      r_agent              30.0   0.771 
-cuillère → crème                         1      r_associated         26.0   0.628 
-ingrédient → sel                         1      r_hypo               27.0   0.700 
-sel → poivre                             1      r_associated         495.0  0.671 
-ingrédient → olive                       1      r_hypo               29.0   0.630 
-olive → noir                             1      r_associated         28.0   0.562 
-vider → poisson                          1      r_patient            100.0  0.554 
-huile → olive                            1      r_associated         441.0  0.578 
-feuille → basilic                        1      r_holo               27.0   0.583 
-basilic → haché                          1      r_carac              26.0   0.566 
-pain → complet                           1      r_carac              80.0   0.627 
-pain → fromage                           1      r_accomp             47.0   0.677 
-fromage → salade                         1      r_holo               25.0   0.703 
-salade → huile                           1      r_associated         57.0   0.678 
-pain → four                              1      r_lieu               118.0  0.710 
-mettre → plat                            1      r_patient            100.0  0.615 
-four → chaud                             1      r_carac              130.0  0.675 
-four → degré                             1      r_associated         38.0   0.615 
-four → thermostat                        1      r_has_part           165.0  0.637 
-couper → pain                            1      r_patient            100.0  0.654 
-tranche → fromage                        1      r_quantificateur-1   25.0   0.610 
-feuille → salade                         1      r_associated         30.0   0.616 
-vrai → sucre                             1      r_carac-1            30.0   0.648 
-sucre → roux                             1      r_carac              174.0  0.596 
-jus → orange                             1      r_associated         204.0  0.557 
-jus → jus                                1      r_lemma              55.0   0.530 
-jus → fruit                              1      r_associated         208.0  0.550 
-jus → citron                             1      r_associated         91.0   0.589 
-citron → vert                            1      r_associated         61.0   0.535 
-vert → cannelle                          1      r_wiki               10.0   0.560 
-cuillère → bois                          1      r_associated         41.0   0.591 
-zeste → citron                           1      r_has_magn           34.0   0.549 
-ajouter → sucre                          1      r_patient            31.0   0.656 
-sucre → canne                            1      r_associated         241.0  0.607 
-poireau → terre                          1      r_associated         58.0   0.606 
-peau → chorizo                           1      r_holo               65.0   0.582 
-sauce → fromage                          1      r_has_part           30.0   0.749 
-fromage → ingrédient                     1      r_isa                233.0  0.701 
-farine → beurre                          1      r_associated         3.0    0.718 
-crème → lait                             1      r_associated         138.0  0.625 
-saladier → cuillère                      1      r_associated         33.0   0.611 
-fondre → beurre                          1      r_agent              35.0   0.643 
-tout → mélanger                          1      r_patient-1          30.0   0.528 
-ajouter → lait                           1      r_patient            31.0   0.596 
-fleur → ingrédient                       1      r_isa                29.0   0.599 
-
-
-================================================================================
-SECTION 3: DISTRIBUTION ET STATISTIQUES GÉNÉRALES
+SECTION 2: DISTRIBUTION ET STATISTIQUES GÉNÉRALES
 ================================================================================
 --------------------------------------------------
-Total des paires analysées: 221,131
-Paires avec relations: 10,374 (4.69%)
-Paires sans relations: 210,757 (95.31%)
+Total des paires analysées: 56,999
+Paires avec relations: 10,374 (18.20%)
+Paires sans relations: 46,625 (81.80%)
 
 TYPES DE RELATIONS:
 Relations existantes (JdM): 10,374
@@ -112,7 +54,7 @@ Nouvelles relations: 169,852
 
 
 ================================================================================
-SECTION 4: ANALYSE DES NOUVELLES RELATIONS
+SECTION 3: ANALYSE DES NOUVELLES RELATIONS
 ================================================================================
 ----------------------------------------------------------------------
 Total des nouvelles relations: 169,852
@@ -134,7 +76,7 @@ r_isa                     2220     1.31%    40.596       3110.000
 
 
 ================================================================================
-SECTION 5: ANALYSES DÉTAILLÉES
+SECTION 4: ANALYSES DÉTAILLÉES
 ================================================================================
 STATISTIQUES DES POIDS DES RELATIONS:
   Poids moyen: 48.15
@@ -172,9 +114,9 @@ COMPARAISON: NOUVELLES VS EXISTANTES RELATIONS:
 ================================================================================
 CONCLUSION
 ================================================================================
-Couverture des relations: 4.7% - Qualité: Moyenne
+Couverture des relations: 18.2% - Qualité: Excellente
 Le corpus contient 96 types de relations différents.
 Relation dominante: r_associated (34.1% des relations)
 
-Analyse terminée le 2025-05-24 à 22:24:42
+Analyse terminée le 2025-05-26 à 01:25:12
 ================================================================================

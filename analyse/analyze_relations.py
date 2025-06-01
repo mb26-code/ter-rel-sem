@@ -165,90 +165,15 @@ class RelationsAnalyzer:
         
         return relation_stats
     
-    def analyze_frequent_pairs(self, top_n=50):
-        """Analyse les paires les plus fréquentes"""
-        print("\n" + "="*60)
-        print("ANALYSE DES PAIRES LES PLUS FRÉQUENTES")
-        print("="*60)
-        
-        # Compter les paires
-        pair_counts = Counter()
-        pair_relations = {}
-        
-        for _, row in self.df_with_relations.iterrows():
-            pair = (row['node1'], row['node2'])
-            pair_counts[pair] += 1
-            
-            # Stocker les relations pour cette paire
-            if pair not in pair_relations:
-                pair_relations[pair] = {
-                    'relations': [],
-                    'best_relation': row.get('best_relation', ''),
-                    'best_weight': row.get('best_relation_w', 0),
-                    'dep': row['dep'],
-                    'sim': row['sim']
-                }
-            
-            if row['relations_parsed']:
-                pair_relations[pair]['relations'].extend(row['relations_parsed'])
-        
-        # Prendre les top paires
-        top_pairs = pair_counts.most_common(top_n)
-        
-        # Créer le rapport
-        report = []
-        report.append(f"TOP {top_n} PAIRES LES PLUS FRÉQUENTES")
-        report.append("-" * 80)
-        report.append(f"{'Paire':<40} {'Freq':<6} {'Relation':<20} {'Poids':<6} {'Sim':<6}")
-        report.append("-" * 80)
-        
-        for (node1, node2), freq in top_pairs:
-            pair_info = pair_relations[(node1, node2)]
-            relation = pair_info['best_relation'] if pair_info['best_relation'] else 'Aucune'
-            weight = pair_info['best_weight'] if pair_info['best_weight'] else 0
-            sim = pair_info['sim']
-            
-            pair_str = f"{node1} → {node2}"
-            if len(pair_str) > 39:
-                pair_str = pair_str[:36] + "..."
-                
-            report.append(f"{pair_str:<40} {freq:<6} {relation[:19]:<20} {weight:<6.1f} {sim:<6.3f}")
-        
-        # Sauvegarder le rapport (sera inclus dans le rapport complet)
-        self.frequent_pairs_report = report
-        
-        print("\n".join(report))
-        
-        # Visualisation de la distribution des fréquences
-        plt.figure(figsize=(12, 6))
-        frequencies = [freq for _, freq in top_pairs[:20]]
-        labels = [f"{node1[:8]}→{node2[:8]}" for (node1, node2), _ in top_pairs[:20]]
-        
-        bars = plt.bar(range(len(frequencies)), frequencies, color=plt.cm.coolwarm(np.linspace(0, 1, len(frequencies))))
-        plt.xlabel('Paires de mots')
-        plt.ylabel('Fréquence')
-        plt.title('Top 20 Paires les Plus Fréquentes')
-        plt.xticks(range(len(labels)), labels, rotation=45, ha='right')
-        
-        # Ajouter les valeurs sur les barres
-        for i, bar in enumerate(bars):
-            height = bar.get_height()
-            plt.text(bar.get_x() + bar.get_width()/2., height + 0.01*max(frequencies),
-                    f'{int(height)}', ha='center', va='bottom')
-        
-        plt.tight_layout()
-        plt.savefig(self.output_dir / "frequent_pairs_distribution.png", dpi=300, bbox_inches='tight')
-        plt.close()
-        
-        return top_pairs
-    
     def analyze_distribution(self):
         """Analyse la distribution générale des données"""
         print("\n" + "="*60)
         print("ANALYSE DE LA DISTRIBUTION DES DONNÉES")
         print("="*60)
         
-        total_pairs = len(self.df)
+        # Only count pairs with non-null similarity
+        df_with_sim = self.df[self.df['sim'].notna()]
+        total_pairs = len(df_with_sim)
         pairs_with_relations = len(self.df_with_relations)
         pairs_without_relations = total_pairs - pairs_with_relations
         
@@ -471,7 +396,9 @@ class RelationsAnalyzer:
     
     def generate_complete_report(self):
         """Génère un rapport complet unique avec toutes les analyses"""
-        total_pairs = len(self.df)
+        # Only count pairs with non-null similarity
+        df_with_sim = self.df[self.df['sim'].notna()]
+        total_pairs = len(df_with_sim)
         pairs_with_relations = len(self.df_with_relations)
         total_relations = len(self.rel_df)
         unique_relation_types = len(self.rel_df['rel_type'].unique()) if len(self.rel_df) > 0 else 0
@@ -515,17 +442,9 @@ class RelationsAnalyzer:
         complete_report.append("")
         complete_report.append("")
         
-        # Section 2: Paires fréquentes
-        complete_report.append("="*80)
-        complete_report.append("SECTION 2: PAIRES DE MOTS LES PLUS FRÉQUENTES")
-        complete_report.append("="*80)
-        complete_report.extend(self.frequent_pairs_report[1:])  # Skip the title
-        complete_report.append("")
-        complete_report.append("")
-        
         # Section 3: Distribution
         complete_report.append("="*80)
-        complete_report.append("SECTION 3: DISTRIBUTION ET STATISTIQUES GÉNÉRALES")
+        complete_report.append("SECTION 2: DISTRIBUTION ET STATISTIQUES GÉNÉRALES")
         complete_report.append("="*80)
         complete_report.extend(self.distribution_report[1:])  # Skip the title
         complete_report.append("")
@@ -533,7 +452,7 @@ class RelationsAnalyzer:
         
         # Section 4: Nouvelles Relations
         complete_report.append("="*80)
-        complete_report.append("SECTION 4: ANALYSE DES NOUVELLES RELATIONS")
+        complete_report.append("SECTION 3: ANALYSE DES NOUVELLES RELATIONS")
         complete_report.append("="*80)
         if hasattr(self, 'new_relations_report'):
             complete_report.extend(self.new_relations_report[1:])  # Skip the title
@@ -544,7 +463,7 @@ class RelationsAnalyzer:
         
         # Section 5: Analyses supplémentaires
         complete_report.append("="*80)
-        complete_report.append("SECTION 5: ANALYSES DÉTAILLÉES")
+        complete_report.append("SECTION 4: ANALYSES DÉTAILLÉES")
         complete_report.append("="*80)
         
         # Analyse des relations par poids
@@ -654,7 +573,6 @@ class RelationsAnalyzer:
         
         # Analyses
         self.analyze_top_relations()
-        self.analyze_frequent_pairs()
         self.analyze_distribution()
         self.analyze_new_relations()
         
