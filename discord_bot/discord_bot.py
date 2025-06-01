@@ -210,11 +210,11 @@ async def executer_script_et_envoyer_csv(ctx, *, message: str):
 
     # Appel du script avec subprocess
     try:
-        await ctx.send("Lancement de l'analyse avec `ngo.py`...")
+        await ctx.send("Lancement de l'analyse avec `algo_bot.py`...")
 
         command = [
-            "python",
-            "ngo.py",
+            "python3",
+            "algo_bot.py",
             "--text", texte,
             "--output", output_path
         ]

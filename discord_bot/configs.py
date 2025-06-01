@@ -17,7 +17,7 @@ PATH_RELATIONS_TYPES = os.path.join(BASE_DIR, "relations_types.json")
 SPACY_MODEL = "fr_core_news_lg"
 
 # Word2Vec configuration
-WORD2VEC_MODEL_PATH = 'models/cc.fr.300.vec.gz'
+WORD2VEC_MODEL_PATH = 'cc.fr.300.vec.gz'
 LIMIT_WORD2VEC = 50000  # Limite pour éviter de charger trop de mots
 
 # Similarity threshold

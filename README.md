@@ -27,8 +27,18 @@ Projet réalisé dans le cadre des T.E.R. 2025 de Master 1 Informatique (parcour
 - Interface Discord interactive.
 
 
+Après avoir exécuté "git clone https://github.com/mb26-code/ter-rel-sem.git",
+
+### Fichier "./.env" à créer contenant:
+SUPABASE_URL=<lien vers projet Supabase>
+SUPABASE_KEY=<clef  Supabase>
+DISCORD_TOKEN=<token Discord>
+
+
 ### Prérequis
 
 - Python 3.9 ou supérieur
+- Exécuter "pip install -r ./requirements.txt"
 - Modèle spaCy français : `fr_core_news_lg`
-- Modèle FastText français : `cc.fr.300.vec.gz`
+- Modèle FastText français : `cc.fr.300.vec.gz` à placer dans le directory "discord_bot"
+(curl -L -C - "https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.fr.300.vec.gz" -o "cc.fr.300.vec.gz”)
