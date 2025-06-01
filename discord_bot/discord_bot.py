@@ -1,5 +1,3 @@
-
-
 import discord
 from discord.ext import commands
 import requests
@@ -56,7 +54,6 @@ async def analyse_url(ctx, *, url: str):
             chunk = filtered_log[i:i+max_length]
             await ctx.send(f"```{chunk}```")
 
-        print("----------------- LE FICHIER CSV DES RESULTATS --------------- \n")
 
         if os.path.exists(output_path):
             await ctx.send("Voici le fichier CSV généré :", file=discord.File(output_path))
@@ -99,7 +96,6 @@ async def analyse_url(ctx, *, texte: str):
             chunk = filtered_log[i:i+max_length]
             await ctx.send(f"```{chunk}```")
 
-        print("----------------- LE FICHIER CSV DES RESULTATS --------------- \n")
 
         if os.path.exists(output_path):
             await ctx.send("Voici le fichier CSV généré :", file=discord.File(output_path))
