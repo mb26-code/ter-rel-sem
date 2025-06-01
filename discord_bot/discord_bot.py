@@ -6,7 +6,7 @@ import requests
 import io
 import contextlib
 from dotenv import load_dotenv
-from discord_bot.algo_bot import process_text, load_word2vec_model, load_relation_types
+from algo_bot import process_text, load_word2vec_model, load_relation_types
 import os
 
 load_dotenv()
@@ -214,7 +214,7 @@ async def executer_script_et_envoyer_csv(ctx, *, message: str):
 
         command = [
             "python3",
-            "algo_bot.py",
+            "discord_bot/algo_bot.py",
             "--text", texte,
             "--output", output_path
         ]
