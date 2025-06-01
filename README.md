@@ -30,9 +30,9 @@ Projet réalisé dans le cadre des T.E.R. 2025 de Master 1 Informatique (parcour
 Après avoir exécuté "git clone https://github.com/mb26-code/ter-rel-sem.git",
 
 ### Fichier "./.env" à créer contenant:
-SUPABASE_URL=<lien vers projet Supabase>
-SUPABASE_KEY=<clef  Supabase>
-DISCORD_TOKEN=<token Discord>
+SUPABASE_URL= (lien vers projet Supabase)
+SUPABASE_KEY= (clef  Supabase)
+DISCORD_TOKEN= (token Discord bot)
 
 
 ### Prérequis
