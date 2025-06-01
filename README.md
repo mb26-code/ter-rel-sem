@@ -41,5 +41,5 @@ DISCORD_TOKEN= <votre token Discord bot>
 - Python 3.9 ou supérieur
 - Exécuter "pip install -r ./requirements.txt"
 - Modèle spaCy français : `fr_core_news_lg`
-- Modèle FastText français : `cc.fr.300.vec.gz`, à placer dans le composant `discord_bot` 
-(curl -L -C - "https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.fr.300.vec.gz" -o "cc.fr.300.vec.gz”)
+- Modèle FastText français : `cc.fr.300.vec.gz`, à placer dans le composant "discord_bot" 
+(`curl -L -C - "https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.fr.300.vec.gz" -o "cc.fr.300.vec.gz”`)
